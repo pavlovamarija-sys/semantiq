@@ -1,0 +1,41 @@
+node_modules/
+.next/
+out/
+.vercel/
+
+# Local environment files and credentials. Keep only the redacted example.
+.env
+.env.*
+!.env.example
+
+# Supabase CLI state and temporary files.
+.supabase/
+supabase/.temp/
+.tmp/
+.tmp-*
+.tmp-*/
+
+# Logs, caches and local tool state.
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.cache/
+.turbo/
+coverage/
+
+# Local secrets and credential material.
+**/.env*
+!**/.env.example
+**/.venv/
+**/__pycache__/
+**/.pytest_cache/
+*.pyc
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+service-account*.json
+secrets*.json

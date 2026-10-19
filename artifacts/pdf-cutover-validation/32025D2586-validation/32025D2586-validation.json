@@ -1,0 +1,104 @@
+{
+  "celex": "32025D2586",
+  "sourcePdfSha256": "a189c5b49a8fef33e3bc873d3d03491213ee05187a3eb1813110a677e5d4f69d",
+  "sourcePdfBytes": 890782,
+  "sourcePages": 3,
+  "sourceSpans": 136,
+  "excludedPageFurnitureSpans": 16,
+  "normalizedSourceTokens": 833,
+  "coverage": {
+    "status": "PASS",
+    "tokens": 833,
+    "sourceSpans": 136,
+    "modelSpans": 120,
+    "excludedSpans": 16,
+    "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+  },
+  "docxTextIntegrity": {
+    "status": "PASS",
+    "tokens": 833,
+    "sha256": "9752a80a4a9b7df2f099d5c36ac9bb96c94e59f7c2c477c19a2a1aa6b619f0b8",
+    "footnotes": 1
+  },
+  "docxSha256": "e8b4fa33eef7761fdbb957da5e382e2c8d34296516adde6399c2315f766a5a56",
+  "docxBytes": 39662,
+  "docxStructure": {
+    "nonEmptyDocxParagraphs": 49,
+    "nonEmptyBodyParagraphs": 25,
+    "tables": [
+      {
+        "index": 0,
+        "rows": 5,
+        "columns": 5,
+        "cells": 25,
+        "containsArticle1": false,
+        "containsAnnexI": false
+      }
+    ],
+    "article1InTableCell": false,
+    "annexIInTableCell": false
+  },
+  "model": {
+    "nodes": 188,
+    "headings": 8,
+    "headingTexts": [
+      "COUNCIL DECISION (CFSP) 2025/2586",
+      "of 15 December 2025",
+      "amending Decision (CFSP) 2017/2074 concerning restrictive measures in view of the situation in",
+      "Venezuela",
+      "Whereas:",
+      "Article 1",
+      "Article 2",
+      "ANNEX"
+    ],
+    "footnotes": 1,
+    "pageBreaks": 2,
+    "physicalTables": 2,
+    "logicalTables": 1,
+    "rows": 6,
+    "cells": 30,
+    "tables": [
+      {
+        "id": "table-4cf60a5abe471fb7",
+        "logicalTableId": "logicaltable-3c18f6535efa372a",
+        "pages": [
+          2
+        ],
+        "rows": 3,
+        "columnsPerRow": [
+          5,
+          5,
+          5
+        ],
+        "continuedFrom": null,
+        "continuedTo": null
+      },
+      {
+        "id": "table-3c2ae13e030cdff3",
+        "logicalTableId": "logicaltable-3c18f6535efa372a",
+        "pages": [
+          3
+        ],
+        "rows": 3,
+        "columnsPerRow": [
+          5,
+          5,
+          5
+        ],
+        "continuedFrom": null,
+        "continuedTo": null
+      }
+    ]
+  },
+  "decisionCounts": {
+    "page-furniture:excluded": 14,
+    "layout:recorded": 3,
+    "classification:recorded": 64,
+    "paragraph-boundary:resolved-by-recital-binding": 1,
+    "merge:recorded": 4,
+    "split:recorded": 2,
+    "cross-page-table:recorded": 2,
+    "recital-binding:MERGE": 4,
+    "footnote-link:linked": 1
+  }
+}

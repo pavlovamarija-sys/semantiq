@@ -1,0 +1,32 @@
+{
+  "generationId": "b2d41b63-8b63-4b7a-8fa3-df65e5ee64d3",
+  "requestKey": "phase6c7-controlled-32006l0114-v3-inline-code-preflight",
+  "status": "failed",
+  "validationStatus": null,
+  "failureStage": "docx-reconstruction-before-persistence",
+  "missingOrdinals": [158, 159, 160],
+  "missingTuIds": [
+    "tu-1d6b6715f26ec06e48647069",
+    "tu-7bf505c2a900f9a86b97de59",
+    "tu-edbd0025cb74eda0d259f0f4"
+  ],
+  "providerCallsCompleted": 27,
+  "tokenUsagePersisted": false,
+  "persistedTranslations": 0,
+  "outputArtifacts": 0,
+  "rootCause": "DOCX paragraph extraction discarded w:br between text runs, so canonical protected line-break citations could not match after normalization.",
+  "fix": "Preserve w:br as newline in paragraphText.",
+  "offlineValidation": {
+    "affectedCitations": "PASS",
+    "syntheticCanonicalTus": 265,
+    "syntheticMappedTus": 265,
+    "orderedIdentityCoverage": "PASS",
+    "sdlxliffProtectedCodeTests": "PASS",
+    "paidCallsExecutedForValidation": false
+  },
+  "recoverability": {
+    "completedTranslationsRecoverableFromDurableRows": false,
+    "reason": "No canonical_mk1_runs, batches, translations, or output artifacts were persisted.",
+    "inference": "The 27 provider calls completed before rendering based on execution/failure stage; provider responses were not durably retained."
+  }
+}

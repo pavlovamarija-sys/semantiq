@@ -1,0 +1,17 @@
+{
+  "beforeRepair": {
+    "normalCelexImportExecutedShadowIntegrationModule": false,
+    "featureFlagCheckReached": false,
+    "shadowEndpointCalled": false,
+    "divergence": "importCelexDocuments called analyzePdf and persisted the PDF; runShadowReconstruction existed only in transformPdfToWorkingDocument, a separate UI action",
+    "integrationAttachedToInactiveForImportPath": true
+  },
+  "afterRepair": {
+    "normalCelexImportExecutesShadowIntegrationModule": true,
+    "featureFlagCheckReachedAfterSuccessfulVersionPersistence": true,
+    "flagOnCalls": "POST /shadow/reconstruct",
+    "primaryAndCorrigendumBranchesCovered": true,
+    "activeImportFailureCanBeRescuedByShadow": false,
+    "shadowResultAuthoritative": false
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "Node": {"id": "direct", "type": "direct", "exact_text": "direct", "source": "direct SourceRef list", "style": "direct StyleEvidence", "classification": "direct Classification", "children": "direct ordered mutable list", "attributes": "direct"},
+  "SourceRef": {"page": "direct", "block_index": "direct", "line_ids": "direct", "span_ids": "direct", "boxes": "direct Box list", "reading_order_start": "direct", "reading_order_end": "direct"},
+  "Fragment": {"source_geometry": "direct", "text": "direct", "font/style": "direct", "span_records": "direct", "reading_order": "direct"},
+  "Decision": {"reason": "direct", "evidence": "direct", "confidence": "direct", "outcome": "direct", "ambiguity_status": "direct", "source": "direct"},
+  "intentionallyObsolete": [],
+  "silentlyDroppedFields": []
+}

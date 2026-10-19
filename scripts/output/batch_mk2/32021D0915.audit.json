@@ -1,0 +1,2733 @@
+{
+  "celex": "32021D0915",
+  "dry_run": true,
+  "source_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0915\\TMX_MK1\\32021D0915_TM.tmx"
+  ],
+  "mk2_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0915\\MK2\\32021D0915_МК2.docx"
+  ],
+  "original_tmx_sha256": "3bd395fe5b97a4a6aa7865c7582f062e51bf7f8e3ada9fd89f60517193035fa3",
+  "mk2_sha256": "86f46a508c84b06b2058506f85bb431b201e26e28d3d920154f27f05839de9ce",
+  "results": [
+    {
+      "index": 1,
+      "en": "COMMISSION IMPLEMENTING DECISION (EU) 2021/915",
+      "mk1": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/915 НА КОМИСИЈАТА",
+      "status": "HIGH",
+      "target": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/915 НА КОМИСИЈАТА",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 4 June 2021",
+      "mk1": "oд 4 јуни 2021 година",
+      "status": "HIGH",
+      "target": "oд 4 јуни 2021 годин",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 3,
+      "en": "on standard contractual clauses between controllers and processors under Article 28(7) of Regulation (EU) 2016/679 of the European Parliament and of the Council and Article 29(7) of Regulation (EU) 2018/1725 of the European Parliament and of the Council",
+      "mk1": "за стандардните договорни клаузули помеѓу контролорите и преработувачите согласно со член 28(7) од Регулативата (ЕУ) 2016/679 на Европскиот парламент и на Советот и член 29(7) од Регулативата (ЕУ) 2018/1725 на Европскиот парламент и на Советот",
+      "status": "HIGH",
+      "target": "а за стандардните договорни клаузули помеѓу контролорите и преработувачите согласно со член 28(7) од Регулативата (ЕУ) 2016/679 на Европскиот парламент и на Советот и член 29(7) од Регулативата (ЕУ) 2018/1725 на Европскиот парламент и на Советот",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 4 June 2021",
+      "mk1": "oд 4 јуни 2021 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 3,
+      "en": "on standard contractual clauses between controllers and processors under Article 28(7) of Regulation (EU) 2016/679 of the European Parliament and of the Council and Article 29(7) of Regulation (EU) 2018/1725 of the European Parliament and of the Council",
+      "mk1": "за стандардните договорни клаузули помеѓу контролорите и преработувачите согласно со член 28(7) од Регулативата (ЕУ) 2016/679 на Европскиот парламент и на Советот и член 29(7) од Регулативата (ЕУ) 2018/1725 на Европскиот парламент и на Советот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 4,
+      "en": "(Text with EEA relevance)",
+      "mk1": "(Текст со важност за ЕЕО)",
+      "status": "UNMATCHED",
+      "target": "имајќи го предвид Договорот за фу",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската унија,",
+      "status": "UNMATCHED",
+      "target": "нкционирање на Европската унијаУнија, имајќи ја предвид Регулативата (ЕУ) 2016/679 на",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (GDPR) ), and in particular Article 28(7) thereof,",
+      "mk1": "имајќи ја предвид Регулативата (ЕУ) 2016/679 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физичките лица во однос на обработката на личните податоци и за слободното движење на таквите податоци и за укинување на Директивата 95/ 46/ЕЗ (ГДПР)), а особено член 28(7) од истата,",
+      "status": "REVIEW",
+      "target": "Европскиот парламент и на Советот од 27 април 2016 година за заштита на физичките лица во однос на обработката на личните податоци и за слободното движење на таквите податоци и за укинување на Директивата 95/ 46/ЕЗ (ГДПР) (HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32021D0915&qid=1664482051923\" \\l \"ntr1-L_2021199EN.01001801-E0001\"), а особено член 28(7) од истата,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската унија,",
+      "status": "UNMATCHED",
+      "target": "имајќи ја предвид Регулативата (ЕУ) 2018/1725 на Европскиот парламент и на Советот од 23 октомври 2018 г",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (GDPR) ), and in particular Article 28(7) thereof,",
+      "mk1": "имајќи ја предвид Регулативата (ЕУ) 2016/679 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физичките лица во однос на обработката на личните податоци и за слободното движење на таквите податоци и за укинување на Директивата 95/ 46/ЕЗ (ГДПР)), а особено член 28(7) од истата,",
+      "status": "UNMATCHED",
+      "target": "одина за заштита на физичките лица во однос на обработката на личните податоци од страна на институциите, телата, канцелариите и агенциите на Унијата и за слободното движење на таквите податоци и за укинување на Регулативата (ЕЗ) N 45/2001 и Одлуката бр. 1247/2002/EЗ (Претставници за заштита на податоци на ЕУ) HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021D0915&qid=1664482051923\" \\l \"ntr2-L_2021199EN.01001801-E0002\"(), а особено член 29(7) од истата,",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (GDPR) ), and in particular Article 28(7) thereof,",
+      "mk1": "имајќи ја предвид Регулативата (ЕУ) 2016/679 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физичките лица во однос на обработката на личните податоци и за слободното движење на таквите податоци и за укинување на Директивата 95/ 46/ЕЗ (ГДПР)), а особено член 28(7) од истата,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 7,
+      "en": "(1) OJ L 119, 4.5.2016, p. 1.",
+      "mk1": "(1) Сл. весник L 119, 4.5.2016 година, стр. 1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 8,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:119:TOC",
+      "mk1": "europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:119:TOC",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 9,
+      "en": "(2) OJ L 295, 21.11.2018, p. 39.",
+      "mk1": "(2) Сл. весник L 295, 21.11.2018 година, стр. 39.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 10,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021D0915&qid=1664482051923",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021D0915&qid=1664482051923",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 11,
+      "en": "ntc2-L_2021199EN.01001801-E0002",
+      "mk1": "ntc2-L_2021199EN.01001801-E0002",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 12,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:295:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:295:TOC",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 13,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 14,
+      "en": "(1)\tThe concepts of controller and processor play a crucial role in the application of Regulation (EU) 2016/679 and of Regulation (EU) 2018/1725.",
+      "mk1": "(1)\tКонцептите на контролор и преработувач играат клучна улога во примената на Регулативата (ЕУ) 2016/679 и на Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 15,
+      "en": "The controller is the natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data.",
+      "mk1": "Контролорот е физичко или правно лице, јавно тело на власта, агенција или друго тело кое самo или заедно со други ги утврдува целите и начините на обработка на личните податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 16,
+      "en": "For the purpose of Regulation (EU) 2018/1725, a controller means the Union institution or body or the directorate-general or any other organisational entity which, alone or jointly with others, determines the purposes and means of the processing of personal data.",
+      "mk1": "За целите на Регулативата (ЕУ) 2018/1725, контролор значи институција или тело на Унијата или генерален директорат или кој било друг организациски субјект кој сам или заедно со други ги одредува целите и средствата за обработка на личните податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 17,
+      "en": "Where the purposes and means of such processing are determined by a specific Union act, the controller or the specific criteria for its nomination can be provided for by the Union.",
+      "mk1": "Koga целите и средствата за таква обработка се утврдени со посебен акт на Унијата, контролорот или специфичните критериуми за негово именување може да ги обезбеди Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 18,
+      "en": "A processor is the natural or legal person, public authority, agency or other body, which processes personal data on the controller’s behalf.",
+      "mk1": "Преработувач е физичко или правно лице, јавно тело на власта, агенција или друго тело кое обработува лични податоци во име на контролорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 19,
+      "en": "(2)\tThe same set of standard contractual clauses should apply in respect of the relationship between data controllers and data processors subject to Regulation (EU) 2016/679 and also when they are subject to Regulation (EU) 2018/1725.",
+      "mk1": "(2)\tИстата збирка на стандардни договорни клаузули треба да се применува во односот помеѓу контролорите на податоци и преработувачите на податоци кои се предмет на Регулативата (ЕУ) 2016/679, а исто така и кога тие се предмет на Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 20,
+      "en": "This is because, in order to have a coherent approach to personal data protection throughout the Union and the free movement of personal data in the Union, the data protection rules in Regulation (EU) 2016/679, applicable to the public sector in the Member States, and the data protection rules in Regulation (EU) 2018/1725, applicable to Union institutions, bodies, offices and agencies, have, as far as possible, been aligned with each other.",
+      "mk1": "Тоа е така затоа што, со цел да се има доследен пристап кон заштитата на личните податоци низ Унијата и слободното движење на личните податоци во Унијата, правилата за заштита на податоците во Регулативата (ЕУ) 2016/679, применливи за јавниот сектор во земјите членки и правилата за заштита на податоците во Регулативата (ЕУ) 2018/1725, што се применуваат во институциите, телата, канцелариите и агенциите на Унијата, се усогласени, колку што е можно, едни со други.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 21,
+      "en": "(3)\tTo ensure compliance with the requirements of Regulations (EU) 2016/679 and (EU) 2018/1725, when entrusting a processor with processing activities, the controller should use only processors providing sufficient guarantees, in particular in terms of expert knowledge, reliability and resources, to implement technical and organizational measures which meet the requirements of Regulation (EU) 2016/679 and Regulation (EU) 2018/1725, including for the security of processing.",
+      "mk1": "(3)\tЗа да се обезбеди усогласеност со барањата на Регулативите (ЕУ) 2016/679 и (ЕУ) 2018/1725, кога му се доверуваат на преработувачот активности за преравотување кои обезбедуваат доволно гаранции, особено во однос на стручно знаење, доверливост и ресурси, за спроведување на технички и организациски мерки кои ги исполнуваат барањата на Регулативата (ЕУ) 2016/679 и Регулативата (ЕУ) 2018/1725, вклучително и за безбедност на обработката.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 22,
+      "en": "(4)\tThe processing by a processor is to be governed by a contract or other legal act under Union or Member State law, that is binding on the processor with regard to the controller and that sets out the elements listed in Article 28(3) and (4) of Regulation (EU) 2016/679 or Article 29(3) and (4) of Regulation (EU) 2018/1725.",
+      "mk1": "(4)\tОбработката од страна на преработувачот треба да биде регулирана со договор или друг правен акт според правото на Унијата или земјата членка, кој е обврзувачки за преработувачот во однос на контролорот и кој ги утврдува елементите наведени во член 28(3) и (4) од Регулативата (ЕУ) 2016/679 или член 29(3) и (4) од Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 23,
+      "en": "That contract or act shall be in writing, including in electronic form.",
+      "mk1": "Овој договор или акт ќе биде во писмена форма, вклучувајќи и електронска форма.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 24,
+      "en": "(5)\tIn accordance with Article 28(6) of Regulation (EU) 2016/679 and Article 29(6) of Regulation (EU) 2018/1725, the controller and processor may choose to negotiate an individual contract containing the compulsory elements set out in Article 28(3) and (4) of Regulation (EU) 2016/679 or Article 29(3) and (4) of Regulation (EU) 2018/1725, respectively, or to use, in whole or in part, standard contractual clauses adopted by the Commission pursuant to Article 28(7) of Regulation (EU) 2016/679 and Article 29(7)of Regulation (EU) 2018/1725.",
+      "mk1": "(5)\tВо согласност со член 28(6) од Регулативата (ЕУ) 2016/679 и член 29(6) од Регулативата (ЕУ) 2018/1725, контролорот и преработувачот можат да изберат да преговараат за поединечен договор кој ги содржи задолжителните елементи поставени во член 28(3) и (4) од Регулативата (ЕУ) 2016/679 или член 29(3) и (4) од Регулативата (ЕУ) 2018/1725, соодветно, или да се користистат целосно или делумно стандардни договорни клаузули усвоени од Комисијата во согласност со член 28(7) од Регулативата (ЕУ) 2016/679 и член 29(7) од Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 25,
+      "en": "(6)\tThe controller and processor should be free to include the standard contractual clauses in this Decision in a broader contract, and to add other clauses or additional safeguards provided that they do not directly or indirectly contradict the standard contractual clauses or prejudice the fundamental rights or freedoms of data subjects.",
+      "mk1": "(6)\tКонтролорот и преработувачот треба да имаат слобода да ги вклучат стандардните договорни клаузули во оваа одлука во поширок договор и да додадат други клаузули или дополнителни заштитни мерки под услов тие директно или индиректно да не се во спротивност со стандардните договорни клаузули или да не ги нарушат основните права или слободи за субјекти на лични податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 26,
+      "en": "Use of the standard contractual clauses is notwithstanding any contractual obligations of the controller and/or processor to ensure respect for applicable privileges and immunities.",
+      "mk1": "Употребата на стандардните договорни клаузули се почитува, без оглед на договорните обврски на контролорот и/или преработувачот во врска со бенефициите и имунитетите кои се применуваат.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 27,
+      "en": "(7)\tThe standard contractual clauses should encompass both substantive and procedural rules.",
+      "mk1": "(7)\tСтандардните договорни клаузули треба да ги опфаќаат и суштинските и процедуралните правила.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 28,
+      "en": "In line with Article 28(3) of Regulation (EU) 2016/679 and Article 29(3) of Regulation (EU) 2018/1725, the standard contractual clauses should also require the controller and processor to set out the subject matter and duration of the processing, its nature and purpose, the type of personal data concerned, the categories of data subjects and the obligations and rights of the controller.",
+      "mk1": "Во согласност со член 28(3) од Регулативата (ЕУ) 2016/679 и член 29(3) од Регулативата (ЕУ) 2018/1725, стандардните договорни клаузули исто така треба да бараат од контролорот и преработувачот да го постават предметот и времетраењето за обработката, неговата природа и цел, видот на односните лични податоци, категориите на субјекти на податоците и обврските и правата на контролорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 29,
+      "en": "(8)\tPursuant to Article 28(3) of Regulation (EU) 2016/679 and pursuant to Article 29(3) Regulation (EU) 2018/1725, the processor has to inform the controller immediately if, in its opinion, an instruction of the controller infringes Regulation (EU) 2016/679 or Regulation (EU) 2018/1725, or other Union or Member State data protection provisions.",
+      "mk1": "(8)\tСогласно член 28(3) од Регулативата (ЕУ) 2016/679 и согласно член 29(3) Регулатива (ЕУ) 2018/1725, преработувачот треба веднаш да го информира контролорот доколку, според негово мислење, инструкцијата од контролорот ја прекршува Регулативата (ЕУ) 2016/679 или Регулативата (ЕУ) 2018/1725, или другите одредби за заштита на податоците на Унијата или земјите членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 30,
+      "en": "(9)\tIf a processor enlists another processor to carry out specific activities, the specific requirements referred to in Article 28(2) and (4) of Regulation (EU) 2016/679 or Article 29(2) and (4) of Regulation (EU) 2018/1725 should apply.",
+      "mk1": "(9)\tДоколку преработувачот ангажира друг преработувач да врши специфични активности, треба да се применуваат специфичните барања наведени во член 28(2) и (4) од Регулативата (ЕУ) 2016/679 или член 29(2) и (4) од Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 31,
+      "en": "In particular, a prior specific or general written authorisation is required.",
+      "mk1": "Особено, потребно е претходно специфично или општо писмено овластување.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 32,
+      "en": "Whether this prior authorisation is specific or general, the first processor should keep a list of other processors up to date.",
+      "mk1": "Без разлика дали ова претходно овластување е специфично или општо, првиот преработувач треба предовно да ажурира списокот на други преработувачи.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 33,
+      "en": "(10)\tTo fulfil the requirements of Article 46(1) of Regulation (EU) 2016/679, the Commission adopted standard contractual clauses pursuant to Article 46(2)(c) of Regulation (EU) 2016/679.",
+      "mk1": "(10)\tЗа исполнување на барањата од член 46(1) од Регулативата (ЕУ) 2016/679, Комисијата усвои стандардни договорни клаузули во согласност со член 46(2)(в) од Регулативата (ЕУ) 2016/679.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 34,
+      "en": "Those clauses also fulfil the requirements of Article 28(3) and (4) of Regulation (EU) 2016/679 for data transfers from controllers subject to Regulation (EU) 2016/679 to processors outside the territorial scope of application of that Regulation or from processors subject to Regulation (EU) 2016/679 to sub-processors outside the territorial scope of that Regulation.",
+      "mk1": "Тие клаузули, исто така, ги исполнуваат барањата од член 28(3) и (4) од Регулативата (ЕУ) 2016/679 за пренос на податоци од контролорите кои се предмет на Регулативата (ЕУ) 2016/679 до преработувачите надвор од територијалниот опсег на примена на таа Регулатива или од преработувачите кои подлежат на Регулативата (ЕУ) 2016/679 до помошник-преработувачите надвор од територијалниот опфат на таа Регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 35,
+      "en": "These standard contractual clauses cannot be used as standard contractual clauses for the purpose of Chapter V of Regulation (EU) 2016/679.",
+      "mk1": "Овие стандардни договорни клаузули не можат да се користат како стандардни договорни клаузули за целите на Поглавје V од Регулативата (ЕУ) 2016/679.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 36,
+      "en": "(11)\tThird parties should be able to become a party to the standard contractual clauses throughout the life cycle of the contract.",
+      "mk1": "Трети лица можат да станат странка на стандардните договорни клаузули во текот на животниот циклус на договорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 37,
+      "en": "(12)\tThe operation of the standard contractual clauses should be evaluated, as a sub-part of the periodic evaluation of Regulation (EU) 2016/679 referred to in Article 97 of that Regulation.",
+      "mk1": "(12)\tРаботењето на стандардните договорни клаузули треба да се евалуира како поддел од периодичната евалуација на Регулативата (ЕУ) 2016/679 наведена во член 97 од таа Регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 38,
+      "en": "(13)\tThe European Data Protection Supervisor and the European Data Protection Board were consulted in accordance with Article 42(1) and (2) of Regulation (EU) 2018/1725 and delivered a joint opinion on 14 January 2021 (), which has been taken into consideration in the preparation of this Decision.",
+      "mk1": "(13)\tЕвропски супервизор за заштита на податоците  и Европски одбор за заштита на податоците беа консултирани во согласност со член 42(1) и (2) од Регулативата (ЕУ) 2018/1725 и дадоа заедничко мислење на 14 јануари 2021 година (), кое е земено предвид при подготовката на оваа одлука.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 39,
+      "en": "()DPB - EDPS Joint Opinion 1/2021 on the European Commission’s Implementing Decision on standard contractual clauses between controllers and processors for the matters referred to in Article 28(7) of Regulation (EU) 2016/679 and Article 29(7) of Regulation (EU) 2018/1725.",
+      "mk1": "() Заедничко мислење 1/2021 на ЕОЗП (Европскиот одбор за заштита на податоците) - ЕСЗП (Европски супервизор за заштита на податоците ) за Одлуката на Европската комисија за спроведување на стандардните договорни клаузули помеѓу контролорите и преработувачите за проблематиките наведени во член 28(7) од Регулативата (ЕУ) 2016/679 и член 29(7) од Регулативата ( ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 40,
+      "en": "(14)\tThe measures provided for in this Decision accord with the opinion of the Committee established under Article 93 of Regulation (EU) 2016/679 and Article 96(2) of Regulation (EU) 2018/1725.",
+      "mk1": "(14)\tМерките предвидени во оваа одлука се во согласност со мислењето на Комитетот формиран според член 93 од Регулативата (ЕУ) 2016/679 и член 96(2) од Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 41,
+      "en": "HAS ADOPTED THIS DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 42,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 43,
+      "en": "The standard contractual clauses as set out in the Annex fulfil the requirements for contracts between controllers and processors in Article 28(3) and (4) of Regulation (EU) 2016/679 and of Article 29(3) and (4) of Regulation (EU) 2018/1725.",
+      "mk1": "Стандардните договорни клаузули како што се наведени во Анексот ги исполнуваат барањата за договори помеѓу контролорите и преработувачите во член 28(3) и (4) од Регулативата (ЕУ) 2016/679 и член 29(3) и (4) од Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 44,
+      "en": "The standard contractual clauses as set out in the Annex may be used in contracts between a controller and a processor who processes personal data on behalf of the controller.",
+      "mk1": "Стандардните договорни клаузули како што се наведени во Анексот може да се користат во договорите помеѓу контролорот и преработувачот кој обработува лични податоци во име на контролорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 45,
+      "en": "The Commission shall evaluate the practical application of the standard contractual clauses set out in the Annex on the basis of all available information as part of the periodic evaluation provided for in Article 97 of Regulation (EU) 2016/679.",
+      "mk1": "Комисијата ја евалуира практичната примена на стандардните договорни клаузули наведени во Анексот врз основа на сите достапни информации како дел од периодичната евалуација предвидена во член 97 од Регулативата (ЕУ) 2016/679.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 46,
+      "en": "This Decision shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на дваесеттиот ден од нејзиното објавување во Службениот весник на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 47,
+      "en": "Done at Brussels, 4 June 2021.",
+      "mk1": "Брисел, 4 јуни 2021 година.",
+      "status": "UNMATCHED",
+      "target": "За комисијата",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 48,
+      "en": "For the Commission",
+      "mk1": "За комисијата",
+      "status": "UNMATCHED",
+      "target": "Претс",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 49,
+      "en": "The President",
+      "mk1": "Претседател",
+      "status": "REVIEW",
+      "target": "едател",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 48,
+      "en": "For the Commission",
+      "mk1": "За комисијата",
+      "status": "MANUAL_BOUNDARY",
+      "target": "Урсула",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 49,
+      "en": "The President",
+      "mk1": "Претседател",
+      "status": "MANUAL_BOUNDARY",
+      "target": "ФОН",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 50,
+      "en": "Ursula VON DER LEYEN",
+      "mk1": "Урсула ФОН ДЕР ЛАЈЕН",
+      "status": "MANUAL_BOUNDARY",
+      "target": "ДЕР ЛАЈЕН",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 49,
+      "en": "The President",
+      "mk1": "Претседател",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 50,
+      "en": "Ursula VON DER LEYEN",
+      "mk1": "Урсула ФОН ДЕР ЛАЈЕН",
+      "status": "MANUAL_BOUNDARY",
+      "target": "Стандардни",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 51,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "status": "MANUAL_BOUNDARY",
+      "target": "дог",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 52,
+      "en": "Standard contractual clauses",
+      "mk1": "Стандардни договорни клаузули",
+      "status": "MANUAL_BOUNDARY",
+      "target": "оворни клаузули",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 51,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 52,
+      "en": "Standard contractual clauses",
+      "mk1": "Стандардни договорни клаузули",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 53,
+      "en": "SECTION I",
+      "mk1": "ДЕЛ I",
+      "status": "MANUAL_BOUNDARY",
+      "target": "Пр",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 54,
+      "en": "Clause 1",
+      "mk1": "Клаузула 1",
+      "status": "MANUAL_BOUNDARY",
+      "target": "имена",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 55,
+      "en": "Purpose and scope",
+      "mk1": "Примена и опфат",
+      "status": "UNMATCHED",
+      "target": "и опфат",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 54,
+      "en": "Clause 1",
+      "mk1": "Клаузула 1",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 55,
+      "en": "Purpose and scope",
+      "mk1": "Примена и опфат",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 56,
+      "en": "OPTION 1:",
+      "mk1": "ОПЦИЈА 1:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 57,
+      "en": "Article 28(3) and (4) of Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)] / [OPTION 2:",
+      "mk1": "Член 28(3) и (4) од Регулативата (ЕУ) 2016/679 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физичките лица во однос на обработката на личните податоци и за слободното движење на таквите податоци и укинување на Директивата 95/46/EЗ (Општа регулатива за заштита на податоците)] / [ОПЦИЈА 2:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 58,
+      "en": "Article 29(3) and (4) of Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC].",
+      "mk1": "Член 29(3) и (4) од Регулативата (ЕУ) 2018/1725 на Европскиот парламент и на Советот од 23 октомври 2018 година за заштита на физичките лица во однос на обработката на личните податоци од страна на институциите, телата на Унијата, канцеларии и агенции и за слободното движење на таквите податоци и укинување на Регулативата (ЕЗ) бр. 45/2001 и Одлуката бр. 1247/2002/ЕЗ].",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 59,
+      "en": "(b)\tThe controllers and processors listed in Annex I have agreed to these Clauses in order to ensure compliance with Article 28(3) and (4) of Regulation (EU) 2016/679 and/or Article 29(3) and (4) of Regulation (EU) 2018/1725.",
+      "mk1": "(б)\tКонтролорите и преработувачите наведени во Анекс I се согласија со овие Клаузули со цел да обезбедат усогласеност со член 28(3) и (4) од Регулативата (ЕУ) 2016/679 и/или член 29(3) и (4) од Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 60,
+      "en": "(c)\tThese Clauses apply to the processing of personal data as specified in Annex II.",
+      "mk1": "(в)\tОвие Клаузули се применуваат за обработка на лични податоци како што е наведено во Анекс II.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 61,
+      "en": "(d)\tAnnexes I to IV are an integral part of the Clauses.",
+      "mk1": "(г)\tАнексите од I до IV се составен дел на Клаузулите.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 62,
+      "en": "(e)\tThese Clauses are without prejudice to obligations to which the controller is subject by virtue of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.",
+      "mk1": "(д)\tОвие Клаузули не се во спротивност со обврските на кои подлежи контролорот врз основа на Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 63,
+      "en": "(f)\tThese Clauses do not by themselves ensure compliance with obligations related to international transfers in accordance with Chapter V of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.",
+      "mk1": "(ѓ)\tОвие Клаузули сами по себе не обезбедуваат усогласеност со обврските поврзани со меѓународните трансфери во согласност со Поглавје V од Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 64,
+      "en": "Invariability of the Clauses",
+      "mk1": "Непроменливост на клаузулите",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 65,
+      "en": "(a)\tThe Parties undertake not to modify the Clauses, except for adding information to the Annexes or updating information in them.",
+      "mk1": "(a)\tСтраните се обврзуваат да не ги менуваат клаузулите, освен за додавање информации во Анексите или за ажурирање информации во нив.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 66,
+      "en": "(b)\tThis does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a broader contract, or from adding other clauses or additional safeguards provided that they do not directly or indirectly contradict the Clauses or detract from the fundamental rights or freedoms of data subjects.",
+      "mk1": "(б)\tОва не ги спречува Страните да ги вклучат стандардните договорни клаузули пропишани во овие Клаузули во поширок договор или да додаваат други клаузули или дополнителни заштитни мерки под услов тие директно или индиректно да не се во спротивност со Клаузулите или да ги нарушат основните права или слободи на субјекти на лични податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 67,
+      "en": "Interpretation",
+      "mk1": "Толкување",
+      "status": "MANUAL_BOUNDARY",
+      "target": "(б)О",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 68,
+      "en": "(a)\tWhere these Clauses use the terms defined in Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 respectively, those terms shall have the same meaning as in that Regulation.",
+      "mk1": "(a)\tКога овие Клаузули ги користат термините дефинирани во Регулативата (ЕУ) 2016/679 или Регулативата (ЕУ) 2018/1725 соодветно, тие термини ќе го имаат истото значење како во таа Регулатива.",
+      "status": "MANUAL_BOUNDARY",
+      "target": "вие Клаузули клаузули се читаат и се толкуваат имајќи ги предвид одредбите на Регу",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 69,
+      "en": "(b)\tThese Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 respectively.",
+      "mk1": "(б)\tОвие Клаузули се читаат и толкуваат имајќи ги предвид одредбите на Регулативата (ЕУ) 2016/679 или Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "лативата (ЕУ) 2016/679 или Регулативата (ЕУ) 2018/1725.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 68,
+      "en": "(a)\tWhere these Clauses use the terms defined in Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 respectively, those terms shall have the same meaning as in that Regulation.",
+      "mk1": "(a)\tКога овие Клаузули ги користат термините дефинирани во Регулативата (ЕУ) 2016/679 или Регулативата (ЕУ) 2018/1725 соодветно, тие термини ќе го имаат истото значење како во таа Регулатива.",
+      "status": "UNMATCHED",
+      "target": "(в)Овие Клаузули клаузули нема да се толкуваат на начин што е во спротивност со правата и обвр",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 69,
+      "en": "(b)\tThese Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 respectively.",
+      "mk1": "(б)\tОвие Клаузули се читаат и толкуваат имајќи ги предвид одредбите на Регулативата (ЕУ) 2016/679 или Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "ските предвидени во Регулативата (ЕУ) 2016/679 / Регулативата (Е",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 70,
+      "en": "(c)\tThese Clauses shall not be interpreted in a way that runs counter to the rights and obligations provided for in Regulation (EU) 2016/679 / Regulation (EU) 2018/1725 or in a way that prejudices the fundamental rights or freedoms of the data subjects.",
+      "mk1": "(в)\tОвие Клаузули нема да се толкуваат на начин што е во спротивност со правата и обврските предвидени во Регулативата (ЕУ) 2016/679 / Регулативата (ЕУ) 2018/1725 или на начин што ги нарушува основните права или слободи на субјектите на лични податоци.",
+      "status": "UNMATCHED",
+      "target": "У) 2018/1725 или на начин што ги нарушува основните права или слободи на субјектите на лични податоци. Клаузула 4 Хиерархија",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 69,
+      "en": "(b)\tThese Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 respectively.",
+      "mk1": "(б)\tОвие Клаузули се читаат и толкуваат имајќи ги предвид одредбите на Регулативата (ЕУ) 2016/679 или Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 70,
+      "en": "(c)\tThese Clauses shall not be interpreted in a way that runs counter to the rights and obligations provided for in Regulation (EU) 2016/679 / Regulation (EU) 2018/1725 or in a way that prejudices the fundamental rights or freedoms of the data subjects.",
+      "mk1": "(в)\tОвие Клаузули нема да се толкуваат на начин што е во спротивност со правата и обврските предвидени во Регулативата (ЕУ) 2016/679 / Регулативата (ЕУ) 2018/1725 или на начин што ги нарушува основните права или слободи на субјектите на лични податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 71,
+      "en": "Hierarchy",
+      "mk1": "Хиерархија",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 72,
+      "en": "In the event of a contradiction between these Clauses and the provisions of related agreements between the Parties existing at the time when these Clauses are agreed or entered into thereafter, these Clauses shall prevail.",
+      "mk1": "Овие Клаузули ќе преовладуваат во случај на противречност помеѓу овие Клаузули и одредбите од поврзаните договори меѓу Страните, кои постојат во моментот кога овие Клаузули се договорени или кои се склучени потоа.",
+      "status": "UNMATCHED",
+      "target": "(a)Секој субјект што не е Страна страна на овие Клаузули клаузули може, со согласност на сите страни, да пристапи кон",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 73,
+      "en": "Clause 5 - Optional",
+      "mk1": "Клаузула 5- Опционална",
+      "status": "UNMATCHED",
+      "target": "овие Клаузул",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 74,
+      "en": "(a)\tAny entity that is not a Party to these Clauses may, with the agreement of all the Parties, accede to these Clauses at any time as a controller or a processor by completing the Annexes and signing Annex I.",
+      "mk1": "(a)\tСекој субјект што не е Страна на овие Клаузули може, со согласност на сите страни, да пристапи кон овие Клаузули во секое време како контролор или преработувач со пополнување на Анексите и потпишување на Анекс I.",
+      "status": "UNMATCHED",
+      "target": "и клаузули во секое време како контролор или преработувач со пополнување на Анексите анексите и потпишување на Анекс I.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 73,
+      "en": "Clause 5 - Optional",
+      "mk1": "Клаузула 5- Опционална",
+      "status": "UNMATCHED",
+      "target": "(б)Откако ќе",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 74,
+      "en": "(a)\tAny entity that is not a Party to these Clauses may, with the agreement of all the Parties, accede to these Clauses at any time as a controller or a processor by completing the Annexes and signing Annex I.",
+      "mk1": "(a)\tСекој субјект што не е Страна на овие Клаузули може, со согласност на сите страни, да пристапи кон овие Клаузули во секое време како контролор или преработувач со пополнување на Анексите и потпишување на Анекс I.",
+      "status": "UNMATCHED",
+      "target": "се пополнат и ќе се потпишат анексите наведени во (а), субјектот што пристапува ќе се третира какосе смета за Страна страна",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 75,
+      "en": "(b)\tOnce the Annexes in (a) are completed and signed, the acceding entity shall be treated as a Party to these Clauses and have the rights and obligations of a controller or a processor, in accordance with its designation in Annex I.",
+      "mk1": "(б)\tОткако ќе се пополнат и потпишат анексите наведени во (а), субјектот што пристапува ќе се третира како Страна на овие Клаузули и ќе ги има правата и обврските на контролор или преработувач, во согласност со неговото назначување во Анекс I.",
+      "status": "UNMATCHED",
+      "target": "на овие Клаузули клаузули и ќе ги има правата и обврските на контролор или преработувач, во согласност со неговото назначување во Анекс I.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 74,
+      "en": "(a)\tAny entity that is not a Party to these Clauses may, with the agreement of all the Parties, accede to these Clauses at any time as a controller or a processor by completing the Annexes and signing Annex I.",
+      "mk1": "(a)\tСекој субјект што не е Страна на овие Клаузули може, со согласност на сите страни, да пристапи кон овие Клаузули во секое време како контролор или преработувач со пополнување на Анексите и потпишување на Анекс I.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 75,
+      "en": "(b)\tOnce the Annexes in (a) are completed and signed, the acceding entity shall be treated as a Party to these Clauses and have the rights and obligations of a controller or a processor, in accordance with its designation in Annex I.",
+      "mk1": "(б)\tОткако ќе се пополнат и потпишат анексите наведени во (а), субјектот што пристапува ќе се третира како Страна на овие Клаузули и ќе ги има правата и обврските на контролор или преработувач, во согласност со неговото назначување во Анекс I.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 76,
+      "en": "(c)\tThe acceding entity shall have no rights or obligations resulting from these Clauses from the period prior to becoming a Party.",
+      "mk1": "(в)\tСубјектот што пристапува нема да има права или обврски кои произлегуваат од овие Клаузули во периодот пред да стане Страна.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 77,
+      "en": "SECTION II",
+      "mk1": "ДЕЛ II",
+      "status": "UNMATCHED",
+      "target": "ОБВРСКИ",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 78,
+      "en": "OBLIGATIONS OF THE PARTIES",
+      "mk1": "ОБВРСКИ НА СТРАНИТЕ",
+      "status": "UNMATCHED",
+      "target": "НА СТРАНИТЕ Клаузула",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 79,
+      "en": "Description of processing(s)",
+      "mk1": "Опис на обработка(и)",
+      "status": "HIGH",
+      "target": "6 Опис на обработка(и)",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 78,
+      "en": "OBLIGATIONS OF THE PARTIES",
+      "mk1": "ОБВРСКИ НА СТРАНИТЕ",
+      "status": "UNMATCHED",
+      "target": "Деталите за обра",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 79,
+      "en": "Description of processing(s)",
+      "mk1": "Опис на обработка(и)",
+      "status": "UNMATCHED",
+      "target": "ботката, особено",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 80,
+      "en": "The details of the processing operations, in particular the categories of personal data and the purposes of processing for which the personal data is processed on behalf of the controller, are specified in Annex II.",
+      "mk1": "Деталите за обработката, особено категориите на лични податоци и целите за обработувањето на личните податоци во име на контролорот, се наведени во Анекс II.",
+      "status": "REVIEW",
+      "target": "категориите на лични податоци и целите за обработувањето на личните податоци во име на контролорот, се наведени во Анекс II. Клаузула 7",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 79,
+      "en": "Description of processing(s)",
+      "mk1": "Опис на обработка(и)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 80,
+      "en": "The details of the processing operations, in particular the categories of personal data and the purposes of processing for which the personal data is processed on behalf of the controller, are specified in Annex II.",
+      "mk1": "Деталите за обработката, особено категориите на лични податоци и целите за обработувањето на личните податоци во име на контролорот, се наведени во Анекс II.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 81,
+      "en": "Clause7",
+      "mk1": "Клаузула7",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 82,
+      "en": "Obligations of the Parties",
+      "mk1": "Обврски на страните",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 83,
+      "en": "7.1.",
+      "mk1": "7.1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 84,
+      "en": "Instructions",
+      "mk1": "Упатство",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 85,
+      "en": "(a)\tThe processor shall process personal data only on documented instructions from the controller, unless required to do so by Union or Member State law to which the processor is subject.",
+      "mk1": "(a)\tПреработувачот ги обработува личните податоци само по документирани инструкции од контролорот, освен ако не е побарано од страна на Унијата или со закон на земјата членка на кој подлежи преработувачот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 86,
+      "en": "In this case, the processor shall inform the controller of that legal requirement before processing, unless the law prohibits this on important grounds of public interest.",
+      "mk1": "Во овој случај, преработувачот ќе го информира контролорот за тоа законско барање пред обработката, освен ако законот не го забранува тоа врз основа на важни основи од јавен интерес.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 87,
+      "en": "Subsequent instructions may also be given by the controller throughout the duration of the processing of personal data.",
+      "mk1": "Контролорот може да даде последователни инструкции во текот на целото време на обработката на личните податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 88,
+      "en": "These instructions shall always be documented.",
+      "mk1": "Овие упатства се секогаш документирани.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 89,
+      "en": "(b)\tThe processor shall immediately inform the controller if, in the processor’s opinion, instructions given by the controller infringe Regulation (EU) 2016/679 / Regulation (EU) 2018/1725 or the applicable Union or Member State data protection provisions.",
+      "mk1": "(б)\tПреработувачот веднаш го информира контролорот доколку, според преработувачот, упатствата дадени од контролорот ја прекршуваат Регулативата (ЕУ) 2016/679 / Регулативата (ЕУ) 2018/1725 или важечките одредби за заштита на податоците на Унијата или земјите членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 90,
+      "en": "Purpose limitation",
+      "mk1": "Ограничување на целта",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 91,
+      "en": "The processor shall process the personal data only for the specific purpose(s) of the processing, as set out in Annex II, unless it receives further instructions from the controller.",
+      "mk1": "Преработувачот ги обработува личните податоци само за одредена цел(и) на обработката, како што е наведено во Анекс II, освен ако не добие дополнителни инструкции од контролорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 92,
+      "en": "Duration of the processing of personal data",
+      "mk1": "Времетраење на обработката на личните податоци",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 93,
+      "en": "Processing by the processor shall only take place for the duration specified in Annex II.",
+      "mk1": "Обработката од страна на преработувачот се одвива само според времетраењето наведено во Анекс II.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 94,
+      "en": "Security of processing",
+      "mk1": "Безбедност на обработката",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 95,
+      "en": "(a)\tThe processor shall at least implement the technical and organisational measures specified in Annex III to ensure the security of the personal data.",
+      "mk1": "(a)\tПреработувачот треба барем да ги спроведе техничките и организациските мерки наведени во Анекс III за да се увери во врска со безбедноста на личните податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 96,
+      "en": "This includes protecting the data against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access to the data (personal data breach).",
+      "mk1": "Ова вклучува заштита на податоците од нарушување на безбедноста што доведува до случајно или незаконско уништување, губење, менување, неовластено откривање или пристап до податоците (непочитување на личните податоци).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 97,
+      "en": "In assessing the appropriate level of security, the Parties shall take due account of the state of the art, the costs of implementation, the nature, scope, context and purposes of processing and the risks involved for the data subjects.",
+      "mk1": "При проценката на соодветното ниво на безбедност, Страните ги преземаат износите за наплата за најновата технологија,  трошоците за имплементација, суштината, опсегот, контекстот и целите на обработката и ризиците кои се вклучени за субјектите на лични податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 98,
+      "en": "(a)\tThe purpose of these Standard Contractual Clauses (the Clauses) is to ensure compliance with [choose relevant option:",
+      "mk1": "(a)\tЦелта на овие стандардни договорни клаузули (во понатамошниот текст: „Клаузули“) е да се обезбедат усогласеност со [изберете соодветна опција:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 99,
+      "en": "Docking clause",
+      "mk1": "Клаузула за пристапување",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 100,
+      "en": "THE EUROPEAN COMMISSION,",
+      "mk1": "ЕВРОПСКАТА КОМИСИЈА,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 101,
+      "en": "Having regard to Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) N 45/2001 and Decision No 1247/2002/EC (EUDPR) (), and in particular Article 29(7) thereof,",
+      "mk1": "имајќи ја предвид Регулативата (ЕУ) 2018/1725 на Европскиот парламент и на Советот од 23 октомври 2018 година за заштита на физичките лица во однос на обработката на личните податоци од страна на институциите, телата, канцелариите и агенциите на Унијата и за слободното движење на таквите податоци и за укинување на Регулативата (ЕЗ) N 45/2001 и Одлуката бр. 1247/2002/EЗ (Претставници за заштита на податоци на ЕУ) (), а особено член 29(7) од истата,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 102,
+      "en": "(b)\tThe processor shall grant access to the personal data undergoing processing to members of its personnel only to the extent strictly necessary for implementing, managing and monitoring of the contract.",
+      "mk1": "(б)\tПреработувачот ќе дозволи пристап на членовите на својот персонал до личните податоци кои се обработуваат само доколку тоа е неопходно за спроведување, управување и следење на договорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 103,
+      "en": "The processor shall ensure that persons authorised to process the personal data received have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality.",
+      "mk1": "Преработувачот обезбедува дека лицата кои се овластени да ги обработуваат примените лични податоци се обврзале на доверливост или се под соодветна законска обврска за доверливост.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 104,
+      "en": "Sensitive data",
+      "mk1": "Чувствителни податоци",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 105,
+      "en": "If the processing involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a person’s sex life or sexual orientation, or data relating to criminal convictions and offences (“sensitive data”), the processor shall apply specific restrictions and/or additional safeguards.",
+      "mk1": "Доколку обработката вклучува лични податоци кои откриваат расно или етничко потекло, политички мислења, религиозни или философски убедувања или членство во синдикат, генетски податоци или биометриски податоци со цел единствено да се идентификува физичко лице, податоци во врска со здравјето или сексуалниот живот или сексуалната ориентација или податоци кои се однесуваат на кривични пресуди и прекршоци („чувствителни податоци“), преработувачот ќе примени специфични ограничувања и/или дополнителни заштитни мерки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 106,
+      "en": "Documentation and compliance",
+      "mk1": "Документација и усогласеност",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 107,
+      "en": "(a)\tThe Parties shall be able to demonstrate compliance with these Clauses.",
+      "mk1": "(a)\tСтраните ќе можат да покажат усогласеност со овие Клаузули.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 108,
+      "en": "(b)\tThe processor shall deal promptly and adequately with inquiries from the controller about the processing of data in accordance with these Clauses.",
+      "mk1": "(б)\tПреработувачот ќе постапува навремено и соодветно со барањата од контролорот за обработката на податоците во согласност со овие Клаузули.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 109,
+      "en": "(c)\tThe processor shall make available to the controller all information necessary to demonstrate compliance with the obligations that are set out in these Clauses and stem directly from Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.",
+      "mk1": "(в)\tПреработувачот ги дава на располагање на контролорот сите информации потребни за да се докаже усогласеноста со обврските утврдени во овие Клаузули и кои директно произлегуваат од Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 110,
+      "en": "At the controller’s request, the processor shall also permit and contribute to audits of the processing activities covered by these Clauses, at reasonable intervals or if there are indications of non-compliance.",
+      "mk1": "На барање на контролорот, преработувачот исто така учествува во активностите поврзани со дозволи и ревизии опфатени со овие Клаузули, во разумни интервали или ако има индикации за неусогласеност.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 111,
+      "en": "In deciding on a review or an audit, the controller may take into account relevant certifications held by the processor.",
+      "mk1": "При одлучувањето за преглед или ревизија, контролорот може да ги земе предвид релевантните сертификати што ги поседува преработувачот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 112,
+      "en": "(d)\tThe controller may choose to conduct the audit by itself or mandate an independent auditor.",
+      "mk1": "(г)\tКонтролорот може да избере да ја спроведе ревизијата сам или да наложи независен ревизор.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 113,
+      "en": "Audits may also include inspections at the premises or physical facilities of the processor and shall, where appropriate, be carried out with reasonable notice.",
+      "mk1": "Ревизиите, исто така, може да вклучуваат инспекции во просториите или физичките објекти на преработувачот и онаму каде што е потребно, ќе се извршат со претходно известување во разумен рок.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 114,
+      "en": "(e)\tThe Parties shall make the information referred to in this Clause, including the results of any audits, available to the competent supervisory authority/ies on request.",
+      "mk1": "(ѓ)\tСтраните ќе ги стават на располагање информациите наведени во оваа Клаузула, вклучувајќи ги и резултатите од какви било ревизии, по барање на надлежниот надзорен орган/и.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 115,
+      "en": "Use of sub-processors",
+      "mk1": "Ангажирање на помошник-преработувачи",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 116,
+      "en": "(a)\tOPTION 1:",
+      "mk1": "(a)\tОПЦИЈА 1:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 117,
+      "en": "PRIOR SPECIFIC AUTHORISATION:",
+      "mk1": "ПРЕТХОДНО СПЕЦИФИЧНО ИЗВЕСТУВАЊЕ:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 118,
+      "en": "The processor shall not subcontract any of its processing operations performed on behalf of the controller in accordance with these Clauses to a sub-processor, without the controller’s prior specific written authorisation.",
+      "mk1": "Пребработувачот нема да склучува поддоговор за какво било работење извршено во име на контролорот во согласност со овие Клаузули на помошник-преработувач, без претходно конкретно писмено овластување на контролорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 119,
+      "en": "The processor shall submit the request for specific authorisation at least [SPECIFY TIME PERIOD] prior to the engagement of the sub-processor in question, together with the information necessary to enable the controller to decide on the authorisation.",
+      "mk1": "Преработувачот го поднесува барањето за специфично овластување најмалку [ОДРЕДЕТЕ ГО ВРЕМЕНСКИ ПЕРИОД] пред ангажирањето на помошник-преработувачот, заедно со информациите кои се потребни за да му се овозможи на контролорот да одлучи за овластувањето.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 120,
+      "en": "The list of sub-processors authorised by the controller can be found in Annex IV.",
+      "mk1": "Списокот на помошник-преработувачи овластени од контролорот може да се најде во Анекс IV.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 121,
+      "en": "The Parties shall keep Annex IV up to date.",
+      "mk1": "Страните се одговорни да го ажурираат Анекс IV.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 122,
+      "en": "GENERAL WRITTEN AUTHORISATION:",
+      "mk1": "ОПШТО ПИСМЕНО ОВЛАСТУВАЊЕ:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 123,
+      "en": "The processor has the controller’s general authorisation for the engagement of sub-processors from an agreed list.",
+      "mk1": "Преработувачот има општо овластување од контролорот за ангажирање на помошник-преработувачи од договорена листа.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 124,
+      "en": "The processor shall specifically inform in writing the controller of any intended changes of that list through the addition or replacement of sub-processors at least [SPECIFY TIME PERIOD] in advance, thereby giving the controller sufficient time to be able to object to such changes prior to the engagement of the concerned sub-processor(s).",
+      "mk1": "Пребарувачот посебно, во писмена форма го информира контролорот за какви било планирани промени на таа листа преку додавање или замена на помошник-преработувачите, барем [ОДРЕДЕТЕ ГО ВРЕМЕНИОТ ПЕРИОД], со што ќе му даде доволно време на контролорот да може да се спротивстави на таквите промени пред да се ангажираат засегнатите помошник-преработувачи.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 125,
+      "en": "The processor shall provide the controller with the information necessary to enable the controller to exercise the right to object.",
+      "mk1": "Преработувачот му ги дава на контролорот потребните информации за да му се овозможи на контролорот да го оствари правото на приговор.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 126,
+      "en": "(b)\tWhere the processor engages a sub-processor for carrying out specific processing activities (on behalf of the controller), it shall do so by way of a contract which imposes on the sub-processor, in substance, the same data protection obligations as the ones imposed on the data processor in accordance with these Clauses.",
+      "mk1": "(б)\tКога преработувачот ангажира помошник-преработувач за извршување на специфични активности за обработка (во име на контролорот), тоа ќе го стори по пат на договор кој на помошник-преработувачот, во суштина, му ги наметнува истите обврски за заштита на податоците како оние на преработувачот на податоци во согласност со овие Клаузули.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 127,
+      "en": "The processor shall ensure that the sub-processor complies with the obligations to which the processor is subject pursuant to these Clauses and to Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.",
+      "mk1": "Преработувачот ќе се погрижи помошник-преработувачот да ги почитува обврските за кои е обврзан и преработувачот, согласно овие Клаузули и Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 128,
+      "en": "(c)\tAt the controller’s request, the processor shall provide a copy of such a sub-processor agreement and any subsequent amendments to the controller.",
+      "mk1": "(в)\tНа барање на контролорот, преработувачот ќе му достави на контролорот достави копија од таквиот договор за помошник-преработувачот и сите последователни.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 129,
+      "en": "To the extent necessary to protect business secret or other confidential information, including personal data, the processor may redact the text of the agreement prior to sharing the copy.",
+      "mk1": "Доколку е потребно да се заштити деловната тајна или други доверливи информации, вклучително и личните податоци, преработувачот може да избрише делови од текстот на договорот пред да ја сподели копијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 130,
+      "en": "(d)\tThe processor shall remain fully responsible to the controller for the performance of the sub-processor’s obligations in accordance with its contract with the processor.",
+      "mk1": "(г)\tПреработувачот останува целосно одговорен пред контролорот за извршување на обврските на помошник-преработувачот во согласност со неговиот договор со преработувачот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 131,
+      "en": "The processor shall notify the controller of any failure by the sub-processor to fulfil its contractual obligations.",
+      "mk1": "Обработувачот го известува контролорот за секој неуспех од страна на помошник-преработувачот при исполнување на своите договорни обврски.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 132,
+      "en": "(e)\tThe processor shall agree a third party beneficiary clause with the sub-processor whereby - in the event the processor has factually disappeared, ceased to exist in law or has become insolvent - the controller shall have the right to terminate the sub-processor contract and to instruct the sub-processor to erase or return the personal data.",
+      "mk1": "(д)\tПреработувачот ќе договори клаузула за корисник на трета страна со помошник-преработувачот со која, во случај кога преработувачот фактички исчезнал, престанал да постои во законот или станал платежно неспособен, контролорот има право да го раскине договорот со помошник-преработувачот и да му наложи на помошник-преработувачот да ги избрише или врати личните податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 133,
+      "en": "International transfers",
+      "mk1": "Меѓународни трансфери",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 134,
+      "en": "(a)\tAny transfer of data to a third country or an international organisation by the processor shall be done only on the basis of documented instructions from the controller or in order to fulfil a specific requirement under Union or Member State law to which the processor is subject and shall take place in compliance with Chapter V of Regulation (EU) 2016/679 or Regulation (EU) 2018/1725.",
+      "mk1": "(a)\tСекое пренос на податоци на трета земја или меѓународна организација од страна на преработувачот се врши само врз основа на документирани упатства од контролорот или со цел да се исполни специфично барање според правото на Унијата или земјата членка на кои преработувачот подлежи и се одвиваат во согласност со Поглавје V од Регулативата (ЕУ) 2016/679 или Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 135,
+      "en": "(b)\tThe controller agrees that where the processor engages a sub-processor in accordance with Clause 7.7. for carrying out specific processing activities (on behalf of the controller) and those processing activities involve a transfer of personal data within the meaning of Chapter V of Regulation (EU) 2016/679, the processor and the sub-processor can ensure compliance with Chapter V of Regulation (EU) 2016/679 by using standard contractual clauses adopted by the Commission in accordance with of Article 46(2) of Regulation (EU) 2016/679, provided the conditions for the use of those standard contractual clauses are met.",
+      "mk1": "(б)\tКонтролорот се согласува дека кога преработувачот ангажира помошник-преработувач во согласност со Клаузула 7.7. за извршување на специфични активности за обработка (во име на контролорот) и тие активности за обработка вклучуваат пренос на лични податоци во смисла на Поглавје V од Регулативата (ЕУ) 2016/679, преработувачот и помошник-преработувачот можат да обезбедат усогласеност со Поглавјето V од Регулативата (ЕУ) 2016/679 со користење на стандардни договорни клаузули усвоени од Комисијата во согласност со член 46(2) од Регулативата (ЕУ) 2016/679, доколку се исполнети условите за користење на тие стандардни договорни клаузули.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 136,
+      "en": "Assistance to the controller",
+      "mk1": "Помош на контролорот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 137,
+      "en": "(a)\tThe processor shall promptly notify the controller of any request it has received from the data subject.",
+      "mk1": "(а)\tПреработувачот веднаш го известува контролорот за секое барање што го примил од субјектот на лични податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 138,
+      "en": "It shall not respond to the request itself, unless authorised to do so by the controller.",
+      "mk1": "Тој нема да одговори на самото барање, освен ако е овластен да го стори тоа, од страна на контролорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 139,
+      "en": "(b)\tThe processor shall assist the controller in fulfilling its obligations to respond to data subjects’ requests to exercise their rights, taking into account the nature of the processing.",
+      "mk1": "(б)\tПреработувачот му помага на контролорот да ги исполни своите обврски при одговарање на барањата на субјектите на лични податоци за остварување на нивните права, земајќи ја предвид природата на обработката.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 140,
+      "en": "In fulfilling its obligations in accordance with (a) and (b), the processor shall comply with the controller’s instructions",
+      "mk1": "Во исполнувањето на своите обврски во согласност со (а) и (б), преработувачот ги почитува упатствата на контролорот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 141,
+      "en": "(c)\tIn addition to the processor’s obligation to assist the controller pursuant to Clause 8(b), the processor shall furthermore assist the controller in ensuring compliance with the following obligations, taking into account the nature of the data processing and the information available to the processor:",
+      "mk1": "(в)\tПокрај обврската на преработувачот да му помогне на контролорот во согласност со Клаузула 8(б), преработувачот дополнително му помага на контролорот да обезбеди усогласеност со следните обврски, земајќи ја предвид природата на обработката на податоците и информациите што му се достапни на преработувачот:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 142,
+      "en": "(1)\tthe obligation to carry out an assessment of the impact of the envisaged processing operations on the protection of personal data (a ‘data protection impact assessment’) where a type of processing is likely to result in a high risk to the rights and freedoms of natural persons;",
+      "mk1": "(1)\tобврската да се изврши проценка на влијанието на предвидените активности при обработка врз заштитата на личните податоци („проценка на влијанието на заштитата на податоците“) каде што еден вид обработка веројатно ќе резултира со висок ризик за правата и слободите на физичките лица;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 143,
+      "en": "(2)\tthe obligation to consult the competent supervisory authority/ies prior to processing where a data protection impact assessment indicates that the processing would result in a high risk in the absence of measures taken by the controller to mitigate the risk;",
+      "mk1": "(2)\tобврската да се консултира со надлежниот надзорен орган/и пред обработката кога проценката на влијанието на заштитата на податоците покажува дека обработката би резултирала со висок ризик, кога нема преземени мерки за ублажување на ризикот од страна на контролорот;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 144,
+      "en": "(3)\tthe obligation to ensure that personal data is accurate and up to date, by informing the controller without delay if the processor becomes aware that the personal data it is processing is inaccurate or has become outdated;",
+      "mk1": "(3)\tобврската да се осигура дека личните податоци се точни и ажурирани, со тоа што го известува контролорот, без одлагање, доколку преработувачот стане свесен дека личните податоци што ги обработува се неточни или се застарени;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 145,
+      "en": "(4)\tthe obligations in [OPTION 1] Article 32 of Regulation (EU) 2016/679/ [OPTION 2] Articles 33 and 36 to 38 of Regulation (EU) 2018/1725.",
+      "mk1": "(4)\tобврските во [ОПЦИЈА 1] член 32 од Регулативата (ЕУ) 2016/679/ [ОПЦИЈА 2] членовите 33 и 36 до 38 од Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 146,
+      "en": "(d)\tThe Parties shall set out in Annex III the appropriate technical and organisational measures by which the processor is required to assist the controller in the application of this Clause as well as the scope and the extent of the assistance required.",
+      "mk1": "(г)\tСтраните ги наведуваат соодветните технички и организациски мерки во Анекс III  со кои од преработувачот се бара да му помогне на контролорот во примената на оваа Клаузула, како и обемот и размерот на помошта која е потребна.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 147,
+      "en": "Notification of personal data breach",
+      "mk1": "Известување за прекршување на личните податоци",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 148,
+      "en": "In the event of a personal data breach, the processor shall cooperate with and assist the controller for the controller to comply with its obligations under Articles 33 and 34 of Regulation (EU) 2016/679 or under Articles 34 and 35 of Regulation (EU) 2018/1725, where applicable, taking into account the nature of processing and the information available to the processor.",
+      "mk1": "Во случај на прекршување на личните податоци, преработувачот соработува и му помага на контролорот за контролорот да ги исполни своите обврски според членовите 33 и 34 од Регулативата (ЕУ) 2016/679 или според членовите 34 и 35 од Регулативата (ЕУ) 2018/1725, земајќи ја предвид природата на обработката и информациите со кои располага преработувачот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 149,
+      "en": "9.1\tData breach concerning data processed by the controller",
+      "mk1": "9.1\tПрекршување на податоците што се однесуваат на податоци обработени од контролорот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 150,
+      "en": "In the event of a personal data breach concerning data processed by the controller, the processor shall assist the controller:",
+      "mk1": "Во случај на прекршување на личните податоци во врска со податоците обработени од контролорот, преработувачот му помага на контролорот:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 151,
+      "en": "(a)\tin notifying the personal data breach to the competent supervisory authority/ies, without undue delay after the controller has become aware of it, where relevant/(unless the personal data breach is unlikely to result in a risk to the rights and freedoms of natural persons);",
+      "mk1": "(a)\tво известувањето за прекршувањето на личните податоци до надлежниот орган/и, без непотребно одложување откако контролорот ќе дознае за тоа, доколку има потреба/(освен ако прекршувањето на личните податоци веројатно нема да резултира со ризик за правата и слободите на физичките лица );",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 152,
+      "en": "(b)\tin obtaining the following information which, pursuant to [OPTION 1] Article 33(3) of Regulation (EU) 2016/679/ [OPTION 2] Article 34(3) of Regulation (EU) 2018/1725, shall be stated in the controller’s notification, and must at least include:",
+      "mk1": "(б)\tпри добивање на следните информации кои, согласно [ОПЦИЈА 1] член 33(3) од Регулативата (ЕУ) 2016/679/ [ОПЦИЈА 2] Член 34(3) од Регулативата (ЕУ) 2018/1725, се наведени во известување на контролорот и мора да содржи барем:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 153,
+      "en": "(1)\tthe nature of the personal data including where possible, the categories and approximate number of data subjects concerned and the categories and approximate number of personal data records concerned;",
+      "mk1": "(1)\tприродата на личните податоци, доколку е можно, категориите и приближниот број на засегнати субјекти на лични податоци и категориите и приближниот број на записи за лични податоци;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 154,
+      "en": "(2)\tthe likely consequences of the personal data breach;",
+      "mk1": "(2)\tверојатните последици од прекршувањето на личните податоци;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 155,
+      "en": "(3)\tthe measures taken or proposed to be taken by the controller to address the personal data breach, including, where appropriate, measures to mitigate its possible adverse effects.",
+      "mk1": "(3)\tмерките што ги презема или предлага контролорот за решавање на проблемите поврзани со прекршувањето на личните податоци, вклучувајќи, каде што е соодветно, мерки за ублажување на можните негативни ефекти.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 156,
+      "en": "Where, and insofar as, it is not possible to provide all this information at the same time, the initial notification shall contain the information then available and further information shall, as it becomes available, subsequently be provided without undue delay.",
+      "mk1": "Доколку не е можно да се обезбедат сите овие информации во исто време, првичното известување ќе ги содржи информациите што тогаш се достапни и дополнителни информации, како што ќе станат достапни, последователно ќе се обезбедат без непотребно одлагање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 157,
+      "en": "(c)\tin complying, pursuant to [OPTION 1] Article 34 of Regulation (EU) 2016/679 / [OPTION 2] Article 35 of Regulation (EU) 2018/1725, with the obligation to communicate without undue delay the personal data breach to the data subject, when the personal data breach is likely to result in a high risk to the rights and freedoms of natural persons.",
+      "mk1": "(в)\tво усогласување, согласно [ОПЦИЈА 1] член 34 од Регулативата (ЕУ) 2016/679 / [ОПЦИЈА 2] Член 35 од Регулативата (ЕУ) 2018/1725, со обврската без непотребно одложување да се соопштува прекршувањето на личните податоци, кога прекршувањето на личните податоци веројатно ќе резултира со висок ризик за правата и слободите на физичките лица.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 158,
+      "en": "9.2\tData breach concerning data processed by the processor",
+      "mk1": "9.2\tПрекршување на податоците што се однесуваат на податоци обработени од преработувачот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 159,
+      "en": "In the event of a personal data breach concerning data processed by the processor, the processor shall notify the controller without undue delay after the processor having become aware of the breach.",
+      "mk1": "Во случај на прекршување на личните податоци во врска со податоците обработени од преработувачот, преработувачот ќе го извести контролорот без непотребно одлагање откако преработувачот ќе дознае за прекршувањето.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 160,
+      "en": "Such notification shall contain, at least:",
+      "mk1": "Таквото известување содржи, најмалку:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 161,
+      "en": "(a)\ta description of the nature of the breach (including, where possible, the categories and approximate number of data subjects and data records concerned);",
+      "mk1": "(а)\tопис на природата на прекршувањето (вклучувајќи, каде што е можно, категориите и приближниот број на субјекти на лични податоци и засегнати записи на податоци);",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 162,
+      "en": "(b)\tthe details of a contact point where more information concerning the personal data breach can be obtained;",
+      "mk1": "(б)\tдетали за контакт, каде што може да се добијат повеќе информации во врска со прекршувањето на личните податоци;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 163,
+      "en": "(c)\tits likely consequences and the measures taken or proposed to be taken to address the breach, including to mitigate its possible adverse effects.",
+      "mk1": "(в)\tверојатните последици и преземените или предложените мерки што треба да се преземат за да се реши прекршувањето, вклучително и да се ублажат неговите можни негативни ефекти.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 164,
+      "en": "The Parties shall set out in Annex III all other elements to be provided by the processor when assisting the controller in the compliance with the controller’s obligations under [OPTION 1] Articles 33 and 34 of Regulation (EU) 2016/679 / [OPTION 2] Articles 34 and 35 of Regulation (EU) 2018/1725.",
+      "mk1": "Страните ги наведуваат во Анекс III  сите други елементи што треба да ги обезбеди преработувачот кога му помага на контролорот во исполнувањето на обврските на контролорот според [ОПЦИЈА 1] членовите 33 и 34 од Регулативата (ЕУ) 2016/679 / [ОПЦИЈА 2] Членови 34 и 35 од Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 165,
+      "en": "SECTION III",
+      "mk1": "ДЕЛ III",
+      "status": "UNMATCHED",
+      "target": "ЗАВРШНИ О",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 166,
+      "en": "FINAL PROVISIONS",
+      "mk1": "ЗАВРШНИ ОДРЕДБИ",
+      "status": "UNMATCHED",
+      "target": "ДРЕДБИ Клаузула 10",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 167,
+      "en": "Non-compliance with the Clauses and termination",
+      "mk1": "Непочитување на Клаузулите и раскинување",
+      "status": "REVIEW",
+      "target": "Непочитување на Клаузулите клаузулите и раскинување",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 166,
+      "en": "FINAL PROVISIONS",
+      "mk1": "ЗАВРШНИ ОДРЕДБИ",
+      "status": "UNMATCHED",
+      "target": "(a)Без да е во спрот",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 167,
+      "en": "Non-compliance with the Clauses and termination",
+      "mk1": "Непочитување на Клаузулите и раскинување",
+      "status": "UNMATCHED",
+      "target": "ивност со одредбите од Регулативата (ЕУ) 2016/679 и/и",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 168,
+      "en": "(a)\tWithout prejudice to any provisions of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725, in the event that the processor is in breach of its obligations under these Clauses, the controller may instruct the processor to suspend the processing of personal data until the latter complies with these Clauses or the contract is terminated.",
+      "mk1": "(a)\tБез да е во спротивност со одредбите од Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725, во случај кога преработувачот не ги исполнува своите обврски наведени во овие Клаузули, контролорот може да му наложи на преработувачот  да ја прекине обработката на личните податоци додека не се усогласат со овие Клаузули или да се раскине договорот.",
+      "status": "UNMATCHED",
+      "target": "ли Регулативата (ЕУ) 2018/1725, во случај кога преработувачот не ги исполнува своите обврски наведени во овие Клаузуликлаузули, контролорот може да му наложи на преработувачот да ја прекине обработката на личните податоци додека не се усогласат обезбеди усогласеност со овие Клаузули клаузули или да се раскинедо раскинувањето на договорот. Преработувачот веднаш го информира контролорот во случај да не може да се усогласи со овие Клаузуликлаузули, од која било причина.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 167,
+      "en": "Non-compliance with the Clauses and termination",
+      "mk1": "Непочитување на Клаузулите и раскинување",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 168,
+      "en": "(a)\tWithout prejudice to any provisions of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725, in the event that the processor is in breach of its obligations under these Clauses, the controller may instruct the processor to suspend the processing of personal data until the latter complies with these Clauses or the contract is terminated.",
+      "mk1": "(a)\tБез да е во спротивност со одредбите од Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725, во случај кога преработувачот не ги исполнува своите обврски наведени во овие Клаузули, контролорот може да му наложи на преработувачот  да ја прекине обработката на личните податоци додека не се усогласат со овие Клаузули или да се раскине договорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 169,
+      "en": "The processor shall promptly inform the controller in case it is unable to comply with these Clauses, for whatever reason.",
+      "mk1": "Преработувачот веднаш го информира контролорот во случај да не може да се усогласи со овие Клаузули, од која било причина.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 170,
+      "en": "(b)\tThe controller shall be entitled to terminate the contract insofar as it concerns processing of personal data in accordance with these Clauses if:",
+      "mk1": "(б)\tКонтролорот има право да го раскине договорот кој се однесува за обработка на лични податоци во согласност со овие клаузули доколку:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 171,
+      "en": "(1)\tthe processing of personal data by the processor has been suspended by the controller pursuant to point (a) and if compliance with these Clauses is not restored within a reasonable time and in any event within one month following suspension;",
+      "mk1": "(1)\tобработката на личните податоци од страна на преработувачот е суспендирана од контролорот во согласност со точка (а) и ако усогласеноста со овие Клаузули не е исполнета во разумен рок и во секој случај во рок од еден месец по суспензијата;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 172,
+      "en": "(2)\tthe processor is in substantial or persistent breach of these Clauses or its obligations under Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725;",
+      "mk1": "(2)\tпреработувачот суштински или постојано ги прекршува овие Клаузули или неговите обврски според Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 173,
+      "en": "(3)\tthe processor fails to comply with a binding decision of a competent court or the competent supervisory authority/ies regarding its obligations pursuant to these Clauses or to Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.",
+      "mk1": "(3)\tпреработувачот не се придржува кон обврзувачката одлука на надлежен суд или на надлежниот надзорен орган/и во однос на неговите обврски согласно овие Клаузули или Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 174,
+      "en": "(c)\tThe processor shall be entitled to terminate the contract insofar as it concerns processing of personal data under these Clauses where, after having informed the controller that its instructions infringe applicable legal requirements in accordance with Clause 7.1 (b), the controller insists on compliance with the instructions.",
+      "mk1": "(в)\tПреработувачот има право да го раскине договорот во однос на обработката на личните податоци според овие Клаузули, откако ќе го информира контролорот дека неговите упатства ги прекршуваат важечките законски барања во согласност со Клаузула 7.1 (б), контролорот инсистира на усогласеност со инструкциите.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 175,
+      "en": "(d)\tFollowing termination of the contract, the processor shall, at the choice of the controller, delete all personal data processed on behalf of the controller and certify to the controller that it has done so, or, return all the personal data to the controller and delete existing copies unless Union or Member State law requires storage of the personal data.",
+      "mk1": "(г)\tПо раскинувањето на договорот, преработувачот, по избор на контролорот, ги брише сите лични податоци обработени во име на контролорот и му потврдува на контролорот дека го сторил тоа, или ги вратќа сите лични податоци на контролорот и ги брише постоечки копии, освен ако законот на Унијата или на земјата членка не бара складирање на личните податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 176,
+      "en": "Until the data is deleted or returned, the processor shall continue to ensure compliance with these Clauses.",
+      "mk1": "Сè додека податоците не се избришат или вратат, преработувачот продолжува да е во согласност со овие Клаузули.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 177,
+      "en": "ANNEX I",
+      "mk1": "АНЕКС I",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 178,
+      "en": "List of parties",
+      "mk1": "Список на страни",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 179,
+      "en": "Controller(s):",
+      "mk1": "Контролор(и):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 180,
+      "en": "[Identity and contact details of the controller(s), and, where applicable, of the controller’s data protection officer]",
+      "mk1": "[Идентитет и детали за контакт на контролорот(ите) и доколку е применливо, на службеникот за заштита на податоци на контролорот]",
+      "status": "UNMATCHED",
+      "target": "Име, позиција и детали за контакт на лицето за контакт: ……………………….. Потпис и датум на пристапување: ………………………………………………....... 2. …………………………………………………………………………………………..Преработувач(и): [Идентитет и детали за контакт на преработувач(ите) и доколку е прим",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 181,
+      "en": "Name:",
+      "mk1": "Име:",
+      "status": "UNMATCHED",
+      "target": "енливо,",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 182,
+      "en": "……………………………………………………………………………",
+      "mk1": "……………………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "на службеникот за заштита на податоци на преработувачот]",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 181,
+      "en": "Name:",
+      "mk1": "Име:",
+      "status": "REVIEW",
+      "target": "1.Име:……",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 182,
+      "en": "……………………………………………………………………………",
+      "mk1": "……………………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "...…………………………………………………………………….. Адреса: …………………………………………………",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 183,
+      "en": "Address:",
+      "mk1": "Адреса:",
+      "status": "UNMATCHED",
+      "target": "………………………….....",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 182,
+      "en": "……………………………………………………………………………",
+      "mk1": "……………………………………………………………………………",
+      "status": "MANUAL_BOUNDARY",
+      "target": "Име, позиција и детал",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 183,
+      "en": "Address:",
+      "mk1": "Адреса:",
+      "status": "MANUAL_BOUNDARY",
+      "target": "и за",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 184,
+      "en": "Contact person’s name, position and contact details:",
+      "mk1": "Име, позиција и детали за контакт на лицето за контакт:",
+      "status": "MANUAL_BOUNDARY",
+      "target": "контакт на лицето за контакт: …………………………",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 183,
+      "en": "Address:",
+      "mk1": "Адреса:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 184,
+      "en": "Contact person’s name, position and contact details:",
+      "mk1": "Име, позиција и детали за контакт на лицето за контакт:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 185,
+      "en": "………………………………",
+      "mk1": "………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 186,
+      "en": "Signature and accession date:",
+      "mk1": "Потпис и датум на пристапување:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 187,
+      "en": "………………………………………………………",
+      "mk1": "………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 188,
+      "en": "…………………………………………………………………………………………..Processor(s):",
+      "mk1": "…………………………………………………………………………………………..Преработувач(и):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 189,
+      "en": "[Identity and contact details of the processor(s) and, where applicable, of the processor’s data protection officer]",
+      "mk1": "[Идентитет и детали за контакт на преработувач(ите) и доколку е применливо, на службеникот за заштита на податоци на преработувачот]",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 190,
+      "en": "Name:……...……………………………………………………………………..",
+      "mk1": "Име:……...……………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 191,
+      "en": "…………………………………………………………………………….",
+      "mk1": "…………………………………………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 192,
+      "en": "…………………………………………………………………………………………..",
+      "mk1": "…………………………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 193,
+      "en": "ANNEX II",
+      "mk1": "АНЕКС II",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 194,
+      "en": "Description of the processing",
+      "mk1": "Опис на обработката",
+      "status": "REVIEW",
+      "target": "………………………………………………………………………………………………… Природа на обработката …………………………………………………………………………………………………",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 195,
+      "en": "Categories of data subjects whose personal data is processed",
+      "mk1": "Категории на субјекти на податоци чии лични податоци се обработуваат",
+      "status": "UNMATCHED",
+      "target": "Цел(и) за кои личните податоци се обработуваат во",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 196,
+      "en": "…………………………………………………………………………………………………",
+      "mk1": "…………………………………………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "име на контролорот ……………………",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 197,
+      "en": "Categories of personal data processed",
+      "mk1": "Обработени категории на лични податоци",
+      "status": "UNMATCHED",
+      "target": "……………………………………………………………………………",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 196,
+      "en": "…………………………………………………………………………………………………",
+      "mk1": "…………………………………………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 197,
+      "en": "Categories of personal data processed",
+      "mk1": "Обработени категории на лични податоци",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 198,
+      "en": "Sensitive data processed (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures.",
+      "mk1": "Обработени чувствителни податоци (доколку е применливо) и применети ограничувања или заштитни мерки кои целосно ја земаат предвид природата на податоците и вклучените ризици, како што се на пример ограничување на строгата цел, ограничувања за пристап (вклучувајќи пристап само за персонал кој следел специјализирана обука), чување евиденција за пристап до податоците, ограничувања за понатамошни трансфери или дополнителни безбедносни мерки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 199,
+      "en": "Nature of the processing",
+      "mk1": "Природа на обработката",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 200,
+      "en": "Purpose(s) for which the personal data is processed on behalf of the controller",
+      "mk1": "Цел(и) за кои личните податоци се обработуваат во име на контролорот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 201,
+      "en": "Duration of the processing",
+      "mk1": "Времетраење на обработката",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 202,
+      "en": "For processing by (sub-) processors, also specify subject matter, nature and duration of the processing",
+      "mk1": "За обработка од страна на помошник- преработувачите, исто така наведете ја темата, природата и времетраењето на обработката",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 203,
+      "en": "ANNEX III",
+      "mk1": "АНЕКС III",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 204,
+      "en": "Technical and organisational measures including technical and organisational measures to ensure the security of the data",
+      "mk1": "Технички и организациски мерки вклучувајќи технички и организациски мерки за да се обезбеди безбедност на податоците",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 205,
+      "en": "EXPLANATORY NOTE:",
+      "mk1": "НАПОМЕНА СО ОБЈАСНУВАЊЕ:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 206,
+      "en": "The technical and organisational measures need to be described concretely and not in a generic manner.",
+      "mk1": "Техничките и организациските мерки треба да се опишат конкретно, а не на генерички начин.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 207,
+      "en": "Description of the technical and organisational security measures implemented by the processor(s) (including any relevant certifications) to ensure an appropriate level of security, taking into account the nature, scope, context and purpose of the processing, as well as the risks for the rights and freedoms of natural persons.",
+      "mk1": "Опис на техничките и организациските безбедносни мерки што ги спроведува преработувачот(ите) (вклучувајќи ги и сите релевантни сертификати) за да се обезбеди соодветно ниво на безбедност, земајќи ја предвид природата, опсегот, контекстот и целта на обработката, како и ризиците за правата и слободите на физичките лица.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 208,
+      "en": "Examples of possible measures:",
+      "mk1": "Примери на можни мерки:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 209,
+      "en": "Measures of pseudonymisation and encryption of personal data",
+      "mk1": "Мерки за псевдонимизација и шифрирање на лични податоци",
+      "status": "UNMATCHED",
+      "target": "Мерки за идентификација и овластување на корисникот",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 210,
+      "en": "Measures for ensuring ongoing confidentiality, integrity, availability and resilience of processing systems and services",
+      "mk1": "Мерки за обезбедување постојана доверливост, интегритет, достапност и отпорност на системите и услугите за обработка",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 211,
+      "en": "Measures for ensuring the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident",
+      "mk1": "Мерки за обезбедување на способност за навремено враќање на достапноста и пристапот до личните податоци во случај на физички или технички инцидент",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 212,
+      "en": "Processes for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures in order to ensure the security of the processing",
+      "mk1": "Процеси за редовно тестирање, оценување и евалуација на ефективноста на техничките и организациските мерки со цел да се обезбеди сигурност на обработката",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 213,
+      "en": "Measures for user identification and authorisation",
+      "mk1": "Мерки за идентификација и овластување на корисникот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 214,
+      "en": "Measures for the protection of data during transmission",
+      "mk1": "Мерки за заштита на податоците при пренос",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 215,
+      "en": "Measures for the protection of data during storage",
+      "mk1": "Мерки за заштита на податоците при складирање",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 216,
+      "en": "Measures for ensuring physical security of locations at which personal data are processed",
+      "mk1": "Мерки за обезбедување физичка безбедност на локациите на кои се обработуваат личните податоци",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 217,
+      "en": "Measures for ensuring events logging",
+      "mk1": "Мерки за обезбедување на евиденција на настани",
+      "status": "UNMATCHED",
+      "target": "Мерки за обезбедување минимизирање на податоците",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 218,
+      "en": "Measures for ensuring system configuration, including default configuration",
+      "mk1": "Мерки за обезбедување конфигурација на системот, вклучително и стандардна конфигурација",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 219,
+      "en": "Measures for internal IT and IT security governance and management",
+      "mk1": "Мерки за внатрешно управување и управување со ИТ и ИТ безбедност",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 220,
+      "en": "Measures for certification/assurance of processes and products",
+      "mk1": "Мерки за сертификација/осигурување на процеси и производи",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 221,
+      "en": "Measures for ensuring data minimisation",
+      "mk1": "Мерки за обезбедување минимизирање на податоците",
+      "status": "UNMATCHED",
+      "target": "Мерки за овозможување преносливост на",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 222,
+      "en": "Measures for ensuring data quality",
+      "mk1": "Мерки за обезбедување на квалитет на податоците",
+      "status": "UNMATCHED",
+      "target": "податоците и нивно бришење на истите]",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 222,
+      "en": "Measures for ensuring data quality",
+      "mk1": "Мерки за обезбедување на квалитет на податоците",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 223,
+      "en": "Measures for ensuring limited data retention",
+      "mk1": "Мерки за обезбедување ограничено задржување на податоци",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 224,
+      "en": "Measures for ensuring accountability",
+      "mk1": "Мерки за обезбедување одговорност",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 225,
+      "en": "Measures for allowing data portability and ensuring erasure]",
+      "mk1": "Мерки за овозможување преносливост на податоците и  бришење на истите]",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 226,
+      "en": "For transfers to (sub-) processors, also describe the specific technical and organisational measures to be taken by the (sub-) processor to be able to provide assistance to the controller",
+      "mk1": "За пренос на работата до помошник-преработувачите, опишете ги и специфичните технички и организациски мерки што треба да ги преземе помошник-преработувачот за да може да му помогне на контролорот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 227,
+      "en": "Description of the specific technical and organisational measures to be taken by the processor to be able to provide assistance to the controller.",
+      "mk1": "Опис на конкретните технички и организациски мерки што треба да ги преземе преработувачот за да може да му пружи помош на контролорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 228,
+      "en": "ANNEX IV",
+      "mk1": "АНЕКС IV",
+      "status": "UNMATCHED",
+      "target": "Овој Ан",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 229,
+      "en": "List of sub-processors",
+      "mk1": "Список на помошник-преработувачи",
+      "status": "UNMATCHED",
+      "target": "екс анекс треба да се пополн",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 230,
+      "en": "This Annex needs to be completed in case of specific authorisation of sub-processors (Clause 7.7(a), Option 1).",
+      "mk1": "Овој Анекс треба да се пополни во случај на специфично овластување на помошник-преработувачите (Клаузула 7.7(а), Опција 1).",
+      "status": "REVIEW",
+      "target": "и во случај на специфично овластување на помошникпомошниците -преработувачите (Клаузула 7.7(а), Опција 1).",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 229,
+      "en": "List of sub-processors",
+      "mk1": "Список на помошник-преработувачи",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 230,
+      "en": "This Annex needs to be completed in case of specific authorisation of sub-processors (Clause 7.7(a), Option 1).",
+      "mk1": "Овој Анекс треба да се пополни во случај на специфично овластување на помошник-преработувачите (Клаузула 7.7(а), Опција 1).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 231,
+      "en": "The controller has authorised the use of the following sub-processors:",
+      "mk1": "Контролорот ја овластил употребата на следните помошник-преработувачи",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 232,
+      "en": "………………………………………………………………………………",
+      "mk1": "………………………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "Име, позиција и детали за контакт на лицето",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 233,
+      "en": "…",
+      "mk1": "…",
+      "status": "HIGH",
+      "target": "",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 234,
+      "en": "Description of the processing (including a clear delimitation of responsibilities in   \n   case several sub-processors are authorised):",
+      "mk1": "Опис на обработката (вклучувајќи јасно разграничување на одговорностите во\n    ако се овластени неколку помошник-преработувачи):",
+      "status": "HIGH",
+      "target": "за контакт: … Опис на обработката (вклучувајќи јасно разграничување на одговорностите во ако се овластени неколку помошникпомошници- преработувачи): … 2.…………………………………………………………………………………..",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 233,
+      "en": "…",
+      "mk1": "…",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 234,
+      "en": "Description of the processing (including a clear delimitation of responsibilities in   \n   case several sub-processors are authorised):",
+      "mk1": "Опис на обработката (вклучувајќи јасно разграничување на одговорностите во\n    ако се овластени неколку помошник-преработувачи):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 235,
+      "en": "…………………………………………………………………………………..",
+      "mk1": "…………………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 236,
+      "en": "COMMISSION DELEGATED REGULATION (EU) 2021/1950",
+      "mk1": "ДЕЛЕГИРАНА РЕГУЛАТИВА (ЕУ) 2021/1950 НА КОМИСИЈАТА",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 237,
+      "en": "of 10 November 2021",
+      "mk1": "од 10 ноември 2021 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 238,
+      "en": "amending Directive 2009/81/EC of the European Parliament and of the Council in respect of the thresholds for supply, service and works contracts",
+      "mk1": "за изменување и дополнување на Директивата 2009/81/ЕЗ на Европскиот парламент и на Советот во однос на праговите за договори за набавка, услуги и работи",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 239,
+      "en": " OJ L 216, 20.8.2009, p. 76.",
+      "mk1": " Сл. весник L 216, 20.8.2009, стр. 76.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 240,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2009:216:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2009:216:TOC",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 241,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2004:134:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2004:134:TOC",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 242,
+      "en": "(1)\tBy Decision 2014/115/EU (), the Council approved the Protocol amending the Agreement on Government Procurement () concluded in the framework of the World Trade Organization.",
+      "mk1": "(1)\tСо Одлуката 2014/115/ЕУ (), Советот го одобри Протоколот за изменување и дополнување на Договорот за државни набавки () склучен во рамките на Светската трговска организација.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 243,
+      "en": "The amended Agreement on Government Procurement (‘the Agreement’) is a plurilateral instrument and its purpose is to mutually open government procurement markets among its parties.",
+      "mk1": "Изменетиот Договор за државни набавки (во понатамошен текст „Договорот“) е плулилатерален инструмент и неговата цел е заемно да ги отвори пазарите за државни набавки меѓу нејзините страни.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 244,
+      "en": "Council Decision 2014/115/EU of 2 December 2013 on the conclusion of the Protocol Amending the Agreement on Government Procurement (OJ L 68, 7.3.2014, p. 1).",
+      "mk1": "Одлука на Советот 2014/115/ЕУ од 2 декември 2013 година за склучување на Протоколот за изменување и дополнување на Договорот за државни набавки (Сл. весник L 68, 7.3.2014, стр. 1).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 245,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:068:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:068:TOC",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 246,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1950&qid=1664526818363",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32021R1950&qid=1664526818363",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 247,
+      "en": " OJ L 68, 7.3.2014, p. 2",
+      "mk1": " Сл. весник L 68, 7.3.2014 година, стр. 2",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 248,
+      "en": "(2)\tOne of the objectives of Directive 2014/25/EU of the European Parliament and of the Council () is to allow the contracting entities and the contracting authorities, which apply that Directive, to comply at the same time with the obligations laid down in the Agreement.",
+      "mk1": "(2)\tЕдна од целите на Директивата 2014/25/ЕУ на Европскиот парламент и на Советот () е да им овозможи на договорните субјекти и на договорните органи, кои ја применуваат таа Директива, истовремено да се усогласат со обврските пропишани во Договорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 249,
+      "en": "In accordance with Article 17 of Directive 2014/25/EU every 2 years the Commission is to verify that the thresholds set out in Article 15, points (a) and (b), of that Directive correspond to the thresholds established in the Agreement and is to, where necessary, revise them.",
+      "mk1": "Во согласност со член 17 од Директивата 2014/25/ЕУ на секои 2 години, Комисијата треба да верификува дали праговите утврдени во член 15, точки (а) и (б) од таа Директива одговараат на праговите утврдени во Договорот и каде што е потребно, да ги ревидираат.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 250,
+      "en": " Directive 2014/25/EU of the European Parliament and of the Council of 26 February 2014 on procurement by entities operating in the water, energy, transport and postal services sectors and repealing Directive 2004/17/EC (OJ L 94, 28.3.2014, p. 243).",
+      "mk1": " Директива 2014/25/ЕУ на Европскиот парламент и на Советот од 26 февруари 2014 година за набавки од страна на субјекти кои работат во секторите за вода, енергија, транспорт и поштенски услуги и со која се укинува Директивата 2004/17/EЗ (Сл. весник L 94, 28.3.2014 година, стр. 243).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 251,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:094:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:094:TOC",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 252,
+      "en": "(3)\tThe thresholds laid down in Directive 2014/25/EU have been revised.",
+      "mk1": "(3)\tПраговите утврдени во Директивата 2014/25/ЕУ се ревидирани.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 253,
+      "en": "In accordance with Article 68(1) of Directive 2009/81/EC, the thresholds laid down in that Directive are to be aligned to the revised thresholds laid down in Directive 2014/25/EU.",
+      "mk1": "Во согласност со член 68(1) од Директивата 2009/81/ЕЗ, праговите утврдени во таа Директива треба да се усогласат со ревидираните прагови утврдени во Директивата 2014/25/ЕУ.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 254,
+      "en": "(4)\tPursuant to Article 68(1) of Directive 2009/81/EC, the Commission is also to revise the thresholds laid down in Article 8 of that Directive at the same time as thresholds laid down in Directive 2004/17/EC of the European Parliament and of the Council () are revised.",
+      "mk1": "(4)\tСогласно член 68(1) од Директивата 2009/81/ЕЗ, Комисијата исто така треба да ги ревидира праговите утврдени во член 8 од таа Директива истовремено се ревидираат и праговите утврдени во Директивата 2004/17/ЕЗ на Европскиот парламент и Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 255,
+      "en": "Article 17(1) of Directive 2014/25/EU, which repealed Directive 2004/17/EC, requires that every two years the Commission revise the thresholds with the effect from 1 January.",
+      "mk1": "Членот 17(1) од Директивата 2014/25/ЕУ, која ја укина Директивата 2004/17/ЕЗ, бара Комисијата на секои две години да ги ревидира праговите  со дејство од 1 јануари.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 256,
+      "en": "Hence, the thresholds for the years 2022–2023 should apply as of 1 January 2022.",
+      "mk1": "Оттука, праговите за годините 2022–2023 треба да важат од 1 јануари 2022 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 257,
+      "en": " Directive 2004/17/EC of the European Parliament and of the Council of 31 March 2004 coordinating the procurement procedures of entities operating in the water, energy, transport and postal services sectors (OJ L 134, 30.4.2004, p. 1).",
+      "mk1": " Директива 2004/17/ЕЗ на Европскиот парламент и на Советот од 31 март 2004 година за координирање на постапките за набавки на субјектите кои работат во секторите на вода, енергија, транспорт и поштенски услуги (Сл. весник L 134, 30.4.2004 година, стр. 1).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 258,
+      "en": "(5)\tDirective 2009/81/EC should therefore be amended accordingly,",
+      "mk1": "(5)\tДирективата 2009/81/ЕЗ се изменува соодветно,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 259,
+      "en": "HAS ADOPTED THIS REGULATION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 260,
+      "en": "Article 8 of Directive 2009/81/EC is amended as follows:",
+      "mk1": "Член 8 од Директивата 2009/81/ЕЗ се менува како што следува:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 261,
+      "en": "(1)\tin point (a), ‘EUR 428 000’ is replaced by ‘EUR 431 000’;",
+      "mk1": "(1)\tво точка (а), „428.000 евра“ се заменува со „431.000 евра“;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 262,
+      "en": "(2)\tin point (b), ‘EUR 5 350 000’ is replaced by ‘EUR 5 382 000’.",
+      "mk1": "(2)\tво точка (б), „5 350 000 евра“ се заменува со „5 382 000 евра“.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 263,
+      "en": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на дваесеттиот ден од нејзиното објавување во Службениот весник на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 264,
+      "en": "It shall apply from 1 January 2022.",
+      "mk1": "Се применува од 1 јануари 2022 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 265,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "mk1": "Оваа регулатива е целосно обврзувачка и директно применлива во сите земји членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 266,
+      "en": "Done at Brussels, 10 November 2021.",
+      "mk1": "Брисел, 10 ноември 2021 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 267,
+      "en": "Having regard to Directive 2009/81/EC of the European Parliament and of the Council of 13 July 2009 on the coordination of procedures for the award of certain works contracts, supply contracts and service contracts by contracting authorities or entities in the fields of defence and security, and amending Directives 2004/17/EC and 2004/18/EC (), and in particular Article 68(1), second subparagraph,",
+      "mk1": "Имајќи ја предвид Директивата 2009/81/ЕЗ на Европскиот парламент и на Советот од 13 јули 2009 година за координација на постапките за доделување одредени договори за работи, договори за набавки и договори за услуги од страна на договорните органи или субјекти од областа на одбрана и безбедност и изменување и дополнување на Директивите 2004/17/ЕЗ и 2004/18/ЕЗ (), а особено член 68(1), втор потстав,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 268,
+      "en": "The Agreement applies to any procurement contract with a value that reaches or exceeds the amounts set therein (‘thresholds’) expressed as special drawing rights.",
+      "mk1": "Договорот се однесува на секој договор за набавка со вредност што ги достигнува или надминува износите поставени во него („прагови“) изразени како специјални права на влечење.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 269,
+      "en": "COUNCIL DECISION (EU) 2020/752",
+      "mk1": "ОДЛУКА (ЕУ) 2020/752 НА СОВЕТОТ",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 270,
+      "en": "of 27 May 2020",
+      "mk1": "од 27 мај 2020 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 271,
+      "en": "on the conclusion of the Agreement between the European Union and the Republic of Belarus on the facilitation of the issuance of visas",
+      "mk1": "за склучување на Договорот меѓу Европската унија и Република Белорусија за олеснување на издавањето визи",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 272,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 273,
+      "en": "Having regard to the Treaty on the Functioning of the European Union, and in particular point (a) of Article 77(2), in conjunction with point (a) of the second subparagraph of Article 218(6) thereof,",
+      "mk1": "Имајќи го предвид Договорот за функционирање на Европската Унија, а особено точка (а) од член 77(2), во врска со точка (а) од вториот потстав од член 218(6),",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 274,
+      "en": "Having regard to the proposal from the European Commission,",
+      "mk1": "имајќи го предвид предлогот на Европската комисија,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 275,
+      "en": "Having regard to the consent of the European Parliament (),",
+      "mk1": "имајќи ја предвид согласноста на Европскиот парламент ),",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 276,
+      "en": " Consent of 13 May 2020 (not yet published in the Official Journal).",
+      "mk1": " Согласност од 13 мај 2020 година (сè уште не е објавена во Службениот весник).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 277,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2002:064:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2002:064:TOC",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 278,
+      "en": "(1)\tIn accordance with Council Decision (EU) 2019/1915 (), the Agreement between the European Union and Republic of Belarus on the facilitation of the issuance of visas (hereinafter ‘the Agreement’) was signed on 8 January 2020, subject to its conclusion at a later date.",
+      "mk1": "(1)\tВо согласност со Одлуката на Советот (ЕУ) 2019/1915 , Договорот меѓу Европската Унија и Република Белорусија за олеснување на издавањето визи (во натамошниот текст „Договорот“) беше потпишан на 8 јануари 2020 година, што е предмет на неговото склучување на подоцнежен датум.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 279,
+      "en": " Council Decision (EU) 2019/1915 of 14 October 2019 on the signing, on behalf of the Union, of the Agreement between the European Union and the Republic of Belarus on the facilitation of the issuance of visas (OJ L 297, 18.11.2019, p. 1).",
+      "mk1": " Одлука (ЕУ) 2019/1915 на Советот од 14 октомври 2019 година за потпишување, во име на Унијата, на Договорот меѓу Европската Унија и Република Белорусија за олеснување на издавањето визи (Сл. Весник L 297, 18.11.2019 година, стр. 1).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 280,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2019:297:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2019:297:TOC",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 281,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020D0752&qid=1664573141971",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020D0752&qid=1664573141971",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 282,
+      "en": "(2)\tIn the Eastern Partnership Summit Declaration of 7 May 2009, the Union and the partner countries expressed their political support towards liberalisation of the visa regime in a safe and secure environment and reaffirmed their intention to take gradual steps towards a visa free regime for their citizens in due course.",
+      "mk1": "(2)\tВо Декларацијата на Самитот на источното партнерство од 7 мај 2009 година, Унијата и земјите партнери ја изразија својата политичка поддршка за либерализација на визниот режим во безбедна средина и ја потврдија својата намера да преземат постепени чекори кон безвизен режим за нивните граѓани,во скоро време.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 283,
+      "en": "(3)\tThe purpose of the Agreement is to facilitate, on the basis of reciprocity, the issuance of visas for an intended stay of no more than 90 days in any 180-day period to the citizens of the Union and Belarus.",
+      "mk1": "(3)\tЦелта на Договорот е да го олесни, врз основа на реципроцитет, издавањето визи за наменски престој од не повеќе од 90 дена во кој било период од 180 дена за граѓаните на Унијата и Белорусија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 284,
+      "en": "(4)\tThis Decision constitutes a development the provisions of the Schengen acquis in which Ireland does not take part, in accordance with Council Decision 2002/192/EC (); Ireland is therefore not taking part in the adoption of this Decision and is not bound by it or subject to its application.",
+      "mk1": "(4)\tОваа одлука претставува развој на одредбите од шенгенското acquis, во кои Ирска не учествува, во согласност со Одлуката на Советот 2002/192/ЕЗ (); Затоа, Ирска не учествува во усвојувањето на оваа одлука и не е обврзана, ниту е\nпредмет на нејзината примена.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 285,
+      "en": " Council Decision 2002/192/EC of 28 February 2002 concerning Ireland’s request to take part in some of the provisions of the Schengen acquis (OJ L 64, 7.3.2002, p. 20).",
+      "mk1": " Одлука 2002/192/ЕЗ на Советот од 28 февруари 2002 година во врска со барањето на Ирска да учествува во некои од одредбите на шенгенското acquis (Сл. Весник.2002 година, стр.20).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 286,
+      "en": "(5)\tIn accordance with Articles 1 and 2 of the Protocol No 22 on the position of Denmark, annexed to the Treaty on European Union and to the Treaty on the Functioning of the European Union, Denmark is not taking part in the adoption of this Decision and is not bound by it or subject to its application.",
+      "mk1": "(5)\tВо согласност со членовите 1 и 2 од Протоколот бр. 22 за позицијата на Данска, приложено во Договорот за Европската Унија и на Договорот за функционирање на Европската Унија, Данска не учествува во усвојувањето на оваа одлука и е не е обврзана, ниту е предмет на неговата примена.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 287,
+      "en": "(6)\tThe Commission has carried out an assessment of the security and integrity of Belarus’ system of issuance of biometric diplomatic passports and their technical specifications.",
+      "mk1": "(6)\tКомисијата изврши проценка на безбедноста и интегритетот на белорускиот систем за издавање биометриски дипломатски пасоши и нивните технички спецификации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 288,
+      "en": "(7)\tThe Agreement should be approved,",
+      "mk1": "(7)\tДоговорот треба да биде одобрен,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 289,
+      "en": "The Agreement between the European Union and the Republic of Belarus on the facilitation of the issuance of visas is hereby approved on behalf of the Union ().",
+      "mk1": "Договорот меѓу Европската унија и Република Белорусија за олеснување на издавањето визи е одобрен во име на Унијата ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 290,
+      "en": " See page 3 of this Official Journal.",
+      "mk1": " Погледнете на страница 3 од овој Службен весник.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 291,
+      "en": "The President of the Council shall, on behalf of the Union, give the notification provided for in Article 14(1) of the Agreement ().",
+      "mk1": "Претседателот на Советот, во име на Унијата, го дава соопштението предвидено во член 14(1) од Договорот().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 292,
+      "en": " The date of entry into force of the Agreement will be published in the Official Journal of the European Union by the General Secretariat of the Council.",
+      "mk1": " Датумот на влегување во сила на Договорот ќе биде објавен во Службениот весник на Европската Унија од страна на Генералниот секретаријат на Советот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 293,
+      "en": "The European Commission, assisted by the representatives of the Member States, shall represent the Union within the Joint Committee set up pursuant to Article 12 of the Agreement.",
+      "mk1": "Европската комисија, потпомогната од претставниците на земјите ленки, ја претставуваат Унијата во рамките на Заедничкиот комитет формиран во согласност со член 12 од Договорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 294,
+      "en": "This Decision shall enter into force on the day of its adoption.",
+      "mk1": "Оваа одлука влегува во сила од денот на нејзиното донесување.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 295,
+      "en": "Done at Brussels, 27 May 2020.",
+      "mk1": "Брисел, 27 мај 2020 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 296,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 297,
+      "en": "G. GRLIĆ RADMAN",
+      "mk1": "Г. ГРЛИЌ РАДМАН",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    }
+  ],
+  "accepted_indices": [
+    1,
+    2,
+    3,
+    79,
+    234
+  ]
+}

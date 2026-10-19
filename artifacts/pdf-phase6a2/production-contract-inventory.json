@@ -1,0 +1,9 @@
+{
+  "sourceIdentity": ["Box", "SourceRef", "Fragment"],
+  "documentNodes": ["Node", "StyleEvidence", "Classification"],
+  "structuralNodes": ["Node.type values Heading, Paragraph, ListItem, Table, TableRow, TableCell, Footnote, PageBreak"],
+  "decisions": ["BoundaryClassification", "DiagnosticRecord", "Decision"],
+  "validation": ["validate_decisions", "validate_provenance_exact_once", "validate_token_integrity"],
+  "ambiguity": ["DiagnosticRecord.ambiguity_status"],
+  "inlineBreaks": ["Node attributes consumed by production serializer"]
+}

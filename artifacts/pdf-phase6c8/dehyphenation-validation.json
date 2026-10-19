@@ -1,0 +1,3168 @@
+{
+  "status": "PASS",
+  "celex": "32006L0114",
+  "sourcePdfSha256": "1b0fb08ec46c93b9df62675f2b898030511dfcf5df4832b15cde56681932008b",
+  "experimentalDocxSha256": "5250d54a2e487a01b0270a5e8a31d8860e3671fbade9d819924154758dd336e5",
+  "recitals": {
+    "count": 21,
+    "numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "tabbed": true
+  },
+  "typedModel": {
+    "nodes": 129,
+    "translationUnits": 123,
+    "tables": 3,
+    "footnotes": 7
+  },
+  "textIntegrity": {
+    "status": "PASS",
+    "tokens": 3257,
+    "sha256": "feeec12c487bcf24b623d2da7cce85e346f3f15426507d19fcef6134d31b7275",
+    "footnotes": 7
+  },
+  "sourceCoverage": {
+    "status": "PASS",
+    "tokens": 3257,
+    "sourceSpans": 3362,
+    "modelSpans": 3334,
+    "excludedSpans": 28,
+    "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+  },
+  "docxStructure": {
+    "nonEmptyDocxParagraphs": 215,
+    "nonEmptyBodyParagraphs": 117,
+    "tables": [
+      {
+        "index": 0,
+        "rows": 3,
+        "columns": 2,
+        "cells": 6,
+        "containsArticle1": false,
+        "containsAnnexI": false
+      },
+      {
+        "index": 1,
+        "rows": 4,
+        "columns": 3,
+        "cells": 12,
+        "containsArticle1": false,
+        "containsAnnexI": false
+      },
+      {
+        "index": 2,
+        "rows": 41,
+        "columns": 2,
+        "cells": 82,
+        "containsArticle1": true,
+        "containsAnnexI": true
+      }
+    ],
+    "article1InTableCell": true,
+    "annexIInTableCell": true
+  },
+  "recitalDecisions": [
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-98ff4c29b18fae8b",
+      "source": [
+        {
+          "page": 1,
+          "block_index": 11,
+          "line_ids": [
+            "p1-b11-l0"
+          ],
+          "span_ids": [
+            "p1-b11-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 41.306400299072266,
+              "y0": 410.2868957519531,
+              "x1": 50.23374938964844,
+              "y1": 419.0096130371094
+            }
+          ],
+          "reading_order_start": 12,
+          "reading_order_end": 12
+        },
+        {
+          "page": 1,
+          "block_index": 11,
+          "line_ids": [
+            "p1-b11-l1",
+            "p1-b11-l2",
+            "p1-b11-l3",
+            "p1-b11-l4",
+            "p1-b11-l5"
+          ],
+          "span_ids": [
+            "p1-b11-l1-s0",
+            "p1-b11-l2-s0",
+            "p1-b11-l2-s1",
+            "p1-b11-l2-s2",
+            "p1-b11-l2-s3",
+            "p1-b11-l2-s4",
+            "p1-b11-l2-s5",
+            "p1-b11-l2-s6",
+            "p1-b11-l2-s7",
+            "p1-b11-l2-s8",
+            "p1-b11-l2-s9",
+            "p1-b11-l2-s10",
+            "p1-b11-l2-s11",
+            "p1-b11-l2-s12",
+            "p1-b11-l3-s0",
+            "p1-b11-l3-s1",
+            "p1-b11-l3-s2",
+            "p1-b11-l3-s3",
+            "p1-b11-l3-s4",
+            "p1-b11-l3-s5",
+            "p1-b11-l3-s6",
+            "p1-b11-l3-s7",
+            "p1-b11-l3-s8",
+            "p1-b11-l3-s9",
+            "p1-b11-l3-s10",
+            "p1-b11-l3-s11",
+            "p1-b11-l3-s12",
+            "p1-b11-l3-s13",
+            "p1-b11-l3-s14",
+            "p1-b11-l3-s15",
+            "p1-b11-l3-s16",
+            "p1-b11-l4-s0",
+            "p1-b11-l4-s1",
+            "p1-b11-l4-s2",
+            "p1-b11-l4-s3",
+            "p1-b11-l4-s4",
+            "p1-b11-l4-s5",
+            "p1-b11-l4-s6",
+            "p1-b11-l4-s7",
+            "p1-b11-l4-s8",
+            "p1-b11-l4-s9",
+            "p1-b11-l4-s10",
+            "p1-b11-l4-s11",
+            "p1-b11-l4-s12",
+            "p1-b11-l4-s13",
+            "p1-b11-l4-s14",
+            "p1-b11-l4-s15",
+            "p1-b11-l4-s16",
+            "p1-b11-l4-s17",
+            "p1-b11-l4-s18",
+            "p1-b11-l5-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 66.78610229492188,
+              "y0": 409.4854431152344,
+              "x1": 284.5873718261719,
+              "y1": 461.9311828613281
+            }
+          ],
+          "reading_order_start": 11,
+          "reading_order_end": 11
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=1",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-9d003c39fb67bd18",
+      "source": [
+        {
+          "page": 1,
+          "block_index": 12,
+          "line_ids": [
+            "p1-b12-l0"
+          ],
+          "span_ids": [
+            "p1-b12-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 41.306400299072266,
+              "y0": 483.4150085449219,
+              "x1": 50.399166107177734,
+              "y1": 492.1377258300781
+            }
+          ],
+          "reading_order_start": 14,
+          "reading_order_end": 14
+        },
+        {
+          "page": 1,
+          "block_index": 12,
+          "line_ids": [
+            "p1-b12-l1",
+            "p1-b12-l2",
+            "p1-b12-l3",
+            "p1-b12-l4",
+            "p1-b12-l5"
+          ],
+          "span_ids": [
+            "p1-b12-l1-s0",
+            "p1-b12-l1-s1",
+            "p1-b12-l1-s2",
+            "p1-b12-l1-s3",
+            "p1-b12-l1-s4",
+            "p1-b12-l1-s5",
+            "p1-b12-l1-s6",
+            "p1-b12-l1-s7",
+            "p1-b12-l1-s8",
+            "p1-b12-l1-s9",
+            "p1-b12-l1-s10",
+            "p1-b12-l1-s11",
+            "p1-b12-l1-s12",
+            "p1-b12-l1-s13",
+            "p1-b12-l1-s14",
+            "p1-b12-l1-s15",
+            "p1-b12-l1-s16",
+            "p1-b12-l2-s0",
+            "p1-b12-l2-s1",
+            "p1-b12-l2-s2",
+            "p1-b12-l2-s3",
+            "p1-b12-l2-s4",
+            "p1-b12-l2-s5",
+            "p1-b12-l2-s6",
+            "p1-b12-l2-s7",
+            "p1-b12-l2-s8",
+            "p1-b12-l2-s9",
+            "p1-b12-l2-s10",
+            "p1-b12-l2-s11",
+            "p1-b12-l2-s12",
+            "p1-b12-l3-s0",
+            "p1-b12-l4-s0",
+            "p1-b12-l4-s1",
+            "p1-b12-l4-s2",
+            "p1-b12-l4-s3",
+            "p1-b12-l4-s4",
+            "p1-b12-l4-s5",
+            "p1-b12-l4-s6",
+            "p1-b12-l4-s7",
+            "p1-b12-l4-s8",
+            "p1-b12-l4-s9",
+            "p1-b12-l4-s10",
+            "p1-b12-l4-s11",
+            "p1-b12-l4-s12",
+            "p1-b12-l4-s13",
+            "p1-b12-l4-s14",
+            "p1-b12-l4-s15",
+            "p1-b12-l4-s16",
+            "p1-b12-l5-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 66.88593292236328,
+              "y0": 482.6135559082031,
+              "x1": 284.4022521972656,
+              "y1": 535.0590209960938
+            }
+          ],
+          "reading_order_start": 13,
+          "reading_order_end": 13
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=2",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-ee605cabe59e3dec",
+      "source": [
+        {
+          "page": 1,
+          "block_index": 13,
+          "line_ids": [
+            "p1-b13-l0"
+          ],
+          "span_ids": [
+            "p1-b13-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 41.306400299072266,
+              "y0": 556.543212890625,
+              "x1": 50.30195999145508,
+              "y1": 565.2659301757812
+            }
+          ],
+          "reading_order_start": 16,
+          "reading_order_end": 16
+        },
+        {
+          "page": 1,
+          "block_index": 13,
+          "line_ids": [
+            "p1-b13-l1",
+            "p1-b13-l2"
+          ],
+          "span_ids": [
+            "p1-b13-l1-s0",
+            "p1-b13-l2-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 66.88628387451172,
+              "y0": 555.74169921875,
+              "x1": 284.39971923828125,
+              "y1": 576.2128295898438
+            }
+          ],
+          "reading_order_start": 15,
+          "reading_order_end": 15
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=3",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-3bfdb62384a1dce1",
+      "source": [
+        {
+          "page": 1,
+          "block_index": 14,
+          "line_ids": [
+            "p1-b14-l0"
+          ],
+          "span_ids": [
+            "p1-b14-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 41.306400299072266,
+              "y0": 597.6966552734375,
+              "x1": 50.30195999145508,
+              "y1": 606.4193725585938
+            }
+          ],
+          "reading_order_start": 18,
+          "reading_order_end": 18
+        },
+        {
+          "page": 1,
+          "block_index": 14,
+          "line_ids": [
+            "p1-b14-l1",
+            "p1-b14-l2"
+          ],
+          "span_ids": [
+            "p1-b14-l1-s0",
+            "p1-b14-l1-s1",
+            "p1-b14-l1-s2",
+            "p1-b14-l1-s3",
+            "p1-b14-l1-s4",
+            "p1-b14-l1-s5",
+            "p1-b14-l1-s6",
+            "p1-b14-l1-s7",
+            "p1-b14-l1-s8",
+            "p1-b14-l1-s9",
+            "p1-b14-l1-s10",
+            "p1-b14-l1-s11",
+            "p1-b14-l1-s12",
+            "p1-b14-l1-s13",
+            "p1-b14-l1-s14",
+            "p1-b14-l1-s15",
+            "p1-b14-l1-s16",
+            "p1-b14-l2-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 66.88628387451172,
+              "y0": 596.8951416015625,
+              "x1": 284.4188232421875,
+              "y1": 617.3662719726562
+            }
+          ],
+          "reading_order_start": 17,
+          "reading_order_end": 17
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=4",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-44c0295a881a1e71",
+      "source": [
+        {
+          "page": 1,
+          "block_index": 15,
+          "line_ids": [
+            "p1-b15-l0"
+          ],
+          "span_ids": [
+            "p1-b15-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 41.306400299072266,
+              "y0": 638.8500366210938,
+              "x1": 50.27979278564453,
+              "y1": 647.57275390625
+            }
+          ],
+          "reading_order_start": 20,
+          "reading_order_end": 20
+        },
+        {
+          "page": 1,
+          "block_index": 15,
+          "line_ids": [
+            "p1-b15-l1",
+            "p1-b15-l2",
+            "p1-b15-l3",
+            "p1-b15-l4",
+            "p1-b15-l5"
+          ],
+          "span_ids": [
+            "p1-b15-l1-s0",
+            "p1-b15-l2-s0",
+            "p1-b15-l2-s1",
+            "p1-b15-l2-s2",
+            "p1-b15-l2-s3",
+            "p1-b15-l2-s4",
+            "p1-b15-l2-s5",
+            "p1-b15-l2-s6",
+            "p1-b15-l2-s7",
+            "p1-b15-l2-s8",
+            "p1-b15-l2-s9",
+            "p1-b15-l2-s10",
+            "p1-b15-l2-s11",
+            "p1-b15-l2-s12",
+            "p1-b15-l3-s0",
+            "p1-b15-l4-s0",
+            "p1-b15-l4-s1",
+            "p1-b15-l4-s2",
+            "p1-b15-l4-s3",
+            "p1-b15-l4-s4",
+            "p1-b15-l4-s5",
+            "p1-b15-l4-s6",
+            "p1-b15-l4-s7",
+            "p1-b15-l4-s8",
+            "p1-b15-l4-s9",
+            "p1-b15-l4-s10",
+            "p1-b15-l4-s11",
+            "p1-b15-l4-s12",
+            "p1-b15-l4-s13",
+            "p1-b15-l4-s14",
+            "p1-b15-l4-s15",
+            "p1-b15-l4-s16",
+            "p1-b15-l4-s17",
+            "p1-b15-l4-s18",
+            "p1-b15-l5-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 66.8541030883789,
+              "y0": 638.0485229492188,
+              "x1": 284.41357421875,
+              "y1": 690.4940185546875
+            }
+          ],
+          "reading_order_start": 19,
+          "reading_order_end": 19
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=5",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-77c9179b23d02f3e",
+      "source": [
+        {
+          "page": 1,
+          "block_index": 16,
+          "line_ids": [
+            "p1-b16-l0"
+          ],
+          "span_ids": [
+            "p1-b16-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 309.8606872558594,
+              "y0": 186.9225311279297,
+              "x1": 318.8221435546875,
+              "y1": 195.64524841308594
+            }
+          ],
+          "reading_order_start": 25,
+          "reading_order_end": 25
+        },
+        {
+          "page": 1,
+          "block_index": 16,
+          "line_ids": [
+            "p1-b16-l1",
+            "p1-b16-l2",
+            "p1-b16-l3",
+            "p1-b16-l4",
+            "p1-b16-l5",
+            "p1-b16-l6",
+            "p1-b16-l7",
+            "p1-b16-l8",
+            "p1-b16-l9",
+            "p1-b16-l10",
+            "p1-b16-l11",
+            "p1-b16-l12",
+            "p1-b16-l13"
+          ],
+          "span_ids": [
+            "p1-b16-l1-s0",
+            "p1-b16-l2-s0",
+            "p1-b16-l3-s0",
+            "p1-b16-l4-s0",
+            "p1-b16-l5-s0",
+            "p1-b16-l6-s0",
+            "p1-b16-l7-s0",
+            "p1-b16-l7-s1",
+            "p1-b16-l7-s2",
+            "p1-b16-l7-s3",
+            "p1-b16-l7-s4",
+            "p1-b16-l7-s5",
+            "p1-b16-l7-s6",
+            "p1-b16-l7-s7",
+            "p1-b16-l7-s8",
+            "p1-b16-l7-s9",
+            "p1-b16-l7-s10",
+            "p1-b16-l7-s11",
+            "p1-b16-l7-s12",
+            "p1-b16-l7-s13",
+            "p1-b16-l7-s14",
+            "p1-b16-l8-s0",
+            "p1-b16-l8-s1",
+            "p1-b16-l8-s2",
+            "p1-b16-l8-s3",
+            "p1-b16-l8-s4",
+            "p1-b16-l8-s5",
+            "p1-b16-l8-s6",
+            "p1-b16-l8-s7",
+            "p1-b16-l8-s8",
+            "p1-b16-l8-s9",
+            "p1-b16-l8-s10",
+            "p1-b16-l8-s11",
+            "p1-b16-l8-s12",
+            "p1-b16-l8-s13",
+            "p1-b16-l8-s14",
+            "p1-b16-l8-s15",
+            "p1-b16-l8-s16",
+            "p1-b16-l9-s0",
+            "p1-b16-l10-s0",
+            "p1-b16-l10-s1",
+            "p1-b16-l10-s2",
+            "p1-b16-l10-s3",
+            "p1-b16-l10-s4",
+            "p1-b16-l10-s5",
+            "p1-b16-l10-s6",
+            "p1-b16-l10-s7",
+            "p1-b16-l10-s8",
+            "p1-b16-l10-s9",
+            "p1-b16-l10-s10",
+            "p1-b16-l10-s11",
+            "p1-b16-l10-s12",
+            "p1-b16-l10-s13",
+            "p1-b16-l10-s14",
+            "p1-b16-l10-s15",
+            "p1-b16-l10-s16",
+            "p1-b16-l11-s0",
+            "p1-b16-l11-s1",
+            "p1-b16-l11-s2",
+            "p1-b16-l11-s3",
+            "p1-b16-l11-s4",
+            "p1-b16-l11-s5",
+            "p1-b16-l11-s6",
+            "p1-b16-l11-s7",
+            "p1-b16-l11-s8",
+            "p1-b16-l11-s9",
+            "p1-b16-l11-s10",
+            "p1-b16-l11-s11",
+            "p1-b16-l11-s12",
+            "p1-b16-l12-s0",
+            "p1-b16-l13-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 335.3915100097656,
+              "y0": 186.1210479736328,
+              "x1": 553.1382446289062,
+              "y1": 323.831787109375
+            }
+          ],
+          "reading_order_start": 24,
+          "reading_order_end": 24
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=6",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-ea200916d51f058f",
+      "source": [
+        {
+          "page": 1,
+          "block_index": 17,
+          "line_ids": [
+            "p1-b17-l0"
+          ],
+          "span_ids": [
+            "p1-b17-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 309.8606872558594,
+              "y0": 362.2283020019531,
+              "x1": 318.8562316894531,
+              "y1": 370.9510192871094
+            }
+          ],
+          "reading_order_start": 27,
+          "reading_order_end": 27
+        },
+        {
+          "page": 1,
+          "block_index": 17,
+          "line_ids": [
+            "p1-b17-l1",
+            "p1-b17-l2"
+          ],
+          "span_ids": [
+            "p1-b17-l1-s0",
+            "p1-b17-l1-s1",
+            "p1-b17-l1-s2",
+            "p1-b17-l1-s3",
+            "p1-b17-l1-s4",
+            "p1-b17-l1-s5",
+            "p1-b17-l1-s6",
+            "p1-b17-l1-s7",
+            "p1-b17-l1-s8",
+            "p1-b17-l1-s9",
+            "p1-b17-l1-s10",
+            "p1-b17-l1-s11",
+            "p1-b17-l1-s12",
+            "p1-b17-l2-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 335.4405822753906,
+              "y0": 361.4268493652344,
+              "x1": 552.9501342773438,
+              "y1": 381.8979797363281
+            }
+          ],
+          "reading_order_start": 26,
+          "reading_order_end": 26
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=7",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-d0c6ee745fa1e4fb",
+      "source": [
+        {
+          "page": 1,
+          "block_index": 18,
+          "line_ids": [
+            "p1-b18-l0"
+          ],
+          "span_ids": [
+            "p1-b18-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 309.8606872558594,
+              "y0": 420.2931823730469,
+              "x1": 318.95855712890625,
+              "y1": 429.0158996582031
+            }
+          ],
+          "reading_order_start": 29,
+          "reading_order_end": 29
+        },
+        {
+          "page": 1,
+          "block_index": 18,
+          "line_ids": [
+            "p1-b18-l1",
+            "p1-b18-l2",
+            "p1-b18-l3",
+            "p1-b18-l4",
+            "p1-b18-l5",
+            "p1-b18-l6"
+          ],
+          "span_ids": [
+            "p1-b18-l1-s0",
+            "p1-b18-l1-s1",
+            "p1-b18-l1-s2",
+            "p1-b18-l1-s3",
+            "p1-b18-l1-s4",
+            "p1-b18-l1-s5",
+            "p1-b18-l1-s6",
+            "p1-b18-l1-s7",
+            "p1-b18-l1-s8",
+            "p1-b18-l1-s9",
+            "p1-b18-l1-s10",
+            "p1-b18-l2-s0",
+            "p1-b18-l2-s1",
+            "p1-b18-l2-s2",
+            "p1-b18-l2-s3",
+            "p1-b18-l2-s4",
+            "p1-b18-l2-s5",
+            "p1-b18-l2-s6",
+            "p1-b18-l2-s7",
+            "p1-b18-l2-s8",
+            "p1-b18-l2-s9",
+            "p1-b18-l2-s10",
+            "p1-b18-l2-s11",
+            "p1-b18-l2-s12",
+            "p1-b18-l2-s13",
+            "p1-b18-l2-s14",
+            "p1-b18-l3-s0",
+            "p1-b18-l3-s1",
+            "p1-b18-l3-s2",
+            "p1-b18-l4-s0",
+            "p1-b18-l5-s0",
+            "p1-b18-l5-s1",
+            "p1-b18-l5-s2",
+            "p1-b18-l5-s3",
+            "p1-b18-l5-s4",
+            "p1-b18-l5-s5",
+            "p1-b18-l5-s6",
+            "p1-b18-l5-s7",
+            "p1-b18-l5-s8",
+            "p1-b18-l5-s9",
+            "p1-b18-l5-s10",
+            "p1-b18-l5-s11",
+            "p1-b18-l5-s12",
+            "p1-b18-l5-s13",
+            "p1-b18-l5-s14",
+            "p1-b18-l5-s15",
+            "p1-b18-l5-s16",
+            "p1-b18-l6-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 335.4402160644531,
+              "y0": 419.4917297363281,
+              "x1": 553.0726928710938,
+              "y1": 482.5953063964844
+            }
+          ],
+          "reading_order_start": 28,
+          "reading_order_end": 28
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=8",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-aa72e7d56c411b03",
+      "source": [
+        {
+          "page": 1,
+          "block_index": 19,
+          "line_ids": [
+            "p1-b19-l0"
+          ],
+          "span_ids": [
+            "p1-b19-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 309.8606872558594,
+              "y0": 520.9910888671875,
+              "x1": 318.8562316894531,
+              "y1": 529.7138061523438
+            }
+          ],
+          "reading_order_start": 31,
+          "reading_order_end": 31
+        },
+        {
+          "page": 1,
+          "block_index": 19,
+          "line_ids": [
+            "p1-b19-l1",
+            "p1-b19-l2",
+            "p1-b19-l3",
+            "p1-b19-l4",
+            "p1-b19-l5",
+            "p1-b19-l6",
+            "p1-b19-l7",
+            "p1-b19-l8"
+          ],
+          "span_ids": [
+            "p1-b19-l1-s0",
+            "p1-b19-l2-s0",
+            "p1-b19-l2-s1",
+            "p1-b19-l2-s2",
+            "p1-b19-l2-s3",
+            "p1-b19-l2-s4",
+            "p1-b19-l2-s5",
+            "p1-b19-l2-s6",
+            "p1-b19-l2-s7",
+            "p1-b19-l2-s8",
+            "p1-b19-l2-s9",
+            "p1-b19-l2-s10",
+            "p1-b19-l2-s11",
+            "p1-b19-l2-s12",
+            "p1-b19-l2-s13",
+            "p1-b19-l2-s14",
+            "p1-b19-l3-s0",
+            "p1-b19-l3-s1",
+            "p1-b19-l3-s2",
+            "p1-b19-l3-s3",
+            "p1-b19-l3-s4",
+            "p1-b19-l3-s5",
+            "p1-b19-l3-s6",
+            "p1-b19-l3-s7",
+            "p1-b19-l3-s8",
+            "p1-b19-l3-s9",
+            "p1-b19-l3-s10",
+            "p1-b19-l3-s11",
+            "p1-b19-l3-s12",
+            "p1-b19-l3-s13",
+            "p1-b19-l3-s14",
+            "p1-b19-l4-s0",
+            "p1-b19-l4-s1",
+            "p1-b19-l4-s2",
+            "p1-b19-l4-s3",
+            "p1-b19-l4-s4",
+            "p1-b19-l4-s5",
+            "p1-b19-l4-s6",
+            "p1-b19-l4-s7",
+            "p1-b19-l4-s8",
+            "p1-b19-l4-s9",
+            "p1-b19-l4-s10",
+            "p1-b19-l4-s11",
+            "p1-b19-l4-s12",
+            "p1-b19-l5-s0",
+            "p1-b19-l5-s1",
+            "p1-b19-l5-s2",
+            "p1-b19-l5-s3",
+            "p1-b19-l5-s4",
+            "p1-b19-l5-s5",
+            "p1-b19-l5-s6",
+            "p1-b19-l5-s7",
+            "p1-b19-l5-s8",
+            "p1-b19-l5-s9",
+            "p1-b19-l5-s10",
+            "p1-b19-l5-s11",
+            "p1-b19-l5-s12",
+            "p1-b19-l5-s13",
+            "p1-b19-l5-s14",
+            "p1-b19-l5-s15",
+            "p1-b19-l5-s16",
+            "p1-b19-l6-s0",
+            "p1-b19-l6-s1",
+            "p1-b19-l6-s2",
+            "p1-b19-l6-s3",
+            "p1-b19-l6-s4",
+            "p1-b19-l6-s5",
+            "p1-b19-l6-s6",
+            "p1-b19-l6-s7",
+            "p1-b19-l6-s8",
+            "p1-b19-l6-s9",
+            "p1-b19-l6-s10",
+            "p1-b19-l6-s11",
+            "p1-b19-l6-s12",
+            "p1-b19-l7-s0",
+            "p1-b19-l8-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 335.4405822753906,
+              "y0": 520.1895751953125,
+              "x1": 552.9758911132812,
+              "y1": 604.6094360351562
+            }
+          ],
+          "reading_order_start": 30,
+          "reading_order_end": 30
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=9",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-fb0f972941b0f3d5",
+      "source": [
+        {
+          "page": 1,
+          "block_index": 20,
+          "line_ids": [
+            "p1-b20-l0"
+          ],
+          "span_ids": [
+            "p1-b20-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 309.8606872558594,
+              "y0": 643.005615234375,
+              "x1": 323.4009094238281,
+              "y1": 651.7283325195312
+            }
+          ],
+          "reading_order_start": 33,
+          "reading_order_end": 33
+        },
+        {
+          "page": 1,
+          "block_index": 20,
+          "line_ids": [
+            "p1-b20-l1",
+            "p1-b20-l2",
+            "p1-b20-l3",
+            "p1-b20-l4",
+            "p1-b20-l5"
+          ],
+          "span_ids": [
+            "p1-b20-l1-s0",
+            "p1-b20-l2-s0",
+            "p1-b20-l2-s1",
+            "p1-b20-l2-s2",
+            "p1-b20-l2-s3",
+            "p1-b20-l2-s4",
+            "p1-b20-l2-s5",
+            "p1-b20-l2-s6",
+            "p1-b20-l2-s7",
+            "p1-b20-l2-s8",
+            "p1-b20-l2-s9",
+            "p1-b20-l2-s10",
+            "p1-b20-l3-s0",
+            "p1-b20-l4-s0",
+            "p1-b20-l4-s1",
+            "p1-b20-l4-s2",
+            "p1-b20-l4-s3",
+            "p1-b20-l4-s4",
+            "p1-b20-l4-s5",
+            "p1-b20-l4-s6",
+            "p1-b20-l4-s7",
+            "p1-b20-l4-s8",
+            "p1-b20-l4-s9",
+            "p1-b20-l4-s10",
+            "p1-b20-l4-s11",
+            "p1-b20-l4-s12",
+            "p1-b20-l4-s13",
+            "p1-b20-l4-s14",
+            "p1-b20-l4-s15",
+            "p1-b20-l4-s16",
+            "p1-b20-l4-s17",
+            "p1-b20-l4-s18",
+            "p1-b20-l5-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 335.4406433105469,
+              "y0": 642.2041015625,
+              "x1": 553.0094604492188,
+              "y1": 694.6495971679688
+            }
+          ],
+          "reading_order_start": 32,
+          "reading_order_end": 32
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=10",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-c67ddf93d3561e8d",
+      "source": [
+        {
+          "page": 1,
+          "block_index": 21,
+          "line_ids": [
+            "p1-b21-l0"
+          ],
+          "span_ids": [
+            "p1-b21-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 309.8606872558594,
+              "y0": 733.1530151367188,
+              "x1": 323.55438232421875,
+              "y1": 741.875732421875
+            }
+          ],
+          "reading_order_start": 35,
+          "reading_order_end": 35
+        },
+        {
+          "page": 1,
+          "block_index": 21,
+          "line_ids": [
+            "p1-b21-l1",
+            "p1-b21-l2",
+            "p1-b21-l3",
+            "p1-b21-l4",
+            "p1-b21-l5",
+            "p1-b21-l6"
+          ],
+          "span_ids": [
+            "p1-b21-l1-s0",
+            "p1-b21-l1-s1",
+            "p1-b21-l1-s2",
+            "p1-b21-l1-s3",
+            "p1-b21-l1-s4",
+            "p1-b21-l1-s5",
+            "p1-b21-l1-s6",
+            "p1-b21-l1-s7",
+            "p1-b21-l1-s8",
+            "p1-b21-l1-s9",
+            "p1-b21-l1-s10",
+            "p1-b21-l1-s11",
+            "p1-b21-l1-s12",
+            "p1-b21-l2-s0",
+            "p1-b21-l2-s1",
+            "p1-b21-l2-s2",
+            "p1-b21-l2-s3",
+            "p1-b21-l2-s4",
+            "p1-b21-l2-s5",
+            "p1-b21-l2-s6",
+            "p1-b21-l2-s7",
+            "p1-b21-l2-s8",
+            "p1-b21-l2-s9",
+            "p1-b21-l2-s10",
+            "p1-b21-l2-s11",
+            "p1-b21-l2-s12",
+            "p1-b21-l2-s13",
+            "p1-b21-l2-s14",
+            "p1-b21-l3-s0",
+            "p1-b21-l4-s0",
+            "p1-b21-l4-s1",
+            "p1-b21-l4-s2",
+            "p1-b21-l4-s3",
+            "p1-b21-l4-s4",
+            "p1-b21-l4-s5",
+            "p1-b21-l4-s6",
+            "p1-b21-l4-s7",
+            "p1-b21-l4-s8",
+            "p1-b21-l4-s9",
+            "p1-b21-l4-s10",
+            "p1-b21-l4-s11",
+            "p1-b21-l4-s12",
+            "p1-b21-l4-s13",
+            "p1-b21-l4-s14",
+            "p1-b21-l4-s15",
+            "p1-b21-l4-s16",
+            "p1-b21-l5-s0",
+            "p1-b21-l5-s1",
+            "p1-b21-l5-s2",
+            "p1-b21-l5-s3",
+            "p1-b21-l5-s4",
+            "p1-b21-l5-s5",
+            "p1-b21-l5-s6",
+            "p1-b21-l5-s7",
+            "p1-b21-l5-s8",
+            "p1-b21-l5-s9",
+            "p1-b21-l5-s10",
+            "p1-b21-l5-s11",
+            "p1-b21-l5-s12",
+            "p1-b21-l5-s13",
+            "p1-b21-l5-s14",
+            "p1-b21-l5-s15",
+            "p1-b21-l5-s16",
+            "p1-b21-l6-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 335.4404296875,
+              "y0": 732.3515014648438,
+              "x1": 552.9730834960938,
+              "y1": 795.4551391601562
+            }
+          ],
+          "reading_order_start": 34,
+          "reading_order_end": 34
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=11",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-2b7331ad6f0809e2",
+      "source": [
+        {
+          "page": 2,
+          "block_index": 0,
+          "line_ids": [
+            "p2-b0-l0"
+          ],
+          "span_ids": [
+            "p2-b0-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 42.37229919433594,
+              "y0": 76.75682067871094,
+              "x1": 55.91253662109375,
+              "y1": 85.47953033447266
+            }
+          ],
+          "reading_order_start": 37,
+          "reading_order_end": 37
+        },
+        {
+          "page": 2,
+          "block_index": 0,
+          "line_ids": [
+            "p2-b0-l1",
+            "p2-b0-l2",
+            "p2-b0-l3",
+            "p2-b0-l4",
+            "p2-b0-l5",
+            "p2-b0-l6",
+            "p2-b0-l7"
+          ],
+          "span_ids": [
+            "p2-b0-l1-s0",
+            "p2-b0-l1-s1",
+            "p2-b0-l1-s2",
+            "p2-b0-l1-s3",
+            "p2-b0-l1-s4",
+            "p2-b0-l1-s5",
+            "p2-b0-l1-s6",
+            "p2-b0-l1-s7",
+            "p2-b0-l1-s8",
+            "p2-b0-l1-s9",
+            "p2-b0-l1-s10",
+            "p2-b0-l1-s11",
+            "p2-b0-l1-s12",
+            "p2-b0-l2-s0",
+            "p2-b0-l3-s0",
+            "p2-b0-l3-s1",
+            "p2-b0-l3-s2",
+            "p2-b0-l3-s3",
+            "p2-b0-l3-s4",
+            "p2-b0-l3-s5",
+            "p2-b0-l3-s6",
+            "p2-b0-l3-s7",
+            "p2-b0-l3-s8",
+            "p2-b0-l3-s9",
+            "p2-b0-l3-s10",
+            "p2-b0-l3-s11",
+            "p2-b0-l3-s12",
+            "p2-b0-l3-s13",
+            "p2-b0-l3-s14",
+            "p2-b0-l3-s15",
+            "p2-b0-l3-s16",
+            "p2-b0-l3-s17",
+            "p2-b0-l3-s18",
+            "p2-b0-l4-s0",
+            "p2-b0-l5-s0",
+            "p2-b0-l5-s1",
+            "p2-b0-l5-s2",
+            "p2-b0-l5-s3",
+            "p2-b0-l5-s4",
+            "p2-b0-l5-s5",
+            "p2-b0-l5-s6",
+            "p2-b0-l5-s7",
+            "p2-b0-l5-s8",
+            "p2-b0-l5-s9",
+            "p2-b0-l5-s10",
+            "p2-b0-l5-s11",
+            "p2-b0-l5-s12",
+            "p2-b0-l5-s13",
+            "p2-b0-l5-s14",
+            "p2-b0-l6-s0",
+            "p2-b0-l6-s1",
+            "p2-b0-l6-s2",
+            "p2-b0-l6-s3",
+            "p2-b0-l6-s4",
+            "p2-b0-l6-s5",
+            "p2-b0-l6-s6",
+            "p2-b0-l6-s7",
+            "p2-b0-l6-s8",
+            "p2-b0-l6-s9",
+            "p2-b0-l6-s10",
+            "p2-b0-l6-s11",
+            "p2-b0-l6-s12",
+            "p2-b0-l6-s13",
+            "p2-b0-l6-s14",
+            "p2-b0-l6-s15",
+            "p2-b0-l6-s16",
+            "p2-b0-l7-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 67.95222473144531,
+              "y0": 75.95533752441406,
+              "x1": 285.4866943359375,
+              "y1": 150.36338806152344
+            }
+          ],
+          "reading_order_start": 36,
+          "reading_order_end": 36
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=12",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-286e9c86b009624a",
+      "source": [
+        {
+          "page": 2,
+          "block_index": 1,
+          "line_ids": [
+            "p2-b1-l0"
+          ],
+          "span_ids": [
+            "p2-b1-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 42.37229919433594,
+              "y0": 185.3124237060547,
+              "x1": 56.058345794677734,
+              "y1": 194.03514099121094
+            }
+          ],
+          "reading_order_start": 39,
+          "reading_order_end": 39
+        },
+        {
+          "page": 2,
+          "block_index": 1,
+          "line_ids": [
+            "p2-b1-l1",
+            "p2-b1-l2",
+            "p2-b1-l3",
+            "p2-b1-l4",
+            "p2-b1-l5",
+            "p2-b1-l6",
+            "p2-b1-l7",
+            "p2-b1-l8"
+          ],
+          "span_ids": [
+            "p2-b1-l1-s0",
+            "p2-b1-l1-s1",
+            "p2-b1-l1-s2",
+            "p2-b1-l1-s3",
+            "p2-b1-l1-s4",
+            "p2-b1-l1-s5",
+            "p2-b1-l1-s6",
+            "p2-b1-l1-s7",
+            "p2-b1-l1-s8",
+            "p2-b1-l1-s9",
+            "p2-b1-l1-s10",
+            "p2-b1-l1-s11",
+            "p2-b1-l1-s12",
+            "p2-b1-l1-s13",
+            "p2-b1-l1-s14",
+            "p2-b1-l2-s0",
+            "p2-b1-l3-s0",
+            "p2-b1-l3-s1",
+            "p2-b1-l3-s2",
+            "p2-b1-l3-s3",
+            "p2-b1-l3-s4",
+            "p2-b1-l3-s5",
+            "p2-b1-l3-s6",
+            "p2-b1-l3-s7",
+            "p2-b1-l3-s8",
+            "p2-b1-l3-s9",
+            "p2-b1-l3-s10",
+            "p2-b1-l3-s11",
+            "p2-b1-l3-s12",
+            "p2-b1-l3-s13",
+            "p2-b1-l3-s14",
+            "p2-b1-l3-s15",
+            "p2-b1-l3-s16",
+            "p2-b1-l4-s0",
+            "p2-b1-l5-s0",
+            "p2-b1-l6-s0",
+            "p2-b1-l6-s1",
+            "p2-b1-l6-s2",
+            "p2-b1-l6-s3",
+            "p2-b1-l6-s4",
+            "p2-b1-l6-s5",
+            "p2-b1-l6-s6",
+            "p2-b1-l6-s7",
+            "p2-b1-l6-s8",
+            "p2-b1-l6-s9",
+            "p2-b1-l6-s10",
+            "p2-b1-l6-s11",
+            "p2-b1-l6-s12",
+            "p2-b1-l6-s13",
+            "p2-b1-l6-s14",
+            "p2-b1-l6-s15",
+            "p2-b1-l6-s16",
+            "p2-b1-l6-s17",
+            "p2-b1-l6-s18",
+            "p2-b1-l6-s19",
+            "p2-b1-l6-s20",
+            "p2-b1-l7-s0",
+            "p2-b1-l7-s1",
+            "p2-b1-l7-s2",
+            "p2-b1-l7-s3",
+            "p2-b1-l7-s4",
+            "p2-b1-l7-s5",
+            "p2-b1-l7-s6",
+            "p2-b1-l7-s7",
+            "p2-b1-l7-s8",
+            "p2-b1-l7-s9",
+            "p2-b1-l7-s10",
+            "p2-b1-l7-s11",
+            "p2-b1-l7-s12",
+            "p2-b1-l7-s13",
+            "p2-b1-l7-s14",
+            "p2-b1-l7-s15",
+            "p2-b1-l7-s16",
+            "p2-b1-l7-s17",
+            "p2-b1-l7-s18",
+            "p2-b1-l7-s19",
+            "p2-b1-l7-s20",
+            "p2-b1-l8-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 67.95211029052734,
+              "y0": 184.5109405517578,
+              "x1": 285.6380615234375,
+              "y1": 269.68365478515625
+            }
+          ],
+          "reading_order_start": 38,
+          "reading_order_end": 38
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=13",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-c872891de0dbb7ca",
+      "source": [
+        {
+          "page": 2,
+          "block_index": 2,
+          "line_ids": [
+            "p2-b2-l0"
+          ],
+          "span_ids": [
+            "p2-b2-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 42.37229919433594,
+              "y0": 304.6338806152344,
+              "x1": 55.91253662109375,
+              "y1": 313.3565979003906
+            }
+          ],
+          "reading_order_start": 41,
+          "reading_order_end": 41
+        },
+        {
+          "page": 2,
+          "block_index": 2,
+          "line_ids": [
+            "p2-b2-l1",
+            "p2-b2-l2",
+            "p2-b2-l3",
+            "p2-b2-l4"
+          ],
+          "span_ids": [
+            "p2-b2-l1-s0",
+            "p2-b2-l2-s0",
+            "p2-b2-l3-s0",
+            "p2-b2-l3-s1",
+            "p2-b2-l3-s2",
+            "p2-b2-l3-s3",
+            "p2-b2-l3-s4",
+            "p2-b2-l3-s5",
+            "p2-b2-l3-s6",
+            "p2-b2-l3-s7",
+            "p2-b2-l3-s8",
+            "p2-b2-l3-s9",
+            "p2-b2-l3-s10",
+            "p2-b2-l3-s11",
+            "p2-b2-l3-s12",
+            "p2-b2-l3-s13",
+            "p2-b2-l3-s14",
+            "p2-b2-l3-s15",
+            "p2-b2-l3-s16",
+            "p2-b2-l3-s17",
+            "p2-b2-l3-s18",
+            "p2-b2-l4-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 67.95222473144531,
+              "y0": 303.8324279785156,
+              "x1": 285.4867858886719,
+              "y1": 345.942138671875
+            }
+          ],
+          "reading_order_start": 40,
+          "reading_order_end": 40
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=14",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-44fcb6c4a39e9284",
+      "source": [
+        {
+          "page": 2,
+          "block_index": 3,
+          "line_ids": [
+            "p2-b3-l0"
+          ],
+          "span_ids": [
+            "p2-b3-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 42.37229919433594,
+              "y0": 380.7837829589844,
+              "x1": 55.85370635986328,
+              "y1": 389.5065002441406
+            }
+          ],
+          "reading_order_start": 43,
+          "reading_order_end": 43
+        },
+        {
+          "page": 2,
+          "block_index": 3,
+          "line_ids": [
+            "p2-b3-l1",
+            "p2-b3-l2",
+            "p2-b3-l3",
+            "p2-b3-l4",
+            "p2-b3-l5",
+            "p2-b3-l6"
+          ],
+          "span_ids": [
+            "p2-b3-l1-s0",
+            "p2-b3-l2-s0",
+            "p2-b3-l2-s1",
+            "p2-b3-l2-s2",
+            "p2-b3-l2-s3",
+            "p2-b3-l2-s4",
+            "p2-b3-l2-s5",
+            "p2-b3-l2-s6",
+            "p2-b3-l2-s7",
+            "p2-b3-l2-s8",
+            "p2-b3-l2-s9",
+            "p2-b3-l2-s10",
+            "p2-b3-l2-s11",
+            "p2-b3-l2-s12",
+            "p2-b3-l2-s13",
+            "p2-b3-l2-s14",
+            "p2-b3-l2-s15",
+            "p2-b3-l2-s16",
+            "p2-b3-l3-s0",
+            "p2-b3-l4-s0",
+            "p2-b3-l4-s1",
+            "p2-b3-l4-s2",
+            "p2-b3-l4-s3",
+            "p2-b3-l4-s4",
+            "p2-b3-l4-s5",
+            "p2-b3-l4-s6",
+            "p2-b3-l4-s7",
+            "p2-b3-l4-s8",
+            "p2-b3-l4-s9",
+            "p2-b3-l4-s10",
+            "p2-b3-l4-s11",
+            "p2-b3-l4-s12",
+            "p2-b3-l4-s13",
+            "p2-b3-l4-s14",
+            "p2-b3-l4-s15",
+            "p2-b3-l4-s16",
+            "p2-b3-l5-s0",
+            "p2-b3-l5-s1",
+            "p2-b3-l5-s2",
+            "p2-b3-l5-s3",
+            "p2-b3-l5-s4",
+            "p2-b3-l5-s5",
+            "p2-b3-l5-s6",
+            "p2-b3-l5-s7",
+            "p2-b3-l5-s8",
+            "p2-b3-l5-s9",
+            "p2-b3-l5-s10",
+            "p2-b3-l5-s11",
+            "p2-b3-l5-s12",
+            "p2-b3-l5-s13",
+            "p2-b3-l5-s14",
+            "p2-b3-l6-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 67.87570190429688,
+              "y0": 379.9823303222656,
+              "x1": 285.69989013671875,
+              "y1": 443.0859069824219
+            }
+          ],
+          "reading_order_start": 42,
+          "reading_order_end": 42
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=15",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-e62cce7e7425ce00",
+      "source": [
+        {
+          "page": 2,
+          "block_index": 4,
+          "line_ids": [
+            "p2-b4-l0"
+          ],
+          "span_ids": [
+            "p2-b4-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 42.37229919433594,
+              "y0": 477.92718505859375,
+              "x1": 55.91253662109375,
+              "y1": 486.64990234375
+            }
+          ],
+          "reading_order_start": 45,
+          "reading_order_end": 45
+        },
+        {
+          "page": 2,
+          "block_index": 4,
+          "line_ids": [
+            "p2-b4-l1",
+            "p2-b4-l2",
+            "p2-b4-l3",
+            "p2-b4-l4",
+            "p2-b4-l5",
+            "p2-b4-l6",
+            "p2-b4-l7"
+          ],
+          "span_ids": [
+            "p2-b4-l1-s0",
+            "p2-b4-l1-s1",
+            "p2-b4-l1-s2",
+            "p2-b4-l1-s3",
+            "p2-b4-l1-s4",
+            "p2-b4-l1-s5",
+            "p2-b4-l1-s6",
+            "p2-b4-l1-s7",
+            "p2-b4-l1-s8",
+            "p2-b4-l1-s9",
+            "p2-b4-l1-s10",
+            "p2-b4-l1-s11",
+            "p2-b4-l1-s12",
+            "p2-b4-l1-s13",
+            "p2-b4-l1-s14",
+            "p2-b4-l2-s0",
+            "p2-b4-l2-s1",
+            "p2-b4-l2-s2",
+            "p2-b4-l2-s3",
+            "p2-b4-l2-s4",
+            "p2-b4-l2-s5",
+            "p2-b4-l2-s6",
+            "p2-b4-l2-s7",
+            "p2-b4-l2-s8",
+            "p2-b4-l2-s9",
+            "p2-b4-l2-s10",
+            "p2-b4-l2-s11",
+            "p2-b4-l2-s12",
+            "p2-b4-l2-s13",
+            "p2-b4-l2-s14",
+            "p2-b4-l2-s15",
+            "p2-b4-l2-s16",
+            "p2-b4-l3-s0",
+            "p2-b4-l4-s0",
+            "p2-b4-l5-s0",
+            "p2-b4-l5-s1",
+            "p2-b4-l5-s2",
+            "p2-b4-l5-s3",
+            "p2-b4-l5-s4",
+            "p2-b4-l5-s5",
+            "p2-b4-l5-s6",
+            "p2-b4-l5-s7",
+            "p2-b4-l5-s8",
+            "p2-b4-l5-s9",
+            "p2-b4-l5-s10",
+            "p2-b4-l5-s11",
+            "p2-b4-l5-s12",
+            "p2-b4-l5-s13",
+            "p2-b4-l5-s14",
+            "p2-b4-l6-s0",
+            "p2-b4-l6-s1",
+            "p2-b4-l6-s2",
+            "p2-b4-l6-s3",
+            "p2-b4-l6-s4",
+            "p2-b4-l6-s5",
+            "p2-b4-l6-s6",
+            "p2-b4-l6-s7",
+            "p2-b4-l6-s8",
+            "p2-b4-l6-s9",
+            "p2-b4-l6-s10",
+            "p2-b4-l6-s11",
+            "p2-b4-l6-s12",
+            "p2-b4-l6-s13",
+            "p2-b4-l6-s14",
+            "p2-b4-l7-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 67.95222473144531,
+              "y0": 477.125732421875,
+              "x1": 285.4800720214844,
+              "y1": 550.8873901367188
+            }
+          ],
+          "reading_order_start": 44,
+          "reading_order_end": 44
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=16",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-4224802555d68a9f",
+      "source": [
+        {
+          "page": 2,
+          "block_index": 5,
+          "line_ids": [
+            "p2-b5-l0"
+          ],
+          "span_ids": [
+            "p2-b5-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 42.37229919433594,
+              "y0": 585.728759765625,
+              "x1": 55.8792839050293,
+              "y1": 594.4514770507812
+            }
+          ],
+          "reading_order_start": 47,
+          "reading_order_end": 47
+        },
+        {
+          "page": 2,
+          "block_index": 5,
+          "line_ids": [
+            "p2-b5-l1",
+            "p2-b5-l2",
+            "p2-b5-l3",
+            "p2-b5-l4",
+            "p2-b5-l5",
+            "p2-b5-l6",
+            "p2-b5-l7",
+            "p2-b5-l8"
+          ],
+          "span_ids": [
+            "p2-b5-l1-s0",
+            "p2-b5-l2-s0",
+            "p2-b5-l3-s0",
+            "p2-b5-l3-s1",
+            "p2-b5-l3-s2",
+            "p2-b5-l3-s3",
+            "p2-b5-l3-s4",
+            "p2-b5-l3-s5",
+            "p2-b5-l3-s6",
+            "p2-b5-l3-s7",
+            "p2-b5-l3-s8",
+            "p2-b5-l3-s9",
+            "p2-b5-l3-s10",
+            "p2-b5-l3-s11",
+            "p2-b5-l3-s12",
+            "p2-b5-l4-s0",
+            "p2-b5-l4-s1",
+            "p2-b5-l4-s2",
+            "p2-b5-l4-s3",
+            "p2-b5-l4-s4",
+            "p2-b5-l4-s5",
+            "p2-b5-l4-s6",
+            "p2-b5-l4-s7",
+            "p2-b5-l4-s8",
+            "p2-b5-l4-s9",
+            "p2-b5-l4-s10",
+            "p2-b5-l4-s11",
+            "p2-b5-l4-s12",
+            "p2-b5-l4-s13",
+            "p2-b5-l4-s14",
+            "p2-b5-l4-s15",
+            "p2-b5-l4-s16",
+            "p2-b5-l5-s0",
+            "p2-b5-l5-s1",
+            "p2-b5-l5-s2",
+            "p2-b5-l5-s3",
+            "p2-b5-l5-s4",
+            "p2-b5-l5-s5",
+            "p2-b5-l5-s6",
+            "p2-b5-l5-s7",
+            "p2-b5-l5-s8",
+            "p2-b5-l5-s9",
+            "p2-b5-l5-s10",
+            "p2-b5-l5-s11",
+            "p2-b5-l5-s12",
+            "p2-b5-l5-s13",
+            "p2-b5-l5-s14",
+            "p2-b5-l6-s0",
+            "p2-b5-l6-s1",
+            "p2-b5-l6-s2",
+            "p2-b5-l6-s3",
+            "p2-b5-l6-s4",
+            "p2-b5-l6-s5",
+            "p2-b5-l6-s6",
+            "p2-b5-l6-s7",
+            "p2-b5-l6-s8",
+            "p2-b5-l6-s9",
+            "p2-b5-l6-s10",
+            "p2-b5-l6-s11",
+            "p2-b5-l6-s12",
+            "p2-b5-l6-s13",
+            "p2-b5-l6-s14",
+            "p2-b5-l6-s15",
+            "p2-b5-l6-s16",
+            "p2-b5-l7-s0",
+            "p2-b5-l7-s1",
+            "p2-b5-l7-s2",
+            "p2-b5-l7-s3",
+            "p2-b5-l7-s4",
+            "p2-b5-l7-s5",
+            "p2-b5-l7-s6",
+            "p2-b5-l7-s7",
+            "p2-b5-l7-s8",
+            "p2-b5-l7-s9",
+            "p2-b5-l7-s10",
+            "p2-b5-l7-s11",
+            "p2-b5-l7-s12",
+            "p2-b5-l7-s13",
+            "p2-b5-l7-s14",
+            "p2-b5-l7-s15",
+            "p2-b5-l7-s16",
+            "p2-b5-l8-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 67.90969848632812,
+              "y0": 584.92724609375,
+              "x1": 285.6130676269531,
+              "y1": 669.3470458984375
+            }
+          ],
+          "reading_order_start": 46,
+          "reading_order_end": 46
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=17",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-a08611b71ac0a8c2",
+      "source": [
+        {
+          "page": 2,
+          "block_index": 6,
+          "line_ids": [
+            "p2-b6-l0"
+          ],
+          "span_ids": [
+            "p2-b6-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 42.37229919433594,
+              "y0": 704.1885986328125,
+              "x1": 55.91253662109375,
+              "y1": 712.9113159179688
+            }
+          ],
+          "reading_order_start": 49,
+          "reading_order_end": 49
+        },
+        {
+          "page": 2,
+          "block_index": 6,
+          "line_ids": [
+            "p2-b6-l1",
+            "p2-b6-l2",
+            "p2-b6-l3",
+            "p2-b6-l4"
+          ],
+          "span_ids": [
+            "p2-b6-l1-s0",
+            "p2-b6-l1-s1",
+            "p2-b6-l1-s2",
+            "p2-b6-l1-s3",
+            "p2-b6-l1-s4",
+            "p2-b6-l1-s5",
+            "p2-b6-l1-s6",
+            "p2-b6-l1-s7",
+            "p2-b6-l1-s8",
+            "p2-b6-l1-s9",
+            "p2-b6-l1-s10",
+            "p2-b6-l1-s11",
+            "p2-b6-l1-s12",
+            "p2-b6-l2-s0",
+            "p2-b6-l3-s0",
+            "p2-b6-l4-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 67.95222473144531,
+              "y0": 703.3870849609375,
+              "x1": 285.5231628417969,
+              "y1": 745.1744995117188
+            }
+          ],
+          "reading_order_start": 48,
+          "reading_order_end": 48
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=18",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-2f903c55bd755f31",
+      "source": [
+        {
+          "page": 2,
+          "block_index": 7,
+          "line_ids": [
+            "p2-b7-l0"
+          ],
+          "span_ids": [
+            "p2-b7-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 310.9266052246094,
+              "y0": 76.75682067871094,
+              "x1": 324.4668273925781,
+              "y1": 85.47953033447266
+            }
+          ],
+          "reading_order_start": 53,
+          "reading_order_end": 53
+        },
+        {
+          "page": 2,
+          "block_index": 7,
+          "line_ids": [
+            "p2-b7-l1",
+            "p2-b7-l2",
+            "p2-b7-l3",
+            "p2-b7-l4"
+          ],
+          "span_ids": [
+            "p2-b7-l1-s0",
+            "p2-b7-l1-s1",
+            "p2-b7-l1-s2",
+            "p2-b7-l1-s3",
+            "p2-b7-l1-s4",
+            "p2-b7-l1-s5",
+            "p2-b7-l1-s6",
+            "p2-b7-l1-s7",
+            "p2-b7-l1-s8",
+            "p2-b7-l1-s9",
+            "p2-b7-l1-s10",
+            "p2-b7-l1-s11",
+            "p2-b7-l1-s12",
+            "p2-b7-l1-s13",
+            "p2-b7-l1-s14",
+            "p2-b7-l1-s15",
+            "p2-b7-l1-s16",
+            "p2-b7-l1-s17",
+            "p2-b7-l1-s18",
+            "p2-b7-l1-s19",
+            "p2-b7-l1-s20",
+            "p2-b7-l2-s0",
+            "p2-b7-l2-s1",
+            "p2-b7-l2-s2",
+            "p2-b7-l2-s3",
+            "p2-b7-l2-s4",
+            "p2-b7-l2-s5",
+            "p2-b7-l2-s6",
+            "p2-b7-l2-s7",
+            "p2-b7-l2-s8",
+            "p2-b7-l2-s9",
+            "p2-b7-l2-s10",
+            "p2-b7-l2-s11",
+            "p2-b7-l2-s12",
+            "p2-b7-l2-s13",
+            "p2-b7-l2-s14",
+            "p2-b7-l2-s15",
+            "p2-b7-l2-s16",
+            "p2-b7-l3-s0",
+            "p2-b7-l3-s1",
+            "p2-b7-l3-s2",
+            "p2-b7-l3-s3",
+            "p2-b7-l3-s4",
+            "p2-b7-l3-s5",
+            "p2-b7-l3-s6",
+            "p2-b7-l3-s7",
+            "p2-b7-l3-s8",
+            "p2-b7-l3-s9",
+            "p2-b7-l3-s10",
+            "p2-b7-l3-s11",
+            "p2-b7-l3-s12",
+            "p2-b7-l3-s13",
+            "p2-b7-l3-s14",
+            "p2-b7-l3-s15",
+            "p2-b7-l3-s16",
+            "p2-b7-l4-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 336.50653076171875,
+              "y0": 75.95533752441406,
+              "x1": 554.0409545898438,
+              "y1": 118.06505584716797
+            }
+          ],
+          "reading_order_start": 52,
+          "reading_order_end": 52
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=19",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-08aead2069d207ff",
+      "source": [
+        {
+          "page": 2,
+          "block_index": 8,
+          "line_ids": [
+            "p2-b8-l0"
+          ],
+          "span_ids": [
+            "p2-b8-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 310.9266052246094,
+              "y0": 144.5049285888672,
+              "x1": 324.62030029296875,
+              "y1": 153.22764587402344
+            }
+          ],
+          "reading_order_start": 55,
+          "reading_order_end": 55
+        },
+        {
+          "page": 2,
+          "block_index": 8,
+          "line_ids": [
+            "p2-b8-l1",
+            "p2-b8-l2",
+            "p2-b8-l3",
+            "p2-b8-l4",
+            "p2-b8-l5",
+            "p2-b8-l6",
+            "p2-b8-l7",
+            "p2-b8-l8"
+          ],
+          "span_ids": [
+            "p2-b8-l1-s0",
+            "p2-b8-l1-s1",
+            "p2-b8-l1-s2",
+            "p2-b8-l1-s3",
+            "p2-b8-l1-s4",
+            "p2-b8-l1-s5",
+            "p2-b8-l1-s6",
+            "p2-b8-l1-s7",
+            "p2-b8-l1-s8",
+            "p2-b8-l1-s9",
+            "p2-b8-l1-s10",
+            "p2-b8-l1-s11",
+            "p2-b8-l1-s12",
+            "p2-b8-l2-s0",
+            "p2-b8-l2-s1",
+            "p2-b8-l2-s2",
+            "p2-b8-l2-s3",
+            "p2-b8-l2-s4",
+            "p2-b8-l2-s5",
+            "p2-b8-l2-s6",
+            "p2-b8-l2-s7",
+            "p2-b8-l2-s8",
+            "p2-b8-l2-s9",
+            "p2-b8-l2-s10",
+            "p2-b8-l2-s11",
+            "p2-b8-l2-s12",
+            "p2-b8-l2-s13",
+            "p2-b8-l2-s14",
+            "p2-b8-l3-s0",
+            "p2-b8-l4-s0",
+            "p2-b8-l4-s1",
+            "p2-b8-l4-s2",
+            "p2-b8-l4-s3",
+            "p2-b8-l4-s4",
+            "p2-b8-l4-s5",
+            "p2-b8-l4-s6",
+            "p2-b8-l4-s7",
+            "p2-b8-l4-s8",
+            "p2-b8-l4-s9",
+            "p2-b8-l4-s10",
+            "p2-b8-l4-s11",
+            "p2-b8-l4-s12",
+            "p2-b8-l4-s13",
+            "p2-b8-l4-s14",
+            "p2-b8-l5-s0",
+            "p2-b8-l6-s0",
+            "p2-b8-l7-s0",
+            "p2-b8-l7-s1",
+            "p2-b8-l7-s2",
+            "p2-b8-l7-s3",
+            "p2-b8-l7-s4",
+            "p2-b8-l7-s5",
+            "p2-b8-l7-s6",
+            "p2-b8-l7-s7",
+            "p2-b8-l7-s8",
+            "p2-b8-l7-s9",
+            "p2-b8-l7-s10",
+            "p2-b8-l7-s11",
+            "p2-b8-l7-s12",
+            "p2-b8-l7-s13",
+            "p2-b8-l7-s14",
+            "p2-b8-l7-s15",
+            "p2-b8-l7-s16",
+            "p2-b8-l7-s17",
+            "p2-b8-l7-s18",
+            "p2-b8-l8-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 336.5063171386719,
+              "y0": 143.7034454345703,
+              "x1": 554.1943969726562,
+              "y1": 228.8754119873047
+            }
+          ],
+          "reading_order_start": 54,
+          "reading_order_end": 54
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=20",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    },
+    {
+      "kind": "recital-binding",
+      "node_id": "recital-ed4c5809b6980169",
+      "source": [
+        {
+          "page": 2,
+          "block_index": 9,
+          "line_ids": [
+            "p2-b9-l0"
+          ],
+          "span_ids": [
+            "p2-b9-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 310.9266052246094,
+              "y0": 255.3168182373047,
+              "x1": 324.4668273925781,
+              "y1": 264.0395202636719
+            }
+          ],
+          "reading_order_start": 57,
+          "reading_order_end": 57
+        },
+        {
+          "page": 2,
+          "block_index": 9,
+          "line_ids": [
+            "p2-b9-l1",
+            "p2-b9-l2",
+            "p2-b9-l3",
+            "p2-b9-l4"
+          ],
+          "span_ids": [
+            "p2-b9-l1-s0",
+            "p2-b9-l1-s1",
+            "p2-b9-l1-s2",
+            "p2-b9-l1-s3",
+            "p2-b9-l1-s4",
+            "p2-b9-l1-s5",
+            "p2-b9-l1-s6",
+            "p2-b9-l1-s7",
+            "p2-b9-l1-s8",
+            "p2-b9-l1-s9",
+            "p2-b9-l1-s10",
+            "p2-b9-l1-s11",
+            "p2-b9-l1-s12",
+            "p2-b9-l1-s13",
+            "p2-b9-l1-s14",
+            "p2-b9-l1-s15",
+            "p2-b9-l1-s16",
+            "p2-b9-l2-s0",
+            "p2-b9-l2-s1",
+            "p2-b9-l2-s2",
+            "p2-b9-l2-s3",
+            "p2-b9-l2-s4",
+            "p2-b9-l2-s5",
+            "p2-b9-l2-s6",
+            "p2-b9-l2-s7",
+            "p2-b9-l2-s8",
+            "p2-b9-l2-s9",
+            "p2-b9-l2-s10",
+            "p2-b9-l2-s11",
+            "p2-b9-l2-s12",
+            "p2-b9-l2-s13",
+            "p2-b9-l2-s14",
+            "p2-b9-l2-s15",
+            "p2-b9-l2-s16",
+            "p2-b9-l2-s17",
+            "p2-b9-l2-s18",
+            "p2-b9-l3-s0",
+            "p2-b9-l3-s1",
+            "p2-b9-l3-s2",
+            "p2-b9-l3-s3",
+            "p2-b9-l3-s4",
+            "p2-b9-l3-s5",
+            "p2-b9-l3-s6",
+            "p2-b9-l3-s7",
+            "p2-b9-l3-s8",
+            "p2-b9-l3-s9",
+            "p2-b9-l3-s10",
+            "p2-b9-l3-s11",
+            "p2-b9-l3-s12",
+            "p2-b9-l3-s13",
+            "p2-b9-l3-s14",
+            "p2-b9-l4-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 336.50653076171875,
+              "y0": 254.5153350830078,
+              "x1": 554.0276489257812,
+              "y1": 296.62506103515625
+            }
+          ],
+          "reading_order_start": 56,
+          "reading_order_end": 56
+        }
+      ],
+      "reason": "Combined a standalone recital number and its exact following legal paragraph into one logical recital paragraph.",
+      "confidence": 0.99,
+      "outcome": "MERGE",
+      "evidence": [
+        "recitalNumber=21",
+        "placement=same-page",
+        "source wording unchanged",
+        "literal tab serialization required"
+      ],
+      "ambiguity_status": "resolved"
+    }
+  ],
+  "formattingRules": {
+    "articleAlignment": "center",
+    "bodyPageBreaks": 0,
+    "annexPageBreakBefore": 2,
+    "footnoteSizePt": 11,
+    "footnoteSpacing": "single/no-extra-spacing",
+    "footnoteLeftIndentCm": 0.3,
+    "footnoteTabStopCm": 0.8,
+    "footnoteHangingIndentCm": 0.5,
+    "footnoteMarkerTab": true
+  },
+  "dehyphenation": [
+    {
+      "page": 1,
+      "block": 6,
+      "fromLines": [
+        "p1-b6-l0",
+        "p1-b6-l1"
+      ],
+      "removed": "-",
+      "left": "Commu-",
+      "right": "nity, and in particular Article 95 thereof,",
+      "result": "Having regard to the Treaty establishing the European Community, and in particular Article 95 thereof,"
+    },
+    {
+      "page": 1,
+      "block": 11,
+      "fromLines": [
+        "p1-b11-l1",
+        "p1-b11-l2"
+      ],
+      "removed": "-",
+      "left": "Council Directive 84/450/EEC of 10 September 1984 con-",
+      "right": "cerning",
+      "result": "Council Directive 84/450/EEC of 10 September 1984 concerning misleading and comparative advertising (3) has"
+    },
+    {
+      "page": 1,
+      "block": 11,
+      "fromLines": [
+        "p1-b11-l3",
+        "p1-b11-l4"
+      ],
+      "removed": "-",
+      "left": "inter-",
+      "right": "ests",
+      "result": "Council Directive 84/450/EEC of 10 September 1984 concerning misleading and comparative advertising (3) has been substantially amended several times (4). In the interests of clarity and rationality the said Directive should be"
+    },
+    {
+      "page": 1,
+      "block": 16,
+      "fromLines": [
+        "p1-b16-l5",
+        "p1-b16-l6"
+      ],
+      "removed": "-",
+      "left": "outlets for all goods and services throughout the Commu-",
+      "right": "nity, the basic provisions governing the form and content",
+      "result": "The completion of the internal market means a wide range of choice. Given that consumers and traders can and must make the best possible use of the internal market, and that advertising is a very important means of creating genuine outlets for all goods and services throughout the Community, the basic provisions governing the form and content"
+    },
+    {
+      "page": 1,
+      "block": 16,
+      "fromLines": [
+        "p1-b16-l11",
+        "p1-b16-l12"
+      ],
+      "removed": "-",
+      "left": "adver-",
+      "right": "tising can also stimulate competition between suppliers of",
+      "result": "The completion of the internal market means a wide range of choice. Given that consumers and traders can and must make the best possible use of the internal market, and that advertising is a very important means of creating genuine outlets for all goods and services throughout the Community, the basic provisions governing the form and content of comparative advertising should be uniform and the conditions of the use of comparative advertising in the Member States should be harmonised. If these conditions are met, this will help demonstrate objectively the merits of the various comparable products. Comparative advertising can also stimulate competition between suppliers of"
+    },
+    {
+      "page": 1,
+      "block": 18,
+      "fromLines": [
+        "p1-b18-l3",
+        "p1-b18-l4"
+      ],
+      "removed": "-",
+      "left": "con-",
+      "right": "sumers of their advantage. It is desirable to provide a broad",
+      "result": "Comparative advertising, when it compares material, relevant, verifiable and representative features and is not misleading, may be a legitimate means of informing consumers of their advantage. It is desirable to provide a broad"
+    },
+    {
+      "page": 1,
+      "block": 19,
+      "fromLines": [
+        "p1-b19-l3",
+        "p1-b19-l4"
+      ],
+      "removed": "-",
+      "left": "compara-",
+      "right": "tive",
+      "result": "Conditions of permitted comparative advertising, as far as the comparison is concerned, should be established in order to determine which practices relating to comparative advertising may distort competition, be detrimental"
+    },
+    {
+      "page": 1,
+      "block": 24,
+      "fromLines": [
+        "p1-b24-l0",
+        "p1-b24-l1"
+      ],
+      "removed": "-",
+      "left": "published in the Official Journal) and Council Decision of 30 Novem-",
+      "right": "ber 2006.",
+      "result": "published in the Official Journal) and Council Decision of 30 November 2006."
+    },
+    {
+      "page": 1,
+      "block": 22,
+      "fromLines": [
+        "p1-b23-l0",
+        "p1-b23-l1"
+      ],
+      "removed": "-",
+      "left": "(1) Opinion of 26 October 2006 (not yet published in the Official Jour-",
+      "right": "nal). (2) Opinion of the European Parliament of 12 October 2006 (not yet",
+      "result": "(1) Opinion of 26 October 2006 (not yet published in the Official Journal). (2) Opinion of the European Parliament of 12 October 2006 (not yet"
+    },
+    {
+      "page": 2,
+      "block": 0,
+      "fromLines": [
+        "p2-b0-l1",
+        "p2-b0-l2"
+      ],
+      "removed": "-",
+      "left": "consider-",
+      "right": "ation of the provisions resulting from Council Regulation",
+      "result": "These conditions should include, in particular, consideration of the provisions resulting from Council Regulation"
+    },
+    {
+      "page": 2,
+      "block": 0,
+      "fromLines": [
+        "p2-b0-l6",
+        "p2-b0-l7"
+      ],
+      "removed": "-",
+      "left": "provi-",
+      "right": "sions adopted in the agricultural sphere.",
+      "result": "These conditions should include, in particular, consideration of the provisions resulting from Council Regulation (EC) No 510/2006 of 20 March 2006 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs (1), and in particular Article 13 thereof, and of the other Community provisions adopted in the agricultural sphere."
+    },
+    {
+      "page": 2,
+      "block": 1,
+      "fromLines": [
+        "p2-b1-l2",
+        "p2-b1-l3"
+      ],
+      "removed": "-",
+      "left": "21 December 1988 to approximate the laws of the Mem-",
+      "right": "ber",
+      "result": "Article 5 of First Council Directive 89/104/EEC of 21 December 1988 to approximate the laws of the Member States relating to trade marks (2) confers exclusive"
+    },
+    {
+      "page": 2,
+      "block": 1,
+      "fromLines": [
+        "p2-b1-l4",
+        "p2-b1-l5"
+      ],
+      "removed": "-",
+      "left": "rights on the proprietor of a registered trade mark, includ-",
+      "right": "ing the right to prevent all third parties from using, in the",
+      "result": "Article 5 of First Council Directive 89/104/EEC of 21 December 1988 to approximate the laws of the Member States relating to trade marks (2) confers exclusive rights on the proprietor of a registered trade mark, including the right to prevent all third parties from using, in the"
+    },
+    {
+      "page": 2,
+      "block": 1,
+      "fromLines": [
+        "p2-b1-l7",
+        "p2-b1-l8"
+      ],
+      "removed": "-",
+      "left": "ser-",
+      "right": "vices or even, where appropriate, other goods.",
+      "result": "Article 5 of First Council Directive 89/104/EEC of 21 December 1988 to approximate the laws of the Member States relating to trade marks (2) confers exclusive rights on the proprietor of a registered trade mark, including the right to prevent all third parties from using, in the course of trade, any sign which is identical to, or similar to, the trade mark in relation to identical goods or services or even, where appropriate, other goods."
+    },
+    {
+      "page": 2,
+      "block": 2,
+      "fromLines": [
+        "p2-b2-l1",
+        "p2-b2-l2"
+      ],
+      "removed": "-",
+      "left": "It may, however, be indispensable, in order to make com-",
+      "right": "parative advertising effective, to identify the goods or ser-",
+      "result": "It may, however, be indispensable, in order to make comparative advertising effective, to identify the goods or ser-"
+    },
+    {
+      "page": 2,
+      "block": 2,
+      "fromLines": [
+        "p2-b2-l2",
+        "p2-b2-l3"
+      ],
+      "removed": "-",
+      "left": "parative advertising effective, to identify the goods or ser-",
+      "right": "vices",
+      "result": "It may, however, be indispensable, in order to make comparative advertising effective, to identify the goods or services of a competitor, making reference to a trade mark"
+    },
+    {
+      "page": 2,
+      "block": 3,
+      "fromLines": [
+        "p2-b3-l1",
+        "p2-b3-l2"
+      ],
+      "removed": "-",
+      "left": "Such use of another’s trade mark, trade name or other dis-",
+      "right": "tinguishing",
+      "result": "Such use of another’s trade mark, trade name or other distinguishing marks does not breach this exclusive right in"
+    },
+    {
+      "page": 2,
+      "block": 3,
+      "fromLines": [
+        "p2-b3-l4",
+        "p2-b3-l5"
+      ],
+      "removed": "-",
+      "left": "distin-",
+      "right": "guish",
+      "result": "Such use of another’s trade mark, trade name or other distinguishing marks does not breach this exclusive right in cases where it complies with the conditions laid down by this Directive, the intended target being solely to distinguish between them and thus to highlight differences"
+    },
+    {
+      "page": 2,
+      "block": 5,
+      "fromLines": [
+        "p2-b5-l1",
+        "p2-b5-l2"
+      ],
+      "removed": "-",
+      "left": "The courts or administrative authorities should have pow-",
+      "right": "ers enabling them to order or obtain the cessation of mis-",
+      "result": "The courts or administrative authorities should have powers enabling them to order or obtain the cessation of mis-"
+    },
+    {
+      "page": 2,
+      "block": 5,
+      "fromLines": [
+        "p2-b5-l2",
+        "p2-b5-l3"
+      ],
+      "removed": "-",
+      "left": "ers enabling them to order or obtain the cessation of mis-",
+      "right": "leading",
+      "result": "The courts or administrative authorities should have powers enabling them to order or obtain the cessation of misleading and unlawful comparative advertising. In certain"
+    },
+    {
+      "page": 2,
+      "block": 5,
+      "fromLines": [
+        "p2-b5-l5",
+        "p2-b5-l6"
+      ],
+      "removed": "-",
+      "left": "pub-",
+      "right": "lished.",
+      "result": "The courts or administrative authorities should have powers enabling them to order or obtain the cessation of misleading and unlawful comparative advertising. In certain cases it may be desirable to prohibit misleading and unlawful comparative advertising even before it is published. However, this in no way implies that Member"
+    },
+    {
+      "page": 2,
+      "block": 5,
+      "fromLines": [
+        "p2-b5-l7",
+        "p2-b5-l8"
+      ],
+      "removed": "-",
+      "left": "requir-",
+      "right": "ing the systematic prior vetting of advertising.",
+      "result": "The courts or administrative authorities should have powers enabling them to order or obtain the cessation of misleading and unlawful comparative advertising. In certain cases it may be desirable to prohibit misleading and unlawful comparative advertising even before it is published. However, this in no way implies that Member States are under an obligation to introduce rules requiring the systematic prior vetting of advertising."
+    },
+    {
+      "page": 2,
+      "block": 6,
+      "fromLines": [
+        "p2-b6-l2",
+        "p2-b6-l3"
+      ],
+      "removed": "-",
+      "left": "to eliminate misleading or unlawful comparative advertis-",
+      "right": "ing may avoid recourse to administrative or judicial action",
+      "result": "The voluntary control exercised by self-regulatory bodies to eliminate misleading or unlawful comparative advertising may avoid recourse to administrative or judicial action"
+    },
+    {
+      "page": 2,
+      "block": 7,
+      "fromLines": [
+        "p2-b7-l2",
+        "p2-b7-l3"
+      ],
+      "removed": "-",
+      "left": "administra-",
+      "right": "tive",
+      "result": "While it is for national law to determine the burden of proof, it is appropriate to enable courts and administrative authorities to require traders to produce evidence as"
+    },
+    {
+      "page": 2,
+      "block": 8,
+      "fromLines": [
+        "p2-b8-l5",
+        "p2-b8-l6"
+      ],
+      "removed": "-",
+      "left": "down uniform general principles while allowing the Mem-",
+      "right": "ber States to choose the form and appropriate method by",
+      "result": "Regulating comparative advertising is necessary for the smooth functioning of the internal market. Action at Community level is therefore required. The adoption of a Directive is the appropriate instrument because it lays down uniform general principles while allowing the Member States to choose the form and appropriate method by"
+    },
+    {
+      "page": 2,
+      "block": 9,
+      "fromLines": [
+        "p2-b9-l1",
+        "p2-b9-l2"
+      ],
+      "removed": "-",
+      "left": "obliga-",
+      "right": "tions",
+      "result": "This Directive should be without prejudice to the obligations of the Member States relating to the time-limits for"
+    },
+    {
+      "page": 2,
+      "block": 12,
+      "fromLines": [
+        "p2-b12-l0",
+        "p2-b12-l1"
+      ],
+      "removed": "-",
+      "left": "mis-",
+      "right": "leading",
+      "result": "The purpose of this Directive is to protect traders against misleading advertising and the unfair consequences thereof and to"
+    },
+    {
+      "page": 2,
+      "block": 15,
+      "fromLines": [
+        "p2-b15-l2",
+        "p2-b15-l3"
+      ],
+      "removed": "-",
+      "left": "profes-",
+      "right": "sion",
+      "result": "(a) ‘advertising’ means the making of a representation in any form in connection with a trade, business, craft or profession in order to promote the supply of goods or services,"
+    },
+    {
+      "page": 2,
+      "block": 17,
+      "fromLines": [
+        "p2-b17-l3",
+        "p2-b17-l4"
+      ],
+      "removed": "-",
+      "left": "rea-",
+      "right": "sons, injures or is likely to injure a competitor;",
+      "result": "way, including its presentation, deceives or is likely to deceive the persons to whom it is addressed or whom it reaches and which, by reason of its deceptive nature, is likely to affect their economic behaviour or which, for those reasons, injures or is likely to injure a competitor;"
+    },
+    {
+      "page": 3,
+      "block": 0,
+      "fromLines": [
+        "p3-b0-l2",
+        "p3-b0-l3"
+      ],
+      "removed": "-",
+      "left": "of traders, which is responsible for the formulation and revi-",
+      "right": "sion",
+      "result": "(e) ‘code owner’ means any entity, including a trader or group of traders, which is responsible for the formulation and revision of a code of conduct and/or for monitoring compli-"
+    },
+    {
+      "page": 3,
+      "block": 0,
+      "fromLines": [
+        "p3-b0-l3",
+        "p3-b0-l4"
+      ],
+      "removed": "-",
+      "left": "compli-",
+      "right": "ance",
+      "result": "(e) ‘code owner’ means any entity, including a trader or group of traders, which is responsible for the formulation and revision of a code of conduct and/or for monitoring compliance with the code by those who have undertaken to be"
+    },
+    {
+      "page": 3,
+      "block": 3,
+      "fromLines": [
+        "p3-b3-l1",
+        "p3-b3-l2"
+      ],
+      "removed": "-",
+      "left": "avail-",
+      "right": "ability,",
+      "result": "(a) the characteristics of goods or services, such as their availability, nature, execution, composition, method and date of"
+    },
+    {
+      "page": 3,
+      "block": 3,
+      "fromLines": [
+        "p3-b3-l3",
+        "p3-b3-l4"
+      ],
+      "removed": "-",
+      "left": "quan-",
+      "right": "tity, specification, geographical or commercial origin or the",
+      "result": "(a) the characteristics of goods or services, such as their availability, nature, execution, composition, method and date of manufacture or provision, fitness for purpose, uses, quantity, specification, geographical or commercial origin or the"
+    },
+    {
+      "page": 3,
+      "block": 3,
+      "fromLines": [
+        "p3-b3-l5",
+        "p3-b3-l6"
+      ],
+      "removed": "-",
+      "left": "results to be expected from their use, or the results and mate-",
+      "right": "rial",
+      "result": "(a) the characteristics of goods or services, such as their availability, nature, execution, composition, method and date of manufacture or provision, fitness for purpose, uses, quantity, specification, geographical or commercial origin or the results to be expected from their use, or the results and material features of tests or checks carried out on the goods or"
+    },
+    {
+      "page": 3,
+      "block": 5,
+      "fromLines": [
+        "p3-b5-l0",
+        "p3-b5-l1"
+      ],
+      "removed": "-",
+      "left": "ser-",
+      "right": "vices provided;",
+      "result": "the conditions on which the goods are supplied or the services provided;"
+    },
+    {
+      "page": 3,
+      "block": 6,
+      "fromLines": [
+        "p3-b6-l2",
+        "p3-b6-l3"
+      ],
+      "removed": "-",
+      "left": "identity and assets, his qualifications and ownership of indus-",
+      "right": "trial, commercial or intellectual property rights or his awards",
+      "result": "(c) the nature, attributes and rights of the advertiser, such as his identity and assets, his qualifications and ownership of industrial, commercial or intellectual property rights or his awards"
+    },
+    {
+      "page": 3,
+      "block": 8,
+      "fromLines": [
+        "p3-b8-l0",
+        "p3-b8-l1"
+      ],
+      "removed": "-",
+      "left": "con-",
+      "right": "cerned, be permitted when the following conditions are met:",
+      "result": "Comparative advertising shall, as far as the comparison is concerned, be permitted when the following conditions are met:"
+    },
+    {
+      "page": 3,
+      "block": 9,
+      "fromLines": [
+        "p3-b9-l5",
+        "p3-b9-l6"
+      ],
+      "removed": "-",
+      "left": "Com-",
+      "right": "mercial Practices Directive’) (",
+      "result": "(a) it is not misleading within the meaning of Articles 2(b), 3 and 8(1) of this Directive or Articles 6 and 7 of Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market (‘Unfair Commercial Practices Directive’) (1);"
+    },
+    {
+      "page": 3,
+      "block": 12,
+      "fromLines": [
+        "p3-b12-l1",
+        "p3-b12-l2"
+      ],
+      "removed": "-",
+      "left": "it objectively compares one or more material, relevant, veri-",
+      "right": "fiable",
+      "result": "(c) it objectively compares one or more material, relevant, verifiable and representative features of those goods and ser-"
+    },
+    {
+      "page": 3,
+      "block": 12,
+      "fromLines": [
+        "p3-b12-l2",
+        "p3-b12-l3"
+      ],
+      "removed": "-",
+      "left": "ser-",
+      "right": "vices, which may include price;",
+      "result": "(c) it objectively compares one or more material, relevant, verifiable and representative features of those goods and services, which may include price;"
+    },
+    {
+      "page": 3,
+      "block": 14,
+      "fromLines": [
+        "p3-b14-l0",
+        "p3-b14-l1"
+      ],
+      "removed": "-",
+      "left": "activi-",
+      "right": "ties or circumstances of a competitor;",
+      "result": "names, other distinguishing marks, goods, services, activities or circumstances of a competitor;"
+    },
+    {
+      "page": 3,
+      "block": 16,
+      "fromLines": [
+        "p3-b16-l2",
+        "p3-b16-l3"
+      ],
+      "removed": "-",
+      "left": "com-",
+      "right": "petitor",
+      "result": "(f) it does not take unfair advantage of the reputation of a trade mark, trade name or other distinguishing marks of a competitor or of the designation of origin of competing"
+    },
+    {
+      "page": 3,
+      "block": 22,
+      "fromLines": [
+        "p3-b22-l2",
+        "p3-b22-l3"
+      ],
+      "removed": "-",
+      "left": "com-",
+      "right": "pliance",
+      "result": "1. Member States shall ensure that adequate and effective means exist to combat misleading advertising and enforce compliance with the provisions on comparative advertising in the"
+    },
+    {
+      "page": 3,
+      "block": 23,
+      "fromLines": [
+        "p3-b23-l1",
+        "p3-b23-l2"
+      ],
+      "removed": "-",
+      "left": "legiti-",
+      "right": "mate",
+      "result": "Such means shall include legal provisions under which persons or organisations regarded under national law as having a legitimate interest in combating misleading advertising or regulating"
+    },
+    {
+      "page": 3,
+      "block": 28,
+      "fromLines": [
+        "p3-b28-l3",
+        "p3-b28-l4"
+      ],
+      "removed": "-",
+      "left": "adminis-",
+      "right": "trative",
+      "result": "2. It shall be for each Member State to decide which of the facilities referred to in the second subparagraph of paragraph 1 shall be available and whether to enable the courts or administrative authorities to require prior recourse to other established"
+    },
+    {
+      "page": 3,
+      "block": 17,
+      "fromLines": [
+        "p3-b18-l0",
+        "p3-b18-l1"
+      ],
+      "removed": "-",
+      "left": "(g) it does not present goods or services as imitations or repli-",
+      "right": "cas of goods or services bearing a protected trade mark or trade name;",
+      "result": "(g) it does not present goods or services as imitations or replicas of goods or services bearing a protected trade mark or trade name;"
+    },
+    {
+      "page": 4,
+      "block": 4,
+      "fromLines": [
+        "p4-b4-l0",
+        "p4-b4-l1"
+      ],
+      "removed": "-",
+      "left": "immi-",
+      "right": "nent, to order the prohibition of, or to institute appropriate",
+      "result": "tising has not yet been published but publication is imminent, to order the prohibition of, or to institute appropriate"
+    },
+    {
+      "page": 4,
+      "block": 6,
+      "fromLines": [
+        "p4-b6-l1",
+        "p4-b6-l2"
+      ],
+      "removed": "-",
+      "left": "to in the first subparagraph to be taken under an accelerated pro-",
+      "right": "cedure",
+      "result": "Member States shall make provision for the measures referred to in the first subparagraph to be taken under an accelerated procedure either with interim effect or with definitive effect, at the"
+    },
+    {
+      "page": 4,
+      "block": 7,
+      "fromLines": [
+        "p4-b7-l1",
+        "p4-b7-l2"
+      ],
+      "removed": "-",
+      "left": "administra-",
+      "right": "tive",
+      "result": "4. Member States may confer upon the courts or administrative authorities powers enabling them, with a view to eliminat-"
+    },
+    {
+      "page": 4,
+      "block": 7,
+      "fromLines": [
+        "p4-b7-l2",
+        "p4-b7-l3"
+      ],
+      "removed": "-",
+      "left": "eliminat-",
+      "right": "ing",
+      "result": "4. Member States may confer upon the courts or administrative authorities powers enabling them, with a view to eliminating the continuing effects of misleading advertising or unlawful"
+    },
+    {
+      "page": 4,
+      "block": 16,
+      "fromLines": [
+        "p4-b16-l4",
+        "p4-b16-l5"
+      ],
+      "removed": "-",
+      "left": "be made for procedures whereby improper or unreasonable exer-",
+      "right": "cise of its powers by the administrative authority or improper or",
+      "result": "6. Where the powers referred to in paragraphs 3 and 4 are exercised exclusively by an administrative authority, reasons for its decisions shall always be given. In this case, provision must be made for procedures whereby improper or unreasonable exercise of its powers by the administrative authority or improper or"
+    },
+    {
+      "page": 4,
+      "block": 16,
+      "fromLines": [
+        "p4-b16-l6",
+        "p4-b16-l7"
+      ],
+      "removed": "-",
+      "left": "sub-",
+      "right": "ject of judicial review.",
+      "result": "6. Where the powers referred to in paragraphs 3 and 4 are exercised exclusively by an administrative authority, reasons for its decisions shall always be given. In this case, provision must be made for procedures whereby improper or unreasonable exercise of its powers by the administrative authority or improper or unreasonable failure to exercise the said powers can be the subject of judicial review."
+    },
+    {
+      "page": 4,
+      "block": 18,
+      "fromLines": [
+        "p4-b18-l5",
+        "p4-b18-l6"
+      ],
+      "removed": "-",
+      "left": "such bodies are additional to the court or administrative proceed-",
+      "right": "ings referred to in that Article.",
+      "result": "This Directive does not exclude the voluntary control, which Member States may encourage, of misleading or comparative advertising by self-regulatory bodies and recourse to such bodies by the persons or organisations referred to in the second sub- paragraph of Article 5(1) on condition that proceedings before such bodies are additional to the court or administrative proceedings referred to in that Article."
+    },
+    {
+      "page": 4,
+      "block": 21,
+      "fromLines": [
+        "p4-b21-l1",
+        "p4-b21-l2"
+      ],
+      "removed": "-",
+      "left": "accu-",
+      "right": "racy",
+      "result": "(a) to require the advertiser to furnish evidence as to the accuracy of factual claims in advertising if, taking into account"
+    },
+    {
+      "page": 4,
+      "block": 27,
+      "fromLines": [
+        "p4-b27-l0",
+        "p4-b27-l1"
+      ],
+      "removed": "-",
+      "left": "advertis-",
+      "right": "ing as far as the comparison is concerned.",
+      "result": "The first subparagraph shall not apply to comparative advertising as far as the comparison is concerned."
+    },
+    {
+      "page": 4,
+      "block": 28,
+      "fromLines": [
+        "p4-b28-l1",
+        "p4-b28-l2"
+      ],
+      "removed": "-",
+      "left": "preju-",
+      "right": "dice",
+      "result": "2. The provisions of this Directive shall apply without prejudice to Community provisions on advertising for specific prod-"
+    },
+    {
+      "page": 4,
+      "block": 28,
+      "fromLines": [
+        "p4-b28-l2",
+        "p4-b28-l3"
+      ],
+      "removed": "-",
+      "left": "prod-",
+      "right": "ucts",
+      "result": "2. The provisions of this Directive shall apply without prejudice to Community provisions on advertising for specific products and/or services or to restrictions or prohibitions on"
+    },
+    {
+      "page": 4,
+      "block": 3,
+      "fromLines": [
+        "p4-b4-l2",
+        "p4-b4-l3"
+      ],
+      "removed": "-",
+      "left": "(b) if the misleading advertising or unlawful comparative adver-",
+      "right": "tising has not yet been published but publication is imminent, to order the prohibition of, or to institute appropriate legal proceedings for an order for the prohibition of, such publication.",
+      "result": "(b) if the misleading advertising or unlawful comparative advertising has not yet been published but publication is imminent, to order the prohibition of, or to institute appropriate legal proceedings for an order for the prohibition of, such publication."
+    },
+    {
+      "page": 5,
+      "block": 0,
+      "fromLines": [
+        "p5-b0-l3",
+        "p5-b0-l4"
+      ],
+      "removed": "-",
+      "left": "adver-",
+      "right": "tising bans regarding certain goods or services, whether imposed",
+      "result": "3. The provisions of this Directive concerning comparative advertising shall not oblige Member States which, in compliance with the provisions of the Treaty, maintain or introduce advertising bans regarding certain goods or services, whether imposed"
+    },
+    {
+      "page": 5,
+      "block": 0,
+      "fromLines": [
+        "p5-b0-l6",
+        "p5-b0-l7"
+      ],
+      "removed": "-",
+      "left": "commer-",
+      "right": "cial, industrial, craft or professional activity, to permit compara-",
+      "result": "3. The provisions of this Directive concerning comparative advertising shall not oblige Member States which, in compliance with the provisions of the Treaty, maintain or introduce advertising bans regarding certain goods or services, whether imposed directly or by a body or organisation responsible, under the law of the Member States, for regulating the exercise of a commercial, industrial, craft or professional activity, to permit compara-"
+    },
+    {
+      "page": 5,
+      "block": 0,
+      "fromLines": [
+        "p5-b0-l7",
+        "p5-b0-l8"
+      ],
+      "removed": "-",
+      "left": "cial, industrial, craft or professional activity, to permit compara-",
+      "right": "tive",
+      "result": "3. The provisions of this Directive concerning comparative advertising shall not oblige Member States which, in compliance with the provisions of the Treaty, maintain or introduce advertising bans regarding certain goods or services, whether imposed directly or by a body or organisation responsible, under the law of the Member States, for regulating the exercise of a commercial, industrial, craft or professional activity, to permit comparative advertising regarding those goods or services. Where these"
+    },
+    {
+      "page": 5,
+      "block": 5,
+      "fromLines": [
+        "p5-b5-l2",
+        "p5-b5-l3"
+      ],
+      "removed": "-",
+      "left": "for transposition into national law and application of the Direc-",
+      "right": "tives, as set out in Part B of Annex I.",
+      "result": "Directive 84/450/EEC is hereby repealed, without prejudice to the obligations of the Member States relating to the time-limits for transposition into national law and application of the Directives, as set out in Part B of Annex I."
+    }
+  ],
+  "dehyphenationAmbiguities": [
+    {
+      "page": 4,
+      "block": 18,
+      "left": "This Directive does not exclude the voluntary control, which Member States may encourage, of misleading or comparative advertising by self-regulatory bodies and recourse to such bodies by the persons or organisations referred to in the second sub-",
+      "right": "paragraph of Article 5(1) on condition that proceedings before",
+      "reason": "Hyphen occurs at a physical line boundary but lexical evidence is insufficient to distinguish a compound from a split word."
+    }
+  ],
+  "suspiciousSplitWords": [
+    "sub- paragraph"
+  ]
+}

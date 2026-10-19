@@ -1,0 +1,2209 @@
+{
+  "celex": "32025D2561",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D2561\\TMX_MK1\\32025D2561_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D2561\\MK2\\32025D2561_MK2.docx",
+  "tmx_sha256": "f67169521ba08db67ca3100a2f5e0c388b57eff303e7f88e0ea5980c2315bd2e",
+  "mk2_sha256": "d229f308d0bfac36fffc0d4e3e56ccd7767e163a27fcc92f62386c3ae557b4b2",
+  "original_tus": 65,
+  "accepted_tus": 42,
+  "skipped_tus": 23,
+  "acceptance_percent": 64.62,
+  "mk1_coverage": 86.45,
+  "mk2_coverage": 85.87,
+  "accepted_clean_en_chars": 3630,
+  "accepted_clean_mk2_chars": 3750,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL DECISION (CFSP) 2025/2561",
+      "mk1": "ОДЛУКА (ЗНБП) 2025/2561 НА СОВЕТОТ",
+      "mk2": "ОДЛУКА (ЗНБП) 2025/2561 НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        34
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 15 December 2025",
+      "mk1": "од 15 декември 2025 година",
+      "mk2": "од 15 декември 2025 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        35,
+        61
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "amending Decision (CFSP) 2022/2319 concerning restrictive measures in view of the situation in Haiti",
+      "mk1": "за изменување на Одлуката (ЗНБП) 2022/2319 за рестриктивни мерки во однос на состојбата во Хаити",
+      "mk2": "за изменување на Одлуката (ЗНБП) 2022/2319 за рестриктивни мерки во однос на состојбата во Хаити",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        2,
+        3
+      ],
+      "mk2_char_span": [
+        62,
+        158
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          3
+        ],
+        "atom_window": [
+          2,
+          3
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 4,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        3,
+        4
+      ],
+      "mk2_char_span": [
+        159,
+        187
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          4,
+          4
+        ],
+        "atom_window": [
+          3,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 29 thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот,",
+      "mk2": "имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        4,
+        5
+      ],
+      "mk2_char_span": [
+        188,
+        265
+      ],
+      "evidence": {
+        "token_count": 13,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          5
+        ],
+        "atom_window": [
+          4,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,",
+      "mk1": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "mk2": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        266,
+        373
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          6
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "со оглед на тоа што:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        6,
+        7
+      ],
+      "mk2_char_span": [
+        374,
+        394
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          7
+        ],
+        "atom_window": [
+          6,
+          7
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 8,
+      "en": "(1) On 25 November 2022, the Council adopted Decision (CFSP) 2022/2319 ().",
+      "mk1": "(1) На 25 ноември 2022 година, Советот ја донесе Одлуката (ЗНБП) 2022/2319 ().",
+      "mk2": "(1)На 25 ноември 2022 година, Советот ја донесе Одлуката (ЗНБП) 202216/2319 ().",
+      "score": 0.9857142857142858,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        7,
+        8
+      ],
+      "mk2_char_span": [
+        395,
+        474
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          9
+        ],
+        "atom_window": [
+          7,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 9,
+      "en": "Council Decision (CFSP) 2022/2319 of 25 November 2022 concerning restrictive measures in view of the situation in Haiti (OJ L 307, 28.11.2022, p. 135, ELI: http://data.europa.eu/eli/dec/2022/2319/oj).",
+      "mk1": "Одлука (ЗНБП) 2022/2319 на Советот од 25 ноември 2022 година за рестриктивни мерки во однос на состојбата во Хаити (Сл. весник L 307, 28.11.2022 година, стр. 135, ELI: http://data.europa.eu/eli/dec/2022/2319/oj).",
+      "mk2": "Одлука (ЗНБП) 2022/2319 на Советот, од 25 ноември 2022 година, за рестриктивни мерки во однос на состојбата во Хаити (Сл. весник L 307, 28.11.2022 година, стр. 135, ELI: http://data.europa.eu/eli/dec/2022/2319/oj).",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        7,
+        8
+      ],
+      "mk2_char_span": [
+        474,
+        689
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          9
+        ],
+        "atom_window": [
+          7,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 10,
+      "en": "(2) On 28 July 2023, the Council adopted Decision (CFSP) 2023/1574 (), which amended Decision (CFSP) 2022/2319, thereby establishing a dedicated framework for targeted restrictive measures against natural or legal persons, entities or bodies responsible for actions that threaten the peace, stability and security of Haiti and for actions that undermine democracy or the rule of law in Haiti, as well as against natural or legal persons, entities or bodies associated with them.",
+      "mk1": "(2) На 28 јули 2023 година, Советот ја усвои Одлуката (ЗНБП) 2023/1574 (), со која се измени Одлуката (ЗНБП) 2022/2319, со што се воспостави наменска рамка за насочени рестриктивни мерки против физички или правни лица, субјекти или тела одговорни за дејствија што го загрозуваат мирот, стабилноста и безбедноста на Хаити и за дејствија што ја поткопуваат демократијата или владеењето на правото во Хаити, како и против физички или правни лица, субјекти или тела поврзани со нив.",
+      "mk2": "(2)На 28 јули 2023 година, Советот ја усвои донесе Одлуката (ЗНБП) 2023/1574 (), со која се измени Одлуката (ЗНБП) 2022/2319, со што се воспостави наменска рамка за насочени рестриктивни мерки против физички или правни лица, субјекти или тела одговорни за дејствијија што го загрозуваат мирот, стабилноста и безбедноста на Хаити и за дејствијија што ја поткопуваат демократијата или владеењето на правото во Хаити, како и против физички или правни лица, субјекти или тела поврзани со нив. ()Одлука (ЗНБП)",
+      "score": 0.9756613756613757,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        690,
+        1194
+      ],
+      "evidence": {
+        "token_count": 117,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          11
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 11,
+      "en": "Council Decision (CFSP) 2023/1574 of 28 July 2023 amending Decision (CFSP) 2022/2319 concerning restrictive measures in view of the situation in Haiti (OJ L 192, 31.7.2023, p. 21, ELI: http://data.europa.eu/eli/dec/2023/1574/oj).",
+      "mk1": "() Одлука на Советот (ЗНБП) 2023/1574 од 28 јули 2023 година за изменување на Одлуката (ЗНБП) 2022/2319 за рестриктивни мерки поради ситуацијата во Хаити (Сл. весник L 192, 31.7.2023 година, стр. 21, ELI: http://data.europa.eu/eli/dec/2023/1574/oj).",
+      "mk2": "2023/1574 на Советот (ЗНБП) 2023/1574, од 28 јули 2023 година, за изменување на Одлуката (ЗНБП) 2022/2319 за рестриктивни мерки поради ситуацијата состојбата во Хаити (Сл. весник L 192, 31.7.2023 година, стр. 21, ELI: http://data.europa.eu/eli/dec/2023/1574/oj).",
+      "score": 0.9453781512605042,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        1194,
+        1457
+      ],
+      "evidence": {
+        "token_count": 117,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          11
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 12,
+      "en": "(3) In its conclusions of 17 October 2024, the European Council stated that it remained extremely concerned about the situation in Haiti and called for new targeted sanctions against individuals and entities responsible for violence, with the objective of helping to restore peace, security, stability, democracy and the rule of law in Haiti.",
+      "mk1": "(3) Во своите заклучоци од 17 октомври 2024 година, Европскиот совет изјави дека останува исклучително загрижен за ситуацијата во Хаити и повика на нови целни санкции против поединци и субјекти одговорни за насилство, со цел да се помогне во враќањето на мирот, безбедноста, стабилноста, демократијата и владеењето на правото во Хаити.",
+      "mk2": "(3)Во своите заклучоци од 17 октомври 2024 година, Европскиот совет изјави дека останува исклучително загрижен за ситуацијата состојбата во Хаити и повика на нови целни санкции против поединци лица и субјекти одговорни за насилство, со цел да се помогне во враќањето на мирот, безбедноста, стабилноста, демократијата и на владеењето на правото во Х",
+      "score": 0.9656203288490284,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        12
+      ],
+      "mk2_char_span": [
+        1458,
+        1806
+      ],
+      "evidence": {
+        "token_count": 137,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          14
+        ],
+        "atom_window": [
+          9,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 13,
+      "en": "(4) In view of the deteriorating political, economic, security and humanitarian situation in Haiti, including the results of the escalating gang violence, the unremitting serious human rights abuses committed by gangs, and the continuing impunity for the perpetrators, three individuals and one entity should be added to the list of natural and legal persons, entities and bodies subject to restrictive measures set out in Annex II to Decision (CFSP) 2022/2319.",
+      "mk1": "(4) Со оглед на влошувањето на политичката, економската, безбедносната и хуманитарната ситуација во Хаити, вклучувајќи ги и резултатите од ескалацијата на насилството меѓу бандите, непрекинатите сериозни злоупотреби на човековите права извршени од бандите и континуираната неказнивост на сторителите, три лица и еден субјект треба да се додадат на списокот на физички и правни лица, субјекти и тела кои подлежат на рестриктивни мерки наведени во Анекс II на Одлуката (ЗНБП) 2022/2319.",
+      "mk2": "аити. (4)Со оглед на влошувањето на политичката, економската, безбедносната и на хуманитарната ситуација состојба во Хаити, вклучувајќи ги и резултатите од ескалацијата на насилството меѓу бандите, непрекинатите сериозни злоупотреби на човековите права извршени од бандите и континуираната неказнивост на сторителите, три лица и еден субјект треба да се додадат на списокот на физички и правни лица, субјекти и тела кои подлежат на рестриктивни мерки наведени во Анекс II на кон Одлуката (ЗНБП) 2022/231",
+      "score": 0.9772256728778468,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        12
+      ],
+      "mk2_char_span": [
+        1806,
+        2309
+      ],
+      "evidence": {
+        "token_count": 137,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          14
+        ],
+        "atom_window": [
+          9,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 14,
+      "en": "(5) Decision (CFSP) 2022/2319 should therefore be amended accordingly,",
+      "mk1": "(5) Затоа, Одлуката (ЗНБП) 2022/2319 треба соодветно да се измени,",
+      "mk2": "9. (5)Затоа, Одлуката (ЗНБП) 2022/2319 треба соодветно да се измени,",
+      "score": 0.9836065573770492,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        12
+      ],
+      "mk2_char_span": [
+        2309,
+        2377
+      ],
+      "evidence": {
+        "token_count": 137,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          14
+        ],
+        "atom_window": [
+          9,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 15,
+      "en": "HAS ADOPTED THIS DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "mk2": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        2378,
+        2400
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          15,
+          15
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 16,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "Член 1",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        13,
+        14
+      ],
+      "mk2_char_span": [
+        2401,
+        2407
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          16,
+          16
+        ],
+        "atom_window": [
+          13,
+          14
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 17,
+      "en": "Annex II to Decision (CFSP) 2022/2319 is amended in accordance with the Annex to this Decision.",
+      "mk1": "Анекс II кон Одлуката (ЗНБП) 2022/2319 се изменува во согласност со Анексот кон оваа одлука.",
+      "mk2": "Анекс II кон Одлуката (ЗНБП) 2022/2319 се изменува во согласност со Анексот кон оваа одлука.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        14,
+        15
+      ],
+      "mk2_char_span": [
+        2408,
+        2500
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          17
+        ],
+        "atom_window": [
+          14,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 18,
+      "en": "This Decision shall enter into force on the date of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "Член 2 Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија",
+      "score": 0.9665071770334929,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        15,
+        18
+      ],
+      "mk2_char_span": [
+        2501,
+        2609
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          18,
+          19
+        ],
+        "atom_window": [
+          15,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 19,
+      "en": "Done at Brussels, 15 December 2025.",
+      "mk1": "Брисел, 15 декември 2025 година.",
+      "mk2": ". Брисел, 15 декември 2025 година.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        15,
+        18
+      ],
+      "mk2_char_span": [
+        2609,
+        2643
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          18,
+          19
+        ],
+        "atom_window": [
+          15,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 20,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "За Советот",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        18,
+        19
+      ],
+      "mk2_char_span": [
+        2644,
+        2654
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          20
+        ],
+        "atom_window": [
+          18,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 21,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "Претседател",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        19,
+        20
+      ],
+      "mk2_char_span": [
+        2655,
+        2666
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          21,
+          21
+        ],
+        "atom_window": [
+          19,
+          20
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 22,
+      "en": "K. KALLAS",
+      "mk1": "К. КАЛЛАС",
+      "mk2": "К. КАЛЛАС",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        20,
+        21
+      ],
+      "mk2_char_span": [
+        2667,
+        2676
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          22
+        ],
+        "atom_window": [
+          20,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 23,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "mk2": "АНЕКС",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        21,
+        22
+      ],
+      "mk2_char_span": [
+        2677,
+        2682
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          23,
+          23
+        ],
+        "atom_window": [
+          21,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 24,
+      "en": "Annex II to Decision (CFSP) 2022/2319 is amended as follows:",
+      "mk1": "Анекс II кон Одлуката (ЗНБП) 2022/2319 се изменува како што следува:",
+      "mk2": "Анекс II кон Одлуката (ЗНБП) 2022/2319, се изменува како што следуваи:",
+      "score": 0.9923664122137404,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        22,
+        24
+      ],
+      "mk2_char_span": [
+        2683,
+        2754
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": false,
+        "neighbor_window": [
+          24,
+          25
+        ],
+        "atom_window": [
+          22,
+          24
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 25,
+      "en": "(1)",
+      "mk1": "(1)",
+      "mk2": "(1)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        22,
+        24
+      ],
+      "mk2_char_span": [
+        2754,
+        2757
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": false,
+        "neighbor_window": [
+          24,
+          25
+        ],
+        "atom_window": [
+          22,
+          24
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 26,
+      "en": "under the heading ‘A. List of natural persons referred to in Article 2a(1) and in Article 3a(1)’, the following entries are added:",
+      "mk1": "во насловот „А. Список на физички лица наведени во член 2a(1) и во член 3a(1)“, се додаваат следните внесови:",
+      "mk2": "Вво делот под насловот „А. Список на физички лица наведени во член 2a(1) и во член 3a(1)“, се додаваат следните внесови",
+      "score": 0.9488372093023256,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        24,
+        27
+      ],
+      "mk2_char_span": [
+        2758,
+        2877
+      ],
+      "evidence": {
+        "token_count": 27,
+        "references_preserved": true,
+        "neighbor_window": [
+          26,
+          28
+        ],
+        "atom_window": [
+          24,
+          27
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 27,
+      "en": "Name",
+      "mk1": "Име",
+      "mk2": ": И",
+      "score": 0.5,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        24,
+        27
+      ],
+      "mk2_char_span": [
+        2877,
+        2880
+      ],
+      "evidence": {
+        "token_count": 27,
+        "references_preserved": true,
+        "neighbor_window": [
+          26,
+          28
+        ],
+        "atom_window": [
+          24,
+          27
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 28,
+      "en": "Identifying information",
+      "mk1": "Информации за идентификација",
+      "mk2": "ме Информации за идентификација",
+      "score": 0.9491525423728814,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        24,
+        27
+      ],
+      "mk2_char_span": [
+        2880,
+        2911
+      ],
+      "evidence": {
+        "token_count": 27,
+        "references_preserved": true,
+        "neighbor_window": [
+          26,
+          28
+        ],
+        "atom_window": [
+          24,
+          27
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 29,
+      "en": "Statement of reasons",
+      "mk1": "Образложение",
+      "mk2": "Образложение",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        27,
+        28
+      ],
+      "mk2_char_span": [
+        2912,
+        2924
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          29,
+          29
+        ],
+        "atom_window": [
+          27,
+          28
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 30,
+      "en": "Date of listing",
+      "mk1": "Датум на внесување во список",
+      "mk2": "Датум на внесување во список",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        28,
+        29
+      ],
+      "mk2_char_span": [
+        2925,
+        2953
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          30,
+          30
+        ],
+        "atom_window": [
+          28,
+          29
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 31,
+      "en": "‘7.",
+      "mk1": "„7.",
+      "mk2": "„7.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        29,
+        30
+      ],
+      "mk2_char_span": [
+        2954,
+        2957
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          31
+        ],
+        "atom_window": [
+          29,
+          30
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 32,
+      "en": "Michel Joseph MARTELLY",
+      "mk1": "Michel Joseph MARTELLY",
+      "mk2": "Michel Joseph MARTELLY",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        30,
+        31
+      ],
+      "mk2_char_span": [
+        2958,
+        2980
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          32,
+          32
+        ],
+        "atom_window": [
+          30,
+          31
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 33,
+      "en": "a.k.a. Sweet Micky",
+      "mk1": "познат како Sweet Micky",
+      "mk2": "познат како Sweet Micky",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        31,
+        32
+      ],
+      "mk2_char_span": [
+        2981,
+        3004
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          33,
+          33
+        ],
+        "atom_window": [
+          31,
+          32
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 34,
+      "en": "Function: former President of Haiti (2011-2016); former President of the CARICOM (January 2023-July 2023)",
+      "mk1": "Функција: поранешен претседател на Хаити (2011-2016 година); поранешен претседател на CARICOM (јануари 2023 година - јули 2023 година)",
+      "mk2": "Функција: поранешен претседател на Хаити (2011-2016 година); поранешен претседател на CARICOM (јануари 2023 година - јули 2023 година)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        32,
+        33
+      ],
+      "mk2_char_span": [
+        3005,
+        3139
+      ],
+      "evidence": {
+        "token_count": 17,
+        "references_preserved": true,
+        "neighbor_window": [
+          34,
+          34
+        ],
+        "atom_window": [
+          32,
+          33
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 35,
+      "en": "Michel Martelly, the former President of the Republic of Haiti (2011-2016), participated directly in the creation of the gang Base 257.",
+      "mk1": "Michel Martelly, поранешен претседател на Република Хаити (2011-2016 година), учествувал директно во создавањето на бандата Base 257.",
+      "mk2": "Michel Martelly, поранешен претседател на Република Хаити (2011-2016 година), учествувал директно во создавањето на бандата Base 257. Тој",
+      "score": 0.9846153846153847,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        33,
+        34
+      ],
+      "mk2_char_span": [
+        3140,
+        3278
+      ],
+      "evidence": {
+        "token_count": 97,
+        "references_preserved": true,
+        "neighbor_window": [
+          35,
+          37
+        ],
+        "atom_window": [
+          33,
+          34
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 36,
+      "en": "He financed, sponsored and supported several gangs, in particular Base 257, but also Village de Dieu, Ti Bois and Grand Ravine, to defend his economic interests, advance his political agenda and control territories, notably by providing them with firearms and guns.",
+      "mk1": "Тој финансирал, спонзорирал и поддржувал неколку банди, особено Base 257, но и illage de Dieu, Ti Bois and Grand Ravine, за да ги брани своите економски интереси, да ја унапреди својата политичка агенда и да контролира територии, особено со тоа што им обезбедувал огнено оружје и пушки.",
+      "mk2": "финансирал, спонзорирал и поддржувал неколку банди, особено Base 257, но и Village de Dieu, Ti Bois and Grand Ravine, за да ги брани своите економски интереси, да ја унапреди промовира својата политичка агенда и да контролира територии, особено со тоа што им обезбедувал огнено оружје и пушки. Со",
+      "score": 0.9681978798586572,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        33,
+        34
+      ],
+      "mk2_char_span": [
+        3278,
+        3574
+      ],
+      "evidence": {
+        "token_count": 97,
+        "references_preserved": true,
+        "neighbor_window": [
+          35,
+          37
+        ],
+        "atom_window": [
+          33,
+          34
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 37,
+      "en": "By financing those groups, he is also responsible for the abuses they have committed and has therefore contributed financially to insecurity and instability in Haiti.",
+      "mk1": "Со тоа што ги финансирал тие групи, тој е исто така одговорен за злоупотребите кои ги извршиле и со тоа придонел финансиски кон нарушување на безбедноста и стабилноста во Хаити.",
+      "mk2": "тоа што ги финансирал тие групи, тој е, исто така, е одговорен за злоупотребите кои тие ги извршиле и со тоа придонел финансиски кон нарушување на безбедноста и стабилноста во Хаити.",
+      "score": 0.9745042492917847,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        33,
+        34
+      ],
+      "mk2_char_span": [
+        3574,
+        3757
+      ],
+      "evidence": {
+        "token_count": 97,
+        "references_preserved": true,
+        "neighbor_window": [
+          35,
+          37
+        ],
+        "atom_window": [
+          33,
+          34
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 38,
+      "en": "Therefore, Michel Martelly is responsible for actions that threaten the peace, stability and security of Haiti.",
+      "mk1": "Затоа, Michel Martelly е одговорен за дејствија кои ги загрозуваат мирот, стабилноста и безбедноста во Хаити.",
+      "mk2": "Затоа, Michel Martelly е одговорен за дејствијија кои ги загрозуваат мирот, стабилноста и безбедноста во Хаити.",
+      "score": 0.9906542056074766,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        34,
+        37
+      ],
+      "mk2_char_span": [
+        3758,
+        3870
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          38,
+          40
+        ],
+        "atom_window": [
+          34,
+          37
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 39,
+      "en": "15.12.2025",
+      "mk1": "15.12.2025 година",
+      "mk2": "15.12.2025 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        34,
+        37
+      ],
+      "mk2_char_span": [
+        3870,
+        3888
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          38,
+          40
+        ],
+        "atom_window": [
+          34,
+          37
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 40,
+      "en": "8.",
+      "mk1": "8.",
+      "mk2": "8.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        34,
+        37
+      ],
+      "mk2_char_span": [
+        3888,
+        3890
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          38,
+          40
+        ],
+        "atom_window": [
+          34,
+          37
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 41,
+      "en": "Youri LATORTUE",
+      "mk1": "Youri LATORTUE",
+      "mk2": "Youri LATORTUE",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        37,
+        38
+      ],
+      "mk2_char_span": [
+        3891,
+        3905
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          41,
+          41
+        ],
+        "atom_window": [
+          37,
+          38
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 42,
+      "en": "Function: former advisor to the President Michel Martelly (2011-2016); former President of the Senate (2017-2018); former senator of the Artibonite department; coordinator of the party “L’Ayiti an Aksyon” (AAA), previously known as “L’Artibonite en Action” (LAAA)",
+      "mk1": "Функција: поранешен советник на претседателот Michel Martelly (2011-2016 година); поранешен претседател на Сенатот (2017-2018 година); поранешен сенатор на одделот Artibonite; координатор на партијата „L’Ayiti an Aksyon“ (AAA), претходно позната како „L’Artibonite en Action“ (LAAA)",
+      "mk2": "Функција: поранешен советник на претседателот Michel Martelly (2011-2016 година); поранешен претседател на Сенатот (2017-2018 година); поранешен сенатор на одделот Artibonite; координатор на партијата „L’Ayiti an Aksyon“ (AAA), претходно позната како „L’Artibonite en Action“ (LAAA)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        38,
+        39
+      ],
+      "mk2_char_span": [
+        3906,
+        4188
+      ],
+      "evidence": {
+        "token_count": 36,
+        "references_preserved": true,
+        "neighbor_window": [
+          42,
+          42
+        ],
+        "atom_window": [
+          38,
+          39
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "Youri Latortue is the founder of the political party “L’Ayiti an Aksyon” (AAA), a former senator of the Artibonite department, and a former advisor to the President Michel Martelly during his presidency (2011-2016).",
+      "mk1": "Youri Latortue е основач на политичката партија „L’Ayiti an Aksyon“ (AAA), поранешен сенатор на одделот Artibonite и поранешен советник на претседателот Michel Martelly за време на неговото претседателствување (2011-2016 година).",
+      "mk2": "Youri Latortue е основач на политичката партија „L’Ayiti an Aksyon“ (AAA), поранешен сенатор на одделот Artibonite и поранешен советник на претседателот Michel Martelly за време на неговото претседателствување (2011-2016 година). Тој, и",
+      "score": 0.9866071428571429,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        39,
+        40
+      ],
+      "mk2_char_span": [
+        4189,
+        4425
+      ],
+      "evidence": {
+        "token_count": 48,
+        "references_preserved": true,
+        "neighbor_window": [
+          43,
+          44
+        ],
+        "atom_window": [
+          39,
+          40
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "He also served as president of the Senate from 13 January 2017 to 9 January 2018.",
+      "mk1": "Тој, исто така, беше претседател на Сенатот од 13 јануари 2017 до 9 јануари 2018 година.",
+      "mk2": "сто така, беше претседател на Сенатот, од 13 јануари 2017 година до 9 јануари 2018 година.",
+      "score": 0.9302325581395349,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        39,
+        40
+      ],
+      "mk2_char_span": [
+        4425,
+        4515
+      ],
+      "evidence": {
+        "token_count": 48,
+        "references_preserved": true,
+        "neighbor_window": [
+          43,
+          44
+        ],
+        "atom_window": [
+          39,
+          40
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "Youri Latortue has armed and financed the “Raboteau” and “Kokorat San Ras” gangs, to promote his political agenda and defend his personal and economic interests, notably in the Artibonite department.",
+      "mk1": "Youri Latortue ги вооружувал и финансирал бандите „Raboteau“ и „Kokorat San Ras“, за да ја промовира својата политичка агенда и да ги брани своите лични и економски интереси, особено во одделот Artibonite.",
+      "mk2": "Youri Latortue ги вооружувал и ги финансирал бандите „Raboteau“ и „Kokorat San Ras“, за да ја промовира својата политичка агенда и да ги брани своите лични и економски интереси, особено во одделот Artibonite.",
+      "score": 0.9924812030075187,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        40,
+        41
+      ],
+      "mk2_char_span": [
+        4516,
+        4725
+      ],
+      "evidence": {
+        "token_count": 47,
+        "references_preserved": true,
+        "neighbor_window": [
+          45,
+          46
+        ],
+        "atom_window": [
+          40,
+          41
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 46,
+      "en": "Those gangs are still active today, engaging in kidnapping and racketeering, among other activities.",
+      "mk1": "Тие банди и ден денес се активни, извршувајќи киднапирања и рекетарство, помеѓу другите дејствија.",
+      "mk2": "Тие банди и ден денес се активни, извршувајќи киднапирања и рекетарство, помеѓу другите дејствијија.",
+      "score": 0.9895833333333334,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        40,
+        41
+      ],
+      "mk2_char_span": [
+        4725,
+        4825
+      ],
+      "evidence": {
+        "token_count": 47,
+        "references_preserved": true,
+        "neighbor_window": [
+          45,
+          46
+        ],
+        "atom_window": [
+          40,
+          41
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 47,
+      "en": "Therefore, Youri Latortue is indirectly responsible for actions that threaten the peace, stability and security of Haiti.",
+      "mk1": "Затоа, Youri Latortue е индиректно одговорен за дејствија кои ги загрозуваат мирот, стабилноста и безбедноста во Хаити.",
+      "mk2": "Затоа, Youri Latortue е индиректно одговорен за дејствијија кои ги загрозуваат мирот, стабилноста и безбедноста во Хаити.",
+      "score": 0.9914529914529915,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        41,
+        42
+      ],
+      "mk2_char_span": [
+        4826,
+        4947
+      ],
+      "evidence": {
+        "token_count": 17,
+        "references_preserved": true,
+        "neighbor_window": [
+          47,
+          47
+        ],
+        "atom_window": [
+          41,
+          42
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 48,
+      "en": "Rony CELESTIN",
+      "mk1": "Rony CELESTIN",
+      "mk2": "15.12.2025 година 9. Rony CELESTIN",
+      "score": 0.5652173913043478,
+      "status": "UNMATCHED",
+      "cardinality": "1:N",
+      "mk2_span": [
+        42,
+        45
+      ],
+      "mk2_char_span": [
+        4948,
+        4982
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          48,
+          48
+        ],
+        "atom_window": [
+          42,
+          45
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 49,
+      "en": "a.k.a. Rony APPOLON",
+      "mk1": "познат како Rony APPOLON",
+      "mk2": "познат како Rony APPOLON",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        45,
+        46
+      ],
+      "mk2_char_span": [
+        4983,
+        5007
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          49,
+          49
+        ],
+        "atom_window": [
+          45,
+          46
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 50,
+      "en": "Function: former deputy (2011-2017); former senator (2017-2023)",
+      "mk1": "Функција: поранешен заменик (2011-2017 година); поранешен сенатор (2017-2023 година)",
+      "mk2": "Функција: поранешен заменик пратеник (2011-2017 година); поранешен сенатор (2017-2023 г",
+      "score": 0.9125,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        46,
+        48
+      ],
+      "mk2_char_span": [
+        5008,
+        5095
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": true,
+        "neighbor_window": [
+          50,
+          52
+        ],
+        "atom_window": [
+          46,
+          48
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 51,
+      "en": "Rony Celestin, a former senator of Haiti, is involved in violence linked to armed groups and smuggling.",
+      "mk1": "Rony Celestin, поранешен сенатор на Хаити, е вмешан во насилство поврзано со вооружени групи и шверц.",
+      "mk2": "одина) Rony Celestin, поранешен сенатор на Хаити, е вмешан во насилство поврзано со вооружени групи и шв",
+      "score": 0.9547738693467337,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        46,
+        48
+      ],
+      "mk2_char_span": [
+        5095,
+        5199
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": true,
+        "neighbor_window": [
+          50,
+          52
+        ],
+        "atom_window": [
+          46,
+          48
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 52,
+      "en": "He has notably been held responsible for orchestrating the murder of the journalist Néhémie Joseph, who exposed his illegal activities and corruption.",
+      "mk1": "Тој е особено одговорен за организирање на убиството на новинарот Néhémie Joseph, кој ги разоткрил неговите нелегални активности и корупција.",
+      "mk2": "ерц. Тој е особено одговорен за организирање на убиството на новинарот Néhémie Joseph, кој ги разоткрил неговите нелегални активности и корупција.",
+      "score": 0.9858156028368794,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        46,
+        48
+      ],
+      "mk2_char_span": [
+        5199,
+        5345
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": true,
+        "neighbor_window": [
+          50,
+          52
+        ],
+        "atom_window": [
+          46,
+          48
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 53,
+      "en": "Therefore, Rony Celestin is indirectly responsible for actions that threaten the peace, stability and security of Haiti.",
+      "mk1": "Затоа, Rony Celestin е индиректно одговорен за дејствија што го загрозуваат мирот, стабилноста и безбедноста на Хаити.",
+      "mk2": "Затоа, Rony Celestin е индиректно одговорен за дејствијија што го загрозуваат мирот, стабилноста и безбедноста на Хаити.",
+      "score": 0.9913793103448276,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        48,
+        50
+      ],
+      "mk2_char_span": [
+        5346,
+        5467
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          53,
+          54
+        ],
+        "atom_window": [
+          48,
+          50
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 54,
+      "en": "15.12.2025’",
+      "mk1": "15.12.2025 година“",
+      "mk2": "15.12.2025 година“",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        48,
+        50
+      ],
+      "mk2_char_span": [
+        5467,
+        5485
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          53,
+          54
+        ],
+        "atom_window": [
+          48,
+          50
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 55,
+      "en": "under the heading ‘B. List of legal persons, entities and bodies referred to in Article 3a(1)’, the following table and entry are added:",
+      "mk1": "во насловот „Б. Список на правни лица, субјекти и тела наведени во член 3a(1)“, се додаваат следната табела и внес:",
+      "mk2": "(2) ВвоВо делот под насловот „Б. Список на правни лица, субјекти и тела, наведени во член 3a(1)“, се додаваат следната табела и внес:",
+      "score": 0.935064935064935,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        50,
+        52
+      ],
+      "mk2_char_span": [
+        5486,
+        5619
+      ],
+      "evidence": {
+        "token_count": 24,
+        "references_preserved": true,
+        "neighbor_window": [
+          55,
+          55
+        ],
+        "atom_window": [
+          50,
+          52
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 56,
+      "en": "Date of listing",
+      "mk1": "Датум на внесување на список",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 57,
+      "en": "5 Segond gang",
+      "mk1": "Банда 5 Segond",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 58,
+      "en": "Haitian gang based in the “Village de Dieu” neighbourhood in Port-au-Prince",
+      "mk1": "Хаитичка банда со седиште во населбата „Village de Dieu“ во Port-au-Prince",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 59,
+      "en": "The 5 Segond gang is a powerful gang in Haiti, based in the Village de Dieu neighbourhood in Port-au-Prince.",
+      "mk1": "Бандата 5 Segond е моќна банда во Хаити, со седиште во населбата Village de Dieu во Port-au-Prince",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 60,
+      "en": "Its leader is Johnson André, a.k.a “Izo”.",
+      "mk1": "Нејзин водич е Johnson André, познат како „Izo“.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 61,
+      "en": "The 5 Segond gang was officially part of the G-Pèp gang alliance.",
+      "mk1": "Бандата 5 Segond официјално беше дел од сојузот на бандите G-Pèp.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 62,
+      "en": "In 2024, G-Pèp and its former rivals, G9 Family and Allies, formed a new coalition, Viv Ansanm, a.k.a. Living Together.",
+      "mk1": "Во 2024 година, G-Pèp и неговите поранешни соперници, G9 „Family and Allies“, формираа нова коалиција, Viv Ansanm, позната како Living Together.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 63,
+      "en": "Together, they increased attacks against state institutions and contributed to instability.",
+      "mk1": "Заедно, тие ги зголемија нападите врз државните институции и придонесоа за нестабилност.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 64,
+      "en": "The 5 Segond gang also commits theft, rape, kidnapping, murder, piracy, and extortion, obstructs humanitarian aid and engages in arms and drugs trafficking.",
+      "mk1": "Бандата 5 Segond, исто така, извршува кражби, силувања, киднапирања, убиства, пиратство и изнуда, ја попречува хуманитарната помош и се занимава со трговија со оружје и дрога.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 65,
+      "en": "Therefore, the 5 Segond gang is responsible for actions that threaten the peace, stability and security of Haiti.",
+      "mk1": "Затоа, бандата 5 Segond е одговорна за дејствија кои ги загрозуваат мирот, стабилноста и безбедноста во Хаити.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 2,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32025D2561",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Council Decision (CFSP) 2025/2561 of 15 December 2025 amending Decision (CFSP) 2022/2319 concerning restrictive measures in view of the situation in Haiti",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2025/2561 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 15 декември 2025 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката (ЗНБП) 2022/2319 за рестриктивни мерки во однос на состојбата во Хаити",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Рестриктивни мерки, човекови права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ангела Николова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "12.2.2026 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс, точка 8",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Racketeering",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "рекетарство",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://makedonski.gov.mk/corpus/l/reketarstvo-sr",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32025D2561",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Council Decision (CFSP) 2025/2561 of 15 December 2025 amending Decision (CFSP) 2022/2319 concerning restrictive measures in view of the situation in Haiti",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2025/2561 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 15 декември 2025 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката (ЗНБП) 2022/2319 за рестриктивни мерки во однос на состојбата во Хаити",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Рестриктивни мерки, човекови права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Павлова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Former deputy",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "поранешен заменик",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поранешен пратеник",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "HYPERLINK \"https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Haiti)\"https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Haiti)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Во Хаити, deputy се однесува на пратеник, не на заменик",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Одлука (ЗНБП) 2022/2319 на Советот, од 25 ноември 2022 година, за рестриктивни мерки во однос на состојбата во Хаити (Сл. весник L 307, 28.11.2022 година, стр. 135, ELI: http://data.europa.eu/eli/dec/2022/2319/oj).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "()Одлука (ЗНБП) 2023/1574 на Советот (ЗНБП) 2023/1574, од 28 јули 2023 година, за изменување на Одлуката (ЗНБП) 2022/2319 за рестриктивни мерки поради ситуацијата состојбата во Хаити (Сл. весник L 192, 31.7.2023 година, стр. 21, ELI: http://data.europa.eu/eli/dec/2023/1574/oj).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 7,
+        "text": "Одлука (ЗНБП) 2022/2319 на Советот, од 25 ноември 2022 година, за рестриктивни мерки во однос на состојбата во Хаити (Сл. весник L 307, 28.11.2022 година, стр. 135, ELI: http://data.europa.eu/eli/dec/2022/2319/oj)."
+      },
+      {
+        "ref": "2",
+        "body_index": 8,
+        "text": "()Одлука (ЗНБП) 2023/1574 на Советот (ЗНБП) 2023/1574, од 28 јули 2023 година, за изменување на Одлуката (ЗНБП) 2022/2319 за рестриктивни мерки поради ситуацијата состојбата во Хаити (Сл. весник L 192, 31.7.2023 година, стр. 21, ELI: http://data.europa.eu/eli/dec/2023/1574/oj)."
+      }
+    ]
+  },
+  "dry_run": true
+}

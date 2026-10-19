@@ -1,0 +1,9 @@
+{
+  "workerSuite": {"status": "PASS", "passed": 36, "warnings": 1},
+  "contractTests": "PASS",
+  "mutationAliasingTests": "PASS via frozen dataclass geometry and copied child/provenance containers",
+  "noObsoleteModelTest": "PASS",
+  "noSpikeDependencyTest": "PASS",
+  "fixtureRegressions": "PASS",
+  "typescriptTypecheck": "PASS"
+}

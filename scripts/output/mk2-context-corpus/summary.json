@@ -1,0 +1,1377 @@
+{
+  "summary": {
+    "source": "D:\\Преводи\\EU_Acquis_Corpus",
+    "selection": "Sure_Set=true and finalized dry-run status DRY_RUN with accepted_clean_tus > 0",
+    "documents_processed": 102,
+    "documents_skipped": 28,
+    "physical_source_document_count": 102,
+    "total_extracted_mk2_characters": 4959130,
+    "total_revision_affected_paragraphs": 14273,
+    "total_chunks": 17544,
+    "duplicate_chunks_removed": 1980,
+    "chunk_size_distribution": {
+      "1000+": 220,
+      "200-499": 5767,
+      "500-999": 1351,
+      "<200": 10206
+    },
+    "chunks_by_celex": {
+      "02002F0465": 42,
+      "02003R1560": 562,
+      "02005F0214": 225,
+      "02008D0381": 74,
+      "02018R1860": 122,
+      "32001F0500": 29,
+      "32008D0206": 17,
+      "32009D0796": 11,
+      "32010D0453": 47,
+      "32011L0076": 251,
+      "32012L0039": 27,
+      "32013L0064": 72,
+      "32013R0557": 75,
+      "32013R1291": 770,
+      "32013R1299": 285,
+      "32013R1318": 100,
+      "32013R1379": 309,
+      "32014L0086": 21,
+      "32014L0110": 16,
+      "32014R0447": 288,
+      "32014R0717": 92,
+      "32014R0788": 139,
+      "32015D1873": 37,
+      "32015D1874": 29,
+      "32015D1875": 54,
+      "32015D1876": 24,
+      "32015L0565": 135,
+      "32015L2302": 299,
+      "32016L1214": 17,
+      "32016R0403": 130,
+      "32016R0792": 158,
+      "32016R1013": 83,
+      "32016R1036": 341,
+      "32016R1150": 365,
+      "32016R1237": 168,
+      "32016R2031": 1292,
+      "32017D1774": 20,
+      "32017D2170": 24,
+      "32017R1758": 204,
+      "32017R2107": 520,
+      "32017R2226": 774,
+      "32018L0822": 165,
+      "32018L1713": 17,
+      "32018L1910": 54,
+      "32018L2057": 53,
+      "32018R0604": 122,
+      "32018R1091": 234,
+      "32018R1241": 22,
+      "32019D0909": 60,
+      "32019L0068": 29,
+      "32019L1153": 142,
+      "32019R0007": 48,
+      "32019R0532": 18,
+      "32019R1240": 144,
+      "32019R1242": 359,
+      "32019R1793": 264,
+      "32020D0569": 336,
+      "32020D1729": 124,
+      "32020L0262": 419,
+      "32020L0739": 27,
+      "32020L0876": 28,
+      "32020L2020": 30,
+      "32020R0772": 107,
+      "32020R0797": 48,
+      "32020R0990": 259,
+      "32020R0999": 72,
+      "32020R1201": 292,
+      "32020R1593": 36,
+      "32020R1640": 21,
+      "32020R1641": 42,
+      "32020R1642": 48,
+      "32021D0361": 116,
+      "32021D0613": 11,
+      "32021D0672": 12,
+      "32021D0908": 10,
+      "32021D0915": 114,
+      "32021D1001": 24,
+      "32021D1002": 205,
+      "32021D1014": 19,
+      "32021D1031": 63,
+      "32021D1251": 16,
+      "32021L0555": 285,
+      "32021R0235": 713,
+      "32021R0279": 219,
+      "32021R0520": 136,
+      "32021R0667": 9,
+      "32021R1005": 14,
+      "32021R1232": 108,
+      "32021R1248": 293,
+      "32022R1955": 75,
+      "32025D1397": 29,
+      "32025D2561": 22,
+      "32025D2580": 18,
+      "32025D2586": 13,
+      "32025D2594": 37,
+      "32025D2637": 15,
+      "32025L0290": 706,
+      "32025L2450": 143,
+      "32025R0392": 1448,
+      "52020DC0565": 154,
+      "52020DC0620": 512,
+      "52021DC0323": 137
+    },
+    "extraction_failures": [],
+    "skipped": [
+      {
+        "celex": "02018R1726",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "02018R1862",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32006L0112",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32017D0369",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32017L2455",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32017R0110",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32017R1182",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32018R1805",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32018R1912",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32019D0910",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32019H0605",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32019L1833",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32019R0758",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32019R0841",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32019R1009",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32019R1700",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32020D0701",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32020R0691",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32020R1148",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32020R2191",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32021R0405",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32021R0632",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32021R0821",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32021R0963",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32021R1133",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32022D1530",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32024L0927",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      },
+      {
+        "celex": "32024L2823",
+        "reason": "not in finalized trusted sure-set with accepted clean TUs"
+      }
+    ],
+    "context_corpus_only": true,
+    "tm_units_created": 0
+  },
+  "documents": [
+    {
+      "celex": "02002F0465",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02002F0465\\MK2\\02002F0465-20220310_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 11142,
+      "revision_affected_paragraphs": 28,
+      "chunks_before_deduplication": 47,
+      "chunks_after_deduplication": 42,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "02003R1560",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02003R1560\\MK2\\02003R1560-20140209_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 128042,
+      "revision_affected_paragraphs": 305,
+      "chunks_before_deduplication": 668,
+      "chunks_after_deduplication": 562,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "02005F0214",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02005F0214\\MK2\\02005F0214-20090328_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 41437,
+      "revision_affected_paragraphs": 217,
+      "chunks_before_deduplication": 235,
+      "chunks_after_deduplication": 225,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "02008D0381",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02008D0381\\MK2\\02008D0381-20140101_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 13838,
+      "revision_affected_paragraphs": 47,
+      "chunks_before_deduplication": 77,
+      "chunks_after_deduplication": 74,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "02018R1860",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02018R1860\\MK2\\02018R1860-20210803_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 28256,
+      "revision_affected_paragraphs": 86,
+      "chunks_before_deduplication": 129,
+      "chunks_after_deduplication": 122,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32001F0500",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32001F0500\\MK2\\32001F0500_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 8423,
+      "revision_affected_paragraphs": 29,
+      "chunks_before_deduplication": 37,
+      "chunks_after_deduplication": 29,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32008D0206",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32008D0206\\MK2\\32008D0206_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 6181,
+      "revision_affected_paragraphs": 20,
+      "chunks_before_deduplication": 23,
+      "chunks_after_deduplication": 17,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32009D0796",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32009D0796\\MK2\\32009D0796_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 4177,
+      "revision_affected_paragraphs": 22,
+      "chunks_before_deduplication": 18,
+      "chunks_after_deduplication": 11,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32010D0453",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32010D0453\\MK2\\32010D0453_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 11932,
+      "revision_affected_paragraphs": 27,
+      "chunks_before_deduplication": 54,
+      "chunks_after_deduplication": 47,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32011L0076",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32011L0076\\MK2\\32011L0076_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 70945,
+      "revision_affected_paragraphs": 179,
+      "chunks_before_deduplication": 256,
+      "chunks_after_deduplication": 251,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32012L0039",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32012L0039\\MK2\\32012L0039_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 8376,
+      "revision_affected_paragraphs": 22,
+      "chunks_before_deduplication": 33,
+      "chunks_after_deduplication": 27,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32013L0064",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32013L0064\\MK2\\32013L0064_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 17631,
+      "revision_affected_paragraphs": 46,
+      "chunks_before_deduplication": 83,
+      "chunks_after_deduplication": 72,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32013R0557",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32013R0557\\MK2\\32013R0557_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 18991,
+      "revision_affected_paragraphs": 59,
+      "chunks_before_deduplication": 85,
+      "chunks_after_deduplication": 75,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32013R1291",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32013R1291\\MK2\\32013R1291_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 324041,
+      "revision_affected_paragraphs": 515,
+      "chunks_before_deduplication": 788,
+      "chunks_after_deduplication": 770,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32013R1299",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32013R1299\\MK2\\32013R1299_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 98247,
+      "revision_affected_paragraphs": 301,
+      "chunks_before_deduplication": 301,
+      "chunks_after_deduplication": 285,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32013R1318",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32013R1318\\MK2\\32013R1318_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 26978,
+      "revision_affected_paragraphs": 99,
+      "chunks_before_deduplication": 111,
+      "chunks_after_deduplication": 100,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32013R1379",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32013R1379\\MK2\\32013R1379_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 68003,
+      "revision_affected_paragraphs": 220,
+      "chunks_before_deduplication": 321,
+      "chunks_after_deduplication": 309,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32014L0086",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32014L0086\\MK2\\32014L0086_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 6019,
+      "revision_affected_paragraphs": 15,
+      "chunks_before_deduplication": 28,
+      "chunks_after_deduplication": 21,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32014L0110",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32014L0110\\MK2\\32014L0110_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 5620,
+      "revision_affected_paragraphs": 19,
+      "chunks_before_deduplication": 24,
+      "chunks_after_deduplication": 16,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32014R0447",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32014R0447\\MK2\\32014R0447_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 69772,
+      "revision_affected_paragraphs": 174,
+      "chunks_before_deduplication": 298,
+      "chunks_after_deduplication": 288,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32014R0717",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32014R0717\\MK2\\32014R0717_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 38362,
+      "revision_affected_paragraphs": 114,
+      "chunks_before_deduplication": 97,
+      "chunks_after_deduplication": 92,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32014R0788",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32014R0788\\MK2\\32014R0788_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 40285,
+      "revision_affected_paragraphs": 76,
+      "chunks_before_deduplication": 146,
+      "chunks_after_deduplication": 139,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32015D1873",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32015D1873\\MK2\\32015D1873_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 14279,
+      "revision_affected_paragraphs": 34,
+      "chunks_before_deduplication": 45,
+      "chunks_after_deduplication": 37,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32015D1874",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32015D1874\\MK2\\32015D1874_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 10789,
+      "revision_affected_paragraphs": 10,
+      "chunks_before_deduplication": 34,
+      "chunks_after_deduplication": 29,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32015D1875",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32015D1875\\MK2\\32015D1875_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 24629,
+      "revision_affected_paragraphs": 49,
+      "chunks_before_deduplication": 65,
+      "chunks_after_deduplication": 54,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32015D1876",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32015D1876\\MK2\\32015D1876_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 11303,
+      "revision_affected_paragraphs": 19,
+      "chunks_before_deduplication": 31,
+      "chunks_after_deduplication": 24,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32015L0565",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32015L0565\\MK2\\32015L0565_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 30178,
+      "revision_affected_paragraphs": 69,
+      "chunks_before_deduplication": 145,
+      "chunks_after_deduplication": 135,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32015L2302",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32015L2302\\MK2\\32015L2302_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 112751,
+      "revision_affected_paragraphs": 249,
+      "chunks_before_deduplication": 365,
+      "chunks_after_deduplication": 299,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32016L1214",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32016L1214\\MK2\\32016L1214_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 8065,
+      "revision_affected_paragraphs": 19,
+      "chunks_before_deduplication": 28,
+      "chunks_after_deduplication": 17,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32016R0403",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32016R0403\\MK2\\32016R0403_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 39941,
+      "revision_affected_paragraphs": 112,
+      "chunks_before_deduplication": 171,
+      "chunks_after_deduplication": 130,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32016R0792",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32016R0792\\MK2\\32016R0792_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 56496,
+      "revision_affected_paragraphs": 102,
+      "chunks_before_deduplication": 170,
+      "chunks_after_deduplication": 158,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32016R1013",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32016R1013\\MK2\\32016R1013_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 26388,
+      "revision_affected_paragraphs": 71,
+      "chunks_before_deduplication": 95,
+      "chunks_after_deduplication": 83,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32016R1036",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32016R1036\\MK2\\32016R1036_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 114413,
+      "revision_affected_paragraphs": 258,
+      "chunks_before_deduplication": 350,
+      "chunks_after_deduplication": 341,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32016R1150",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32016R1150\\MK2\\32016R1150_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 92223,
+      "revision_affected_paragraphs": 443,
+      "chunks_before_deduplication": 434,
+      "chunks_after_deduplication": 365,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32016R1237",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32016R1237\\MK2\\32016R1237_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 40788,
+      "revision_affected_paragraphs": 156,
+      "chunks_before_deduplication": 198,
+      "chunks_after_deduplication": 168,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32016R2031",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32016R2031\\MK2\\32016R2031_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 312919,
+      "revision_affected_paragraphs": 807,
+      "chunks_before_deduplication": 1347,
+      "chunks_after_deduplication": 1292,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32017D1774",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32017D1774\\MK2\\32017D1774_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 8847,
+      "revision_affected_paragraphs": 22,
+      "chunks_before_deduplication": 31,
+      "chunks_after_deduplication": 20,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32017D2170",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32017D2170\\MK2\\32017D2170_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 8846,
+      "revision_affected_paragraphs": 11,
+      "chunks_before_deduplication": 34,
+      "chunks_after_deduplication": 24,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32017R1758",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32017R1758\\MK2\\32017R1758_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 50753,
+      "revision_affected_paragraphs": 176,
+      "chunks_before_deduplication": 226,
+      "chunks_after_deduplication": 204,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32017R2107",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32017R2107\\MK2\\32017R2107_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 115672,
+      "revision_affected_paragraphs": 459,
+      "chunks_before_deduplication": 536,
+      "chunks_after_deduplication": 520,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32017R2226",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32017R2226\\MK2\\32017R2226_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 225502,
+      "revision_affected_paragraphs": 608,
+      "chunks_before_deduplication": 788,
+      "chunks_after_deduplication": 774,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32018L0822",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32018L0822\\MK2\\32018L0822_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 46000,
+      "revision_affected_paragraphs": 104,
+      "chunks_before_deduplication": 174,
+      "chunks_after_deduplication": 165,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32018L1713",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32018L1713\\MK2\\32018L1713_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 8213,
+      "revision_affected_paragraphs": 16,
+      "chunks_before_deduplication": 26,
+      "chunks_after_deduplication": 17,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32018L1910",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32018L1910\\MK2\\32018L1910_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 19063,
+      "revision_affected_paragraphs": 75,
+      "chunks_before_deduplication": 66,
+      "chunks_after_deduplication": 54,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32018L2057",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32018L2057\\MK2\\32018L2057_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 16829,
+      "revision_affected_paragraphs": 27,
+      "chunks_before_deduplication": 62,
+      "chunks_after_deduplication": 53,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32018R0604",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32018R0604\\MK2\\32018R0604_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 33063,
+      "revision_affected_paragraphs": 111,
+      "chunks_before_deduplication": 136,
+      "chunks_after_deduplication": 122,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32018R1091",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32018R1091\\MK2\\32018R1091_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 69538,
+      "revision_affected_paragraphs": 248,
+      "chunks_before_deduplication": 247,
+      "chunks_after_deduplication": 234,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32018R1241",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32018R1241\\MK2\\32018R1241_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 7013,
+      "revision_affected_paragraphs": 13,
+      "chunks_before_deduplication": 27,
+      "chunks_after_deduplication": 22,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32019D0909",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019D0909\\MK2\\32019D0909_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 19890,
+      "revision_affected_paragraphs": 144,
+      "chunks_before_deduplication": 77,
+      "chunks_after_deduplication": 60,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32019L0068",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019L0068\\MK2\\32019L0068_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 10541,
+      "revision_affected_paragraphs": 28,
+      "chunks_before_deduplication": 39,
+      "chunks_after_deduplication": 29,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32019L1153",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019L1153\\MK2\\32019L1153_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 50671,
+      "revision_affected_paragraphs": 208,
+      "chunks_before_deduplication": 150,
+      "chunks_after_deduplication": 142,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32019R0007",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019R0007\\MK2\\32019R0007_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 14080,
+      "revision_affected_paragraphs": 29,
+      "chunks_before_deduplication": 55,
+      "chunks_after_deduplication": 48,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32019R0532",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019R0532\\MK2\\32019R0532_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 6679,
+      "revision_affected_paragraphs": 13,
+      "chunks_before_deduplication": 26,
+      "chunks_after_deduplication": 18,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32019R1240",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019R1240\\MK2\\32019R1240_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 47074,
+      "revision_affected_paragraphs": 118,
+      "chunks_before_deduplication": 153,
+      "chunks_after_deduplication": 144,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32019R1242",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019R1242\\MK2\\32019R1242_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 99598,
+      "revision_affected_paragraphs": 339,
+      "chunks_before_deduplication": 386,
+      "chunks_after_deduplication": 359,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32019R1793",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019R1793\\MK2\\32019R1793_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 87413,
+      "revision_affected_paragraphs": 263,
+      "chunks_before_deduplication": 352,
+      "chunks_after_deduplication": 264,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32020D0569",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020D0569\\MK2\\32020D0569_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 75411,
+      "revision_affected_paragraphs": 201,
+      "chunks_before_deduplication": 345,
+      "chunks_after_deduplication": 336,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32020D1729",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020D1729\\MK2\\32020D1729_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 38491,
+      "revision_affected_paragraphs": 234,
+      "chunks_before_deduplication": 146,
+      "chunks_after_deduplication": 124,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020L0262",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020L0262\\MK2\\32020L0262_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 116837,
+      "revision_affected_paragraphs": 349,
+      "chunks_before_deduplication": 430,
+      "chunks_after_deduplication": 419,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020L0739",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020L0739\\MK2\\32020L0739_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 12616,
+      "revision_affected_paragraphs": 21,
+      "chunks_before_deduplication": 37,
+      "chunks_after_deduplication": 27,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020L0876",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020L0876\\MK2\\32020L0876_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 10554,
+      "revision_affected_paragraphs": 24,
+      "chunks_before_deduplication": 37,
+      "chunks_after_deduplication": 28,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020L2020",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020L2020\\MK2\\32020L2020_МК2.doc",
+      "source_format": "doc",
+      "extracted_characters": 12953,
+      "revision_affected_paragraphs": 20,
+      "chunks_before_deduplication": 38,
+      "chunks_after_deduplication": 30,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020R0772",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020R0772\\MK2\\32020R0772_МК2.docx",
+      "source_format": "docx",
+      "extracted_characters": 28111,
+      "revision_affected_paragraphs": 108,
+      "chunks_before_deduplication": 117,
+      "chunks_after_deduplication": 107,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32020R0797",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020R0797\\MK2\\32020R0797_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 13910,
+      "revision_affected_paragraphs": 42,
+      "chunks_before_deduplication": 58,
+      "chunks_after_deduplication": 48,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020R0990",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020R0990\\MK2\\32020R0990_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 78775,
+      "revision_affected_paragraphs": 295,
+      "chunks_before_deduplication": 307,
+      "chunks_after_deduplication": 259,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020R0999",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020R0999\\MK2\\32020R0999_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 19192,
+      "revision_affected_paragraphs": 74,
+      "chunks_before_deduplication": 82,
+      "chunks_after_deduplication": 72,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020R1201",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020R1201\\MK2\\32020R1201_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 84957,
+      "revision_affected_paragraphs": 163,
+      "chunks_before_deduplication": 307,
+      "chunks_after_deduplication": 292,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020R1593",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020R1593\\MK2\\32020R1593_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 10316,
+      "revision_affected_paragraphs": 30,
+      "chunks_before_deduplication": 42,
+      "chunks_after_deduplication": 36,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020R1640",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020R1640\\MK2\\32020R1640_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 7222,
+      "revision_affected_paragraphs": 7,
+      "chunks_before_deduplication": 28,
+      "chunks_after_deduplication": 21,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020R1641",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020R1641\\MK2\\32020R1641_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 15288,
+      "revision_affected_paragraphs": 37,
+      "chunks_before_deduplication": 52,
+      "chunks_after_deduplication": 42,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32020R1642",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020R1642\\MK2\\32020R1642_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 19620,
+      "revision_affected_paragraphs": 45,
+      "chunks_before_deduplication": 69,
+      "chunks_after_deduplication": 48,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32021D0361",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0361\\MK2\\32021D0361_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 33987,
+      "revision_affected_paragraphs": 295,
+      "chunks_before_deduplication": 125,
+      "chunks_after_deduplication": 116,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32021D0613",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0613\\MK2\\32021D0613_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 3379,
+      "revision_affected_paragraphs": 7,
+      "chunks_before_deduplication": 17,
+      "chunks_after_deduplication": 11,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021D0672",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0672\\MK2\\32021D0672_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 3108,
+      "revision_affected_paragraphs": 3,
+      "chunks_before_deduplication": 20,
+      "chunks_after_deduplication": 12,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021D0908",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0908\\MK2\\32021D0908_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 4229,
+      "revision_affected_paragraphs": 7,
+      "chunks_before_deduplication": 17,
+      "chunks_after_deduplication": 10,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021D0915",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0915\\MK2\\32021D0915_МК2.docx",
+      "source_format": "docx",
+      "extracted_characters": 36031,
+      "revision_affected_paragraphs": 182,
+      "chunks_before_deduplication": 123,
+      "chunks_after_deduplication": 114,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021D1001",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D1001\\MK2\\32021D1001_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 7730,
+      "revision_affected_paragraphs": 16,
+      "chunks_before_deduplication": 32,
+      "chunks_after_deduplication": 24,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021D1002",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D1002\\MK2\\32021D1002_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 93949,
+      "revision_affected_paragraphs": 365,
+      "chunks_before_deduplication": 291,
+      "chunks_after_deduplication": 205,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021D1014",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D1014\\MK2\\32021D1014_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 6536,
+      "revision_affected_paragraphs": 12,
+      "chunks_before_deduplication": 32,
+      "chunks_after_deduplication": 19,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021D1031",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D1031\\MK2\\32021D1031_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 18523,
+      "revision_affected_paragraphs": 38,
+      "chunks_before_deduplication": 77,
+      "chunks_after_deduplication": 63,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021D1251",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D1251\\MK2\\32021D1251_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 4451,
+      "revision_affected_paragraphs": 4,
+      "chunks_before_deduplication": 32,
+      "chunks_after_deduplication": 16,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32021L0555",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021L0555\\MK2\\32021L0555_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 84262,
+      "revision_affected_paragraphs": 149,
+      "chunks_before_deduplication": 297,
+      "chunks_after_deduplication": 285,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "32021R0235",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R0235\\MK2\\32021R0235_МК21.docx",
+      "source_format": "docx",
+      "extracted_characters": 237912,
+      "revision_affected_paragraphs": 505,
+      "chunks_before_deduplication": 1101,
+      "chunks_after_deduplication": 713,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021R0279",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R0279\\MK2\\32021R0279_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 42257,
+      "revision_affected_paragraphs": 163,
+      "chunks_before_deduplication": 247,
+      "chunks_after_deduplication": 219,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021R0520",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R0520\\MK2\\32021R0520_МК2.docx",
+      "source_format": "docx",
+      "extracted_characters": 34962,
+      "revision_affected_paragraphs": 141,
+      "chunks_before_deduplication": 145,
+      "chunks_after_deduplication": 136,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021R0667",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R0667\\MK2\\32021R0667_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 3074,
+      "revision_affected_paragraphs": 5,
+      "chunks_before_deduplication": 18,
+      "chunks_after_deduplication": 9,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021R1005",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R1005\\MK2\\32021R1005_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 5668,
+      "revision_affected_paragraphs": 11,
+      "chunks_before_deduplication": 26,
+      "chunks_after_deduplication": 14,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021R1232",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R1232\\MK2\\32021R1232_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 46032,
+      "revision_affected_paragraphs": 97,
+      "chunks_before_deduplication": 116,
+      "chunks_after_deduplication": 108,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32021R1248",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R1248\\MK2\\32021R1248_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 67378,
+      "revision_affected_paragraphs": 227,
+      "chunks_before_deduplication": 300,
+      "chunks_after_deduplication": 293,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32022R1955",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32022R1955\\MK2\\32022R1955_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 18560,
+      "revision_affected_paragraphs": 28,
+      "chunks_before_deduplication": 90,
+      "chunks_after_deduplication": 75,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32025D1397",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D1397\\MK2\\32025D1397_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 12613,
+      "revision_affected_paragraphs": 96,
+      "chunks_before_deduplication": 37,
+      "chunks_after_deduplication": 29,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32025D2561",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D2561\\MK2\\32025D2561_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 7701,
+      "revision_affected_paragraphs": 74,
+      "chunks_before_deduplication": 30,
+      "chunks_after_deduplication": 22,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32025D2580",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D2580\\MK2\\32025D2580_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 8306,
+      "revision_affected_paragraphs": 15,
+      "chunks_before_deduplication": 26,
+      "chunks_after_deduplication": 18,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32025D2586",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D2586\\MK2\\32025D2586_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 7505,
+      "revision_affected_paragraphs": 11,
+      "chunks_before_deduplication": 22,
+      "chunks_after_deduplication": 13,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32025D2594",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D2594\\MK2\\32025D2594_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 15403,
+      "revision_affected_paragraphs": 39,
+      "chunks_before_deduplication": 46,
+      "chunks_after_deduplication": 37,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32025D2637",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D2637\\MK2\\32025D2637_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 6671,
+      "revision_affected_paragraphs": 74,
+      "chunks_before_deduplication": 23,
+      "chunks_after_deduplication": 15,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32025L0290",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025L0290\\MK2\\32025L0290_МК2.docx",
+      "source_format": "docx",
+      "extracted_characters": 97609,
+      "revision_affected_paragraphs": 329,
+      "chunks_before_deduplication": 722,
+      "chunks_after_deduplication": 706,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32025L2450",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025L2450\\MK2\\32025L2450_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 60379,
+      "revision_affected_paragraphs": 205,
+      "chunks_before_deduplication": 157,
+      "chunks_after_deduplication": 143,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "32025R0392",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025R0392\\MK2\\32025R0392_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 281053,
+      "revision_affected_paragraphs": 983,
+      "chunks_before_deduplication": 1489,
+      "chunks_after_deduplication": 1448,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "52020DC0565",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\52020DC0565\\MK2\\52020DC0565_MK2.doc",
+      "source_format": "doc",
+      "extracted_characters": 78703,
+      "revision_affected_paragraphs": 135,
+      "chunks_before_deduplication": 164,
+      "chunks_after_deduplication": 154,
+      "extraction_method": "Word read-only conversion to temporary DOCX + OOXML body traversal"
+    },
+    {
+      "celex": "52020DC0620",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\52020DC0620\\MK2\\52020DC0620_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 140319,
+      "revision_affected_paragraphs": 272,
+      "chunks_before_deduplication": 532,
+      "chunks_after_deduplication": 512,
+      "extraction_method": "OOXML body traversal"
+    },
+    {
+      "celex": "52021DC0323",
+      "source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\52021DC0323\\MK2\\52021DC0323_MK2.docx",
+      "source_format": "docx",
+      "extracted_characters": 59442,
+      "revision_affected_paragraphs": 105,
+      "chunks_before_deduplication": 147,
+      "chunks_after_deduplication": 137,
+      "extraction_method": "OOXML body traversal"
+    }
+  ],
+  "skipped": [
+    {
+      "celex": "02018R1726",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "02018R1862",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32006L0112",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32017D0369",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32017L2455",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32017R0110",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32017R1182",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32018R1805",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32018R1912",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32019D0910",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32019H0605",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32019L1833",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32019R0758",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32019R0841",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32019R1009",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32019R1700",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32020D0701",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32020R0691",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32020R1148",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32020R2191",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32021R0405",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32021R0632",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32021R0821",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32021R0963",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32021R1133",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32022D1530",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32024L0927",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    },
+    {
+      "celex": "32024L2823",
+      "reason": "not in finalized trusted sure-set with accepted clean TUs"
+    }
+  ],
+  "failures": []
+}

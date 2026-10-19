@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "worker": {"passed": 45, "failed": 0},
+  "new_worker_endpoint": {"passed": 4, "failed": 0},
+  "new_typescript": {"passed": 4, "failed": 0},
+  "phase6c3_reconstruction": {"passed": 5, "failed": 0},
+  "exact_artifact_readback": {"passed": 15, "failed": 0},
+  "immutable_artifacts": {"passed": 16, "failed": 0},
+  "source_pdf_registration": {"passed": 16, "failed": 0},
+  "celex_shadow_orchestration": {"passed": 5, "failed": 0},
+  "typescript": "PASS",
+  "frozen_fixtures": {
+    "32006L0114": {"status": "PASS", "tokens": 3389, "tables": 3, "rows": 48, "cells": 100},
+    "32006L0126": {"status": "PASS", "tokens": 18825, "logical_tables": 3, "rows": 128, "cells": 264},
+    "32006L0042": {"status": "PASS", "tokens": 30922, "logical_tables": 1, "rows": 278, "cells": 556}
+  }
+}

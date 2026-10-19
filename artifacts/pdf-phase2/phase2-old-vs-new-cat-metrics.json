@@ -1,0 +1,98 @@
+{
+  "inputsVerified": {
+    "oldSdlxliffFilename": "32006L0114-old-raw.docx.sdlxliff",
+    "newSdlxliffFilename": "32006L0114-experimental.docx.sdlxliff",
+    "createdInSameSourceLanguage": "en-GB",
+    "hashes": {
+      "sourcePdf": "1B0FB08EC46C93B9DF62675F2B898030511DFCF5DF4832B15CDE56681932008B",
+      "oldDocx": "79C255B2AC45DAED7D4725D1E8E803179CCE6F743F225D5A48E56B723E8A9F45",
+      "newDocx": "90BDF31CEEB6A0C85B7C7432C2A3A7B89213FFA0A0909EBCD083FCF9F177F0C5",
+      "oldSdlxliff": "7905821B5D31EC0E0D066B9A3C72084E8AE92878CB820881CD5BDEC3BA07B33D",
+      "newSdlxliff": "7DDAD148910BE6C1AC0EB7F9B0AAA0A188320BF27BD8D3E0B85D81514B58FA9D"
+    }
+  },
+  "old": {
+    "docxParagraphsTotal": 265,
+    "docxParagraphsNonEmpty": 259,
+    "docxBodyParagraphs": 265,
+    "docxTableParagraphs": 0,
+    "docxTables": 0,
+    "docxRows": 0,
+    "docxCells": 0,
+    "studioTransUnits": 265,
+    "studioVisibleTransUnits": 259,
+    "studioCatSegments": 259,
+    "emptyStructuralUnits": 6,
+    "tableContextTransUnits": 0,
+    "headingContextTransUnits": 33,
+    "paragraphToTransUnit": {
+      "mapped": 265,
+      "unmappedEmptyTableParagraphs": 0
+    },
+    "paragraphToCatSegments": {
+      "1": 259,
+      "0": 6
+    }
+  },
+  "new": {
+    "docxParagraphsTotal": 278,
+    "docxParagraphsNonEmpty": 270,
+    "docxBodyParagraphs": 175,
+    "docxTableParagraphs": 103,
+    "docxTables": 3,
+    "docxRows": 48,
+    "docxCells": 100,
+    "studioTransUnits": 276,
+    "studioVisibleTransUnits": 270,
+    "studioCatSegments": 270,
+    "emptyStructuralUnits": 6,
+    "tableContextTransUnits": 101,
+    "headingContextTransUnits": 26,
+    "paragraphToTransUnit": {
+      "mapped": 276,
+      "unmappedEmptyTableParagraphs": 2
+    },
+    "paragraphToCatSegments": {
+      "1": 270,
+      "0": 8
+    }
+  },
+  "quality": {
+    "artificialParagraphBoundaries": {
+      "old": 4,
+      "new": 3,
+      "classification": "IMPROVED"
+    },
+    "artificialTransUnitBoundaries": {
+      "old": 4,
+      "new": 3,
+      "classification": "IMPROVED"
+    },
+    "artificialCatSegmentBoundaries": {
+      "old": 4,
+      "new": 3,
+      "classification": "IMPROVED"
+    },
+    "tableStructurePreservation": {
+      "old": "none",
+      "new": "3 tables / 48 rows / 100 cells with Studio table contexts",
+      "classification": "IMPROVED"
+    },
+    "sourceOrderDefects": {
+      "old": "table row/cell identity lost",
+      "new": 0,
+      "classification": "IMPROVED"
+    },
+    "textIntegrityDefects": {
+      "old": "not assessed against typed row-major model",
+      "new": 0,
+      "classification": "UNCHANGED"
+    },
+    "unresolvedStructuralAmbiguities": {
+      "old": "not explicit",
+      "new": 7,
+      "classification": "IMPROVED"
+    },
+    "overall": "PARTIAL"
+  }
+}

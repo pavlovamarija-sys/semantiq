@@ -1,0 +1,278 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210625T003416Z" creationid="DESKTOP-0PMQ78B\Dane">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32014R0717_MK1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32014R0717</prop>
+    <prop type="x-SourceTMX">32014R0717_MK1.tmx</prop>
+    <prop type="x-SourceTMXSHA256">5388bdb7f641c65ec93cae856613734485bc0b3ad380e44d721db3e6f7d9219e</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">13</prop>
+  </header>
+  <body>
+    <tu creationdate="20210615T104211Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210624T231223Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210624T231223Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION REGULATION (EU) No 717/2014</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕЗ) бБр. 717/2014 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T104342Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210615T104342Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210615T104342Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-6352344801704798544, 7128097447027493401</prop>
+      <prop type="x-ContextContent">COMMISSION REGULATION (EU) No 717/2014 |  | РЕГУЛАТИВА (ЕЗ) Бр. 717/2014 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 27 June 2014</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 27 јуни 2014 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T220346Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210624T101154Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210624T101154Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3657596318, -790154011644746187</prop>
+      <prop type="x-ContextContent">of 27 June 2014 |  | од 27 јуни 2014 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to <bpt i="1" type="14" x="1" />de minimis<ept i="1" /> aid in the fishery and aquaculture sector</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за примена на членовите 107 и 108 од Договорот за функционирање на Европската Унија за de де минимисminimis помош во секторот за рибарство и акваку</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T104540Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210615T104540Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210615T104540Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-ContextContent">THE EUROPEAN COMMISSION, |  | ЕВРОПСКАТА КОМИСИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Article 108(4) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>СИЈА, имајќи го предвид Договорот за функционирање на Европската Унија, а особено член 108(4) од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T104817Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210615T104817Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210615T104817Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-8229639682514783868, -5777382943661448700</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 108(4) thereof, |  | имајќи го предвид Договорот за функционирање на Европската Унија, а особено член 108(4) од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Council Regulation (EC) No 994/98 of 7 May 1998 on the application of Articles 107 and 108 of the Treaty on the Functioning of the European Union to certain categories of horizontal State aid (<ph x="1" type="330" />),</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>иИмајќи ја предвид Ррегулативата (ЕЗ) бр. 994/98 на Советот од 7 мај 1998 година за примена на членовите 107 и 108 од Договорот за функционирање на Европската Унија за одредени категории на хоризонтална државна помош(),</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T215149Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210623T215149Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210623T215149Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">6655461359476102752, 130289615524948102</prop>
+      <prop type="x-ContextContent">José Manuel BARROSO |  | Жозе Мануел Барозо | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">192</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T215236Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210623T215236Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210623T215236Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">112932449316, 4573421134</prop>
+      <prop type="x-ContextContent">ANNEX |  | АНЕКС | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>National cap as referred to in Article 3(3)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Национално ограничување како што е наведено во член 3(3)</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">193</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T215315Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210623T215315Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210623T215315Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-8034215603905475901, 295018636374786853</prop>
+      <prop type="x-ContextContent">National cap as referred to in Article 3(3) |  | Национално ограничување како што е наведено во член 3(3) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(EUR)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ЕУР)</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">194</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201106T230050Z" creationid="Dane" changedate="20210623T215316Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210623T215316Z">
+      <prop type="x-LastUsedBy">Dane</prop>
+      <prop type="x-Context">117641590, 147683814</prop>
+      <prop type="x-ContextContent">(EUR) |  | (ЕУР) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member State</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Земја членка</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">195</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T215432Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210623T215432Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210623T215432Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">104605057905985173, 131111638716699514</prop>
+      <prop type="x-ContextContent">Member State |  | Земја членка | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Maximum cumulative amount of <bpt i="1" type="1948" x="1" />de minimis<ept i="1" /> aid granted per Member State in the fishery and aquaculture sector</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Максимален кумулативен износ на de minimis пде минимис помош доделена впо земја членка во секторот за рибарство и аквакултура</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">196</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T215516Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210623T215516Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210623T215516Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">6135918064753318003, -5535196023061958894</prop>
+      <prop type="x-ContextContent">Maximum cumulative amount of de minimis aid granted per Member State in the fishery and aquaculture sector | AgIdAQEBAQQxOTQ4AQoCAQEEMTk0OAE= | Максимален кумулативен износ на de minimis помош доделена по земја членка во секторот рибарство и аквакултура | AgIgAQEBAQQxOTQ4AQoCAQEEMTk0OAE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Belgium</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Белгија</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">197</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T215519Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210623T215519Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210623T215519Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3504604918236, 4399622826845</prop>
+      <prop type="x-ContextContent">Estonia |  | Естонија | </prop>
+      <prop type="x-Context">108751482827153, 4580910207</prop>
+      <prop type="x-ContextContent">Ireland |  | Ирска | </prop>
+      <prop type="x-Context">3501111391092, 4394755069701</prop>
+      <prop type="x-ContextContent">Austria |  | Австрија | </prop>
+      <prop type="x-Context">3514245136726, 4587309723</prop>
+      <prop type="x-ContextContent">Poland |  | Полска | </prop>
+      <prop type="x-Context">3373620243357960, 4404689816742</prop>
+      <prop type="x-ContextContent">Lithuania |  | Литванија | </prop>
+      <prop type="x-Context">3653675748, 4584122117</prop>
+      <prop type="x-ContextContent">Malta |  | Малта | </prop>
+      <prop type="x-Context">3502796252810, 4413779068264</prop>
+      <prop type="x-ContextContent">Croatia |  | Хрватска | </prop>
+      <prop type="x-Context">3377195451901186, 4408410253935</prop>
+      <prop type="x-ContextContent">Portugal |  | Португал | </prop>
+      <prop type="x-Context">3516021067764, 4409293521683</prop>
+      <prop type="x-ContextContent">Romania |  | Романија | </prop>
+      <prop type="x-Context">108661215114050, 4591750504</prop>
+      <prop type="x-ContextContent">Finland |  | Финска | </prop>
+      <prop type="x-Context">113078909870, 4412890108389</prop>
+      <prop type="x-ContextContent">France |  | Франција | </prop>
+      <prop type="x-Context">113166643125, 4580953483</prop>
+      <prop type="x-ContextContent">Italy |  | Италија | </prop>
+      <prop type="x-Context">108547553012309, 4574111876</prop>
+      <prop type="x-ContextContent">Belgium |  | Белгија | </prop>
+      <prop type="x-Context">113449237327, 4595640508</prop>
+      <prop type="x-ContextContent">Spain |  | Шпанија | </prop>
+      <prop type="x-Context">108561752829870, 4396115803417</prop>
+      <prop type="x-ContextContent">Bulgaria |  | Бугарија | </prop>
+      <prop type="x-Context">1024814009655513243, -2722096396515287271</prop>
+      <prop type="x-ContextContent">Czech Republic |  | Чешка република | </prop>
+      <prop type="x-Context">113107649536, 4576297345</prop>
+      <prop type="x-ContextContent">Greece |  | Грција | </prop>
+      <prop type="x-Context">3659865053, 4595257751</prop>
+      <prop type="x-ContextContent">Sweden |  | Шведска | </prop>
+      <prop type="x-Context">113235558822, 4404604299119</prop>
+      <prop type="x-ContextContent">Latvia |  | Летонија | </prop>
+      <prop type="x-Context">108685293154213, 4397502350709</prop>
+      <prop type="x-ContextContent">Germany |  | Германија | </prop>
+      <prop type="x-Context">112999938331, 4582516689</prop>
+      <prop type="x-ContextContent">Cyprus |  | Кипар | </prop>
+      <prop type="x-Context">108602640798686, 4576735840</prop>
+      <prop type="x-ContextContent">Denmark |  | Данска | </prop>
+      <prop type="x-Context">3243582538236859549, 4413730116443</prop>
+      <prop type="x-ContextContent">Netherlands |  | Холандија | </prop>
+      <prop type="x-Context">5316707353213191181, 1492951153234595745</prop>
+      <prop type="x-ContextContent">United Kingdom |  | Обединето Кралство | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>11 240 000</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>11. 240. 000</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">198</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T215529Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210623T215529Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210623T215529Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">1878595680274, 1878595680274</prop>
+      <prop type="x-ContextContent">11 240 000 |  | 11 240 000 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Bulgaria</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Бугарија</seg>
+      </tuv>
+      <prop type="x-CELEX">32014R0717</prop>
+      <prop type="x-SourceTUIndex">199</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

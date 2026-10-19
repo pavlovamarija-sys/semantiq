@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210713T200237Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32020L0262_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32020L0262</prop>
+    <prop type="x-SourceTMX">32020L0262_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">c697f6a6050b4ad06f48bd0f287724dd703435c4331061ac4f35eb25bc58b70d</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">12</prop>
+  </header>
+  <body>
+    <tu creationdate="20210615T141920Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210615T143044Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210625T185535Z" usagecount="5">
+      <prop type="x-LastUsedBy">DESKTOP-T3LIEA4\user</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">729243354578948400, 3277396903445215544</prop>
+      <prop type="x-ContextContent">Со внесен коригендум 32020L0262R(02) | AgQAAQEBAQNwdDIAFQIBAAAAAQICAQNwdDMADwICAAA= | Со внесен коригендум 32020L0262R(02) | AgQAAQEBAQNwdDIAFQIBAAAAAQICAQNwdDMADwICAAA=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL DIRECTIVE (EU) 2020/262</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВА (ЕУ) 2020/262 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T144640Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210615T144652Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210625T185535Z" usagecount="4">
+      <prop type="x-LastUsedBy">DESKTOP-T3LIEA4\user</prop>
+      <prop type="x-Context">8321634276490452186, -2081369775288306907</prop>
+      <prop type="x-ContextContent">laying down the general arrangements for excise duty |  | за утврдување на општите аранжмани за акцизи | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(recast)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(преработена верзија)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210604T011103Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210615T144653Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210625T185535Z" usagecount="4">
+      <prop type="x-LastUsedBy">DESKTOP-T3LIEA4\user</prop>
+      <prop type="x-Context">3515725546190, 841591294500786131</prop>
+      <prop type="x-ContextContent">(recast) |  | (преработена верзија) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210604T011124Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210615T154936Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210625T185535Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-T3LIEA4\user</prop>
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-ContextContent">THE COUNCIL OF THE EUROPEAN UNION, |  | СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Article 113 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирањето на Европската Унија, а особено член 113 од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210604T011453Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210615T155015Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210625T185535Z" usagecount="4">
+      <prop type="x-LastUsedBy">DESKTOP-T3LIEA4\user</prop>
+      <prop type="x-Context">1333417285834173202, 3200252042665408808</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 113 thereof, |  | имајќи го предвид Договорот за функционирањето на Европската Унија, а особено член 113 од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210604T012035Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210615T155036Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210625T185535Z" usagecount="4">
+      <prop type="x-LastUsedBy">DESKTOP-T3LIEA4\user</prop>
+      <prop type="x-Context">-7799275716982960255, 363684144863454645</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the European Commission, |  | имајќи го предвид предлогот на Европската комисија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>After transmission of the draft legislative act to the national parliaments,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>по доставување на нацрт-законодавниот акт до националните парламенти,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">9</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210604T012127Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210615T155345Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210625T185535Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-T3LIEA4\user</prop>
+      <prop type="x-Context">-8428148328744422, -1269320548716298125</prop>
+      <prop type="x-ContextContent">After transmission of the draft legislative act to the national parliaments, |  | по доставување на нацрт-законодавниот акт до националните парламенти, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the opinion of the European Parliament (<ph x="1" type="ph26" />),</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид мислењето на Европскиот парламент (),</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">10</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T170941Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210621T170941Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210625T185548Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-T3LIEA4\user</prop>
+      <prop type="x-Context">8450973441424375275, 5874219899066230333</prop>
+      <prop type="x-ContextContent">Member States shall take the measures necessary to ensure that movements of excise goods originating in or intended for Jungholz and Mittelberg (Kleines Walsertal) are treated as movements originating in or intended for Germany. |  | Земјите членки преземаат потребни мерки за да се осигурат дека движењата на акцизните добра кои потекнуваат од Јунгхолц и Мителберг (Клаинес Валсертал) или се наменети за таму се третираат како движења кои потекнуваат од Германија или се наменети за таму. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>CHAPTER II</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ПОГЛАВЈЕ I</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">94</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T015409Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210625T153812Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210625T185548Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-T3LIEA4\user</prop>
+      <prop type="x-Context">104413135941087543, 4371101538485</prop>
+      <prop type="x-ContextContent">(e)	Livigno. |  | (д)	Ливињо. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Spain may give notice, by means of a declaration, that this Directive and Directives 92/83/EEC, 92/84/EEC, 2003/96/EC and 2011/64/EU shall apply to the Canary Islands — subject to measures to adapt to their extreme remoteness — in respect of all or some of the excise goods referred to in Article 1, from the first day of the second month following deposit of such declaration.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д)Ливињо. Шпанија, преку декларација, може да даде известување дека оваа директива и Директивите 92/83/ЕЕЗ, 92/84/ЕЕЗ, 2003/96/ЕЗ и 2011/64/ЕУ се применуваат на Канарските Острови –— подложно на мерките за приспособување на нивната премногу голема оддалеченост –— во однос на сите или на некои од акцизните добра наведени во член 1, од првиот ден на вториот месец по депонирањето на таквата декларација.</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">254</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T135412Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210625T153908Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210625T185548Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-T3LIEA4\user</prop>
+      <prop type="x-Context">-4921574814291605808, 2486163159071300407</prop>
+      <prop type="x-ContextContent">Spain may give notice, by means of a declaration, that this Directive and Directives 92/83/EEC, 92/84/EEC, 2003/96/EC and 2011/64/EU shall apply to the Canary Islands — subject to measures to adapt to their extreme remoteness — in respect of all or some of the excise goods referred to in Article 1, from the first day of the second month following deposit of such declaration. |  | Шпанија, преку декларација, може да даде извстување дека оваа директива и Директивите 92/83/ЕЕЗ, 92/84/ЕЕЗ, 2003/96/ЕЗ и 2011/64/ЕУ се применуваат на Канарските Острови — подложно на мерките за приспособување на нивната многу голема оддалеченост — во однос на сите или некои од акцизните добра наведени во член 1 од првиот ден на вториот месец по депонирањето на таквата декларација. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>France may give notice, by means of a declaration, that this Directive and Directives 92/83/EEC, 92/84/EEC, 2003/96/EC and 2011/64/EU apply to the territories referred to in point (b) of paragraph 2, subject to measures to adapt to their extreme remoteness, in respect of all or some of the excise goods referred to in Article 1, from the first day of the second month following the deposit of such declaration.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Франција, преку декларација, може да даде известување дека оваа директива и Директивите 92/83/ЕЕЗ, 92/84/ЕЕЗ, 2003/96/ЕЗ и 2011/64/ЕУ се применуваат на подрачјата наведени во точка (б) од став 2, подложно на мерките за приспособување на нивната премногу голема оддалеченост, во однос на сите или на некои од акцизните добра наведени во член 1, од првиот ден на вториот месец по депонирањето на таквата декларација.</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">255</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210613T165643Z" creationid="Petreski-PC\Petreski" changedate="20210613T190529Z" changeid="Petreski-PC\Petreski" lastusagedate="20210624T121650Z" usagecount="1">
+      <prop type="x-LastUsedBy">Petreski-PC\Petreski</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <tuv xml:lang="en-GB">
+        <seg>CHAPTER IV</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ПОГЛАВЈЕ II</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">282</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T121246Z" creationid="Petreski-PC\Petreski" changedate="20210620T142850Z" changeid="Petreski-PC\Petreski" lastusagedate="20210624T121651Z" usagecount="1">
+      <prop type="x-LastUsedBy">Petreski-PC\Petreski</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-OriginalFormat">TradosTranslatorsWorkbench</prop>
+      <prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In the case of movements of energy products under a duty suspension arrangement by sea or inland waterways to a consignee who is not definitely known at the time when the consignor submits the draft electronic administrative document referred to in Article 20(2), the competent authorities of the Member State of dispatch may authorise the consignor to omit the data concerning the consignee in that document.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 22 Посебни постапки за движење на енергенти Во случај на движење на енергенти во постапка на акцизно одложување по морски или по внатрешен воден пат до примач кој не е дефинитивно познат во моментот кога испраќачот го поднесува нацрт електронскиот административен документ за движење наведен во член 20(2), надлежните органи на земјата членка на поаѓање може да одобрат испраќачот да ги изостави податоците за примачот во тој документ.</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0262</prop>
+      <prop type="x-SourceTUIndex">570</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

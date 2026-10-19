@@ -1,0 +1,21 @@
+{
+  "dbTransaction": {
+    "insertionReadback": true,
+    "duplicateRejected": true,
+    "updateRejected": true,
+    "deleteRejected": true,
+    "lineage": true
+  },
+  "synthetic": {
+    "canonicalTus": 265,
+    "codes": 3,
+    "mappings": 265,
+    "docxMapped": 265,
+    "docxReadbackBytes": 850880,
+    "docxParagraphs": 273,
+    "sdlxliffTargets": 265,
+    "sdlxliffCodes": 6,
+    "ordered": true,
+    "expectedCostForSyntheticUsage": 0.0014
+  }
+}

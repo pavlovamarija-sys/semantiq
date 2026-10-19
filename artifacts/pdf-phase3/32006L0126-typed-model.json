@@ -1,0 +1,29 @@
+{
+  "status": "NOT_GENERATED",
+  "celex": "32006L0126",
+  "reason": "UNCHANGED_RECONSTRUCTION_ABORTED",
+  "failure": {
+    "exceptionType": "StopIteration",
+    "file": "workers/pdf-to-docx/spikes/typed_model_phase1.py",
+    "line": 322,
+    "operation": "next(item for item in fragments if _clean(item.text).upper() == \"PART A\")",
+    "page": 6,
+    "expectedAnchors": [
+      "PART A",
+      "PART B"
+    ],
+    "anchorsPresent": {
+      "PART A": false,
+      "PART B": false
+    }
+  },
+  "sourceExtraction": {
+    "pages": 43,
+    "blocks": 1200,
+    "lines": 2555,
+    "spans": 27433,
+    "nonEmptyFragments": 1651,
+    "orderedFragmentsUnique": true
+  },
+  "message": "No typed model exists. This envelope records the failed blind run and must not be treated as a model."
+}

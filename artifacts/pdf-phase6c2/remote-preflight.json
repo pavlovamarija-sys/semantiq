@@ -1,0 +1,14 @@
+{
+  "status": "SAFE",
+  "project_ref": "yswudlrbswpwifbgqldh",
+  "project_name": "EU Acquis AI App",
+  "latest_remote_before": "20261018000006",
+  "pending_before": ["20261019000000_immutable_document_artifacts.sql"],
+  "required_tables": ["projects", "documents", "document_versions"],
+  "required_columns_present": true,
+  "foundation_table_collisions": [],
+  "source_bucket": { "id": "source-documents", "public": false, "file_size_limit": 52428800 },
+  "source_pdf_versions": 10,
+  "ordering_valid": true,
+  "schema_drift_conflict": false
+}

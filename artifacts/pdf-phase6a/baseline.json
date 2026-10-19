@@ -1,0 +1,7 @@
+{
+  "repository": {"gitRepository": false, "commit": null, "status": "Git metadata unavailable in workspace"},
+  "workerTests": {"command": "python -m pytest workers/pdf-to-docx/tests -q", "status": "PASS", "passed": 31, "warnings": 1},
+  "typescript": {"command": "npm.cmd run typecheck", "status": "PASS"},
+  "activeFilesReferenced": ["workers/pdf-to-docx/app/main.py", "src/infrastructure/document-conversion/pdf-to-docx.ts", "src/app/app/projects/[projectId]/document-actions.ts", "src/app/app/projects/[projectId]/celex-actions.ts"],
+  "productionBehaviorChanged": false
+}

@@ -1,0 +1,27 @@
+# Phase 6C.5 report
+
+Classification: **PASS**.
+
+The inactive canonical-model implementation is complete and deployed additively. It consumes only the exact immutable `VALIDATED_DOCX`, verifies actual bytes before parsing and before finalization, preserves OOXML body order, tables/rows/cells, page breaks, headings, source text and protected line breaks, and rejects malformed/unsupported DOCX structures. It persists an immutable snapshot root and normalized nodes/TUs/inline codes through an atomic completion RPC with project RLS, idempotency, concurrency protection, stale-input checks and fail-closed errors.
+
+Ephemeral validation of the controlled 32006L0114 artifact passes: 422 nodes, 265 canonical translation units, 3 inline codes, 3,389 normalized tokens, 3 tables, 48 rows, 100 cells, zero multi-paragraph cells, and six page-break nodes. Empty table cells remain structural nodes without artificial TUs. No SDLXLIFF, MK1, translation, or CAT operation was performed.
+
+The authenticated controlled persistence invocation has now completed: the first request returned HTTP 201 and the identical retry returned HTTP 200. Snapshot `41c043ad-a210-4e17-b6f4-5cf98872a602` is available and is bound to generation `26276c49-8c0f-456e-8a3e-cce032f9b633`, the exact project/document/version, and the verified `VALIDATED_DOCX` artifact.
+
+Persisted verification confirms the DOCX SHA-256 and size (`2dc5da...a971`, 44,034 bytes), 422 nodes, 265 translation units, 3 inline codes, 3 tables, 48 rows, 100 cells, 26 headings, 239 paragraphs and 6 page breaks. The persisted translation-unit source text hashes to the expected normalized source SHA-256 `6aa66d...c9a3`, contains 3,389 normalized tokens, and each stored source hash validates. Line-break codes and source identities are present. The generation is completed with validation, source-coverage and ordered-token statuses all PASS. Idempotency produced exactly one generation, snapshot and expected child-row set; lineage is `RECONSTRUCTION_MODEL rendered_from VALIDATED_DOCX` via the recorded input relationship. No downstream invocation occurred.
+
+The historical controlled result remains preserved as audit evidence with its original defects: interleaved TU ordinals and a NULL generation token count. It was not mutated.
+
+A narrowly scoped corrective patch was implemented and deployed in migration `20261023000000_fix_canonical_persistence_contract.sql`. New worker envelopes assign independent consecutive TU ordinals while preserving structural node ordinals and node/TU mappings. Atomic finalization computes and persists normalized token count from validated TU rows and verifies child counts.
+
+The authenticated corrected generation completed with HTTP 201 and its identical retry returned HTTP 200. Corrected snapshot `9773853e-9f81-4796-b358-38a3f53e1d81` passes persisted verification: 422 nodes, 265 TUs with ordinals 0..264, 3 inline codes, 3,389 normalized tokens, correct source/DOCX hashes, complete source coverage and structure, exactly one generation/snapshot/child set, correct lineage and no downstream invocation. The original generation/snapshot remain unchanged. Phase 6C.5 is therefore **PASS**.
+
+Validation evidence: worker suite 48/48 passed; TypeScript typecheck passed; canonical TypeScript contract tests 3/3 passed; immutable artifact/readback, reconstruction, source-artifact and CELEX-shadow regressions passed; application health returned 200, worker health returned 200, and the canonical route rejected unauthenticated access with 401. The additive migration `20261022000000_canonical_document_model.sql` is deployed.
+
+The exact authenticated invocation is documented in `authenticated-invocation.md`; the read-only audit is recorded in `controlled-run-verification.json` and `controlled-db-audit.mjs`.
+
+Focused follow-up checks passed: TypeScript typecheck, worker suite (48/48), canonical endpoint tests (3/3), canonical generation contract tests (4/4), immutable artifact/readback (16/16 and 15/15), source-PDF (16/16), reconstruction artifact (5/5), validated-DOCX artifact (4/4), and CELEX orchestration (5/5). Phase 6C.6 and MK1 generation were not started.
+
+Unicode follow-up: the v2 generation is Unicode-correct. The apparent 17 mismatches were caused by forensic Python opening UTF-8 JSON with the Windows default code page. PostgreSQL server bytes and UTF-8 readback match every stored source hash. Migration `20261024000000_verify_canonical_persisted_hashes.sql` now blocks PASS unless all persisted TU hashes verify. Historical snapshots remain unchanged.
+
+Guarded-generation closure (2026-10-11): request key `phase6c5-persistence-integrity-32006l0114-v1` produced exactly one generation (`2166a9e3-c3ba-457a-a5f5-2927c55ceaab`) and one snapshot (`d57fdd35-3b79-4f3a-b20a-3cfaf9941225`). Independent PostgreSQL readback verifies 422 nodes, 265 TUs with distinct consecutive ordinals 0–264, 3 inline codes, 3,389 normalized tokens, exact authoritative DOCX SHA-256, correct Unicode, and zero server/client UTF-8 source-hash mismatches. The deployed completion RPC contains the fail-closed persisted-row UTF-8 hash predicate; generation 4 reached completed/PASS and its snapshot reached available only through that RPC, proving the gate executed successfully. The identical retry created no duplicate generation or snapshot. All three historical snapshots remain available and unchanged. **Phase 6C.5 is formally closed: PASS.**

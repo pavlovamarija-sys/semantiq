@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "celexShadowOrchestration": {"status": "PASS", "passed": 5, "failed": 0},
+  "workerSuite": {"status": "PASS", "passed": 38, "failed": 0, "warnings": 1},
+  "threeFixtureRegressions": {"status": "PASS", "fixtures": ["32006L0114", "32006L0126", "32006L0042"]},
+  "typescriptTypecheck": {"status": "PASS"},
+  "eslint": {"status": "NOT_RUN", "reason": "The repository has no ESLint 9 eslint.config.js/mjs/cjs configuration; npm run lint exits before analyzing files."},
+  "workerHealth": {"status": "PASS", "httpStatus": 200},
+  "realImportPerformed": false
+}

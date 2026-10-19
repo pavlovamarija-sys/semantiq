@@ -1,0 +1,17 @@
+{
+  "endpoint": "POST /shadow/reconstruct",
+  "implementation": "workers/pdf-to-docx/app/main.py:shadow_reconstruct",
+  "registeredWithFastApi": true,
+  "authentication": "Authorization: Bearer token compared with PDF_TO_DOCX_SERVICE_TOKEN",
+  "healthCheck": {
+    "endpoint": "GET http://127.0.0.1:8000/health",
+    "status": 200,
+    "body": {"status": "ok"}
+  },
+  "nextJsUrlConstruction": "PDF_TO_DOCX_SERVICE_URL root plus /shadow/reconstruct",
+  "returnsDocxBytes": false,
+  "temporaryDocxDeleted": true,
+  "writesDurableEvidenceItself": false,
+  "evidenceWriterOwner": "Next.js runShadowReconstruction caller after worker response",
+  "controlledDocumentInvokedDuringAudit": false
+}

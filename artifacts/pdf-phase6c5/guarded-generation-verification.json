@@ -1,0 +1,40 @@
+{
+  "checked_at": "2026-10-11",
+  "request_key": "phase6c5-persistence-integrity-32006l0114-v1",
+  "derived_idempotency_key": "canonical-extraction:4553a2f4772592262de110283266b222dd40c95360085f17ae0c1b94b0357716",
+  "input_fingerprint_sha256": "151509a952966c7e286cf2f587b6ed00f12c91f869b6b1dbf3de1986507817de",
+  "generation_id": "2166a9e3-c3ba-457a-a5f5-2927c55ceaab",
+  "snapshot_id": "d57fdd35-3b79-4f3a-b20a-3cfaf9941225",
+  "generation_count_for_request": 1,
+  "snapshot_count_for_request": 1,
+  "generation_status": "completed",
+  "validation_status": "PASS",
+  "source_coverage_status": "PASS",
+  "ordered_token_status": "PASS",
+  "extractor_version": "docx-canonical-phase6c5-v2-unicode",
+  "nodes": 422,
+  "translation_units": 265,
+  "inline_codes": 3,
+  "normalized_tokens": 3389,
+  "tu_ordinal_min": 0,
+  "tu_ordinal_max": 264,
+  "distinct_tu_ordinals": 265,
+  "persisted_source_hash_mismatches": 0,
+  "replacement_character_units": 0,
+  "mojibake_units": 0,
+  "verified_non_ascii_codepoints": ["U+2014", "U+2018", "U+2019"],
+  "validated_docx_artifact_id": "b0e8fec5-91c8-4755-87a4-ff8f6dd8d307",
+  "validated_docx_sha256": "2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971",
+  "normalized_source_sha256": "6aa66d213e3db8004d2436a0010f7866eaf9939a44d5e61593e47d2ac132c9a3",
+  "database_integrity_gate": {
+    "deployed_function_contains_server_utf8_hash_check": true,
+    "executed": true,
+    "proof": "The only application transition from validating/building to completed/available is complete_canonical_snapshot. Generation 4 completed after deployment of its persisted-row UTF-8 hash predicate; independent readback also found zero mismatches."
+  },
+  "historical_snapshot_ids_preserved": [
+    "41c043ad-a210-4e17-b6f4-5cf98872a602",
+    "9773853e-9f81-4796-b358-38a3f53e1d81",
+    "dd258d76-5d3c-4f33-b5b6-6cd33481c73f"
+  ],
+  "classification": "PASS"
+}

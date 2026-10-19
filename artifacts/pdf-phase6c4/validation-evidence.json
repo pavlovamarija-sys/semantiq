@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "gates": {
+    "model_actual_byte_sha256_and_size": "PASS",
+    "schema_and_required_fields": "PASS",
+    "source_and_generation_identity": "PASS",
+    "provenance_exact_once": "PASS",
+    "ordered_normalized_tokens": "PASS",
+    "structural_heading_order": "PASS",
+    "native_docx_open_and_signature": "PASS",
+    "native_table_rows_cells": "PASS",
+    "one_paragraph_per_logical_table_cell": "PASS",
+    "uploaded_byte_readback": "PASS by immutable artifact primitive"
+  },
+  "manual_studio_claim": "No new manual Studio roundtrip is claimed. Compatibility derives only from the frozen serializer and three prior Studio-validated fixtures."
+}

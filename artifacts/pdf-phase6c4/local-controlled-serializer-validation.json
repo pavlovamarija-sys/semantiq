@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "scope": "read-only rendering of the independently verified persisted 32006L0114 RECONSTRUCTION_MODEL; no artifact persisted",
+  "model_artifact_id": "5c09e46f-aa23-40d1-91e3-b9044a305272",
+  "model_sha256": "63fb1a805d02484ca9aa5d951dd441b98a0e5155dd64f08fc5f25b623ac33520",
+  "serializer": "typed-reconstruction-phase2b-frozen",
+  "ephemeral_docx_sha256": "ff2d6cf255f8a528d25d086e716721f5f253aa5870dc5b6f1dcc414870c64450",
+  "ephemeral_docx_byte_size": 44034,
+  "normalized_tokens": 3389,
+  "non_empty_docx_paragraphs": 265,
+  "non_empty_body_paragraphs": 167,
+  "tables": 3,
+  "rows": 48,
+  "cells": 100,
+  "article_1_in_table_cell": true,
+  "annex_i_in_table_cell": true,
+  "persistence": "NOT_PERFORMED"
+}

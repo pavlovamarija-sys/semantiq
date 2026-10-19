@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210728T184053Z" creationid="HP\a">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32021D1001</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021D1001</prop>
+    <prop type="x-SourceTMX">32021D1001_MK1.tmx</prop>
+    <prop type="x-SourceTMXSHA256">7c6370307c257881c437ddaf92ae1811b7aeabcd960fcedd641d3d376372fdd2</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">19</prop>
+  </header>
+  <body>
+    <tu creationdate="20180726T111454Z" creationid="SEI\Marija.Pavlova" changedate="20210728T184128Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL DECISION (CFSP) 2021/1001</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА (ЗНБП) 2021/1001 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T184131Z" creationid="PC" changedate="20210728T184144Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">-4471331182894851081, 2260364519024842378</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 21 June 2021</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 21 јуни 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T184146Z" creationid="PC" changedate="20210728T184951Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">3657596318, -790154011644746187</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>amending Decision 2012/642/CFSP concerning restrictive measures in view of the situation in Belarus</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за изменување на Одлуката 2012/642/ЗНБП за рестриктивни мерки во однос на состојбата во Белорусија</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201020T073841Z" creationid="DESKTOP-R6F8DM9\Angel" changedate="20210728T184953Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">-7319303401356404272, 2979330136047078607</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20180906T060656Z" creationid="SEI\Marija.Bojkova" changedate="20210728T184957Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on European Union and in particular Article 29 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20180726T111520Z" creationid="SEI\Marija.Pavlova" changedate="20210728T184959Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">4008922428764593819, -8062861699121218956</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T185831Z" creationid="PC" changedate="20210728T185911Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">2434825731006792947, 6023308467856392185</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(4)	Decision 2012/642/CFSP should therefore be amended accordingly, HAS ADOPTED THIS DECISION:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(4)Затоа, Одлуката 2012/642/ЗНБП треба соодветно да се измени, ЈА ДОНЕСЕ ОВАА ОДЛУКА:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">12</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20200120T101540Z" creationid="SEI\Marija.Bojkova" changedate="20210728T185914Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">1868365456716260911, -3464067471278477198</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 1</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">13</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20180320T141714Z" creationid="SEI\Marija.Pavlova" changedate="20210728T185924Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Decision 2012/642/CFSP is amended as follows:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Одлуката 2012/642/ЗНБП се изменува како што следува:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">14</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20150210T102031Z" creationid="SEI\Ivana.Stoilkovic" changedate="20210728T185927Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">5763295421521079337, 4478258280155967999</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(1) Article 5(1) is replaced by the following:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(1)член 5(1) се заменува со следново:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">15</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T185934Z" creationid="PC" changedate="20210728T185934Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">6562499496133112823, -2957034047692053396</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘Article 5</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„Член 5</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">16</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20200120T101603Z" creationid="BLAZHESKI\a" changedate="20210728T185935Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>1.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">17</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T185937Z" creationid="PC" changedate="20210728T185958Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The competent authority of a Member State may authorise the release of certain frozen funds or economic resources or the making available of certain funds or economic resources, under such conditions as it deems appropriate, after having determined that the funds or economic resources concerned are:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Надлежниот орган на дадена земја членка може да одобри ослободување на одредени замрзнати финансиски средства или економски ресурси или ставање на располагање на одредени финансиски средства или економски ресурси под услови кои што ги смета за соодветни, откако ќе утврди дека соодветните финансиски средства или економски ресурси се:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">18</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T190000Z" creationid="PC" changedate="20210728T190203Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">-7070676065351443412, -3654424818451099691</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	necessary to satisfy the basic needs of any person listed in the Annex and their dependent family members, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)потребни за задоволување на основните потреби на кое било лице наведено во Анексот и на нивните членови на семејствата кои што се зависни од нив, вклучувајќи трошоци за храна, кирија или отплата на хипотека, лекови и медицинска медицинско грижалекување, даноци, осигурителни премии и давачки за комуна</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20180917T125304Z" creationid="SEI\Marija.Bojkova" changedate="20210728T190213Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">-1392013461986172839, -2872765748722892733</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	intended exclusively for the payment of reasonable professional fees and the reimbursement of incurred expenses associated with the provision of legal services;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>лни услуги; (б)наменети исклучиво за плаќање на разумни професионални давачки и за враќање на направени трошоци поврзани со обезбедување на правни у</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20180917T125738Z" creationid="SEI\Marija.Bojkova" changedate="20210728T190214Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">-4305764529655619614, 5063193921335802420</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>слуги; (в)наменети исклучиво за плаќање на надоместоци или давачки за услуги за тековно одржување и управување со замрзнати финансиски средства или економски ресурси;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T190216Z" creationid="PC" changedate="20210728T190311Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">-2097728593465744096, -5946936565070337481</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	necessary for extraordinary expenses, provided that the competent authority has notified the grounds on which it considers that a specific authorisation should be granted to the other competent authorities and the Commission at least two weeks prior to the authorisation;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)потребни за вонредни трошоци, под услов најмалку две недели пред одобрувањето, надлежниот орган да ги извести другите овластени органи и Комисијата за причините врз основа на кои смета дека треба да се додели посебното одобрување;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T190313Z" creationid="PC" changedate="20210728T190419Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">6005918201940461970, 7784303816803864897</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	to be paid into or from an account of a diplomatic mission or consular post or an international organisation enjoying immunities in accordance with international law, in so far as such payments are intended to be used for official purposes of the diplomatic mission or consular post or international organisation;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д)наменети за исплата на или од сметка на дипломатска мисија или конзуларно претставништво, или меѓународна организација која што ужива имунитет во согласност со меѓународното право, доколку целта на овие плаќања е да се користат за службени потреби на дипломатската мисија или конзуларното претставништво или меѓународната организација</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T190423Z" creationid="PC" changedate="20210728T190522Z" changeid="PC" lastusagedate="20210728T193337Z" usagecount="2">
+      <prop type="x-Context">8169167146555014066, -2111686873995247594</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(f)	intended exclusively for the payment of a charge necessary for:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (ѓ)наменети исклучиво за исплата на надоместок неопходен за:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1001</prop>
+      <prop type="x-SourceTUIndex">24</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

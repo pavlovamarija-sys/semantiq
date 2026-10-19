@@ -1,0 +1,8 @@
+{
+  "pdfBytes": "existing worker PDF_TO_DOCX_MAX_BYTES limit",
+  "maxPages": "PDF_TO_DOCX_SHADOW_MAX_PAGES, default 100",
+  "timeout": "Next.js fetch AbortSignal timeout 10 minutes",
+  "malformedPdf": "shadow endpoint rejects independently",
+  "temporaryOutput": "unique temporary directory per run, removed after request",
+  "activeImpact": "shadow-only rejection"
+}

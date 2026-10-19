@@ -1,0 +1,3580 @@
+{
+  "summary": {
+    "total": 30,
+    "confirmed_gold": 12,
+    "misaligned": 2,
+    "uncertain": 16,
+    "misaligned_ids": [
+      "32015D1875:44",
+      "32017D2170:21"
+    ],
+    "uncertain_ids": [
+      "02003R1560:112",
+      "32008D0206:21",
+      "32009D0796:13",
+      "32011L0076:248",
+      "32013R1379:112",
+      "32014L0110:19",
+      "32014R0447:101",
+      "32015L0565:12",
+      "32015L2302:238",
+      "32016R1013:111",
+      "32016R1036:12",
+      "32016R1150:109",
+      "32016R2031:305",
+      "32017R2107:112",
+      "32018L0822:230",
+      "32018L1713:42"
+    ]
+  },
+  "pairs": [
+    {
+      "celex": "02003R1560",
+      "tmx_tu_id": "02003R1560:112",
+      "classification": "UNCERTAIN",
+      "reason": "Current pair conflicts (numeric/legal anchors missing: 20(1)(c)); no neighboring MK2 match is deterministically proven.",
+      "en": "Where, pursuant to Article 18(7) or Article 20(1)(c) of Regulation (EC) No 343/2003 as appropriate, the requested Member State is deemed to have accepted a request to take charge or to take back, the requesting Member State shall initiate the consultations needed to organise the transfer.",
+      "mk2": "о прифаќање 1.Во случај кога, во согласност со член 18(7) или член 20(1)(в) од Регулативата (ЕЗ) бр. 343/2003, како што е соодветново зависност од случајот, се смета дека земјата членка до којашто се поднесува барањето прифатила барање за преземање одговорност или за примање назадповторен прием, земјата членка којашто го поднесува барањето ќе отпочне консултации потребни за организирање на трансферот.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "18(7)",
+            "20(1)(c)",
+            "343/2003"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "1",
+            "18(7)",
+            "20(1)",
+            "343/2003"
+          ],
+          "countries": []
+        },
+        "reasons": [
+          "numeric/legal anchors missing: 20(1)(c)"
+        ],
+        "anchor_count": 3
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 111,
+          "en": "Transfer following an acceptance by default",
+          "mk1": "Трансфер по стандардно прифаќање",
+          "mk2": "н 10 Трансфер по стандардно имплицитн",
+          "score": 0.7246376811594203,
+          "status": "REVIEW",
+          "cardinality": "N:M",
+          "mk2_span": [
+            105,
+            108
+          ],
+          "mk2_char_span": [
+            17067,
+            17104
+          ],
+          "evidence": {
+            "token_count": 68,
+            "references_preserved": true,
+            "neighbor_window": [
+              110,
+              112
+            ],
+            "atom_window": [
+              105,
+              108
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        },
+        "current": {
+          "index": 112,
+          "en": "Where, pursuant to Article 18(7) or Article 20(1)(c) of Regulation (EC) No 343/2003 as appropriate, the requested Member State is deemed to have accepted a request to take charge or to take back, the requesting Member State shall initiate the consultations needed to organise the transfer.",
+          "mk1": "Во случај кога, во согласност со член 18(7) или член 20(1)(в) од Регулативата (ЕЗ) бр. 343/2003 како што е соодветно, се смета дека земјата членка до којашто се поднесува барањето прифатила барање за преземање одговорност или за примање назад, земјата членка којашто го поднесува барањето ќе отпочне консултации потребни за организирање на трансферот.",
+          "mk2": "о прифаќање 1.Во случај кога, во согласност со член 18(7) или член 20(1)(в) од Регулативата (ЕЗ) бр. 343/2003, како што е соодветново зависност од случајот, се смета дека земјата членка до којашто се поднесува барањето прифатила барање за преземање одговорност или за примање назадповторен прием, земјата членка којашто го поднесува барањето ќе отпочне консултации потребни за организирање на трансферот.",
+          "score": 0.9291553133514986,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            105,
+            108
+          ],
+          "mk2_char_span": [
+            17104,
+            17508
+          ],
+          "evidence": {
+            "token_count": 68,
+            "references_preserved": true,
+            "neighbor_window": [
+              110,
+              112
+            ],
+            "atom_window": [
+              105,
+              108
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 113,
+          "en": "If asked to do so by the requesting Member State, the Member State responsible must confirm in writing, without delay, that it acknowledges its responsibility as a result of its failure to reply within the time limit.",
+          "mk1": "Одговорната земја членка мора писмено да потврди, без одложување, дека ја признава својата одговорност поради тоа што не одговорила во временскиот рок, ако тоа од неа го побара земјата членка којашто го поднесува барањето.",
+          "mk2": "2.Одговорната земја членка мора писмено да потврди, без одложување, дека ја признава својата одговорност поради тоа што не одговорила во временскиот рок, ако тоа од неа го побара земјата членка којашто го поднесува барањето. О",
+          "score": 0.990909090909091,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            108,
+            110
+          ],
+          "mk2_char_span": [
+            17509,
+            17735
+          ],
+          "evidence": {
+            "token_count": 90,
+            "references_preserved": true,
+            "neighbor_window": [
+              113,
+              115
+            ],
+            "atom_window": [
+              108,
+              110
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "02005F0214",
+      "tmx_tu_id": "02005F0214:117",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "The Council may decide to add other categories of offences to the lists in paragraph 1 at any time, acting unanimously after consultation of the European Parliament under the conditions laid down in Article 39(1) of the EU Treaty.",
+      "mk2": "2.Советот може да одлучи во кое било време да додаде други категории кривични дела до списоците во став 1, делјствувајќи едногласно по консултација со Европскиот парламент според условите утврдени во член 39(1) од Договорот за ЕУ.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "1",
+            "39(1)"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "2",
+            "1",
+            "39(1)"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 1
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 116,
+          "en": "— offences established by the issuing State and serving the purpose of implementing obligations arising from instruments adopted under the EC Treaty or under Title VI of the EU Treaty.",
+          "mk1": "— кривични дела утврдени од земјата издавател што имаат за цел спроведување на обврските што произлегуваат од инструментите донесени според Договорот за основање на Европската заедница или според Наслов VI на Договорот за ЕУ.",
+          "mk2": "ба; — кривични дела утврдени од земјата издавател, што имаат за цел спроведување на обврските што произлегуваат од инструментите донесени според Договорот за основање на Европската заедница или според НнНаслов VI на Договорот за ЕУ.",
+          "score": 0.9888641425389755,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            106,
+            109
+          ],
+          "mk2_char_span": [
+            10276,
+            10508
+          ],
+          "evidence": {
+            "token_count": 36,
+            "references_preserved": true,
+            "neighbor_window": [
+              114,
+              116
+            ],
+            "atom_window": [
+              106,
+              109
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "current": {
+          "index": 117,
+          "en": "The Council may decide to add other categories of offences to the lists in paragraph 1 at any time, acting unanimously after consultation of the European Parliament under the conditions laid down in Article 39(1) of the EU Treaty.",
+          "mk1": "Советот може да одлучи во кое било време да додаде други категории кривични дела до списоците во став 1 делувајќи едногласно по консултација со Европскиот парламент според условите утврдени во член 39(1) од Договорот за ЕУ.",
+          "mk2": "2.Советот може да одлучи во кое било време да додаде други категории кривични дела до списоците во став 1, делјствувајќи едногласно по консултација со Европскиот парламент според условите утврдени во член 39(1) од Договорот за ЕУ.",
+          "score": 0.9866071428571429,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            109,
+            110
+          ],
+          "mk2_char_span": [
+            10509,
+            10739
+          ],
+          "evidence": {
+            "token_count": 38,
+            "references_preserved": true,
+            "neighbor_window": [
+              117,
+              117
+            ],
+            "atom_window": [
+              109,
+              110
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 118,
+          "en": "The Council shall consider, in the light of the report submitted to it pursuant to Article 20(5), whether the list should be extended or amended.",
+          "mk1": "Советот, земајќи го предвид извештајот доставен до него согласно член 20(5), разгледува дали списокот треба да се прошири или измени.",
+          "mk2": "Советот, земајќи го предвид извештајот доставен до него во согласност со член 20(5), разгледува дали списокот треба да се прошири или да се",
+          "score": 0.9358490566037736,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            110,
+            112
+          ],
+          "mk2_char_span": [
+            10740,
+            10879
+          ],
+          "evidence": {
+            "token_count": 112,
+            "references_preserved": true,
+            "neighbor_window": [
+              118,
+              120
+            ],
+            "atom_window": [
+              110,
+              112
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "02018R1860",
+      "tmx_tu_id": "02018R1860:21",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "This Regulation lays down the conditions and procedures for the entry and processing of alerts in respect of third-country nationals subject to return decisions issued by the Member States in the Schengen Information System (SIS) established by Regulation (EU) 2018/1861, as well as for exchanging supplementary information on such alerts.",
+      "mk2": "Член 1 Предмет и опсег Оваа регулатива ги утврдува условите и постапките за внесување и обработување предупредувања за државјани на трети земји кои се предмет на одлуки за враќање издадени од земјите членки во Шенгенскиот информациски систем (СИС), утврден со Регулативата (ЕУ) 2018/1861, како и за размена на дополнителни информации за такви предупредувања.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "2018/1861"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "1",
+            "2018/1861"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 1
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 20,
+          "en": "Subject matter and scope",
+          "mk1": "Предмет и опсег",
+          "mk2": "",
+          "score": 0.2985685071574642,
+          "status": "UNMATCHED",
+          "cardinality": "0:0",
+          "evidence": {
+            "reason": "No sufficiently local non-overlapping candidate."
+          },
+          "export_status": "UNMATCHED"
+        },
+        "current": {
+          "index": 21,
+          "en": "This Regulation lays down the conditions and procedures for the entry and processing of alerts in respect of third-country nationals subject to return decisions issued by the Member States in the Schengen Information System (SIS) established by Regulation (EU) 2018/1861, as well as for exchanging supplementary information on such alerts.",
+          "mk1": "Оваа регулатива ги утврдува условите и постапките за внесување и обработка на предупредувања за државјани на трети земји кои се предмет на одлуки за враќање издадени од земјите членки во Шенгенскиот информациски систем (SIS) воспоставен со Регулативата (ЕУ) 2018/1861, како и за размена на дополнителни информации за такви предупредувања.",
+          "mk2": "Член 1 Предмет и опсег Оваа регулатива ги утврдува условите и постапките за внесување и обработување предупредувања за државјани на трети земји кои се предмет на одлуки за враќање издадени од земјите членки во Шенгенскиот информациски систем (СИС), утврден со Регулативата (ЕУ) 2018/1861, како и за размена на дополнителни информации за такви предупредувања.",
+          "score": 0.9282576866764275,
+          "status": "HIGH",
+          "cardinality": "1:N",
+          "mk2_span": [
+            19,
+            22
+          ],
+          "mk2_char_span": [
+            1035,
+            1393
+          ],
+          "evidence": {
+            "token_count": 53,
+            "references_preserved": true,
+            "neighbor_window": [
+              21,
+              21
+            ],
+            "atom_window": [
+              19,
+              22
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 22,
+          "en": "Definitions",
+          "mk1": "Дефиниции",
+          "mk2": "Член 2 Деф",
+          "score": 0.3157894736842105,
+          "status": "UNMATCHED",
+          "cardinality": "N:M",
+          "mk2_span": [
+            22,
+            25
+          ],
+          "mk2_char_span": [
+            1394,
+            1404
+          ],
+          "evidence": {
+            "token_count": 12,
+            "references_preserved": true,
+            "neighbor_window": [
+              22,
+              23
+            ],
+            "atom_window": [
+              22,
+              25
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        }
+      }
+    },
+    {
+      "celex": "32001F0500",
+      "tmx_tu_id": "32001F0500:11",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "On 3 December 1998 the Council adopted Joint Action 98/699/JHA on money laundering, the identification, tracing, freezing, seizing and confiscation of instrumentalities and the proceeds from crime().",
+      "mk2": ": На 3 декември 1998 година Советот ја донесе Заедничката акција 98/699/ПВР за перење пари, идентификација, следење, замрзнување, запленување и одземање имот и приносите прибавени со кривични дела().",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "3",
+            "1998",
+            "98/699"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "3",
+            "1998",
+            "98/699"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 2
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 10,
+          "en": "Whereas:",
+          "mk1": "Со оглед на тоа што:",
+          "mk2": "сСо оглед на тоа што",
+          "score": 0.9743589743589743,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            9,
+            11
+          ],
+          "mk2_char_span": [
+            507,
+            527
+          ],
+          "evidence": {
+            "token_count": 32,
+            "references_preserved": true,
+            "neighbor_window": [
+              10,
+              11
+            ],
+            "atom_window": [
+              9,
+              11
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "current": {
+          "index": 11,
+          "en": "On 3 December 1998 the Council adopted Joint Action 98/699/JHA on money laundering, the identification, tracing, freezing, seizing and confiscation of instrumentalities and the proceeds from crime().",
+          "mk1": "На 3 декември 1998 година Советот ја донесе Заедничката акција 98/699/ПВР за перење пари, идентификација, следење, замрзнување, запленување и одземање имот и приносите прибавени со кривични дела().",
+          "mk2": ": На 3 декември 1998 година Советот ја донесе Заедничката акција 98/699/ПВР за перење пари, идентификација, следење, замрзнување, запленување и одземање имот и приносите прибавени со кривични дела().",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            9,
+            11
+          ],
+          "mk2_char_span": [
+            527,
+            726
+          ],
+          "evidence": {
+            "token_count": 32,
+            "references_preserved": true,
+            "neighbor_window": [
+              10,
+              11
+            ],
+            "atom_window": [
+              9,
+              11
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 12,
+          "en": "OJ L 333, 9.12.1998, p. 1.",
+          "mk1": "Сл. весник L 333, 9.12.1998 година, стр. 1.",
+          "mk2": "Треба да се земат предвид заклучоците на",
+          "score": 0.20512820512820512,
+          "status": "UNMATCHED",
+          "cardinality": "N:M",
+          "mk2_span": [
+            11,
+            13
+          ],
+          "mk2_char_span": [
+            727,
+            767
+          ],
+          "evidence": {
+            "token_count": 75,
+            "references_preserved": false,
+            "neighbor_window": [
+              12,
+              14
+            ],
+            "atom_window": [
+              11,
+              13
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        }
+      }
+    },
+    {
+      "celex": "32008D0206",
+      "tmx_tu_id": "32008D0206:21",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "Two Member States apply control measures to BZP under their medicines legislation.",
+      "mk2": "а. Две земји членки применуваат контролни мерки на БЗП според нивното законодавство за лекови.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 20,
+          "en": "In five Member States, BZP is subjected to control measures and criminal penalties as provided under their legislation by virtue of their obligations under the 1961 or 1971 UN Conventions.",
+          "mk1": "Во пет земји членки, БЗП е предмет на контролни мерки и казнени санкции како што е предвидено со нивнито законодавство според нивните обврски од Конвенциите на ОН од 1961 или 1971.",
+          "mk2": "земји членки, БЗП подлеожи на контролни мерки и казнени санкции како што е предвидено според нивното законодавство врз основа на нивните обврски според Конвенциите на ОН од 1961 или 1971 годин",
+          "score": 0.8563685636856369,
+          "status": "REVIEW",
+          "cardinality": "N:1",
+          "mk2_span": [
+            17,
+            18
+          ],
+          "mk2_char_span": [
+            2420,
+            2612
+          ],
+          "evidence": {
+            "token_count": 60,
+            "references_preserved": true,
+            "neighbor_window": [
+              19,
+              21
+            ],
+            "atom_window": [
+              17,
+              18
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        },
+        "current": {
+          "index": 21,
+          "en": "Two Member States apply control measures to BZP under their medicines legislation.",
+          "mk1": "Две земји членки применуваат контролни мерки на БЗП според нивното закодавство за лекови.",
+          "mk2": "а. Две земји членки применуваат контролни мерки на БЗП според нивното законодавство за лекови.",
+          "score": 0.9777777777777777,
+          "status": "HIGH",
+          "cardinality": "N:1",
+          "mk2_span": [
+            17,
+            18
+          ],
+          "mk2_char_span": [
+            2612,
+            2706
+          ],
+          "evidence": {
+            "token_count": 60,
+            "references_preserved": true,
+            "neighbor_window": [
+              19,
+              21
+            ],
+            "atom_window": [
+              17,
+              18
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 22,
+          "en": "(7) BZP has been found in post mortem samples.",
+          "mk1": "(7) БЗП е најден во пост мортем примероци.",
+          "mk2": "(7)БЗП е најден во примероци од обдукција.",
+          "score": 0.6835443037974683,
+          "status": "UNMATCHED",
+          "cardinality": "N:1",
+          "mk2_span": [
+            18,
+            19
+          ],
+          "mk2_char_span": [
+            2707,
+            2750
+          ],
+          "evidence": {
+            "token_count": 32,
+            "references_preserved": true,
+            "neighbor_window": [
+              22,
+              23
+            ],
+            "atom_window": [
+              18,
+              19
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        }
+      }
+    },
+    {
+      "celex": "32009D0796",
+      "tmx_tu_id": "32009D0796:13",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "Protective measures of the host Member State are based solely on the legal provisions in force in that Member State and the relevant international agreements.",
+      "mk2": "титните мерки на земјата членка домаќин се темелат исклучиво на законските одредби кои се во сила вона таа земја членка и на релевантните меѓународни спогодбидоговори.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 12,
+          "en": "(2) The protection of public figures is the responsibility of the host Member State.",
+          "mk1": "(2) Заштита на јавните личности е одговорност на земјата членка домаќин.",
+          "mk2": "(2) Заштитата на јавните личности е одговорност на земјата членка домаќин. Заш",
+          "score": 0.9583333333333334,
+          "status": "HIGH",
+          "cardinality": "N:1",
+          "mk2_span": [
+            9,
+            10
+          ],
+          "mk2_char_span": [
+            557,
+            635
+          ],
+          "evidence": {
+            "token_count": 36,
+            "references_preserved": true,
+            "neighbor_window": [
+              12,
+              13
+            ],
+            "atom_window": [
+              9,
+              10
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "current": {
+          "index": 13,
+          "en": "Protective measures of the host Member State are based solely on the legal provisions in force in that Member State and the relevant international agreements.",
+          "mk1": "Заштитните мерки на земјата членка домаќин се темелат исклучиво на законски одредби кои се во сила на таа земја членка и релевантни меѓународни договори.",
+          "mk2": "титните мерки на земјата членка домаќин се темелат исклучиво на законските одредби кои се во сила вона таа земја членка и на релевантните меѓународни спогодбидоговори.",
+          "score": 0.9371069182389937,
+          "status": "HIGH",
+          "cardinality": "N:1",
+          "mk2_span": [
+            9,
+            10
+          ],
+          "mk2_char_span": [
+            635,
+            802
+          ],
+          "evidence": {
+            "token_count": 36,
+            "references_preserved": true,
+            "neighbor_window": [
+              12,
+              13
+            ],
+            "atom_window": [
+              9,
+              10
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 14,
+          "en": "(3) The European Network for the Protection of Public Figures, which was set up in 2002, should contribute to providing protection as a formal channel for communication and consultation between national authorities.",
+          "mk1": "(3) Европската Мрежа за заштита на јавните личности, која се формираше во 2002 година, треба да придонесе во обезбедувањето на заштита како официјално средство за размена на информации и консултации помеѓу националните власти.",
+          "mk2": "(3) Европската мМрежа за заштита на јавните личности, која се формираше во 2002 година, треба да придонесе во обезбедувањето на заштита како формален канал за официјално средство за размена на информации икомуникација и консултацијаи помеѓу на",
+          "score": 0.8869565217391304,
+          "status": "REVIEW",
+          "cardinality": "N:M",
+          "mk2_span": [
+            10,
+            12
+          ],
+          "mk2_char_span": [
+            803,
+            1046
+          ],
+          "evidence": {
+            "token_count": 92,
+            "references_preserved": true,
+            "neighbor_window": [
+              14,
+              15
+            ],
+            "atom_window": [
+              10,
+              12
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        }
+      }
+    },
+    {
+      "celex": "32010D0453",
+      "tmx_tu_id": "32010D0453:15",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "The guidelines are not legally binding but serve to provide useful guidance to the Member States in the implementation of Article 7 of Directive 2004/23/EC.",
+      "mk2": "Овие упатства не се законски обврзувачки, но служат за давање на корисни насоки за земјите членки во спроведување на член 7 од Директивата 2004/23/ЕЗ.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "7",
+            "2004/23"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "7",
+            "2004/23"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 1
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 14,
+          "en": "Article 7(5) of Directive 2004/23/EC provides that the Commission shall establish guidelines concerning the conditions of the inspections and control measures, and on the training and qualification of the officials involved in order to reach a consistent level of competence and performance.",
+          "mk1": "Членот 7 (5) од Директивата 2004/23/ЕЗ предвидува дека Комисијата воспоставува упатства за условите на инспекциите и контролни мерки, како и во однос на обуката и квалификации на службени лица кои учествуваат во овие активности, со цел да се постигне усогласено ниво на експертиза и ефикасност на работата.",
+          "mk2": "Членот 7 (5) од Директивата 2004/23/ЕЗ предвидува дека Комисијата воспоставува упатства за условите на инспекциите и контролните мерки, како и во однос на обуката и квалификациите на службени лица кои учествуваат во овие активности, со цел да се постигне усогласено ниво на експертиза и ефикасност на работата.",
+          "score": 0.9933993399339934,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            11,
+            13
+          ],
+          "mk2_char_span": [
+            1545,
+            1855
+          ],
+          "evidence": {
+            "token_count": 126,
+            "references_preserved": true,
+            "neighbor_window": [
+              13,
+              15
+            ],
+            "atom_window": [
+              11,
+              13
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "current": {
+          "index": 15,
+          "en": "The guidelines are not legally binding but serve to provide useful guidance to the Member States in the implementation of Article 7 of Directive 2004/23/EC.",
+          "mk1": "Овие упатства не се законски обврзувачки но служат за давање на корисни насоки за земјите членки во спроведување на член 7 од Директивата 2004/23/ЕЗ.",
+          "mk2": "Овие упатства не се законски обврзувачки, но служат за давање на корисни насоки за земјите членки во спроведување на член 7 од Директивата 2004/23/ЕЗ.",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            11,
+            13
+          ],
+          "mk2_char_span": [
+            1855,
+            2006
+          ],
+          "evidence": {
+            "token_count": 126,
+            "references_preserved": true,
+            "neighbor_window": [
+              13,
+              15
+            ],
+            "atom_window": [
+              11,
+              13
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 16,
+          "en": "The Commission should review and update the guidelines set out in the Annex to this Decision on the basis of the reports transmitted by the Member States to the Commission in accordance with Article 26(1) of Directive 2004/23/EC.",
+          "mk1": "Комисијата треба да ги разгледа и ажурира упатствата утврдени во Анексот на оваа одлука врз основа на извештаите на земјите членки што ги доставуваат до Комисијата во согласност со членот 26(1) од Директивата 2004/23/ЕЗ.",
+          "mk2": "Комисијата треба да ги разгледа и ажурира упатствата утврдени во Анексот на оваа одлука врз основа на извештаите на земјите членки што ги доставуваат до Комисијата во согласност со членот 26(1) од Директивата 2004/23/ЕЗ.",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            13,
+            14
+          ],
+          "mk2_char_span": [
+            2007,
+            2227
+          ],
+          "evidence": {
+            "token_count": 35,
+            "references_preserved": true,
+            "neighbor_window": [
+              16,
+              16
+            ],
+            "atom_window": [
+              13,
+              14
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32011L0076",
+      "tmx_tu_id": "32011L0076:248",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "This Directive shall not prevent the non-discriminatory application by Member States of regulatory charges specifically designed to reduce traffic congestion or combat environmental impacts, including poor air quality, on any roads located in an urban area, including trans-European network roads crossing urban areas.",
+      "mk2": "„1a.Оваа директива не ја попречува недискриминаторската примена на регулаторните давачки, од страна на земјите членки, кои се специјално проектирани за намалување на сообраќајниот метеж или борбата против влијанијата врз животната средина, вклучувајќи го и лошиот квалитет на воздухот, на сите патишта што поминуваат низ урбана област, вклучувајќи ги и трансевропските мрежни патишта што ги преминуваат пресекуваат урбаните области.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "1"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 247,
+          "en": "‘1a.",
+          "mk1": "„1a.",
+          "mk2": "ото:",
+          "score": 0,
+          "status": "UNMATCHED",
+          "cardinality": "N:M",
+          "mk2_span": [
+            170,
+            172
+          ],
+          "mk2_char_span": [
+            44531,
+            44535
+          ],
+          "evidence": {
+            "token_count": 71,
+            "references_preserved": false,
+            "neighbor_window": [
+              246,
+              248
+            ],
+            "atom_window": [
+              170,
+              172
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        },
+        "current": {
+          "index": 248,
+          "en": "This Directive shall not prevent the non-discriminatory application by Member States of regulatory charges specifically designed to reduce traffic congestion or combat environmental impacts, including poor air quality, on any roads located in an urban area, including trans-European network roads crossing urban areas.",
+          "mk1": "Оваа директива не ја попречува недискриминаторската примена на регулаторните давачки, од страна на земјите членки, кои се специјално проектирани за намалување на сообраќајниот метеж или борба против влијанијата врз животната средина, вклучувајќи го и лошиот квалитет на воздухот, на сите патишта што поминуваат низ урбана област, вклучувајќи ги и трансевропските мрежни патишта што ги преминуваат урбаните области.",
+          "mk2": "„1a.Оваа директива не ја попречува недискриминаторската примена на регулаторните давачки, од страна на земјите членки, кои се специјално проектирани за намалување на сообраќајниот метеж или борбата против влијанијата врз животната средина, вклучувајќи го и лошиот квалитет на воздухот, на сите патишта што поминуваат низ урбана област, вклучувајќи ги и трансевропските мрежни патишта што ги преминуваат пресекуваат урбаните области.",
+          "score": 0.9795918367346939,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            170,
+            172
+          ],
+          "mk2_char_span": [
+            44535,
+            44968
+          ],
+          "evidence": {
+            "token_count": 71,
+            "references_preserved": false,
+            "neighbor_window": [
+              246,
+              248
+            ],
+            "atom_window": [
+              170,
+              172
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 249,
+          "en": "Member States shall determine the use of revenues generated by this Directive.",
+          "mk1": "Земјите членки ја утврдуваат употребата на приходи кои се генерираат со оваа директива.",
+          "mk2": "2.Земјите членки ја утврдуваатодлучуваат за употребата на приходи кои се генерираат со врз основа на",
+          "score": 0.8172043010752689,
+          "status": "REVIEW",
+          "cardinality": "N:1",
+          "mk2_span": [
+            172,
+            173
+          ],
+          "mk2_char_span": [
+            44969,
+            45069
+          ],
+          "evidence": {
+            "token_count": 104,
+            "references_preserved": false,
+            "neighbor_window": [
+              249,
+              251
+            ],
+            "atom_window": [
+              172,
+              173
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        }
+      }
+    },
+    {
+      "celex": "32013R1291",
+      "tmx_tu_id": "32013R1291:132",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "This Regulation establishes Horizon 2020 - the Framework Programme for Research and Innovation (2014-2020) (\"Horizon 2020\") and determines the framework governing Union support to research and innovation activities, thereby strengthening the European scientific and technological base and fostering benefits for society as well as better exploitation of the economic and industrial potential of policies of innovation, research and technological development.",
+      "mk2": "а ја воспоставува Хоризонт 2020 „Хоризонт 2020“ - Рамковна програма за истражување и иновации (2014-2020) („Хоризонт 2020“) и ја одредува рамката што ја регулира поддршката на Унијата за активностите за истражување и иновативност, а со тоа ја зајакнува европската научна и технолошка база и поттикнува придобивки за општеството, како и подобро искористување на економскиот и индустрискиот потенцијал на политиките на иновации, истражување и технолошки развој.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "2020",
+            "2014-2020"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "2020",
+            "2014-2020"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 2
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 131,
+          "en": "Subject matter",
+          "mk1": "Содржина",
+          "mk2": "егулатив",
+          "score": 0.125,
+          "status": "UNMATCHED",
+          "cardinality": "N:1",
+          "mk2_span": [
+            67,
+            68
+          ],
+          "mk2_char_span": [
+            29781,
+            29789
+          ],
+          "evidence": {
+            "token_count": 65,
+            "references_preserved": false,
+            "neighbor_window": [
+              130,
+              132
+            ],
+            "atom_window": [
+              67,
+              68
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        },
+        "current": {
+          "index": 132,
+          "en": "This Regulation establishes Horizon 2020 - the Framework Programme for Research and Innovation (2014-2020) (\"Horizon 2020\") and determines the framework governing Union support to research and innovation activities, thereby strengthening the European scientific and technological base and fostering benefits for society as well as better exploitation of the economic and industrial potential of policies of innovation, research and technological development.",
+          "mk1": "Оваа регулатива ја воспоставува Хоризонт 2020 - Рамковна програма за истражување и иновации (2014-2020) („Хоризонт 2020“) и ја одредува рамката што ја регулира поддршката на Унијата за активностите за истражување и иновативност, а со тоа ја зајакнува европската научна и технолошка база и поттикнува придобивки за општеството, како и подобро искористување на економскиот и индустрискиот потенцијал на политиките на иновации, истражување и технолошки развој.",
+          "mk2": "а ја воспоставува Хоризонт 2020 „Хоризонт 2020“ - Рамковна програма за истражување и иновации (2014-2020) („Хоризонт 2020“) и ја одредува рамката што ја регулира поддршката на Унијата за активностите за истражување и иновативност, а со тоа ја зајакнува европската научна и технолошка база и поттикнува придобивки за општеството, како и подобро искористување на економскиот и индустрискиот потенцијал на политиките на иновации, истражување и технолошки развој.",
+          "score": 0.9685393258426966,
+          "status": "HIGH",
+          "cardinality": "N:1",
+          "mk2_span": [
+            67,
+            68
+          ],
+          "mk2_char_span": [
+            29789,
+            30248
+          ],
+          "evidence": {
+            "token_count": 65,
+            "references_preserved": false,
+            "neighbor_window": [
+              130,
+              132
+            ],
+            "atom_window": [
+              67,
+              68
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 133,
+          "en": "Definitions",
+          "mk1": "Дефиниции",
+          "mk2": "Член 2 Деф",
+          "score": 0.3157894736842105,
+          "status": "UNMATCHED",
+          "cardinality": "N:M",
+          "mk2_span": [
+            68,
+            71
+          ],
+          "mk2_char_span": [
+            30249,
+            30259
+          ],
+          "evidence": {
+            "token_count": 12,
+            "references_preserved": true,
+            "neighbor_window": [
+              133,
+              134
+            ],
+            "atom_window": [
+              68,
+              71
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        }
+      }
+    },
+    {
+      "celex": "32013R1299",
+      "tmx_tu_id": "32013R1299:192",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "At least 80 % of the ERDF allocation to each cross-border cooperation and transnational programme shall be concentrated on a maximum of four of the thematic objectives set out in the first paragraph of Article 9 of Regulation (EU) No 1303/2013.",
+      "mk2": "ација Најмалку 80 % од распределбата на ЕФРР за секоја програма за прекугранична соработка и транснационалната програма се концентрира на максимум четири тематски цели утврдени во првиот став од член 9 од Регулатива (ЕУ) бр. 1303/2013.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "80",
+            "9",
+            "1303/2013"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "80",
+            "9",
+            "1303/2013"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 2
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 191,
+          "en": "Thematic concentration",
+          "mk1": "Тематска концентрација",
+          "mk2": "Член 6 Тематска концентр",
+          "score": 0.7391304347826086,
+          "status": "REVIEW",
+          "cardinality": "N:M",
+          "mk2_span": [
+            118,
+            121
+          ],
+          "mk2_char_span": [
+            43876,
+            43900
+          ],
+          "evidence": {
+            "token_count": 38,
+            "references_preserved": true,
+            "neighbor_window": [
+              191,
+              192
+            ],
+            "atom_window": [
+              118,
+              121
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        },
+        "current": {
+          "index": 192,
+          "en": "At least 80 % of the ERDF allocation to each cross-border cooperation and transnational programme shall be concentrated on a maximum of four of the thematic objectives set out in the first paragraph of Article 9 of Regulation (EU) No 1303/2013.",
+          "mk1": "Најмалку 80% од распределбата на ЕФРР за секоја прекугранична соработка и транснационалната програма се концентрира на максимум четири тематски цели утврдени во првиот став од член 9 од Регулатива (ЕУ) бр. 1303/2013.",
+          "mk2": "ација Најмалку 80 % од распределбата на ЕФРР за секоја програма за прекугранична соработка и транснационалната програма се концентрира на максимум четири тематски цели утврдени во првиот став од член 9 од Регулатива (ЕУ) бр. 1303/2013.",
+          "score": 0.9590909090909091,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            118,
+            121
+          ],
+          "mk2_char_span": [
+            43900,
+            44135
+          ],
+          "evidence": {
+            "token_count": 38,
+            "references_preserved": true,
+            "neighbor_window": [
+              191,
+              192
+            ],
+            "atom_window": [
+              118,
+              121
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 193,
+          "en": "Investment priorities",
+          "mk1": "Инвестициски приоритети",
+          "mk2": "",
+          "score": 0.19166666666666668,
+          "status": "UNMATCHED",
+          "cardinality": "0:0",
+          "evidence": {
+            "reason": "No sufficiently local non-overlapping candidate."
+          },
+          "export_status": "UNMATCHED"
+        }
+      }
+    },
+    {
+      "celex": "32013R1379",
+      "tmx_tu_id": "32013R1379:112",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "Fishery producer organisations and aquaculture producer organisations (\"producer organisations\") may be established on the initiative of producers of fishery or aquaculture products in one or more Member States and recognised in accordance with Section II.",
+      "mk2": "ра Организациите на производители во секторот рибарство и организациите на производители во секторот аквакултура („организации на производители“) може да се основаат на иницијатива на производителите на производи од рибарство и аквакултура, во една или во повеќе земји членки и да бидат признаени во согласност со Дел Оддел II.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 111,
+          "en": "Establishment of fishery producer organisations and aquaculture producer organisations",
+          "mk1": "Основање организации на производители во секторот рибарство и организации на производители во секторот аквакултура",
+          "mk2": "Член 6 Основање организации на производители во секторот рибарство и организации на производители во секторот аквакулту",
+          "score": 0.9613733905579399,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            79,
+            82
+          ],
+          "mk2_char_span": [
+            16449,
+            16568
+          ],
+          "evidence": {
+            "token_count": 63,
+            "references_preserved": true,
+            "neighbor_window": [
+              111,
+              112
+            ],
+            "atom_window": [
+              79,
+              82
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "current": {
+          "index": 112,
+          "en": "Fishery producer organisations and aquaculture producer organisations (\"producer organisations\") may be established on the initiative of producers of fishery or aquaculture products in one or more Member States and recognised in accordance with Section II.",
+          "mk1": "Организациите на производители во секторот рибарство и организациите на производители во секторот аквакултура („организации на производители“) може да се основаат на иницијатива на производителите на производи од рибарство и аквакултура, во една или повеќе земји членки и да бидат признаени во согласност со Дел II.",
+          "mk2": "ра Организациите на производители во секторот рибарство и организациите на производители во секторот аквакултура („организации на производители“) може да се основаат на иницијатива на производителите на производи од рибарство и аквакултура, во една или во повеќе земји членки и да бидат признаени во согласност со Дел Оддел II.",
+          "score": 0.9809523809523809,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            79,
+            82
+          ],
+          "mk2_char_span": [
+            16568,
+            16895
+          ],
+          "evidence": {
+            "token_count": 63,
+            "references_preserved": true,
+            "neighbor_window": [
+              111,
+              112
+            ],
+            "atom_window": [
+              79,
+              82
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 113,
+          "en": "Where relevant, the specific situation of small-scale producers shall be taken into account when establishing producer organisations.",
+          "mk1": "При основањето организации на производители, таму каде што е релевантно, ќе се земе предвид посебната ситуација на малите производители,",
+          "mk2": "При основањето организации на производители, таму каде што е релевантно, ќе се земе предвид посебната ситуација на малите производители.,",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            82,
+            83
+          ],
+          "mk2_char_span": [
+            16896,
+            17033
+          ],
+          "evidence": {
+            "token_count": 19,
+            "references_preserved": true,
+            "neighbor_window": [
+              113,
+              113
+            ],
+            "atom_window": [
+              82,
+              83
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32014L0110",
+      "tmx_tu_id": "32014L0110:19",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication.",
+      "mk2": "Кога земјите членки ги донесуваат овие одредби, тие содржат упатување кон оваа директива или се придружени со таквото упатување при нивното официјално објавување.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 18,
+          "en": "They shall forthwith communicate to the Commission the text of those provisions.",
+          "mk1": "Тие веднаш ја известуваат Комисијата за текстот на тие одредби.",
+          "mk2": "ваа директива, најдоцна до 31 декември 2015 година. Тие веднаш го доставуваат доја известуваат Комисијата за текстот на тие одредби.",
+          "score": 0.6492146596858639,
+          "status": "UNMATCHED",
+          "cardinality": "N:M",
+          "mk2_span": [
+            17,
+            20
+          ],
+          "mk2_char_span": [
+            2383,
+            2515
+          ],
+          "evidence": {
+            "token_count": 65,
+            "references_preserved": true,
+            "neighbor_window": [
+              17,
+              18
+            ],
+            "atom_window": [
+              17,
+              20
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        },
+        "current": {
+          "index": 19,
+          "en": "When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication.",
+          "mk1": "Кога земјите членки ги донесуваат овие одредби, тие содржат упатување кон оваа директива или се придружени со таквото упатување при нивното официјално објавување.",
+          "mk2": "Кога земјите членки ги донесуваат овие одредби, тие содржат упатување кон оваа директива или се придружени со таквото упатување при нивното официјално објавување.",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "N:1",
+          "mk2_span": [
+            20,
+            21
+          ],
+          "mk2_char_span": [
+            2516,
+            2679
+          ],
+          "evidence": {
+            "token_count": 32,
+            "references_preserved": true,
+            "neighbor_window": [
+              19,
+              20
+            ],
+            "atom_window": [
+              20,
+              21
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 20,
+          "en": "Member States shall determine how such reference is to be made.",
+          "mk1": "Земјите членки одредуваат како ќе се изготви тоа упатување.",
+          "mk2": "Земјите членки одредуваат како ќе се изготви тоа упатување.",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "N:1",
+          "mk2_span": [
+            20,
+            21
+          ],
+          "mk2_char_span": [
+            2679,
+            2738
+          ],
+          "evidence": {
+            "token_count": 32,
+            "references_preserved": true,
+            "neighbor_window": [
+              19,
+              20
+            ],
+            "atom_window": [
+              20,
+              21
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32014R0447",
+      "tmx_tu_id": "32014R0447:101",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "The IPA II beneficiary shall establish the following structures and authorities needed for the management, control, supervision, monitoring, evaluation, reporting and internal audit of IPA II assistance:",
+      "mk2": "ргани Корисникот на ИПА II ги воспоставува следниве структури и органи потребни за управување, контрола, надзор, следење, оценување, известување и внатрешна ревизија на помошта од ИПА II помошта:",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 100,
+          "en": "Structures and authorities",
+          "mk1": "Структури и органи",
+          "mk2": "Член 7 Структури и о",
+          "score": 0.6842105263157895,
+          "status": "UNMATCHED",
+          "cardinality": "N:M",
+          "mk2_span": [
+            84,
+            87
+          ],
+          "mk2_char_span": [
+            14625,
+            14645
+          ],
+          "evidence": {
+            "token_count": 32,
+            "references_preserved": true,
+            "neighbor_window": [
+              100,
+              101
+            ],
+            "atom_window": [
+              84,
+              87
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        },
+        "current": {
+          "index": 101,
+          "en": "The IPA II beneficiary shall establish the following structures and authorities needed for the management, control, supervision, monitoring, evaluation, reporting and internal audit of IPA II assistance:",
+          "mk1": "Корисникот на ИПА II ги воспоставува следниве структури и органи потребни за управување, контрола, надзор, следење, оценување, известување и внатрешна ревизија на ИПА II помошта:",
+          "mk2": "ргани Корисникот на ИПА II ги воспоставува следниве структури и органи потребни за управување, контрола, надзор, следење, оценување, известување и внатрешна ревизија на помошта од ИПА II помошта:",
+          "score": 0.9529085872576177,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            84,
+            87
+          ],
+          "mk2_char_span": [
+            14645,
+            14840
+          ],
+          "evidence": {
+            "token_count": 32,
+            "references_preserved": true,
+            "neighbor_window": [
+              100,
+              101
+            ],
+            "atom_window": [
+              84,
+              87
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 102,
+          "en": "(a) the National IPA Coordinator (NIPAC);",
+          "mk1": "(а) национален ИПА координатор (НИПАК);",
+          "mk2": "(а)национален ИПА- координатор (НИПАК);",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            87,
+            88
+          ],
+          "mk2_char_span": [
+            14841,
+            14880
+          ],
+          "evidence": {
+            "token_count": 5,
+            "references_preserved": true,
+            "neighbor_window": [
+              102,
+              102
+            ],
+            "atom_window": [
+              87,
+              88
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32014R0788",
+      "tmx_tu_id": "32014R0788:100",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "(b) the criteria and, as the case may be, thresholds defined in Commission Decision 2009/491/EC.",
+      "mk2": "(б)критериумите и, во зависност од случајот, праговите дефинирани во Одлуката 2009/491/EЗ на Комисијата.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "2009/491"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "2009/491"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 1
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 99,
+          "en": "(a) the information and circumstances referred to in Article 7(2) of Regulation (EC) No 391/2009, particularly in light of the circumstances referred to in Articles 5 and 6 of this Regulation;",
+          "mk1": "(а) информациите и околностите наведени во член 7(2) од Регулативата (ЕЗ) бр. 391/2009, особено во поглед на околностите наведени во членовите 5 и 6 од оваа регулатива;",
+          "mk2": ": (а)информациите и околностите наведени во член 7(2) од Регулативата (ЕЗ) бр. 391/2009, особено во поглед на околностите наведени во членовите 5 и 6 од оваа регулатива;",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            95,
+            98
+          ],
+          "mk2_char_span": [
+            18804,
+            18973
+          ],
+          "evidence": {
+            "token_count": 79,
+            "references_preserved": true,
+            "neighbor_window": [
+              98,
+              100
+            ],
+            "atom_window": [
+              95,
+              98
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "current": {
+          "index": 100,
+          "en": "(b) the criteria and, as the case may be, thresholds defined in Commission Decision 2009/491/EC.",
+          "mk1": "(б) критериумите и, во зависност од случајот, праговите дефинирани во Одлуката 2009/491/EЗ на Комисијата.",
+          "mk2": "(б)критериумите и, во зависност од случајот, праговите дефинирани во Одлуката 2009/491/EЗ на Комисијата.",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            95,
+            98
+          ],
+          "mk2_char_span": [
+            18973,
+            19078
+          ],
+          "evidence": {
+            "token_count": 79,
+            "references_preserved": true,
+            "neighbor_window": [
+              98,
+              100
+            ],
+            "atom_window": [
+              95,
+              98
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 101,
+          "en": "When fines and periodic penalty payments imposed on a recognised organisation reach the maximum ceiling established in accordance with Article 6(3) of Regulation (EC) No 391/2009 and appropriate corrective action has not been taken by the recognised organisation, the Commission may consider that these measures have not attained their objective of removing any potential threat to safety or the environment.",
+          "mk1": "Кога глобите и периодичните парични казни изречени врз признатата организација го достигнуваат максималниот лимит утврден во согласност со член 6(3) од Регулативата (ЕЗ) бр 391/2009 и не се преземени соодветни корективни мерки од страна на признатата организација, Комисијата може да смета дека овие мерки не ја постигнале својата цел за отстранување на потенцијална закана за безбедноста или животната средина.",
+          "mk2": "3.Кога глобите и периодичните парични казни изречени врз признатата организација јаго достигнуваат максималната горна границаиот лимит утврдена во согласност со член 6(3) од Регулативата (ЕЗ) бр 391/2009 и не се преземени соодветни корективни мерки од страна на признатата организација, Комисијата може да смета дека овие мерки не ја постигнале својата цел за отстранување на каква било потенцијална закана за безбедноста или животната средина.",
+          "score": 0.9609467455621302,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            98,
+            99
+          ],
+          "mk2_char_span": [
+            19079,
+            19523
+          ],
+          "evidence": {
+            "token_count": 65,
+            "references_preserved": true,
+            "neighbor_window": [
+              101,
+              101
+            ],
+            "atom_window": [
+              98,
+              99
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32015D1874",
+      "tmx_tu_id": "32015D1874:11",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "(1) A Risk Assessment Report on 4-methylamphetamine was drawn up in accordance with Article 6 of Decision 2005/387/JHA by a special session of the extended Scientific Committee of the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA), and was subsequently received by the Commission on 29 November 2012.",
+      "mk2": "(1)Извештај за проценкапроцена на ризик за 4-метиламфетамин беше изготвен во согласност со член 6 од Одлуката 2005/387/ПВР од проширениот научен одбор комитет на Европскиот центар за следење на дрога и зависност од дрога (ЕМЦДДА) во текот на посебна седница, а Комисијата го прими доби на 29 ноември 2012 година.",
+      "anchors": {
+        "en": {
+          "leading_number": "1",
+          "numbers": [
+            "1",
+            "4",
+            "6",
+            "2005/387",
+            "29",
+            "2012"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": "1",
+          "numbers": [
+            "1",
+            "4",
+            "6",
+            "2005/387",
+            "29",
+            "2012"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 4
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 10,
+          "en": "Whereas:",
+          "mk1": "со оглед на тоа што:",
+          "mk2": "со оглед на тоа што:",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            8,
+            9
+          ],
+          "mk2_char_span": [
+            523,
+            543
+          ],
+          "evidence": {
+            "token_count": 5,
+            "references_preserved": true,
+            "neighbor_window": [
+              10,
+              10
+            ],
+            "atom_window": [
+              8,
+              9
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "current": {
+          "index": 11,
+          "en": "(1) A Risk Assessment Report on 4-methylamphetamine was drawn up in accordance with Article 6 of Decision 2005/387/JHA by a special session of the extended Scientific Committee of the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA), and was subsequently received by the Commission on 29 November 2012.",
+          "mk1": "(1) Извештај за проценка на ризик за 4-метиламфетамин беше изготвен во согласност со член 6 од Одлуката 2005/387/ПВР од проширениот научен одбор на Европскиот центар за следење на дрога и зависност од дрога (ЕМЦДДА) во текот на посебна седница, а Комисијата го прими на 29 ноември 2012 година.",
+          "mk2": "(1)Извештај за проценкапроцена на ризик за 4-метиламфетамин беше изготвен во согласност со член 6 од Одлуката 2005/387/ПВР од проширениот научен одбор комитет на Европскиот центар за следење на дрога и зависност од дрога (ЕМЦДДА) во текот на посебна седница, а Комисијата го прими доби на 29 ноември 2012 година.",
+          "score": 0.9663299663299664,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            9,
+            10
+          ],
+          "mk2_char_span": [
+            544,
+            856
+          ],
+          "evidence": {
+            "token_count": 50,
+            "references_preserved": true,
+            "neighbor_window": [
+              11,
+              11
+            ],
+            "atom_window": [
+              9,
+              10
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 12,
+          "en": "(2) 4-methylamphetamine is a synthetic ring-methylated derivative of amphetamine which has predominantly been seized in powder and paste form in samples containing amphetamine and caffeine, but which has also appeared in tablet and liquid form.",
+          "mk1": "(2) 4-метиламфетамин е синтетички дериват на амфетамин со метилиран прстен кој најчесто бил запленет во форма на прашок или паста во мостри кои содржат амфетамин и кофеин, но исто така се јавувал и во форма на таблети и во течна форма.",
+          "mk2": "(2)4-метиламфетамин е синтетички дериват на амфетамин со метилиран прстен кој што најчесто бил запленет во форма на прашок или паста во мостри кои што содржат амфетамин и кофеин, но исто така се јавувал и во форма на таблети и во течна форма. Тој се појавил на нелегалниот пазар за амфетамини каде што се продавал и се користел како контролирана дрога, амфетамин. Во еден извештај е наведено дека су",
+          "score": 0.7392,
+          "status": "REVIEW",
+          "cardinality": "N:1",
+          "mk2_span": [
+            10,
+            11
+          ],
+          "mk2_char_span": [
+            857,
+            1256
+          ],
+          "evidence": {
+            "token_count": 118,
+            "references_preserved": true,
+            "neighbor_window": [
+              12,
+              14
+            ],
+            "atom_window": [
+              10,
+              11
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        }
+      }
+    },
+    {
+      "celex": "32015D1875",
+      "tmx_tu_id": "32015D1875:44",
+      "classification": "MISALIGNED",
+      "reason": "Current pair conflicts (leading paragraph 37 != 36; country Ireland missing from MK2; unexpected country Denmark in MK2; numeric/legal anchors missing: 37); neighboring result index 45 matches all deterministic anchors.",
+      "en": "(37) Ireland is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision which implements Decision 2005/387/JHA.",
+      "mk2": "(36)Данска е обврзана со Одлуката 2005/387/ПВР и поради тоа таазатоа учествува во донесувањето и во примената на оваа одлука со која се спроведува Одлуката 2005/387/ПВР.",
+      "anchors": {
+        "en": {
+          "leading_number": "37",
+          "numbers": [
+            "37",
+            "2005/387"
+          ],
+          "countries": [
+            "Ireland"
+          ]
+        },
+        "mk": {
+          "leading_number": "36",
+          "numbers": [
+            "36",
+            "2005/387"
+          ],
+          "countries": [
+            "Denmark"
+          ]
+        },
+        "reasons": [
+          "leading paragraph 37 != 36",
+          "country Ireland missing from MK2",
+          "unexpected country Denmark in MK2",
+          "numeric/legal anchors missing: 37"
+        ],
+        "anchor_count": 4
+      },
+      "correct_neighbor_mk2": {
+        "result_index": 45,
+        "mk2": "(37)Ирска е обврзана со Одлуката 2005/387/ПВР и поради тоа таазатоа учествува во донесувањето и во примената на оваа одлука со која се спроведува Одлуката 2005/387/ПВР."
+      },
+      "context": {
+        "previous": {
+          "index": 43,
+          "en": "(36) Denmark is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision which implements Decision 2005/387/JHA.",
+          "mk1": "(36) Данска е обврзана со Одлуката 2005/387/ПВР и поради тоа таа учествува во донесувањето и примената на оваа одлука со која се спроведува Одлуката 2005/387/ПВР.",
+          "mk2": "",
+          "score": 0.41924851680949243,
+          "status": "UNMATCHED",
+          "cardinality": "0:0",
+          "evidence": {
+            "reason": "No sufficiently local non-overlapping candidate."
+          },
+          "export_status": "UNMATCHED"
+        },
+        "current": {
+          "index": 44,
+          "en": "(37) Ireland is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision which implements Decision 2005/387/JHA.",
+          "mk1": "(37) Ирска е обврзана со Одлуката 2005/387/ПВР и поради тоа таа учествува во донесувањето и примената на оваа одлука со која се спроведува Одлуката 2005/387/ПВР.",
+          "mk2": "(36)Данска е обврзана со Одлуката 2005/387/ПВР и поради тоа таазатоа учествува во донесувањето и во примената на оваа одлука со која се спроведува Одлуката 2005/387/ПВР.",
+          "score": 0.9538461538461539,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            44,
+            45
+          ],
+          "mk2_char_span": [
+            19486,
+            19655
+          ],
+          "evidence": {
+            "token_count": 26,
+            "references_preserved": true,
+            "neighbor_window": [
+              44,
+              44
+            ],
+            "atom_window": [
+              44,
+              45
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 45,
+          "en": "(38) The United Kingdom is not bound by Decision 2005/387/JHA and is therefore not taking part in the adoption of this Decision which implements Decision 2005/387/JHA and is not bound by it or subject to its application,",
+          "mk1": "(38) Обдинетото Кралство не е обврзано со Одлуката 2005/387/ПВР и поради тоа не учествува во донесувањето на оваа одлука со која се спроведува Одлуката 2005/387/ПВР и не е обврзана со неа и не подложи на нејзина примена,",
+          "mk2": "(37)Ирска е обврзана со Одлуката 2005/387/ПВР и поради тоа таазатоа учествува во донесувањето и во примената на оваа одлука со која се спроведува Одлуката 2005/387/ПВР.",
+          "score": 0.7258485639686684,
+          "status": "REVIEW",
+          "cardinality": "1:1",
+          "mk2_span": [
+            45,
+            46
+          ],
+          "mk2_char_span": [
+            19656,
+            19824
+          ],
+          "evidence": {
+            "token_count": 26,
+            "references_preserved": true,
+            "neighbor_window": [
+              45,
+              45
+            ],
+            "atom_window": [
+              45,
+              46
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        }
+      }
+    },
+    {
+      "celex": "32015D1876",
+      "tmx_tu_id": "32015D1876:11",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "(1) A Risk Assessment Report on the new psychoactive substance 5-(2-aminopropyl)indole was drawn up in accordance with Article 6 of Decision 2005/387/JHA by the extended Scientific Committee of the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) during a special session, and was subsequently submitted to the Commission and to the Council on 16 April 2013.",
+      "mk2": "(1)Извештај Беше изготвен извештај за проценка на ризик за новата психоактивна супстанција 5-(2-аминопропил)индол беше изготвен во согласност со член 6 од Одлуката 2005/387/ПВР од страна на проширениот научен одбор комитет на Европскиот центар за следење на дрога и зависност од дрога (ЕМЦДДА) во текот на посебна седница, а на 16 април 2013 година беше дополнително доставен до Комисијата и до Советот.",
+      "anchors": {
+        "en": {
+          "leading_number": "1",
+          "numbers": [
+            "1",
+            "5",
+            "2",
+            "6",
+            "2005/387",
+            "16",
+            "2013"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": "1",
+          "numbers": [
+            "1",
+            "5",
+            "2",
+            "6",
+            "2005/387",
+            "16",
+            "2013"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 4
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 10,
+          "en": "Whereas:",
+          "mk1": "со оглед на тоа што:",
+          "mk2": "со оглед на тоа што:",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            8,
+            9
+          ],
+          "mk2_char_span": [
+            535,
+            555
+          ],
+          "evidence": {
+            "token_count": 5,
+            "references_preserved": true,
+            "neighbor_window": [
+              10,
+              10
+            ],
+            "atom_window": [
+              8,
+              9
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "current": {
+          "index": 11,
+          "en": "(1) A Risk Assessment Report on the new psychoactive substance 5-(2-aminopropyl)indole was drawn up in accordance with Article 6 of Decision 2005/387/JHA by the extended Scientific Committee of the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) during a special session, and was subsequently submitted to the Commission and to the Council on 16 April 2013.",
+          "mk1": "(1) Извештај за проценка на ризик за новата психоактивна супстанција 5-(2-аминопропил)индол беше изготвен во согласност со член 6 од Одлуката 2005/387/ПВР од проширениот научен одбор на Европскиот центар за следење на дрога и зависност од дрога (ЕМЦДДА) во текот на посебна седница,а на 16 април 2013 година беше доставен до Комисијата и до Советот.",
+          "mk2": "(1)Извештај Беше изготвен извештај за проценка на ризик за новата психоактивна супстанција 5-(2-аминопропил)индол беше изготвен во согласност со член 6 од Одлуката 2005/387/ПВР од страна на проширениот научен одбор комитет на Европскиот центар за следење на дрога и зависност од дрога (ЕМЦДДА) во текот на посебна седница, а на 16 април 2013 година беше дополнително доставен до Комисијата и до Советот.",
+          "score": 0.927027027027027,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            9,
+            10
+          ],
+          "mk2_char_span": [
+            556,
+            959
+          ],
+          "evidence": {
+            "token_count": 64,
+            "references_preserved": true,
+            "neighbor_window": [
+              11,
+              11
+            ],
+            "atom_window": [
+              9,
+              10
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 12,
+          "en": "(2) The substance 5-(2-aminopropyl)indole is a synthetic derivative of indole substituted at the phenyl side of the indole ring system.",
+          "mk1": "(2) Супстанцијата 5-(2-аминопропил)индол е синтетички дериват на индол супституиран на ферилната страна на индоловиот прстен.",
+          "mk2": "(2)Супстанцијата 5-(2-аминопропил)индол е синтетички дериват на индол супституиран заменет на ферилната фенилната страна на индоловиот прстен. Таа е стимулативна супстанција која што исто така може да има и халуциногени халуциногено ефектидејство. 5-(2-аминопропил)индол најчесто се наоѓа во",
+          "score": 0.5945945945945946,
+          "status": "UNMATCHED",
+          "cardinality": "N:1",
+          "mk2_span": [
+            10,
+            11
+          ],
+          "mk2_char_span": [
+            960,
+            1251
+          ],
+          "evidence": {
+            "token_count": 105,
+            "references_preserved": true,
+            "neighbor_window": [
+              12,
+              14
+            ],
+            "atom_window": [
+              10,
+              11
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        }
+      }
+    },
+    {
+      "celex": "32015L0565",
+      "tmx_tu_id": "32015L0565:12",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "In order to facilitate traceability it is necessary to establish a unique identifier applied to tissues and cells distributed in the Union (Single European Code) providing information on the main characteristics and properties of those tissues and cells.",
+      "mk2": "Со цел да се олесни следливоста, потребно е да се воспостави единствен идентификатор применлив на ткивата и клетките дистрибуирани во Унијата (единствен европски код), што обезбедува информации за главните карактеристики и својства на тие ткива и клетки.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 11,
+          "en": "Directive 2004/23/EC requires that Member States ensure the traceability of human tissues and cells from the donor to the recipient and vice versa.",
+          "mk1": "Директивата 2004/23/ЕЗ бара од земјите членки да обезбедат следливост на човечките ткива и клетки од донаторот до примателот и обратно.",
+          "mk2": "земјите членки да обезбедат следливост на човечките ткива и клетки од донаторот до примателот и обратно.",
+          "score": 0.869198312236287,
+          "status": "REVIEW",
+          "cardinality": "N:M",
+          "mk2_span": [
+            8,
+            10
+          ],
+          "mk2_char_span": [
+            645,
+            750
+          ],
+          "evidence": {
+            "token_count": 25,
+            "references_preserved": false,
+            "neighbor_window": [
+              9,
+              11
+            ],
+            "atom_window": [
+              8,
+              10
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        },
+        "current": {
+          "index": 12,
+          "en": "In order to facilitate traceability it is necessary to establish a unique identifier applied to tissues and cells distributed in the Union (Single European Code) providing information on the main characteristics and properties of those tissues and cells.",
+          "mk1": "Со цел да се олесни следливоста, потребно е да се воспостави единствен идентификатор применлив на ткивата и клетките дистрибуирани во Унијата (единствен европски код), што обезбедува информации за главните карактеристики и својства на тие ткива и клетки.",
+          "mk2": "Со цел да се олесни следливоста, потребно е да се воспостави единствен идентификатор применлив на ткивата и клетките дистрибуирани во Унијата (единствен европски код), што обезбедува информации за главните карактеристики и својства на тие ткива и клетки.",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            10,
+            11
+          ],
+          "mk2_char_span": [
+            751,
+            1005
+          ],
+          "evidence": {
+            "token_count": 37,
+            "references_preserved": true,
+            "neighbor_window": [
+              12,
+              12
+            ],
+            "atom_window": [
+              10,
+              11
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 13,
+          "en": "In order to ensure a uniform implementation of the Single European Code throughout the Union, obligations of the Member States competent authorities and of the tissue establishments for the application of the Single European Code should be set out.",
+          "mk1": "За да се обезбеди еднообразна примена на Единствениот европски код низ целата Унија, треба да се утврдат обврските на надлежните органи на земјите членки и на банките за ткива за примената на единствениот европски код.",
+          "mk2": "За да се обезбеди осигури еднообразноа примена спроведување на Единствениот европски код низ целата Унија, треба да се утврдат обврските на надлежните органи на земјите членки и на банките за ткива за примената на единствениот европски",
+          "score": 0.9422222222222222,
+          "status": "HIGH",
+          "cardinality": "N:1",
+          "mk2_span": [
+            11,
+            12
+          ],
+          "mk2_char_span": [
+            1006,
+            1241
+          ],
+          "evidence": {
+            "token_count": 50,
+            "references_preserved": true,
+            "neighbor_window": [
+              13,
+              14
+            ],
+            "atom_window": [
+              11,
+              12
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32015L2302",
+      "tmx_tu_id": "32015L2302:238",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "Notice given at the latest seven days before the start of the package shall in any event be deemed to be reasonable.",
+      "mk2": "звестување испратено најмалку седум дена пред започнувањето на пакет -аранжманот се смена смета во секој случај за известување дадено во разумен рок.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 237,
+          "en": "Member States shall ensure that a traveller may, after giving the organiser reasonable notice on a durable medium before the start of the package, transfer the package travel contract to a person who satisfies all the conditions applicable to that contract.",
+          "mk1": "Земјите членки обезбедуваат дека патникот може, откако за тоа го известил организаторот во разумен рок и на траен носител на податоци пред започнувањето на пакет аранжманот, да го пренесе договорот за патување со пакет аранжман на лице што ги исполнува сите услови применливи на тој договор.",
+          "mk2": "патник Земјите членки обезбедуваат дека патникот може, откако за тоа го известил организаторот во разумен рок и на траен носител на податоци пред започнувањето на пакет -аранжманот, да го пренесе договорот за патување со пакет -аранжман на лице што ги исполнува сите услови применливи на тој договор. И",
+          "score": 0.9846153846153847,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            171,
+            174
+          ],
+          "mk2_char_span": [
+            55822,
+            56124
+          ],
+          "evidence": {
+            "token_count": 81,
+            "references_preserved": true,
+            "neighbor_window": [
+              236,
+              238
+            ],
+            "atom_window": [
+              171,
+              174
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "current": {
+          "index": 238,
+          "en": "Notice given at the latest seven days before the start of the package shall in any event be deemed to be reasonable.",
+          "mk1": "Известување испратено најмалку седум дена пред започнувањето на пакет аранжманот се смена во секој случај за известување дадено во разумен рок.",
+          "mk2": "звестување испратено најмалку седум дена пред започнувањето на пакет -аранжманот се смена смета во секој случај за известување дадено во разумен рок.",
+          "score": 0.9757785467128027,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            171,
+            174
+          ],
+          "mk2_char_span": [
+            56124,
+            56273
+          ],
+          "evidence": {
+            "token_count": 81,
+            "references_preserved": true,
+            "neighbor_window": [
+              236,
+              238
+            ],
+            "atom_window": [
+              171,
+              174
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 239,
+          "en": "The organiser shall inform the transferor about the actual costs of the transfer.",
+          "mk1": "Организаторот го известува преносителот за стварните трошоци на преносот.",
+          "mk2": "Преносителот и примателот на договорот за патување со пакет -аранжман солидарно се одговорни за плаќањето на износот што се должи и на сите дополни",
+          "score": 0.3119266055045872,
+          "status": "UNMATCHED",
+          "cardinality": "N:1",
+          "mk2_span": [
+            174,
+            175
+          ],
+          "mk2_char_span": [
+            56274,
+            56421
+          ],
+          "evidence": {
+            "token_count": 65,
+            "references_preserved": true,
+            "neighbor_window": [
+              239,
+              240
+            ],
+            "atom_window": [
+              174,
+              175
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        }
+      }
+    },
+    {
+      "celex": "32016R0403",
+      "tmx_tu_id": "32016R0403:15",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "(4) Member States should take into account information on those infringements when setting priorities for the checks targeting undertakings which are classified as posing increased risk, as required by Article 12(1) of Regulation (EC) No 1071/2009.",
+      "mk2": "1/2009. (4)Земјите членки треба да ги земат предвид информациите за овие прекршоци кога поставуваат приоритети за проверките за таргетирање на претпријатија кои се класифицирани како претпријатија кои претставуваат зголемен ризик, како што се бара со член 12(1) од Регулативата (ЕЗ) бр. 1071/2009.",
+      "anchors": {
+        "en": {
+          "leading_number": "4",
+          "numbers": [
+            "4",
+            "12(1)",
+            "1071/2009"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "1/2009",
+            "4",
+            "12(1)",
+            "1071/2009"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 3
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 14,
+          "en": "(3) The list of categories, types and degrees of seriousness of serious infringements to be established should contain infringements of the Union rules relating to the areas outlined in Article 6(1)(b) of Regulation (EC) No 1071/2009.",
+          "mk1": "(3) Листата на категории, видови и степени на сериозност на сериозни прекршоци што треба да се утврди треба да содржи прекршоци на правилата на Унијата во врска со областите наведени во член 6(1)(б) од Регулативата (ЕЗ) бр. 1071/2009.",
+          "mk2": "зен. (3)Листата Списокот на категории, видови и степени на сериозност на сериозни прекршоци што треба да се утврди треба да содржи прекршоци на правилата на Унијата во врска со областите наведени во член 6(1)(б) од Регулативата (ЕЗ) бр. 107",
+          "score": 0.9584245076586433,
+          "status": "REVIEW",
+          "cardinality": "N:M",
+          "mk2_span": [
+            10,
+            13
+          ],
+          "mk2_char_span": [
+            1879,
+            2119
+          ],
+          "evidence": {
+            "token_count": 133,
+            "references_preserved": true,
+            "neighbor_window": [
+              13,
+              15
+            ],
+            "atom_window": [
+              10,
+              13
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        },
+        "current": {
+          "index": 15,
+          "en": "(4) Member States should take into account information on those infringements when setting priorities for the checks targeting undertakings which are classified as posing increased risk, as required by Article 12(1) of Regulation (EC) No 1071/2009.",
+          "mk1": "(4) Земјите членки треба да ги земат предвид информациите за овие прекршоци кога поставуваат приоритети за проверките за таргетирање на претпријатија кои се класифицирани како претпријатија кои претставуваат зголемен ризик, како што се бара со член 12(1) од Регулативата (ЕЗ) бр. 1071/2009.",
+          "mk2": "1/2009. (4)Земјите членки треба да ги земат предвид информациите за овие прекршоци кога поставуваат приоритети за проверките за таргетирање на претпријатија кои се класифицирани како претпријатија кои претставуваат зголемен ризик, како што се бара со член 12(1) од Регулативата (ЕЗ) бр. 1071/2009.",
+          "score": 0.9877408056042032,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            10,
+            13
+          ],
+          "mk2_char_span": [
+            2119,
+            2416
+          ],
+          "evidence": {
+            "token_count": 133,
+            "references_preserved": true,
+            "neighbor_window": [
+              13,
+              15
+            ],
+            "atom_window": [
+              10,
+              13
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 16,
+          "en": "(5) The measures to be adopted are necessary to ensure transparency, fairness and legal certainty in appraising the seriousness of infringements and their implications for good repute of the transport undertaking or the transport manager.",
+          "mk1": "(5) Мерките што треба да се донесат се неопходни за да се обезбеди транспарентност, правичност и правна сигурност во проценувањето на сериозноста на прекршоците и нивните импликации за добар углед на претпријатието за превоз или управителот на превозот.",
+          "mk2": "(5)Мерките што треба да се донесат се неопходни за да се обезбеди транспарентност, правичност и правна сигурност во проценувањето на сериозноста на прекршоците и нивните импликации за добар углед на претпријатието за превоз или управителот на превозот.",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            13,
+            14
+          ],
+          "mk2_char_span": [
+            2417,
+            2669
+          ],
+          "evidence": {
+            "token_count": 38,
+            "references_preserved": true,
+            "neighbor_window": [
+              16,
+              16
+            ],
+            "atom_window": [
+              13,
+              14
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32016R1013",
+      "tmx_tu_id": "32016R1013:111",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "The Commission (Eurostat) shall disseminate the European statistics produced pursuant to this Regulation, with a similar periodicity to that specified in Annex I. Those statistics shall be made available on the Commission (Eurostat) website.",
+      "mk2": "„Член 9 Дисеминација 1.Комисијата (Евростат) ја дисеминира Европската европската статистика составена во согласност со оваа регулатива, со слична периодичност со таа онаа наведена во Анекс I. Оваа статистика станува достапна на интернет- страницата на Комисијата (Евростат).",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "9",
+            "1"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 110,
+          "en": "Dissemination",
+          "mk1": "Дисеминација",
+          "mk2": "",
+          "score": 0.3333333333333333,
+          "status": "UNMATCHED",
+          "cardinality": "0:0",
+          "evidence": {
+            "reason": "No sufficiently local non-overlapping candidate."
+          },
+          "export_status": "UNMATCHED"
+        },
+        "current": {
+          "index": 111,
+          "en": "The Commission (Eurostat) shall disseminate the European statistics produced pursuant to this Regulation, with a similar periodicity to that specified in Annex I. Those statistics shall be made available on the Commission (Eurostat) website.",
+          "mk1": "Комисијата (Евростат) ја дисеминира Европската статистика составена во согласност со оваа регулатива, со слична периодичност со таа наведена во Анекс I. Оваа статистика станува достапна на интернет страницата на Комисијата (Евростат).",
+          "mk2": "„Член 9 Дисеминација 1.Комисијата (Евростат) ја дисеминира Европската европската статистика составена во согласност со оваа регулатива, со слична периодичност со таа онаа наведена во Анекс I. Оваа статистика станува достапна на интернет- страницата на Комисијата (Евростат).",
+          "score": 0.9227642276422764,
+          "status": "HIGH",
+          "cardinality": "1:N",
+          "mk2_span": [
+            67,
+            70
+          ],
+          "mk2_char_span": [
+            17367,
+            17641
+          ],
+          "evidence": {
+            "token_count": 37,
+            "references_preserved": true,
+            "neighbor_window": [
+              111,
+              111
+            ],
+            "atom_window": [
+              67,
+              70
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 112,
+          "en": "In accordance with Article 18 of Regulation (EC) No 223/2009, and without prejudice to the protection of statistical confidentiality, Member States and the Commission (Eurostat) shall ensure the dissemination of data and metadata required by this Regulation as well as the precise methodology used for their compilation.’.",
+          "mk1": "Во согласност со член 18 од Регулатива (ЕЗ) бр. 223/2009 и без да е во спротивност со заштитата на статистичката доверливост, земјите членки и Комисијата (Евростат) ја осигуруваат дисеминацијата на податоците и метаподатоците што се бараат со оваа регулатива, како и прецизната методологија што се користи за нивното собирање.“.",
+          "mk2": "2.Во согласност со член 18 од РегулативаРегулативата (ЕЗ) бр. 223/2009 и без да е во спротивност со заштитата на статистичката доверливост, земјите членки и Комисијата (Евростат) ја осигуруваат дисеминацијата на податоците и метаподатоците што се бараат со оваа регулатива, како и прецизната точната методологија што се користи за нивното собирање.“.",
+          "score": 0.9665653495440729,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            70,
+            71
+          ],
+          "mk2_char_span": [
+            17642,
+            17992
+          ],
+          "evidence": {
+            "token_count": 51,
+            "references_preserved": true,
+            "neighbor_window": [
+              112,
+              112
+            ],
+            "atom_window": [
+              70,
+              71
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32016R1036",
+      "tmx_tu_id": "32016R1036:12",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "In the interests of clarity and rationality, that Regulation should be codified.",
+      "mk2": "у пати (). Заради јасност и рационалност, таа регулатива треба да биде кодифицирана.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 11,
+          "en": "(1) Council Regulation (EC) No 1225/2009 () has been substantially amended several times ().",
+          "mk1": "(1) Регулативата (ЕЗ) бр. 1225/2009 на Советот () е значајно изменета неколку пати ().",
+          "mk2": "сСо оглед на тоа што: (1) Регулативата (ЕЗ) бр. 1225/2009 на Советот () е значајно изменета неколк",
+          "score": 0.8343558282208589,
+          "status": "REVIEW",
+          "cardinality": "N:M",
+          "mk2_span": [
+            9,
+            11
+          ],
+          "mk2_char_span": [
+            527,
+            625
+          ],
+          "evidence": {
+            "token_count": 27,
+            "references_preserved": true,
+            "neighbor_window": [
+              11,
+              12
+            ],
+            "atom_window": [
+              9,
+              11
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        },
+        "current": {
+          "index": 12,
+          "en": "In the interests of clarity and rationality, that Regulation should be codified.",
+          "mk1": "Заради јасност и рационалност, таа регулатива треба да биде кодифицирана.",
+          "mk2": "у пати (). Заради јасност и рационалност, таа регулатива треба да биде кодифицирана.",
+          "score": 0.9530201342281879,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            9,
+            11
+          ],
+          "mk2_char_span": [
+            625,
+            709
+          ],
+          "evidence": {
+            "token_count": 27,
+            "references_preserved": true,
+            "neighbor_window": [
+              11,
+              12
+            ],
+            "atom_window": [
+              9,
+              11
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 13,
+          "en": "Council Regulation (EC) No 1225/2009 of 30 November 2009 on protection against dumped imports from countries not members of the European Community (OJ L 343, 22.12.2009, p. 51).",
+          "mk1": "Регулатива (ЕЗ) бр. 1225/2009 на Советот од 30 ноември 2009 година за заштита од дампинг увоз од земји што не се членки на Европската заедница (Сл. весник L 343, 22.12.1990 година, стр.).",
+          "mk2": "(2)Договорот за спроведување на член VI од Општиот договор за царини и трговија од 1994 година („Договорот за антидампинг од 1994 година“) содржи",
+          "score": 0.3785488958990536,
+          "status": "UNMATCHED",
+          "cardinality": "N:1",
+          "mk2_span": [
+            11,
+            12
+          ],
+          "mk2_char_span": [
+            710,
+            856
+          ],
+          "evidence": {
+            "token_count": 76,
+            "references_preserved": false,
+            "neighbor_window": [
+              13,
+              15
+            ],
+            "atom_window": [
+              11,
+              12
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        }
+      }
+    },
+    {
+      "celex": "32016R1150",
+      "tmx_tu_id": "32016R1150:109",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "(b) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for their examination and for the notification of the results of the selection procedure to the operators;",
+      "mk2": "(б)поднесување и избор од поднесените барања, кои ги опфаќаат барем роковите за поднесување на барањата, за нивно испитување и за известување за резултатите од постапката за избор на операторите;",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 108,
+          "en": "(a) the legal persons that may submit applications in accordance with Article 3 of Delegated Regulation (EU) 2016/1149;",
+          "mk1": "(а) правните лица кои можат да поднесат барања во согласност со член 3 од Делегираната регулатива (ЕУ) 2016/1149;",
+          "mk2": "(а)правните лица кои можат да поднесат барања во согласност со член 3 од Делегираната регулатива (ЕУ) 2016/1149;",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            80,
+            81
+          ],
+          "mk2_char_span": [
+            15165,
+            15277
+          ],
+          "evidence": {
+            "token_count": 18,
+            "references_preserved": true,
+            "neighbor_window": [
+              108,
+              108
+            ],
+            "atom_window": [
+              80,
+              81
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "current": {
+          "index": 109,
+          "en": "(b) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for their examination and for the notification of the results of the selection procedure to the operators;",
+          "mk1": "(б) поднесување и избор од поднесените барања, кои ги опфаќаат барем роковите за поднесување на барањата, за нивно испитување и за известување за резултатите од постапката за избор на операторите;",
+          "mk2": "(б)поднесување и избор од поднесените барања, кои ги опфаќаат барем роковите за поднесување на барањата, за нивно испитување и за известување за резултатите од постапката за избор на операторите;",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            81,
+            82
+          ],
+          "mk2_char_span": [
+            15278,
+            15473
+          ],
+          "evidence": {
+            "token_count": 30,
+            "references_preserved": true,
+            "neighbor_window": [
+              109,
+              109
+            ],
+            "atom_window": [
+              81,
+              82
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 110,
+          "en": "(c) the verification of compliance with the provisions on eligible operations, eligibility criteria, priority criteria and other objective criteria set out in Subsection 2 of Section 1 of Chapter II of Delegated Regulation (EU) 2016/1149;",
+          "mk1": "(в) проверка на усогласеноста со одредбите за подобни операции, критериуми за подобност, критериуми за одредување приоритет и други објективни критериуми утврдени во Пододдел 2 од Оддел 1 од Поглавје II од Делегираната регулатива (ЕУ) 2016/1149;",
+          "mk2": "(в)проверка на усогласеноста со одредбите за подобни операции, критериуми за подобност, критериуми за одредување приоритет и други објективни критериуми утврдени во Пододдел 2 од Оддел 1 од Поглавје II од Делегираната рРегулатива (ЕУ) 2016/1149;",
+          "score": 0.9979035639412998,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            82,
+            84
+          ],
+          "mk2_char_span": [
+            15474,
+            15719
+          ],
+          "evidence": {
+            "token_count": 55,
+            "references_preserved": true,
+            "neighbor_window": [
+              110,
+              111
+            ],
+            "atom_window": [
+              82,
+              84
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32016R2031",
+      "tmx_tu_id": "32016R2031:305",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "‘plant products’ means unmanufactured material of plant origin and those manufactured products that, by their nature or that of their processing, may create a risk of the spread of quarantine pests.",
+      "mk2": "„растителни производи“ се непроизведени материјали од растително потекло и оние произведени производи штокои, според нивната природа или нивното преработување, може да создадат ризик од распространување на карантинските штетни организми.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 304,
+          "en": "(l) buds, budwood, cuttings, scions, grafts;",
+          "mk1": "(ј) пупки, родни гранки, резанки, племки, чепови;",
+          "mk2": "; (ј)пупки, родни гранки, резанки, племки, чепови;",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            123,
+            126
+          ],
+          "mk2_char_span": [
+            46529,
+            46579
+          ],
+          "evidence": {
+            "token_count": 27,
+            "references_preserved": true,
+            "neighbor_window": [
+              302,
+              304
+            ],
+            "atom_window": [
+              123,
+              126
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "current": {
+          "index": 305,
+          "en": "‘plant products’ means unmanufactured material of plant origin and those manufactured products that, by their nature or that of their processing, may create a risk of the spread of quarantine pests.",
+          "mk1": "„растителни производи“ се непроизведени материјали од растително потекло и оние произведени производи кои, според нивната природа или нивното преработување, може да создадат ризик од распространување на карантинските штетни организми.",
+          "mk2": "„растителни производи“ се непроизведени материјали од растително потекло и оние произведени производи штокои, според нивната природа или нивното преработување, може да создадат ризик од распространување на карантинските штетни организми.",
+          "score": 0.9934924078091106,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            126,
+            127
+          ],
+          "mk2_char_span": [
+            46580,
+            46817
+          ],
+          "evidence": {
+            "token_count": 29,
+            "references_preserved": true,
+            "neighbor_window": [
+              305,
+              305
+            ],
+            "atom_window": [
+              126,
+              127
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 306,
+          "en": "Except where otherwise provided in the implementing acts adopted pursuant to Articles 28, 30 and 41, wood shall only be considered as a plant product if it fulfils one or more of the following criteria:",
+          "mk1": "Освен доколку не е поинаку предвидено со актите за спроведување донесени во согласност со членовите 28, 30 и 41, дрвото се смета за растение или растителен производ само ако исполни еден или повеќе од следниве критериуми:",
+          "mk2": "Освен ако не е поинаку предвидено со актите за спроведување донесени во согласност со членовите 28, 30 и 41, дрвото се смета за растение или растителен производ само ако исполни еден или повеќе од следниве критериуми: (",
+          "score": 0.9861111111111112,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            127,
+            130
+          ],
+          "mk2_char_span": [
+            46818,
+            47037
+          ],
+          "evidence": {
+            "token_count": 64,
+            "references_preserved": true,
+            "neighbor_window": [
+              306,
+              308
+            ],
+            "atom_window": [
+              127,
+              130
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32017D2170",
+      "tmx_tu_id": "32017D2170:21",
+      "classification": "MISALIGNED",
+      "reason": "Current pair conflicts (leading paragraph 13 != 12; country Ireland missing from MK2; unexpected country Denmark in MK2; numeric/legal anchors missing: 13); no neighboring MK2 match is deterministically proven.",
+      "en": "(13) Ireland is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision, which implements Decision 2005/387/JHA.",
+      "mk2": "(12)Данска е обврзана со Одлуката 2005/387/ПВР и според тоа учествува во донесувањето и во примената на оваа одлука, со која се спроведува Одлуката 2005/387/ПВР.",
+      "anchors": {
+        "en": {
+          "leading_number": "13",
+          "numbers": [
+            "13",
+            "2005/387"
+          ],
+          "countries": [
+            "Ireland"
+          ]
+        },
+        "mk": {
+          "leading_number": "12",
+          "numbers": [
+            "12",
+            "2005/387"
+          ],
+          "countries": [
+            "Denmark"
+          ]
+        },
+        "reasons": [
+          "leading paragraph 13 != 12",
+          "country Ireland missing from MK2",
+          "unexpected country Denmark in MK2",
+          "numeric/legal anchors missing: 13"
+        ],
+        "anchor_count": 4
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 20,
+          "en": "(12) Denmark is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision, which implements Decision 2005/387/JHA.",
+          "mk1": "(12) Данска е обврзана со Одлуката 2005/387/ПВР и според тоа учествува во донесувањето и примената на оваа одлука, со која се спроведува Одлуката 2005/387/ПВР.",
+          "mk2": "",
+          "score": 0.5258693808312129,
+          "status": "UNMATCHED",
+          "cardinality": "0:0",
+          "evidence": {
+            "reason": "No sufficiently local non-overlapping candidate."
+          },
+          "export_status": "UNMATCHED"
+        },
+        "current": {
+          "index": 21,
+          "en": "(13) Ireland is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision, which implements Decision 2005/387/JHA.",
+          "mk1": "(13) Ирска е обврзана со Одлуката 2005/387/ПВР и според тоа учествува во донесувањето и примената на оваа одлука, со која се спроведува Одлуката 2005/387/ПВР.",
+          "mk2": "(12)Данска е обврзана со Одлуката 2005/387/ПВР и според тоа учествува во донесувањето и во примената на оваа одлука, со која се спроведува Одлуката 2005/387/ПВР.",
+          "score": 0.967948717948718,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            20,
+            21
+          ],
+          "mk2_char_span": [
+            4885,
+            5046
+          ],
+          "evidence": {
+            "token_count": 25,
+            "references_preserved": true,
+            "neighbor_window": [
+              21,
+              21
+            ],
+            "atom_window": [
+              20,
+              21
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 22,
+          "en": "HAS ADOPTED THIS DECISION:",
+          "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+          "mk2": "",
+          "score": 0.2247191011235955,
+          "status": "UNMATCHED",
+          "cardinality": "0:0",
+          "evidence": {
+            "reason": "No sufficiently local non-overlapping candidate."
+          },
+          "export_status": "UNMATCHED"
+        }
+      }
+    },
+    {
+      "celex": "32017R2107",
+      "tmx_tu_id": "32017R2107:112",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "The number and total capacity in gross tonnage (GT) of Union large-scale catching vessels targeting bigeye tuna in the ICCAT Convention area shall be determined:",
+      "mk2": "туна Бројот и вкупниот капацитет во бруто бруто-тонажа (GT) на големите уловни бродови за улов на Унијата за целен риболов на големооока туна во областа на примена на Конвенцијата ICCAT се утврдува на следниот следниов начин:",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 111,
+          "en": "Restrictions on the number of Union large-scale catching vessels targeting bigeye tuna",
+          "mk1": "Ограничувања за бројот на големи уловни бродови на Унијата за целен риболов на големоока туна",
+          "mk2": "Член 5 Ограничувања за бројот на големи бродови за уловни бродови на Унијата за целен риболов на големоока",
+          "score": 0.8844221105527639,
+          "status": "REVIEW",
+          "cardinality": "N:M",
+          "mk2_span": [
+            80,
+            83
+          ],
+          "mk2_char_span": [
+            14993,
+            15099
+          ],
+          "evidence": {
+            "token_count": 54,
+            "references_preserved": true,
+            "neighbor_window": [
+              111,
+              112
+            ],
+            "atom_window": [
+              80,
+              83
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        },
+        "current": {
+          "index": 112,
+          "en": "The number and total capacity in gross tonnage (GT) of Union large-scale catching vessels targeting bigeye tuna in the ICCAT Convention area shall be determined:",
+          "mk1": "Бројот и вкупниот капацитет во бруто тонажа (GT) на големите уловни бродови на Унијата за целен риболов на големооока туна во областа на примена на Конвенцијата ICCAT се утврдува на следниот начин:",
+          "mk2": "туна Бројот и вкупниот капацитет во бруто бруто-тонажа (GT) на големите уловни бродови за улов на Унијата за целен риболов на големооока туна во областа на примена на Конвенцијата ICCAT се утврдува на следниот следниов начин:",
+          "score": 0.9326923076923077,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            80,
+            83
+          ],
+          "mk2_char_span": [
+            15099,
+            15325
+          ],
+          "evidence": {
+            "token_count": 54,
+            "references_preserved": true,
+            "neighbor_window": [
+              111,
+              112
+            ],
+            "atom_window": [
+              80,
+              83
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 113,
+          "en": "(a) as the average number and the capacity in GT of Union catching vessels targeting bigeye tuna in the ICCAT Convention area during the period 1991 to 1992; and",
+          "mk1": "(а) како просечен број и капацитет во GT на уловни бродови на Унијата за целен риболов на големоока туна во областа на примена на Конвенцијата ICCAT во текот на периодот 1991 до 1992 година; и",
+          "mk2": "(а)како просечен број и капацитет во GT на бродови за уловни бродови на Унијата за целен риболов на големоока туна во областа на примена на Конвенцијата ICCAT во текот на периодот од 1991 до 1992 година; и",
+          "score": 0.9642857142857143,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            83,
+            85
+          ],
+          "mk2_char_span": [
+            15326,
+            15531
+          ],
+          "evidence": {
+            "token_count": 72,
+            "references_preserved": true,
+            "neighbor_window": [
+              113,
+              114
+            ],
+            "atom_window": [
+              83,
+              85
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32017R2226",
+      "tmx_tu_id": "32017R2226:1062",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "If the search with the data listed in paragraph 1 of this Article indicates that data on the person are recorded in the VIS but no valid visa is recorded, the competent authority for carrying out checks at borders at which the EES is operated shall be given access to consult the following data contained in the application file or files as well as in an application file or files linked pursuant to Article 8(4), solely for the purposes referred to in paragraph 1 of this Article:",
+      "mk2": "ебарувањето на податоците наведени во став 1 од овој член покажува дека податоците за лицето се чуваат во ВИС, но нема запис за важечка виза, надлежниот орган за извршување проверки на границите каде што функционирафункционира ЕЕС, добива пристап за да ги провери следниве податоци што ги содржжании во досието или досиејата за барање, како и досието или досиејата за барање што се поврзани во согласност со член 8(4), единствено за целите наведени во став 1 одна овој член:",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "1",
+            "8(4)"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "1",
+            "8(4)"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 1
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 1061,
+          "en": "In addition to the consultation carried out under paragraph 1 of this Article, the competent authority for carrying out checks at borders at which the EES is operated shall verify the identity of a person against the VIS if the search with the data listed in paragraph 1 of this Article indicates that data on the person are recorded in the VIS and one of the following conditions is met:",
+          "mk1": "Покрај увидот извршен според став 1 на овој член, надлежниот орган за извршување проверки на граници каде функционира ЕЕС го потврдува идентитетот на личноста во ВИС ако пребарувањето со податоците наведени во став 1 на овој член покажува дека податоците за тоа лице се забележани во ВИС и исполнет е еден од следниве услови:",
+          "mk2": "Покрај тоа, за оние носителитеимателите на виза за кои поради правни причини не се бара да бидат доставени извесни податоци за правни цели или тие фактички не може да бидат обезбедени, надлежниот орган за извршување проверки на границите каде што функционира ЕЕС добива известување за конкретната засегната област или области на податоци, што се бележат како „неприменливи“. 5.Ако пр",
+          "score": 0.42,
+          "status": "UNMATCHED",
+          "cardinality": "N:M",
+          "mk2_span": [
+            799,
+            801
+          ],
+          "mk2_char_span": [
+            193760,
+            194143
+          ],
+          "evidence": {
+            "token_count": 138,
+            "references_preserved": true,
+            "neighbor_window": [
+              1061,
+              1062
+            ],
+            "atom_window": [
+              799,
+              801
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        },
+        "current": {
+          "index": 1062,
+          "en": "If the search with the data listed in paragraph 1 of this Article indicates that data on the person are recorded in the VIS but no valid visa is recorded, the competent authority for carrying out checks at borders at which the EES is operated shall be given access to consult the following data contained in the application file or files as well as in an application file or files linked pursuant to Article 8(4), solely for the purposes referred to in paragraph 1 of this Article:",
+          "mk1": "Ако пребарувањето на податоците наведени во став 1 од овој член покажува дека податоците за лицето се чуваат во ВИС, но нема запис за важечка виза, надлежниот орган за извршување проверки на граници каде функционира ЕЕС, добива пристап да ги провери следниве податоци содржани во досието или досиејата за барање поврзани во согласност со член 8(4), единствено за целите наведени во став 1 на овој член:",
+          "mk2": "ебарувањето на податоците наведени во став 1 од овој член покажува дека податоците за лицето се чуваат во ВИС, но нема запис за важечка виза, надлежниот орган за извршување проверки на границите каде што функционирафункционира ЕЕС, добива пристап за да ги провери следниве податоци што ги содржжании во досието или досиејата за барање, како и досието или досиејата за барање што се поврзани во согласност со член 8(4), единствено за целите наведени во став 1 одна овој член:",
+          "score": 0.9038238702201622,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            799,
+            801
+          ],
+          "mk2_char_span": [
+            194143,
+            194617
+          ],
+          "evidence": {
+            "token_count": 138,
+            "references_preserved": true,
+            "neighbor_window": [
+              1061,
+              1062
+            ],
+            "atom_window": [
+              799,
+              801
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 1063,
+          "en": "In addition, for those visa holders for whom certain data are not required to be provided for legal reasons or factually cannot be provided, the competent authority for carrying out checks at borders at which the EES is operated shall receive a notification related to the specific data field or fields concerned which shall be marked as ‘not applicable’.",
+          "mk1": "Покрај тоа, за оние иматели на виза за кои не се бара да бидат доставени извесни податоци за правни цели или фактички не може да бидат обезбедени, надлежниот орган за извршување проверки на границите каде функционира ЕЕС добива известување за конкретната засегната област или области на податоци, што се бележат како „неприменливи“.",
+          "mk2": "",
+          "score": 0.27586206896551724,
+          "status": "UNMATCHED",
+          "cardinality": "0:0",
+          "evidence": {
+            "reason": "No sufficiently local non-overlapping candidate."
+          },
+          "export_status": "UNMATCHED"
+        }
+      }
+    },
+    {
+      "celex": "32018L0822",
+      "tmx_tu_id": "32018L0822:230",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "Generic hallmarks under category A and specific hallmarks under category B and under points (b)(i), (c) and (d) of paragraph 1 of category C may only be taken into account where they fulfil the “main benefit test”.",
+      "mk2": "Генеричките ознаки, според категоријата А, и специфичните ознаки, според категоријата Б, и под точките (б)(i), (в) и (г) од став 1 од категоријата В може само да се земат предвид, доколку го исполнуваат „’испитувањето на основната корист“‘.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "1"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "1"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 229,
+          "en": "Part I. Main benefit test",
+          "mk1": "Дел I Испитување на основната корист",
+          "mk2": "V ОЗНАКИ Дел I. Испитување на основната корист",
+          "score": 0.8888888888888888,
+          "status": "REVIEW",
+          "cardinality": "N:M",
+          "mk2_span": [
+            157,
+            160
+          ],
+          "mk2_char_span": [
+            36526,
+            36572
+          ],
+          "evidence": {
+            "token_count": 9,
+            "references_preserved": true,
+            "neighbor_window": [
+              228,
+              229
+            ],
+            "atom_window": [
+              157,
+              160
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "REVIEW"
+        },
+        "current": {
+          "index": 230,
+          "en": "Generic hallmarks under category A and specific hallmarks under category B and under points (b)(i), (c) and (d) of paragraph 1 of category C may only be taken into account where they fulfil the “main benefit test”.",
+          "mk1": "Генеричките ознаки според категоријата А и специфичните ознаки според категоријата Б и под точките (б)(i), (в) и (г) од став 1 од категоријата В може само да се земат предвид, доколку го исполнуваат „испитувањето на основната корист“.",
+          "mk2": "Генеричките ознаки, според категоријата А, и специфичните ознаки, според категоријата Б, и под точките (б)(i), (в) и (г) од став 1 од категоријата В може само да се земат предвид, доколку го исполнуваат „’испитувањето на основната корист“‘.",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            160,
+            161
+          ],
+          "mk2_char_span": [
+            36573,
+            36813
+          ],
+          "evidence": {
+            "token_count": 38,
+            "references_preserved": true,
+            "neighbor_window": [
+              230,
+              230
+            ],
+            "atom_window": [
+              160,
+              161
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 231,
+          "en": "That test will be satisfied if it can be established that the main benefit or one of the main benefits which, having regard to all relevant facts and circumstances, a person may reasonably expect to derive from an arrangement is the obtaining of a tax advantage.",
+          "mk1": "Ова испитување ќе биде задоволено доколку може да се утврди дека главната корист или една од главните користи е добивањето даночна предност, што имајќи ги предвид сите релевантни факти и околности, лицето може разумно да очекува да ги добие од аранжманот .",
+          "mk2": "Ова испитување ќе биде задоволено доколку може да се утврди дека главната корист или една од главните користи е добивањето даночна предност, што, имајќи ги предвид сите релевантни факти и околности, лицето може разумно да очекува да ги добие од аранжманот.",
+          "score": 1,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            161,
+            162
+          ],
+          "mk2_char_span": [
+            36814,
+            37070
+          ],
+          "evidence": {
+            "token_count": 41,
+            "references_preserved": true,
+            "neighbor_window": [
+              231,
+              231
+            ],
+            "atom_window": [
+              161,
+              162
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32018L1713",
+      "tmx_tu_id": "32018L1713:42",
+      "classification": "UNCERTAIN",
+      "reason": "No conflicting anchors, but the pair lacks enough deterministic anchors for confirmation.",
+      "en": "‘The reduced rates shall not apply to electronically supplied services with the exception of those falling under point (6) of Annex III.’;",
+      "mk2": "„Намалените стапки не се применуваат зна услуги што се испорачуваат во електронска форма со исклучок на оние од точка (6) од Анекс III.“;",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "6"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "6"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 0
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 41,
+          "en": "(1) in Article 98(2), the second subparagraph is replaced by the following:",
+          "mk1": "(1) во член 98(2), вториот потстав се заменува како што следува:",
+          "mk2": "Член 1 Директива 2006/112/ЕЗ се изменува како што следува: (1)во член 98(2), вториот потстав се заменува како што следува:",
+          "score": 0.6704545454545454,
+          "status": "UNMATCHED",
+          "cardinality": "1:N",
+          "mk2_span": [
+            21,
+            24
+          ],
+          "mk2_char_span": [
+            4651,
+            4773
+          ],
+          "evidence": {
+            "token_count": 21,
+            "references_preserved": true,
+            "neighbor_window": [
+              41,
+              41
+            ],
+            "atom_window": [
+              21,
+              24
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        },
+        "current": {
+          "index": 42,
+          "en": "‘The reduced rates shall not apply to electronically supplied services with the exception of those falling under point (6) of Annex III.’;",
+          "mk1": "„Намалените стапки не се применуваат на услуги што се испорачуваат во електронска форма со исклучок на оние од точка (6) од Анекс III.“;",
+          "mk2": "„Намалените стапки не се применуваат зна услуги што се испорачуваат во електронска форма со исклучок на оние од точка (6) од Анекс III.“;",
+          "score": 0.9961685823754789,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            24,
+            25
+          ],
+          "mk2_char_span": [
+            4774,
+            4911
+          ],
+          "evidence": {
+            "token_count": 23,
+            "references_preserved": true,
+            "neighbor_window": [
+              42,
+              42
+            ],
+            "atom_window": [
+              24,
+              25
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 43,
+          "en": "By way of derogation from paragraphs 1 and 2 of this Article, and in addition to the rates referred to in paragraph 1 of Article 98, Member States which, on 1 January 2017, applied, in accordance with Union law, reduced rates lower than the minimum laid down in this Article or granted exemptions with deductibility of the VAT paid at the preceding stage to the supply of certain goods referred to in point (6) of Annex III, may also apply the same VAT treatment where that supply is supplied electronically, as referred to in point (6) of Annex III.’;",
+          "mk1": "По пат на отстапување од ставовите 1 и 2 од овој член и освен стапките наведени во став 1 од член 98, земјите членки кои, на 1 јануари 2017 година, применувале, во согласност со законот на Унијата, намалени стапки пониски од најниските стапки утврдени во овој член или одобрувале даночно ослободување со право на одбивка на ДДВ платен во претходна фаза за испорачување одредени добра наведени во точка (6) од Анекс III, можат исто така да го применат истиот третман на ДДВ што се применува кога испораката е во електронска форма, како што е наведено во точка (6) од Анекс III.",
+          "mk2": "(2)во член 99, се додава следниов став: „3.По пат на отстапување од ставовите 1 и 2 од овој член и освен како дополнување на стапките наведени во став 1 од член 98, земјите членки кои, на 1 јануари 2017 година, применувале, во согласност со законот правото на Унијата, намалени стапки пониски од најниските стапки утврдени во овој член или одобрувале даночно ослободување со право на одбивка на ДДВ платен во претходната фаза за од испорачување испораката на одредени добра наведени во точка (6) од Анекс III, можат исто така да го применат истиот третман на ДДВ, што се применува кога испораката е во електронска форма, како што е наведено во точка (6) од Ане",
+          "score": 0.9238410596026491,
+          "status": "HIGH",
+          "cardinality": "N:M",
+          "mk2_span": [
+            25,
+            28
+          ],
+          "mk2_char_span": [
+            4912,
+            5572
+          ],
+          "evidence": {
+            "token_count": 128,
+            "references_preserved": true,
+            "neighbor_window": [
+              43,
+              44
+            ],
+            "atom_window": [
+              25,
+              28
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        }
+      }
+    },
+    {
+      "celex": "32018L2057",
+      "tmx_tu_id": "32018L2057:13",
+      "classification": "CONFIRMED_GOLD",
+      "reason": "Deterministic anchors agree; no nearby shift has stronger anchor agreement.",
+      "en": "In its communication of 7 April 2016 on an action plan on VAT, the Commission announced its intentions to come forward with a proposal for a definitive value added tax (VAT) regime for cross-border business-to-business trade between Member States on the basis of the taxation of cross-border supplies of goods and services.",
+      "mk2": "Во своето соопштение од 7 април 2016 година за акциски план за ДДВ, Комисијата ги најави своите намери да изнесе предлог за конечен режим за данокот на додадена вредност (ДДВ) за прекугранична трговија помеѓу претпријатијата помеѓу земјите членки врз основа на оданочувањето на прекуграничните набавки на стоки и услуги.",
+      "anchors": {
+        "en": {
+          "leading_number": null,
+          "numbers": [
+            "7",
+            "2016"
+          ],
+          "countries": []
+        },
+        "mk": {
+          "leading_number": null,
+          "numbers": [
+            "7",
+            "2016"
+          ],
+          "countries": []
+        },
+        "reasons": [],
+        "anchor_count": 1
+      },
+      "correct_neighbor_mk2": null,
+      "context": {
+        "previous": {
+          "index": 12,
+          "en": "Whereas:",
+          "mk1": "со оглед на тоа што:",
+          "mk2": "на тоа што:",
+          "score": 0.6896551724137931,
+          "status": "UNMATCHED",
+          "cardinality": "N:M",
+          "mk2_span": [
+            9,
+            11
+          ],
+          "mk2_char_span": [
+            733,
+            744
+          ],
+          "evidence": {
+            "token_count": 12,
+            "references_preserved": false,
+            "neighbor_window": [
+              10,
+              12
+            ],
+            "atom_window": [
+              9,
+              11
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "UNMATCHED"
+        },
+        "current": {
+          "index": 13,
+          "en": "In its communication of 7 April 2016 on an action plan on VAT, the Commission announced its intentions to come forward with a proposal for a definitive value added tax (VAT) regime for cross-border business-to-business trade between Member States on the basis of the taxation of cross-border supplies of goods and services.",
+          "mk1": "Во своето соопштение од 7 април 2016 година за акциски план за ДДВ, Комисијата ги најави своите намери да изнесе предлог за конечен режим за данокот на додадена вредност (ДДВ) за прекугранична трговија помеѓу претпријатијата помеѓу земјите членки врз основа на оданочувањето на прекуграничните набавки на стоки услуги.",
+          "mk2": "Во своето соопштение од 7 април 2016 година за акциски план за ДДВ, Комисијата ги најави своите намери да изнесе предлог за конечен режим за данокот на додадена вредност (ДДВ) за прекугранична трговија помеѓу претпријатијата помеѓу земјите членки врз основа на оданочувањето на прекуграничните набавки на стоки и услуги.",
+          "score": 0.9968253968253968,
+          "status": "HIGH",
+          "cardinality": "1:1",
+          "mk2_span": [
+            11,
+            12
+          ],
+          "mk2_char_span": [
+            745,
+            1065
+          ],
+          "evidence": {
+            "token_count": 49,
+            "references_preserved": true,
+            "neighbor_window": [
+              13,
+              13
+            ],
+            "atom_window": [
+              11,
+              12
+            ],
+            "provenance_unsafe_footnote": false
+          },
+          "export_status": "HIGH"
+        },
+        "next": {
+          "index": 14,
+          "en": "Carousel fraud finds notably its roots in the current exemption for intra-Community supplies that allows for goods to be obtained VAT-free.",
+          "mk1": "Кружните измами особено потекнуваат од тековното ослободување за набавки внатре во Заедницата со кое се овозможува примање стока без плаќање ДДВ.",
+          "mk2": "",
+          "score": 0.3564356435643564,
+          "status": "UNMATCHED",
+          "cardinality": "0:0",
+          "evidence": {
+            "reason": "No sufficiently local non-overlapping candidate."
+          },
+          "export_status": "UNMATCHED"
+        }
+      }
+    }
+  ]
+}

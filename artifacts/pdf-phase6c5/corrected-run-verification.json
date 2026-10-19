@@ -1,0 +1,17 @@
+{
+  "classification": "PASS",
+  "generationId": "a53b41bf-6118-43ba-b2f9-b7e4417fea4c",
+  "snapshotId": "9773853e-9f81-4796-b358-38a3f53e1d81",
+  "request": {"firstHttpStatus": 201, "retryHttpStatus": 200, "requestKey": "phase6c5-controlled-32006l0114-correction-v1"},
+  "identity": {"projectId": "ac1e24ca-b699-4863-ba99-f310fa220a8a", "documentId": "6b8a3125-eda7-46a2-9066-9b6d619713dc", "documentVersionId": "74a67935-d57f-428f-aa34-d8d603ddda1e"},
+  "generation": {"status": "completed", "validationStatus": "PASS", "sourceCoverageStatus": "PASS", "orderedTokenStatus": "PASS", "normalizedTokenCount": 3389, "generationNumber": 2},
+  "snapshot": {"status": "available", "nodes": 422, "translationUnits": 265, "inlineCodes": 3, "snapshotGeneration": 2},
+  "tuOrdering": {"count": 265, "distinct": 265, "first": 0, "last": 264, "contiguousZeroBased": true},
+  "structure": {"heading": 26, "pageBreak": 6, "paragraph": 239, "table": 3, "tableRow": 48, "tableCell": 100},
+  "hashes": {"validatedDocxSha256": "2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971", "normalizedSourceSha256": "6aa66d213e3db8004d2436a0010f7866eaf9939a44d5e61593e47d2ac132c9a3"},
+  "sourceIntegrity": {"normalizedTokens": 3389, "sourceHashesValid": true},
+  "idempotency": {"generationCount": 1, "snapshotCount": 1, "nodeCount": 422, "translationUnitCount": 265, "inlineCodeCount": 3},
+  "historicalPreservation": {"generationId": "26276c49-8c0f-456e-8a3e-cce032f9b633", "snapshotId": "41c043ad-a210-4e17-b6f4-5cf98872a602", "unchanged": true},
+  "lineage": {"parentArtifactId": "5c09e46f-aa23-40d1-91e3-b9044a305272", "relationshipType": "rendered_from", "inputRole": "reconstruction_model"},
+  "downstreamInvocation": false
+}

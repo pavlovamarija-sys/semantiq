@@ -1,0 +1,207 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20220828T142205Z" creationid="LAPTOP-8H8SSI8N\marij">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">02002F0465-20220310_MK1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">02002F0465</prop>
+    <prop type="x-SourceTMX">02002F0465-20220310_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">4c89831993e1d18c2179bfb9007c7a80a212cdea1fca9cf8756e4a3bf52898d3</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">11</prop>
+  </header>
+  <body>
+    <tu creationdate="20220828T142343Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20220828T142409Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20220828T205733Z" usagecount="5">
+      <prop type="x-LastUsedBy">LAPTOP-8H8SSI8N\marij</prop>
+      <prop type="x-Context">402419990, 402419990</prop>
+      <prop type="x-ContextContent">▼B | AgIBAQEBAQM2MTgBAQIBAQM2MTgB | ▼B | AgIBAQEBAQM2MTgBAQIBAQM2MTgB</prop>
+      <prop type="x-Context">12978584, 12978584</prop>
+      <prop type="x-ContextContent">►B |  | ►B | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL FRAMEWORK DECISION</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>МКОВНА ОДЛУКА НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">02002F0465</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T142352Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20220828T142410Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20220828T205733Z" usagecount="5">
+      <prop type="x-LastUsedBy">LAPTOP-8H8SSI8N\marij</prop>
+      <prop type="x-Context">6954237514859448267, -918509718116653069</prop>
+      <prop type="x-ContextContent">COUNCIL FRAMEWORK DECISION |  | РАМКОВНА ОДЛУКА НА СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 13 June 2002</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 13 јуни 2022 година</seg>
+      </tuv>
+      <prop type="x-CELEX">02002F0465</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T142427Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20220828T201638Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20220828T205733Z" usagecount="4">
+      <prop type="x-LastUsedBy">LAPTOP-8H8SSI8N\marij</prop>
+      <prop type="x-Context">3657596318, -790154011644746187</prop>
+      <prop type="x-ContextContent">of 13 June 2002 |  | од 13 јуни 2022 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>on joint investigation teams</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за заеднички истражни тимови</seg>
+      </tuv>
+      <prop type="x-CELEX">02002F0465</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T142448Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20220828T142533Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20220828T205733Z" usagecount="4">
+      <prop type="x-LastUsedBy">LAPTOP-8H8SSI8N\marij</prop>
+      <prop type="x-Context">1573936989198687346, 6680180834743250999</prop>
+      <prop type="x-ContextContent">on joint investigation teams |  | за заеднички истражни тимови | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(2002/465/JHA)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(2002/465/ПВР)</seg>
+      </tuv>
+      <prop type="x-CELEX">02002F0465</prop>
+      <prop type="x-SourceTUIndex">9</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T142501Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20220828T142534Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20220828T205733Z" usagecount="2">
+      <prop type="x-LastUsedBy">LAPTOP-8H8SSI8N\marij</prop>
+      <prop type="x-Context">1878595680367, 1878595680367</prop>
+      <prop type="x-ContextContent">(2002/465/JHA) |  | (2002/465/ПВР) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(OJ L 162 20.6.2002, p. 1)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Сл. весник L 162 20.6.2002 година, стр. 1)</seg>
+      </tuv>
+      <prop type="x-CELEX">02002F0465</prop>
+      <prop type="x-SourceTUIndex">10</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220817T202533Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20220828T142534Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20220828T205733Z" usagecount="2">
+      <prop type="x-LastUsedBy">LAPTOP-8H8SSI8N\marij</prop>
+      <prop type="x-Context">7864611915906308453, 4631006620855767438</prop>
+      <prop type="x-ContextContent">(OJ L 162 20.6.2002, p. 1) |  | (Сл. весник L 162 20.6.2002 година, стр. 1) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Amended by:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Изменета со:</seg>
+      </tuv>
+      <prop type="x-CELEX">02002F0465</prop>
+      <prop type="x-SourceTUIndex">11</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220817T202548Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20220828T142534Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20220828T205733Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-8H8SSI8N\marij</prop>
+      <prop type="x-Context">3364335336715708, 131139780525738959</prop>
+      <prop type="x-ContextContent">Amended by: |  | Изменета со: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Official Journal</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Службен весник</seg>
+      </tuv>
+      <prop type="x-CELEX">02002F0465</prop>
+      <prop type="x-SourceTUIndex">70</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220817T202553Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20220828T142535Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20220828T205733Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-8H8SSI8N\marij</prop>
+      <prop type="x-Context">5047220045887176986, 131381314678143338</prop>
+      <prop type="x-ContextContent">Official Journal |  | Службен весник | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>бр.</seg>
+      </tuv>
+      <prop type="x-CELEX">02002F0465</prop>
+      <prop type="x-SourceTUIndex">71</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220817T202557Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20220828T142535Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20220828T205733Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-8H8SSI8N\marij</prop>
+      <prop type="x-Context">3803359, 4759089</prop>
+      <prop type="x-ContextContent">No |  | бр. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>page</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>страна</seg>
+      </tuv>
+      <prop type="x-CELEX">02002F0465</prop>
+      <prop type="x-SourceTUIndex">72</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220817T202559Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20220828T142535Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20220828T205733Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-8H8SSI8N\marij</prop>
+      <prop type="x-Context">117949730, 4589280207</prop>
+      <prop type="x-ContextContent">page |  | страна | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>date</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>датум</seg>
+      </tuv>
+      <prop type="x-CELEX">02002F0465</prop>
+      <prop type="x-SourceTUIndex">73</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220826T115445Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20220828T142535Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20220828T205733Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-8H8SSI8N\marij</prop>
+      <prop type="x-Context">117592641, 4576740707</prop>
+      <prop type="x-ContextContent">date |  | датум | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>►M1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>►M1</seg>
+      </tuv>
+      <prop type="x-CELEX">02002F0465</prop>
+      <prop type="x-SourceTUIndex">74</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

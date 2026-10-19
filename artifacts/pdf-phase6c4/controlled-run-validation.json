@@ -1,0 +1,56 @@
+{
+  "status": "PASS",
+  "generationId": "0a7ca092-d639-4322-bbff-66dd5cf6725b",
+  "modelArtifactId": "5c09e46f-aa23-40d1-91e3-b9044a305272",
+  "docxArtifactId": "b0e8fec5-91c8-4755-87a4-ff8f6dd8d307",
+  "actualReadback": {
+    "path": "artifacts/pdf-phase6c4/controlled-run-readback/validated-docx.docx",
+    "sha256": "2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971",
+    "byteSize": 44034,
+    "expectedSha256Match": true,
+    "expectedByteSizeMatch": true
+  },
+  "ooxml": {
+    "zipTest": "PASS",
+    "requiredParts": ["[Content_Types].xml", "word/document.xml", "word/styles.xml", "word/_rels/document.xml.rels"],
+    "requiredPartsPresent": true,
+    "malformedPackage": false
+  },
+  "modelToDocx": {
+    "textIntegrity": "PASS",
+    "normalizedTokens": 3389,
+    "missingTokens": 0,
+    "addedTokens": 0,
+    "duplicatedTokens": 0,
+    "reorderedTokens": 0,
+    "bodyParagraphs": 173,
+    "nonEmptyBodyParagraphs": 167,
+    "allParagraphsIncludingCells": 273,
+    "tables": 3,
+    "rows": 48,
+    "cells": 100,
+    "multiParagraphCells": 0,
+    "controlledLineBreaks": 9,
+    "headingParagraphs": 26,
+    "article1InTable": true,
+    "annexIInTable": true,
+    "typedFootnoteNodes": 2,
+    "nativeFootnotesPart": false,
+    "footnoteAssessment": "Footnote source text is preserved by the frozen serializer; the serializer represents these nodes as ordinary DOCX paragraphs, not native OOXML footnote relationships."
+  },
+  "frozenFixtureComparison": {
+    "fixture": "artifacts/pdf-phase2b/32006L0114-experimental-v2.docx",
+    "fixtureTables": 3,
+    "fixtureRows": 48,
+    "fixtureCells": 100,
+    "fixtureMultiParagraphCells": 0,
+    "fixtureControlledLineBreaks": 9,
+    "fixtureHeadingParagraphs": 26,
+    "fixtureAllParagraphsIncludingCells": 275,
+    "controlledAllParagraphsIncludingCells": 273,
+    "sameNormalizedTokenCount": true,
+    "fixtureAndControlledTokenOrderIdentical": false,
+    "difference": "The frozen fixture contains two additional body paragraph containers and a different placement of repeated page-header text. The controlled artifact matches the persisted model's deterministic reading order and passes exact model-to-DOCX integrity; no source-model integrity defect was found."
+  },
+  "manualStudioValidation": "NOT_PERFORMED"
+}

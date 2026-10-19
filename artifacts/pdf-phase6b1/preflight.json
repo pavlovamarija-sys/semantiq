@@ -1,0 +1,9 @@
+{
+  "application": {"127.0.0.1:3000": "reachable"},
+  "workerHealth": {"endpoint": "http://127.0.0.1:8000/health", "status": 200},
+  "shadowFlagEvidence": "not present in current shell/.env.local at inspection time",
+  "gitRepository": false,
+  "liveAuthenticatedSession": "not available to this inspection process",
+  "readOnlySupabaseEvidence": "not available",
+  "additionalImportPerformed": false
+}

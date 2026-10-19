@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "celex": "32008L0050",
+  "projectId": "ac1e24ca-b699-4863-ba99-f310fa220a8a",
+  "documentId": "edaaedfd-99fe-473c-921a-6f7a2478f66a",
+  "versionImportId": "e66411bf-204a-4d08-8035-35a161cdc0cf",
+  "shadowRunId": "13c13a7c-ef87-47f7-8844-58be5e8de75e",
+  "manualAuthenticatedDownload": {
+    "filename": "e66411bf-204a-4d08-8035-35a161cdc0cf.pdf",
+    "absolutePath": "D:\\EU Acquis AI App\\artifacts\\pdf-phase6b\\manual-verification\\e66411bf-204a-4d08-8035-35a161cdc0cf.pdf",
+    "plausiblePdfCount": 1,
+    "bytes": 499951,
+    "signature": "%PDF-",
+    "pageCount": 44,
+    "sha256": "37e412c00e79cf64f5f2a9f104abb9369ecf88814fd577070032300907fb1c87"
+  },
+  "shadowSourceSha256": "37e412c00e79cf64f5f2a9f104abb9369ecf88814fd577070032300907fb1c87",
+  "exactMatch": true,
+  "provenance": {
+    "retrieval": "User downloaded the already-imported source through the application's normal authenticated source-PDF download/open function.",
+    "authentication": "User-mediated through the existing browser session; Codex did not authenticate independently to Supabase or access browser-session cookies.",
+    "verification": "Codex independently inspected and SHA-256 hashed the resulting local file bytes without modifying the PDF."
+  },
+  "history": [
+    "Initial anonymous read-only Supabase access returned no row under RLS.",
+    "The existing authenticated signed-URL route was identified, but the CLI had no browser-session cookies.",
+    "The user subsequently retrieved the exact persisted source through that normal authenticated application path.",
+    "The manual authenticated download now closes the persisted-object identity requirement."
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "phaseClassification": "PARTIAL",
+  "facade": "workers/pdf-to-docx/app/reconstruction/pipeline.py",
+  "core": "workers/pdf-to-docx/app/reconstruction/core.py",
+  "runtimeSpikeModules": false,
+  "activeWorkerImportsFacade": false,
+  "activeProductionPathChanged": false,
+  "architecturalTest": "PASS"
+}

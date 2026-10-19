@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210826T121429Z" creationid="NAKJEVI\Vane">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32021L0555_MK</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">BreakOnTag</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021L0555</prop>
+    <prop type="x-SourceTMX">32021L0555_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">35b877fbb888b54633165c0a217ba9d9761427fd755991b38c9fa8682f747b0f</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">5</prop>
+  </header>
+  <body>
+    <tu creationdate="20210529T081527Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210826T121507Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T162605Z" usagecount="6">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>DIRECTIVE (EU) 2021/555 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВА (ЕУ) 2021/555 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021L0555</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210826T121509Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210826T121522Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T162605Z" usagecount="5">
+      <prop type="x-Context">6677508629411533134, -191073937812513006</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 24 March 2021</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 24 март 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32021L0555</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210826T121525Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210826T124038Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T162605Z" usagecount="5">
+      <prop type="x-Context">3657596318, -813603397828149041</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>on control of the acquisition and possession of weapons</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за контрола на набавувањето и поседувањето оружје</seg>
+      </tuv>
+      <prop type="x-CELEX">32021L0555</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210826T124039Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210826T124417Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T162605Z" usagecount="4">
+      <prop type="x-Context">-3766141095517498831, -789572267672116273</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(codification)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(кодифициран текст)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021L0555</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210529T083238Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210826T124418Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T162605Z" usagecount="4">
+      <prop type="x-Context">-8840222079676069286, 6274312226394206192</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021L0555</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,15 @@
+{
+  "phase":"6C.7","classification":"PASS","phase6c7_pass":true,
+  "downloaded_file":{"actual_path":"artifacts/pdf-phase6c7/recovery-readback/32006L0114-mk1-corrected.docx","sha256":"220155a219b20a735b7f8ec999fc1dbbfc1862e5c65319303f2229121b9fa25b","persisted_sha256_match":true,"byte_size":887530,"persisted_size_match":true,"zip_crc":"PASS","required_ooxml_parts":"PASS"},
+  "translation_validation":{"persisted_translation_units":265,"mapped_translation_units":265,"unique_translation_units":265,"ordinals":"0..264 consecutive","ordered_exact_once_coverage":"PASS","omitted":0,"duplicated":0,"reordered":0,"target_mismatches":0},
+  "protected_line_breaks":[
+    {"ordinal":158,"tu_id":"tu-1d6b6715f26ec06e48647069","paragraph_index":163,"expected":1,"actual":1},
+    {"ordinal":159,"tu_id":"tu-7bf505c2a900f9a86b97de59","paragraph_index":165,"expected":1,"actual":1},
+    {"ordinal":160,"tu_id":"tu-edbd0025cb74eda0d259f0f4","paragraph_index":167,"expected":1,"actual":1}
+  ],
+  "ooxml_structure":{"paragraphs":273,"tables":3,"rows":48,"cells":100,"page_breaks":6,"sections":1,"formatting_xml_unchanged_after_text_scrub":true,"non_document_package_parts_unchanged":true},
+  "offline_candidate_hash_analysis":{"offline_candidate_sha256":"e87ccb54bfa3878a107889e9bdc071c6977a4f213c11da88a8639018f536c088","offline_candidate_bytes_available":false,"fresh_reconstructions_produced_distinct_whole_zip_hashes_at_identical_size":true,"persisted_vs_fresh_document_xml_identical":true,"document_xml_sha256":"1e0b3e866f2e4ba951ef771ed07c9165a1a1090440e1dd73c20b197f085c54ca","all_ooxml_file_entry_payloads_identical":true,"cause":"Non-deterministic ZIP container metadata/directory-entry serialization; OOXML content is identical."},
+  "immutable_persistence":{"generation_id":"d3500ee6-2040-40ea-a20c-01e784074c63","artifact_id":"15e2967c-6cd6-42e4-b3d1-e93cf9f28890","artifact_status":"available","generation_status":"completed","validation_status":"PASS","rendered_from":"b0e8fec5-91c8-4755-87a4-ff8f6dd8d307","supersedes":"d67fe184-9227-40e1-81ef-082f6249608a","idempotent_generation_count":1,"additional_gpt_5_6_calls":0},
+  "sdlxliff":{"artifact_id":"45d9ddca-a58b-46c7-9cf9-549560aa9037","sha256":"2c00162dd6545a51f23fcbf1fe2df8c60a11ac0d4c95abd67614703517ad5639","byte_size":282648,"unchanged":true,"prior_validation":"265 targets, 6 structural page-break units, 3 protected codes, skeleton preserved"},
+  "focused_tests":{"passed":7,"failed":0},"final_gate":"PASS"
+}

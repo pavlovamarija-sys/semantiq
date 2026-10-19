@@ -1,0 +1,17 @@
+{
+  "environment": "local Supabase only",
+  "users": {
+    "A": "15fded86-af59-46bd-8472-8d824e93924f",
+    "B": "e7cf4279-efe8-47cc-a3cb-ffbbbfd3a6b5"
+  },
+  "results": {
+    "A_to_A": "PASS_POLICY_ALLOWED_FK_REJECTED",
+    "A_to_B": "PASS_RLS_DENIED_42501",
+    "B_to_B": "PASS_POLICY_ALLOWED_FK_REJECTED",
+    "B_to_A": "PASS_RLS_DENIED_42501",
+    "effective_user_endpoint_status": {"A": 200,"B": 200},
+    "cleanup": "PASS"
+  },
+  "production_modified": false,
+  "paid_model_calls": 0
+}

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210519T095347Z" creationid="HP\a">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32021R0235</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021R0235</prop>
+    <prop type="x-SourceTMX">32021R0235_MK1_tmx.tmx</prop>
+    <prop type="x-SourceTMXSHA256">794c5dc99fc9399343195993f7862a8e270aca8030452af89dd9deb5b1e134a5</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">3</prop>
+  </header>
+  <body>
+    <tu creationdate="20210214T155658Z" creationid="BLAZHESKI\a" changedate="20210519T095808Z" changeid="PC" lastusagedate="20210527T091142Z" usagecount="37">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING REGULATION (EU) 2021/235</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/235 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0235</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210519T100025Z" creationid="PC" changedate="20210519T100038Z" changeid="PC" lastusagedate="20210527T091142Z" usagecount="3">
+      <prop type="x-Context">7353582418551784268, 1901036649548470141</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 8 February 2021</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 8 февруари 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0235</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20200120T131717Z" creationid="SEI\Marija.Bojkova" changedate="20210519T100526Z" changeid="PC" lastusagedate="20210527T091142Z" usagecount="1">
+      <prop type="x-Context">7864611915906308453, 4631006620855767438</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0235</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

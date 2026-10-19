@@ -1,0 +1,12 @@
+{
+  "status":"PASS",
+  "summary":{"candidates":10,"available_source_pdf_artifacts":10,"completed_generations":10,"missing":0,"inaccessible":0,"invalid":0,"ambiguous":0,"failed":0,"unintended_duplicates":0},
+  "final_inventory":"artifacts/pdf-phase6c2a/final-source-artifact-inventory.json",
+  "manual_byte_validation":"artifacts/pdf-phase6c2a/final-manual-download-validation.json",
+  "idempotency":{"already_registered":10,"new_artifacts":0,"changed_hashes":0,"changed_sizes":0,"changed_paths":0,"overwritten_objects":0},
+  "history":[
+    {"stage":"initial","registered":1,"unauthorized":9,"classification":"PARTIAL"},
+    {"stage":"complete-set gate","valid_present":8,"missing":1,"registration_attempted":false,"classification":"PARTIAL"},
+    {"stage":"final authenticated set","valid_present":9,"registered":9,"classification":"PASS"}
+  ]
+}

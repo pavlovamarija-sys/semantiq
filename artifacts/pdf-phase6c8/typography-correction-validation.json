@@ -1,0 +1,22 @@
+{
+  "celex": "32006L0114",
+  "experimental_docx": "artifacts/pdf-phase6c8/32006L0114-typography-experimental.docx",
+  "sha256": "3471557af848d5891dabd2bdbd73c3b4e359b30d9c2fab68f0fc8a04c46bbf8a",
+  "size": 44923,
+  "text_integrity": "PASS",
+  "normalized_tokens": 3319,
+  "footnotes": 7,
+  "tables": 3,
+  "rows": 48,
+  "cells": 100,
+  "page_breaks": 6,
+  "canonical_nodes": 400,
+  "canonical_translation_units": 243,
+  "canonical_inline_codes": 10,
+  "automatic_list_numbering": 0,
+  "heading_title_list_styles_in_document_xml": 0,
+  "non_black_explicit_colors": 0,
+  "worker_tests": {"passed": 56, "failed": 0},
+  "typescript_typecheck": "PASS",
+  "immutable_artifacts_modified": false
+}

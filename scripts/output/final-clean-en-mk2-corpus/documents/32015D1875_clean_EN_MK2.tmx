@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="TW4Win 2.0 Format" datatype="rtf" segtype="sentence" adminlang="EN-GB" srclang="EN-GB" creationdate="20211009T181859Z" creationid="Petreski-PC\Petreski">
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32015D1875</prop>
+    <prop type="x-SourceTMX">32015D1875_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">2d3055d421c43421bb671fa3c65bd965dce1bd9df7a085a9a1b2c5f37f760c26</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">3</prop>
+  </header>
+  <body>
+    <tu creationdate="20211009T182107Z" creationid="Petreski-PC\Petreski" changedate="20211009T182128Z" changeid="Petreski-PC\Petreski" lastusagedate="20211010T193639Z" usagecount="1">
+      <tuv xml:lang="EN-GB">
+        <seg>of 8 October 2015</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>д 8 октомври 2015 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32015D1875</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20191009T224424Z" creationid="Petreski-PC\Petreski" changedate="20211009T183957Z" changeid="Petreski-PC\Petreski" lastusagedate="20211009T183957Z">
+      <tuv xml:lang="EN-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32015D1875</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211010T133512Z" creationid="Petreski-PC\Petreski" changedate="20211010T133716Z" changeid="Petreski-PC\Petreski" lastusagedate="20211010T133716Z">
+      <tuv xml:lang="EN-GB">
+        <seg>(37)	Ireland is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision which implements Decision 2005/387/JHA.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(36)Данска е обврзана со Одлуката 2005/387/ПВР и поради тоа таазатоа учествува во донесувањето и во примената на оваа одлука со која се спроведува Одлуката 2005/387/ПВР.</seg>
+      </tuv>
+      <prop type="x-CELEX">32015D1875</prop>
+      <prop type="x-SourceTUIndex">44</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

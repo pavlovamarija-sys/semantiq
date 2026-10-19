@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20221019T205248Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">52020DC0620_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">52020DC0620</prop>
+    <prop type="x-SourceTMX">52020DC0620_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">682c57c6508a4d4c2e549636b5dedd87731f8180aac2924261a7dec6d7125ced</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">5</prop>
+  </header>
+  <body>
+    <tu creationdate="20221019T212500Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova" changedate="20221019T212520Z" changeid="DESKTOP-Q0J86NE\Marija Pavlova" lastusagedate="20221019T212520Z">
+      <prop type="x-LastUsedBy">DESKTOP-Q0J86NE\Marija Pavlova</prop>
+      <prop type="x-Context">6050083232902252608, 4171504162135651458</prop>
+      <prop type="x-ContextContent">EUROPEAN COMMISSION |  | ЕВРОПСКА КОМИСИЈА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Brussels, 7.10.2020</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>0000 Брисел, 7.10.2020 година</seg>
+      </tuv>
+      <prop type="x-CELEX">52020DC0620</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221019T212655Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova" changedate="20221019T212700Z" changeid="DESKTOP-Q0J86NE\Marija Pavlova" lastusagedate="20221019T212700Z">
+      <prop type="x-LastUsedBy">DESKTOP-Q0J86NE\Marija Pavlova</prop>
+      <prop type="x-Context">-8320785039081719217, -4481737503503640347</prop>
+      <prop type="x-ContextContent">COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL |  | ИЗВЕШТАЈ НА КОМИСИЈАТА ДО ЕВРОПСКИОТ ПАРЛАМЕНТ И ДО СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>A Union of Equality:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ТОТ Унија на еднаквост:</seg>
+      </tuv>
+      <prop type="x-CELEX">52020DC0620</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221019T212712Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova" changedate="20221019T212738Z" changeid="DESKTOP-Q0J86NE\Marija Pavlova" lastusagedate="20221019T212738Z">
+      <prop type="x-LastUsedBy">DESKTOP-Q0J86NE\Marija Pavlova</prop>
+      <prop type="x-Context">6091972761714227425, -5564044036089889425</prop>
+      <prop type="x-ContextContent">A Union of Equality: |  | Унија на еднаквост: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>EU Roma strategic framework for equality, inclusion and participation</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Стратешка рамка на ЕУ за еднаквост, инклузија и учество на Ромите</seg>
+      </tuv>
+      <prop type="x-CELEX">52020DC0620</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221019T214658Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova" changedate="20221019T214859Z" changeid="DESKTOP-Q0J86NE\Marija Pavlova" lastusagedate="20221019T214859Z">
+      <prop type="x-LastUsedBy">DESKTOP-Q0J86NE\Marija Pavlova</prop>
+      <prop type="x-Context">7129840153724174453, -8161727909388193967</prop>
+      <prop type="x-ContextContent">{SWD(2020) 530 final} |  | {СВД(2020) 530 конечна верзија} | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where is the essence of humanity when every single day Roma people are excluded from society and others are held back simply because of the colour of their skin or their religious belief?</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>уштината на човештвото кога секој ден Ромите се исклучени од општеството, а други се соочуваат со препреки само поради бојата на нивната кожа или нивното религиозно убедување?</seg>
+      </tuv>
+      <prop type="x-CELEX">52020DC0620</prop>
+      <prop type="x-SourceTUIndex">12</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221019T214859Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova" changedate="20221019T214943Z" changeid="DESKTOP-Q0J86NE\Marija Pavlova" lastusagedate="20221019T214943Z">
+      <prop type="x-LastUsedBy">DESKTOP-Q0J86NE\Marija Pavlova</prop>
+      <prop type="x-Context">-5930595362803305704, -6403571017726765</prop>
+      <prop type="x-ContextContent">Where is the essence of humanity when every single day Roma people are excluded from society and others are held back simply because of the colour of their skin or their religious belief? |  | Каде е суштината на човештвото кога секој ден Ромите се исклучени од општеството, а други се соочуваат со препреки само поради бојата на нивната кожа или нивното религиозно убедување? | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Commission President von der Leyen, State of the Union 2020</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претседателка на Комисијата фон дер Лајен, состојба на Унијата 2020 година</seg>
+      </tuv>
+      <prop type="x-CELEX">52020DC0620</prop>
+      <prop type="x-SourceTUIndex">13</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

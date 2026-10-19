@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "sourcePdfSha256": "3100C4CF8A7BF243A62D7000D9B07A8FA4F0042688A312DEC3D285E76E46B966",
+  "docxSha256": "AE76DE601F14512BFB1CC467D188397807F237EB159199A935076046F380628A",
+  "integrity": {
+    "status": "PASS",
+    "tokens": 30922,
+    "sha256": "95844f1862db6c86e9461f6713fcd271f8a87143f7ff1dfc7c43d579fc64ddd6"
+  },
+  "docxStructure": {
+    "paragraphs": 2359,
+    "nonEmptyParagraphs": 2297,
+    "nativeTables": 8,
+    "rows": 278,
+    "cells": 556,
+    "multiParagraphCells": 0,
+    "controlledLineBreaks": 0,
+    "pageBreaks": 62,
+    "headingParagraphs": 215
+  },
+  "missing": 0,
+  "added": 0,
+  "duplicated": 0,
+  "changed": 0,
+  "reordered": 0
+}

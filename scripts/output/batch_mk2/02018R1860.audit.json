@@ -1,0 +1,2429 @@
+{
+  "celex": "02018R1860",
+  "dry_run": true,
+  "source_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02018R1860\\TMX_MK1\\02018R1860-20210803_TM.tmx"
+  ],
+  "mk2_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02018R1860\\MK2\\02018R1860-20210803_MK2.docx"
+  ],
+  "original_tmx_sha256": "f60f9d6e1b5ba514a55ba3d5aacdb6ecacf7708ab911394fe003ee2dc809472a",
+  "mk2_sha256": "0619fbcd7e696c575363d3b9b070bbeb473720de80ee1573a540c17d20452ad5",
+  "extraction": {
+    "format": "DOCX",
+    "paragraphs": 342,
+    "table cells": 132,
+    "characters": 28464,
+    "extraction method": "OOXML body traversal",
+    "error": ""
+  },
+  "results": [
+    {
+      "index": 1,
+      "en": "This text is meant purely as a documentation tool and has no legal effect.",
+      "mk1": "Овој текст е наменет само како алатка за документирање и нема правно дејство.",
+      "status": "REVIEW",
+      "target": "Овој текст е наменет само како алатка за документирање и нема правно дејство. Институциите на Унијата не преземаат никаква одговорност за",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 2,
+      "en": "The Union's institutions do not assume any liability for its contents.",
+      "mk1": "Институциите на Унијата не преземаат никаква одговорност за неговата содржина.",
+      "status": "UNMATCHED",
+      "target": "неговата содржина. Верзиите објавени во Службениот весник на Европската Унија и достапни во ЕУР-Лекс,ЕУРЛЕКС се автентичните верзии на соо",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 3,
+      "en": "Those official texts are directly accessible through the links embedded in this document",
+      "mk1": "Тие официјални текстови се директно достапни преку врските содржани во овој документ",
+      "status": "REVIEW",
+      "target": "дветните акти, вклучително и нивните преамбули. Тие официјални службени текстови се директно достапни преку линковите содржани во овој документ. ►B Б",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 2,
+      "en": "The Union's institutions do not assume any liability for its contents.",
+      "mk1": "Институциите на Унијата не преземаат никаква одговорност за неговата содржина.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 3,
+      "en": "Those official texts are directly accessible through the links embedded in this document",
+      "mk1": "Тие официјални текстови се директно достапни преку врските содржани во овој документ",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 4,
+      "en": "►B",
+      "mk1": "►Б",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 5,
+      "en": "REGULATION (EU) 2018/1860 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+      "mk1": "РЕГУЛАТИВА (ЕУ) 2018/1860 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+      "status": "UNMATCHED",
+      "target": "за користење на Шенгенскиот информ",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "of 28 November 2018",
+      "mk1": "од 28 ноември 2018 година",
+      "status": "UNMATCHED",
+      "target": "ациски систем",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 7,
+      "en": "on the use of the Schengen Information System for the return of illegally staying third-country nationals",
+      "mk1": "за користење на Шенгенскиот информациски систем за враќање на државјани на трети земји со незаконски престој",
+      "status": "UNMATCHED",
+      "target": "за враќање на државјани на трета земја со незаконски престој",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "of 28 November 2018",
+      "mk1": "од 28 ноември 2018 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 7,
+      "en": "on the use of the Schengen Information System for the return of illegally staying third-country nationals",
+      "mk1": "за користење на Шенгенскиот информациски систем за враќање на државјани на трети земји со незаконски престој",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 8,
+      "en": "(OJ L 312 7.12.2018, p. 1)",
+      "mk1": "(Сл. Весник L 312 7.12.2018 година, стр. 1)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 9,
+      "en": "Amended by:",
+      "mk1": "Изменета со:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 10,
+      "en": "Official Journal",
+      "mk1": "Службен весник",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 11,
+      "en": "No",
+      "mk1": "бр.",
+      "status": "MANUAL_BOUNDARY",
+      "target": "да",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 12,
+      "en": "date",
+      "mk1": "датум",
+      "status": "MANUAL_BOUNDARY",
+      "target": "тум",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 12,
+      "en": "date",
+      "mk1": "датум",
+      "status": "MANUAL_BOUNDARY",
+      "target": "►M1 К",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 13,
+      "en": "►M1",
+      "mk1": "►M1",
+      "status": "MANUAL_BOUNDARY",
+      "target": "1 Р",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 14,
+      "en": "REGULATION (EU) 2021/1152 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 July 2021",
+      "mk1": "РЕГУЛАТИВА (ЕУ) 2021/1152 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ од 7 јули 2021 година",
+      "status": "MANUAL_BOUNDARY",
+      "target": "ЕГУЛАТИВА (ЕУ) 2021/1152 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ од 7 јули, 2021 година L 249",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 13,
+      "en": "►M1",
+      "mk1": "►M1",
+      "status": "MANUAL_BOUNDARY",
+      "target": "15",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 14,
+      "en": "REGULATION (EU) 2021/1152 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 July 2021",
+      "mk1": "РЕГУЛАТИВА (ЕУ) 2021/1152 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ од 7 јули 2021 година",
+      "status": "MANUAL_BOUNDARY",
+      "target": "14.7.2021 година ▼B Б РЕГУЛАТИВА (ЕУ) 2018/1860 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 14,
+      "en": "REGULATION (EU) 2021/1152 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 July 2021",
+      "mk1": "РЕГУЛАТИВА (ЕУ) 2021/1152 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ од 7 јули 2021 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 15,
+      "en": "L 249",
+      "mk1": "L 249",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 16,
+      "en": "15",
+      "mk1": "15",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 17,
+      "en": "14.7.2021",
+      "mk1": "14.7.2021 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 18,
+      "en": "▼B REGULATION (EU) 2018/1860 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+      "mk1": "▼Б РЕГУЛАТИВА (ЕУ) 2018/1860 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 19,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "status": "UNMATCHED",
+      "target": "Оваа р",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 20,
+      "en": "Subject matter and scope",
+      "mk1": "Предмет и опсег",
+      "status": "UNMATCHED",
+      "target": "егулатива ги у",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 21,
+      "en": "This Regulation lays down the conditions and procedures for the entry and processing of alerts in respect of third-country nationals subject to return decisions issued by the Member States in the Schengen Information System (SIS) established by Regulation (EU) 2018/1861, as well as for exchanging supplementary information on such alerts.",
+      "mk1": "Оваа регулатива ги утврдува условите и постапките за внесување и обработка на предупредувања за државјани на трети земји кои се предмет на одлуки за враќање  издадени од земјите членки во Шенгенскиот информациски систем (SIS) воспоставен со Регулативата (ЕУ) 2018/1861, како и за размена на дополнителни информации за такви предупредувања.",
+      "status": "HIGH",
+      "target": "тврдува условите и постапките за внесување и обработување предупредувања за државјани на трети земји кои се предмет на одлуки за враќање издадени од земјите членки во Шенгенскиот информациски систем (СИС), утврден со Регулативата (ЕУ) 2018/1861, како и за размена на дополнителни информации за такви предупредувања.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 20,
+      "en": "Subject matter and scope",
+      "mk1": "Предмет и опсег",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 21,
+      "en": "This Regulation lays down the conditions and procedures for the entry and processing of alerts in respect of third-country nationals subject to return decisions issued by the Member States in the Schengen Information System (SIS) established by Regulation (EU) 2018/1861, as well as for exchanging supplementary information on such alerts.",
+      "mk1": "Оваа регулатива ги утврдува условите и постапките за внесување и обработка на предупредувања за државјани на трети земји кои се предмет на одлуки за враќање  издадени од земјите членки во Шенгенскиот информациски систем (SIS) воспоставен со Регулативата (ЕУ) 2018/1861, како и за размена на дополнителни информации за такви предупредувања.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 22,
+      "en": "Definitions",
+      "mk1": "Дефиниции",
+      "status": "UNMATCHED",
+      "target": "За целите",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 23,
+      "en": "For the purposes of this Regulation, the following definitions apply:",
+      "mk1": "За целите на оваа регулатива, се применуваат следниве дефиниции:",
+      "status": "REVIEW",
+      "target": "на оваа регулатива, се применуваат следниве дефиниции: (1)„в",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 24,
+      "en": "(1)\t‘return’ means return as defined in point (3) of Article 3 of Directive 2008/115/EC;",
+      "mk1": "(1) „враќање“ е враќање согласно на дефинираното во точка (3) од член 3 од Директивата 2008/115/ЕЗ;",
+      "status": "HIGH",
+      "target": "раќање“ е враќање согласно на дефинираното во точка (3) од член 3 од Директивата 2008/115/ЕЗ;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 23,
+      "en": "For the purposes of this Regulation, the following definitions apply:",
+      "mk1": "За целите на оваа регулатива, се применуваат следниве дефиниции:",
+      "status": "UNMATCHED",
+      "target": "(2)„државјанин на трета земја“ е државјанин на трета зем",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 24,
+      "en": "(1)\t‘return’ means return as defined in point (3) of Article 3 of Directive 2008/115/EC;",
+      "mk1": "(1) „враќање“ е враќање согласно на дефинираното во точка (3) од член 3 од Директивата 2008/115/ЕЗ;",
+      "status": "REVIEW",
+      "target": "ја во согласност на со дефинираното во точка (1) од член 3 од Директивата 2008/115/ЕЗ;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 24,
+      "en": "(1)\t‘return’ means return as defined in point (3) of Article 3 of Directive 2008/115/EC;",
+      "mk1": "(1) „враќање“ е враќање согласно на дефинираното во точка (3) од член 3 од Директивата 2008/115/ЕЗ;",
+      "status": "UNMATCHED",
+      "target": "(3) „одлука за враќање“ е административна или судс",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 25,
+      "en": "(2)\t‘third-country national’ means a third-country national as defined in point (1) of Article 3 of Directive 2008/115/EC;",
+      "mk1": "(2) „државјанин на трета земја“ е државјанин на трета земја согласно на дефинираното во точка (1) од член 3 од Директивата 2008/115/ЕЗ;",
+      "status": "UNMATCHED",
+      "target": "ка одлука или акт каде што се наведува или утврдува незаконскиот пре",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 26,
+      "en": "(3)\t‘return decision’ means an administrative or judicial decision or act, stating or declaring the stay of a third-country national to be illegal and imposing or stating an obligation to return that respects Directive 2008/115/EC;",
+      "mk1": "(3) „одлука за враќање“ е административна или судска одлука или акт со која се наведува или утврдува незаконскиот престој на државјанин на трета земја и се одредува или наведува обврска за враќање, во согласност со Директивата 2008/115/ЕЗ;",
+      "status": "UNMATCHED",
+      "target": "стој на државјанин на трета земја и се одредува или наведува обврска за враќање, во согласност со Директивата 2008/115/ЕЗ;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 25,
+      "en": "(2)\t‘third-country national’ means a third-country national as defined in point (1) of Article 3 of Directive 2008/115/EC;",
+      "mk1": "(2) „државјанин на трета земја“ е државјанин на трета земја согласно на дефинираното во точка (1) од член 3 од Директивата 2008/115/ЕЗ;",
+      "status": "UNMATCHED",
+      "target": "(4) „предупредување“ е предупредување согласно на дефинираното во точка (1) од член 3 од Регулативата (EУ) 2018/1861;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 26,
+      "en": "(3)\t‘return decision’ means an administrative or judicial decision or act, stating or declaring the stay of a third-country national to be illegal and imposing or stating an obligation to return that respects Directive 2008/115/EC;",
+      "mk1": "(3) „одлука за враќање“ е административна или судска одлука или акт со која се наведува или утврдува незаконскиот престој на државјанин на трета земја и се одредува или наведува обврска за враќање, во согласност со Директивата 2008/115/ЕЗ;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 27,
+      "en": "(4)\t‘alert’ means an alert as defined in point (1) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(4) „предупредување“ е предупредување согласно на дефинираното во точка (1) од член 3 од Регулативата (EУ) 2018/1861;",
+      "status": "REVIEW",
+      "target": "(6) „отстранување“ е отстранување согласно на дефинираното во точка (5) од член 3 од Директивата 2008/115/ЕЗ;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 28,
+      "en": "(5)\t‘supplementary information’ means supplementary information as defined in point (2) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(5) „дополнителни информации“ се информации согласно на дефинираното во точка (2) од член 3 од Регулативата (EУ) 2018/1861;",
+      "status": "UNMATCHED",
+      "target": "(7)„доброволно заминување“ е доброволно заминување во согласност на со дефинираното во точка (8) од член 3 од Директивата 2008/115/ЕЗ;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 29,
+      "en": "(6)\t‘removal’ means removal as defined in point (5) of Article 3 of Directive 2008/115/EC;",
+      "mk1": "(6) „отстранување“ е отстранување согласно на дефинираното во точка (5) од член 3 од Директивата 2008/115/ЕЗ;",
+      "status": "UNMATCHED",
+      "target": "(8) „земја членка- издавач“ е земја членка која што издава во согласност на со дефинираното во точка (10) од член 3 од Регулативата (EУ) 2018/1861;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 30,
+      "en": "(7)\t‘voluntary departure’ means a voluntary departure as defined in point (8) of Article 3 of Directive 2008/115/EC;",
+      "mk1": "(7) „доброволно заминување“ е доброволно заминување согласно на дефинираното во точка (8) од член 3 од Директивата 2008/115/ЕЗ;",
+      "status": "UNMATCHED",
+      "target": "(9) „земја членка- одобрувач“ е земја членка која што одобрува во согласност на со дефинираното во точка (11) од член 3 од Регулативата (EУ) 2018/1861;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 31,
+      "en": "(8)\t‘issuing Member State’ means an issuing Member State as defined in point (10) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(8) „земја членка што издава“ е земја членка што издава согласно на дефинираното во точка (10) од член 3 од Регулативата (EУ) 2018/1861;",
+      "status": "REVIEW",
+      "target": "(10) „земја членка- извршител“ е земја членка која што извршува согласно на дефинираното во точка (12) од член 3 од Регулативата (EУ) 2018/1861;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 32,
+      "en": "(9)\t‘granting Member State’ means a granting Member State as defined in point (11) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(9) „земја членка што одобрува“ е земја членка што одобрува согласно на дефинираното во точка (11) од член 3 од Регулативата (EУ) 2018/1861;",
+      "status": "UNMATCHED",
+      "target": "(11)„лични податоци“ се лични податоци согласно на дефинираното во точка (1) од член 4 од Регулативата (EУ) 2016/679;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 33,
+      "en": "(10)\t‘executing Member State’ means an executing Member State as defined in point (12) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(10) „земја членка што извршува“ е земја членка што извршува согласно на дефинираното во точка (12) од член 3 од Регулативата (EУ) 2018/1861;",
+      "status": "UNMATCHED",
+      "target": "(12)„ЦС-ЦСИС“ значи е функција за техничка поддршка на централниот СИС во согласност на со дефинираното во точка (а), од член 4(1) од Регулативата (ЕУ) 2018/1861;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 34,
+      "en": "(11)\t‘personal data’ means personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679;",
+      "mk1": "(11) „лични податоци“ се лични податоци согласно на дефинираното во точка (1) од член 4 од Регулативата (EУ) 2016/679;",
+      "status": "REVIEW",
+      "target": "(13)„дозвола за престој“ е дозвола за престој во согласност на со дефинираното во точка (16) од член 2 од Регулативата (EУ) 2016/399;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 35,
+      "en": "(12)\t‘CS-SIS’ means the technical support function of the Central SIS as referred to in point (a) of Article 4(1) of Regulation (EU) 2018/1861;",
+      "mk1": "(12) „CS-SIS“ значи функција за техничка поддршка на централниот SIS согласно на дефинираното во точка (а) од член 4(1) од Регулативата (ЕУ) 2018/1861;",
+      "status": "UNMATCHED",
+      "target": "(14) „виза за за - долгорочен престој“ е виза за долгорочен престој од член 18(1) од",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 36,
+      "en": "(13)\t‘residence permit’ means a residence permit as defined in point (16) of Article 2 of Regulation (EU) 2016/399;",
+      "mk1": "(13) „дозвола за престој“ дозвола за престој согласно на дефинираното во точка (16) од член 2 од Регулативата (EУ) 2016/399;",
+      "status": "UNMATCHED",
+      "target": "Конвенцијата од 19 јуни 1990 година, за спроведување на Шенгенскиот до",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 37,
+      "en": "(14)\t‘long-stay visa’ means a long-stay visa as referred to in Article 18(1) of Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 between the governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders ();",
+      "mk1": "(14) „виза за долг престој“ е виза за долгoрочен престој како што е наведено во член 18(1) од Конвенцијата од 19 јуни 1990 година за спроведување на Шенгенскиот договор од 14 јуни 1985 година помеѓу владите на државите на Економската унија на Бенелукс, Сојузна Република  Германија и Република Франција за постепено укинување на проверките на нивните заеднички граници ();",
+      "status": "REVIEW",
+      "target": "говор од 14 јуни 1985 година, помеѓу владите на државите од Економската унија на Бенелукс, Сојузна Република Германија и Република Франција за постепено укинување на проверките на нивните заеднички граници ();",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 36,
+      "en": "(13)\t‘residence permit’ means a residence permit as defined in point (16) of Article 2 of Regulation (EU) 2016/399;",
+      "mk1": "(13) „дозвола за престој“ дозвола за престој согласно на дефинираното во точка (16) од член 2 од Регулативата (EУ) 2016/399;",
+      "status": "UNMATCHED",
+      "target": "(15) „потврдено совпаѓање“ е потврдено совпаѓање во согласност на со дефинираното во точка (8) од член 3 од Регулативата (EУ) 2018/1861;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 37,
+      "en": "(14)\t‘long-stay visa’ means a long-stay visa as referred to in Article 18(1) of Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 between the governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders ();",
+      "mk1": "(14) „виза за долг престој“ е виза за долгoрочен престој како што е наведено во член 18(1) од Конвенцијата од 19 јуни 1990 година за спроведување на Шенгенскиот договор од 14 јуни 1985 година помеѓу владите на државите на Економската унија на Бенелукс, Сојузна Република  Германија и Република Франција за постепено укинување на проверките на нивните заеднички граници ();",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 38,
+      "en": " OJ L 239, 22.9.2000, p. 19.",
+      "mk1": " (Сл. Весник L 239, 22.9.2000 година, стр. 19).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 39,
+      "en": "(15)\ta ‘hit’ means a hit as defined in point (8) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(15) „потврдено совпаѓање“ е потврдено совпаѓање согласно на дефинираното во точка (8) од член 3 од Регулативата (EУ) 2018/1861;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 40,
+      "en": "(16)\t‘threat to public health’ means a threat to public health as defined in point (21) of Article 2 of Regulation (EU) 2016/399;",
+      "mk1": "(16) „закана по јавно здравје“ е закана по јавно здравје согласно на дефинираното во точка (21) од член 2 од Регулативата (EУ) 2016/399;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 41,
+      "en": "(17)\t‘external borders’ means the external borders as defined in point (2) of Article 2 of Regulation (EU) 2016/399.",
+      "mk1": "(17) „надворешни граници“ се надворешни граници согласно на дефинираното во точка (2) од член 2 од Регулативата (EУ) 2016/399.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 42,
+      "en": "Entry of alerts on return into SIS",
+      "mk1": "Внесување предупредувања за враќање во СИС",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 43,
+      "en": "1.",
+      "mk1": "1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 44,
+      "en": "Member States shall enter into SIS alerts on third-country nationals subject to a return decision for the purpose of verifying that the obligation to return has been complied with and of supporting the enforcement of the return decisions.",
+      "mk1": "Земјите членки внесуваат предупредувања во СИС за државјани на трети земји кои се предмет на одлука за враќање со цел да проверат дали обврската за враќање е исполнета и да го помогнат спроведувањето на одлуките за враќање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 45,
+      "en": "An alert on return shall be entered into SIS without delay following issue of a return decision.",
+      "mk1": "По издавање на одлуката за враќање предупредувањето за враќање се внесува во SIS без одлагање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 46,
+      "en": "Member States may refrain from entering alerts on return when the return decisions concern third-country nationals who are detained pending removal.",
+      "mk1": "Земјите-членки може да се воздржат од внесување предупредување за враќање кога одлуките за враќање се однесуваат на државјани на трета земја приведени во очекување на отстранување.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 47,
+      "en": "If the third-country nationals concerned are released from detention without being removed, an alert on return shall be entered into SIS without delay.",
+      "mk1": "Доколку засегнатите државјани на трета земја не се задржани без да бидат отстранети, предупредувањето за враќање се внесува во ШИС без одлагање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 48,
+      "en": "Member States may refrain from entering alerts on return when the return decision is issued at the external border of a Member State and is executed immediately.",
+      "mk1": "Земјите членки може да се воздржат од внесување предупредувања за враќање кога одлуката за враќање се издава на надворешната граница на земја членка и веднаш се извршува.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 49,
+      "en": "The period for voluntary departure granted in accordance with Article 7 of Directive 2008/115/EC shall be recorded in the alert on return immediately.",
+      "mk1": "Рокот за доброволно заминување, одобрен во согласност со член 7 од Директивата 2008/115/EC, веднаш се евидентира во предупредувањето за враќање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 50,
+      "en": "Categories of data",
+      "mk1": "Категории податоци",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 51,
+      "en": "An alert on return entered into SIS in accordance with Article 3 of this Regulation shall contain only the following data:",
+      "mk1": "Предупредување за враќање внесено во ШИС во согласност со член 3 од оваа регулатива ги содржи само следниве податоци:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 52,
+      "en": "(a)\tsurnames;",
+      "mk1": "(а) презимиња;",
+      "status": "UNMATCHED",
+      "target": "(б) сопстве",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 53,
+      "en": "(b)\tforenames;",
+      "mk1": "(б) сопствени имиња;",
+      "status": "UNMATCHED",
+      "target": "ни имиња; (в) и",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 54,
+      "en": "(c)\tnames at birth;",
+      "mk1": "(в) имиња при раѓање;",
+      "status": "HIGH",
+      "target": "миња при раѓање;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 53,
+      "en": "(b)\tforenames;",
+      "mk1": "(б) сопствени имиња;",
+      "status": "UNMATCHED",
+      "target": "(г) претхо",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 54,
+      "en": "(c)\tnames at birth;",
+      "mk1": "(в) имиња при раѓање;",
+      "status": "UNMATCHED",
+      "target": "дно користе",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 55,
+      "en": "(d)\tpreviously used names and aliases;",
+      "mk1": "(г) претходно користени имиња и псевдоними;",
+      "status": "UNMATCHED",
+      "target": "ни имиња и псевдоними;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 54,
+      "en": "(c)\tnames at birth;",
+      "mk1": "(в) имиња при раѓање;",
+      "status": "UNMATCHED",
+      "target": "(д) место на раѓање;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 55,
+      "en": "(d)\tpreviously used names and aliases;",
+      "mk1": "(г) претходно користени имиња и псевдоними;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 56,
+      "en": "(e)\tplace of birth;",
+      "mk1": "(д) место на раѓање;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 57,
+      "en": "(f)\tdate of birth;",
+      "mk1": "(ѓ) датум на раѓање;",
+      "status": "UNMATCHED",
+      "target": "(ж) сите држ",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 58,
+      "en": "(g)\tgender;",
+      "mk1": "(е) пол;",
+      "status": "UNMATCHED",
+      "target": "авјан",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 59,
+      "en": "(h)\tany nationalities held;",
+      "mk1": "(ж) секое државјанство што го поседува лицето;",
+      "status": "REVIEW",
+      "target": "ства што ги поседува лицето;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 58,
+      "en": "(g)\tgender;",
+      "mk1": "(е) пол;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 59,
+      "en": "(h)\tany nationalities held;",
+      "mk1": "(ж) секое државјанство што го поседува лицето;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 60,
+      "en": "(i)\twhether the person concerned:",
+      "mk1": "(з) дали соодветното лице:",
+      "status": "UNMATCHED",
+      "target": "(i) вооруженонаору",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 61,
+      "en": "(i)\tis armed;",
+      "mk1": "(i) наоружано;",
+      "status": "UNMATCHED",
+      "target": "жано; (ii)",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 62,
+      "en": "(ii)\tis violent;",
+      "mk1": "(ii) насилно;",
+      "status": "REVIEW",
+      "target": "насилно;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 61,
+      "en": "(i)\tis armed;",
+      "mk1": "(i) наоружано;",
+      "status": "UNMATCHED",
+      "target": "(iii) в",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 62,
+      "en": "(ii)\tis violent;",
+      "mk1": "(ii) насилно;",
+      "status": "UNMATCHED",
+      "target": "о бегст",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 63,
+      "en": "(iii)\thas absconded or escaped;",
+      "mk1": "(iii) во бегство или избегало;",
+      "status": "REVIEW",
+      "target": "во или избегало;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 62,
+      "en": "(ii)\tis violent;",
+      "mk1": "(ii) насилно;",
+      "status": "UNMATCHED",
+      "target": "(iv)",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 63,
+      "en": "(iii)\thas absconded or escaped;",
+      "mk1": "(iii) во бегство или избегало;",
+      "status": "UNMATCHED",
+      "target": "склоно кон с",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 64,
+      "en": "(iv)\tposes a risk of suicide;",
+      "mk1": "(iv) склоно кон самоубиство;",
+      "status": "UNMATCHED",
+      "target": "амоубиство;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 63,
+      "en": "(iii)\thas absconded or escaped;",
+      "mk1": "(iii) во бегство или избегало;",
+      "status": "UNMATCHED",
+      "target": "(v)претставув",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 64,
+      "en": "(iv)\tposes a risk of suicide;",
+      "mk1": "(iv) склоно кон самоубиство;",
+      "status": "UNMATCHED",
+      "target": "а закана по",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 65,
+      "en": "(v)\tposes a threat to public health; or",
+      "mk1": "(v)  претставува закана по јавното здравје; или",
+      "status": "UNMATCHED",
+      "target": "јавното здравје; или",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 64,
+      "en": "(iv)\tposes a risk of suicide;",
+      "mk1": "(iv) склоно кон самоубиство;",
+      "status": "UNMATCHED",
+      "target": "(vi) вклучено в",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 65,
+      "en": "(v)\tposes a threat to public health; or",
+      "mk1": "(v)  претставува закана по јавното здравје; или",
+      "status": "UNMATCHED",
+      "target": "о некоја дејност од члено",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 66,
+      "en": "(vi)\tis involved in an activity referred to in Articles 3 to 14 of Directive (EU) 2017/541;",
+      "mk1": "(vi) вклучено во некоја дејност од членовите од 3 до 14 од Директивата (ЕУ) 2017/541;",
+      "status": "UNMATCHED",
+      "target": "вите од 3 до 14 од Директивата (ЕУ) 2017/541;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 65,
+      "en": "(v)\tposes a threat to public health; or",
+      "mk1": "(v)  претставува закана по јавното здравје; или",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 66,
+      "en": "(vi)\tis involved in an activity referred to in Articles 3 to 14 of Directive (EU) 2017/541;",
+      "mk1": "(vi) вклучено во некоја дејност од членовите од 3 до 14 од Директивата (ЕУ) 2017/541;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 67,
+      "en": "(j)\tthe reason for the alert;",
+      "mk1": "(s) причината за предупредување;",
+      "status": "UNMATCHED",
+      "target": "(ј) упатување н",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 68,
+      "en": "(k)\tthe authority which created the alert;",
+      "mk1": "(и) телото кое го изработило предупредувањето;",
+      "status": "UNMATCHED",
+      "target": "а кон одлуката која е",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 69,
+      "en": "(l)\ta reference to the decision giving rise to the alert;",
+      "mk1": "(ј) упатување на одлуката која е причина за  предупредување;",
+      "status": "UNMATCHED",
+      "target": "причина за предупредување;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 68,
+      "en": "(k)\tthe authority which created the alert;",
+      "mk1": "(и) телото кое го изработило предупредувањето;",
+      "status": "UNMATCHED",
+      "target": "(к) мерката што тр",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 69,
+      "en": "(l)\ta reference to the decision giving rise to the alert;",
+      "mk1": "(ј) упатување на одлуката која е причина за  предупредување;",
+      "status": "UNMATCHED",
+      "target": "еба да се преземе во слу",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 70,
+      "en": "(m)\tthe action to be taken in the case of a hit;",
+      "mk1": "(к) мерка што треба да се преземе во случај на потврдено совпаѓање;",
+      "status": "UNMATCHED",
+      "target": "чај на потврдено совпаѓање;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 69,
+      "en": "(l)\ta reference to the decision giving rise to the alert;",
+      "mk1": "(ј) упатување на одлуката која е причина за  предупредување;",
+      "status": "UNMATCHED",
+      "target": "(л) линкови до други преду",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 70,
+      "en": "(m)\tthe action to be taken in the case of a hit;",
+      "mk1": "(к) мерка што треба да се преземе во случај на потврдено совпаѓање;",
+      "status": "UNMATCHED",
+      "target": "предувања во согласност со чл",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 71,
+      "en": "(n)\tlinks to other alerts pursuant to Article 48 of Regulation (EU) 2018/1861;",
+      "mk1": "(л) линкови до други предупредувања согласно со член 48 од Регулативата (ЕУ) 2018/1861;",
+      "status": "UNMATCHED",
+      "target": "ен 48 од Регулативата (ЕУ) 2018/1861;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 70,
+      "en": "(m)\tthe action to be taken in the case of a hit;",
+      "mk1": "(к) мерка што треба да се преземе во случај на потврдено совпаѓање;",
+      "status": "UNMATCHED",
+      "target": "(љ) дали одлуката за враќање е из",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 71,
+      "en": "(n)\tlinks to other alerts pursuant to Article 48 of Regulation (EU) 2018/1861;",
+      "mk1": "(л) линкови до други предупредувања согласно со член 48 од Регулативата (ЕУ) 2018/1861;",
+      "status": "UNMATCHED",
+      "target": "дадена за државјанин на трета земја кој пре",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 72,
+      "en": "(o)\twhether the return decision is issued in relation to a third-country national who poses a threat to public policy, to public security or to national security;",
+      "mk1": "(љ) дали одлуката за враќање е издадена во однос на државјанин на трета земја кој претставува закана за јавната политика, јавната безбедност или националната безбедност;",
+      "status": "UNMATCHED",
+      "target": "тставува закана за јавната политика, јавната безбедност или националната безбедност;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 71,
+      "en": "(n)\tlinks to other alerts pursuant to Article 48 of Regulation (EU) 2018/1861;",
+      "mk1": "(л) линкови до други предупредувања согласно со член 48 од Регулативата (ЕУ) 2018/1861;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 72,
+      "en": "(o)\twhether the return decision is issued in relation to a third-country national who poses a threat to public policy, to public security or to national security;",
+      "mk1": "(љ) дали одлуката за враќање е издадена во однос на државјанин на трета земја кој претставува закана за јавната политика, јавната безбедност или националната безбедност;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 73,
+      "en": "(p)\tthe type of offence;",
+      "mk1": "(м) вид на казнено дело;",
+      "status": "UNMATCHED",
+      "target": "(њ) земјата која ги",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 74,
+      "en": "(q)\tthe category of the person's identification documents;",
+      "mk1": "(н) категоријата на документите за идентификација на лицето;",
+      "status": "REVIEW",
+      "target": "издала документите за идентификација на лицето;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 74,
+      "en": "(q)\tthe category of the person's identification documents;",
+      "mk1": "(н) категоријата на документите за идентификација на лицето;",
+      "status": "REVIEW",
+      "target": "(о) број/броеви на документите за идентификација на лицето;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 75,
+      "en": "(r)\tthe country of issue of the person's identification documents;",
+      "mk1": "(њ) земја која ги издала документите за идентификација на лицето;",
+      "status": "REVIEW",
+      "target": "(п) датум на издавање на документите за идентификација на лицето;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 75,
+      "en": "(r)\tthe country of issue of the person's identification documents;",
+      "mk1": "(њ) земја која ги издала документите за идентификација на лицето;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 76,
+      "en": "(s)\tthe number(s) of the person's identification documents;",
+      "mk1": "(о) број/броеви на документите за идентификација на лицето;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 77,
+      "en": "(t)\tthe date of issue of the person's identification documents;",
+      "mk1": "(п) датум на издавање на документите за идентификација на лицето;",
+      "status": "UNMATCHED",
+      "target": "(т) копија од документите за идентификација, по можност во боја;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 78,
+      "en": "(u)\tphotographs and facial images;",
+      "mk1": "(р) фотографии и приказ на лицето;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 79,
+      "en": "(v)\tdactyloscopic data;",
+      "mk1": "(с) дактилоскопски податоци;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 80,
+      "en": "(w)\ta copy of the identification documents, in colour wherever possible;",
+      "mk1": "(т) копија од документите за идентификација, по можност во боја;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 81,
+      "en": "(x)\tlast date of the period for voluntary departure, if granted;",
+      "mk1": "(ќ) последен датум на рокот за доброволно заминување, доколку е одобрен таков рок;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 82,
+      "en": "(y)\twhether the return decision has been suspended or the enforcement of the decision has been postponed, including as a result of the lodging of an appeal;",
+      "mk1": "(у) дали одлуката за враќање е суспендирана или извршувањето на одлуката е одложено, вклучително и како резултат на поднесување жалба;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 83,
+      "en": "(z)\twhether the return decision is accompanied by an entry ban constituting the basis for an alert for refusal of entry and stay pursuant to point (b) of Article 24(1) of Regulation (EU) 2018/1861.",
+      "mk1": "(ф) дали одлуката за враќање е придружена со забрана за влез што претставува основа за предупредување за одбивање на влез и престој согласно точка (б) од член 24(1) од Регулативата (ЕУ) 2018/1861.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 84,
+      "en": "The minimum set of data necessary to enter an alert into SIS shall be the data referred to in points (a), (f), (j), (l), (m), (x) and (z) of paragraph 1.",
+      "mk1": "Минималниот збир на податоци потребни за внесување на предупредување во СИС, се податоците наведени во точките (а), (ѓ), (ѕ), (л), (м), (х) и (з) од став 1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 85,
+      "en": "The other data referred to in that paragraph shall also be entered into SIS, if available.",
+      "mk1": "Останатите податоци наведени во тој став, исто така, се внесуваат во СИС, доколку се достапни.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 86,
+      "en": "Dactyloscopic data referred to in point (v) of paragraph 1 may consist of:",
+      "mk1": "Дактилоскопските податоци наведени во точка (v) од став 1 можат да се состојат од:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 87,
+      "en": "(a)\tone to ten flat fingerprints and one to ten rolled fingerprints of the third-country national concerned;",
+      "mk1": "(а) еден до десет рамни отпечатоци од прсти и од еден до десет отпечатоци од прсти по обиколката на прстот од засегнатиот државјанин на трета земја;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 88,
+      "en": "(b)\tup to two palm prints in respect of third-country nationals from whom the collection of fingerprints is impossible;",
+      "mk1": "(б) најмногу два отпечатоци од дланка за државјани на трети земји од кои е невозможно да се земат отпечатоци од прсти;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 89,
+      "en": "(c)\tup to two palm prints in respect of third-country nationals who are subject to return as a criminal law sanction or who have committed a criminal offence on the territory of the Member State which issued the return decision.",
+      "mk1": "(в) најмногу два отпечатоци од дланка задржавјани на трета земја кои се предмет на враќање како кривично-правна санкција или кои извршиле кривично дело на територијата на земјата членка која го издала решението за враќање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 90,
+      "en": "Authority responsible for the exchange of supplementary information",
+      "mk1": "Надлежен орган за размена на дополнителни информации",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 91,
+      "en": "The SIRENE Bureau designated under Article 7 of Regulation (EU) 2018/1861 shall ensure the exchange of all supplementary information on third-country nationals who are the subject of an alert on return, in accordance with Articles 7 and 8 of that Regulation.",
+      "mk1": "Бирото СИРЕНЕ, именувано според член 7 од Регулативата (ЕУ) 2018/1861, осигурува размена на сите дополнителни информации за државјаните на трета земја кои се предмет на предупредување за враќање, во согласност со членовите 7 и 8 од таа регулатива.",
+      "status": "UNMATCHED",
+      "target": "1.Во случај на потврдено совпаѓање со предупредување за враќање кое се однесува на државјанин на трета земја, кој излегува од т",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 92,
+      "en": "Hits at the external borders at exit — Confirmation of return",
+      "mk1": "Потврдени совпаѓања добиени на надворешните граници при излез — Потврда за враќање",
+      "status": "UNMATCHED",
+      "target": "ериторијата на земјите членки преку надвор",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 93,
+      "en": "In the event of a hit on an alert on return concerning a third-country national who is exiting the territory of the Member States through the external border of a Member State, the executing Member State shall communicate the following information to the issuing Member State through the exchange of supplementary information:",
+      "mk1": "Во случај на потврдено совпаѓање на предупредување за враќање за државјанин на трета земја кој излегува од територијата на земјите членки преку надворешната граница на земја членка, земјата членка што извршува преку размена на дополнителни информации ги соопштува до земјата членка што издава следните информации:",
+      "status": "UNMATCHED",
+      "target": "ешната граница на земја членка, земјата членка- извршител преку размена на дополнителни информации ги соопштува до земјата членка- издавач, следниве информации:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 92,
+      "en": "Hits at the external borders at exit — Confirmation of return",
+      "mk1": "Потврдени совпаѓања добиени на надворешните граници при излез — Потврда за враќање",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 93,
+      "en": "In the event of a hit on an alert on return concerning a third-country national who is exiting the territory of the Member States through the external border of a Member State, the executing Member State shall communicate the following information to the issuing Member State through the exchange of supplementary information:",
+      "mk1": "Во случај на потврдено совпаѓање на предупредување за враќање за државјанин на трета земја кој излегува од територијата на земјите членки преку надворешната граница на земја членка, земјата членка што извршува преку размена на дополнителни информации ги соопштува до земјата членка што издава следните информации:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 94,
+      "en": "(a)\tthat the third-country national has been identified;",
+      "mk1": "(а) дека државјанинот на трета земја е идентификуван;",
+      "status": "UNMATCHED",
+      "target": "(в) дека државјанинот на",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 95,
+      "en": "(b)\tthe location and time of the check;",
+      "mk1": "(б) местото и времето на проверката;",
+      "status": "UNMATCHED",
+      "target": "трета земја ја на",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 96,
+      "en": "(c)\tthat the third-country national has left the territory of the Member States;",
+      "mk1": "(в) дека државјанинот на трета земја ја напуштил територијата на земјите членки;",
+      "status": "UNMATCHED",
+      "target": "пуштил територијата на земјите членки;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 95,
+      "en": "(b)\tthe location and time of the check;",
+      "mk1": "(б) местото и времето на проверката;",
+      "status": "UNMATCHED",
+      "target": "(г)дека државја",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 96,
+      "en": "(c)\tthat the third-country national has left the territory of the Member States;",
+      "mk1": "(в) дека државјанинот на трета земја ја напуштил територијата на земјите членки;",
+      "status": "UNMATCHED",
+      "target": "нинот на трета земја бил предмет н",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 97,
+      "en": "(d)\tthat the third-country national has been subject to removal, if this is the case.",
+      "mk1": "(Г) дека државјанин на трета земја бил предмет на отстранување, ако е таков случајот.",
+      "status": "UNMATCHED",
+      "target": "а отстранување, ако е таков случајот.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 96,
+      "en": "(c)\tthat the third-country national has left the territory of the Member States;",
+      "mk1": "(в) дека државјанинот на трета земја ја напуштил територијата на земјите членки;",
+      "status": "UNMATCHED",
+      "target": "Кога државјанинот на трета земја, кој е предмет на",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 97,
+      "en": "(d)\tthat the third-country national has been subject to removal, if this is the case.",
+      "mk1": "(Г) дека државјанин на трета земја бил предмет на отстранување, ако е таков случајот.",
+      "status": "UNMATCHED",
+      "target": "предупредување за враќање, излезе од територијата на з",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 98,
+      "en": "Where a third-country national who is the subject of an alert on return exits the territory of the Member States through the external border of the issuing Member State, the confirmation of return shall be sent to the competent authority of that Member State in accordance with national procedures.",
+      "mk1": "Кога државјанин на трета земја, кој е предмет на предупредување за враќање, излезе од територијата на земјите членки преку надворешната граница на земјата членка-издавач, потврдата за враќање се испраќа до надлежниот орган на таа земја членка во согласност со националните постапки.",
+      "status": "REVIEW",
+      "target": "емјите членки преку надворешната граница на земјата членка- издавач, потврдата за враќање се испраќа до надлежниот орган на таа земја членка во согласност со националните постапки.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 97,
+      "en": "(d)\tthat the third-country national has been subject to removal, if this is the case.",
+      "mk1": "(Г) дека државјанин на трета земја бил предмет на отстранување, ако е таков случајот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 98,
+      "en": "Where a third-country national who is the subject of an alert on return exits the territory of the Member States through the external border of the issuing Member State, the confirmation of return shall be sent to the competent authority of that Member State in accordance with national procedures.",
+      "mk1": "Кога државјанин на трета земја, кој е предмет на предупредување за враќање, излезе од територијата на земјите членки преку надворешната граница на земјата членка-издавач, потврдата за враќање се испраќа до надлежниот орган на таа земја членка во согласност со националните постапки.",
+      "status": "UNMATCHED",
+      "target": "3.Земјите членки на секои три месеци до Агенцијата на Европската Унија за оперативно управување со големи ИТ системи од големи размери во областа на слободата, безбедноста и правд",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 99,
+      "en": "The issuing Member State shall delete the alert on return without delay following the receipt of the confirmation of return.",
+      "mk1": "Земјата членка-издавач без одлагање го брише предупредувањето за враќање  по добивање на потврдата за враќање.",
+      "status": "UNMATCHED",
+      "target": "ата (Агенција еу-ЛИСА), доставуваат статистички податоци за бројот на",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 100,
+      "en": "The Member States shall on a quarterly basis provide statistics to the European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA) on the number of confirmed returns and on the number of those confirmed returns where the third-country national was subject to removal. eu-LISA shall compile the quarterly statistics into the annual statistical report referred to in Article 16 of this Regulation.",
+      "mk1": "Земјите членки на секои три месеци до Агенцијата на Европската Унија за оперативно управување со големи ИТ системи од големи размери во областа на слободата, безбедноста и правдата (Агенција еу-ЛИСА) доставуваат статистички податоци  за бројот на потврдени враќања и за бројот на оние потврдени враќања каде што државјанинот од трета земја бил предмет на отстранување. Агенцијата еу-ЛИСА ги внесува тримесечните статистички податоци во годишниот статистички извештај од член 16 од оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "потврдени враќања и за бројот на оние потврдени враќања каде што државјанинот од трета земја бил предмет на отстранување. Агенцијата еу-ЛИСА ги внесува тримесечните статистички податоци во годишниот статистички извештај од наведен во член 16 на од оваа регулатива. Статистичките податоци не содржат лични податоци.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 99,
+      "en": "The issuing Member State shall delete the alert on return without delay following the receipt of the confirmation of return.",
+      "mk1": "Земјата членка-издавач без одлагање го брише предупредувањето за враќање  по добивање на потврдата за враќање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 100,
+      "en": "The Member States shall on a quarterly basis provide statistics to the European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA) on the number of confirmed returns and on the number of those confirmed returns where the third-country national was subject to removal. eu-LISA shall compile the quarterly statistics into the annual statistical report referred to in Article 16 of this Regulation.",
+      "mk1": "Земјите членки на секои три месеци до Агенцијата на Европската Унија за оперативно управување со големи ИТ системи од големи размери во областа на слободата, безбедноста и правдата (Агенција еу-ЛИСА) доставуваат статистички податоци  за бројот на потврдени враќања и за бројот на оние потврдени враќања каде што државјанинот од трета земја бил предмет на отстранување. Агенцијата еу-ЛИСА ги внесува тримесечните статистички податоци во годишниот статистички извештај од член 16 од оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 101,
+      "en": "Non-compliance with return decisions",
+      "mk1": "Неусогласеност со одлуката за враќање",
+      "status": "UNMATCHED",
+      "target": "1.По истекот на рокот за доброволно",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 102,
+      "en": "Upon expiry of the period for voluntary departure indicated in an alert on return, including any possible extensions, CS-SIS shall automatically notify the issuing Member State.",
+      "mk1": "По истекот на рокот за доброволно заминување наведен во предупредувањето за враќање, вклучително и можните продолжувања, ЦС-СИС автоматски ја известува земјата членка-издавач.",
+      "status": "REVIEW",
+      "target": "заминување наведен во предупредување за враќање, вклучително и можните продолжувања, ЦС-СИС автоматски ја известува земјата членка- издавач. 2.Без да е во спротивност",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 103,
+      "en": "Without prejudice to the procedure referred to in Articles 6(1), 8 and 12, in the event of a hit on an alert on return, the executing Member State shall immediately contact the issuing Member State through the exchange of supplementary information in order to determine the measures to be taken.",
+      "mk1": "Без да е во спротивност со постапката од членовите 6(1), 8 и 12, во случај на потврдено совпаѓање со предупредување за враќање, земјата-извршител веднаш контактира со земјата членка-издавач  преку размена на дополнителни информации за да  да се утврдат мерките што треба да се преземат.",
+      "status": "REVIEW",
+      "target": "со постапката од членовите 6(1), 8 и 12, во случај на потврдено совпаѓање со предупредување за враќање, земјата- извршител веднаш стапува во контакт со земјата членка- издавач, преку размена на дополнителни информации за да да се утврдат мерките што треба да се преземат.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 102,
+      "en": "Upon expiry of the period for voluntary departure indicated in an alert on return, including any possible extensions, CS-SIS shall automatically notify the issuing Member State.",
+      "mk1": "По истекот на рокот за доброволно заминување наведен во предупредувањето за враќање, вклучително и можните продолжувања, ЦС-СИС автоматски ја известува земјата членка-издавач.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 103,
+      "en": "Without prejudice to the procedure referred to in Articles 6(1), 8 and 12, in the event of a hit on an alert on return, the executing Member State shall immediately contact the issuing Member State through the exchange of supplementary information in order to determine the measures to be taken.",
+      "mk1": "Без да е во спротивност со постапката од членовите 6(1), 8 и 12, во случај на потврдено совпаѓање со предупредување за враќање, земјата-извршител веднаш контактира со земјата членка-издавач  преку размена на дополнителни информации за да  да се утврдат мерките што треба да се преземат.",
+      "status": "UNMATCHED",
+      "target": "Потврдени совпаѓања на надворешните граници при влез Во случај на потврдено совпаѓање со предупредување за враќање на државјанин",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 104,
+      "en": "Hits at the external borders upon entry",
+      "mk1": "Потврдени совпаѓања на надворешните граници при влез",
+      "status": "UNMATCHED",
+      "target": "на трета земја кој влег",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 105,
+      "en": "In the event of a hit on an alert on return concerning a third-country national who is entering the territory of the Member States through the external borders, the following shall apply:",
+      "mk1": "Во случај на потврдено совпаѓање со предупредување за враќање во однос на државјанин на трета земја кој влегува на територијата на земјите членки преку надворешните граници, се применува следново:",
+      "status": "UNMATCHED",
+      "target": "ува на територијата на земјите членки преку надворешните граници, се применува следново:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 104,
+      "en": "Hits at the external borders upon entry",
+      "mk1": "Потврдени совпаѓања на надворешните граници при влез",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 105,
+      "en": "In the event of a hit on an alert on return concerning a third-country national who is entering the territory of the Member States through the external borders, the following shall apply:",
+      "mk1": "Во случај на потврдено совпаѓање со предупредување за враќање во однос на државјанин на трета земја кој влегува на територијата на земјите членки преку надворешните граници, се применува следново:",
+      "status": "UNMATCHED",
+      "target": "(б)ако одлуката за враќање не е придружена со забрана за влез, земјата членка- извршител, веднаш ја информира земјата членка- издавач, пре",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 106,
+      "en": "(a)\twhere the return decision is accompanied by an entry ban, the executing Member State shall immediately inform the issuing Member State through the exchange of supplementary information.",
+      "mk1": "(а) кога одлуката за враќање е придружена со забрана за влез, земјата членка-извршител веднаш ја информира земјата членка-издавач преку размена на дополнителни информации.",
+      "status": "UNMATCHED",
+      "target": "ку размена на дополнителни информации со цел земјата членка -издавач да го избрише, без одлагање, предупредувањето за вра",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 107,
+      "en": "The issuing Member State shall immediately delete the alert on return and enter an alert for refusal of entry and stay pursuant to point (b) of Article 24(1) of Regulation (EU) 2018/1861;",
+      "mk1": "Земјата членка-издавач веднаш го брише предупредувањето за враќање и внесува предупредување за одбивање влез и престој во согласност со точка (б) од член 24(1) од Регулативата (ЕУ) 2018/1861;",
+      "status": "UNMATCHED",
+      "target": "ќање. Одлуката за влез на државјанин на трета земја ја донесува земјата членка- извршител, во согласност со Регулативата (ЕУ) 2016/399.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 106,
+      "en": "(a)\twhere the return decision is accompanied by an entry ban, the executing Member State shall immediately inform the issuing Member State through the exchange of supplementary information.",
+      "mk1": "(а) кога одлуката за враќање е придружена со забрана за влез, земјата членка-извршител веднаш ја информира земјата членка-издавач преку размена на дополнителни информации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 107,
+      "en": "The issuing Member State shall immediately delete the alert on return and enter an alert for refusal of entry and stay pursuant to point (b) of Article 24(1) of Regulation (EU) 2018/1861;",
+      "mk1": "Земјата членка-издавач веднаш го брише предупредувањето за враќање и внесува предупредување за одбивање влез и престој во согласност со точка (б) од член 24(1) од Регулативата (ЕУ) 2018/1861;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 108,
+      "en": "(b)\twhere the return decision is not accompanied by an entry ban, the executing Member State shall immediately inform the issuing Member State through the exchange of supplementary information, in order that the issuing Member State delete the alert on return without delay.",
+      "mk1": "(б) кога одлуката за враќање не е придружена со забрана за влез, земјата членка-извршител веднаш ја информира земјата членка-издавач преку размена на дополнителни информации со цел земјата членка-издавач да го избрише без одлагање предупредувањето за враќање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 109,
+      "en": "The decision on the entry of the third-country national shall be taken by the executing Member State in accordance with Regulation (EU) 2016/399.",
+      "mk1": "Одлуката за влез на државјанин на трета земја ја донесува земјата членка-извршител во согласност со Регулативата (ЕУ) 2016/399.",
+      "status": "UNMATCHED",
+      "target": "(а)земјата членка- одобрувач, се советува со земјата членка -издавач, пред одобрување ил",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 110,
+      "en": "Prior consultation before granting or extending a residence permit or long-stay visa",
+      "mk1": "Претходно советување пред одобрување или продолжување дозвола за престој или виза за долгорочен престој",
+      "status": "REVIEW",
+      "target": "и продолжување на дозволата за престој или визата за долгорочен престој;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 110,
+      "en": "Prior consultation before granting or extending a residence permit or long-stay visa",
+      "mk1": "Претходно советување пред одобрување или продолжување дозвола за престој или виза за долгорочен престој",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 111,
+      "en": "Where a Member State considers granting or extending a residence permit or long-stay visa to a third-country national who is the subject of an alert on return entered by another Member State that is accompanied by an entry ban, the Member States involved shall consult each other through the exchange of supplementary information, in accordance with the following rules:",
+      "mk1": "Кога една земја членка го разгледува прашањето за одобрување или продолжување на дозвола за престој или виза за долгорочен престој на државјанин на трета земја кој е предмет на предупредување за враќање, кое го внесила  друга земја членка и кое е придружено со забрана за влез, вклучените земји членки се советуваат меѓусебно преку размена на дополнителни информации, во согласност со следниве правила:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 112,
+      "en": "(a)\tthe granting Member State shall consult the issuing Member State prior to granting or extending the residence permit or long-stay visa;",
+      "mk1": "(а) земјата членка-одобрувач се советува со земјата членка-издавач пред одобрување или продолжување на дозволата за престој или визата за долгорочен престој;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 113,
+      "en": "(b)\tthe issuing Member State shall reply to the consultation request within 10 calendar days;",
+      "mk1": "(б) земјата членка-издавач на барањето за советување одговара во рок од 10 календарски дена;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 114,
+      "en": "(c)\tthe absence of a reply by the deadline referred to in point (b) shall mean that the issuing Member State does not object to the granting or extending of the residence permit or long-stay visa;",
+      "mk1": "(в) отсуството на одговор до крајниот рок наведен во точка (б) значи дека земјата членка-издавач нема приговор на одобрувањето или продолжувањето на дозволата за престој или визата за долгорочен престој;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 115,
+      "en": "(d)\twhen making the relevant decision, the granting Member State shall take into account the reasons for the decision of the issuing Member State and shall consider, in accordance with national law, any threat to public policy or to public security which the presence of the third-country national in question on the territory of the Member States may pose;",
+      "mk1": "(г) при донесувањето на соодветната одлука, земјата членка-одобрувач ги зема предвид причините за одлуката на земјата членка-издавач и ја разгледува, во согласност со националното законодавство, секоја закана за јавниот ред или јавната безбедност што може да биде предизвикана од присуството на предметниот државјанин на трета земја на територијата на земјите членки;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 116,
+      "en": "(e)\tthe granting Member State shall notify the issuing Member State of its decision; and",
+      "mk1": "(д)  земјата членка-одобрувач за својата одлука ја известува земјата членка-издавач; и",
+      "status": "UNMATCHED",
+      "target": "2.Кога земјата членка разгледува одобрување или продолжување доз",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 117,
+      "en": "The final decision on whether to grant a residence permit or long-stay visa to a third-country national rests with the granting Member State.",
+      "mk1": "Конечната одлука дали да се одобри дозвола за престој или виза за долгорочен престој на државјанин на трета земја ја донесува земјата членка-одобрувач.",
+      "status": "UNMATCHED",
+      "target": "вола за престој или виза за долгорочен престој на државјанин на трета земја кој е предмет на предупредување за в",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 118,
+      "en": "Where a Member State considers granting or extending a residence permit or long-stay visa to a third-country national who is the subject of an alert on return entered by another Member State which is not accompanied by an entry ban, the granting Member State shall inform without delay the issuing Member State that it intends to grant or has granted a residence permit or a long-stay visa.",
+      "mk1": "Кога една земја членка го разгледува прашањето за одобрување или продолжување на дозвола за престој или виза за долгорочен престој на државјанин на трета земја кој е предмет на предупредување за враќање, кое го внесила  друга земја членка а кое не е придружено со забрана за влез, земјата членка-одобрувач без одлагање ја известува земјата членка-издавач дека намерава да одобри или дека одобрила дозвола за престој или виза за привремен престој.",
+      "status": "UNMATCHED",
+      "target": "раќање внесено од друга земја членка, а кое не е придружено со забрана за влез, земјата членка- одобрувач, без одлагање, ја известува земјата членка- издавач дека има намера да одобри или дека одобрила дозвола за престој или виза за долгорочен престој. Земјата членка- издавач, без одлагање, го брише предупредувањето за враќање.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 117,
+      "en": "The final decision on whether to grant a residence permit or long-stay visa to a third-country national rests with the granting Member State.",
+      "mk1": "Конечната одлука дали да се одобри дозвола за престој или виза за долгорочен престој на државјанин на трета земја ја донесува земјата членка-одобрувач.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 118,
+      "en": "Where a Member State considers granting or extending a residence permit or long-stay visa to a third-country national who is the subject of an alert on return entered by another Member State which is not accompanied by an entry ban, the granting Member State shall inform without delay the issuing Member State that it intends to grant or has granted a residence permit or a long-stay visa.",
+      "mk1": "Кога една земја членка го разгледува прашањето за одобрување или продолжување на дозвола за престој или виза за долгорочен престој на државјанин на трета земја кој е предмет на предупредување за враќање, кое го внесила  друга земја членка а кое не е придружено со забрана за влез, земјата членка-одобрувач без одлагање ја известува земјата членка-издавач дека намерава да одобри или дека одобрила дозвола за престој или виза за привремен престој.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 119,
+      "en": "The issuing Member State shall delete the alert on return without delay.",
+      "mk1": "Земјата членка која издава без одлагање го брише предупредувањето за враќање.",
+      "status": "UNMATCHED",
+      "target": "Кога земјата членка донела одлука за враќање во согласност",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 120,
+      "en": "Prior consultation before entering an alert on return",
+      "mk1": "Претходно советување пред внесување  предупредување за враќање",
+      "status": "UNMATCHED",
+      "target": "со член 6(2) од Директивата 2008/115/ЕЗ и разг",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 121,
+      "en": "Where a Member State has issued a return decision in accordance with Article 6(2) of Directive 2008/115/EC and considers entering an alert on return concerning a third-country national who is the holder of a valid residence permit or long-stay visa granted by another Member State, the Member States involved shall consult each other, through the exchange of supplementary information, in accordance with the following rules:",
+      "mk1": "Кога земја членка донела одлука за враќање во согласност со член 6(2) од Директивата 2008/115/ЕЗ и разгледува да воведе предупредување за враќање за државјанин на трета земја кој е носител на важечка дозвола за престој или виза за долгорочен престој одобрена од друга земја членка, вклучените земји членки се советуваат меѓусебно, преку размена на дополнителни информации, во согласност со следните правила:",
+      "status": "REVIEW",
+      "target": "ледува да воведе предупредување за враќање за државјанин на трета земја, кој е носител на важечка дозвола за престој или виза за долгорочен престој одобрена од друга земја членка, вклучените земји членки се советуваат меѓусебно, преку размена на дополнителни информации, во согласност со следните правила:",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 120,
+      "en": "Prior consultation before entering an alert on return",
+      "mk1": "Претходно советување пред внесување  предупредување за враќање",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 121,
+      "en": "Where a Member State has issued a return decision in accordance with Article 6(2) of Directive 2008/115/EC and considers entering an alert on return concerning a third-country national who is the holder of a valid residence permit or long-stay visa granted by another Member State, the Member States involved shall consult each other, through the exchange of supplementary information, in accordance with the following rules:",
+      "mk1": "Кога земја членка донела одлука за враќање во согласност со член 6(2) од Директивата 2008/115/ЕЗ и разгледува да воведе предупредување за враќање за државјанин на трета земја кој е носител на важечка дозвола за престој или виза за долгорочен престој одобрена од друга земја членка, вклучените земји членки се советуваат меѓусебно, преку размена на дополнителни информации, во согласност со следните правила:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 122,
+      "en": "(a)\tthe Member State that has taken the return decision shall inform the granting Member State of the decision;",
+      "mk1": "(а) земјата членка која ја донела одлуката за враќање  ја известува за одлуката земјата членка-одобрувач;",
+      "status": "UNMATCHED",
+      "target": "(в)врз основа на информациите кои ги добила од земјата",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 123,
+      "en": "(b)\tthe information exchanged under point (a) shall include sufficient detail on the reasons for the return decision;",
+      "mk1": "(б) информациите разменети според точката (а) вклучуваат доволно детали за причините за одлуката за враќање;",
+      "status": "UNMATCHED",
+      "target": "членка која ја донела одлуката за враќање, земјата член",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 124,
+      "en": "(c)\ton the basis of the information provided by the Member State that has taken the return decision, the granting Member State shall consider whether there are reasons for withdrawing the residence permit or long-stay visa;",
+      "mk1": "(в) врз основа на информациите кои ги добила од земјата членка која ја донела одлуката за враќање, земјата членка-одобрувач разгледува дали има причини за повлекување на дозволата за престој или визата за долгорочен престој;",
+      "status": "UNMATCHED",
+      "target": "ка- одобрувач, разгледува дали има причини за повлекување на дозволата за престој или визата за долгорочен престој;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 123,
+      "en": "(b)\tthe information exchanged under point (a) shall include sufficient detail on the reasons for the return decision;",
+      "mk1": "(б) информациите разменети според точката (а) вклучуваат доволно детали за причините за одлуката за враќање;",
+      "status": "UNMATCHED",
+      "target": "(г)при донесувањето на соодветната одлука, земјата членка-",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 124,
+      "en": "(c)\ton the basis of the information provided by the Member State that has taken the return decision, the granting Member State shall consider whether there are reasons for withdrawing the residence permit or long-stay visa;",
+      "mk1": "(в) врз основа на информациите кои ги добила од земјата членка која ја донела одлуката за враќање, земјата членка-одобрувач разгледува дали има причини за повлекување на дозволата за престој или визата за долгорочен престој;",
+      "status": "UNMATCHED",
+      "target": "одобрувач ги зема предвид причините за одлуката на земјата членка која донела одлука за враќање и во согласност со наци",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 125,
+      "en": "(d)\twhen making the relevant decision, the granting Member State shall take into account the reasons for the decision of the Member State that has taken the return decision and shall consider, in accordance with national law, any threat to public policy or to public security which the presence of the third-country national in question on the territory of the Member States may pose;",
+      "mk1": "(г) при донесувањето на соодветната одлука, земјата членка-одобрувач ги зема предвид причините за одлуката на земјата членка која донела одлука за враќање и ја разгледува, во согласност со националното право, секоја закана за јавниот ред или за јавната безбедност што може да биде предизвикана од присуството на предметниот државјанин на трета земја на територијата на земјите членки;",
+      "status": "UNMATCHED",
+      "target": "оналното право, ја разгледува, секоја закана за јавниот ред или за јавната безбедност што може да биде предизвикана од присуството на предметниот државјанин на трета земја на територијата на земјите членки;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 124,
+      "en": "(c)\ton the basis of the information provided by the Member State that has taken the return decision, the granting Member State shall consider whether there are reasons for withdrawing the residence permit or long-stay visa;",
+      "mk1": "(в) врз основа на информациите кои ги добила од земјата членка која ја донела одлуката за враќање, земјата членка-одобрувач разгледува дали има причини за повлекување на дозволата за престој или визата за долгорочен престој;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 125,
+      "en": "(d)\twhen making the relevant decision, the granting Member State shall take into account the reasons for the decision of the Member State that has taken the return decision and shall consider, in accordance with national law, any threat to public policy or to public security which the presence of the third-country national in question on the territory of the Member States may pose;",
+      "mk1": "(г) при донесувањето на соодветната одлука, земјата членка-одобрувач ги зема предвид причините за одлуката на земјата членка која донела одлука за враќање и ја разгледува, во согласност со националното право, секоја закана за јавниот ред или за јавната безбедност што може да биде предизвикана од присуството на предметниот државјанин на трета земја на територијата на земјите членки;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 126,
+      "en": "(e)\twithin 14 calendar days of receipt of the request for consultation the granting Member State shall notify the Member State that has taken the return decision of its decision or, where it has been impossible for the granting Member State to take a decision within that period, shall make a reasoned request to extend exceptionally the time period for its response for a maximum of a further 12 calendar days;",
+      "mk1": "(д) во рок од 14 календарски дена од приемот на барањето за советување, земјата членка-одобрувач ја известува земјата членка која ја донела одлуката за враќање за нејзината одлука или ако не било можно земјата членка-одобрувач да донесе одлука во тој рок, поднесува образложено барање за вонредно продолжување на рокот за одговор за најмногу дополнителни 12 календарски дена;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 127,
+      "en": "A posteriori consultation after entering an alert on return",
+      "mk1": "Подоцнежно советување пo внесување",
+      "status": "REVIEW",
+      "target": "Подоцнежно советување пo внесување предупредување за враќање",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 128,
+      "en": "Where it emerges that a Member State has entered an alert on return concerning a third-country national who is the holder of a valid residence permit or long-stay visa granted by another Member State, the issuing Member State may decide to withdraw the return decision.",
+      "mk1": "Ако се утврди дека земја членка внела предупредување за враќање за државјанин на трета земја кој е носител на важечка дозвола за престој или виза за долгорочен престој одобрена од друга земја членка, земјата членка-издавач може да одлучи да ја повлече одлуката за враќање .",
+      "status": "UNMATCHED",
+      "target": "Ако се утврди дека земјата членка внела предупредување за враќање на државјанин на трета земја кој е носител на важечка дозвола за престој или виза за долгорочен престој одобрена од друга земја членка, земјата членка- издавач, може да одлучи да ја повлече одлуката за враќање . Во случај на такво повлекување, таа веднаш го брише предупредувањето за враќање. Меѓутоа, кога земјата членка- издавач, одлучи одлучува да ја задржи одлуката за враќање издадена во согласност со член 6(2) од Директивата 2008/115/ЕЗ, вклучените земји членки се советуваат меѓусебно, преку размена на дополнителни информации, во согласност со следниве правила:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 129,
+      "en": "(f)\twhere the granting Member State notifies the Member State that has taken the return decision that it is maintaining the residence permit or long-stay visa, the Member State that has taken the return decision shall not enter the alert on return.",
+      "mk1": "(ѓ) кога земјата членка-одобрувач ја известува земјата членка која ја донела одлуката за враќање дека дозволата за престој или визата за долгорочен престој остануваат важечки, земјата членка која ја донела одлуката за враќање нема да го внесе предупредувањето за враќање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 130,
+      "en": "In the case of such withdrawal, it shall immediately delete the alert on return.",
+      "mk1": "Во случај на такво повлекување, таа веднаш го брише предупредувањето за враќање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 131,
+      "en": "However, where the issuing Member State decides to maintain the return decision issued in accordance with Article 6(2) of Directive 2008/115/EC, the Member States involved shall consult each other, through the exchange of supplementary information, in accordance with the following rules:",
+      "mk1": "Меѓутоа, кога земјата членка-издавач одлучи да ја задржи одлуката за враќање издадена во согласност со член 6(2) од Директивата 2008/115/ЕЗ, вклучените земји членки се консултираат меѓусебно, преку размена на дополнителни информации, во согласност со следниве правила:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 132,
+      "en": "(a)\tthe issuing Member State shall inform the granting Member State of the return decision;",
+      "mk1": "(а) земјата членка-издавач ја известува земјата членка-одобрувач за одлуката за враќање;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 133,
+      "en": "(b)\tthe information exchanged under point (a) shall include sufficient detail on the reasons for the alert on return;",
+      "mk1": "(б) информациите разменети според точката (а) вклучуваат доволно детали за причините за одлуката за враќање;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 134,
+      "en": "(c)\ton the basis of the information provided by the issuing Member State, the granting Member State shall consider whether there are reasons for withdrawing the residence permit or long-stay visa;",
+      "mk1": "(в) врз основа на информациите кои ги добила од земјата членка-издавач, земјата членка-одобрувач разгледува дали има причини за повлекување на дозволата за престој или визата за долгорочен престој;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 135,
+      "en": "(d)\twhen making its decision, the granting Member State shall take into account the reasons for the decision of the issuing Member State and shall consider, in accordance with national law, any threat to public policy or to public security which the presence of the third-country national in question on the territory of the Member States may pose;",
+      "mk1": "(г) при донесувањето на својата одлука, земјата членка одобрувач ги зема предвид причините за одлуката на земјата членка-издавач и ја разгледува, во согласност со националното право, секоја закана за јавниот ред или јавната безбедност што може да биде предизвикана од присуството на предметниот државјанин на трета земја на територијата на земјите членки;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 136,
+      "en": "(e)\twithin 14 calendar days of receipt of the request for consultation the granting Member State shall notify the issuing Member State of its decision or, where it has been impossible for the granting Member State to take a decision within that period, shall make a reasoned request to extend exceptionally the time period for its response for a maximum of a further 12 calendar days;",
+      "mk1": "(д) во рок од 14 календарски дена од приемот на барањето за советувања, земјата членка-одобрувач ја известува земјата членка-издавач за својата одлука или доколку не било можно земјата членка-одобрувач да донесе одлука во тој рок, поднесува образложено барање за вонредно продолжување на рокот за одговор за најмногу дополнителни 12 календарски дена;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 137,
+      "en": "(f)\twhere the granting Member State notifies the issuing Member State that it is maintaining the residence permit or long-stay visa, the issuing Member State shall immediately delete the alert on return.",
+      "mk1": "(ѓ) кога земјата членка-одобрувач ја извести земјата членк-издавач дека ја задржува дозволата за престој или визата за долгорочен престој, земјата членка-издавач веднаш го брише предупредувањето за враќањето.",
+      "status": "UNMATCHED",
+      "target": "Кога земјата членка утврди потврдено совпаѓање со предупредување за враќање внесено од земја членка за др",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 138,
+      "en": "Consultation in the case of a hit concerning a third-country national holding a valid residence permit or long-stay visa",
+      "mk1": "Советувања во случај на потврдено совпаѓање за државјанин од трета земја кој поседува важечка дозвола за престој или виза за долгорочен престој",
+      "status": "UNMATCHED",
+      "target": "жавјанин од трета земја кој е носител на важечка дозвола за престој или",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 139,
+      "en": "Where a Member State encounters a hit on an alert on return entered by a Member State concerning a third-country national who is the holder of a valid residence permit or long-stay visa granted by another Member State, the Member States involved shall consult each other through the exchange of supplementary information, in accordance with the following rules:",
+      "mk1": "Кога земја членка утврди потврдено совпаѓање за предупредување за враќање внесено од земја членка за државјанин од трета земја кој е носител на важечка дозвола за престој или виза за долгорочен престој која е одобрена од друга земја членка, вклучените земји членки се консултираат меѓусебно, преку размена на дополнителни информации, во согласност со следните правила:",
+      "status": "UNMATCHED",
+      "target": "виза за долгорочен престој, одобрена од друга земја членка, вклучените земји членки се советуваат меѓусебно, преку размена на дополнителни информации, во согласност со следните правила:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 138,
+      "en": "Consultation in the case of a hit concerning a third-country national holding a valid residence permit or long-stay visa",
+      "mk1": "Советувања во случај на потврдено совпаѓање за државјанин од трета земја кој поседува важечка дозвола за престој или виза за долгорочен престој",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 139,
+      "en": "Where a Member State encounters a hit on an alert on return entered by a Member State concerning a third-country national who is the holder of a valid residence permit or long-stay visa granted by another Member State, the Member States involved shall consult each other through the exchange of supplementary information, in accordance with the following rules:",
+      "mk1": "Кога земја членка утврди потврдено совпаѓање за предупредување за враќање внесено од земја членка за државјанин од трета земја кој е носител на важечка дозвола за престој или виза за долгорочен престој која е одобрена од друга земја членка, вклучените земји членки се консултираат меѓусебно, преку размена на дополнителни информации, во согласност со следните правила:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 140,
+      "en": "(a)\tthe executing Member State shall inform the issuing Member State of the situation;",
+      "mk1": "(а) земјата членка-извршител ја известува земјата членка -издавач за ситуацијата;",
+      "status": "REVIEW",
+      "target": "(в)земјата членка- издавач, ја известува земјата членка- извршит",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 141,
+      "en": "(b)\tthe issuing Member State shall initiate the procedure laid down in Article 11;",
+      "mk1": "(б) земјата членка-издавач покренува постапка утврдена во член 11;",
+      "status": "UNMATCHED",
+      "target": "ел, за резултатот од советувањето. Член 13 Статистич",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 142,
+      "en": "Statistics on exchange of information",
+      "mk1": "Статистички податоци за размена на информации",
+      "status": "REVIEW",
+      "target": "ки податоци за размена на информации",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 141,
+      "en": "(b)\tthe issuing Member State shall initiate the procedure laid down in Article 11;",
+      "mk1": "(б) земјата членка-издавач покренува постапка утврдена во член 11;",
+      "status": "UNMATCHED",
+      "target": "Земјите членки еднаш годишно доставуваат до",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 142,
+      "en": "Statistics on exchange of information",
+      "mk1": "Статистички податоци за размена на информации",
+      "status": "UNMATCHED",
+      "target": "агенцијата еу-ЛИСА, статистичк",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 143,
+      "en": "Member States shall provide statistics to eu-LISA on an annual basis on the exchanges of information carried out in accordance with Articles 8 to 12 and on the instances in which the deadlines provided for in those Articles were not met.",
+      "mk1": "Земјите членки еднаш годишно доставуваат до Агенцијата еу-ЛИСА статистички податоци за размените на информации спроведени во согласност со членовите од 8 до 12 и за случаите во кои што роковите предвидени во тие членови не биле испочитувани.",
+      "status": "REVIEW",
+      "target": "и податоци за размените на информации спроведени во согласност со членовите од 8 до 12 и за случаите, во кои роковите предвидени во тие членови не биле исполнети.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 142,
+      "en": "Statistics on exchange of information",
+      "mk1": "Статистички податоци за размена на информации",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 143,
+      "en": "Member States shall provide statistics to eu-LISA on an annual basis on the exchanges of information carried out in accordance with Articles 8 to 12 and on the instances in which the deadlines provided for in those Articles were not met.",
+      "mk1": "Земјите членки еднаш годишно доставуваат до Агенцијата еу-ЛИСА статистички податоци за размените на информации спроведени во согласност со членовите од 8 до 12 и за случаите во кои што роковите предвидени во тие членови не биле испочитувани.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 144,
+      "en": "Deletion of alerts",
+      "mk1": "Бришење на предупредувања",
+      "status": "UNMATCHED",
+      "target": "1.Освен во случаите во ч",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 145,
+      "en": "In addition to Articles 6 and 8 to 12, alerts on return shall be deleted when the decision on the basis of which the alert was entered has been withdrawn or annulled by the competent authority.",
+      "mk1": "Освен во случаите во член 6 и членовите од 8 до 12, предупредувањата за враќање се бришат кога одлуката врз основа на која е внесено предупредувањето е повлечена или поништена од надлежниот орган.",
+      "status": "REVIEW",
+      "target": "лен 6 и членовите од 8 до 12, предупредувањата за враќање се бришат кога одлуката врз основа на која е внесено предупредувањето е повлечена или поништена од надлежниот орган. Предупредув",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 146,
+      "en": "Alerts on return shall also be deleted when the third-country national concerned can demonstrate that he or she has left the territory of the Member States in compliance with the respective return decision.",
+      "mk1": "Предупредувањата за враќање се бришат и кога засегнатиот државјанин на трета земја може да докаже дека ја напуштил територијата на земјите членки во согласност со соодветната одлука за враќање.",
+      "status": "HIGH",
+      "target": "ањата за враќање се бришат и кога засегнатиот државјанин на трета земја може да докаже дека ја напуштил територијата на земјите членки во согласност со соодветната одлука за враќање.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 145,
+      "en": "In addition to Articles 6 and 8 to 12, alerts on return shall be deleted when the decision on the basis of which the alert was entered has been withdrawn or annulled by the competent authority.",
+      "mk1": "Освен во случаите во член 6 и членовите од 8 до 12, предупредувањата за враќање се бришат кога одлуката врз основа на која е внесено предупредувањето е повлечена или поништена од надлежниот орган.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 146,
+      "en": "Alerts on return shall also be deleted when the third-country national concerned can demonstrate that he or she has left the territory of the Member States in compliance with the respective return decision.",
+      "mk1": "Предупредувањата за враќање се бришат и кога засегнатиот државјанин на трета земја може да докаже дека ја напуштил територијата на земјите членки во согласност со соодветната одлука за враќање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 147,
+      "en": "Alerts on return concerning a person who has acquired citizenship of a Member State or of any State whose nationals are beneficiaries of the right of free movement under Union law shall be deleted as soon as the issuing Member State becomes aware, or is so informed pursuant to Article 44 of Regulation (EU) 2018/1861 that the person in question has acquired such citizenship.",
+      "mk1": "Предупредувањата за враќање кои се однесуваат на лице кое стекнало државјанство на земја членка или на која било држава чии државјани се корисници на правото на слободно движење според правото на Унијата се бришат  штом земјата членка-издавач дознае дека предметното лице стекнало такво државјанство или е известена за тоа во согласност со член 44 од Регулативата (ЕУ) 2018/1861У) 2018/1861.",
+      "status": "UNMATCHED",
+      "target": "Пренос на лични податоци во трети земји за целите на враќањето 1.По пат на отстапување од член 50 од Регулативата (ЕУ) 2018/1861 година, податоците од точките (а), (б), (в), (г), (д), (ѓ), (е), (ж), (",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 148,
+      "en": "Transfer of personal data to third countries for the purpose of return",
+      "mk1": "Пренос на лични податоци во трети земји целите на враќањето",
+      "status": "UNMATCHED",
+      "target": "н), (њ), (о), (п), (р), (с) и",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 149,
+      "en": "By way of derogation from Article 50 of Regulation (EU) 2018/1861, the data referred to in points (a), (b), (c), (d), (e), (f), (g), (h), (q), (r), (s), (t), (u), (v) and (w) of Article 4(1) of this Regulation and the related supplementary information may be transferred or made available to a third country with the agreement of the issuing Member State.",
+      "mk1": "По пат на отстапување од член 50 од Регулативата (ЕУ) 2018/1861 година, податоците наведени во точките (а), (б), (в), (г), (д), (ѓ), (е), (ж), (н), (њ), (о), (п), (р), (с) и (т) од член 4(1) од оваа регулатива и поврзаните дополнителни информации може да се пренесат или се стават на располагање на трета земја со согласност на земјата членка-издавач.",
+      "status": "REVIEW",
+      "target": "(т) од член 4(1), од оваа регулатива и поврзаните дополнителни информации може да се пренесат или се стават на располагање на трета земја, со согласност на земјата членка- издавач.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 148,
+      "en": "Transfer of personal data to third countries for the purpose of return",
+      "mk1": "Пренос на лични податоци во трети земји целите на враќањето",
+      "status": "UNMATCHED",
+      "target": "2.Преносот на податоците на",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 149,
+      "en": "By way of derogation from Article 50 of Regulation (EU) 2018/1861, the data referred to in points (a), (b), (c), (d), (e), (f), (g), (h), (q), (r), (s), (t), (u), (v) and (w) of Article 4(1) of this Regulation and the related supplementary information may be transferred or made available to a third country with the agreement of the issuing Member State.",
+      "mk1": "По пат на отстапување од член 50 од Регулативата (ЕУ) 2018/1861 година, податоците наведени во точките (а), (б), (в), (г), (д), (ѓ), (е), (ж), (н), (њ), (о), (п), (р), (с) и (т) од член 4(1) од оваа регулатива и поврзаните дополнителни информации може да се пренесат или се стават на располагање на трета земја со согласност на земјата членка-издавач.",
+      "status": "UNMATCHED",
+      "target": "трета земја се врши во согласност со релевантните одредби на правото на Унијата, особено одредбите за заштита на личните податоци, вклучително и Поглавјето V",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 150,
+      "en": "The transfer of the data to a third country shall be carried out in accordance with the relevant provisions of Union law, in particular provisions on protection of personal data, including Chapter V of Regulation (EU) 2016/679, with readmission agreements where applicable, and with the national law of the Member State transferring the data.",
+      "mk1": "Преносот на податоците во трета земја се врши во согласност со релевантните одредби од правото на Унијата, особено одредбите за заштита на личните податоци, вклучително и Поглавјето V од Регулативата (ЕУ) 2016/679, со договори за реадмисија, каде што е применливо, и со националното право на земјата членка која ги пренесува податоците.",
+      "status": "UNMATCHED",
+      "target": "од Регулативата (ЕУ) 2016/679, со спогодби за реадмисија, каде што е применливо, и со националното право на земјата членка која ги пренесува податоците.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 149,
+      "en": "By way of derogation from Article 50 of Regulation (EU) 2018/1861, the data referred to in points (a), (b), (c), (d), (e), (f), (g), (h), (q), (r), (s), (t), (u), (v) and (w) of Article 4(1) of this Regulation and the related supplementary information may be transferred or made available to a third country with the agreement of the issuing Member State.",
+      "mk1": "По пат на отстапување од член 50 од Регулативата (ЕУ) 2018/1861 година, податоците наведени во точките (а), (б), (в), (г), (д), (ѓ), (е), (ж), (н), (њ), (о), (п), (р), (с) и (т) од член 4(1) од оваа регулатива и поврзаните дополнителни информации може да се пренесат или се стават на располагање на трета земја со согласност на земјата членка-издавач.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 150,
+      "en": "The transfer of the data to a third country shall be carried out in accordance with the relevant provisions of Union law, in particular provisions on protection of personal data, including Chapter V of Regulation (EU) 2016/679, with readmission agreements where applicable, and with the national law of the Member State transferring the data.",
+      "mk1": "Преносот на податоците во трета земја се врши во согласност со релевантните одредби од правото на Унијата, особено одредбите за заштита на личните податоци, вклучително и Поглавјето V од Регулативата (ЕУ) 2016/679, со договори за реадмисија, каде што е применливо, и со националното право на земјата членка која ги пренесува податоците.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 151,
+      "en": "The transfers of data to a third country shall take place only when the following conditions are met:",
+      "mk1": "Преносот на податоци во трета земја се врши само кога се исполнети следниве услови:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 152,
+      "en": "(a)\tthe data is transferred or made available solely for the purpose of identification of, and issuance of an identification or travel document to, an illegally staying third-country national in view of his or her return;",
+      "mk1": "(а) податоците се пренесуваат или се достапни само заради идентификување и издавање лична или патна исправа на државјанин на трета земја со незаконски престој со цел негово или нејзино враќање;",
+      "status": "UNMATCHED",
+      "target": "4.Преносот на лични податоци на трети земји во согласност со овој член не ги доведува во прашање правата на ба",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 153,
+      "en": "(b)\tthe third-country national concerned has been informed that his or her personal data and supplementary information may be shared with the authorities of a third country.",
+      "mk1": "(б) засегнатиот државјанин на трета земја е известен дека неговите/нејзините лични податоци и дополнителни информации може да се споделат со органите на трета земја.",
+      "status": "UNMATCHED",
+      "target": "рателите на меѓународна заштита и на корисниците на меѓународна заштита, особено во однос на п",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 154,
+      "en": "Transfers of personal data to third countries pursuant to this Article shall not prejudice the rights of applicants for and beneficiaries of international protection, in particular as regards non-refoulement, and the prohibition on disclosing or obtaining information set out in Article 30 of Directive 2013/32/EU of the European Parliament and of the Council ().",
+      "mk1": "Преносот на лични податоци во трети земји врз основа на овој член не ги доведува во прашање правата на барателите на меѓународна заштита и на корисниците на меѓународна заштита, особено во однос на принципот на невраќање и забраната за откривање или добивање информации утврдени во член 30 од Директивата 2013/32/ЕУ на Европскиот парламент и на Советот ().",
+      "status": "UNMATCHED",
+      "target": "ринципот на забрана на присилно оддалечување или враќање невраќање и забраната за откривање или добивање информации, утврдени во член 30 од Директивата 2013/32/ЕУ на Европскиот парламент и на Советот ().",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 153,
+      "en": "(b)\tthe third-country national concerned has been informed that his or her personal data and supplementary information may be shared with the authorities of a third country.",
+      "mk1": "(б) засегнатиот државјанин на трета земја е известен дека неговите/нејзините лични податоци и дополнителни информации може да се споделат со органите на трета земја.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 154,
+      "en": "Transfers of personal data to third countries pursuant to this Article shall not prejudice the rights of applicants for and beneficiaries of international protection, in particular as regards non-refoulement, and the prohibition on disclosing or obtaining information set out in Article 30 of Directive 2013/32/EU of the European Parliament and of the Council ().",
+      "mk1": "Преносот на лични податоци во трети земји врз основа на овој член не ги доведува во прашање правата на барателите на меѓународна заштита и на корисниците на меѓународна заштита, особено во однос на принципот на невраќање и забраната за откривање или добивање информации утврдени во член 30 од Директивата 2013/32/ЕУ на Европскиот парламент и на Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 155,
+      "en": " Directive 2013/32/EU of the European Parliament and of the Council of 26 June 2013 on common procedures for granting and withdrawing international protection (OJ L 180, 29.6.2013, p. 60).",
+      "mk1": " Директива 2013/32/ЕУ на Европскиот парламент и на Советот од 26 јуни 2013 година за заеднички постапки за доделување и повлекување меѓународна заштита (Сл.весник L 180, 29.6.2013 год., стр. 60).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 156,
+      "en": "Data processed in SIS and the related supplementary information exchanged pursuant to this Regulation shall not be made available to a third country where the enforcement of the return decision was suspended or postponed, including as a result of the lodging of an appeal, on grounds that such return would violate the principle of non-refoulement.",
+      "mk1": "Податоците обработени во СИС и поврзаните дополнителни информации разменети во согласност со оваа регулатива нема да бидат достапни на трета земја каде што извршувањето на одлуката за враќање е суспендирано или одложено, вклучително и како резултат на жалба, бидејќи таквото враќањето би го прекршило принципот на невраќање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 157,
+      "en": "Application of Regulation (EU) 2016/679, including with regard to the transfer of personal data to third countries pursuant to this Article, and in particular the use, proportionality and necessity of transfers based on point (d) of Article 49(1) of that Regulation, shall be subject to monitoring by the independent supervisory authorities referred to in Article 51(1) of that Regulation.",
+      "mk1": "Примена на Регулативата (ЕУ) 2016/679, вклучително и во однос на преносот на лични податоци во трети земји согласно овој член, а особено употребата, пропорционалноста и неопходноста од пренос на податоци врз основа на точка (г) од член 49(1) од таа регулатива, се предмет на следење од страна на независните надзорни органи наведени во член 51(1) од таа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 158,
+      "en": "Statistics",
+      "mk1": "Статистички податоци",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 159,
+      "en": "eu-LISA shall produce daily, monthly and annual statistics, both for each Member State and in aggregate, on the number of alerts on return entered into SIS.",
+      "mk1": "Агенцијата еу-ЛИСА изготвува дневни, месечни и годишни статистички податоци, изразени поединечно за секоја земја членка и збирно, за бројот на предупредувања за враќање внесени во СИС.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 160,
+      "en": "The statistics shall include the data referred to in point (y) of Article 4(1), the number of notifications referred to in Article 7(1) and the number of alerts on return that have been deleted. eu-LISA shall produce statistics on the data provided by the Member States in accordance with Article 6(3) and Article 13.",
+      "mk1": "Статистичките податоци вклучуваат податоците од точка (y) на член 4(1), бројот на известувања од член 7(1) и бројот на избришани предупредувања за враќање.  Агенцијата еу-ЛИСА изготвува статистички податоци за податоците обезбедени од земјите-членки во согласност со член 6(3) и член 13.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 161,
+      "en": "The statistics shall not contain any personal data.",
+      "mk1": "Статистичките податоци нема да содржат никакви лични податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 162,
+      "en": "Those statistics shall be included in the annual statistical report provided for in Article 60(3) of Regulation (EU) 2018/1861.",
+      "mk1": "Тие статистички податоци се вклучени во годишниот статистички извештај предвиден во член 60(3) од Регулативата (ЕУ) 2018/1861 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 163,
+      "en": "Competent authorities having a right to access data in SIS",
+      "mk1": "Надлежни органи со право на пристап до податоците во СИС",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 164,
+      "en": "Access to data in SIS and the right to search such data shall be reserved to the national competent authorities referred to in Article 34(1), (2) and (3) of Regulation (EU) 2018/1861.",
+      "mk1": "Пристап до податоците во СИС и правото на пребарување на тие податоци имаат само националните надлежни органи наведени во член 34(1), (2) и (3) од Регулативата (ЕУ) 2018/1861.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 165,
+      "en": "Europol shall within its mandate have the right to access and search data in SIS in accordance with Article 35 of Regulation (EU) 2018/1861 for the purpose of supporting and strengthening action by the competent authorities of the Member States and their mutual cooperation in preventing and combating migrant smuggling and facilitation of irregular migration.",
+      "mk1": "Европол во рамките на својот мандат има право на пристап и пребарување на податоци во СИС во согласност со член 35 од Регулативата (ЕУ) 2018/1861 со цел  поддршка и зајакнување на дејствата на надлежните органи на земјите членки и нивната меѓусебна соработка во спречувањето и борба против криумчарењето мигранти и олеснување на незаконската миграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 166,
+      "en": "Members of the teams referred to in points (8) and (9) of Article 2 of Regulation (EU) 2016/1624 shall within their mandate have the right to access and search data in SIS in accordance with Article 36 of Regulation (EU) 2018/1861 for the purpose of carrying out border checks, border surveillance and return operations through the technical interface set up and maintained by the European Border and Coast Guard Agency.",
+      "mk1": "Членовите на тимовите наведени во точките (8) и (9) од член 2 од Регулативата (ЕУ) 2016/1624 во рамките на нивниот мандат имаат право на пристап до податоците внесени во СИС и нивно пребарување во согласност со член 36 од Регулативата (ЕУ) 2018/1861 со цел извршување гранични проверки, граничен надзор и операции за враќање преку техничкиот интерфејс воспоставен и одржуван од Европската агенција за гранична и крајбрежна стража.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 167,
+      "en": "The Commission shall evaluate the application of this Regulation within two years of the date of the start of its application.",
+      "mk1": "Комисијата ја оценува примената на оваа регулатива во рок од две години од датумот на почетокот на нејзината примена.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 168,
+      "en": "This evaluation shall include an assessment of the possible synergies between this Regulation and Regulation (EU) 2017/2226 of the European Parliament and of the Council ().",
+      "mk1": "Ова оценување вклучува оцена на можните синергии помеѓу оваа Регулатива и Регулативата (ЕУ) 2017/2226 на Европскиот парламент и на Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 169,
+      "en": " Regulation (EU) 2017/2226 of the European Parliament and of the Council of 30 November 2017 establishing an Entry/Exit System (EES) to register entry and exit data and refusal of entry data of third-country nationals crossing the external borders of the Member States and determining the conditions for access to the EES for law enforcement purposes, and amending the Convention implementing the Schengen Agreement and Regulations (EC) No 767/2008 and (EU) No 1077/2011 (OJ L 327, 9.12.2017, p. 20).",
+      "mk1": " Регулатива (ЕУ) 2017/2226 на Европскиот парламент и на Советот од 30 ноември 2017 година за воспоставување систем за влез/излез (СВИ) за регистрација на податоци за влез и излез и одбивање на податоци за влез на државјани на трета земја кои ги преминуваат надворешните граници на земјите членки и утврдување на условите за пристап до СВИ за целите на спроведување на законот и изменување на Конвенцијата за спроведување на Шенгенскиот договор и Регулативите (ЕЗ) бр. 767/2008 и (ЕУ) бр. 1077/2011 (Сл. весник L 327, 9.12.2017 година, стр. 20).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 170,
+      "en": "▼M1",
+      "mk1": "▼M1",
+      "status": "MANUAL_BOUNDARY",
+      "target": "Док",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 171,
+      "en": "Applicability of Regulation (EU) 2018/1861",
+      "mk1": "Применливост на Регулатива (ЕУ) 2018/1861",
+      "status": "MANUAL_BOUNDARY",
+      "target": "олку не е утврдено во оваа регулатива,",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 172,
+      "en": "Insofar as not established in this Regulation, the entry, processing and updating of alerts, the provisions on responsibilities of the Member States and eu-LISA, the conditions concerning access and the review period for alerts, data processing, data protection, liability and monitoring and statistics, as laid down in Articles 6 to 19, Article 20(3) and (4), Articles 21, 23, 32 and 33, Article 34(5) and Articles 36a, 36b, 36c and 38 to 60 of Regulation (EU) 2018/1861, shall apply to data entered and processed in SIS in accordance with this Regulation.",
+      "mk1": "Доколку не е утврдено во оваа регулатива, внесувањето, обработката и ажурирањето на предупредувањата, одредбите за одговорностите на земјите членки и Агенцијата еу-ЛИСА, условите за пристап и рокот за преглед на предупредувањата, обработката на податоци, заштитата на податоци, одговорноста, следењето и статистичките податоци, како што е наведено во членовите од 6 до 19, член 20(3) и (4), членовите 21, 23, 32 и 33, член 34(5), членовите 36а, 36б, 36в и членовите од 38 до 60 од Регулативата ( ЕУ) 2018/1861 година, се применуваат за податоците внесени и обработени во СИС во согласност со оваа регулатива.",
+      "status": "HIGH",
+      "target": "внесувањето, обработувањето и ажурирањето на предупредувањата, одредбите за одговорностите на земјите членки и Агенцијата еу-ЛИСА, условите за пристап и рокот за преглед на предупредувањата, обработувањето на податоци, заштитата на податоци, одговорноста, следењето и статистичките податоци, утврдени во членовите од 6 до 19, член 20(3) и член 20 (4), членовите 21, 23, 32 и 33, член 34(5), членовите 36а, 36б, 36в и членовите од 38 до 60 од Регулативата ( ЕУ) 2018/1861 година, се применуваат за податоците внесени и обработени во СИС во согласност со оваа регулатива. ▼Б Член 20",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 171,
+      "en": "Applicability of Regulation (EU) 2018/1861",
+      "mk1": "Применливост на Регулатива (ЕУ) 2018/1861",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 172,
+      "en": "Insofar as not established in this Regulation, the entry, processing and updating of alerts, the provisions on responsibilities of the Member States and eu-LISA, the conditions concerning access and the review period for alerts, data processing, data protection, liability and monitoring and statistics, as laid down in Articles 6 to 19, Article 20(3) and (4), Articles 21, 23, 32 and 33, Article 34(5) and Articles 36a, 36b, 36c and 38 to 60 of Regulation (EU) 2018/1861, shall apply to data entered and processed in SIS in accordance with this Regulation.",
+      "mk1": "Доколку не е утврдено во оваа регулатива, внесувањето, обработката и ажурирањето на предупредувањата, одредбите за одговорностите на земјите членки и Агенцијата еу-ЛИСА, условите за пристап и рокот за преглед на предупредувањата, обработката на податоци, заштитата на податоци, одговорноста, следењето и статистичките податоци, како што е наведено во членовите од 6 до 19, член 20(3) и (4), членовите 21, 23, 32 и 33, член 34(5), членовите 36а, 36б, 36в и членовите од 38 до 60 од Регулативата ( ЕУ) 2018/1861 година, се применуваат за податоците внесени и обработени во СИС во согласност со оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 173,
+      "en": "▼B",
+      "mk1": "▼Б",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 174,
+      "en": "Entry into force",
+      "mk1": "Влегување во сила",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 175,
+      "en": "This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила на дваесетиот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 176,
+      "en": "It shall apply from the date set by the Commission in accordance with Article 66(2) of Regulation (EU) 2018/1861.",
+      "mk1": "Се применува од датумот утврден од Комисијата во согласност со член 66(2) од Регулативата (ЕУ) 2018/1681.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 177,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.",
+      "mk1": "Оваа регулатива е целосно обврзувачка и директно применлива во сите земји членки во согласност со Договорите.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 178,
+      "en": "CHAPTER XIII",
+      "mk1": "ПОГЛАВЈЕ XIII",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 179,
+      "en": "Right of access and review of alerts",
+      "mk1": "Право на пристап и преглед на предупредувања",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 180,
+      "en": "National competent authorities having a right to access data in SIS",
+      "mk1": "Националните надлежни органи кои имаат право на пристап до податоците во SIS",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 181,
+      "en": "National competent authorities shall have access to data entered in SIS and the right to search such data directly or in a copy of the SIS database for the purposes of:",
+      "mk1": "Националните надлежни органи имаат пристап до податоците внесени во SIS и право на пребарување на тие податоци директно или во копија од базата на податоци на SIS за целите на:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 182,
+      "en": "(a)\tborder control, in accordance with Regulation (EU) 2016/399;",
+      "mk1": "(а) гранична контрола, во согласност со Регулативата (ЕУ) 2016/399;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 183,
+      "en": "(b)\tpolice and customs checks carried out within the Member State concerned, and the coordination of such checks by designated authorities;",
+      "mk1": "(б) полициски и царински проверки извршени во засегнатата земја членка и координација на таквите проверки од органи назначени за таа цел;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 184,
+      "en": "(c)\tthe prevention, detection, investigation or prosecution of terrorist offences or other serious criminal offences or the execution of criminal penalties, within the Member State concerned, provided that Directive (EU) 2016/680 applies;",
+      "mk1": "(в) спречување, откривање, истрага или гонење на кривични дела за тероризам или други сериозни кривични дела или извршување на кривични казни, во рамките на засегнатата земја членка, под услов да се применува Директивата (ЕУ) 2016/680;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 185,
+      "en": "(d)\texamining the conditions and taking decisions related to the entry and stay of third-country nationals on the territory of the Member States, including on residence permits and long-stay visas, and to the return of third-country nationals, as well as carrying out checks on third country nationals who are illegally entering or staying on the territory of the Member States;",
+      "mk1": "(г) испитување на условите и донесување одлуки поврзани со влез и престој на државјани на трети земји на територијата на земјите членки, вклучително и  дозволи за престој и визи за долгорочен престој, и враќањето на државјани на трети земји, како и вршење проверки на државјани на трети земји кои незаконски влегуваат или престојуваат на територијата на земјите членки;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 186,
+      "en": "(e)\tsecurity checks on third-country nationals who apply for international protection, insofar as authorities performing the checks are not ‘determining authorities’ as defined in point (f) of Article 2 of Directive 2013/32/EU of the European Parliament and of the Council , and, where relevant, providing advice in accordance with Council Regulation (EC) No 377/2004 ;",
+      "mk1": "(д) безбедносни проверки на државјани на трети земји кои поднесуваат барање за меѓународна заштита, доколку органите што ги вршат проверките не се „органи за одлучување“ како што е дефинирано во точка (ѓ) од член 2 од Директивата 2013/32/ЕУ на Европскиот парламент и на Советот  и, каде што е релевантно, давање совети во согласност со Регулативата (ЕЗ) бр. 377/2004 на Советот ;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 187,
+      "en": " Directive 2013/32/EU of the European Parliament and of the Council of 26 June 2013 on common procedures for granting and withdrawing international protection (OJ L 180, 29.6.2013, p. 60).",
+      "mk1": " Директива 2013/32/ЕУ на Европскиот парламент и на Советот од 26 јуни 2013 година за заеднички постапки за доделување и повлекување меѓународна заштита (Сл.весник L 180, 29.6.2013 год., стр. 60).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 188,
+      "en": " Council Regulation (EC) No 377/2004 of 19 February 2004 on the creation of an immigration liaison officers network (OJ L 64, 2.3.2004, p. 1).",
+      "mk1": " Регулатива (ЕЗ) бр. 377/2004 на Советот од 19 февруари 2004 година за создавање мрежа на офицери за врски за имиграција (Сл. весник L 64, 2.3.2004 год., стр. 1).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 189,
+      "en": "▼M1",
+      "mk1": "▼M1",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 190,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32019R0818",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32019R0818",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 191,
+      "en": "32019R0818:",
+      "mk1": "32019R0818:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 192,
+      "en": "INSERTED",
+      "mk1": "ВНЕСЕНО",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 193,
+      "en": "(f)\tverifying different identities and combating identity fraud in accordance with Chapter V of Regulation (EU) 2019/818;",
+      "mk1": "(ѓ) проверка на различни идентитети и борба против измамата со идентитетот во согласност со Поглавје V од Регулативата (ЕУ) 2019/818;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 194,
+      "en": "▼M2",
+      "mk1": "▼M2",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 195,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32021R1150",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32021R1150",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 196,
+      "en": "(h)\tthe manual processing of ETIAS applications by the ETIAS National Unit, pursuant to Article 8 of Regulation (EU) 2018/1240.",
+      "mk1": "(ж) рачна обработка на барањата во ETIAS од  националната единица на ETIAS, во согласност со член 8 од Регулативата (ЕУ) 2018/1240.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 197,
+      "en": "▼B",
+      "mk1": "▼B",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 198,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32018R1862",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32018R1862",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 199,
+      "en": "32018R1862",
+      "mk1": "32018R1862:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 200,
+      "en": "The right to access data in SIS and the right to search such data directly may be exercised by national competent authorities responsible for naturalisation, as provided for in national law, for the purposes of examining an application for naturalisation.",
+      "mk1": "Правото на пристап до податоците во SIS и правото на директно пребарување на тие податоци може да го користат националните надлежни органи одговорни за натурализација, како што е предвидено во националното право, за целите на разгледување на барањето за натурализација.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 201,
+      "en": "The right to access data entered in SIS and the right to search such data directly may also be exercised by national judicial authorities, including those responsible for the initiation of public prosecutions in criminal proceedings and for judicial inquiries prior to charging a person, in the performance of their tasks, as provided for in national law, and by their coordinating authorities.",
+      "mk1": "Правото на пристап до податоците внесени во SIS и правото на директно пребарување на таквите податоци може да го користат и националните судски органи, вклучително и оние кои се одговорни за покренување кривично гонење и за спроведување судски истраги пред да се покрене обвинение против лице, при извршувањето. на нивните задачи, како што е предвидено во националното право, како и од нивните координативни органи.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 202,
+      "en": "The competent authorities referred to in this Article shall be included in the list referred to in Article 56(7).",
+      "mk1": "Надлежните органи наведени во овој член се вклучени во списокот наведен во член 56(7).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 203,
+      "en": "(f)\twhere the granting Member State notifies the issuing Member State that it intends to grant or extend the residence permit or long-stay visa or that it has decided to do so, the issuing Member State shall delete the alert on return.",
+      "mk1": "(ѓ) кога земјата членка-одобрувач ја известува земјата членка-издавач дека намерава да ја одобри или продолжи дозволата за престој или визата за долгорочен престој или дека одлучила да го стори тоа, земјата членка-издавач го брише предупредувањето за враќање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 204,
+      "en": "(c)\tthe issuing Member State shall notify the executing Member State of the outcome following the consultation.",
+      "mk1": "(в) земјата членка-издавач ќе ја извести земјата членка-извршител за исходот по консултациите.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 205,
+      "en": "Evaluation",
+      "mk1": "Оценување",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 206,
+      "en": "Any extension of that period shall be recorded in the alert without delay.",
+      "mk1": "Секое продолжување на тој рок без одлагање се евидентира во предупредувањето.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 207,
+      "en": "Any suspension or postponement of the enforcement of the return decision, including as a result of the lodging of an appeal, shall immediately be recorded in the alert on return.",
+      "mk1": "Секое суспендирање или одложување на извршувањето на одлуката за враќање, вклучително и како резултат на поднесување жалба, веднаш се евидентира во предупредувањето за враќање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 208,
+      "en": "Where applicable, an alert for refusal of entry and stay shall be entered without delay pursuant to point (b) of Article 24(1) of Regulation (EU) 2018/1861.",
+      "mk1": "Ако е применливо, без одлагање се внесува предупредување за одбивање на влез и престој во согласност со точката (б) од член 24(1) од Регулативата (ЕУ) 2018/1861.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 209,
+      "en": "The statistics shall not contain personal data.",
+      "mk1": "Статистичките податоци не содржат лични податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 210,
+      "en": "(14)\t‘long-stay visa’ means a long-stay visa as referred to in Article 18(1) of Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 between the governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders ();",
+      "mk1": "(14) „виза за долгорочен престој“ е виза за долгорочен престој од член 18(1) од Конвенцијата од 19 јуни 1990 година за спроведување на Шенгенскиот договор од 14 јуни 1985 година помеѓу владите на државите од Економската унија на Бенелукс, Сојузна Република  Германија и Република Франција за постепено укинување на проверките на нивните заеднички граници ();",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 211,
+      "en": "(b)\ta decision to delete them by the competent authority of the issuing Member State.",
+      "mk1": "(б) одлукa за нивно бришење донесена од надлежниот орган на земјата членка-издавач.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 212,
+      "en": "The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex.",
+      "mk1": "Верзиите објавени во Службениот весник на Европската Унија и достапни во ЕУРЛЕКС се автентичните верзии на соодветните акти, вклучително и нивните преамбули.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 213,
+      "en": "An alert on return shall be entered into SIS without delay following issue of a return decision.",
+      "mk1": "По издавање на одлука за враќање во СИС, без одлагање, се внесува предупредување за враќање",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 214,
+      "en": "If the third-country nationals concerned are released from detention without being removed, an alert on return shall be entered into SIS without delay.",
+      "mk1": "Доколку засегнатите државјани на трети земји повеќе не се приведени, но не се отстранети,  се внесува предупредување за враќање во SIS без одлагање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 215,
+      "en": "on the use of the Schengen Information System for the return of illegally staying third-country nationals",
+      "mk1": "за користење на Шенгенскиот информатички систем за враќање на државјани на трета земја со незаконски престој",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 216,
+      "en": "In the event of a hit on an alert on return concerning a third-country national who is exiting the territory of the Member States through the external border of a Member State, the executing Member State shall communicate the following information to the issuing Member State through the exchange of supplementary information:",
+      "mk1": "Во случај на потврдено совпаѓање со предупредување за враќање за државјанин на трета земја кој излегува од територијата на земјите членки преку надворешната граница на земја членка, земјата членка-извршител преку размена на дополнителни информации ги соопштува до земјата членка-издавач следниве информации:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    }
+  ],
+  "accepted_indices": [
+    21,
+    24,
+    54,
+    146,
+    172
+  ]
+}

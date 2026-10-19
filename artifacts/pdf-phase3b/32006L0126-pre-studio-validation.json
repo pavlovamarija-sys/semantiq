@@ -1,0 +1,34 @@
+{
+  "celex": "32006L0126",
+  "classification": "FAIL",
+  "frozenRun": true,
+  "hashes": {
+    "sourcePdfSha256": "0E6E7DF9EF641AFEBECF692CE9E1AF7C8CA2F2AD2E4C82950AD6ECF81A3D55EE",
+    "experimentalDocxSha256": null
+  },
+  "gates": {
+    "noCrash": "FAIL",
+    "textIntegrity": "NOT_RUN",
+    "page4FalseTableEliminated": "NOT_VERIFIABLE_FROM_RETURNED_MODEL",
+    "page40FinalRowPreserved": "NOT_RUN",
+    "page41SplitResolved": "NOT_RUN",
+    "crossPageContinuity": "NOT_RUN",
+    "noDocumentSpecificWorkaround": "PASS",
+    "32006L0114Regression": "PASS"
+  },
+  "failure": {
+    "exceptionType": "KeyError",
+    "message": "'reason'",
+    "file": "workers/pdf-to-docx/spikes/typed_model_phase1.py",
+    "line": 554,
+    "operation": "ambiguity['reason'] during generic decision logging",
+    "pageBeingProcessed": 4,
+    "cause": "The aligned-list rejection ambiguity created by Phase 3B contains type/candidates/evidence/confidence but no reason field. Generic ambiguity decision logging assumes every ambiguity has reason."
+  },
+  "experimentalDocx": {
+    "status": "NOT_GENERATED",
+    "reason": "No typed model passed integrity gates."
+  },
+  "productionChanged": false,
+  "sdlxliffGenerated": false
+}

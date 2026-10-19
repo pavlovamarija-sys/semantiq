@@ -1,0 +1,54 @@
+{
+  "celex": "32025D2586",
+  "classification": "PASS",
+  "converterReadyForControlledCutover": true,
+  "productionEndpointChanged": false,
+  "sourceIdentity": {
+    "status": "PASS",
+    "sha256": "a189c5b49a8fef33e3bc873d3d03491213ee05187a3eb1813110a677e5d4f69d",
+    "byteSize": 890782,
+    "pages": 3
+  },
+  "gates": {
+    "sourceSpanAccounting": "PASS",
+    "sourceToDocxTextIntegrity": "PASS",
+    "legalReadingOrder": "PASS",
+    "recitalReconstruction": "PASS",
+    "articleSequence": "PASS",
+    "annexTableDetection": "PASS",
+    "multiPageTableContinuity": "PASS",
+    "nativeDocxTableStructure": "PASS",
+    "landscapeSection": "PASS",
+    "footnoteStructure": "PASS",
+    "pageFurnitureExclusion": "PASS",
+    "unresolvedMaterialAmbiguities": "PASS",
+    "visualComparison": "PASS",
+    "existingRegressionSuite": "PASS",
+    "typescript": "PASS"
+  },
+  "metrics": {
+    "sourceSpans": 136,
+    "representedLegalSpans": 120,
+    "excludedFurnitureSpans": 16,
+    "normalizedLegalTokens": 833,
+    "recitals": 4,
+    "articles": [1, 2],
+    "physicalTableSegments": 2,
+    "logicalTables": 1,
+    "logicalTableColumns": 5,
+    "logicalHeaderRows": 1,
+    "logicalDataRows": 4,
+    "nativeDocxTables": 1,
+    "nativeDocxRows": 5,
+    "nativeDocxCells": 25,
+    "nativeFootnotes": 1,
+    "renderedDocxPages": 3,
+    "unresolvedDiagnostics": 0,
+    "workerTestsPassed": 67
+  },
+  "output": {
+    "docxSha256": "e8b4fa33eef7761fdbb957da5e382e2c8d34296516adde6399c2315f766a5a56",
+    "docxByteSize": 39662,
+    "renderedPdfSha256": "d01559f628def934bfdc2b936a5b56ce6e91dfdf6dd8dcb7b45aaeeaa18b80cb"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "status": "FROZEN",
+  "repositoryCommit": null,
+  "repositoryNote": "Workspace is not a Git checkout; source hashes are the freeze identity.",
+  "implementationFiles": {
+    "workers/pdf-to-docx/spikes/typed_model_phase1.py": "348542AD5BDEF7B114E47FF88CA51A362562C2DF0D3E5712A696C1B2C9209432",
+    "workers/pdf-to-docx/spikes/phase3d_finalize.py": "B22C21BAA6FA5001430C3C74AEA7C95BF405C6AB66872677789DB4F3BF18705C",
+    "workers/pdf-to-docx/spikes/phase3f_finalize.py": "051686A66EFC73C26F9FE56707CD2E131B963A9F1C60DA13B5C9B46EE16268A3"
+  },
+  "testFiles": {
+    "workers/pdf-to-docx/tests/test_typed_model_phase1.py": "B1BC61F961F0BFDE60DA869361B7EE3395E109D50B4B3638BE0C0C36FB208EA0",
+    "workers/pdf-to-docx/tests/test_reading_order.py": "C3960936F68088A6A60909952F7BDC39F63CFEF186A204F6188C79E7DB64F02A",
+    "workers/pdf-to-docx/tests/test_diagnostics.py": "EFAE33782EDF3FB5F5C684B5525CA08CE3EC0B4E98AE9300230DBECFF22B11B5"
+  },
+  "testStatus": "31 passed, 1 warning",
+  "frozenConfiguration": {
+    "algorithm": "Phase 3G typed reconstruction and frozen DOCX serializer",
+    "aiUsed": false,
+    "documentSpecificRules": false,
+    "translation": false,
+    "sdlxliff": false
+  }
+}

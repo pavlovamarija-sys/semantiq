@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "authentication": "existing authenticated Next.js server route",
+  "authorization": "project-owner RLS plus exact project/document/version filters",
+  "worker_authentication": "existing bearer-token contract",
+  "idempotency": "stable request key plus exact model hash/config/serializer fingerprint",
+  "concurrency": "database uniqueness plus one-active-input index",
+  "stale_input": "model bytes are re-downloaded and re-hashed immediately before finalization",
+  "failure_mode": "fail closed; failed generation/artifact remains non-available",
+  "storage": "immutable path, upsert=false, actual-byte readback before atomic publication"
+}

@@ -1,0 +1,19 @@
+{
+  "flag": "PDF_TO_DOCX_SHADOW_RECONSTRUCTION",
+  "productionReferences": [
+    {
+      "file": "src/infrastructure/document-conversion/shadow-reconstruction.ts",
+      "runtime": "Next.js server process",
+      "serverSide": true,
+      "readTiming": "each invocation/request",
+      "acceptedEnabledValue": "true",
+      "caseSensitive": true,
+      "default": "OFF"
+    }
+  ],
+  "decisionOwner": "Next.js server process",
+  "nextJsOnly": "sufficient to enable invocation, provided worker URL/token are configured",
+  "workerOnly": "has no effect on invocation",
+  "both": "worker copy is redundant; the worker does not read this flag",
+  "secretsExposed": false
+}

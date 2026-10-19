@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "runner": "existing workers/pdf-to-docx/spikes/phase6a_regression.py with output redirected to artifacts/pdf-phase6b3/regression-runtime",
+  "fixtures": {
+    "32006L0114": {"status": "PASS", "tables": 3, "logicalTables": 3, "rows": 48, "cells": 100, "spans": 3362, "tokens": 3389, "coverage": "PASS", "textIntegrity": "PASS"},
+    "32006L0126": {"status": "PASS", "tables": 5, "logicalTables": 3, "rows": 128, "cells": 264, "spans": 27433, "tokens": 18825, "coverage": "PASS", "textIntegrity": "PASS"},
+    "32006L0042": {"status": "PASS", "tables": 8, "logicalTables": 1, "rows": 278, "cells": 556, "spans": 48170, "tokens": 30922, "coverage": "PASS", "textIntegrity": "PASS"}
+  }
+}

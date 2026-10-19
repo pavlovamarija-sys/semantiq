@@ -1,0 +1,655 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20260213T094212Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32025D2637_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32025D2637</prop>
+    <prop type="x-SourceTMX">32025D2637_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">b3b1482ff48d61e3d5b30e8f9e97b5b90cc1fe2abcef908032d77ea91ccb7ffd</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">38</prop>
+  </header>
+  <body>
+    <tu creationdate="20260213T092448Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T092448Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T092448Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL DECISION (CFSP) 2025/2637</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА (ЗНБП) 2025/2637 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T092509Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T092509Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T092509Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4471331182894851081, 2260364519024842378</prop>
+      <prop type="x-ContextContent">COUNCIL DECISION (CFSP) 2025/2637 |  | ОДЛУКА (ЗНБП) 2025/2637 НА СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 22 December 2025</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 22 декември 2025 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T092522Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T092522Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T092522Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3657596318, -6945057590836406931</prop>
+      <prop type="x-ContextContent">of 22 December 2025 |  | од 22 декември 2025 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>amending Decision (CFSP) 2024/1484 concerning restrictive measures in view of the situation in Russia</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за изменување на Одлуката (ЗНБП) 2024/1484 за рестриктивни мерки во однос на состојбата во Русија</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210209T101257Z" creationid="PC" changedate="20260119T121158Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260119T121158Z">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">-3288014686231762745, -3981858030117964801</prop>
+      <prop type="x-ContextContent">amending Decision (CFSP) 2024/1484 concerning restrictive measures in view of the situation in Russia |  | за изменување на Одлуката (ЗНБП) 2024/1484 за рестриктивни мерки во однос на состојбата во Русија | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210609T053102Z" creationid="SEI\Mario.Jordanov" changedate="20260213T092614Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T092614Z">
+      <prop type="x-LastUsedBy">SEI\Mario.Jordanov</prop>
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-ContextContent">THE COUNCIL OF THE EUROPEAN UNION, |  | СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on European Union, and in particular Article 29 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за Европската Унијата, а особено член 29 од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220513T120019Z" creationid="SEI\Mario.Jordanov" changedate="20260213T092619Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T092619Z">
+      <prop type="x-LastUsedBy">SEI\Mario.Jordanov</prop>
+      <prop type="x-Context">4008922428764593819, -8062861699121218956</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on European Union, and in particular Article 29 thereof, |  | имајќи го предвид Договорот за Европската Унијата, а особено член 29 од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ги предвид предлозите на Високиот претставник на Унијата за надворешни работи и безбедносна политика,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T113544Z" creationid="PC" changedate="20221112T231020Z" changeid="PC" lastusagedate="20221112T231020Z">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">-8631726672236812065, -2490919856072377577</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy, |  | имајќи ги предвид предлозите на Високиот претставник на Унијата за надворешни работи и безбедносна политика, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220111T100941Z" creationid="М" changedate="20260213T092851Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T092851Z">
+      <prop type="x-LastUsedBy">М</prop>
+      <prop type="x-Context">-9170473274307968135, -7156646051698722579</prop>
+      <prop type="x-ContextContent">(3)	In view of the gravity of the situation, the Council considers that two natural persons should be added to the list of natural and legal persons, entities and bodies set out in the Annex to Decision (CFSP) 2024/1484. |  | (3)	Со оглед на сериозноста на ситуацијата, Советот смета дека две физички лица треба да се додадат на списокот на физички и правни лица, субјекти и тела наведени во Анексот на Одлуката (ЗНБП) 2024/1484. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(4)	Decision (CFSP) 2024/1484 should therefore be amended accordingly,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(4)Затоа, Одлуката (ЗНБП) 2024/1484 треба соодветно да се измени,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">12</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220307T050034Z" creationid="М" changedate="20260213T092852Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T092852Z">
+      <prop type="x-LastUsedBy">М</prop>
+      <prop type="x-Context">-4985181938879095565, -5899884114671470794</prop>
+      <prop type="x-ContextContent">(4)	Decision (CFSP) 2024/1484 should therefore be amended accordingly, |  | (4)	Затоа, Одлуката (ЗНБП) 2024/1484 треба соодветно да се измени, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>HAS ADOPTED THIS DECISION:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЈА ДОНЕСЕ ОВАА ОДЛУКА:</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">13</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210530T104330Z" creationid="PC" changedate="20221112T094313Z" changeid="PC" lastusagedate="20221112T094313Z" usagecount="1">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">-7305744188996159828, -4568686998210506132</prop>
+      <prop type="x-ContextContent">HAS ADOPTED THIS DECISION: |  | ЈА ДОНЕСЕ ОВАА ОДЛУКА: | </prop>
+      <prop type="x-Context">4952335301262542745, -5858658346039383910</prop>
+      <prop type="x-ContextContent">The Annex to Decision (CFSP) 2024/1484 is amended in accordance with the Annex to this Decision. |  | Анексот кон Одлуката(ЗНБП) 2024/1484 се изменува во согласност со Анексот кон оваа одлука. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 1</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">14</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T092854Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T092854Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T092854Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Annex to Decision (CFSP) 2024/1484 is amended in accordance with the Annex to this Decision.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Анексот кон Одлуката (ЗНБП) 2024/1484 се изменува во согласност со Анексот кон оваа одлука.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">15</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221206T070836Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T092900Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T092900Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Decision shall enter into force on the date of its publication in the <bpt i="1" type="175" x="1" />Official Journal of the European Union<ept i="1" />.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 2 Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">16</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T092911Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T092911Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T092911Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3687377442503793823, -1858572050776045875</prop>
+      <prop type="x-ContextContent">This Decision shall enter into force on the date of its publication in the Official Journal of the European Union. | AgJLAQEBAQMxNzUBJgIBAQMxNzUB | Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија. | AgIyAQEBAQMxNzUBMwIBAQMxNzUB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Brussels, 22 December 2025.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. Брисел, 22 декември 2025 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">17</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20181024T132349Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260120T163336Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260120T163336Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6303317180498091632, 8845706617279851243</prop>
+      <prop type="x-ContextContent">Done at Brussels, 22 December 2025. |  | Брисел, 22 декември 2025 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Council</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Советот</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">18</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210531T105756Z" creationid="PC" changedate="20221112T231129Z" changeid="PC" lastusagedate="20221112T231129Z">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">-3648910944734109195, 136400592362229</prop>
+      <prop type="x-ContextContent">For the Council |  | За Советот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The President</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претседател</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20261102T210634Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T092913Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T092913Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6451808141391308451, 4236527515880034</prop>
+      <prop type="x-ContextContent">The President |  | Претседател | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>M. BJERRE</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>М. БЈЕРРЕ</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210106T145202Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260120T163347Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260120T163347Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3372856808381950, 4378193289166</prop>
+      <prop type="x-ContextContent">M. BJERRE |  | М. БЈЕРРЕ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T093038Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T093038Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093038Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">112932449316, 4573421134</prop>
+      <prop type="x-ContextContent">ANNEX |  | АНЕКС | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In the Annex to Decision (CFSP) 2024/1484, the following entries are added under heading ‘A. Natural persons’:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во Анексот кон Одлуката (ЗНБП) 2024/1484, во делот под насловот „А. Физички лица“, се додаваат следниве внесови</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211010T183741Z" creationid="SEI\Aida.Basovik" changedate="20260213T093051Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093051Z">
+      <prop type="x-LastUsedBy">SEI\Aida.Basovik</prop>
+      <prop type="x-Context">117890334, 147766119</prop>
+      <prop type="x-ContextContent">Name |  | Име | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Identifying information</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ме Информации за идентификација</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">24</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221101T112206Z" creationid="М" changedate="20260213T093053Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093053Z">
+      <prop type="x-LastUsedBy">М</prop>
+      <prop type="x-Context">-7150679494299279164, -8186041902733590150</prop>
+      <prop type="x-ContextContent">Identifying information |  | Информации за идентификација | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Statement of Reasons</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Изјава за причините</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">25</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220703T060034Z" creationid="М" changedate="20260213T093055Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093055Z">
+      <prop type="x-LastUsedBy">М</prop>
+      <prop type="x-Context">-895217649734900548, -5655112113685940659</prop>
+      <prop type="x-ContextContent">Statement of Reasons |  | Изјава за причините | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Date of listing</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Датум на внесување во список</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">26</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221114T081219Z" creationid="PC" changedate="20260213T093056Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093056Z">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">8059992357447852666, -5219634817893018955</prop>
+      <prop type="x-ContextContent">Date of listing |  | Датум на внесување во список | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘53.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„53.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">27</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T093059Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T093059Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093059Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">‘53. |  | „53. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Dmitry Sergeyevich GORDEEV</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Dmitry Sergeyevich GORDEEV</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">28</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T093101Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T093101Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093101Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">82203822757963455, 7443101446726138654</prop>
+      <prop type="x-ContextContent">Dmitry Sergeyevich GORDEEV |  | Dmitry Sergeyevich GORDEEV | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Дмитрий Сергеевич ГОРДЕЕВ)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Дмитрий Сергеевич ГОРДЕЕВ)</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">29</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220111T122334Z" creationid="М" changedate="20260213T093103Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093103Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3762585283919847253, -6066177879986961965</prop>
+      <prop type="x-ContextContent">(Дмитрий Сергеевич ГОРДЕЕВ) |  | (Дмитрий Сергеевич ГОРДЕЕВ) | </prop>
+      <prop type="x-Context">-3156928460937597918, -3007034512218713524</prop>
+      <prop type="x-ContextContent">(Людмила БАЛАНДИНА) |  | (Людмила БАЛАНДИНА) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Position:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Позиција:</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">30</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T093137Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T093214Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093214Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3377196023633783, 4408401647374</prop>
+      <prop type="x-ContextContent">Position: |  | Позиција: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Judge of the Moscow City Court</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Ссудија во Судот на град Москва</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">31</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221110T152106Z" creationid="PC" changedate="20260213T093215Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093215Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">9091634573884561694, -490278445160240391</prop>
+      <prop type="x-ContextContent">Judge of the Moscow City Court |  | Судија во Судот на град Москва | </prop>
+      <prop type="x-Context">3245561547661919738, 4235258983237273</prop>
+      <prop type="x-ContextContent">Prosecutor |  | Обвинителка | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>DOB:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Датум на раѓање:</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">32</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T093224Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T093224Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093224Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">117605537, -7248583127561067383</prop>
+      <prop type="x-ContextContent">DOB: |  | Датум на раѓање: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>9.8.1983</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>9.8.1983 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">33</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221120T161249Z" creationid="PC" changedate="20260213T093225Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T094231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1954832224, 58177779998972</prop>
+      <prop type="x-ContextContent">16.11.1984 |  | 16.11.1984 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Nationality:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Државјанство на: н</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">34</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221011T132520Z" creationid="PC" changedate="20260213T093234Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093234Z">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">109002166364101, 4588387686</prop>
+      <prop type="x-ContextContent">Russian |  | Русија | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Gender: male</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а Пол: машки</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">36</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T093338Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T093338Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093338Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3369240304985360, 4236450155167002</prop>
+      <prop type="x-ContextContent">Gender: male |  | Пол: машки | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Dmitry Gordeev is a judge of the Moscow City Court and formerly of the Tverskoy District Court in the city of Moscow.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Dmitry Gordeev е судија во Судот на град Москва, а пред тоа и на Окружниот суд Тверској, во град Москва.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">37</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T093652Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T093652Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093652Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7983573814488537591, -9090820076327805430</prop>
+      <prop type="x-ContextContent">Lyudmila BALANDINA |  | Lyudmila BALANDINA | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Людмила БАЛАНДИНА)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Людмила БАЛАНДИНА)</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">49</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T093838Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T093838Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093838Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4227730504557264343, -664604052111133494</prop>
+      <prop type="x-ContextContent">Lyudmila Balandina is a prosecutor who has played a key role in several high-profile cases characterised by serious violations of human rights and repression of individuals critical of the Russian authorities or supportive of Ukraine. |  | Lyudmila Balandina е обвинителка која одигра клучна улога во неколку високопрофилни случаи кои истакнуваат сериозни кршења на човековите права и репресија врз поединци кои се критични кон руските власти или ја поддржуваат Украина. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Lyudmila Balandina has systematically abused her position as a State prosecutor to pursue politically motivated charges, employ ideological rhetoric aligned with Kremlin propaganda and seek excessive punishments for acts of peaceful expression.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Lyudmila Balandina систематски ја злоупотребува својата позиција како државна обвинителка за да покрене политички мотивирани обвиненија, да користи идеолошка реторика усогласена со пропагандата на Кремљ и да бара високи казни за мирно изразување. Неј</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">54</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T093906Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T093906Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093906Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6603855456655205974, -6533784731298392315</prop>
+      <prop type="x-ContextContent">Lyudmila Balandina has systematically abused her position as a State prosecutor to pursue politically motivated charges, employ ideological rhetoric aligned with Kremlin propaganda and seek excessive punishments for acts of peaceful expression. |  | Lyudmila Balandina систематски ја злоупотребува својата позиција како државна обвинителка за да покрене политички мотивирани обвиненија, да користи идеолошка реторика усогласена со пропагандата на Кремљ и да бара високи казни за мирно изразување. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Her conduct demonstrates an ongoing and deliberate effort to repress civil society, silence dissent and legitimise State narratives that equate criticism of the Russian Government or support for Ukraine with extremism or terrorism.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>зиното однесување демонстрира одржлив и намерен напор за потиснување на граѓанското општество, замолчување на несогласувањето и легитимирање на државните нарации,тиви кои ја изедначуваат критиката кон руската влада или поддршката за Украина со екстремизам или со тероризам.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">55</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T093941Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T093941Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T093941Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8809517074338137556, 5847186569297164121</prop>
+      <prop type="x-ContextContent">Her conduct demonstrates an ongoing and deliberate effort to repress civil society, silence dissent and legitimise State narratives that equate criticism of the Russian Government or support for Ukraine with extremism or terrorism. |  | Нејзиното однесување демонстрира одржлив и намерен напор за потиснување на граѓанското општество, замолчување на несогласувањето и легитимирање на државните наративи кои ја изедначуваат критиката кон руската влада или поддршката за Украина со екстремизам или тероризам. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>By initiating and sustaining such prosecutions, Lyudmila Balandina has been directly involved in serious violations and abuses of human rights, including violations of the freedom of expression, the right to a fair trial and the prohibition of arbitrary prosecution, as protected under the International Covenant on Civil and Political Rights and the European Convention on Human Rights.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Со иницирање и одржување на овие гонења, Lyudmila Balandina е директно вмешана во сериозни кршења прекршувања и злоупотреби на човековите права, вклучително и кршење прекршувања на слободата на изразување, правото на фер судење и забраната за произволно гонење, како што е заштитено со Меѓународниот пакт за граѓански и политички права и Европската конвенција за човеков</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">56</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T094021Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T094021Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T094021Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6679429824958040758, -4599498138812706912</prop>
+      <prop type="x-ContextContent">By initiating and sustaining such prosecutions, Lyudmila Balandina has been directly involved in serious violations and abuses of human rights, including violations of the freedom of expression, the right to a fair trial and the prohibition of arbitrary prosecution, as protected under the International Covenant on Civil and Political Rights and the European Convention on Human Rights. |  | Со иницирање и одржување на овие гонења, Lyudmila Balandina е директно вмешана во сериозни кршења и злоупотреби на човековите права, вклучително и кршење на слободата на изразување, правото на фер судење и забраната за произволно гонење, како што е заштитено со Меѓународниот пакт за граѓански и политички права и Европската конвенција за човекови права. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Lyudmila Balandina’s activities seriously undermine democracy and the rule of law in Russia, by turning the judicial system into a tool of political persecution and contributing to the broader pattern of State repression against journalists, cultural figures and opposition voices.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и права. Со своите постапки, Lyudmila Balandina сериозно ја загрозува демократијата и владеењето на правото во Русија, со тоа што го претвора судскиот систем во алатка за политички прогон и со тоа што придонесува за поширок модел на државна репресија врз новинари, културни личности и врз опозициски гласови.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">57</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T094050Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T094050Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T094050Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4784045149569705794, 6762805239276490925</prop>
+      <prop type="x-ContextContent">Lyudmila Balandina’s activities seriously undermine democracy and the rule of law in Russia, by turning the judicial system into a tool of political persecution and contributing to the broader pattern of State repression against journalists, cultural figures and opposition voices. |  | Со своите постапки, Lyudmila Balandina сериозно ја загрозува демократијата и владеењето на правото во Русија со тоа што го претвора судскиот систем во алатка за политички прогон и со тоа што придонесува за поширок модел на државна репресија врз новинари, културни личности и опозициски гласови. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Therefore, Lyudmila Balandina is responsible for serious violations of human rights, the repression of civil society and democratic opposition, and activities that seriously undermine democracy and the rule of law in Russia.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Затоа, Lyudmila Balandina е одговорна за сериозни кршења прекршувања на човековите права, репресија врз граѓанското општество и демократската опозиција и активности што сериозно ја поткопуваат демократијата и владеењето на правото во Русија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">58</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260213T094104Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260213T094104Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260213T094104Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7078821165605715484, 264382797739336519</prop>
+      <prop type="x-ContextContent">Therefore, Lyudmila Balandina is responsible for serious violations of human rights, the repression of civil society and democratic opposition, and activities that seriously undermine democracy and the rule of law in Russia. |  | Затоа, Lyudmila Balandina е одговорна за сериозни кршења на човековите права, репресија врз граѓанското општество и демократската опозиција и активности што сериозно ја поткопуваат демократијата и владеењето на правото во Русија. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>22.12.2025’</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>22.12.2025 година“</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2637</prop>
+      <prop type="x-SourceTUIndex">59</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,1621 @@
+{
+  "celex": "02002F0465",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02002F0465\\TMX_MK1\\02002F0465-20220310_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02002F0465\\MK2\\02002F0465-20220310_MK2.docx",
+  "tmx_sha256": "4c89831993e1d18c2179bfb9007c7a80a212cdea1fca9cf8756e4a3bf52898d3",
+  "mk2_sha256": "4e2b444dedc2f87bef9514ad95e8677d5e9744b036bbcae2731028d98846697a",
+  "original_tus": 74,
+  "accepted_tus": 10,
+  "skipped_tus": 64,
+  "acceptance_percent": 13.51,
+  "mk1_coverage": 5.58,
+  "mk2_coverage": 6.39,
+  "accepted_clean_en_chars": 123,
+  "accepted_clean_mk2_chars": 150,
+  "results": [
+    {
+      "index": 1,
+      "en": "This text is meant purely as a documentation tool and has no legal effect.",
+      "mk1": "Овој текст е наменет исклучиво за документирање и нема правно дејство.",
+      "mk2": "Овој текст е наменет исклучиво за документирање и нема правно дејство. Институциите на Унијата н",
+      "score": 0.8414634146341463,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        96
+      ],
+      "evidence": {
+        "token_count": 57,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          3
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 2,
+      "en": "The Union's institutions do not assume any liability for its contents.",
+      "mk1": "Институциите на Унијата не преземаат никаква одговорност за неговата содржина.",
+      "mk2": "е преземаат никаква одговорност за неговата содржина. Автентичните верзии на релевантните акти, вклучувајќи",
+      "score": 0.5714285714285714,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        96,
+        203
+      ],
+      "evidence": {
+        "token_count": 57,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          3
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 3,
+      "en": "The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex.",
+      "mk1": "Автентичните верзии на релевантните акти, вклучувајќи ги нивните преамбули, се оние објавени во Службениот весник на Европската Унија и се достапни на ЕУР-Лекс.",
+      "mk2": "гивклучително и нивните преамбули, се оние објавени во Службениот весник на Европската Унија и се достапни на EURЕУР-LexЛексЕУР-Лекс. Тие официјални текстови се директно достапни преку врските вметнати во овој документ",
+      "score": 0.5951742627345844,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        203,
+        422
+      ],
+      "evidence": {
+        "token_count": 57,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          3
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 4,
+      "en": "Those official texts are directly accessible through the links embedded in this document",
+      "mk1": "Тие официјални текстови се директно достапни преку врските вметнати во овој документ",
+      "mk2": "",
+      "score": 0.3971631205673759,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 5,
+      "en": "►B",
+      "mk1": "►B",
+      "mk2": "РА",
+      "score": 0.0,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        4
+      ],
+      "mk2_char_span": [
+        426,
+        428
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          7
+        ],
+        "atom_window": [
+          2,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 6,
+      "en": "COUNCIL FRAMEWORK DECISION",
+      "mk1": "РАМКОВНА ОДЛУКА НА СОВЕТОТ",
+      "mk2": "МКОВНА ОДЛУКА НА СОВЕТОТ",
+      "score": 0.96,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        4
+      ],
+      "mk2_char_span": [
+        428,
+        453
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          7
+        ],
+        "atom_window": [
+          2,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 7,
+      "en": "of 13 June 2002",
+      "mk1": "од 13 јуни 2022 година",
+      "mk2": "од 13 јуни 2022 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        4
+      ],
+      "mk2_char_span": [
+        453,
+        475
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          7
+        ],
+        "atom_window": [
+          2,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 8,
+      "en": "on joint investigation teams",
+      "mk1": "за заеднички истражни тимови",
+      "mk2": "за заеднички истражни тимови",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        4,
+        5
+      ],
+      "mk2_char_span": [
+        476,
+        504
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          8
+        ],
+        "atom_window": [
+          4,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 9,
+      "en": "(2002/465/JHA)",
+      "mk1": "(2002/465/ПВР)",
+      "mk2": "(2002/465/ПВР)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        505,
+        519
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          9,
+          9
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 10,
+      "en": "(OJ L 162 20.6.2002, p. 1)",
+      "mk1": "(Сл. весник L 162 20.6.2002 година, стр. 1)",
+      "mk2": "(Сл. весник L 162 20.6.2002 година, стр. 1)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        6,
+        7
+      ],
+      "mk2_char_span": [
+        520,
+        563
+      ],
+      "evidence": {
+        "token_count": 10,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          10
+        ],
+        "atom_window": [
+          6,
+          7
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 11,
+      "en": "Amended by:",
+      "mk1": "Изменета со:",
+      "mk2": "Изменета со:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        7,
+        8
+      ],
+      "mk2_char_span": [
+        564,
+        576
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          11,
+          11
+        ],
+        "atom_window": [
+          7,
+          8
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 12,
+      "en": "L 37",
+      "mk1": "L 37",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 13,
+      "en": "1",
+      "mk1": "1",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 14,
+      "en": "Directive (EU) 2022/211 of the European Parliament and of the Council of 16 February 2022",
+      "mk1": "Директива (ЕУ) 2022/211 на Европскиот парламент и на Советот од 16 февруари 2022 година",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 15,
+      "en": "18.2.2022",
+      "mk1": "18.2.2022",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 16,
+      "en": "▼B",
+      "mk1": "▼B",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 17,
+      "en": "Joint investigation teams",
+      "mk1": "Заеднички истражни тимови",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 18,
+      "en": "1.",
+      "mk1": "1.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 19,
+      "en": "Article 5",
+      "mk1": "Член 5",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 20,
+      "en": "▼M1",
+      "mk1": "▼M1",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 21,
+      "en": "By mutual agreement, the competent authorities of two or more Member States may set up a joint investigation team for a specific purpose and a limited period, which may be extended by mutual consent, to carry out criminal investigations in one or more of the Member States setting up the team.",
+      "mk1": "Со заеднички договор, надлежните органи на две или повеќе земји членки може да основаат заеднички истражни тимови за одредена цел и ограничен период, што може да се продолжи со заедничка согласност, да извршуваат кривични истраги во една или повеќе земји членки што го формираат тимот.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 22,
+      "en": "The composition of the team shall be set out in the agreement.",
+      "mk1": "Составот на тимот се утврдува во договорот.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 23,
+      "en": "A joint investigation team may, in particular, be set up where:",
+      "mk1": "Заеднички истражен тим особено може да се основа каде:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 24,
+      "en": "(a) a Member State's investigations into criminal offences require difficult and demanding investigations having links with other Member States;",
+      "mk1": "(а) истрагата на земјата членка за кривични дела бара тешки и напорни истраги што имаат врски со други земји членки;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 25,
+      "en": "(b) a number of Member States are conducting investigations into criminal offences in which the circumstances of the case necessitate coordinated, concerted action in the Member States involved.",
+      "mk1": "(б) бројни земји членки спроведуваат истраги за кривични дела во кои околностите на случајот бараат координирано, потврдено дејство во засегнатите земјите членки.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 26,
+      "en": "A request for the setting up of a joint investigation team may be made by any of the Member States concerned.",
+      "mk1": "Барање за основање заеднички истражен тим може да се направи од кои било засегнати земји членки.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 27,
+      "en": "The team shall be set up in one of the Member States in which the investigations are expected to be carried out.",
+      "mk1": "Тимот се основа во една од земјите членки во кои се очекува дека се спроведат истрагите.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 28,
+      "en": "In addition to the information referred to in the relevant provisions of Article 14 of the European Convention on Mutual Assistance in Criminal Matters and Article 37 of the Benelux Treaty of 27 June 1962, as amended by the Protocol of 11 May 1974, requests for the setting up of a joint investigation team shall include proposals for the composition of the team.",
+      "mk1": "Освен информацијата наведена во релевантните одредби од член 14 од Европската конвенција за меѓусебна правна помош во кривичната материја и член 37 од Договорот од Бенелукс од 27 јуни 1962 година, како што е изменето од Протоколот од 11 мај 1974 година, барањата за основање заеднички истражни тимови вклучуваат предлози за составот на тимот.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 29,
+      "en": "A joint investigation team shall operate in the territory of the Member States setting up the team under the following general conditions:",
+      "mk1": "Заеднички истражен тим работи на територијата на земјите членки, што го основаат го тимот под следниве општи услови:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 30,
+      "en": "(a) The leader of the team shall be a representative of the competent authority participating in criminal investigations from the Member State in which the team operates.",
+      "mk1": "(а) Водачот на тимот е претставник на надлежниот орган што учествува во кривичните истраги од земјите членки во кои тимот делува.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 31,
+      "en": "The leader of the team shall act within the limits of his or her competence under national law.",
+      "mk1": "Водачот на тимот делува во границите на неговата или нејзината надлежност под националното законодавство.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 32,
+      "en": "(b) The team shall carry out its operations in accordance with the law of the Member State in which it operates.",
+      "mk1": "(б) Тимот ги извршува своите работи во согласност со законот на земјите членки во кои делува.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 33,
+      "en": "The members of the team shall carry out their tasks under the leadership of the person referred to in subparagraph (a), taking into account the conditions set by their own authorities in the agreement on setting up the team.",
+      "mk1": "Членовите на тимот ги извршуваат своите задачи под водство на лицето наведено во подставот (а), земајќи ги предвид условите утврдени од нивните сопствени органи во договорот за основање на тимот.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 34,
+      "en": "(c) The Member State in which the team operates shall make the necessary organisational arrangements for it to do so.",
+      "mk1": "(в) Земјата членка во која тимот работи, ги прави неопходните организациони подготовки за истиот да може да работи.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 35,
+      "en": "In this Framework Decision, members of the joint investigation team from Member States other than the Member State in which the team operates are referred to as being ‘seconded’ to the team.",
+      "mk1": "Во оваа рамковна одлука, членовите на заедничкиот истражен тим од земјите членки, што не се земјата членка во која работи тимот се наведени како „испратени“ членови на тимот.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 36,
+      "en": "Seconded members of the joint investigation team shall be entitled to be present when investigative measures are taken in the Member State of operation.",
+      "mk1": "Испратените членови на заедничкиот истражен тим имаат право да бидат присутни, кога се преземаат истражни мерки во земјата членка на работа.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 37,
+      "en": "However, the leader of the team may, for particular reasons, in accordance with the law of the Member State where the team operates, decide otherwise.",
+      "mk1": "Сепак, водачот на тимот, од одредени причини, во согласност со законот на земјата членка каде што работи тимот, може да одлучи поинаку.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 38,
+      "en": "Seconded members of the joint investigation team may, in accordance with the law of the Member State where the team operates, be entrusted by the leader of the team with the task of taking certain investigative measures where this has been approved by the competent authorities of the Member State of operation and the seconding Member State.",
+      "mk1": "Испратените членови на заедничкиот истражен тим, во согласност со законот на земјата членка каде што тимот работи, може да биде овластен од водачот на тимот со задачата за преземање одредени истражни мерки, каде ова е одобрено од надлежните органи на земјата членка на работа и испраќачката земја членка.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 39,
+      "en": "Where the joint investigation team needs investigative measures to be taken in one of the Member States setting up the team, members seconded to the team by that Member State may request their own competent authorities to take those measures.",
+      "mk1": "Каде што заедничкиот истражен тим има потреба да се преземат истражни мерки во една од земјите членки што го основаат тимот, испратените членови на тимот од таа земја членка може да побараат нивните надлежни органи да ги преземат тие мерки.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 40,
+      "en": "Those measures shall be considered in that Member State under the conditions which would apply if they were requested in a national investigation.",
+      "mk1": "Тие мерки се разгледуваат во таа земја членка под условите што би се применувале ако би биле побарани во национална истрага.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 41,
+      "en": "Where the joint investigation team needs assistance from a Member State other than those which have set up the team, or from a third State, the request for assistance may be made by the competent authorities of the State of operations to the competent authorities of the other State concerned in accordance with the relevant instruments or arrangements.",
+      "mk1": "Каде што заедничкиот истражен тим има потреба од помош од земја членка освен оние што го основале тимот, или од трета земја, барањето за помош може да се поднесе од страна на надлежните органи на земјата на работење, до надлежните органи на другата засегната земја во согласност со релевантните инструменти или договори.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 42,
+      "en": "A member of the joint investigation team may, in accordance with his or her national law and within the limits of his or her competence, provide the team with information available in the Member State which has seconded him or her for the purpose of the criminal investigations conducted by the team.",
+      "mk1": "Член на заедничкиот истражен тим, во согласност со неговото или нејзиното национално законодавство и во границите на неговата или нејзината надлежност, може да му обезбеди на тимот информации достапни во земјата членка што го или ја испратила за целта на кривичните истраги што ги спроведува тимот.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "Information lawfully obtained by a member or seconded member while part of a joint investigation team which is not otherwise available to the competent authorities of the Member States concerned may be used for the following purposes:",
+      "mk1": "Информации добиени законски од член или испратен член, како дел од заеднички истражен тим што на друг не е начин достапен за надлежните органи на засегнатите земји членки, може да се користи за следниве цели:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "(a) for the purposes for which the team has been set up;",
+      "mk1": "(а) за целите за кои е формиран тимот;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "(b) subject to the prior consent of the Member State where the information became available, for detecting, investigating and prosecuting other criminal offences.",
+      "mk1": "(б) подложи на претходна дозвола од земјата членка каде информациите станале достапни, за откривање, истражување и судење на други кривични дела.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 46,
+      "en": "Such consent may be withheld only in cases where such use would endanger criminal investigations in the Member State concerned or in respect of which that Member State could refuse mutual assistance;",
+      "mk1": "Таква согласност може да не биде дадена само во случаи каде таквото користење би загрозило кривични истраги во засегнатите земји членки или во однос на која таа земја членка може да одбие заедничка поддршка;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 47,
+      "en": "(c) for preventing an immediate and serious threat to public security, and without prejudice to subparagraph (b) if subsequently a criminal investigation is opened;",
+      "mk1": "(в) за спречување непосредна и сериозна закана по јавната безбедност и без да е во согласност со потстав (б) доколку последователно се отвори кривична истрага;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 48,
+      "en": "(d) for other purposes to the extent that this is agreed between Member States setting up the team.",
+      "mk1": "(г) за други цели до степен до кој ова е договорено меѓу земјите членки што го основаат тимот.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 49,
+      "en": "Member States shall take the necessary measures to comply with the provisions of this Framework Decision by 1 January 2003.",
+      "mk1": "Земјите членки ги преземаат неопходните мерки да се усогласат со одредбите од оваа рамковна одлука до 1 јануари 2003 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 50,
+      "en": "Entry into force",
+      "mk1": "Влегување во сила",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 51,
+      "en": "Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA (OJ L 119, 4.5.2016, p. 89).",
+      "mk1": "Директива (EУ) 2016/680 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физички лица во однос на обработка на лични податоци од надлежни органи, за целите на спречувањето, истрагата, откривањето или кривично гонење на кривични дела или извршувањето на кривични казни, и за слободното движење на таквите податоци, и за укинување на Рамковна Одлука 2008/977/ПВР на Советот (Сл. весник L 119, 4.5.2016 година, стр. 89).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 52,
+      "en": "This Framework Decision shall enter into force on the date of its publication in the Official Journal.",
+      "mk1": "Оваа рамковна одлука влегува во сила на датумот на нејзиното објавување во Службениот весник.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 53,
+      "en": "It shall cease to have effect when the Convention on Mutual Assistance in Criminal Matters between Member States of the European Union has entered into force in all Member States.",
+      "mk1": "Истата престанува да важи кога Конвенцијата за заемна правна помош во кривичната материја меѓу земјите членки на Европската Унија ќе влезе во сила во сите земји членки.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 54,
+      "en": "The Council shall assess the extent to which the Member States have complied with this Framework Decision.",
+      "mk1": "Советот прави процена до кој степен земјите членки се усогласени со оваа рамковна одлука.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 55,
+      "en": "During the operations referred to in Article 1, officials from a Member State other than the Member State of operation shall be regarded as officials of the Member State of operation with respect to offences committed against them or by them.",
+      "mk1": "За време на работите наведени во член 1, службеници од земја членка која не е земјата членка на работа се сметаат за службеници на земјата членка на работа во однос на направени престапи против нив или од нив.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 56,
+      "en": "The Member State in whose territory the damage referred to in paragraph 1 was caused shall make good such damage under the conditions applicable to damage caused by its own officials.",
+      "mk1": "Земјата членка на чија територија е предизвикана штетата наведена во став 1, ја исправа таквата штета под условите применливи на штета предизвикана од своите службеници.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 57,
+      "en": "The Member State whose officials have caused damage to any person in the territory of another Member State shall reimburse the latter in full any sums it has paid to the victims or persons entitled on their behalf.",
+      "mk1": "Земјите членки чии службеници предизвикале штета на кое било лице на територијата на друга земја членка, ѝ ги надоместуваат на втората сосема сите износи што ги платила за жртвите или лицата овластени во нивно име.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 58,
+      "en": "Without prejudice to the exercise of its rights vis-à-vis third parties and with the exception of paragraph 3, each Member State shall refrain, in the case provided for in paragraph 1, from requesting reimbursement of damages it has sustained from another Member State.",
+      "mk1": "Без да е во спротивност со остварувањето на своите права кон трети страни и со исклучок на став 3, секоја земја членка се воздржува, во случајот предвиден во став 1, од барање надомест на штети што ги претрпело од друга земја членка.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 59,
+      "en": "Implementation",
+      "mk1": "Спроведување",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 60,
+      "en": "Member States shall transmit to the General Secretariat of the Council and the Commission the text of any provisions transposing into their national law the obligations imposed on them under this Framework Decision.",
+      "mk1": "Земјите членки го доставуваат до Генералниот Секретаријат на Советот и Комисијата текстот на одредбите со кои ги транспонираат во нивното национално законодавство обврските кои им се наложени со оваа рамковна одлука.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 61,
+      "en": "On the basis of this and other information, the Commission shall, by 1 July 2004, submit a report to the Council on the operation of this Framework Decision.",
+      "mk1": "Врз основа на оваа и други информации, Комисијата до 1 јули 2004 година поднесува извештај до Советот за функционирање на оваа рамковна одлука.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 62,
+      "en": "Civil liability regarding officials",
+      "mk1": "Граѓанска одговорност за службеници",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 63,
+      "en": "Where, in accordance with Article 1, officials of a Member State are operating in another Member State, the first Member State shall be liable for any damage caused by them during their operations, in accordance with the law of the Member State in whose territory they are operating.",
+      "mk1": "Каде, во согласност со член 1, службеници на земја членка работат во друга земја членка, првата земја членка е одговорна за секаква штета предизвикана од нив за време на нивната работа, во согласност со законот на земјата членка на чија територија тие работат.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 64,
+      "en": "This Framework Decision shall be without prejudice to any other existing provisions or arrangements on the setting up or operation of joint investigation teams.",
+      "mk1": "Оваа Рамковна одлука не е во спротивност со кои било други постоечки одредби или договори за основање или делување на заеднички истражни тимови.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 65,
+      "en": "Such persons may, for example, include officials of bodies set up pursuant to the Treaty.",
+      "mk1": "Таквите лица можат, на пример, да вклучуваат службеници од тела основани во согласност со Договорот.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 66,
+      "en": "The rights conferred upon the members or seconded members of the team by virtue of this Framework Decision shall not apply to these persons unless the agreement expressly states otherwise.",
+      "mk1": "Правата пренесени на членовите или испратените членови од тимот врз основа на оваа Рамковна одлука не се применуваат на овие лица, освен ако договорот изрично не кажува поинаку.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 67,
+      "en": "Criminal liability regarding officials",
+      "mk1": "Кривична одговорност за службеници",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 68,
+      "en": "To the extent that the laws of the Member States concerned or the provisions of any legal instrument applicable between them permit, arrangements may be agreed for persons other than representatives of the competent authorities of the Member States setting up the joint investigation team to take part in the activities of the team.",
+      "mk1": "До степенот до кој законите од засегнатите земји членки или одредбите на кој било применлив правен инструмент меѓу нив дозволуваат, може да се направат договори за лица кои не претставници на надлежните органи на земјите членки што го основаат заедничкиот истражен тим за да учествуваат во активностите на тимот.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 69,
+      "en": "Insofar as the information used for purposes referred to in the first subparagraph, points (b), (c) and (d) includes personal data, it shall only be processed in accordance with Directive (EU) 2016/680 of the European Parliament and of the Council (), and in particular Article 4(2) and Article 9(1) and (3) thereof.",
+      "mk1": "Доколку информациите користени за целите наведени во првиот потстав, точките (б), (в) и (г) вклучуваат лични податоци, истите можат да бидат обработени само во согласност со Директива (ЕУ) 2016/680 на Европскиот парламент и на Советот (), а особено член 4(2) и член 9(1) и (3) од истата.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 70,
+      "en": "Official Journal",
+      "mk1": "Службен весник",
+      "mk2": "Службен весник",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        577,
+        591
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          70,
+          70
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 71,
+      "en": "No",
+      "mk1": "бр.",
+      "mk2": "бр.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        592,
+        595
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          71,
+          71
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 72,
+      "en": "page",
+      "mk1": "страна",
+      "mk2": "страна",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        10,
+        11
+      ],
+      "mk2_char_span": [
+        596,
+        602
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          72,
+          72
+        ],
+        "atom_window": [
+          10,
+          11
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 73,
+      "en": "date",
+      "mk1": "датум",
+      "mk2": "датум",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        603,
+        608
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          73,
+          73
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 74,
+      "en": "►M1",
+      "mk1": "►M1",
+      "mk2": "►M1",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        609,
+        612
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          74,
+          74
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 1,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Ббр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02002F0465-20220310",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Consolidated text: Council Framework Decision of 13 June 2002 on joint investigation teams (2002/465/JHA)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Консолидиран текст: РАМКОВНА ОДЛУКА НА СОВЕТОТ од 13 јуни 2022 година за заеднички истражни тимови (2002/465/ПВР)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на слобода, безбедност и правда/Полициска и судска соработка во кривична и царинска материја / Полициска соработка",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Драган Георгиевски",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "29.8.2022 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "joint investigation teams",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "заеднички истражни тимови",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "http://www.prosecutorsnetwork.org/uimages/publications-pdf/JIT_Priracnik_za_zaednicki_istrazni_timovi.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.mvr.gov.mk/Upload/Editor_Upload/%D0%9E%D0%B4%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%20%D0%BD%D0%B0%20%D0%B1%D0%B0%D1%80%D0%B0%D1%9A%D0%B5%E2%80%9E%D0%90%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%20%D0%97%D0%B0%D0%B5%D0%B4%D0%BD%D0%B8%D1%87%D0%BA%D0%B8%D1%82%D0%B5%20%D0%B8%D1%81%D1%82%D1%80%D0%B0%D0%B6%D0%BD%D0%B8%20%D1%82%D0%B8%D0%BC%D0%BE%D0%B2%D0%B8%E2%80%9C%20-%20%D0%BE%D0%B4%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BE%20%D0%B7%D0%B0%2016%20%D0%B4%D0%B5%D0%BD%D0%B0.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "European Convention on Mutual Assistance in Criminal Matters",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Европската конвенција за меѓусебна правна помош во кривичната материја",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.pravdiko.mk/wp-content/uploads/2013/11/kniga2.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02002F0465-20220310",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Consolidated text: Council Framework Decision of 13 June 2002 on joint investigation teams (2002/465/JHA)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Консолидиран текст: РАМКОВНА ОДЛУКА НА СОВЕТОТ од 13 јуни 2022 година за заеднички истражни тимови (2002/465/ПВР)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на слобода, безбедност и правда/Полициска и судска соработка во кривична и царинска материја/Полициска соработка",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Донка Лалкова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "1.9.2022",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Including",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Вклучувајќи",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Вклучително и",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прирачник СЕП",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "National law",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Национално законодавство",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Национално право",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://op.europa.eu/de/web/eu-vocabularies/concept/-/resource?uri=http://data.europa.eu/uxp/571",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Директива (ЕУ) 2016/680 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физички лица во однос на обработка на лични податоци од надлежни органи, за целите на спречувањето, истрагата, откривањето или кривично гонење на кривични дела или извршувањето на кривични казни, и за слободното движење на таквите податоци, и за укинување на Рамковна Оодлука 2008/977/ПВР на Советот (Сл. весник L 119, 4.5.2016 година, стр. 89).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 46,
+        "text": "Директива (ЕУ) 2016/680 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физички лица во однос на обработка на лични податоци од надлежни органи, за целите на спречувањето, истрагата, откривањето или кривично гонење на кривични дела или извршувањето на кривични казни, и за слободното движење на таквите податоци, и за укинување на Рамковна Оодлука 2008/977/ПВР на Советот (Сл. весник L 119, 4.5.2016 година, стр. 89)."
+      }
+    ]
+  },
+  "dry_run": true
+}

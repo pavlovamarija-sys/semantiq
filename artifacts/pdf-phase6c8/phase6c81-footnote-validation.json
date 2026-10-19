@@ -1,0 +1,23 @@
+{
+  "classification": "WORD_INSPECTION_REQUIRED",
+  "source_pdf_sha256": "1b0fb08ec46c93b9df62675f2b898030511dfcf5df4832b15cde56681932008b",
+  "experimental_docx": "artifacts/pdf-phase6c8/32006L0114-footnote-experimental.docx",
+  "experimental_docx_sha256": "1346298448b11d4fe0d2d1660de38dab36439dea16d1b4c501783f6d04e65164",
+  "experimental_docx_size": 44612,
+  "source_footnote_regions": 3,
+  "individual_footnotes": 7,
+  "resolved_anchors": 7,
+  "unresolved_anchors": 0,
+  "text_integrity": {"status": "PASS", "normalized_tokens": 3389},
+  "ooxml": {"footnotes_part": true, "footnote_relationship": true, "footnote_references": 7, "footnote_bodies": 7},
+  "canonical": {"extractor": "docx-canonical-phase6c8-v3-footnotes", "nodes": 426, "translation_units": 269, "inline_codes": 10, "footnote_translation_units": 7, "footnote_reference_codes": 7, "normalized_tokens": 3389},
+  "tests": {"focused_and_regression": 28, "passed": 28, "failed": 0},
+  "visual_check": {
+    "source_pages": 7,
+    "experimental_rendered_pages": 15,
+    "native_footnote_placement": true,
+    "limitation": "LibreOffice does not faithfully render OOXML custom footnote marks; Word/Studio visual confirmation remains required. Overall pagination remains outside this footnote-only phase."
+  },
+  "superseded_by": "phase6c81-word-footnote-fix.json",
+  "remaining_gate": "Interactive Microsoft Word inspection of experimental-v2; Trados projection remains intentionally deferred."
+}

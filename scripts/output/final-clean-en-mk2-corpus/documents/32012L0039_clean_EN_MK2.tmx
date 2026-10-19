@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210601T165208Z" creationid="NBRM\biljanada">
+    <prop type="x-Quality:Integer" />
+    <prop type="x-SourceFile:SingleString" />
+    <prop type="x-TargetFile:SingleString" />
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">TM_32012L0039_Сашенка Граматова_МК1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32012L0039</prop>
+    <prop type="x-SourceTMX">320121L0039_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">b23a2941c3cda6b7be232452e09e1ebf24871957b34c894dcd70c24c7b312f6b</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">5</prop>
+  </header>
+  <body>
+    <tu creationdate="20210601T165817Z" creationid="NBRM\BiljanaDS" changedate="20210601T165917Z" changeid="NBRM\BiljanaDS" lastusagedate="20210601T170650Z" usagecount="2">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-SourceFile:SingleString">32012L0039_EN0_32012L0039_EN0MK.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32012L0039_EN0_32012L0039_EN0MK.sdlalign</prop>
+      <prop type="x-Quality:Integer">100</prop>
+      <tuv xml:lang="en-GB">
+        <seg>DIRECTIVES</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВИ</seg>
+      </tuv>
+      <prop type="x-CELEX">32012L0039</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T165817Z" creationid="NBRM\BiljanaDS" changedate="20210601T170021Z" changeid="NBRM\BiljanaDS" lastusagedate="20210601T170720Z" usagecount="1">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">6879600159675061308, 3402674966632162877</prop>
+      <prop type="x-ContextContent">amending Directive 2006/17/EC as regards certain technical requirements for the testing of human tissues and cells |  | за изменување на Директивата 2006/17/ЕЗ во однос на одредени технички услови за тестирање на човечки ткива и келии | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-SourceFile:SingleString">32012L0039_EN0_32012L0039_EN0MK.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32012L0039_EN0_32012L0039_EN0MK.sdlalign</prop>
+      <prop type="x-Quality:Integer">100</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Text with EEA relevance)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Текст со важност за ЕЕО)</seg>
+      </tuv>
+      <prop type="x-CELEX">32012L0039</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T165817Z" creationid="NBRM\BiljanaDS" changedate="20210601T170022Z" changeid="NBRM\BiljanaDS" lastusagedate="20210604T161940Z" usagecount="3">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">2094311973019752702, -693899598895376172</prop>
+      <prop type="x-ContextContent">(Text with EEA relevance) |  | (Текст со важност за ЕЕО) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-SourceFile:SingleString">32012L0039_EN0_32012L0039_EN0MK.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32012L0039_EN0_32012L0039_EN0MK.sdlalign</prop>
+      <prop type="x-Quality:Integer">100</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32012L0039</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T165817Z" creationid="NBRM\BiljanaDS" changedate="20210601T170024Z" changeid="NBRM\BiljanaDS" lastusagedate="20210604T161942Z" usagecount="3">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-ContextContent">THE EUROPEAN COMMISSION, |  | ЕВРОПСКАТА КОМИСИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-SourceFile:SingleString">32012L0039_EN0_32012L0039_EN0MK.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32012L0039_EN0_32012L0039_EN0MK.sdlalign</prop>
+      <prop type="x-Quality:Integer">100</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Иимајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32012L0039</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T165817Z" creationid="NBRM\BiljanaDS" changedate="20210601T170054Z" changeid="NBRM\BiljanaDS" lastusagedate="20210604T161944Z" usagecount="3">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">7864611915906308453, -2480711391596308291</prop>
+      <prop type="x-ContextContent"> OJ L 269, 10.10.2013, p. 1. | AgEAAwEBAQI1OQA= |  Сл. весник L 269, 10.10.2013, стр. 1. | AgEAAwEBAQI1OQA=</prop>
+      <prop type="x-Context">7864611915906308453, 506154693127787546</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-SourceFile:SingleString">32012L0039_EN0_32012L0039_EN0MK.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32012L0039_EN0_32012L0039_EN0MK.sdlalign</prop>
+      <prop type="x-Quality:Integer">100</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Ссо оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32012L0039</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

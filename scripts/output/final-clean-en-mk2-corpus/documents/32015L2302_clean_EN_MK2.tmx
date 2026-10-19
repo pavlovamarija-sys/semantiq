@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210713T195936Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32015L2302_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32015L2302</prop>
+    <prop type="x-SourceTMX">32015L2302_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">a8d4bd969d2c506d996ee66c929bb5af48724af982ea68c10b635286c7f3b891</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">11</prop>
+  </header>
+  <body>
+    <tu creationdate="20210529T081527Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210618T155414Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210625T073913Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-K7QEIH6\Vane</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>DIRECTIVE (EU) 2015/2302 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВА (ЕУ) 2015/2302 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32015L2302</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210620T103838Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20210620T103908Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20210625T084659Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-U6OB5LR\Lenovo</prop>
+      <prop type="x-Context">104342902410131115, 4071248149064552874</prop>
+      <prop type="x-ContextContent">CHAPTER III |  | ПОГЛАВЈЕ III | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>CHANGES TO THE PACKAGE TRAVEL CONTRACT BEFORE THE START OF THE PACKAGE</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОВОРОТ ЗА ПАТУВАЊЕ СО ПАКЕТ -АРАНЖМАН ПРЕД ЗАПОЧНУВАЊЕТО НА ПАКЕТ- АРАНЖМАНОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32015L2302</prop>
+      <prop type="x-SourceTUIndex">235</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210620T110002Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20210620T110234Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20210625T084659Z" usagecount="4">
+      <prop type="x-LastUsedBy">DESKTOP-U6OB5LR\Lenovo</prop>
+      <prop type="x-Context">-4820445114657969011, 8231391825997741432</prop>
+      <prop type="x-ContextContent">Transfer of the package travel contract to another traveller |  | Пренос на договорот за патување со пакет аранжман на друг патник | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall ensure that a traveller may, after giving the organiser reasonable notice on a durable medium before the start of the package, transfer the package travel contract to a person who satisfies all the conditions applicable to that contract.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>патник Земјите членки обезбедуваат дека патникот може, откако за тоа го известил организаторот во разумен рок и на траен носител на податоци пред започнувањето на пакет -аранжманот, да го пренесе договорот за патување со пакет -аранжман на лице што ги исполнува сите услови применливи на тој договор. И</seg>
+      </tuv>
+      <prop type="x-CELEX">32015L2302</prop>
+      <prop type="x-SourceTUIndex">237</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210620T110246Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20210620T110336Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20210625T084659Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-U6OB5LR\Lenovo</prop>
+      <prop type="x-Context">-3480324224596668150, 5223079438574406922</prop>
+      <prop type="x-ContextContent">Member States shall ensure that a traveller may, after giving the organiser reasonable notice on a durable medium before the start of the package, transfer the package travel contract to a person who satisfies all the conditions applicable to that contract. |  | Земјите членки обезбедуваат дека патникот може, откако за тоа го известил организаторот во разумен рок и на траен носител на податоци пред започнувањето на пакет аранжманот, да го пренесе договорот за патување со пакет аранжман на лице што ги исполнува сите услови применливи на тој договор. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Notice given at the latest seven days before the start of the package shall in any event be deemed to be reasonable.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>звестување испратено најмалку седум дена пред започнувањето на пакет -аранжманот се смена смета во секој случај за известување дадено во разумен рок.</seg>
+      </tuv>
+      <prop type="x-CELEX">32015L2302</prop>
+      <prop type="x-SourceTUIndex">238</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210620T111451Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20210620T111851Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20210625T084659Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-U6OB5LR\Lenovo</prop>
+      <prop type="x-Context">5994527047185906289, 1818779533958109074</prop>
+      <prop type="x-ContextContent">Alteration of the price |  | Промена на цената | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall ensure that after the conclusion of the package travel contract, prices may be increased only if the contract expressly reserves that possibility and states that the traveller is entitled to price reduction under paragraph 4.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 10 Промена на цената Земјите членки обезбедуваат дека по склучувањето на договорот за патување со пакет -аранжман, цените може да се зголемат само доколку таквата можност е изречно предвиденапревидена во договорот и доколку во него се наведува дека патникот има право на намалување на цената во согл</seg>
+      </tuv>
+      <prop type="x-CELEX">32015L2302</prop>
+      <prop type="x-SourceTUIndex">242</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210620T111759Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20210620T111927Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20210625T084659Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-U6OB5LR\Lenovo</prop>
+      <prop type="x-Context">4018723540663431082, -2735842880156425158</prop>
+      <prop type="x-ContextContent">Member States shall ensure that after the conclusion of the package travel contract, prices may be increased only if the contract expressly reserves that possibility and states that the traveller is entitled to price reduction under paragraph 4. |  | Земјите членки обезбедуваат дека по склучувањето на договорот за патување со пакет аранжман, цените може да се зголемат само доколку таквата можност е изречно превидена во договорот и доколку во него се наведува дека патникот има право на намалување на цената согласно став 4. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In that event the package travel contract shall state how price revisions are to be calculated.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>асност со став 4. Во таков случај, во договорот за патување со пакет -аранжман се наведува начинот на пресметување на промената на</seg>
+      </tuv>
+      <prop type="x-CELEX">32015L2302</prop>
+      <prop type="x-SourceTUIndex">243</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210620T111934Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20210620T112033Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20210625T084659Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-U6OB5LR\Lenovo</prop>
+      <prop type="x-Context">-6731234046731384618, -2964811819808584602</prop>
+      <prop type="x-ContextContent">In that event the package travel contract shall state how price revisions are to be calculated. |  | Во таков случај, во договорот за патување со пакет аранжман се наведува начинот на пресметување на промената на цената. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Price increases shall be possible exclusively as a direct consequence of changes in:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>цената. Зголемување на цената е можно исклучиво како директна последица на промени во:</seg>
+      </tuv>
+      <prop type="x-CELEX">32015L2302</prop>
+      <prop type="x-SourceTUIndex">244</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210620T113242Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20210620T113441Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20210625T084659Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-U6OB5LR\Lenovo</prop>
+      <prop type="x-Context">5404602754073604354, -3179728020869725913</prop>
+      <prop type="x-ContextContent">Irrespective of its extent, a price increase shall be possible only if the organiser notifies the traveller clearly and comprehensibly of it with a justification for that increase and a calculation, on a durable medium at the latest 20 days before the start of the package. |  | Независно од неговиот размер, зголемувањето на цената е можно само ако организаторот на траен носител на податоци и најмалку 20 дена пред започнувањето на пакет аранжманот за тоа го извести патникот на јасен и разбирлив начин, со образложените за таквото зголемување. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>If the package travel contract stipulates the possibility of price increases, the traveller shall have the right to a price reduction corresponding to any decrease in the costs referred to in points (a), (b) and (c) of paragraph 1 that occurs after the conclusion of the contract before the start of the package.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Ако договорот за патување со пакет -аранжман ја предвидува можноста за зголемување на цените, патникот има право на намалување на цената што одговара на какво било намалување на трошоците наведени во точките (а), (б) и (в) од став 1 што настанува по склучувањето на договорот и пред започнувањето на пакет -аранжманот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32015L2302</prop>
+      <prop type="x-SourceTUIndex">248</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210620T115838Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20210620T120034Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20210625T084659Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-U6OB5LR\Lenovo</prop>
+      <prop type="x-Context">-2674943851728937061, -3576204655237051026</prop>
+      <prop type="x-ContextContent">Alteration of other package travel contract terms |  | Измени на другите услови од договорот за патување со пакет аранжман | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt263" />Member States shall ensure that, before the start of the package, the organiser may not unilaterally change package travel contract terms other than the price in accordance with Article 10<ept i="1" />
+          <bpt i="2" type="pt264" />,<ept i="2" />
+          <bpt i="3" type="pt265" /> unless:<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Земјите членки обезбедуваат дека, пред започнувањето на пакет -аранжманот, организаторот не смее еднострано да ги измени условите од договорот за патување со пакет -аранжман со исклучок на цената во согласност со член 10, освен ако:</seg>
+      </tuv>
+      <prop type="x-CELEX">32015L2302</prop>
+      <prop type="x-SourceTUIndex">251</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210620T120037Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20210620T120057Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20210625T084659Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-U6OB5LR\Lenovo</prop>
+      <prop type="x-Context">3190427306881413316, -1364426129936862422</prop>
+      <prop type="x-ContextContent">Member States shall ensure that, before the start of the package, the organiser may not unilaterally change package travel contract terms other than the price in accordance with Article 10, unless: | AgYAAQEAAQVwdDI2MwC8AgEAAAABAgABBXB0MjY0AAECAgAAAAEDAAEFcHQyNjUACAIDAAA= | Земјите членки обезбедуваат дека, пред започнувањето на пакет аранжманот, организаторот не смее еднострано да ги измени условите од договорот за патување со пакет аранжман со исклучок на цената во согласност со член 10, освен ако: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the organiser has reserved that right in the contract;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)организаторот го задржал тоа право во договорот;</seg>
+      </tuv>
+      <prop type="x-CELEX">32015L2302</prop>
+      <prop type="x-SourceTUIndex">252</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210620T120058Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20210620T120122Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20210625T084659Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-U6OB5LR\Lenovo</prop>
+      <prop type="x-Context">4129469743597389327, 8520733574618343569</prop>
+      <prop type="x-ContextContent">(a)	the organiser has reserved that right in the contract; |  | (а)	организаторот го задржал тоа право во договорот; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the change is insignificant; and</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)измената е незабележителна; и</seg>
+      </tuv>
+      <prop type="x-CELEX">32015L2302</prop>
+      <prop type="x-SourceTUIndex">253</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

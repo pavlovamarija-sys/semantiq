@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "mechanism": "npx supabase@2.115.0 db push --linked",
+  "project_ref": "yswudlrbswpwifbgqldh",
+  "applied": ["20261019000000_immutable_document_artifacts.sql"],
+  "latest_remote_after": "20261019000000",
+  "existing_data_backfilled_by_migration": false,
+  "destructive_operations": false
+}

@@ -1,0 +1,2 @@
+export type TranslatorActionState = { status: "idle" | "success" | "error"; message?: string; imported?: number; skipped?: number; failed?: number; rowErrors?: string[]; importedRows?: Array<{ id:string; full_name:string; email:string; source_language:string; target_language:string; specialization:string; availability:"Available"|"Busy"|"Unavailable"; notes:string|null; gross_price_per_page_mkd:number|null }> };
+export const initialTranslatorActionState: TranslatorActionState = { status: "idle" };

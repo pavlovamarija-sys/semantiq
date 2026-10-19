@@ -1,0 +1,15 @@
+{
+  "classification": "PASS",
+  "historicalSnapshotPreserved": true,
+  "historicalGenerationId": "26276c49-8c0f-456e-8a3e-cce032f9b633",
+  "historicalSnapshotId": "41c043ad-a210-4e17-b6f4-5cf98872a602",
+  "patchMigration": "20261023000000_fix_canonical_persistence_contract.sql",
+  "corrections": {
+    "translationUnitOrdinal": "worker now assigns an independent consecutive ordinal; node ordinals remain unchanged",
+    "normalizedTokenCount": "finalization computes and persists the count from validated canonical_translation_units",
+    "childCountGuard": true
+  },
+  "expectedRegeneration": {"nodes": 422, "translationUnits": 265, "inlineCodes": 3, "normalizedTokens": 3389, "tuOrdinals": "0..264"},
+  "requestKey": "phase6c5-controlled-32006l0114-correction-v1",
+  "authenticatedInvocation": {"firstHttpStatus": 201, "retryHttpStatus": 200, "generationId": "a53b41bf-6118-43ba-b2f9-b7e4417fea4c", "snapshotId": "9773853e-9f81-4796-b358-38a3f53e1d81"}
+}

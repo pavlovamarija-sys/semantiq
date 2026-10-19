@@ -1,0 +1,18 @@
+{
+  "celex": "32006L0126",
+  "status": "NOT_GENERATED",
+  "frozenRunFailure": {
+    "exceptionType": "KeyError",
+    "message": "'reason'",
+    "file": "workers/pdf-to-docx/spikes/typed_model_phase1.py",
+    "line": 554,
+    "operation": "ambiguity['reason'] during generic decision logging",
+    "pageBeingProcessed": 4,
+    "cause": "The aligned-list rejection ambiguity created by Phase 3B contains type/candidates/evidence/confidence but no reason field. Generic ambiguity decision logging assumes every ambiguity has reason."
+  },
+  "availableEvidence": {
+    "phase3aLayout": "artifacts/pdf-phase3a/layout-analysis-32006L0126.json",
+    "phase3bDefectAnalysis": "artifacts/pdf-phase3b/table-defect-analysis.json"
+  },
+  "message": "The builder aborted while recording the page-4 rejected-table ambiguity, before diagnostics could be returned."
+}

@@ -1,0 +1,96 @@
+{
+  "sourcePdfSha256": "3100C4CF8A7BF243A62D7000D9B07A8FA4F0042688A312DEC3D285E76E46B966",
+  "extraction": {
+    "pages": 63,
+    "blocks": 1791,
+    "lines": 3917,
+    "spans": 48170
+  },
+  "sourceReadingTokens": 30922,
+  "sourceSpanCount": 48170,
+  "pageDecisions": [],
+  "crossPageTables": [
+    {
+      "logicalTableId": "logicaltable-ef465aaf43e337c9",
+      "pages": [
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ],
+      "physicalSegments": [
+        "table-230e36af5709c127",
+        "table-2452ebcff5d81aab",
+        "table-df857f67cd77d0fa",
+        "table-8727cf88d7ef8e55",
+        "table-e5f6dbf781231821",
+        "table-d381897301ef1cd8",
+        "table-80cc7486bb6b36fe",
+        "table-4f9648aad4c7d93e"
+      ],
+      "columns": 2,
+      "rows": 278,
+      "repeatedHeaderRows": [
+        "tablerow-57fa4ae2cbb32805",
+        "tablerow-557ca75d13d31f6d",
+        "tablerow-8e6f44a9d330da05",
+        "tablerow-7fe387e93ffc4cf7",
+        "tablerow-9010873ff7dabf02",
+        "tablerow-48986745b7a51240",
+        "tablerow-94a7a8759fa05f85"
+      ],
+      "representation": "One logical table identity with page-preserving physical segments."
+    }
+  ],
+  "tableMetrics": {
+    "physicalTables": 8,
+    "logicalTables": 1,
+    "rows": 278,
+    "cells": 556,
+    "shapes": [
+      [
+        34,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        22,
+        2
+      ]
+    ]
+  },
+  "nodeTypeCounts": {
+    "Paragraph": 1210,
+    "Heading": 215,
+    "Footnote": 8,
+    "ListItem": 308,
+    "TableCell": 556
+  }
+}

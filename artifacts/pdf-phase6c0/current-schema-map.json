@@ -1,0 +1,29 @@
+{
+  "auditBasis": {"migrations": "supabase/migrations through 20261018000006", "application": "current src reads/writes", "liveSchemaAssumption": "migrations are authoritative; no destructive live introspection performed"},
+  "storage": {"bucket": "source-documents", "private": true, "limitBytes": 52428800, "mimeTypes": ["application/pdf", "application/vnd.openxmlformats-officedocument.wordprocessingml.document"], "path": "<auth.uid>/<project_id>/<document_id>/<version_id>[...]/<filename>", "updatePolicy": false, "ownerProjectRls": true},
+  "tables": {
+    "projects": {"pk":"id","fks":{"owner_id":"auth.users.id"},"behavior":"mutable","status":"draft|active|completed|archived","rls":"owner_id=auth.uid()"},
+    "documents": {"pk":"id","fks":{"project_id":"projects.id","parent_document_id":"documents.id","derived_from_document_id":"documents.id"},"behavior":"mutable logical identity/status","uniques":["project_id+celex_number when non-null","derived_from_document_id+derivation_type"],"provenance":["source_reference","source_retrieved_at","provenance_metadata"],"status":["transformation_status","transformation_error","timestamps"],"rls":"through owned project"},
+    "document_versions": {"pk":"id","fks":{"document_id":"documents.id","derived_from_version_id":"document_versions.id"},"behavior":"mixed: source metadata immutable; extraction fields mutable","uniques":["document_id+version_number","storage_bucket+storage_path"],"hashes":[],"storage":["source_storage_bucket","source_storage_path","source_filename","source_mime_type","source_file_size_bytes"],"status":["extraction_status","character_count_error"],"timestamps":["created_at"],"rls":"through document/project"},
+    "document_segments": {"pk":"id","fks":{"document_version_id":"document_versions.id","parent_segment_id":"document_segments.id same version"},"behavior":"inserted lazily; deletable","uniques":["document_version_id+segment_index"],"hashes":[],"rls":"through version/document/project"},
+    "translations": {"pk":"id","fks":{"segment_id":"document_segments.id"},"behavior":"mutable current status","uniques":["segment_id+target_language"],"status":"draft|in_review|approved","rls":"through segment/version/document/project"},
+    "translation_versions": {"pk":"id","fks":{"translation_id":"translations.id","created_by":"auth.users.id","approved_by":"auth.users.id"},"behavior":"append text versions; approval fields mutate","hashes":[],"status":["review_status","approved_at"],"rls":"through translation chain"},
+    "translation_evidence": {"pk":"id","fks":{"translation_version_id":"translation_versions.id"},"behavior":"append in application but update/delete allowed by RLS","metadata":"jsonb","rls":"through translation chain"},
+    "document_translation_runs": {"pk":"id","fks":{"document_version_id":"document_versions.id","created_by":"auth.users.id"},"behavior":"mutable processing state","uniques":["one active run per document_version"],"status":"pending|segmenting|translating|document_qa|completed|failed","qa":"document_qa jsonb","rls":"through version/project"},
+    "document_translation_run_segments": {"pk":"run_id+segment_id","fks":{"run_id":"document_translation_runs.id","segment_id":"document_segments.id","translation_version_id":"translation_versions.id"},"behavior":"append run mapping","uniques":["run_id+translation_version_id"],"rls":"through run/project"},
+    "document_translation_artifacts": {"pk":"id","fks":{"run_id":"document_translation_runs.id","document_version_id":"document_versions.id","created_by":"auth.users.id"},"behavior":"MK1 append; report row/path replaced","uniques":["run_id+artifact_type"],"hashes":["content_hash (input fingerprint, nullable; not byte SHA-256)"],"storage":["storage_bucket","storage_path","filename"],"status":"completed|failed","rls":"through run/project"},
+    "approved_translation_memory_units": {"pk":"id","fks":{"knowledge_base_id":"translation_knowledge_bases.id","originating_project_id":"projects.id","originating_translation_version_id":"translation_versions.id"},"behavior":"trusted reuse records; audit fields later mutable","hashes":["generated MD5 source_text_hash for lookup"],"trust":"explicit legacy/human approval gates","rls":"knowledge-base owner or project owner"},
+    "legacy_corpus_*": {"purpose":"immutable-ish corpus provenance, segmentation, alignment and approval","behavior":"review state mutable; source mappings constrained","rls":"project owner"},
+    "terminology_entries": {"purpose":"terminology and corpus-supported audit","behavior":"mutable status/audit","rls":"later owner/knowledge-base policies"}
+  },
+  "codePaths": {
+    "createSource":"celex-actions.ts and uploadSourceDocument",
+    "createWorkingDocx":"transformPdfToWorkingDocument",
+    "extractSegments":"translateCompleteDocument lazy DOCX extraction",
+    "translate":"translateCompleteDocument + persist_generated_mk1 RPC",
+    "approve":"approve_translator_draft RPC",
+    "exports":"reconstructCompletedMk1Docx and generateTranslationReport",
+    "downloads":"authenticated storage/[kind] route and documents-zip route",
+    "deletes":"deleteSourceDocument/deleteWorkingDocument plus SECURITY INVOKER RPCs"
+  }
+}

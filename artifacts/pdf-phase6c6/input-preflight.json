@@ -1,0 +1,10 @@
+{
+  "classification": "BLOCKED_PENDING_EXACT_STUDIO_EXPORT",
+  "celex": "32006L0114",
+  "canonicalSnapshotId": "9773853e-9f81-4796-b358-38a3f53e1d81",
+  "validatedDocxArtifactId": "b0e8fec5-91c8-4755-87a4-ff8f6dd8d307",
+  "authoritativeDocx": {"sha256": "2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971", "bytes": 44034},
+  "availableSdlxliff": {"path": "artifacts/pdf-phase2b/32006L0114-experimental-v2.docx.sdlxliff", "sha256": "D54A6E2034A93E547D54311754FE33B7F7983726710D696B3E9A8A836464D165", "bytes": 243296, "embeddedOriginal": "32006L0114-experimental-v2.docx", "usableForPhase6C6": false, "reason": "It was generated from the Phase 2B experimental DOCX, not the persisted VALIDATED_DOCX artifact."},
+  "canonicalMetrics": {"nodes": 422, "translationUnits": 265, "inlineCodes": 3, "normalizedTokens": 3389},
+  "requiredAction": "Create a fresh untouched Studio SDLXLIFF from the exact verified VALIDATED_DOCX and preserve both SDLXLIFF and skeleton bytes without editing."
+}

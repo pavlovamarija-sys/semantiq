@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="TW4Win 2.0 Format" datatype="rtf" segtype="sentence" adminlang="EN-GB" srclang="EN-GB" creationdate="20210528T144751Z" creationid="Petreski-PC\Petreski">
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32013R0557</prop>
+    <prop type="x-SourceTMX">32013R0557_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">1818c284ffb16bb33c469c20f1791736c4b6ba27fa499462880ef8299abe4eb8</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">2</prop>
+  </header>
+  <body>
+    <tu creationdate="20201128T193708Z" creationid="Petreski-PC\Petreski" changedate="20210528T145059Z" changeid="Petreski-PC\Petreski" lastusagedate="20210528T145059Z">
+      <tuv xml:lang="EN-GB">
+        <seg>COMMISSION REGULATION (EU) No 557/2013</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) бр. 557/2013 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R0557</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210528T145122Z" creationid="Petreski-PC\Petreski" changedate="20210528T152615Z" changeid="Petreski-PC\Petreski" lastusagedate="20210528T152615Z">
+      <tuv xml:lang="EN-GB">
+        <seg>implementing Regulation (EC) No 223/2009 of the European Parliament and of the Council on European Statistics as regards access to confidential data for scientific purposes and repealing Commission Regulation (EC) No 831/2002</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕЗ) бр. 223/2009 на Европскиот парламент и на Советот за европска статистика во поглед на пристап до доверливи податоци за научни цели и укинување на Регулативата (ЕЗ) бр. 831/2002 на Комисијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R0557</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

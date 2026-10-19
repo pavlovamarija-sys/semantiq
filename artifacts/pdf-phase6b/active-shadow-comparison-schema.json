@@ -1,0 +1,5 @@
+{
+  "categories": ["expected structural improvement", "text-equivalent structural difference", "active-only text discrepancy", "shadow-only text discrepancy", "ordering discrepancy", "uncertain"],
+  "fields": ["normalizedSourceText", "tokenOrder", "paragraphs", "tables", "rows", "cells", "headings", "multiParagraphCells", "boundaryCounts", "differences"],
+  "implementedComparison": "shadow result contains source/hash/validation summaries; active-vs-shadow DOCX comparison remains diagnostic follow-up work"
+}

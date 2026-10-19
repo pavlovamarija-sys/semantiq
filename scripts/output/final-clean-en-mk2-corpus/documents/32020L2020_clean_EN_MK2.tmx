@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="TW4Win 2.0 Format" datatype="rtf" segtype="sentence" adminlang="EN-GB" srclang="EN-GB" creationdate="20210830T121845Z" creationid="Petreski-PC\Petreski">
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32020L2020</prop>
+    <prop type="x-SourceTMX">32020L2020_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">8702ee8cc05db1ba99377c35975f9c86a4b0d66cc962f298ceaf53d0183aecad</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">6</prop>
+  </header>
+  <body>
+    <tu creationdate="20191009T223344Z" creationid="Petreski-PC\Petreski" changedate="20210830T121930Z" changeid="Petreski-PC\Petreski" lastusagedate="20210903T144345Z">
+      <tuv xml:lang="EN-GB">
+        <seg>COUNCIL DIRECTIVE (EU) 2020/2020</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВА (ЕУ) 2020/2020 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L2020</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210830T121934Z" creationid="Petreski-PC\Petreski" changedate="20210830T121951Z" changeid="Petreski-PC\Petreski" lastusagedate="20210903T144345Z">
+      <tuv xml:lang="EN-GB">
+        <seg>of 7 December 2020</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 7 декември 2020 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L2020</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201201T223950Z" creationid="Petreski-PC\Petreski" changedate="20210830T122757Z" changeid="Petreski-PC\Petreski" lastusagedate="20210903T144346Z" usagecount="1">
+      <tuv xml:lang="EN-GB">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>д истиот, имајќи го предвид предлогот на Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L2020</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20191028T141447Z" creationid="Petreski-PC\Petreski" changedate="20210830T122801Z" changeid="Petreski-PC\Petreski" lastusagedate="20210903T144346Z" usagecount="1">
+      <tuv xml:lang="EN-GB">
+        <seg>After transmission of the draft legislative act to the national parliaments,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>по доставување на нацрт-законодавниот акт до националните парламенти,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L2020</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201121T214524Z" creationid="Petreski-PC\Petreski" changedate="20210830T122856Z" changeid="Petreski-PC\Petreski" lastusagedate="20210903T144346Z">
+      <tuv xml:lang="EN-GB">
+        <seg>
+          <bpt i="1" type="pt29" />Having regard to the opinion of the European Economic and Social Committee<ept i="1" />
+          <bpt i="2" type="pt30" />(<ph x="1" type="ph31" />)<ept i="2" />
+          <bpt i="4" type="pt32" />,<ept i="4" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>редвид мислењето на Европскиот економско-социјален комитет(),</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L2020</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210830T154014Z" creationid="Petreski-PC\Petreski" changedate="20210830T154320Z" changeid="Petreski-PC\Petreski" lastusagedate="20210903T144346Z">
+      <prop type="Txt::StructureContext">x-tm-listitem</prop>
+      <tuv xml:lang="EN-GB">
+        <seg>Given the urgency of the situation related to the COVID-19 pandemic, this Directive should enter into force on the day folllowing its publication in the<bpt i="1" type="pt72" />Official Journal of the European Union<ept i="1" />,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ца за атомска енергија. Со оглед на итноста на ситуцијата во врска со пандемијата со КОВИД-19, оваа директива треба да влезе во сила на денот по нејзиното објавување во Службениот весник на европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L2020</prop>
+      <prop type="x-SourceTUIndex">32</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

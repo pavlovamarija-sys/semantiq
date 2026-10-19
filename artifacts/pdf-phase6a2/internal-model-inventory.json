@@ -1,0 +1,6 @@
+{
+  "obsoleteInternalModel": {"Node": "removed from core.py; imported from contracts.py", "SourceRef": "removed from core.py; imported from contracts.py"},
+  "productionCoreImports": ["Box", "SourceRef", "StyleEvidence", "Classification", "Node", "DiagnosticRecord", "Fragment", "BoundaryClassification"],
+  "spikeRetainsOwnTypes": true,
+  "legacyAdapters": false
+}

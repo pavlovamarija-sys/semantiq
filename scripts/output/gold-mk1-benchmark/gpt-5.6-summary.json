@@ -1,0 +1,30 @@
+{
+  "tests": 30,
+  "overall": {
+    "EXACT_OR_NEAR_EXACT": 3,
+    "MATERIALLY_EQUIVALENT": 9,
+    "MINOR_ISSUES": 17,
+    "SERIOUS_LEGAL_MEANING_ERRORS": 1
+  },
+  "legal_meaning_preserved": 29,
+  "terminology_consistency": {
+    "GOOD": 17,
+    "MIXED": 13,
+    "POOR": 0
+  },
+  "structural_fidelity": {
+    "GOOD": 16,
+    "MIXED": 14,
+    "POOR": 0
+  },
+  "grammatical_naturalness": {
+    "GOOD": 28,
+    "MIXED": 2,
+    "POOR": 0
+  },
+  "evaluation_tokens": {
+    "prompt_tokens": 10779,
+    "completion_tokens": 6501,
+    "total_tokens": 17280
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "celex": "32006L0114",
+  "classification": "PASS",
+  "artifacts": {
+    "pdfSha256": "1B0FB08EC46C93B9DF62675F2B898030511DFCF5DF4832B15CDE56681932008B",
+    "v1DocxSha256": "90BDF31CEEB6A0C85B7C7432C2A3A7B89213FFA0A0909EBCD083FCF9F177F0C5",
+    "v2DocxSha256": "058065F2A20068752432963D50608AB2463E2DB7F35C370405DDA70EF3F0F813"
+  },
+  "checks": {
+    "pdfToTypedModel": {
+      "status": "PASS",
+      "tokens": 3389,
+      "sourceSpans": 3362,
+      "modelSpans": 3362,
+      "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+    },
+    "typedModelToV2Docx": {
+      "status": "PASS",
+      "tokens": 3389,
+      "sha256": "c1041d1e04032898999d7bf32d1a541f49943eb770d06d4daac906622edc59ab"
+    },
+    "sourceOrderPreserved": true,
+    "tablesRowsCells": {
+      "status": "PASS",
+      "tables": 3,
+      "rows": 48,
+      "cells": 100
+    },
+    "structuralReadingOrder": {
+      "status": "PASS",
+      "articles": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "annexes": [
+        1,
+        2
+      ],
+      "issues": []
+    },
+    "tableReferencesRemainCells": {
+      "status": "PASS",
+      "article1": true,
+      "annexI": true
+    },
+    "threeAffectedCellsOneParagraph": {
+      "status": "PASS",
+      "paragraphsPerCell": [
+        1,
+        1,
+        1
+      ],
+      "lineBreaksPerCell": [
+        1,
+        1,
+        1
+      ]
+    },
+    "noRegressionOutsideAffectedCells": {
+      "status": "PASS",
+      "bodyParagraphsIdentical": true,
+      "unaffectedCellsIdentical": true
+    }
+  },
+  "sdlxliffGenerated": false
+}

@@ -1,0 +1,73 @@
+{
+  "query_count": 100,
+  "unseen_documents": 100,
+  "exact_match_count": 4,
+  "fuzzy_match_count": 1,
+  "no_match_count": 95,
+  "similarity_distribution": {
+    "gte_0_95": 4,
+    "range_0_90_0_949": 0,
+    "range_0_80_0_899": 0,
+    "range_0_70_0_799": 1
+  },
+  "average_query_time_ms": 319.53,
+  "top_20_fuzzy": [
+    {
+      "query_celex": "32021D2125",
+      "query_tuid": "32021D2125:178",
+      "query_source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D2125\\TMX_MK1\\32021D2125_MK1_TM.tmx",
+      "query_en": "On 15 October 2012, the Council adopted Decision 2012/642/CFSP concerning restrictive measures in view of the situation in Belarus.",
+      "match_type": "fuzzy",
+      "matched_en": "amending Council Decision 2012/642/CFSP concerning restrictive measures in view of the situation in Belarus",
+      "matched_mk2": "за изменување на Одлуката 2012/642/ЗНБП на Советот за рестриктивни мерки во однос на состојбата во Белорусија",
+      "matched_celex": "32021D1031",
+      "provenance": {
+        "corpus_root": "D:\\EU Acquis AI App\\scripts\\output\\final-clean-en-mk2-corpus",
+        "import_type": "legacy_import",
+        "combined_tmx": "D:\\EU Acquis AI App\\scripts\\output\\final-clean-en-mk2-corpus\\combined_clean_EN_MK2.tmx",
+        "document_tmx": "final-clean-en-mk2-corpus/documents/32021D1031_clean_EN_MK2.tmx",
+        "alignment_run": "frozen final-mk1-mk2-dry-run; no alignment rerun",
+        "corpus_summary": "D:\\EU Acquis AI App\\scripts\\output\\final-clean-en-mk2-corpus\\corpus-summary.csv",
+        "mk2_provenance": "final dry run accepted clean HIGH",
+        "source_tu_index": "3",
+        "original_tmx_tu_id": "32021D1031:3",
+        "corpus_summary_sha256": "670825eebb40e04f276939a7cc417068165c235bc20c44c0f755103636c4a389"
+      },
+      "confidence": "1.0000",
+      "tmx_tu_id": "32021D1031:3",
+      "similarity": 0.791304,
+      "query_time_ms": 260.76
+    }
+  ],
+  "borderline_around_0_70": [
+    {
+      "query_celex": "32021D2125",
+      "query_tuid": "32021D2125:178",
+      "query_source_file": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D2125\\TMX_MK1\\32021D2125_MK1_TM.tmx",
+      "query_en": "On 15 October 2012, the Council adopted Decision 2012/642/CFSP concerning restrictive measures in view of the situation in Belarus.",
+      "match_type": "fuzzy",
+      "matched_en": "amending Council Decision 2012/642/CFSP concerning restrictive measures in view of the situation in Belarus",
+      "matched_mk2": "за изменување на Одлуката 2012/642/ЗНБП на Советот за рестриктивни мерки во однос на состојбата во Белорусија",
+      "matched_celex": "32021D1031",
+      "provenance": {
+        "corpus_root": "D:\\EU Acquis AI App\\scripts\\output\\final-clean-en-mk2-corpus",
+        "import_type": "legacy_import",
+        "combined_tmx": "D:\\EU Acquis AI App\\scripts\\output\\final-clean-en-mk2-corpus\\combined_clean_EN_MK2.tmx",
+        "document_tmx": "final-clean-en-mk2-corpus/documents/32021D1031_clean_EN_MK2.tmx",
+        "alignment_run": "frozen final-mk1-mk2-dry-run; no alignment rerun",
+        "corpus_summary": "D:\\EU Acquis AI App\\scripts\\output\\final-clean-en-mk2-corpus\\corpus-summary.csv",
+        "mk2_provenance": "final dry run accepted clean HIGH",
+        "source_tu_index": "3",
+        "original_tmx_tu_id": "32021D1031:3",
+        "corpus_summary_sha256": "670825eebb40e04f276939a7cc417068165c235bc20c44c0f755103636c4a389"
+      },
+      "confidence": "1.0000",
+      "tmx_tu_id": "32021D1031:3",
+      "similarity": 0.791304,
+      "query_time_ms": 260.76
+    }
+  ],
+  "evaluation_set": "deterministic lexical filters, CELEX/TU ID ordering, source documents excluded from imported Knowledge Base CELEX set",
+  "knowledge_base_id": "1f4282d9-0468-487e-bf56-685ab1f507b3",
+  "threshold": 0.7
+}

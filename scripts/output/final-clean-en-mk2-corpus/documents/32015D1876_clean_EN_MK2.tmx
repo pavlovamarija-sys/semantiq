@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20211015T211208Z" creationid="User-PC\User">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32015D1876_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">BreakOnTag</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32015D1876</prop>
+    <prop type="x-SourceTMX">32015D1876_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">1aaa86994fb9fd0468c01295250615700c0fb759a72eb118631002685a351829</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">8</prop>
+  </header>
+  <body>
+    <tu creationdate="20211015T211326Z" creationid="User-PC\User" changedate="20211015T211331Z" changeid="User-PC\User" lastusagedate="20211015T213245Z" usagecount="1">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL IMPLEMENTING DECISION (EU) 2015/1876</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2015/1876 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32015D1876</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211015T211337Z" creationid="User-PC\User" changedate="20211015T211339Z" changeid="User-PC\User" lastusagedate="20211015T213245Z" usagecount="1">
+      <prop type="x-Context">205418278737191424, -7259157335941759816</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 8 October 2015</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 8 октомври 2015 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32015D1876</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211015T211347Z" creationid="User-PC\User" changedate="20211015T211349Z" changeid="User-PC\User" lastusagedate="20211015T213245Z" usagecount="1">
+      <prop type="x-Context">3657596318, 1571690814086662633</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>on subjecting 5-(2-aminopropyl)indole to control measures</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за подложување 5-(2-аминопропил)индол на контролни мерки</seg>
+      </tuv>
+      <prop type="x-CELEX">32015D1876</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211015T211414Z" creationid="User-PC\User" changedate="20211015T211415Z" changeid="User-PC\User" lastusagedate="20211015T213245Z" usagecount="1">
+      <prop type="x-Context">-5853608400691417582, 2964310670618139056</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>СОВЕТОТ НА ЕВРОПСКАТА УНИЈА</seg>
+      </tuv>
+      <prop type="x-CELEX">32015D1876</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211015T211423Z" creationid="User-PC\User" changedate="20211015T211425Z" changeid="User-PC\User" lastusagedate="20211015T213245Z" usagecount="1">
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирањето на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32015D1876</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211015T211441Z" creationid="User-PC\User" changedate="20211015T211500Z" changeid="User-PC\User" lastusagedate="20211015T213245Z" usagecount="1">
+      <prop type="x-Context">-1630537092630497703, 452261040054540310</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Council Decision 2005/387/JHA of 10 May 2005 on the information exchange, risk-assessment and control of new psychoactive substances (<ph x="1" type="ph17" />), and in particular Article 8(3) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Одлуката 2005/387/ПВР на Советот од 10 мај 2005 година, за размената на информации, проценката на ризик и контролата на нови психоактивни супстанции (), а особено член 8(3) од истата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32015D1876</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211015T211610Z" creationid="User-PC\User" changedate="20211015T211612Z" changeid="User-PC\User" lastusagedate="20211015T213245Z" usagecount="1">
+      <prop type="x-Context">1978635893181628602, -8247791166761362612</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32015D1876</prop>
+      <prop type="x-SourceTUIndex">10</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211015T211622Z" creationid="User-PC\User" changedate="20211015T211624Z" changeid="User-PC\User" lastusagedate="20211015T213245Z" usagecount="1">
+      <prop type="x-Context">3520251291494, -1473885434305972833</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(1)	A Risk Assessment Report on the new psychoactive substance 5-(2-aminopropyl)indole was drawn up in accordance with Article 6 of Decision 2005/387/JHA by the extended Scientific Committee of the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) during a special session, and was subsequently submitted to the Commission and to the Council on 16 April 2013.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(1)Извештај Беше изготвен извештај за проценка на ризик за новата психоактивна супстанција 5-(2-аминопропил)индол беше изготвен во согласност со член 6 од Одлуката 2005/387/ПВР од страна на проширениот научен одбор комитет на Европскиот центар за следење на дрога и зависност од дрога (ЕМЦДДА) во текот на посебна седница, а на 16 април 2013 година беше дополнително доставен до Комисијата и до Советот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32015D1876</prop>
+      <prop type="x-SourceTUIndex">11</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

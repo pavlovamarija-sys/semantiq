@@ -1,0 +1,13 @@
+{
+  "ownerProcess": "Next.js",
+  "configuration": "PDF_TO_DOCX_SHADOW_EVIDENCE_DIR",
+  "defaultExpression": "path.join(process.cwd(), 'artifacts', 'shadow-runs')",
+  "expectedDefaultWhenStartedFromRepositoryRoot": "D:\\EU Acquis AI App\\artifacts\\shadow-runs",
+  "relativePathBasis": "Next.js process current working directory, not worker current working directory",
+  "directoryCreation": "recursive mkdir",
+  "writeProtocol": "unique temporary file with wx followed by atomic rename",
+  "overwrite": false,
+  "writeFailureBehavior": "logged and isolated from active import/conversion",
+  "preRepairAbsenceExplanation": "writer was never reached because normal CELEX import never invoked the shadow helper",
+  "alternateEvidenceLocated": false
+}

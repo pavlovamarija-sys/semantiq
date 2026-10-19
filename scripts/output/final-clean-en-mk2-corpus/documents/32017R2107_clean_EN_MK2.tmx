@@ -1,0 +1,1011 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20241115T213431Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32017R2107_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32017R2107</prop>
+    <prop type="x-SourceTMX">32017R2107_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">83116dcd8de0ba059c1fcba2c563191f31d40a17919592d3aa3b23d8e5db7a8b</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">50</prop>
+  </header>
+  <body>
+    <tu creationdate="20240816T213349Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241115T213455Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>REGULATION (EU) 2017/2107 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) 2017/2107 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241115T213501Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241115T213536Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4253238372150105122, -5787162811525255239</prop>
+      <prop type="x-ContextContent">REGULATION (EU) 2017/2107 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL |  | РЕГУЛАТИВА (ЕУ) 2017/2107 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 15 November 2017</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 15 ноември 2017 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241115T213518Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T213634Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3657596318, -6739189701283414397</prop>
+      <prop type="x-ContextContent">of 15 November 2017 |  | од 15 ноември 2017 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), and amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за утврдување на мерките за управување, конзервација зачувување и контрола кои што се применливи во областа на примена на Конвенцијата на Меѓународната комисија за конзервацијазачувување на атлантските туни (ICCAT) и за изменување на Регулативите (ЕЗ) бр. 1936/2001, (ЕЗ) бр. 1984/2003 и (ЕЗ) бр. 520/2007 на</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240326T202522Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241115T213954Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7124098552985558198, -4614663339850189355</prop>
+      <prop type="x-ContextContent">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, |  | ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43(2) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>НИЈА, имајќи го предвид Договорот за функционирањето на Европската Унија, а особено член 43(2) од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231207T164536Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241115T213955Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8229639682514783868, -3562062928975399014</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43(2) thereof, |  | имајќи го предвид Договорот за функционирањето на Европската Унија, а особено член 43(2) од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210209T133230Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241115T213956Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7799275716982960255, 363684144863454645</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the European Commission, |  | имајќи го предвид предлогот на Европската комисија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>After transmission of the draft legislative act to the national parliaments,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>по доставување на нацрт-законодавниот акт до националните парламенти,</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240404T201433Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241115T213957Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8428148328744422, -1269320548716298125</prop>
+      <prop type="x-ContextContent">After transmission of the draft legislative act to the national parliaments, |  | по доставување на нацрт-законодавниот акт до националните парламенти, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the opinion of the European Economic and Social Committee<ph x="1" type="425" />,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид мислењето на Европскиот економско-социјален комитет,</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20200403T141534Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241116T212757Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231706Z" usagecount="164">
+      <prop type="x-LastUsedBy">DESKTOP-R6F8DM9\Angel</prop>
+      <prop type="x-Context">6108235683204308308, 3491695247007938000</prop>
+      <prop type="x-ContextContent">This Regulation lays down management, conservation and control provisions relating to fishing for highly migratory fish species managed by the International Commission for the Conservation of Atlantic Tunas (ICCAT). |  | Со оваа регулатива се утврдени одредбите за управување, конзервација и контрола кои се однесуваат на риболовот на високо-миграциски видови со кои управува Меѓународната комисија за конзервација на атлантските туни (ICCAT). | </prop>
+      <prop type="x-Context">1289343179, 6192973607</prop>
+      <prop type="x-Context">400187433234242605, 2100915655961648823</prop>
+      <prop type="x-ContextContent">Such landings shall not count against that Member State's catch limits as set out in paragraph 1 of ICCAT Recommendation 2015-05, provided that such prohibition is clearly explained in the annual report referred to in Article 71 of this Regulation. |  | Таквите истоварувања нема да се сметаат како спротивни на ограничувањата на уловите на тие земји членки како што е наведено во став 1 од Препораката на ICCAT 2015-05, под услов таквата забрана да е јасно објаснета во годишниот извештај наведен во член 71 од оваа регулатива. | </prop>
+      <prop type="x-Context">1712684851, 3851002076</prop>
+      <prop type="x-Context">2590055420460431625, 131107077826772952</prop>
+      <prop type="x-ContextContent">FINAL PROVISIONS |  | ЗАВРШНИ ОДРЕДБИ | </prop>
+      <prop type="x-Context">-4569568871648107563, -1386580669507398484</prop>
+      <prop type="x-ContextContent">Member States shall issue authorisations to support vessels flying their flag used for any kind of support to vessels referred to in paragraph 1. |  | Земјите членки издаваат овластувања за поддршка на бродовите што пловат под нивното знаме, а кои се користат за каква било поддршка на бродовите наведени во став 1. | </prop>
+      <prop type="x-Context">142030311481673227, -1071402197971170560</prop>
+      <prop type="x-ContextContent">Control of catches |  | Контрола на уловот | </prop>
+      <prop type="x-Context">5362714046988384746, -2406928167130239882</prop>
+      <prop type="x-ContextContent">The Commission shall, by 31 July of each year, notify ICCAT of the lists received from the Member States. |  | Комисијата, до 31 јули секоја година, ја известува ICCAT за листата што ја добиле од земјите членки. | </prop>
+      <prop type="x-Context">-2695361449675858900, -1888499630878445866</prop>
+      <prop type="x-ContextContent">Vessels shall be prohibited from commencing or continuing transhipping in the ICCAT Convention area without an ICCAT regional observer on board, except in cases of force majeure duly notified to the ICCAT Secretariat. |  | На бродовите им се забранува да започнуваат или да продолжат со претовар во областа на примена на Конвенцијата ICCAT без регионален набљудувач на ICCAT на бродот, освен во случаи на виша сила која е соодветно пријавена до Секретаријатот на ICCAT. | </prop>
+      <prop type="x-Context">-9160718638273478887, -7462402000753957922</prop>
+      <prop type="x-ContextContent">Any transhipment at sea shall be duly authorised in advance by the chartering CPC and shall comply with Chapter IV of this Title. |  | Секој претовар на море е соодветно овластен однапред од страна на договорната страна на Конвенцијата која го закупува бродот и ќе се во согласност со Поглавје IV од овој наслов. | </prop>
+      <prop type="x-Context">-449828355830389749, -1018031225941260957</prop>
+      <prop type="x-ContextContent">The Commission shall forward the information received pursuant to paragraph 1 to the ICCAT Secretariat by 15 September of each year. |  | Комисијата ги проследува информациите добиени во согласност став 1 до Секретаријатот на ICCAT до 15 септември секоја година. | </prop>
+      <prop type="x-Context">2470384521, 5849444522</prop>
+      <prop type="x-Context">7111480363132471127, 131305555599977068</prop>
+      <prop type="x-ContextContent">GENERAL PROVISIONS |  | ОПШТИ ОДРЕДБИ | </prop>
+      <prop type="x-Context">-6140003818740239195, -4244173629119890056</prop>
+      <prop type="x-ContextContent">—	flag(s), name(s) and register number(s) of the carrier vessel(s) authorised for use by the large-scale pelagic longline vessel(s). |  | —	знаме (знамиња), име (имиња) и регистарски број (броеви) на транспортниот брод (бродови) овластен за употреба од страна на големите бродови за пелагичен риболов со парангали. | </prop>
+      <prop type="x-Context">2656646129, 4625231300</prop>
+      <prop type="x-Context">8494741601897085982, -536777183339374514</prop>
+      <prop type="x-ContextContent">(g)	the geographic location of the catches by species and, where appropriate, by stock, consistent with ICCAT statistical areas. |  | (е)	географската локација на уловот по видови и, каде што е соодветно, по залихи, во согласност со статистичките области на ICCAT. | </prop>
+      <prop type="x-Context">2668894402463274003, 4437469047660678007</prop>
+      <prop type="x-ContextContent">Union catching vessels shall promptly release, unharmed, hammerhead sharks caught in association with ICCAT fisheries when brought alongside the vessel. |  | Уловните бродови на Унијата веднаш и неповредени ги ослободуваат ајкулите-чекан уловени во текот на риболов кој е регулиран од ICCAT, кога истите се носат со бродот. | </prop>
+      <prop type="x-Context">2821114753, 3473447986</prop>
+      <prop type="x-Context">-7528551063884825778, 2799699909197461342</prop>
+      <prop type="x-ContextContent">(e)	for each support vessel, the number of days spent at sea, per 1° grid area, month and flag Member State. |  | (д)	за секој брод за поддршка, бројот на денови поминати на море, по 1° на мрежна област, месец и земјата членка под чие знаме истиот плови. | </prop>
+      <prop type="x-Context">940999450690394055, -1236072692704958391</prop>
+      <prop type="x-ContextContent">Masters of the vessels shall ensure appropriate access to the vessel and its operations to allow the observers to carry out their responsibilities effectively. |  | Капетаните на бродовите обезбедуваат соодветен пристап до бродот и неговите операции за да им овозможат на набљудувачите ефективно да ги извршуваат своите задолженија. | </prop>
+      <prop type="x-Context">2901013810, 3841729257</prop>
+      <prop type="x-Context">-5441862805024389459, -4736818695104159598</prop>
+      <prop type="x-ContextContent">Union fishing vessels shall keep a list of deployed FADs, updated on a quarterly basis, containing at least the information set out in Annex III. |  | Рибарските бродови на Унијата ја задржуваат листата на распоредените УПР, која се ажурира на секои три месеци, која ги содржи барем информациите утврдени во Анекс III. | </prop>
+      <prop type="x-Context">2980130588, 3756623066</prop>
+      <prop type="x-Context">8593763870434131649, 9047877941100301155</prop>
+      <prop type="x-ContextContent">By way of derogation from paragraph 2, incidental catches of Mediterranean swordfish below the minimum size set out in that paragraph may be retained on board, transhipped, landed, transported, stored, displayed or offered for sale if they do not exceed 5 % by weight or number of pieces per landing of the total Mediterranean swordfish catch on board the vessel. |  | По пат на отстапување од став 2, случајни улови на Средоземна сабјарка под минималната големина утврдена во тој став може да се задржат на бродот, да се претовараат, истовараат, транспортираат, складираат, изложуваат или да се нудат за продажба, ако тие не надминуваат 5% од тежината или бројот на парчиња по истоварање на вкупниот улов на средоземна сабјарка на бродот. | </prop>
+      <prop type="x-Context">7080558275975691941, 5429096126312934630</prop>
+      <prop type="x-ContextContent">Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 75(2). |  | Тие акти за спроведување се донесуваат во согласност со испитната постапка од член 75(2). | </prop>
+      <prop type="x-Context">-3468941496854574455, 3669838751081380545</prop>
+      <prop type="x-ContextContent">Union catching vessels shall promptly release, unharmed, porbeagle sharks caught in association with ICCAT fisheries when brought alongside the vessel. |  | Уловните бродови на Унијата веднаш и неповредени ги ослободуваат атлантските ајкули уловени во текот на риболов кој е регулиран од ICCAT, кога истите се носат со бродот. | </prop>
+      <prop type="x-Context">8095674838998932152, 4238215419512466</prop>
+      <prop type="x-ContextContent">Enforcement |  | Спроведување | </prop>
+      <prop type="x-Context">8884292560537979797, -4562266016031085052</prop>
+      <prop type="x-ContextContent">Swordfish in the Atlantic |  | Сабјарка во Атлантскиот Океан | </prop>
+      <prop type="x-Context">3825233421648868474, 5884175249736644659</prop>
+      <prop type="x-ContextContent">This Chapter shall apply to chartering arrangements, other than bareboat chartering, between Union catching vessels and those of CPCs, where the Union catching vessels concerned do not change their flag. |  | Ова поглавје се применува на аранжманите за закуп, различни од закуп без екипаж, помеѓу уловните бродови на Унијата и оние на договорните страни на Конвенцијата, каде засегнатите уловни бродови на Унијата не го менуваат своето знаме. | </prop>
+      <prop type="x-Context">-6076684616091459487, -391231323329428687</prop>
+      <prop type="x-ContextContent">North Atlantic albacore |  | Северно-атлантска албакор туна (долгоперка бела туна (Thunnus alalunga)) | </prop>
+      <prop type="x-Context">3574778458783226623, 2085247612016139183</prop>
+      <prop type="x-ContextContent">Member States referred to in paragraph 1 shall take appropriate measures to ensure that blue marlin and white marlin are released in a manner that maximise their chances of survival. |  | Земјите членки наведени во ставот 1 треба да преземат соодветни мерки за да се осигураат дека синиот марлин и белиот марлин се ослободуваат на начин на кој тие би имале најголеми шанси за преживување. | </prop>
+      <prop type="x-Context">3605853855, 5496521008</prop>
+      <prop type="x-Context">-2303561856088983030, 3873001623024828407</prop>
+      <prop type="x-ContextContent">(b)	the Task II data transmitted to the Commission pursuant to Article 50 include the information collected from the fishing or FAD logbooks, where applicable. |  | (б)	податоците од Задачата II кои се доставуваат до Комисијата согласно член 50 ги вклучуваат информациите собрани од дневниците за риболов и од дневниците нa УПР, каде што е применливо. | </prop>
+      <prop type="x-Context">3711665141, 3884189230</prop>
+      <prop type="x-Context">3711665141, 6835777787</prop>
+      <prop type="x-Context">-3152155707465128689, 2495505834648337311</prop>
+      <prop type="x-ContextContent">Member States shall report to the Commission, as part of the annual report referred to in Article 71, about the progress made. |  | Земјите членки даваат извештај до Комисијата, како дел од годишниот извештај наведен во членот 71, за постигнатиот напредок. | </prop>
+      <prop type="x-Context">109014947910768, 131251602477535150</prop>
+      <prop type="x-ContextContent">Seabirds |  | Морски птици | </prop>
+      <prop type="x-Context">-8503347490004627068, -7928611088751373593</prop>
+      <prop type="x-ContextContent">(c)	line weighting. |  | (в)	ставање тегови на парангалот. | </prop>
+      <prop type="x-Context">108577423688013, 4400903901690</prop>
+      <prop type="x-ContextContent">Chartering |  | Закупување | </prop>
+      <prop type="x-Context">-4017665081641906724, 4780457150503589404</prop>
+      <prop type="x-ContextContent">Blue marlin and white marlin in the Atlantic |  | Син марлин и бел мартин во Атлантскиот Океан | </prop>
+      <prop type="x-Context">4623955054487099483, 4408457348670</prop>
+      <prop type="x-ContextContent">Transhipment |  | Претовар | </prop>
+      <prop type="x-Context">5015021623206113524, 1491795778956128149</prop>
+      <prop type="x-ContextContent">Member States shall take appropriate measures to reduce fishing mortality in fisheries targeting shortfin mako sharks and shall report to the Commission, as part of the annual report referred to in Article 71, about the progress made. |  | Земјите членки преземаат соодветни мерки за намалување на смртноста како последица на риболов во рибарството, чија цел се краткоопашестите мако ајкули и поднесуваат извештај до Комисијата, како дел од годишниот извештај наведен во член 71, за постигнатиот напредок. | </prop>
+      <prop type="x-Context">1243308541313344264, 5446097611256398240</prop>
+      <prop type="x-ContextContent">Alternative approaches shall be subject to the approval of the ICCAT Commission at the ICCAT annual meeting prior to their implementation. |  | Алтернативните пристапи подлежат на одобрување од Комисијата на ICCAT на годишниот состанок на ICCAT пред да се спроведуваат. | </prop>
+      <prop type="x-Context">966336671511576054, 8388453154399110469</prop>
+      <prop type="x-ContextContent">This Article shall be without prejudice to Articles 17 to 22 of Regulation (EC) No 1224/2009 and Articles 4, 6, 7 and 8 of Regulation (EC) No 1005/2008. |  | Овој член не е во спротивност на членовите 17 и 22 од Регулативата (ЕЗ) бр. 1224/2009 и членовите 4, 6, 7 и 8 од Регулативата (ЕЗ) бр.1005/2008. | </prop>
+      <prop type="x-Context">113441857715, 4574230575</prop>
+      <prop type="x-ContextContent">Sharks |  | Ајкули | </prop>
+      <prop type="x-Context">4689600218020613734, -6961309177047456338</prop>
+      <prop type="x-ContextContent">Member States shall closely monitor the vessels included in the ICCAT draft IUU list circulated by the ICCAT Executive Secretary, in order to determine the activities and possible changes of name, flag or registered owner of those vessels. |  | Земјите членки внимателно ги следат бродовите вклучени во нацрт листата за ННН риболовни активности на ICCAT дистрибуирана од страна на Извршниот секретар на ICCAT, со цел да се утврдат активностите и можните промени на името, знамето или регистрираниот сопственик на тие бродови. | </prop>
+      <prop type="x-Context">7995507516388408079, 8651108243024389626</prop>
+      <prop type="x-ContextContent">That period shall be extended by two months at the initiative of the European Parliament or of the Council. |  | Тој период се продолжува за два месеци по иницијатива на Европскиот парламент или на Советот. | </prop>
+      <prop type="x-Context">6448991225417549199, 4984927015506030411</prop>
+      <prop type="x-ContextContent">The length of the pelagic longlines shall not exceed 30 nautical miles (55,56 km). |  | Должината на парангалите за пелагичен риболов не смее да надмине 30 наутички милји (55,56 km). | </prop>
+      <prop type="x-Context">4465847171, 938774227</prop>
+      <prop type="x-Context">1255998479554343346, 3236564071534441771</prop>
+      <prop type="x-ContextContent">The Commission shall examine that information and, if the information is sufficiently documented, forward it to the ICCAT Secretariat at least 120 days before the ICCAT annual meeting, for the purpose of establishing the ICCAT draft IUU list. |  | Комисијата треба да ги испита тие информации и, ако информациите се доволно документирани, да ги проследи до Секретаријатот на ICCAT барем 120 дена пред годишниот состанок на ICCAT, со цел да се воспостави нацрт листа за ННН риболовни активности на ICCAT. | </prop>
+      <prop type="x-Context">8979018611070791538, -6326358278246709484</prop>
+      <prop type="x-ContextContent">Control of third country fishing vessels in Member State ports |  | Контрола на рибарски бродови од трети земји во пристаништата на земјите членки | </prop>
+      <prop type="x-Context">-278656986952287004, 7831962683573668038</prop>
+      <prop type="x-ContextContent">Swordfish in the Mediterranean |  | Сабјарка во Средоземното Море | </prop>
+      <prop type="x-Context">-6427551472411110344, 3925517856379538825</prop>
+      <prop type="x-ContextContent">Member States shall ensure that no more than 500 instrumental buoys are active at any one time for each purse seiner flying their flag and fishing for tropical tunas in association with FADs. |  | Земјите членки треба да обезбедат дека најмногу 500 инструментални пловци се активни во секое време за секоја џебовидна подвижна мрежа, кои пловат под нивното знаме и вршат риболов на тропски туни во врска со УПР. | </prop>
+      <prop type="x-Context">4840092328016948881, 6595467516139839820</prop>
+      <prop type="x-ContextContent">In Regulation (EC) No 1936/2001, Articles 4, 5, 6, 6a, 7, 8a, 8b, 8c, 9, 9a and 10 to 19 are deleted. |  | Во Регулативата (EЗ) бр. 1936/2001, членови 4, 5, 6, 6a, 7, 8a, 8б, 8в, 9, 9a и 10 до 19 се бришат. | </prop>
+      <prop type="x-Context">4624961534, 3466854220</prop>
+      <prop type="x-Context">-628472123617811032, 3912006921135854283</prop>
+      <prop type="x-ContextContent">(b)	on the basis of the restriction on the number of Union catching vessels targeting bigeye tuna in 2005 as notified to ICCAT on 30 June 2005. |  | (б)	врз основа на ограничувањето на бројот на уловни бродови на Унијата за целен риболов на големоока туна во 2005 година, како што е известено до ICCAT на 30 јуни 2005 година. | </prop>
+      <prop type="x-Context">5386876472022781002, 5211529513610235647</prop>
+      <prop type="x-ContextContent">Fishing opportunities for bluefin tuna and swordfish |  | Можности за риболов за туна синоперка и сабјарка | </prop>
+      <prop type="x-Context">-3043437590167002954, -1178467813822538716</prop>
+      <prop type="x-ContextContent">(c)	third country fishing vessels and third country vessels engaged in recreational fisheries which operate in Union waters. |  | (в)	рибарски бродови од трети земји и бродови од трети земји за рекреативен риболов кои работат во водите на Унијата. | </prop>
+      <prop type="x-Context">8638901568655792558, -4695700686345781940</prop>
+      <prop type="x-ContextContent">This Chapter shall not apply to harpoon vessels engaged in the transhipment of fresh swordfish at sea. |  | Ова поглавје не се однесува на бродовите со харпун кои вршат претовар на свежи сабјарки на море. | </prop>
+      <prop type="x-Context">7799554228648554906, -3409346766675737394</prop>
+      <prop type="x-ContextContent">Article 15(1) of Regulation (EU) No 1380/2013 shall not apply in such cases. |  | Член 15(1) од Регулативата (ЕУ) бр. 1380/2013 не се применува во такви случаи. | </prop>
+      <prop type="x-Context">2328908825824109058, -415597996089299443</prop>
+      <prop type="x-ContextContent">The Commission shall forward that information to the ICCAT Secretariat by 15 September of each year. |  | Комисијата ги проследува тие информации до Секретаријатот на ICCAT до 15 септември наредната година. | </prop>
+      <prop type="x-Context">4922763539, 6825365587</prop>
+      <prop type="x-Context">3364579361672386594, -7399796646212036189</prop>
+      <prop type="x-ContextContent">(d)	submit a report on the compliance with the time and area closure to the Commission as part of its annual report referred to in Article 71. |  | (д)	доставува извештај за придржувањето кон тоталниот ловостој до Комисијата како дел од својот годишен извештај наведен во член 71. | </prop>
+      <prop type="x-Context">4953846034, 2301291454</prop>
+      <prop type="x-Context">-9049538149024319377, -3464848511026147256</prop>
+      <prop type="x-ContextContent">In Regulation (EC) No 520/2007, Article 4(1), Title II and Annexes II, III and IV are deleted. |  | Во Регулативата (EЗ) бр. 520/2007, член 4(1), Наслов II и Aнекси II, III и IV се бришат. | </prop>
+      <prop type="x-Context">5078732094, 4244957168</prop>
+      <prop type="x-Context">532739880459795087, 3689170553135630043</prop>
+      <prop type="x-ContextContent">The Commission shall forward that information to the ICCAT Secretariat at least two months before the ICCAT annual meeting. |  | Комисијата ги проследува тие информации до Секретаријатот на ICCAT најмалку два месеци пред годишниот состанок на ICCAT. | </prop>
+      <prop type="x-Context">5105746521, 2950163713</prop>
+      <prop type="x-Context">-7749596310609605979, -22245356213583853</prop>
+      <prop type="x-ContextContent">Union catching vessels not included in the list referred to in point (a) of Article 20(2) shall not be authorised to catch, retain on board, tranship, transport, process or land swordfish exceeding 5 % of the total catch on board by weight and/or number of pieces. |  | Уловните бродови на Унијата што не се вклучени во листата наведена во точката (а) на член 20 (2) не се овластени да ловат, да задржуваат на бродот, да претовараат, транспортираат, обработуваат или истовараат сабјарка што надминува 5% од вкупниот улов на одборот по тежина и/или број на парчиња. | </prop>
+      <prop type="x-Context">5200751233, 3057781891</prop>
+      <prop type="x-Context">1168117799728862785, 7849071723041942226</prop>
+      <prop type="x-ContextContent">All ICCAT species and any other species caught in association with those species landed in, or imported into, the area or territory of a CPC, either unprocessed or after having being processed on board, and which are transhipped at sea, shall be accompanied by the ICCAT transhipment declaration until the first sale has taken place. |  | Сите видови на ICCAT и сите други видови уловени во врска со овие видови се истоварени во, или увезени во, областа или територијата на договорната страна на Конвенцијата, или необработени или откако биле преработени на бродот, и кои се претоварени во морето, се придружени со декларација за претовар на ICCAT додека да се случи првата продажба. | </prop>
+      <prop type="x-Context">-3049815644853362218, 3188845553793201164</prop>
+      <prop type="x-ContextContent">The measures provided for in this Regulation apply in addition to those provided for in Regulations (EC) No 1005/2008 and (EC) No 1224/2009. |  | Мерките предвидени во оваа регулатива се применуваат во прилог на оние предвидени во Регулативата (EЗ) бр. 1005/2008 и (EЗ) бр. 1224/2009. | </prop>
+      <prop type="x-Context">570323942192034852, -8171074812326395596</prop>
+      <prop type="x-ContextContent">Such research shall provide information on key biological and ecological parameters, life-history and behavioural traits, as well as on the identification of potential mating, pupping and nursery grounds. |  | Таквите истражувања обезбедуваат информации за клучните биолошки и еколошки параметри, животниот циклус и карактеристиките на однесување, како и за идентификација на потенцијално парење, размножување и мрестење. | </prop>
+      <prop type="x-Context">5541702754, 6108065873</prop>
+      <prop type="x-Context">-1789307951073663204, 8744314180761199936</prop>
+      <prop type="x-ContextContent">Transhipment at sea by large-scale pelagic longline vessels shall take place in accordance with Articles 54 to 60. |  | Претоварот на море од страна на големи бродови за пелагичен риболов со парангали се одвива во согласност со членовите од 54 до 60. | </prop>
+      <prop type="x-Context">-6026850418614844744, -528383684149263801</prop>
+      <prop type="x-ContextContent">The Commission shall notify that information to the ICCAT Secretariat at least 14 days before those changes take effect. |  | Комисијата ги доставува тие информации до Секретаријатот на ICCAT најмалку 14 дена пред тие промени да стапат на сила. | </prop>
+      <prop type="x-Context">7601630976808864638, -4943505820784319819</prop>
+      <prop type="x-ContextContent">Member States shall train fishermen on pelagic longline vessels in safe handling and release techniques. |  | Земјите членки ги обучуваат рибарите на бродовите со парангал за пелагичен риболов за техники за безбедно ракување и ослободување. | </prop>
+      <prop type="x-Context">8214263749350897023, 9008990593073075050</prop>
+      <prop type="x-ContextContent">The flag Member States of the vessels subject to the exemption referred to in the first subparagraph shall inform the Commission of their scientific findings resulting from their observer coverage of those vessels. |  | Земјите членки под чие знаме плови бродот кој подлежи на изземање од првиот потстав ја известуваат Комисијата за нивните научни сознанија што произлегуваат од нивното набљудување на тие бродови. | </prop>
+      <prop type="x-Context">104763388335447836, 131251602468838689</prop>
+      <prop type="x-ContextContent">Sea turtles |  | Морски желки | </prop>
+      <prop type="x-Context">7940529049764252922, -6078713289492875577</prop>
+      <prop type="x-ContextContent">Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply. |  | Кога се врши упатување на овој став, се применува членот 5 од Регулативата (ЕУ) број 182/2011. | </prop>
+      <prop type="x-Context">-7931938557875789059, -4609709823992688950</prop>
+      <prop type="x-ContextContent">The Commission shall forward that information to the ICCAT Executive Secretary at least 30 days before the ICCAT annual meeting. |  | Комисијата ги проследува тие информации до Извршниот секретар на ICCAT најмалку 30 дена пред годишниот состанок на ICCAT. | </prop>
+      <prop type="x-Context">-7390994850556406151, 30602165747376958</prop>
+      <prop type="x-ContextContent">The Commission shall, without delay and at the latest within 45 days from the date of the addition to, deletion from or modification of those lists, submit that information to the ICCAT Secretariat. |  | Комисијата, без одлагање, а најдоцна во рок од 45 дена од датумот на додавање, бришење од или измена на тие листи, ги доставува тие информации до Секретаријатот на ICCAT. | </prop>
+      <prop type="x-Context">6659336867, 4975615088</prop>
+      <prop type="x-Context">2152062486463182004, 4160221193828339137</prop>
+      <prop type="x-ContextContent">The Commission shall forward that information to the ICCAT Secretariat by 31 July of each year. |  | Комисијата ги проследува тие информации до Секретаријатот на ICCAT до 31 јули наредната година. | </prop>
+      <prop type="x-Context">6755807826, 2913695632</prop>
+      <prop type="x-Context">-6032919902278865528, -3563219441231721519</prop>
+      <prop type="x-ContextContent">The Commission shall forward that information to the ICCAT Secretariat. |  | Комисијата ги проследува тие информации до Секретаријатот на ICCAT. | </prop>
+      <prop type="x-Context">7036564638890509848, 5046848928913540097</prop>
+      <prop type="x-ContextContent">Transhipment at sea referred to in Article 53 may only be received by carrier vessels entered on the ICCAT record of carrier vessels. |  | Претоварот на море наведен во член 53 може да биде примен само од страна на транспортните бродови внесени во евиденцијата на транспортни бродови на ICCAT. | </prop>
+      <prop type="x-Context">-7046224841657716190, -5434937139746266890</prop>
+      <prop type="x-ContextContent">(*)	Regulation (EU) 2017/2107 of the European Parliament and of the Council of 15 November 2017 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), and amending Council Regulations (EC) No 1936/2001, (EC) No 1984/2003 and (EC) No 520/2007 (OJ L 315, 30.11.2017, p. 1).’." | AgIBAQEBAQQ4NzYwAQECAQEEODc2MAE= | (*)	Регулатива (ЕУ) 2017/2107 на Европскиот парламент и на Советот од 15 ноември 2017 година за утврдување на мерките за управување, конзервација и контрола кои се применливи во областа на примена на Конвенцијата на Меѓународната комисија за конзервација на атлантските туни (ICCAT) и за изменување на Регулативите (ЕЗ) бр. 1936/2001, (ЕЗ) бр. 1984/2003 и (ЕЗ) бр. 520/2007 на Советот (Сл. весник L 315, 30.11.2017 година, стр. 1.“.“ | AgIBAQEBAQQ4NzYwAQECAQEEODc2MAE=</prop>
+      <prop type="x-Context">7170267866, 1570064792</prop>
+      <prop type="x-Context">8895651379444459253, 1274548268277407299</prop>
+      <prop type="x-ContextContent">Union catching vessels shall promptly release, unharmed, bigeye thresher sharks caught in association with ICCAT fisheries when brought alongside the vessel. |  | Уловните бродови на Унијата веднаш и неповредени ги ослободуваат големооките ајкули-лисици уловени во текот на риболов кој е регулиран од ICCAT, кога истите се носат со бродот. | </prop>
+      <prop type="x-Context">-5534747076409551577, 4087916409593503165</prop>
+      <prop type="x-ContextContent">Any amendments adopted in accordance with paragraph 1 shall be strictly limited to the implementation of amendments to the ICCAT recommendation concerned into Union law. |  | Сите измени усвоени во согласност со став 1 се строго ограничени на спроведувањето на измените на препораката на ICCAT во правото на Унијата. | </prop>
+      <prop type="x-Context">-3874256851336929108, 4239093199842369</prop>
+      <prop type="x-ContextContent">Tropical tunas |  | Тропски туни | </prop>
+      <prop type="x-Context">2842012949819772675, 985299643159600683</prop>
+      <prop type="x-ContextContent">Union catching vessels shall promptly release, unharmed, oceanic whitetip sharks caught in association with ICCAT fisheries when brought alongside the vessel. |  | Уловните бродови на Унијата веднаш и неповредени ги ослободуваат океанските белоперки уловени во текот на риболов кој е регулиран од ICCAT, кога истите се носат со бродот. | </prop>
+      <prop type="x-Context">-4155389293863499816, 4235294258344167</prop>
+      <prop type="x-ContextContent">Authorisations |  | Овластувања | </prop>
+      <prop type="x-Context">8921568746598385141, -8562576453407038274</prop>
+      <prop type="x-ContextContent">(f)	not be an employee of a fishing vessel company involved in the fishery being observed. |  | (ѓ)	да не бидат вработени во компанија за рибарски бродови која е вклучена во риболовот кој се набљудува. | </prop>
+      <prop type="x-Context">927480549914852567, 8991511988634144933</prop>
+      <prop type="x-ContextContent">Scientific observer programmes |  | Програми за научни набљудувачи | </prop>
+      <prop type="x-Context">-5768429187617411216, -8332622838837130608</prop>
+      <prop type="x-ContextContent">Data collected and exchanged in the framework of this Regulation shall be treated in accordance with the applicable rules on confidentiality pursuant to Articles 112 and 113 of Regulation (EC) No 1224/2009. |  | Податоците собрани и разменети во рамките на оваа регулатива се третираат во согласност со важечките правила за доверливост во согласност со членовите 112 и 113 од Регулативата (ЕЗ) бр. 1224/2009. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 1</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">66</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231201T095610Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241116T212758Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Subject matter</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Предмет</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">67</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T150008Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T214818Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3913219503254484508, 4587363136</prop>
+      <prop type="x-ContextContent">Subject matter |  | Предмет | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation lays down management, conservation and control provisions relating to fishing for highly migratory fish species managed by the International Commission for the Conservation of Atlantic Tunas (ICCAT).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Со оваа регулатива се утврдени одредбите за управување, конзервацијазачувување и контрола кои што се однесуваат на риболовот на високо-миграциски видови со кои управува Меѓународната комисија за конзервацијазачувување на атлантските туни (ICCAT).</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">68</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T150058Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T150105Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3659279215, 4586421387</prop>
+      <prop type="x-ContextContent">Scope |  | Опсег | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation applies to:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Опсег Оваа регулатива се применува на:</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">70</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T213008Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T213031Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5585992557574688268, 4966315556483452436</prop>
+      <prop type="x-ContextContent">(b)	third country vessels which are inspected in Member States ports and which carry ICCAT species or fishery products originating from such species that have not been previously landed or transhipped at ports; |  | (б)	бродови од трети земји на кои се врши инспекција во пристаништата на земјите членки и кои носат видови или производи од риболов на ICCAT кои потекнуваат од такви видови кои претходно не биле истоварени или претоварени на пристаништата; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	third country fishing vessels and third country vessels engaged in recreational fisheries which operate in Union waters.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>истаништата; (в)рибарски бродови од трети земји и бродови од трети земји за рекреативен риболов што кои работат во водите на Унијата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">73</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T213722Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T213751Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5613641598704710724, -84264730374889128</prop>
+      <prop type="x-ContextContent">Relationship to other Union acts |  | Поврзаност со други акти на Унијата | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation applies without prejudice to the provisions laid down in a Regulation of the European Parliament and of the Council on the sustainable management of external fishing fleets<ph x="1" type="588" /> and in Regulation (EU) 2016/1627.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ијата Оваа регулатива се применува без да е во спротивност на со одредбите утврдени во Регулативата на Европскиот парламент и на Советот за одржливо управување со надворешните рибарски флоти и во Регулативата (ЕУ) 2016/1627.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">75</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T214500Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T214528Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4902440583537984573, -892082583721062523</prop>
+      <prop type="x-ContextContent"> Procedure number 2015/0289(COD), not yet published in the Official Journal. | AgMAAwEBAQMxNTIAAAECAgEDMTU1AUwCAgEDMTU1AQ== |  Постапка број 2015/0289(COD), сѐ уште не е објавена во Службен весник. | AgMAAwEBAQMxNTIAAAECAgEDMTU1AUcCAgEDMTU1AQ==</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The measures provided for in this Regulation apply in addition to those provided for in Regulations (EC) No 1005/2008 and (EC) No 1224/2009.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерките предвидени во оваа регулатива се применуваат во прилог на оние предвидени во Регулативитеата (EЗ) бр. 1005/2008 и (EЗ) бр. 1224/2009.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">76</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T214540Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T214933Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8408576854968079979, -5576569015527018739</prop>
+      <prop type="x-ContextContent">For the purpose of this Regulation, the following definitions apply: |  | За целите на оваа регулатива се применуваат следните дефиниции: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(1)	‘ICCAT species’ means species listed in Annex I;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(1)„видови на ICCAT“ се видови наведени во Анекс I;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">79</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T214541Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T214938Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2788392219183620526, 7745748118337351348</prop>
+      <prop type="x-ContextContent">(1)	‘ICCAT species’ means species listed in Annex I; |  | (1)	„видови на ICCAT“ се видови наведени во Анекс I; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(2)	‘tropical tuna’ means bigeye tuna, yellowfin tuna and skipjack tuna;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(2)„тропска туна“ е големоока туна, туна жолтоперка и пругаста туна;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">80</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T215500Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T215601Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241117T215601Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6556049998, 6930260204</prop>
+      <prop type="x-Context">5760123881367282879, 704559334747488745</prop>
+      <prop type="x-ContextContent">(2)	‘tropical tuna’ means bigeye tuna, yellowfin tuna and skipjack tuna; |  | (2)	„тропска туна“ е големоока туна, туна жолтоперка и пругаста туна; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(3)	‘fishing vessel’ means any vessel equipped for commercial exploitation of marine biological resources or a bluefin tuna trap;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(3)„рибарски брод“ е секој брод опремен за комерцијално искористување на морските биолошки ресурси или стапица за туна синоперка;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">81</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T215601Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T210418Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4800689575262408451, 3241405228703735733</prop>
+      <prop type="x-ContextContent">(3)	‘fishing vessel’ means any vessel equipped for commercial exploitation of marine biological resources or a bluefin tuna trap; |  | (3)	„рибарски брод“ е секој брод опремен за комерцијално искористување на морските биолошки ресурси или стапица за туна синоперка; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(4)	‘catching vessel’ means a fishing vessel used for the purpose of the capture of marine biological resources;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(4)„уловен брод за улов“ е рибарски брод што кој се употребува за улов на морските биолошки ре</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">82</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T215650Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T215723Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241117T215723Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6831413387, 4240127360</prop>
+      <prop type="x-Context">-3997905432510110588, 1744524298603750336</prop>
+      <prop type="x-ContextContent">(4)	‘catching vessel’ means a fishing vessel used for the purpose of the capture of marine biological resources; |  | (4)	„уловен брод“ е рибарски брод кој се употребува за улов на морските биолошки ресурси; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(5)	‘Union fishing vessel’ means a fishing vessel flying the flag of a Member State and registered in the Union;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>сурси; (5)„рибарски брод на Унијата“ е рибарски брод со знаме на некоја земја членка и регистриран во Унијата;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">83</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T215724Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T215834Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6163183878878937967, 6862954771287701833</prop>
+      <prop type="x-ContextContent">(5)	‘Union fishing vessel’ means a fishing vessel flying the flag of a Member State and registered in the Union; |  | (5)	„рибарски брод на Унијата“ е рибарски брод со знаме на некоја земја членка и регистриран во Унијата; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(6)	‘fishing authorisation’ means an authorisation issued in respect of a Union fishing vessel entitling it to carry out specific fishing activities during a specified period, in a given area or for a given fishery under specific conditions;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(6)„дозвола одобрение за риболов“ е дозвола одобрение издаденоа за рибарски брод на Унијата со кое му ја му се овластува одобрува да врши специфични риболовни активности во одреден период, во одредена област или за одредено риболовно подрачје под посеб</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">84</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T215753Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T215908Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5580761261671598690, -1385413863595309790</prop>
+      <prop type="x-ContextContent">(6)	‘fishing authorisation’ means an authorisation issued in respect of a Union fishing vessel entitling it to carry out specific fishing activities during a specified period, in a given area or for a given fishery under specific conditions; |  | (6)	„дозвола за риболов“ е дозвола издадена за рибарски брод на Унијата со која му се овластува да врши специфични риболовни активности во одреден период, во одредена област или за одредено риболовно подрачје под посебни услови; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(7)	‘special fishing authorisation’ means an authorisation issued in respect of a Union fishing vessel entitling it to carry out specific fishing activities with specific gear during a specified period, in a given area or for a given fishery under specific conditions;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ни услови; (7)„посебно одобрениеа дозвола за риболов“ е дозвола одобрение издаденоа за брод на Унијата за риболов што му дава право да врши специфични риболовни активности со специфична опрема за време на одреден период, во одредена област или за даден риболов под одредени у</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">85</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T215909Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T220021Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5721961748033653092, -878686854839855713</prop>
+      <prop type="x-ContextContent">(7)	‘special fishing authorisation’ means an authorisation issued in respect of a Union fishing vessel entitling it to carry out specific fishing activities with specific gear during a specified period, in a given area or for a given fishery under specific conditions; |  | (7)	„посебна дозвола за риболов“ е дозвола издадена за брод на Унијата за риболов што му дава право да врши специфични риболовни активности со специфична опрема за време на одреден период, во одредена област или за даден риболов под одредени услови; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(8)	‘transhipment’ means the unloading of all or any fisheries products on board a vessel to another vessel;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>слови; (8)„претовар“ е истовар на сите или кои било производи од риболов кој што се врши на брод, и тоа од еден на друг брод;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">86</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T220021Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T220044Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8339749950106870310, 543449458957254457</prop>
+      <prop type="x-ContextContent">(8)	‘transhipment’ means the unloading of all or any fisheries products on board a vessel to another vessel; |  | (8)	„претовар“ е истовар на сите или кои било производи од риболов кој се врши на брод и тоа од еден на друг брод; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(9)	‘recreational fishery’ means non-commercial fishing activities exploiting marine biological resources for recreation, tourism or sport;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(9)„рекреативен риболов“ е некомерцијален риболов што кој ги искористува морските биолошки ресурси за рекреација, туризам или спор</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">87</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T220044Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T220243Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4079929243827619551, -3077838591422042002</prop>
+      <prop type="x-ContextContent">(9)	‘recreational fishery’ means non-commercial fishing activities exploiting marine biological resources for recreation, tourism or sport; |  | (9)	„рекреативен риболов“ е некомерцијален риболов кој ги искористува морските биолошки ресурси за рекреација, туризам или спорт; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(10)	‘Task I data’ means data defined as Task I by ICCAT in the ‘Field manual for statistics and sampling Atlantic tunas and tuna-like fish’;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>т; (10)„податоци од Задача I“ се податоци дефинирани како Задача I од ICCAT во „Теренскиот прирачник за статистика и земање примероци од атлантските туни и риби слични на туна“;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">88</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T220213Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T220326Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7708470561422245371, -6204113622801680650</prop>
+      <prop type="x-ContextContent">(10)	‘Task I data’ means data defined as Task I by ICCAT in the ‘Field manual for statistics and sampling Atlantic tunas and tuna-like fish’; |  | (10)	„податоци од Задача I“ се податоци дефинирани како Задача I од ICCAT во „Теренскиот прирачник за статистика и земање примероци од атлантските туни и риби слични на туна“; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(11)	‘Task II data’ means data defined as Task II by ICCAT in the ‘Field manual for statistics and sampling Atlantic tunas and tuna-like fish’;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(11)„податоци од Задача II“ се податоци дефинирани како Задача II од ICCAT во „Теренскиот прирачник за статистика и земање примероци од атлантските туни и риби слични на туна“;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">89</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T220326Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T215151Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3542668200626312325, -4943044562772661074</prop>
+      <prop type="x-ContextContent">(11)	‘Task II data’ means data defined as Task II by ICCAT in the ‘Field manual for statistics and sampling Atlantic tunas and tuna-like fish’; |  | (11)	„податоци од Задача II“ се податоци дефинирани како Задача II од ICCAT во „Теренски прирачник за статистика и земање примероци од атлантските туни и риби слични на туна“; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(12)	‘CPC’ means contracting parties to the ICCAT Convention and cooperating non-contracting parties, entities or fishing entities;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(12)„договорни страни на Конвенцијата (ДСК)“ се договорни страни на Конвенцијата на ICCATКонвенцијата ICCAT и кооперативни недоговорни страни, субјекти или риболовни субјекти</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">90</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T220505Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T220534Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241117T220534Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3455208469676327438, 4200096662737726034</prop>
+      <prop type="x-ContextContent">(13)	‘ICCAT Convention area’ means all waters of the Atlantic Ocean and adjacent seas; |  | (13)	„област на примена на Конвенцијата на ICCAT“ се сите води на Атлантскиот Океан и соседните мориња; | </prop>
+      <prop type="x-Context">6840993107, 6460271252</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(14)	‘sustainable fisheries partnership agreement’ means an international agreement as defined in point 37 of Article 4(1) of Regulation (EU) No 1380/2013;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>мориња; (14)„договор Договор за партнерство за одржлив риболов“ е меѓународен договор, како што е дефинирано во точка 37 од член 4(1) од Регулативата (ЕУ) бр. 1380/2013;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">92</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T220534Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T215221Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8851412439555474254, 6044785022129979083</prop>
+      <prop type="x-ContextContent">(14)	‘sustainable fisheries partnership agreement’ means an international agreement as defined in point 37 of Article 4(1) of Regulation (EU) No 1380/2013; |  | (14)	„договор за партнерство за одржлив риболов“ е меѓународен договор, како што е дефинирано во точка 37 од член 4(1) од Регулативата (ЕУ) бр. 1380/2013; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(15)	‘vessel length’ means the distance measured in a straight line between the foremost point of the bow and the aftermost point of the stern;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(15)„должина на брод“ е растојание мерено во права линија помеѓумеѓу предната крајна точка на носот и најдалечната крајна точка на прамецот;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">93</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T221146Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241117T221240Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5135660459, 5186014440</prop>
+      <prop type="x-Context">-2727374401176809797, 1125175829527338389</prop>
+      <prop type="x-ContextContent">(16)	‘large-scale pelagic longline vessel’ means a pelagic longline vessel greater than 24 metres in length overall; |  | (16)	„голем брод за пелагичен риболов со парангал“ е брод за пелагичен риболов со целосна должина поголема од 24 метри; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(17)	‘large-scale fishing vessel’ means a fishing vessel greater than 20 metres in length overall;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>етри; (17)„голем рибарски брод“ е рибарски брод поголем од 20 метри целосна вкупна должина;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">95</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T221320Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241123T220117Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1834185139697281199, 295891790910561331</prop>
+      <prop type="x-ContextContent">(18)	‘large-scale catching vessel’ means a catching vessel greater than 20 metres in length overall; |  | (18)	„големи уловни бродови“ се уловни бродови поголеми од 20 метри целосна должина; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(19)	‘ICCAT record of large-scale fishing vessels’ means the list, maintained by the ICCAT Secretariat, of large-scale fishing vessels authorised to target ICCAT species in the ICCAT Convention area;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и целосна вкупна должина; (19)„евиденција на големи рибарски бродови на ICCAT“ е листасписокта на големи рибарски бродови овластени да вршат целен риболов на видови на ICCAT во областа за примена на Конвенцијата ICCAT, која ја води Секретаријатот на ICCAT;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">97</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241117T222224Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241123T220030Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6137679435, 5128764511</prop>
+      <prop type="x-Context">8914316465616399136, -3945713485607244351</prop>
+      <prop type="x-ContextContent">(22)	‘ICCAT record of carrier vessels’ means the list, maintained by the ICCAT Secretariat, of vessels authorised to receive transhipment at sea from large-scale pelagic longline vessels in the ICCAT Convention area; |  | (22)	„евиденција на транспортни бродови на ICCAT“ е листата на бродови овластени да го примат претоварот на море од големи бродови за пелагичен риболов со парангал во областа на примена на Конвенцијата ICCAT, која ја води од страна на Секретаријатот ICCAT; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(23)	‘ICCAT record of authorised tropical tunas vessels’ means the list, maintained by the ICCAT Secretariat, of large-scale fishing vessels authorised to fish, retain on board, tranship, transport, process or land tropical tunas in the ICCAT Convention area;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(23)„евиденција на овластени бродови за тропски туни на ICCAT“ е листасписокта на големи рибарски бродови овластени да ловат риби, да ги држат на бродот, да вршат претовар и транспорт, да ги обработуваат и да ги истоваруваат тропските туни во областа за примена на Конвенцијата ICCAT, која ја води Секретаријатот на ICCAT</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">101</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T121810Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T202140Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5906426215170129563, -8327091588899463383</prop>
+      <prop type="x-ContextContent">(23)	‘ICCAT record of authorised tropical tunas vessels’ means the list, maintained by the ICCAT Secretariat, of large-scale fishing vessels authorised to fish, retain on board, tranship, transport, process or land tropical tunas in the ICCAT Convention area; |  | (23)	„евиденција на овластени бродови за тропски туни на ICCAT“ е листата на големи рибарски бродови овластени да ловат риби, да ги држат на бродот, да вршат претовар и транспорт, да ги обработуваат и истоваруваат тропските туни во областа за примена на Конвенцијата ICCAT, која ја води Секретаријатот на ICCAT; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(24)	‘fish-aggregating device’ (FAD) means any equipment which is floating on the sea surface and is deployed with the objective of attracting fish;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (24)„уред за привлекување рибиа“ (УПР) е која било опрема што плута лебди на површината на морето и е распоредена со цел да привлече р</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">102</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T202014Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241118T202157Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3866521333, 2356972364</prop>
+      <prop type="x-Context">2810589129702917220, -5490681838825619966</prop>
+      <prop type="x-ContextContent">(24)	‘fish-aggregating device’ (FAD) means any equipment which is floating on the sea surface and is deployed with the objective of attracting fish; |  | (24)	„уред за привлекување риба“ (УПР) е која било опрема што плута на површината на морето и е распоредена со цел да привлече риби; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(25)	‘IUU fishing’ means fishing activities defined in point 1 of Article 2 of Regulation (EC) No 1005/2008;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>иби; (25)„ННН риболовни активности“ се риболовни активности, како што е дефинирано во точка 1 од член 2 од Регулативата (ЕУ) бр. 1005/2008;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">103</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T202157Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241118T202339Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7095419977862052511, 5073454249146432450</prop>
+      <prop type="x-ContextContent">(25)	‘IUU fishing’ means fishing activities defined in point 1 of Article 2 of Regulation (EC) No 1005/2008; |  | (25)	„ННН риболовни активности“ се риболовни активности, како што е дефинирано во точка 1 од член 2 од Регулативата (ЕУ) бр. 1005/2008; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(26)	‘ICCAT IUU list’ means a list of vessels which are considered by ICCAT to have engaged in IUU fishing;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(26)„листасписок на ННН на ICCAT“ е листасписок на бродови за кои ICCAT смета дека се занимаваат со ННН риболовни активн</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">104</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T202359Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T215420Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7721417739782542304, 6784368550130699629</prop>
+      <prop type="x-ContextContent">(26)	‘ICCAT IUU list’ means a list of vessels which are considered by ICCAT to have engaged in IUU fishing; |  | (26)	„листа на ННН на ICCAT“ е листа на бродови за кои ICCAT смета дека се занимаваат со ННН риболовни активности; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(27)	‘longlines’ means a fishing gear which comprises a main line carrying numerous hooks on branch lines (snoods) of variable length and spacing depending on the target species;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ости; (27)„парангали“ се риболовна опрема која што се состои од главно од јаже на кое се закачени голем број на јадици на странични јажиња (котури) со променлива должина и растојание во зависност од целните видови;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">105</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231201T095558Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240407T200844Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231705Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4863547763712343743, -1949139856482616415</prop>
+      <prop type="x-ContextContent">COMMON CONTROL MEASURES |  | ЗАЕДНИЧКИ КОНТРОЛНИ МЕРКИ | </prop>
+      <prop type="x-Context">6145381948, 4134266977</prop>
+      <prop type="x-Context">-2626757217753829501, 751827153808892113</prop>
+      <prop type="x-ContextContent">MANAGEMENT, CONSERVATION AND CONTROL MEASURES CONCERNING CERTAIN SPECIES |  | МЕРКИ ЗА УПРАВУВАЊЕ, КОНЗЕРВАЦИЈА И КОНТРОЛА ВО ВРСКА СО ОДРЕДЕНИ ВИДОВИ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>CHAPTER I</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ПОГЛАВЈЕ I</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">109</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T204059Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241118T204100Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">108577421862795, 4236470498506314</prop>
+      <prop type="x-ContextContent">CHAPTER I |  | ПОГЛАВЈЕ I | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Tropical tunas</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Тропски туни</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">110</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T204141Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T215541Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1256647420040098950, -7831656847408425807</prop>
+      <prop type="x-ContextContent">Restrictions on the number of Union large-scale catching vessels targeting bigeye tuna |  | Ограничувања за бројот на големи уловни бродови на Унијата за целен риболов на големоока туна | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The number and total capacity in gross tonnage (GT) of Union large-scale catching vessels targeting bigeye tuna in the ICCAT Convention area shall be determined:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>туна Бројот и вкупниот капацитет во бруто бруто-тонажа (GT) на големите уловни бродови за улов на Унијата за целен риболов на големооока туна во областа на примена на Конвенцијата ICCAT се утврдува на следниот следниов начин:</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">112</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T204235Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T215608Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8149903086323654009, 1304217604490828028</prop>
+      <prop type="x-ContextContent">The number and total capacity in gross tonnage (GT) of Union large-scale catching vessels targeting bigeye tuna in the ICCAT Convention area shall be determined: |  | Бројот и вкупниот капацитет во бруто тонажа (GT) на големите уловни бродови на Унијата за целен риболов на големооока туна во областа на примена на Конвенцијата ICCAT се утврдува на следниот начин: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	as the average number and the capacity in GT of Union catching vessels targeting bigeye tuna in the ICCAT Convention area during the period 1991 to 1992; and</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)како просечен број и капацитет во GT на бродови за уловни бродови на Унијата за целен риболов на големоока туна во областа на примена на Конвенцијата ICCAT во текот на периодот од 1991 до 1992 година; и</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">113</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T204338Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T215624Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8170921711854964412, 7433125509758136833</prop>
+      <prop type="x-ContextContent">(a)	as the average number and the capacity in GT of Union catching vessels targeting bigeye tuna in the ICCAT Convention area during the period 1991 to 1992; and |  | (а)	како просечен број и капацитет во GT на уловни бродови на Унијата за целен риболов на големоока туна во областа на примена на Конвенцијата ICCAT во текот на периодот 1991 до 1992 година; и | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	on the basis of the restriction on the number of Union catching vessels targeting bigeye tuna in 2005 as notified to ICCAT on 30 June 2005.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)врз основа на ограничувањето на бројот на бродови за уловни бродови на Унијата за целен риболов на големоока туна во 2005 година, како што е известено до ICCAT на 30 јуни 2005 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">114</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T204454Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241118T204735Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall issue authorisations, in accordance with the provisions laid down in a Regulation of the European Parliament and of the Council on the sustainable management of external fishing fleets<ph x="1" type="1675" />, to large-scale catching vessels flying their flag to fish tropical tunas in the ICCAT Convention area.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>дови за поддршка 1.Земјите членки издаваат овластувањаодобренија, во согласност со одредбите утврдени во Регулативата на Европскиот парламент и на Советот за одржливо управување со надворешните рибарски флоти, за големи уловни бродови за улов кои што пловат под нивно знаме, да ловат тропски туни во областа на примена на конвенцијата ICCAT.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">117</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T204737Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241118T204828Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall issue authorisations to support vessels flying their flag used for any kind of support to vessels referred to in paragraph 1.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Земјите членки издаваат овластувања одобренија за поддршка на бродовите што пловат под нивното знаме, а кои се користат за каква било поддршка на бродовите наведени во став 1.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">118</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T204857Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241123T215952Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall notify the Commission, without delay and at the latest within 30 days, of any event requiring an addition to, deletion from or modification of the ICCAT record of authorised tropical tuna vessels.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ICCAT 1.Земјите членки ја известуваат Комисијата, без одлагање, а најдоцна во рок од 30 дена, за било кој било настан за кој е потребно дополнување, бришење од или изменување на евиденцијата на овластени бродови за тропски туни на IC</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">120</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T204957Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241118T205033Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241118T205033Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7897115279029376025, -5954885660661131634</prop>
+      <prop type="x-ContextContent">Member States shall notify the Commission, without delay and at the latest within 30 days, of any event requiring an addition to, deletion from or modification of the ICCAT record of authorised tropical tuna vessels. |  | Земјите членки ја известуваат Комисијата, без одлагање, а најдоцна во рок од 30 дена, за било кој настан за кој е потребно дополнување, бришење од или изменување на евиденцијата на овластени бродови за тропски туни на ICCAT. | </prop>
+      <prop type="x-Context">5236920316, 4521205006</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Commission shall, without delay and at the latest within 45 days from the date of such event, submit that information to the ICCAT Secretariat.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>CAT. Комисијата, без одлагање и најдоцна во рок од 45 дена од денот на таквиот настан, ги доставува тие информации до Секретаријатот на ICCAT.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">121</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T205034Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T215814Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Large-scale fishing vessels not entered into the ICCAT record of authorised tropical tuna vessels shall not be allowed to fish, retain on board, tranship, transport, transfer, process or land tropical tunas from the ICCAT Convention area.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.На големи рибарски бродови кои што не се внесени во евиденцијата на овластени бродови за тропски туни на ICCAT не им е дозволено да вршат риболов, да ги задржуваат рибите на бродот, да вршат претовар, транспорт, трансфер, да ги обработуваат или истовараат тропските туни кои што потекнуваат од областа на примена на Конвенцијата на ICCATКонвенцијата I</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">122</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T205415Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241118T205442Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231705Z" usagecount="8">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">4025685910582419535, -3089530040209717821</prop>
+      <prop type="x-ContextContent">Large-scale fishing vessels not entered into the ICCAT record of authorised tropical tuna vessels shall not be allowed to fish, retain on board, tranship, transport, transfer, process or land tropical tunas from the ICCAT Convention area. |  | На големи рибарски бродови кои не се внесени во евиденцијата на овластени бродови за тропски туни на ICCAT не им е дозволено да вршат риболов, да ги задржуваат рибите на бродот, да вршат претовар, транспорт, трансфер, да ги обработуваат или истовараат тропските туни кои потекнуваат од областа на примена на Конвенцијата на ICCAT. | </prop>
+      <prop type="x-Context">2160660623, 6049591223</prop>
+      <prop type="x-Context">3785609811, 4349665892</prop>
+      <prop type="x-Context">5705388790831455119, 5451606285895706327</prop>
+      <prop type="x-ContextContent">Large-scale fishing vessels not entered into the ICCAT record of large-scale fishing vessels shall not be allowed to target, retain on board, tranship or land ICCAT species from the ICCAT Convention area. |  | На големи рибарски бродови кои не се внесени во евиденцијата на големи рибарски бродови на ICCAT не им е дозволено да вршат целен риболов, да ги задржуваат рибите на бродот, да вршат претовар или истовар на видови на ICCAT областа на примена на Конвенцијата ICCAT. | </prop>
+      <prop type="x-Context">4859290014, 2779753180</prop>
+      <prop type="x-Context">7040070565137400656, -61662863155011575</prop>
+      <prop type="x-ContextContent">Targeting, retaining on board or transhipping, landing, transporting, storing, displaying or offering for sale, selling or marketing swordfish of less than 25 kg live weight, or, alternatively, 125 cm of lower jaw fork length, shall be prohibited. |  | Се забранува целен риболов, задржување на брод или претовар, истовар, транспорт, складирање, изложување или нудење на продажба, продажба или маркетинг на сабјарка со тежина помала од 25 kg жива мера или, како алтернатива, со должина од 125 cm измерени од врвот на долната вилица до вилушката на опашната перка. | </prop>
+      <prop type="x-Context">-2651479787197425445, -2709877480044720194</prop>
+      <prop type="x-ContextContent">It shall be prohibited to retain on board any quantity of tropical tunas caught using purse seines in waters under the sovereignty or jurisdiction of Portugal in ICES subarea X north of 36°30′ N or in CECAF areas north of 31° N and east of 17°30′ W, or to target such species in those areas with those gear. |  | Се забранува задржување на бродот на секаква количина на тропски туни фатени со употреба на џебовидни подвижни мрежи во води под суверенитет или јурисдикција на Португалија во подзоната X на ICES северно од 36°30′ N или во области на CECAF северно од 31° N и источно од 17°30′ W, или да како цел да имаат ловење на такви видови во оние области со таа опрема. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 15(1) of Regulation (EU) No 1380/2013 shall not apply in such cases.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>CCAT. Член 15(1) од Регулативата (ЕУ) бр. 1380/2013 не се применува во такви случаи.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">123</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T205452Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241124T215858Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3436899175739822538, -4888695943072043098</prop>
+      <prop type="x-ContextContent">List of vessels fishing tropical tunas in a given year |  | Листа на бродови за риболов на тропски туни во дадена година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall, by 30 June of each year, submit to the Commission the list of authorised vessels flying their flag which have fished for tropical tunas in the ICCAT Convention area in the previous calendar year.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ина Земјите членки до 30 јуни секоја година поднесуваат до Комисијата листасписок до Комисијата на овластени бродови кои што пловат под нивно знаме, кои вршеле риболов на тропски туни во областа на примена на Конвенцијата на ICCATКонвенцијата ICCAT во претходната календарска го</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">125</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T205619Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241118T205700Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">783432474, 5849556982</prop>
+      <prop type="x-Context">1986529378711782342, -380189469687641433</prop>
+      <prop type="x-ContextContent">Member States shall, by 30 June of each year, submit to the Commission the list of authorised vessels flying their flag which have fished for tropical tunas in the ICCAT Convention area in the previous calendar year. |  | Земјите членки до 30 јуни секоја година поднесуваат до Комисијата листа на овластени бродови кои пловат под нивно знаме, кои вршеле риболов на тропски туни во областа на примена на Конвенцијата на ICCAT во претходната календарска година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Commission shall, by 31 July of each year, notify ICCAT of the lists received from the Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>дина. Комисијата, до 31 јули секоја година, ја известува ICCAT за листатасписокот што ја го добиле од земјите членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">126</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T205700Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241118T205719Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241124T231704Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Management plans in respect of fish-aggregating devices</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 9 Планови за управување во однос на уредите за привлекување риби</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">127</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20241118T210326Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20241122T195527Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20241122T195527Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">6901257888718060239, 4223090907930162941</prop>
+      <prop type="x-ContextContent">(a)	improve the knowledge about FAD characteristics, buoy characteristics, FAD fishing, including fishing effort, and related impacts on targeted and non-targeted species; |  | (а)	подобрување на знаењето за карактеристиките на УПР, карактеристиките на плутите, рибилов со УПР, вклучувајќи риболовен напор, и сродни влијанија врз целните или нецелните видови; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	effectively manage the deployment and recovery of FADs and beacons and their potential loss;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)ефикасно управување со распоредувањето и обновувањето на УПР и светилници-бикони/пловцирадиофаровитесветилниците и нивната потенцијална загуба;</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R2107</prop>
+      <prop type="x-SourceTUIndex">131</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

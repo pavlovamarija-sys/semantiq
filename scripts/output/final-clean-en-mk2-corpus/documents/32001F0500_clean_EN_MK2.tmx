@@ -1,0 +1,591 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210623T073904Z" creationid="User-PC\User">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32001F0500_EN0_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">BreakOnTag</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32001F0500</prop>
+    <prop type="x-SourceTMX">32001F0500_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">152717b99f68eec8a84a160dd049011cbe73ebea43e2ee790aa60de552170aa9</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">40</prop>
+  </header>
+  <body>
+    <tu creationdate="20210623T074010Z" creationid="User-PC\User" changedate="20210623T074016Z" changeid="User-PC\User" lastusagedate="20210623T074016Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Acts adopted pursuant to Title VI of the Treaty on European Union)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Акти донесени во согласност со Наслов VI од Договорот за Европската Унија)</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074025Z" creationid="User-PC\User" changedate="20210623T074027Z" changeid="User-PC\User" lastusagedate="20210623T074027Z">
+      <prop type="x-Context">7594242033538050873, -8841992252371146858</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Council Framework Decision</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РАМКОВНА ОДЛУКА НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074040Z" creationid="User-PC\User" changedate="20210623T074042Z" changeid="User-PC\User" lastusagedate="20210623T074042Z">
+      <prop type="x-Context">6954237514859448267, -918509718116653069</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 26 June 2001</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 26 јуни 2001 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074056Z" creationid="User-PC\User" changedate="20210623T074058Z" changeid="User-PC\User" lastusagedate="20210623T074058Z">
+      <prop type="x-Context">3657596318, -790154011644746187</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>on money laundering, the identification, tracing, freezing, seizing and confiscation of instrumentalities and the proceeds of crime</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за перење пари, идентификација, следење, замрзнување, запленување и одземање имот и приносите прибавени со кривични дела</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074108Z" creationid="User-PC\User" changedate="20210623T074110Z" changeid="User-PC\User" lastusagedate="20210623T074110Z">
+      <prop type="x-Context">6251273618437231436, 1758098510915656523</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(2001/500/JHA)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(2001/500/ПВР)</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074120Z" creationid="User-PC\User" changedate="20210623T074124Z" changeid="User-PC\User" lastusagedate="20210623T074124Z">
+      <prop type="x-Context">1878595680367, 1878595680367</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074134Z" creationid="User-PC\User" changedate="20210623T074138Z" changeid="User-PC\User" lastusagedate="20210623T074138Z">
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on European Union, and in particular Article 31(a), (c) and (e) and Article 34(2)(b) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за Европската Унија, а особено член 31(а), (в) и (д) и член 34(2)(б) од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074147Z" creationid="User-PC\User" changedate="20210623T074150Z" changeid="User-PC\User" lastusagedate="20210623T074150Z">
+      <prop type="x-Context">-8901752104077331299, 5444930731268326884</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the initiative of the French Republic,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид иницијативата на Република Франција,</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074147Z" creationid="User-PC\User" changedate="20210623T074201Z" changeid="User-PC\User" lastusagedate="20210623T074201Z">
+      <prop type="x-Context">-4725696793316843359, 3732217759564570976</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the opinion of the European Parliament,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид мислењето на Европскиот парламент,</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">9</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074210Z" creationid="User-PC\User" changedate="20210623T074212Z" changeid="User-PC\User" lastusagedate="20210623T074212Z">
+      <prop type="x-Context">1978635893181628602, -8247791166761362612</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>сСо оглед на тоа што</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">10</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074305Z" creationid="User-PC\User" changedate="20210623T074312Z" changeid="User-PC\User" lastusagedate="20210623T074312Z">
+      <prop type="x-Context">3520251291494, -1473885434305972833</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>On 3 December 1998 the Council adopted Joint Action 98/699/JHA on money laundering, the identification, tracing, freezing, seizing and confiscation of instrumentalities and the proceeds from crime(<ph x="1" type="ph27" />).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>: На 3 декември 1998 година Советот ја донесе Заедничката акција 98/699/ПВР за перење пари, идентификација, следење, замрзнување, запленување и одземање имот и приносите прибавени со кривични дела().</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">11</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074400Z" creationid="User-PC\User" changedate="20210623T074406Z" changeid="User-PC\User" lastusagedate="20210623T074406Z">
+      <prop type="x-Context">4383347324477039061, 4537413151949445725</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The European Council, noting that serious forms of crime increasingly have tax and duty aspects, calls on Member States to provide full mutual legal assistance in the investigation and prosecution of this type of crime.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>бележувајќи дека тешките форми на кривични дела сè повеќе влијаат врз даноците и царината, ги повикува земјите членки да обезбедат целосна заедничка правна помош во истрагите и гонењето зна овој вид кривични дела.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">14</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074416Z" creationid="User-PC\User" changedate="20210623T074421Z" changeid="User-PC\User" lastusagedate="20210623T074421Z">
+      <prop type="x-Context">2983404440545598328, -1877586132086859580</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The European Council calls for the approximation of criminal law and procedures on money laundering (in particular, confiscating funds), adding that the scope of criminal activities which constitute principal offences for money laundering should be uniform and sufficiently broad in all Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Европскиот совет бара приближување на кривичното право и постапките за перење пари (особено одземањето на финансиски средства), додавајќи дека опсегот на криминалните активности, кои ги сочинуваат главните дејства против кривични дела за перење пари, треба да бидат еднообразни и доволно опсежни во сите земји членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">15</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074432Z" creationid="User-PC\User" changedate="20210623T074437Z" changeid="User-PC\User" lastusagedate="20210623T074437Z">
+      <prop type="x-Context">-7029426411810855649, -5566571518750085399</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The European Council in Tampere considered that, with regard to national criminal law, efforts to agree on common definitions, incriminations and sanctions should be focused in the first instance on a limited number of sectors of particular relevance, such as financial crime.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во Тампере, Европскиот совет увиде дека, во однос на националното кривично право, напорите за утврдување на заедничките дефиниции, инкриминации и санкции треба првично да се насочат кон ограничениот број сектори од особена важност, како што е финансискиот криминал.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">16</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074457Z" creationid="User-PC\User" changedate="20210623T074503Z" changeid="User-PC\User" lastusagedate="20210623T074503Z">
+      <prop type="x-Context">-6612636010133119456, -266221331894402358</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The European Council in Tampere noted that money laundering is at the very heart of organised crime and should be rooted out wherever it occurs.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во Тампере, Европскиот совет увиде дека перењето пари е во самиот центар на организираниот криминал и секоја негова појава треба да се искорени. Европс</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">17</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074512Z" creationid="User-PC\User" changedate="20210623T074515Z" changeid="User-PC\User" lastusagedate="20210623T074515Z">
+      <prop type="x-Context">8985067051127135215, 3760020108428189524</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The European Council is determined to ensure that concrete steps are taken to trace, freeze, seize and confiscate the proceeds of crime.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>киот совет е одлучен решен да се осигураосигури, дека се преземаат конкретни чекори за следење, замрзнување, заплена и одземање на приносот од кривичните дела</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">18</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074529Z" creationid="User-PC\User" changedate="20210623T074535Z" changeid="User-PC\User" lastusagedate="20210623T074535Z">
+      <prop type="x-Context">-2578334502919804476, 8147971198210614525</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States have subscribed to the principles of the 1990 Council of Europe Convention on Laundering, Search, Seizure and Confiscation of the Proceeds from Crime, hereinafter referred to as "the 1990 Convention",</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. Земјите членки се обврзаа кон начелата од Конвенцијата на Советот на Европа од 1990 година за перење пари, откривање, заплена и конфискација одземање на имотната корист прибавена со кривично дело, во понатамошниот текст „Конвенцијата од 1990 година“,</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074545Z" creationid="User-PC\User" changedate="20210623T074547Z" changeid="User-PC\User" lastusagedate="20210623T074547Z">
+      <prop type="x-Context">-7889360720294916936, 7386881397035360932</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>HAS ADOPTED THIS FRAMEWORK DECISION:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЈА ДОНЕСЕ ОВАА РАМКОВНА ОДЛУКА:</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074554Z" creationid="User-PC\User" changedate="20210623T074556Z" changeid="User-PC\User" lastusagedate="20210623T074556Z">
+      <prop type="x-Context">-8822680635994239186, 5935705924652663350</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 1</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074604Z" creationid="User-PC\User" changedate="20210623T074607Z" changeid="User-PC\User" lastusagedate="20210623T074607Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Reservations in respect of the 1990 Convention</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Резервирања во врска со Конвенцијата од 1990 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074616Z" creationid="User-PC\User" changedate="20210623T074618Z" changeid="User-PC\User" lastusagedate="20210623T074618Z">
+      <prop type="x-Context">5761472800340001226, -5159138949564487337</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In order to enhance action against organised crime, Member States shall take the necessary steps not to make or uphold reservations in respect of the following articles of the 1990 Convention:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Со цел да се засили активноста против организираниот криминал, земјите членки ги преземаат потребните чекори да не прават или применуваат резервирања во врска со следните членови од Конвенцијата од 1990 година:</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074626Z" creationid="User-PC\User" changedate="20210623T074630Z" changeid="User-PC\User" lastusagedate="20210623T074630Z">
+      <prop type="x-Context">-960944850123308748, -496398515553792255</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	Article 2, in so far as the offence is punishable by deprivation of liberty or a detention order for a maximum of more than one year.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)Член 2, ако за кривичното дело се пропишува санкција лишување од слобода или наредба за притвор подолг од една година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">24</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074643Z" creationid="User-PC\User" changedate="20210623T074647Z" changeid="User-PC\User" lastusagedate="20210623T074647Z">
+      <prop type="x-Context">-774719583095753631, 2221132362353549149</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>However, Member States may uphold reservations on Article 2 of the 1990 Convention in respect of the confiscation of the proceeds from tax offences for the sole purpose of their being able to confiscate such proceeds, both nationally and through international cooperation, under national, Community and international tax-debt recovery legislation;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Сепак, земјите членки може да се придржуваат кон резервирањата од член 2 од Конвенцијата од 1990 година во врска со одземањето на приносите од даночни кривични дела со единствена цел да можат да ги одземат ваквите приноси и на национално ниво, и преку меѓународна соработка, според националното законодавство, законодавството на Заедницата и меѓународното законодавство за поврат на даночен долг;</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">25</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074700Z" creationid="User-PC\User" changedate="20210623T074704Z" changeid="User-PC\User" lastusagedate="20210623T074704Z">
+      <prop type="x-Context">-6053418008415869688, -3314673040655804586</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	Article 6, in so far as serious offences are concerned.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)Член 6, ако станува збор за тешки кривични дела. В</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">26</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074720Z" creationid="User-PC\User" changedate="20210623T074722Z" changeid="User-PC\User" lastusagedate="20210623T074722Z">
+      <prop type="x-Context">134456130138103611, -8182553159779532015</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Such offences shall in any event include offences which are punishable by deprivation of liberty or a detention order for a maximum of more than one year or, as regards those States which have a minimum threshold for offences in their legal system, offences punishable by deprivation of liberty or a detention order for a minimum of more than six months.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>аквите дела во секој случај вклучуваат кривични дека дела за кои се пропишува казна лишување од слобода или наредба за притвор за период подолг од една година или, кога станува збор за оние земји членки кои во својот правен систем имаат минимален праг за кривични дела, кривични дела за кои се пропишува казна лишување од слобода или наредба за притвор за период подолг од шест месеци.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">27</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074746Z" creationid="User-PC\User" changedate="20210623T074749Z" changeid="User-PC\User" lastusagedate="20210623T074749Z">
+      <prop type="x-Context">108932781415823, 4588741396</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Each Member State shall take the necessary steps consistent with its system of penalties to ensure that the offences referred to in Article 6(1)(a) and (b) of the 1990 Convention, as they result from the Article 1(b) of this framework Decision, are punishable by deprivation of liberty for a maximum of not less than 4 years.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>анкции Секоја земја членка ги презема потребите потребните чекори доследни на својот систем за санкции, со цел да се осигура осигури дека за кривичните дела наведени во член 6(1)(а) и (б) од Конвенцијата од 1990 година, со оглед на тоа дека тие произлегуваат од член 1(б) од оваа рамковна одлука, се изрекчува казна лишување од слобода за период не пократок од 4 години.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">29</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074812Z" creationid="User-PC\User" changedate="20210623T074815Z" changeid="User-PC\User" lastusagedate="20210623T074815Z">
+      <prop type="x-Context">-7414306836914414544, 3907670750489567094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Each Member State shall take the necessary steps to ensure that its legislation and procedures on the confiscation of the proceeds of crime also allow, at least in cases where these proceeds cannot be seized, for the confiscation of property the value of which corresponds to such proceeds, both in purely domestic proceedings and in proceedings instituted at the request of another Member State, including requests for the enforcement of foreign confiscation orders.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>едностОдземање според вредност Секоја земја членка ги презема потребните чекори за да се осигуриа дека нејзиното законодавство и постапки за одземање на приносите прибавени со кривично дело, исто така, овозможува, најмалку во случаи кога овој принос не може да се заплени, одземање имот со вредност која соодветствува на вредноста на ваквиот принос, и во целосно домашни постапки, и во постапки поведени на барање на друга земја членка, вклучително и барања за извршување на странски наредби за о</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">31</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074825Z" creationid="User-PC\User" changedate="20210623T074828Z" changeid="User-PC\User" lastusagedate="20210623T074828Z">
+      <prop type="x-Context">64934994865269023, 4584090446932486115</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>However, Member States may exclude the confiscation of property the value of which corresponds to the proceeds of crime in cases in which that value would be less than EUR 4000.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>дземање. Сепак, земјите членки може да го исклучат одземањето имот со вредност која соодветствува на вредноста на приносот прибавен со кривично дело, кога таа вредност би била помалку од 4.000 ЕУР.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">32</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074838Z" creationid="User-PC\User" changedate="20210623T074839Z" changeid="User-PC\User" lastusagedate="20210623T074839Z">
+      <prop type="x-Context">2866331232195433004, -2839798061620559185</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The words "property", "proceeds" and "confiscation" shall have the same meaning as in Article 1 of the 1990 Convention.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Зборовите „имот“, „принос“ и „одземање“ го имаат истото значење како во член 1 од Конвенцијата од 1990 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">33</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074851Z" creationid="User-PC\User" changedate="20210623T074853Z" changeid="User-PC\User" lastusagedate="20210623T074853Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Processing of requests for mutual assistance</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 4 Обработка на барања за заемна помош</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">34</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074928Z" creationid="User-PC\User" changedate="20210623T074929Z" changeid="User-PC\User" lastusagedate="20210623T074929Z">
+      <prop type="x-Context">6658548937290914180, 235785600893285251</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Articles 1, 3, 5(1) and 8(2) of Joint Action 98/699/JHA are hereby repealed.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Се укинуваат членовите 1, 3, 5(1) и 8(2) од Заедничката акција 98/699/ПВР.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">37</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T074948Z" creationid="User-PC\User" changedate="20210623T074953Z" changeid="User-PC\User" lastusagedate="20210623T074953Z">
+      <prop type="x-Context">-8600712887976639730, 4238215419512466</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall adopt the measures necessary to comply with the provisions of this framework Decision by 31 December 2002.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>дување До 31 декември 2002 година земјите членки ги донесуваат мерките неопходни за усогласување со оваа рамковна одлука.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">39</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T075003Z" creationid="User-PC\User" changedate="20210623T075012Z" changeid="User-PC\User" lastusagedate="20210623T075012Z">
+      <prop type="x-Context">-3271238826775765516, 7574145125018209979</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>By 1 March 2003, Member States shall forward to the General Secretariat of the Council and to the Commission the text of the provisions transposing into their national law the obligations arising for them from this framework Decision and, where appropriate, the notifications made pursuant to Article 40(2) of the 1990 Convention.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>До 1 март 2003 година, земјите членки го доставуваат до Генералниот секретаријат на Советот и до Комисијата текстот од одредбите, со кои се транспонираат во нивното национално законодавство обврските кои произлегуваат за нив од оваа рамковна одлука и, ако е соодветно, известувањата направени во согласност со член 40(2) од Конвенцијата од 1990 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">40</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T075021Z" creationid="User-PC\User" changedate="20210623T075024Z" changeid="User-PC\User" lastusagedate="20210623T075024Z">
+      <prop type="x-Context">3291859599657468489, -5078824107050611468</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>On the basis of this information and a written report from the Commission, the Council shall ascertain, by 31 December 2003, to what extent Member States have taken the measures necessary to comply with this framework Decision.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Врз основа на оваа информација и писмениот извештај од Комисијата, Советот, до 31 декември 2003 година, определува до кое ниво земјите членки ги презеле мерките неопходни за усогласување со оваа рамковна одлука.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">41</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T075043Z" creationid="User-PC\User" changedate="20210623T075045Z" changeid="User-PC\User" lastusagedate="20210623T075045Z">
+      <prop type="x-Context">-4779735697929196401, -2273255930049938194</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This framework Decision shall apply to Gibraltar as soon as application of the 1990 Convention is extended to Gibraltar.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>римена Оваа рамковна одлука се применува на Гибралтар, штом примената на Конвенцијата 1990 се прошири на Гибралтар.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">43</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T075104Z" creationid="User-PC\User" changedate="20210623T075105Z" changeid="User-PC\User" lastusagedate="20210623T075105Z">
+      <prop type="x-Context">-1071363383846022996, -6940353654854384546</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This framework Decision shall enter into force on the day of its publication in the Official Journal.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>о сила Оваа рамковна одлука влегува во сила на денот на нејзиното објавување во Службениот весник.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">45</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T075114Z" creationid="User-PC\User" changedate="20210623T075117Z" changeid="User-PC\User" lastusagedate="20210623T075117Z">
+      <prop type="x-Context">-8381007785644951876, 348034761354569533</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Luxembourg, 26 June 2001.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Луксембург, 26 јуни 2001 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">46</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T075124Z" creationid="User-PC\User" changedate="20210623T075126Z" changeid="User-PC\User" lastusagedate="20210623T075126Z">
+      <prop type="x-Context">-4759261184695792928, 8421691085722362901</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Council</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Советот</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">47</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T075133Z" creationid="User-PC\User" changedate="20210623T075135Z" changeid="User-PC\User" lastusagedate="20210623T075135Z">
+      <prop type="x-Context">-3648910944734109195, 136400592362229</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The President</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претседател</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">48</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T075144Z" creationid="User-PC\User" changedate="20210623T075146Z" changeid="User-PC\User" lastusagedate="20210623T075146Z">
+      <prop type="x-Context">6451808141391308451, 4236527515880034</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>T. Östros</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Т. Острос</seg>
+      </tuv>
+      <prop type="x-CELEX">32001F0500</prop>
+      <prop type="x-SourceTUIndex">49</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

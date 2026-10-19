@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="TW4Win 2.0 Format" datatype="rtf" segtype="sentence" adminlang="EN-GB" srclang="EN-GB" creationdate="20210827T102109Z" creationid="Petreski-PC\Petreski">
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32019D0909</prop>
+    <prop type="x-SourceTMX">32019D0909_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">b07196ceb93b2b28996f349e3d849b4145800f49db04a5c5d7d257929bb478f3</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">2</prop>
+  </header>
+  <body>
+    <tu creationdate="20191021T145635Z" creationid="Petreski-PC\Petreski" changedate="20210827T102237Z" changeid="Petreski-PC\Petreski" lastusagedate="20210903T144224Z">
+      <tuv xml:lang="EN-GB">
+        <seg>COMMISSION IMPLEMENTING DECISION (EU) 2019/909</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) бр.2019/909 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32019D0909</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210827T102254Z" creationid="Petreski-PC\Petreski" changedate="20210827T102306Z" changeid="Petreski-PC\Petreski" lastusagedate="20210903T144224Z">
+      <tuv xml:lang="EN-GB">
+        <seg>of 18 February 2019</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 18 февруари 2019 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32019D0909</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

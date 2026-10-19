@@ -1,0 +1,52 @@
+{
+  "status": "CODE_AND_DUAL_VALIDATOR_PASS_WORKSPACE_PUBLICATION_PENDING",
+  "contract": {
+    "portrait": {
+      "width_twips": 12240,
+      "height_twips": 15840,
+      "margins_twips": { "top": 1440, "bottom": 1440, "left": 1797, "right": 1797 }
+    },
+    "landscape": {
+      "width_twips": 15840,
+      "height_twips": 12240,
+      "orientation": "landscape",
+      "margins_twips": { "top": 680, "bottom": 680, "left": 680, "right": 680 }
+    },
+    "table_rule": "Every positive w:tblGrid width must fit the containing section printable width."
+  },
+  "controlled_outputs": [
+    {
+      "celex": "32025D2586",
+      "path": "artifacts/pdf-production-cutover/32025D2586-page-geometry-fixed.docx",
+      "sha256": "aa6b0fcb2827c543bdc04edf78fff44d1fde870a7f2ad91b86953b215c6a14ae",
+      "bytes": 39681,
+      "worker_validator": "PASS",
+      "application_validator": "PASS",
+      "sections": ["portrait", "landscape"],
+      "native_tables": 1,
+      "native_footnotes": 1
+    },
+    {
+      "celex": "32006L0054",
+      "path": "artifacts/pdf-production-cutover/32006L0054-page-geometry-fixed.docx",
+      "sha256": "94ffd3f3763c7411ec0d291cd5482dd7977721c240258561599e4e6cf83e8bfd",
+      "bytes": 59471,
+      "worker_validator": "PASS",
+      "application_validator": "PASS",
+      "sections": ["portrait"],
+      "native_tables": 3,
+      "native_footnotes": 7
+    }
+  ],
+  "tests": {
+    "application_validator": "8 passed",
+    "worker": "70 passed",
+    "celex_shadow": "5 passed",
+    "artifact_suites": "56 passed",
+    "typescript": "PASS"
+  },
+  "workspace_publication": {
+    "performed": false,
+    "reason": "This process has no authenticated browser session. No privileged authentication bypass was used, so no Supabase object or document version was created during verification."
+  }
+}

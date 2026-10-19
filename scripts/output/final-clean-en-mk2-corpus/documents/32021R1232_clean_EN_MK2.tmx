@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20220824T221540Z" creationid="sasPC\Sash">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">Project 3_32021R1232_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021R1232</prop>
+    <prop type="x-SourceTMX">32021R1232_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">ab698cd329e746e6bb17505d0fb00782ef37c2ef236c2de777bf0c9efcf91549</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">6</prop>
+  </header>
+  <body>
+    <tu creationdate="20210206T203739Z" creationid="sasPC\Sash" changedate="20220824T221727Z" changeid="sasPC\Sash" lastusagedate="20220828T103249Z" usagecount="1">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>REGULATION (EU) 2021/1232 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) бр. 2021/1232 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1232</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T221729Z" creationid="sasPC\Sash" changedate="20220824T221736Z" changeid="sasPC\Sash" lastusagedate="20220824T221736Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">4253238372150105122, 9081416694701093313</prop>
+      <prop type="x-ContextContent">REGULATION (EU) 2021/1232 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL |  | РЕГУЛАТИВА (ЕУ) бр.2021/1232 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 14 July 2021</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 14 јули 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1232</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T221921Z" creationid="sasPC\Sash" changedate="20220825T165445Z" changeid="sasPC\Sash" lastusagedate="20220826T092442Z" usagecount="1">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3657596318, -790155717426821069</prop>
+      <prop type="x-ContextContent">of 14 July 2021 |  | од 14 јули 2021 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>on a temporary derogation from certain provisions of Directive 2002/58/EC as regards the use of technologies by providers of number-independent interpersonal communications services for the processing of personal and other data for the purpose of combating online child sexual abuse</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за привремено дерогацијаотстапување од одредени одредби од Директивата 2002/58/ЕЗ за во однос наупотребата на технологиите кои од давателите на услуги за интерперсонална комуникација, независни од број ги користат за обработка на лични и други податоци за целите на борбата против сексуална злоупотреба на деца преку интернет</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1232</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T171900Z" creationid="sasPC\Sash" changedate="20220824T222314Z" changeid="sasPC\Sash" lastusagedate="20220824T222314Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">4772320274348775542, 1223045820540621072</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 16(2), in conjunction with Article 114(1) thereof, |  | Имајќи го предвид Договорот за функционирање на Европската унија, а особено членовите 16(2) во врска со член 114(1) од него, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>иИмајќи го предвид предлогот од Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1232</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210323T141044Z" creationid="sasPC\Sash" changedate="20220824T222355Z" changeid="sasPC\Sash" lastusagedate="20220824T222355Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">4299941085, 612546094</prop>
+      <prop type="x-Context">-7799275716982960255, -1406250987786044622</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the European Commission, |  | Имајќи го предвид предлогот од Европската комисија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>After transmission of the draft legislative act to the national parliaments,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>пПо доставување на нацрт-законодавниот акт до националните парламенти,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1232</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T172231Z" creationid="sasPC\Sash" changedate="20220824T222355Z" changeid="sasPC\Sash" lastusagedate="20220824T222355Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-8428148328744422, -1269320548716298125</prop>
+      <prop type="x-ContextContent">After transmission of the draft legislative act to the national parliaments, |  | По доставување на нацрт-законодавниот акт до националните парламенти, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the opinion of the European Economic and Social Committee (<ph x="1" type="151" />),</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>иИмајќи го предвид мислењето на Европскиот економско-социјален комитет (),</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1232</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

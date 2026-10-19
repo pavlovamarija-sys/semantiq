@@ -1,0 +1,23 @@
+{
+  "status": "NOT_AVAILABLE",
+  "celex": "32006L0126",
+  "decisionsReturned": false,
+  "reason": "build_typed_document raised before returning its local decision list.",
+  "failurePoint": {
+    "exceptionType": "StopIteration",
+    "file": "workers/pdf-to-docx/spikes/typed_model_phase1.py",
+    "line": 322,
+    "operation": "next(item for item in fragments if _clean(item.text).upper() == \"PART A\")",
+    "page": 6,
+    "expectedAnchors": [
+      "PART A",
+      "PART B"
+    ],
+    "anchorsPresent": {
+      "PART A": false,
+      "PART B": false
+    }
+  },
+  "algorithmChanges": [],
+  "documentSpecificWorkaroundsIntroduced": []
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "reasonAndEvidenceDistinct": true,
+  "outcomePreserved": true,
+  "ambiguityStatusPreserved": true,
+  "confidenceRangeValidated": true,
+  "provenanceRequired": true,
+  "orderingPreserved": true,
+  "missingFieldsFailAtConstruction": true,
+  "note": "Core algorithm retains its frozen diagnostic records; production contracts enforce the boundary for new callers."
+}

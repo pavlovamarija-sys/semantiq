@@ -1,0 +1,2104 @@
+{
+  "celex": "32025D2637",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D2637\\TMX_MK1\\32025D2637_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D2637\\MK2\\32025D2637_MK2.docx",
+  "tmx_sha256": "b3b1482ff48d61e3d5b30e8f9e97b5b90cc1fe2abcef908032d77ea91ccb7ffd",
+  "mk2_sha256": "73875e6becaf325953a33236a98cec67956dbb23cde118a502444adb4d988951",
+  "original_tus": 59,
+  "accepted_tus": 38,
+  "skipped_tus": 21,
+  "acceptance_percent": 64.41,
+  "mk1_coverage": 81.69,
+  "mk2_coverage": 87.87,
+  "accepted_clean_en_chars": 2684,
+  "accepted_clean_mk2_chars": 2778,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL DECISION (CFSP) 2025/2637",
+      "mk1": "ОДЛУКА (ЗНБП) 2025/2637 НА СОВЕТОТ",
+      "mk2": "ОДЛУКА (ЗНБП) 2025/2637 НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        34
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 22 December 2025",
+      "mk1": "од 22 декември 2025 година",
+      "mk2": "од 22 декември 2025 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        35,
+        61
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "amending Decision (CFSP) 2024/1484 concerning restrictive measures in view of the situation in Russia",
+      "mk1": "за изменување на Одлуката (ЗНБП) 2024/1484 за рестриктивни мерки во однос на состојбата во Русија",
+      "mk2": "за изменување на Одлуката (ЗНБП) 2024/1484 за рестриктивни мерки во однос на состојбата во Русија",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        2,
+        3
+      ],
+      "mk2_char_span": [
+        62,
+        159
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          3
+        ],
+        "atom_window": [
+          2,
+          3
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 4,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        3,
+        4
+      ],
+      "mk2_char_span": [
+        160,
+        188
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          4,
+          4
+        ],
+        "atom_window": [
+          3,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 29 thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унијата, а особено член 29 од истиот,",
+      "mk2": "имајќи го предвид Договорот за Европската Унијата, а особено член 29 од истиот,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        4,
+        5
+      ],
+      "mk2_char_span": [
+        189,
+        268
+      ],
+      "evidence": {
+        "token_count": 13,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          5
+        ],
+        "atom_window": [
+          4,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,",
+      "mk1": "имајќи ги предвид предлозите на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "mk2": "имајќи ги предвид предлозите на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        269,
+        377
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          6
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "со оглед на тоа што:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        6,
+        7
+      ],
+      "mk2_char_span": [
+        378,
+        398
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          7
+        ],
+        "atom_window": [
+          6,
+          7
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 8,
+      "en": "(1) On 27 May 2024, the Council adopted Decision (CFSP) 2024/1484 ().",
+      "mk1": "(1) На 27 мај 2024 година, Советот ја донесе Одлуката (ЗНБП) 2016/1484 ().",
+      "mk2": "(1)На 27 мај 2024 година, Советот ја донесе Одлуката (ЗНБП) 202146/1484 ().",
+      "score": 0.9848484848484849,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        7,
+        8
+      ],
+      "mk2_char_span": [
+        399,
+        474
+      ],
+      "evidence": {
+        "token_count": 45,
+        "references_preserved": false,
+        "neighbor_window": [
+          8,
+          9
+        ],
+        "atom_window": [
+          7,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 9,
+      "en": "Council Decision (CFSP) 2024/1484 of 27 May 2024 concerning restrictive measures in view of the situation in Russia (OJ L, 2024/1484, 27.5.2024, ELI: http://data.europa.eu/eli/dec/2024/1484/oj).",
+      "mk1": "Одлука (ЗНБП) 2022/1484 на Советот од 27 мај 2024 година година за рестриктивни мерки во однос на состојбата во Русија (Сл. весник L 2024/1484, 27.5.2024 година, ELI: http://data.europa.eu/eli/dec/2024/1484/oj).",
+      "mk2": "Одлука (ЗНБП) 20242/1484 на Советот, од 27 мај 2024 година, година за рестриктивни мерки во однос на состојбата во Русија (Сл. весник L 2024/1484, 27.5.2024 година, ELI: http://data.europa.eu/eli/dec/2024/1484/oj).",
+      "score": 0.9975062344139651,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        7,
+        8
+      ],
+      "mk2_char_span": [
+        474,
+        689
+      ],
+      "evidence": {
+        "token_count": 45,
+        "references_preserved": false,
+        "neighbor_window": [
+          8,
+          9
+        ],
+        "atom_window": [
+          7,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 10,
+      "en": "(2) The Union remains unwavering in its condemnation of the human rights violations and repressions in Russia.",
+      "mk1": "(2) Унијата продолжува непоколебливо да ги осудува повредите на човековите права и репресијата во Русија.",
+      "mk2": "(2)Унијата продолжува непоколебливо да ги осудува повредите прекршувањата на човековите права и репресијата во Русија",
+      "score": 0.9357798165137615,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        8,
+        11
+      ],
+      "mk2_char_span": [
+        690,
+        807
+      ],
+      "evidence": {
+        "token_count": 63,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          11
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 11,
+      "en": "(3) In view of the gravity of the situation, the Council considers that two natural persons should be added to the list of natural and legal persons, entities and bodies set out in the Annex to Decision (CFSP) 2024/1484.",
+      "mk1": "(3) Со оглед на сериозноста на ситуацијата, Советот смета дека две физички лица треба да се додадат на списокот на физички и правни лица, субјекти и тела наведени во Анексот на Одлуката (ЗНБП) 2024/1484.",
+      "mk2": ". (3)Во поглед Со оглед на сериозноста на состојбатаитуацијата, Советот смета дека две физички лица треба да се додадат на списокот на физички и правни лица, субјекти и тела, утврденнаведени во Анексот на кон Одлуката (ЗНБП) 20",
+      "score": 0.9108433734939759,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        8,
+        11
+      ],
+      "mk2_char_span": [
+        807,
+        1034
+      ],
+      "evidence": {
+        "token_count": 63,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          11
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 12,
+      "en": "(4) Decision (CFSP) 2024/1484 should therefore be amended accordingly,",
+      "mk1": "(4) Затоа, Одлуката (ЗНБП) 2024/1484 треба соодветно да се измени,",
+      "mk2": "24/1484. (4)Затоа, Одлуката (ЗНБП) 2024/1484 треба соодветно да се измени,",
+      "score": 0.9375,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        8,
+        11
+      ],
+      "mk2_char_span": [
+        1034,
+        1108
+      ],
+      "evidence": {
+        "token_count": 63,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          11
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 13,
+      "en": "HAS ADOPTED THIS DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "mk2": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        1109,
+        1131
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          13
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 14,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "Член 1",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        1132,
+        1138
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          14
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 15,
+      "en": "The Annex to Decision (CFSP) 2024/1484 is amended in accordance with the Annex to this Decision.",
+      "mk1": "Анексот кон Одлуката(ЗНБП) 2024/1484 се изменува во согласност со Анексот кон оваа одлука.",
+      "mk2": "Анексот кон Одлуката (ЗНБП) 2024/1484 се изменува во согласност со Анексот кон оваа одлука.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        13,
+        14
+      ],
+      "mk2_char_span": [
+        1139,
+        1230
+      ],
+      "evidence": {
+        "token_count": 14,
+        "references_preserved": true,
+        "neighbor_window": [
+          15,
+          15
+        ],
+        "atom_window": [
+          13,
+          14
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 16,
+      "en": "This Decision shall enter into force on the date of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "Член 2 Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија",
+      "score": 0.9665071770334929,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        14,
+        17
+      ],
+      "mk2_char_span": [
+        1231,
+        1339
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          16,
+          17
+        ],
+        "atom_window": [
+          14,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 17,
+      "en": "Done at Brussels, 22 December 2025.",
+      "mk1": "Брисел, 22 декември 2025 година.",
+      "mk2": ". Брисел, 22 декември 2025 година.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        14,
+        17
+      ],
+      "mk2_char_span": [
+        1339,
+        1373
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          16,
+          17
+        ],
+        "atom_window": [
+          14,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 18,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "За Советот",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        17,
+        18
+      ],
+      "mk2_char_span": [
+        1374,
+        1384
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          18,
+          18
+        ],
+        "atom_window": [
+          17,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 19,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "Претседател",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        18,
+        19
+      ],
+      "mk2_char_span": [
+        1385,
+        1396
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          19,
+          19
+        ],
+        "atom_window": [
+          18,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 20,
+      "en": "M. BJERRE",
+      "mk1": "М. БЈЕРРЕ",
+      "mk2": "М. БЈЕРРЕ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        19,
+        20
+      ],
+      "mk2_char_span": [
+        1397,
+        1406
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          20
+        ],
+        "atom_window": [
+          19,
+          20
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 21,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "mk2": "АНЕКС",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        20,
+        21
+      ],
+      "mk2_char_span": [
+        1407,
+        1412
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          21,
+          21
+        ],
+        "atom_window": [
+          20,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 22,
+      "en": "In the Annex to Decision (CFSP) 2024/1484, the following entries are added under heading ‘A. Natural persons’:",
+      "mk1": "Во Анексот кон Одлуката (ЗНБП) 2024/1484, под насловот „А. Физички лица“, се додаваат следниве внесови:",
+      "mk2": "Во Анексот кон Одлуката (ЗНБП) 2024/1484, во делот под насловот „А. Физички лица“, се додаваат следниве внесови",
+      "score": 0.9547738693467337,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        21,
+        24
+      ],
+      "mk2_char_span": [
+        1413,
+        1524
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          24
+        ],
+        "atom_window": [
+          21,
+          24
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 23,
+      "en": "Name",
+      "mk1": "Име",
+      "mk2": ": И",
+      "score": 0.5,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        21,
+        24
+      ],
+      "mk2_char_span": [
+        1524,
+        1527
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          24
+        ],
+        "atom_window": [
+          21,
+          24
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 24,
+      "en": "Identifying information",
+      "mk1": "Информации за идентификација",
+      "mk2": "ме Информации за идентификација",
+      "score": 0.9491525423728814,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        21,
+        24
+      ],
+      "mk2_char_span": [
+        1527,
+        1558
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          24
+        ],
+        "atom_window": [
+          21,
+          24
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 25,
+      "en": "Statement of Reasons",
+      "mk1": "Изјава за причините",
+      "mk2": "Изјава за причините",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        24,
+        25
+      ],
+      "mk2_char_span": [
+        1559,
+        1578
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          25,
+          25
+        ],
+        "atom_window": [
+          24,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 26,
+      "en": "Date of listing",
+      "mk1": "Датум на внесување во список",
+      "mk2": "Датум на внесување во список",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        25,
+        26
+      ],
+      "mk2_char_span": [
+        1579,
+        1607
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          26,
+          26
+        ],
+        "atom_window": [
+          25,
+          26
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 27,
+      "en": "‘53.",
+      "mk1": "„53.",
+      "mk2": "„53.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        26,
+        27
+      ],
+      "mk2_char_span": [
+        1608,
+        1612
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          27,
+          27
+        ],
+        "atom_window": [
+          26,
+          27
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 28,
+      "en": "Dmitry Sergeyevich GORDEEV",
+      "mk1": "Dmitry Sergeyevich GORDEEV",
+      "mk2": "Dmitry Sergeyevich GORDEEV",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        27,
+        28
+      ],
+      "mk2_char_span": [
+        1613,
+        1639
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          28,
+          28
+        ],
+        "atom_window": [
+          27,
+          28
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 29,
+      "en": "(Дмитрий Сергеевич ГОРДЕЕВ)",
+      "mk1": "(Дмитрий Сергеевич ГОРДЕЕВ)",
+      "mk2": "(Дмитрий Сергеевич ГОРДЕЕВ)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        28,
+        29
+      ],
+      "mk2_char_span": [
+        1640,
+        1667
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          29,
+          29
+        ],
+        "atom_window": [
+          28,
+          29
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 30,
+      "en": "Position:",
+      "mk1": "Позиција:",
+      "mk2": "Позиција:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        29,
+        30
+      ],
+      "mk2_char_span": [
+        1668,
+        1677
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          30,
+          31
+        ],
+        "atom_window": [
+          29,
+          30
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 31,
+      "en": "Judge of the Moscow City Court",
+      "mk1": "Судија во Судот на град Москва",
+      "mk2": "Ссудија во Судот на град Москва",
+      "score": 0.9836065573770492,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        29,
+        30
+      ],
+      "mk2_char_span": [
+        1677,
+        1709
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          30,
+          31
+        ],
+        "atom_window": [
+          29,
+          30
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 32,
+      "en": "DOB:",
+      "mk1": "Датум на раѓање:",
+      "mk2": "Датум на раѓање:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        30,
+        31
+      ],
+      "mk2_char_span": [
+        1710,
+        1727
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          32,
+          33
+        ],
+        "atom_window": [
+          30,
+          31
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 33,
+      "en": "9.8.1983",
+      "mk1": "9.8.1983 година",
+      "mk2": "9.8.1983 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        30,
+        31
+      ],
+      "mk2_char_span": [
+        1727,
+        1742
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          32,
+          33
+        ],
+        "atom_window": [
+          30,
+          31
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 34,
+      "en": "Nationality:",
+      "mk1": "Државјанство на:",
+      "mk2": "Државјанство на: н",
+      "score": 0.9375,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        31,
+        33
+      ],
+      "mk2_char_span": [
+        1743,
+        1761
+      ],
+      "evidence": {
+        "token_count": 6,
+        "references_preserved": true,
+        "neighbor_window": [
+          34,
+          36
+        ],
+        "atom_window": [
+          31,
+          33
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 35,
+      "en": "Russian",
+      "mk1": "Русија",
+      "mk2": "а Русиј",
+      "score": 0.7692307692307693,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        31,
+        33
+      ],
+      "mk2_char_span": [
+        1761,
+        1768
+      ],
+      "evidence": {
+        "token_count": 6,
+        "references_preserved": true,
+        "neighbor_window": [
+          34,
+          36
+        ],
+        "atom_window": [
+          31,
+          33
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 36,
+      "en": "Gender: male",
+      "mk1": "Пол: машки",
+      "mk2": "а Пол: машки",
+      "score": 0.9,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        31,
+        33
+      ],
+      "mk2_char_span": [
+        1768,
+        1780
+      ],
+      "evidence": {
+        "token_count": 6,
+        "references_preserved": true,
+        "neighbor_window": [
+          34,
+          36
+        ],
+        "atom_window": [
+          31,
+          33
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 37,
+      "en": "Dmitry Gordeev is a judge of the Moscow City Court and formerly of the Tverskoy District Court in the city of Moscow.",
+      "mk1": "Dmitry Gordeev е судија во Судот на град Москва, а пред тоа и на Окружниот суд Тверској во град Москва.",
+      "mk2": "Dmitry Gordeev е судија во Судот на град Москва, а пред тоа и на Окружниот суд Тверској, во град Москва.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        33,
+        34
+      ],
+      "mk2_char_span": [
+        1781,
+        1885
+      ],
+      "evidence": {
+        "token_count": 20,
+        "references_preserved": true,
+        "neighbor_window": [
+          37,
+          37
+        ],
+        "atom_window": [
+          33,
+          34
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 38,
+      "en": "Dmitry Gordeev has repeatedly issued politically motivated rulings against opposition figures and human rights defenders.",
+      "mk1": "Dmitry Gordeev постојано донесувал политички мотивирани пресуди против членови на опозицијата и бранители на човекови права.",
+      "mk2": "Dmitry Gordeev постојано донесувал политички мотивирани пресуди против членови на опозицијата и бранителите на човекови права. Неговото судско однесување покажува системско непочитување на основните",
+      "score": 0.76875,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        34,
+        35
+      ],
+      "mk2_char_span": [
+        1886,
+        2085
+      ],
+      "evidence": {
+        "token_count": 111,
+        "references_preserved": true,
+        "neighbor_window": [
+          38,
+          40
+        ],
+        "atom_window": [
+          34,
+          35
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 39,
+      "en": "His judicial conduct demonstrates systematic disregard for fundamental standards of impartial justice.",
+      "mk1": "Неговото судско однесување покажува системско непочитување на основните стандарди за непристрасна правда.",
+      "mk2": "стандарди за непристрасна правда. Тој редовно одбива да испита ослободителни докази, вклучително и видео снимки што се спротивставуваат на тврдењата на полицијата, и по",
+      "score": 0.2379182156133829,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        34,
+        35
+      ],
+      "mk2_char_span": [
+        2085,
+        2253
+      ],
+      "evidence": {
+        "token_count": 111,
+        "references_preserved": true,
+        "neighbor_window": [
+          38,
+          40
+        ],
+        "atom_window": [
+          34,
+          35
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 40,
+      "en": "He routinely refuses to examine exculpatory evidence, including video recordings contradicting police claims, and consistently accepts unverified or copied police reports from his former colleagues, revealing bias, conflict of interest and a lack of judicial independence.",
+      "mk1": "Тој редовно одбива да испита ослободителни докази, вклучително и видео снимки што се спротивставуваат на тврдењата на полицијата, и постојано прифаќа непроверени или копирани полициски извештаи од неговите поранешни колеги што откриваат пристрасност, судир на интереси и недостаток на судска независност.",
+      "mk2": "стојано прифаќа непроверени или копирани полициски извештаи од неговите поранешни колеги што откриваат пристрасност, судир на интереси и недостигаток на судска независност. Неговите пресуди формираат препознатлив и политички мотивиран модел, усогласен со интересите на руските безбедносни служби. Неговата улога е опишана како дел од „репресивна машина“ што мора да функционира беспрекорно, со што се нагласува неговата централна функција во спроведувањето на политички мотивирани гонења.",
+      "score": 0.4307692307692308,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        34,
+        35
+      ],
+      "mk2_char_span": [
+        2253,
+        2741
+      ],
+      "evidence": {
+        "token_count": 111,
+        "references_preserved": true,
+        "neighbor_window": [
+          38,
+          40
+        ],
+        "atom_window": [
+          34,
+          35
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 41,
+      "en": "His rulings form a recognisable, politically driven pattern aligned with the interests of the Russian security services.",
+      "mk1": "Неговите пресуди формираат препознатлив и политички мотивиран модел усогласен со интересите на руските безбедносни служби.",
+      "mk2": "",
+      "score": 0.5363247863247863,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 42,
+      "en": "His role has been described as part of a “repressive machine” that has to operate without failures, underscoring his central function in implementing politically motivated prosecutions.",
+      "mk1": "Неговата улога е опишана како дел од „репресивна машина“ што мора да функционира беспрекорно, со што се нагласува неговата централна функција во спроведувањето на политички мотивирани гонења.",
+      "mk2": "",
+      "score": 0.3959537572254335,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "Through his repeated actions, Dmitry Gordeev has repressed civil society, democratic opposition and human rights defenders, undermined judicial independence and the rule of law, and actively facilitated politically motivated prosecutions.",
+      "mk1": "Со своите повторливи постапки, Dmitry Gordeev го потиснуваше граѓанското општество, демократската опозиција и борците за човекови права, ја поткопуваше независноста на судството и владеењето на правото и активно посредуваше во политички мотивирани гонења.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "His decisions materially support and enable the continued operation of Russia’s repressive State apparatus.",
+      "mk1": "Неговите одлуки материјално ја поддржуваат и овозможуваат континуираната работа на рускиот репресивен државен апарат.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "Therefore, Dmitry Gordeev is responsible for serious violations of human rights, the repression of civil society and democratic opposition, and activities that seriously undermine democracy and the rule of law in Russia.",
+      "mk1": "Затоа, Dmitry Gordeev е одговорен за сериозни кршења на човековите права, репресија на граѓанското општество и демократската опозиција и дејствија што сериозно ја поткопуваат демократијата и владеењето на правото во Русија.",
+      "mk2": "",
+      "score": 0.1532567049808429,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 46,
+      "en": "22.12.2025",
+      "mk1": "22.12.2025 година",
+      "mk2": "54. Lyudmi",
+      "score": 0.07692307692307693,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        38,
+        40
+      ],
+      "mk2_char_span": [
+        3381,
+        3391
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": false,
+        "neighbor_window": [
+          46,
+          48
+        ],
+        "atom_window": [
+          38,
+          40
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 47,
+      "en": "54.",
+      "mk1": "54.",
+      "mk2": "la",
+      "score": 0.0,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        38,
+        40
+      ],
+      "mk2_char_span": [
+        3391,
+        3393
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": false,
+        "neighbor_window": [
+          46,
+          48
+        ],
+        "atom_window": [
+          38,
+          40
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 48,
+      "en": "Lyudmila BALANDINA",
+      "mk1": "Lyudmila BALANDINA",
+      "mk2": "BALANDINA",
+      "score": 0.6666666666666666,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        38,
+        40
+      ],
+      "mk2_char_span": [
+        3393,
+        3403
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": false,
+        "neighbor_window": [
+          46,
+          48
+        ],
+        "atom_window": [
+          38,
+          40
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 49,
+      "en": "(Людмила БАЛАНДИНА)",
+      "mk1": "(Людмила БАЛАНДИНА)",
+      "mk2": "(Людмила БАЛАНДИНА)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        40,
+        41
+      ],
+      "mk2_char_span": [
+        3404,
+        3423
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          49,
+          49
+        ],
+        "atom_window": [
+          40,
+          41
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 50,
+      "en": "Prosecutor",
+      "mk1": "Обвинителка",
+      "mk2": "Позиција: оОбвинителка",
+      "score": 0.6875,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        41,
+        43
+      ],
+      "mk2_char_span": [
+        3424,
+        3446
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          50,
+          51
+        ],
+        "atom_window": [
+          41,
+          43
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 51,
+      "en": "16.11.1984",
+      "mk1": "16.11.1984 година",
+      "mk2": "Датум на раѓање: 16.11.1984 година",
+      "score": 0.68,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        41,
+        43
+      ],
+      "mk2_char_span": [
+        3446,
+        3481
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          50,
+          51
+        ],
+        "atom_window": [
+          41,
+          43
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 52,
+      "en": "Gender: female",
+      "mk1": "Пол: женски",
+      "mk2": "Државјанство н",
+      "score": 0.25,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        43,
+        46
+      ],
+      "mk2_char_span": [
+        3482,
+        3496
+      ],
+      "evidence": {
+        "token_count": 43,
+        "references_preserved": true,
+        "neighbor_window": [
+          52,
+          53
+        ],
+        "atom_window": [
+          43,
+          46
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 53,
+      "en": "Lyudmila Balandina is a prosecutor who has played a key role in several high-profile cases characterised by serious violations of human rights and repression of individuals critical of the Russian authorities or supportive of Ukraine.",
+      "mk1": "Lyudmila Balandina е обвинителка која одигра клучна улога во неколку високопрофилни случаи кои истакнуваат сериозни кршења на човековите права и репресија врз поединци кои се критични кон руските власти или ја поддржуваат Украина.",
+      "mk2": "а: на Русија Пол: женски Lyudmila Balandina е обвинителка која одигра клучна улога во неколку високопрофилни случаи од висок профил, кои истакнуваат сериозни кршења прекршувања на човековите права и репресија врз поединци кои се критични кон руските власти или ја поддржуваат Украина.",
+      "score": 0.899803536345776,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        43,
+        46
+      ],
+      "mk2_char_span": [
+        3496,
+        3780
+      ],
+      "evidence": {
+        "token_count": 43,
+        "references_preserved": true,
+        "neighbor_window": [
+          52,
+          53
+        ],
+        "atom_window": [
+          43,
+          46
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 54,
+      "en": "Lyudmila Balandina has systematically abused her position as a State prosecutor to pursue politically motivated charges, employ ideological rhetoric aligned with Kremlin propaganda and seek excessive punishments for acts of peaceful expression.",
+      "mk1": "Lyudmila Balandina систематски ја злоупотребува својата позиција како државна обвинителка за да покрене политички мотивирани обвиненија, да користи идеолошка реторика усогласена со пропагандата на Кремљ и да бара високи казни за мирно изразување.",
+      "mk2": "Lyudmila Balandina систематски ја злоупотребува својата позиција како државна обвинителка за да покрене политички мотивирани обвиненија, да користи идеолошка реторика усогласена со пропагандата на Кремљ и да бара високи казни за мирно изразување. Неј",
+      "score": 0.991869918699187,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        46,
+        47
+      ],
+      "mk2_char_span": [
+        3781,
+        4031
+      ],
+      "evidence": {
+        "token_count": 70,
+        "references_preserved": true,
+        "neighbor_window": [
+          54,
+          55
+        ],
+        "atom_window": [
+          46,
+          47
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 55,
+      "en": "Her conduct demonstrates an ongoing and deliberate effort to repress civil society, silence dissent and legitimise State narratives that equate criticism of the Russian Government or support for Ukraine with extremism or terrorism.",
+      "mk1": "Нејзиното однесување демонстрира одржлив и намерен напор за потиснување на граѓанското општество, замолчување на несогласувањето и легитимирање на државните наративи кои ја изедначуваат критиката кон руската влада или поддршката за Украина со екстремизам или тероризам.",
+      "mk2": "зиното однесување демонстрира одржлив и намерен напор за потиснување на граѓанското општество, замолчување на несогласувањето и легитимирање на државните нарации,тиви кои ја изедначуваат критиката кон руската влада или поддршката за Украина со екстремизам или со тероризам.",
+      "score": 0.9814126394052045,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        46,
+        47
+      ],
+      "mk2_char_span": [
+        4031,
+        4304
+      ],
+      "evidence": {
+        "token_count": 70,
+        "references_preserved": true,
+        "neighbor_window": [
+          54,
+          55
+        ],
+        "atom_window": [
+          46,
+          47
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 56,
+      "en": "By initiating and sustaining such prosecutions, Lyudmila Balandina has been directly involved in serious violations and abuses of human rights, including violations of the freedom of expression, the right to a fair trial and the prohibition of arbitrary prosecution, as protected under the International Covenant on Civil and Political Rights and the European Convention on Human Rights.",
+      "mk1": "Со иницирање и одржување на овие гонења, Lyudmila Balandina е директно вмешана во сериозни кршења и злоупотреби на човековите права, вклучително и кршење на слободата на изразување, правото на фер судење и забраната за произволно гонење, како што е заштитено со Меѓународниот пакт за граѓански и политички права и Европската конвенција за човекови права.",
+      "mk2": "Со иницирање и одржување на овие гонења, Lyudmila Balandina е директно вмешана во сериозни кршења прекршувања и злоупотреби на човековите права, вклучително и кршење прекршувања на слободата на изразување, правото на фер судење и забраната за произволно гонење, како што е заштитено со Меѓународниот пакт за граѓански и политички права и Европската конвенција за човеков",
+      "score": 0.9566433566433566,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        47,
+        49
+      ],
+      "mk2_char_span": [
+        4305,
+        4675
+      ],
+      "evidence": {
+        "token_count": 102,
+        "references_preserved": true,
+        "neighbor_window": [
+          56,
+          57
+        ],
+        "atom_window": [
+          47,
+          49
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 57,
+      "en": "Lyudmila Balandina’s activities seriously undermine democracy and the rule of law in Russia, by turning the judicial system into a tool of political persecution and contributing to the broader pattern of State repression against journalists, cultural figures and opposition voices.",
+      "mk1": "Со своите постапки, Lyudmila Balandina сериозно ја загрозува демократијата и владеењето на правото во Русија со тоа што го претвора судскиот систем во алатка за политички прогон и со тоа што придонесува за поширок модел на државна репресија врз новинари, културни личности и опозициски гласови.",
+      "mk2": "и права. Со своите постапки, Lyudmila Balandina сериозно ја загрозува демократијата и владеењето на правото во Русија, со тоа што го претвора судскиот систем во алатка за политички прогон и со тоа што придонесува за поширок модел на државна репресија врз новинари, културни личности и врз опозициски гласови.",
+      "score": 0.9797979797979798,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        47,
+        49
+      ],
+      "mk2_char_span": [
+        4675,
+        4983
+      ],
+      "evidence": {
+        "token_count": 102,
+        "references_preserved": true,
+        "neighbor_window": [
+          56,
+          57
+        ],
+        "atom_window": [
+          47,
+          49
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 58,
+      "en": "Therefore, Lyudmila Balandina is responsible for serious violations of human rights, the repression of civil society and democratic opposition, and activities that seriously undermine democracy and the rule of law in Russia.",
+      "mk1": "Затоа, Lyudmila Balandina е одговорна за сериозни кршења на човековите права, репресија врз граѓанското општество и демократската опозиција и активности што сериозно ја поткопуваат демократијата и владеењето на правото во Русија.",
+      "mk2": "Затоа, Lyudmila Balandina е одговорна за сериозни кршења прекршувања на човековите права, репресија врз граѓанското општество и демократската опозиција и активности што сериозно ја поткопуваат демократијата и владеењето на правото во Русија.",
+      "score": 0.9741379310344828,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        49,
+        51
+      ],
+      "mk2_char_span": [
+        4984,
+        5225
+      ],
+      "evidence": {
+        "token_count": 36,
+        "references_preserved": true,
+        "neighbor_window": [
+          58,
+          59
+        ],
+        "atom_window": [
+          49,
+          51
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 59,
+      "en": "22.12.2025’",
+      "mk1": "22.12.2025 година“",
+      "mk2": "22.12.2025 година“",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        49,
+        51
+      ],
+      "mk2_char_span": [
+        5225,
+        5244
+      ],
+      "evidence": {
+        "token_count": 36,
+        "references_preserved": true,
+        "neighbor_window": [
+          58,
+          59
+        ],
+        "atom_window": [
+          49,
+          51
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 1,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32025D2637",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL DECISION (CFSP) 2025/2637 of 22 December 2025 amending Decision (CFSP) 2024/1484 concerning restrictive measures in view of the situation in Russia",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2025/2637 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 22 декември 2025 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката (ЗНБП) 2024/1484 за рестриктивни мерки во однос на состојбата во Русија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Рестриктивни мерки, човекови права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ангела Николова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "12.2.2026 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Exculpatory evidence",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ослободителни докази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://recnik.off.net.mk/recnik/angliski-makedonski/exculpation",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32025D2637",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL DECISION (CFSP) 2025/2637 of 22 December 2025 amending Decision (CFSP) 2024/1484 concerning restrictive measures in view of the situation in Russia",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2025/2637 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 22 декември 2025 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката (ЗНБП) 2024/1484 за рестриктивни мерки во однос на состојбата во Русија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Рестриктивни мерки, човекови права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Павлова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Human rights violations",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Кршења на човековите права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прекршувања на човековите права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.coe.int/mk/web/compass/questions-and-answers-about-human-rights",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Одлука (ЗНБП) 20242/1484 на Советот, од 27 мај 2024 година, година за рестриктивни мерки во однос на состојбата во Русија (Сл. весник L 2024/1484, 27.5.2024 година, ELI: http://data.europa.eu/eli/dec/2024/1484/oj).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 7,
+        "text": "Одлука (ЗНБП) 20242/1484 на Советот, од 27 мај 2024 година, година за рестриктивни мерки во однос на состојбата во Русија (Сл. весник L 2024/1484, 27.5.2024 година, ELI: http://data.europa.eu/eli/dec/2024/1484/oj)."
+      }
+    ]
+  },
+  "dry_run": true
+}

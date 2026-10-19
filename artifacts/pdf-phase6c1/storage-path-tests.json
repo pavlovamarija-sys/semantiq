@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "tests": 2,
+  "pathTemplate": "{owner_id}/{project_id}/{document_id}/{document_version_id}/artifacts/{artifact_id}/{sanitized_filename}",
+  "deterministic": true,
+  "traversalRejected": ["../x.pdf", "..\\x.pdf", "%2e%2e%2fx.pdf", "a/b.pdf", "a\\b.pdf"],
+  "filenameIsIdentity": false,
+  "artifactIdIsPathIdentity": true
+}

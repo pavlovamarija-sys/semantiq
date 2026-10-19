@@ -1,0 +1,1105 @@
+{
+  "summary": {
+    "tests": 20,
+    "number_reference_omission_cases": 4,
+    "number_reference_addition_cases": 5,
+    "structural_difference_cases": 13,
+    "possible_omission_cases": 4,
+    "terminology_evidence_used": 0,
+    "note": "Automated comparison flags review candidates; it does not claim legal equivalence or replace professional assessment."
+  },
+  "tests": [
+    {
+      "id": "02002F0465:3",
+      "celex": "02002F0465",
+      "en_source": "The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex.",
+      "allowed_evidence": {
+        "exact_approved_tm": [],
+        "strong_fuzzy_approved_tm": [],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02002F0465"
+        }
+      },
+      "generated_mk1": "Автентичните верзии на релевантните акти, вклучувајќи ги и нивните уводни делови, се оние објавени во Службен весник на Европската Унија и достапни на EUR-Lex.",
+      "hidden_professional_mk2": "и нивните преамбули, се оние објавени во Службениот весник на Европската Унија и се достапни на EURЕУР-LexЛексЕУР-Лекс. Тие официјални текстови се директно достапни преку врските вметнати во овој документ ►B РАМКОВНА ОДЛУКА НА СОВЕТОТ",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 125,
+        "completion_tokens": 58,
+        "total_tokens": 183,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 2911.05,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [],
+        "structural_differences": [],
+        "terminology_evidence_used": [],
+        "generated_length": 159,
+        "target_length": 234,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02003R1560:68",
+      "celex": "02003R1560",
+      "en_source": "The arguments in law and in fact set out in the request shall be examined in the light of the provisions of Regulation (EC) No 343/2003 and the lists of proof and circumstantial evidence which are set out in Annex II to the present Regulation.",
+      "allowed_evidence": {
+        "exact_approved_tm": [],
+        "strong_fuzzy_approved_tm": [],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02003R1560"
+        }
+      },
+      "generated_mk1": "Аргументите во право и во факти изложени во барањето ќе се испитуваат во светлината на одредбите на Регулатива (ЕЗ) бр. 343/2003 и листите на докази и индикативни докази кои се наведени во Додаток II на оваа Регулатива.",
+      "hidden_professional_mk2": "Член 3 Обработка на барања за преземање одговорност 1.Аргументите во законот и оние коишто се фактички наведени во барањето се испитуваат во однос на одредбите од Регулативата (ЕЗ) бр. 343/2003 и списоците на докази и посредни докази коишто се утврдени во Анекс II кон оваа рРегулатива.",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 147,
+        "completion_tokens": 76,
+        "total_tokens": 223,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1170.13,
+      "comparison": {
+        "number_reference_omissions": [
+          "3",
+          "1"
+        ],
+        "number_reference_additions": [],
+        "structural_differences": [],
+        "terminology_evidence_used": [],
+        "generated_length": 219,
+        "target_length": 286,
+        "possible_omission": true
+      }
+    },
+    {
+      "id": "02003R1560:69",
+      "celex": "02003R1560",
+      "en_source": "Whatever the criteria and provisions of Regulation (EC) No 343/2003 that are relied on, the requested Member State shall, within the time allowed by Article 18(1) and (6) of that Regulation, check exhaustively and objectively, on the basis of all information directly or indirectly available to it, whether its responsibility for examining the application for asylum is established.",
+      "allowed_evidence": {
+        "exact_approved_tm": [],
+        "strong_fuzzy_approved_tm": [],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02003R1560"
+        }
+      },
+      "generated_mk1": "Без разлика на критериумите и одредбите од Регулатива (ЕЗ) бр. 343/2003 на кои се повикува, бараната држава членка, во рокот утврден со член 18 ставови 1 и 6 од таа регулатива, треба темелно и објективно, врз основа на сите информации кои ѝ се достапни директно или индиректно, да провери дали нејзината одговорност за разгледување на барањето за азил е утврдена.",
+      "hidden_professional_mk2": "2.Без оглед на критериумите и одредбите од Регулативата (ЕЗ) бр. 343/2003 на коишто се потпира, земјата членка до којашто се поднесува барањето, во рокот дозволен со член 18(1) и член 18(6) од таа рРегулатива, исцрпно и објективно проверува, врз основа на сите информации со кои директно или индиректно располага, дали е утврдена нејзината одговорност за испитување на барањето за азил. Доколку пр",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 171,
+        "completion_tokens": 128,
+        "total_tokens": 299,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 2903.68,
+      "comparison": {
+        "number_reference_omissions": [
+          "2"
+        ],
+        "number_reference_additions": [],
+        "structural_differences": [
+          "list"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 363,
+        "target_length": 397,
+        "possible_omission": true
+      }
+    },
+    {
+      "id": "02003R1560:70",
+      "celex": "02003R1560",
+      "en_source": "If the checks by the requested Member State reveal that it is responsible under at least one of the criteria of that Regulation, it shall acknowledge its responsibility.",
+      "allowed_evidence": {
+        "exact_approved_tm": [],
+        "strong_fuzzy_approved_tm": [],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02003R1560"
+        }
+      },
+      "generated_mk1": "Ако проверките од страна на побараната држава членка откријат дека таа е одговорна според барем еден од критериумите на таа Регулатива, таа ќе ја признае својата одговорност.",
+      "hidden_professional_mk2": "оверките на земјата членка до којашто се поднесува барањето покажат дека таа е одговорна според барем еден од критериумите на таа рРегулатива, таа ќе ја признае својата одговорност. Член 4 Обработка на",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 124,
+        "completion_tokens": 56,
+        "total_tokens": 180,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1873.06,
+      "comparison": {
+        "number_reference_omissions": [
+          "4"
+        ],
+        "number_reference_additions": [],
+        "structural_differences": [],
+        "terminology_evidence_used": [],
+        "generated_length": 174,
+        "target_length": 201,
+        "possible_omission": true
+      }
+    },
+    {
+      "id": "02003R1560:87",
+      "celex": "02003R1560",
+      "en_source": "Transfers to the Member State responsible may be carried out in one of the following ways:",
+      "allowed_evidence": {
+        "exact_approved_tm": [
+          {
+            "source_text": "Transfers to the Member State responsible may be carried out in one of the following ways:",
+            "target_text": "фери 1.Трансферите до одговорната земја членка може да се направат на еден од следниве начини:",
+            "celex": "02003R1560",
+            "source_document": "final-clean-en-mk2-corpus/documents/02003R1560_clean_EN_MK2.tmx",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02003R1560:87"
+          }
+        ],
+        "strong_fuzzy_approved_tm": [
+          {
+            "source_text": "Transfers to the Member State responsible may be carried out in one of the following ways:",
+            "target_text": "фери 1.Трансферите до одговорната земја членка може да се направат на еден од следниве начини:",
+            "celex": "02003R1560",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02003R1560:87",
+            "similarity": 1
+          }
+        ],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02003R1560"
+        }
+      },
+      "generated_mk1": "Трансферите до одговорната земја членка може да се направат на еден од следниве начини:",
+      "hidden_professional_mk2": ".Трансферите до одговорната земја членка може да се направат на еден од следниве начини:",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 324,
+        "completion_tokens": 27,
+        "total_tokens": 351,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1073.01,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [],
+        "structural_differences": [],
+        "terminology_evidence_used": [],
+        "generated_length": 87,
+        "target_length": 88,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02003R1560:89",
+      "celex": "02003R1560",
+      "en_source": "(b)\tby supervised departure, with the asylum seeker being accompanied to the point of embarkation by an official of the requesting Member State, the responsible Member State being notified of the place, date and time of the asylum seeker's arrival within an agreed time limit;",
+      "allowed_evidence": {
+        "exact_approved_tm": [
+          {
+            "source_text": "(b)\tby supervised departure, with the asylum seeker being accompanied to the point of embarkation by an official of the requesting Member State, the responsible Member State being notified of the place, date and time of the asylum seeker's arrival within an agreed time limit;",
+            "target_text": "(б)со надгледувано заминување под надзор, при што барателот на азил е придружуван до местото на заминување од службеник на земјата членка којашто го поднесува барањето, а одговорната земја членка е известена за местото, датумот и времето на пристигнувањето на барателот на азил во договорена временска р",
+            "celex": "02003R1560",
+            "source_document": "final-clean-en-mk2-corpus/documents/02003R1560_clean_EN_MK2.tmx",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02003R1560:89"
+          }
+        ],
+        "strong_fuzzy_approved_tm": [
+          {
+            "source_text": "(b)\tby supervised departure, with the asylum seeker being accompanied to the point of embarkation by an official of the requesting Member State, the responsible Member State being notified of the place, date and time of the asylum seeker's arrival within an agreed time limit;",
+            "target_text": "(б)со надгледувано заминување под надзор, при што барателот на азил е придружуван до местото на заминување од службеник на земјата членка којашто го поднесува барањето, а одговорната земја членка е известена за местото, датумот и времето на пристигнувањето на барателот на азил во договорена временска р",
+            "celex": "02003R1560",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02003R1560:89",
+            "similarity": 1
+          }
+        ],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02003R1560"
+        }
+      },
+      "generated_mk1": "(б)со надгледувано заминување под надзор, при што барателот на азил е придружуван до местото на заминување од службеник на земјата членка којашто го поднесува барањето, а одговорната земја членка е известена за местото, датумот и времето на пристигнувањето на барателот на азил во договорена временска рамка;",
+      "hidden_professional_mk2": "вање од службеник на земјата членка којашто го поднесува барањето, а одговорната земја членка е известена за местото, датумот и времето на пристигнувањето на барателот на азил во договорена временска рамка;",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 567,
+        "completion_tokens": 99,
+        "total_tokens": 666,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1936.83,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [],
+        "structural_differences": [
+          "parentheses"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 308,
+        "target_length": 206,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02003R1560:90",
+      "celex": "02003R1560",
+      "en_source": "(c)\tunder escort, the asylum seeker being accompanied by an official of the requesting Member State or by a representative of an agency empowered by the requesting Member State to act in that capacity and handed over to the authorities in the responsible Member State.",
+      "allowed_evidence": {
+        "exact_approved_tm": [],
+        "strong_fuzzy_approved_tm": [],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02003R1560"
+        }
+      },
+      "generated_mk1": "(в) под придружба, барачот на азил да биде придружуван од службено лице на барачката држава членка или од претставник на агенција овластена од барачката држава членка да дејствува во таа улога и предаден на властите во одговорната држава членка.",
+      "hidden_professional_mk2": "ленка којашто го поднесува барањето да дејствува во тоа својство и да го предаде барателот на азил на властите во одговорната земја членка.",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 144,
+        "completion_tokens": 77,
+        "total_tokens": 221,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1736.62,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [],
+        "structural_differences": [
+          "parentheses"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 245,
+        "target_length": 139,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02003R1560:91",
+      "celex": "02003R1560",
+      "en_source": "In the cases referred to in paragraph 1(a) and (b), the applicant shall be supplied with the laissez-passer referred to in Article 19(3) and Article 20(1)(e) of Regulation (EC) No 343/2003, a model of which is set out in Annex IV to the present Regulation, to allow him to enter the Member State responsible and to identify himself on his arrival at the place and time indicated to him at the time of notification of the decision on taking charge or taking back by the Member State responsible.",
+      "allowed_evidence": {
+        "exact_approved_tm": [],
+        "strong_fuzzy_approved_tm": [],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02003R1560"
+        }
+      },
+      "generated_mk1": "Во случаите наведени во став 1(а) и (б), на подносителот му се обезбедува пасошот за премин („laissez-passer“) споменат во член 19 став 3 и член 20 став 1 точка (е) од Регулатива (ЕЗ) бр. 343/2003, чиј модел е утврден во Прилог IV на оваа Регулатива, за да му се овозможи влез во одговорната држава членка и да се идентификува при пристигнувањето на местото и во времето што му се укажани при известувањето за одлуката за преземање или враќање од страна на одговорната држава членка.",
+      "hidden_professional_mk2": "енка и да се идентификува при неговото пристигнување на местото и во времето посочени во моментот на известувањето за одлуката за преземање одговорност или примање назадповторен прием од страна на одговорната земја членка.",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 208,
+        "completion_tokens": 169,
+        "total_tokens": 377,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 2434.3,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [
+          "1",
+          "19",
+          "3",
+          "20",
+          "343/2003"
+        ],
+        "structural_differences": [
+          "parentheses"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 483,
+        "target_length": 222,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02003R1560:104",
+      "celex": "02003R1560",
+      "en_source": "The Member State responsible shall be informed without delay of any postponement due either to an appeal or review procedure with suspensive effect, or physical reasons such as ill health of the asylum seeker, non-availability of transport or the fact that the asylum seeker has withdrawn from the transfer procedure.",
+      "allowed_evidence": {
+        "exact_approved_tm": [
+          {
+            "source_text": "The Member State responsible shall be informed without delay of any postponement due either to an appeal or review procedure with suspensive effect, or physical reasons such as ill health of the asylum seeker, non-availability of transport or the fact that the asylum seeker has withdrawn from the transfer procedure.",
+            "target_text": "1.Одговорната земја членка веднаш се известува за какво било одложување поради жалбена постапка или постапка за повторно разгледување со одложено суспензивно дејство, или поради физички причини како што е лошото здравје на барателот на азил, недостапноста на транспорт или фактот дека барателот на азил се повлекол од постапката",
+            "celex": "02003R1560",
+            "source_document": "final-clean-en-mk2-corpus/documents/02003R1560_clean_EN_MK2.tmx",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02003R1560:104"
+          }
+        ],
+        "strong_fuzzy_approved_tm": [
+          {
+            "source_text": "The Member State responsible shall be informed without delay of any postponement due either to an appeal or review procedure with suspensive effect, or physical reasons such as ill health of the asylum seeker, non-availability of transport or the fact that the asylum seeker has withdrawn from the transfer procedure.",
+            "target_text": "1.Одговорната земја членка веднаш се известува за какво било одложување поради жалбена постапка или постапка за повторно разгледување со одложено суспензивно дејство, или поради физички причини како што е лошото здравје на барателот на азил, недостапноста на транспорт или фактот дека барателот на азил се повлекол од постапката",
+            "celex": "02003R1560",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02003R1560:104",
+            "similarity": 1
+          }
+        ],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02003R1560"
+        }
+      },
+      "generated_mk1": "Одговорната земја членка веднаш се известува за какво било одложување поради жалбена постапка или постапка за повторно разгледување со одложено суспензивно дејство, или поради физички причини како што е лошото здравје на барателот на азил, недостапноста на транспорт или фактот дека барателот на азил се повлекол од постапката.",
+      "hidden_professional_mk2": "акво било одложување поради жалбена постапка или постапка за повторно разгледување со одложено суспензивно дејство, или поради физички причини како што е лошото здравје на барателот на азил, недостапноста на транспорт или фактот дека барателот на азил се повлекол од постапката за трансфер.",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 583,
+        "completion_tokens": 101,
+        "total_tokens": 684,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1564.16,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [],
+        "structural_differences": [],
+        "terminology_evidence_used": [],
+        "generated_length": 327,
+        "target_length": 290,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02003R1560:105",
+      "celex": "02003R1560",
+      "en_source": "Where a transfer has been delayed at the request of the transferring Member State, the transferring and the responsible Member States must resume communication in order to allow for a new transfer to be organised as soon as possible, in accordance with Article 8, and no later than two weeks from the moment the authorities become aware of the cessation of the circumstances that caused the delay or postponement.",
+      "allowed_evidence": {
+        "exact_approved_tm": [],
+        "strong_fuzzy_approved_tm": [],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02003R1560"
+        }
+      },
+      "generated_mk1": "Кога преносот е одложен по барање на преносната држава членка, преносната и одговорната држава членка мора да ја обноват комуникацијата за да се овозможи организирање на нов пренос што е можно поскоро, во согласност со член 8, и не подоцна од две недели од моментот кога властите ќе станат свесни за престанокот на околностите што предизвикале одложување или одложување.",
+      "hidden_professional_mk2": "можно поскоро, во согласност со член 8, но најдоцна во рок од две недели откако властите се известени за престанокот на околностите коишто го предизвикале доцнењето или одложувањето. Во таков случај, пред трансферот се испраќа ажуриран стандарден образец за пренос на податоци пред трансферот, како што е утврдено во Анекс VI.",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 169,
+        "completion_tokens": 116,
+        "total_tokens": 285,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1644.62,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [],
+        "structural_differences": [],
+        "terminology_evidence_used": [],
+        "generated_length": 370,
+        "target_length": 326,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02003R1560:119",
+      "celex": "02003R1560",
+      "en_source": "The situations of dependency referred to in Article 15(2) of Regulation (EC) No 343/2003 shall be assessed, as far as possible, on the basis of objective criteria such as medical certificates.",
+      "allowed_evidence": {
+        "exact_approved_tm": [],
+        "strong_fuzzy_approved_tm": [],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02003R1560"
+        }
+      },
+      "generated_mk1": "Ситуациите на зависност на кои се однесува член 15 став 2 од Регулатива (ЕЗ) бр. 343/2003, колку што е можно, треба да се оценуваат врз основа на објективни критериуми како што се медицински уверенија.",
+      "hidden_professional_mk2": "н 15(2) од Регулативата (ЕЗ) бр. 343/2003 се проценуваат, колку што е можно, врз основа на објективни критериуми како што се медицинските потврди. Во случај кога таквите докази не се достапни или не можат да се достават, хуманитарните основи се сметаат за докажани само врз основа на убедливи информации доставени од засегнатите лица.",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 138,
+        "completion_tokens": 69,
+        "total_tokens": 207,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1490.51,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [],
+        "structural_differences": [],
+        "terminology_evidence_used": [],
+        "generated_length": 201,
+        "target_length": 334,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02005F0214:124",
+      "celex": "02005F0214",
+      "en_source": "The competent authorities in the executing State may refuse to recognise and execute the decision if the certificate provided for in Article 4 is not produced, is incomplete or manifestly does not correspond to the decision.",
+      "allowed_evidence": {
+        "exact_approved_tm": [
+          {
+            "source_text": "The competent authorities in the executing State may refuse to recognise and execute the decision if the certificate provided for in Article 4 is not produced, is incomplete or manifestly does not correspond to the decision.",
+            "target_text": "ките 1.Надлежните органи во земјата извршител може да одбијат да ја признаат и да ја извршат одлуката ако потврдата предвидена во член 4 не е изготвена, ако е нецелосна или не соодветствува со одлуката.",
+            "celex": "02005F0214",
+            "source_document": "final-clean-en-mk2-corpus/documents/02005F0214_clean_EN_MK2.tmx",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:124"
+          }
+        ],
+        "strong_fuzzy_approved_tm": [
+          {
+            "source_text": "The competent authorities in the executing State may refuse to recognise and execute the decision if the certificate provided for in Article 4 is not produced, is incomplete or manifestly does not correspond to the decision.",
+            "target_text": "ките 1.Надлежните органи во земјата извршител може да одбијат да ја признаат и да ја извршат одлуката ако потврдата предвидена во член 4 не е изготвена, ако е нецелосна или не соодветствува со одлуката.",
+            "celex": "02005F0214",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:124",
+            "similarity": 1
+          }
+        ],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02005F0214"
+        }
+      },
+      "generated_mk1": "Надлежните органи во земјата извршител може да одбијат да ја признаат и да ја извршат одлуката ако потврдата предвидена во член 4 не е изготвена, ако е нецелосна или очигледно не соодветствува со одлуката.",
+      "hidden_professional_mk2": "(а)одлуката против казнетото лице во врска со истите дела е донесена во зем",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 470,
+        "completion_tokens": 73,
+        "total_tokens": 543,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1115.74,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [
+          "4"
+        ],
+        "structural_differences": [
+          "parentheses"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 205,
+        "target_length": 75,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02005F0214:125",
+      "celex": "02005F0214",
+      "en_source": "The competent authority in the executing State may also refuse to recognise and execute the decision if it is established that:",
+      "allowed_evidence": {
+        "exact_approved_tm": [
+          {
+            "source_text": "The competent authority in the executing State may also refuse to recognise and execute the decision if it is established that:",
+            "target_text": "2.Надлежниот орган на земјата извршител, исто така, може да одбие да ја признае и да ја изврши одликата ако се утврд",
+            "celex": "02005F0214",
+            "source_document": "final-clean-en-mk2-corpus/documents/02005F0214_clean_EN_MK2.tmx",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:125"
+          }
+        ],
+        "strong_fuzzy_approved_tm": [
+          {
+            "source_text": "The competent authority in the executing State may also refuse to recognise and execute the decision if it is established that:",
+            "target_text": "2.Надлежниот орган на земјата извршител, исто така, може да одбие да ја признае и да ја изврши одликата ако се утврд",
+            "celex": "02005F0214",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:125",
+            "similarity": 1
+          }
+        ],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02005F0214"
+        }
+      },
+      "generated_mk1": "2. Надлежниот орган на земјата извршител, исто така, може да одбие да ја признае и да ја изврши одликата ако се утврди дека:",
+      "hidden_professional_mk2": "јата извршител или во друга земја што не е зем",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 359,
+        "completion_tokens": 43,
+        "total_tokens": 402,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 900.64,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [
+          "2"
+        ],
+        "structural_differences": [
+          "colon",
+          "list"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 124,
+        "target_length": 46,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02005F0214:126",
+      "celex": "02005F0214",
+      "en_source": "(a)\tdecision against the sentenced person in respect of the same acts has been delivered in the executing State or in any State other than the issuing or the executing State, and, in the latter case, that decision has been executed;",
+      "allowed_evidence": {
+        "exact_approved_tm": [
+          {
+            "source_text": "(a)\tdecision against the sentenced person in respect of the same acts has been delivered in the executing State or in any State other than the issuing or the executing State, and, in the latter case, that decision has been executed;",
+            "target_text": "и дека: (а)одлуката против казнетото лице во врска со истите дела е донесена во земјата извршител или во друга земја што не е земјата издавател или земјата извршител и, во првиот случај, дека таа одлука е извршен",
+            "celex": "02005F0214",
+            "source_document": "final-clean-en-mk2-corpus/documents/02005F0214_clean_EN_MK2.tmx",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:126"
+          }
+        ],
+        "strong_fuzzy_approved_tm": [
+          {
+            "source_text": "(a)\tdecision against the sentenced person in respect of the same acts has been delivered in the executing State or in any State other than the issuing or the executing State, and, in the latter case, that decision has been executed;",
+            "target_text": "и дека: (а)одлуката против казнетото лице во врска со истите дела е донесена во земјата извршител или во друга земја што не е земјата издавател или земјата извршител и, во првиот случај, дека таа одлука е извршен",
+            "celex": "02005F0214",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:126",
+            "similarity": 1
+          }
+        ],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02005F0214"
+        }
+      },
+      "generated_mk1": "и дека: (а) одлуката против казнетото лице во врска со истите дела е донесена во земјата извршител или во друга земја што не е земјата издавател или земјата извршител и, во првиот случај, дека таа одлука е извршена;",
+      "hidden_professional_mk2": "јата издавател или земјата извршител и, во првиот случај, дека таа одлука е извршена;",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 497,
+        "completion_tokens": 73,
+        "total_tokens": 570,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1125.65,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [],
+        "structural_differences": [
+          "colon",
+          "parentheses"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 215,
+        "target_length": 85,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02005F0214:128",
+      "celex": "02005F0214",
+      "en_source": "(c)\tthe execution of the decision is statute-barred according to the law of the executing State and the decision relates to acts which fall within the jurisdiction of that State under its own law.",
+      "allowed_evidence": {
+        "exact_approved_tm": [
+          {
+            "source_text": "(c)\tthe execution of the decision is statute-barred according to the law of the executing State and the decision relates to acts which fall within the jurisdiction of that State under its own law.",
+            "target_text": "(в)извршувањето на одлуката е застаренао според правото на земјата извршител и одлуката се однесува на дела што спаѓаат во надлежноста на таа земја според нејзиното законодавство.",
+            "celex": "02005F0214",
+            "source_document": "final-clean-en-mk2-corpus/documents/02005F0214_clean_EN_MK2.tmx",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:128"
+          }
+        ],
+        "strong_fuzzy_approved_tm": [
+          {
+            "source_text": "(c)\tthe execution of the decision is statute-barred according to the law of the executing State and the decision relates to acts which fall within the jurisdiction of that State under its own law.",
+            "target_text": "(в)извршувањето на одлуката е застаренао според правото на земјата извршител и одлуката се однесува на дела што спаѓаат во надлежноста на таа земја според нејзиното законодавство.",
+            "celex": "02005F0214",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:128",
+            "similarity": 1
+          }
+        ],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02005F0214"
+        }
+      },
+      "generated_mk1": "(в) извршувањето на одлуката е застарено според правото на земјата извршител и одлуката се однесува на дела што спаѓаат во надлежноста на таа земја според нејзиното законодавство.",
+      "hidden_professional_mk2": "(i)според правото на земјата извршител се смета дека било целосно или делумно",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 456,
+        "completion_tokens": 64,
+        "total_tokens": 520,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1917.71,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [],
+        "structural_differences": [
+          "list"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 179,
+        "target_length": 77,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02005F0214:131",
+      "celex": "02005F0214",
+      "en_source": "(ii)\thave been committed outside the territory of the issuing State and the law of the executing State does not allow prosecution for the same offences when committed outside its territory;",
+      "allowed_evidence": {
+        "exact_approved_tm": [
+          {
+            "source_text": "(ii)\thave been committed outside the territory of the issuing State and the law of the executing State does not allow prosecution for the same offences when committed outside its territory;",
+            "target_text": "(ii)било извршено надвор од територијата на земјата извршител и правото на земјата извршител не дозволува гонење за исти кривични дела кога се извршени надвор од нејзината територија;",
+            "celex": "02005F0214",
+            "source_document": "final-clean-en-mk2-corpus/documents/02005F0214_clean_EN_MK2.tmx",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:131"
+          }
+        ],
+        "strong_fuzzy_approved_tm": [
+          {
+            "source_text": "(ii)\thave been committed outside the territory of the issuing State and the law of the executing State does not allow prosecution for the same offences when committed outside its territory;",
+            "target_text": "(ii)било извршено надвор од територијата на земјата извршител и правото на земјата извршител не дозволува гонење за исти кривични дела кога се извршени надвор од нејзината територија;",
+            "celex": "02005F0214",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:131",
+            "similarity": 1
+          }
+        ],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02005F0214"
+        }
+      },
+      "generated_mk1": "(ii)било извршено надвор од територијата на земјата извршител и правото на земјата извршител не дозволува гонење за исти кривични дела кога се извршени надвор од нејзината територија;",
+      "hidden_professional_mk2": "дозволува гонење за исти кривични дела кога се извршени надвор од нејзината територија;",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 444,
+        "completion_tokens": 63,
+        "total_tokens": 507,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1191.17,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [],
+        "structural_differences": [
+          "parentheses",
+          "list"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 183,
+        "target_length": 87,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02005F0214:132",
+      "celex": "02005F0214",
+      "en_source": "(e)\tthere is immunity under the law of the executing State, which makes it impossible to execute the decision;",
+      "allowed_evidence": {
+        "exact_approved_tm": [
+          {
+            "source_text": "(e)\tthere is immunity under the law of the executing State, which makes it impossible to execute the decision;",
+            "target_text": "(д)има имунитет според правото на земјата извршител што го прави извршувањето на одлуката невозможно;",
+            "celex": "02005F0214",
+            "source_document": "final-clean-en-mk2-corpus/documents/02005F0214_clean_EN_MK2.tmx",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:132"
+          }
+        ],
+        "strong_fuzzy_approved_tm": [
+          {
+            "source_text": "(e)\tthere is immunity under the law of the executing State, which makes it impossible to execute the decision;",
+            "target_text": "(д)има имунитет според правото на земјата извршител што го прави извршувањето на одлуката невозможно;",
+            "celex": "02005F0214",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:132",
+            "similarity": 1
+          }
+        ],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02005F0214"
+        }
+      },
+      "generated_mk1": "(д)има имунитет според правото на земјата извршител што го прави извршувањето на одлуката невозможно;",
+      "hidden_professional_mk2": "ел поради неговата или нејзината возраст сè у",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 349,
+        "completion_tokens": 33,
+        "total_tokens": 382,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 810.55,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [],
+        "structural_differences": [
+          "semicolon",
+          "parentheses"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 101,
+        "target_length": 45,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02005F0214:133",
+      "celex": "02005F0214",
+      "en_source": "(f)\tthe decision has been imposed on a natural person who under the law of the executing State due to his or her age could not yet have been held criminally liable for the acts in respect of which the decision was passed;",
+      "allowed_evidence": {
+        "exact_approved_tm": [
+          {
+            "source_text": "(f)\tthe decision has been imposed on a natural person who under the law of the executing State due to his or her age could not yet have been held criminally liable for the acts in respect of which the decision was passed;",
+            "target_text": "(ѓ)одлуката била изречена врз физичко лице кое според правото на земјата извршител поради неговата или нејзината возраст сè уште не може да сноси кривична одговорност за делата во врска со кои била донесена одлуката;",
+            "celex": "02005F0214",
+            "source_document": "final-clean-en-mk2-corpus/documents/02005F0214_clean_EN_MK2.tmx",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:133"
+          }
+        ],
+        "strong_fuzzy_approved_tm": [
+          {
+            "source_text": "(f)\tthe decision has been imposed on a natural person who under the law of the executing State due to his or her age could not yet have been held criminally liable for the acts in respect of which the decision was passed;",
+            "target_text": "(ѓ)одлуката била изречена врз физичко лице кое според правото на земјата извршител поради неговата или нејзината возраст сè уште не може да сноси кривична одговорност за делата во врска со кои била донесена одлуката;",
+            "celex": "02005F0214",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:133",
+            "similarity": 1
+          }
+        ],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02005F0214"
+        }
+      },
+      "generated_mk1": "(ѓ) одлуката била изречена врз физичко лице кое според правото на земјата извршител поради неговата или нејзината возраст сè уште не може да сноси кривична одговорност за делата во врска со кои била донесена одлуката;",
+      "hidden_professional_mk2": "ште не може да сноси кривична одговорност за делата во врска со кои била донесена одлуката; ▼К1",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 501,
+        "completion_tokens": 73,
+        "total_tokens": 574,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1183.09,
+      "comparison": {
+        "number_reference_omissions": [
+          "1"
+        ],
+        "number_reference_additions": [],
+        "structural_differences": [
+          "parentheses"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 217,
+        "target_length": 95,
+        "possible_omission": true
+      }
+    },
+    {
+      "id": "02005F0214:154",
+      "celex": "02005F0214",
+      "en_source": "(j)\taccording to the certificate provided for in Article 4, the person did not appear in person, unless the certificate states that the person, having been expressly informed about the proceedings and the possibility to appear in person in a trial, expressly waived his or her right to an oral hearing and has expressly indicated that he or she does not contest the case.",
+      "allowed_evidence": {
+        "exact_approved_tm": [
+          {
+            "source_text": "(j)\taccording to the certificate provided for in Article 4, the person did not appear in person, unless the certificate states that the person, having been expressly informed about the proceedings and the possibility to appear in person in a trial, expressly waived his or her right to an oral hearing and has expressly indicated that he or she does not contest the case.",
+            "target_text": "а; (ѕ)според потврдата предвидена во член 4, лицето не се појавило лично освен ако потврдата вели дека лицето што било јасно известено за постапката и за можноста лично да се појави на судењето, јасно се откажало од неговото или нејзиното право на усно сослушување и јасно навело дека тој или таа не го оспорува случајот.",
+            "celex": "02005F0214",
+            "source_document": "final-clean-en-mk2-corpus/documents/02005F0214_clean_EN_MK2.tmx",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:154"
+          }
+        ],
+        "strong_fuzzy_approved_tm": [
+          {
+            "source_text": "(j)\taccording to the certificate provided for in Article 4, the person did not appear in person, unless the certificate states that the person, having been expressly informed about the proceedings and the possibility to appear in person in a trial, expressly waived his or her right to an oral hearing and has expressly indicated that he or she does not contest the case.",
+            "target_text": "а; (ѕ)според потврдата предвидена во член 4, лицето не се појавило лично освен ако потврдата вели дека лицето што било јасно известено за постапката и за можноста лично да се појави на судењето, јасно се откажало од неговото или нејзиното право на усно сослушување и јасно навело дека тој или таа не го оспорува случајот.",
+            "celex": "02005F0214",
+            "alignment_confidence": "1.0000",
+            "original_tmx_tu_id": "02005F0214:154",
+            "similarity": 1
+          }
+        ],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02005F0214"
+        }
+      },
+      "generated_mk1": "а; (ѕ)според потврдата предвидена во член 4, лицето не се појавило лично освен ако потврдата вели дека лицето што било јасно известено за постапката и за можноста лично да се појави на судењето, јасно се откажало од неговото или нејзиното право на усно сослушување и јасно навело дека тој или таа не го оспорува случајот.",
+      "hidden_professional_mk2": "(в), (е), (з) и (ѕ) пред да се одлучи да не се признае и да се изврши одлуката, дали целосно или делумно, надлежниот орган во земјата извршител го кон",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 647,
+        "completion_tokens": 111,
+        "total_tokens": 758,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1408.16,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [
+          "4"
+        ],
+        "structural_differences": [
+          "semicolon"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 321,
+        "target_length": 150,
+        "possible_omission": false
+      }
+    },
+    {
+      "id": "02005F0214:155",
+      "celex": "02005F0214",
+      "en_source": "In the cases referred to in paragraphs 1 and 2(c), (g), (i) and (j), before deciding not to recognise and to execute a decision, either totally or in part, the competent authority in the executing State shall consult the competent authority in the issuing State, by any appropriate means, and shall, where appropriate, ask it to supply any necessary information without delay.",
+      "allowed_evidence": {
+        "exact_approved_tm": [],
+        "strong_fuzzy_approved_tm": [],
+        "trusted_terminology": [],
+        "source_document_context": {
+          "celex": "02005F0214"
+        }
+      },
+      "generated_mk1": "Во случаите наведени во ставовите 1 и 2 точките (в), (г), (и) и (ј), пред да одлучи да не го признае и да не изврши одлуката, целосно или делумно, надлежниот орган во извршната држава ќе се консултира со надлежниот орган во државата на издавање, со било кој соодветен начин, и, доколку е соодветно, ќе побара од него да достави какви било потребни информации без одлагање.",
+      "hidden_professional_mk2": "султира надлежниот орган во земјата издавател преку сите соодветни средства и, ако е соодветно, бара тоја, без задоцнување, да му ги достави сите потребни информации.",
+      "model": "gpt-4.1-mini",
+      "prompt_version": "mk1-legal-benchmark-v1",
+      "token_usage": {
+        "prompt_tokens": 173,
+        "completion_tokens": 126,
+        "total_tokens": 299,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "audio_tokens": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "audio_tokens": 0,
+          "accepted_prediction_tokens": 0,
+          "rejected_prediction_tokens": 0
+        }
+      },
+      "latency_ms": 1722.18,
+      "comparison": {
+        "number_reference_omissions": [],
+        "number_reference_additions": [
+          "1",
+          "2"
+        ],
+        "structural_differences": [
+          "parentheses"
+        ],
+        "terminology_evidence_used": [],
+        "generated_length": 372,
+        "target_length": 166,
+        "possible_omission": false
+      }
+    }
+  ]
+}

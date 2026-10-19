@@ -1,0 +1,3105 @@
+{
+  "celex": "32019R0007",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019R0007\\TMX_MK1\\32019Р0007_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019R0007\\MK2\\32019R0007_MK2.docx",
+  "tmx_sha256": "2732af3ff019a4ad9eddecf91f6add7d9afbfe496c9dfa922d6e1dda823c020e",
+  "mk2_sha256": "78404c267eac14c3c3e03cae117287da0d27b55279446db49b93df471edce169",
+  "original_tus": 88,
+  "accepted_tus": 66,
+  "skipped_tus": 22,
+  "acceptance_percent": 75.0,
+  "mk1_coverage": 99.08,
+  "mk2_coverage": 99.76,
+  "accepted_clean_en_chars": 8127,
+  "accepted_clean_mk2_chars": 8596,
+  "results": [
+    {
+      "index": 1,
+      "en": "COMMISSION DELEGATED REGULATION (EU) 2019/7",
+      "mk1": "ДЕЛЕГИРАНА РЕГУЛАТИВА НА КОМИСИЈАТА (ЕУ) 2019/7",
+      "mk2": "ДЕЛЕГИРАНА РЕГУЛАТИВА НА КОМИСИЈАТА (ЕУ) 2019/7 НА",
+      "score": 0.967741935483871,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        0,
+        3
+      ],
+      "mk2_char_span": [
+        0,
+        50
+      ],
+      "evidence": {
+        "token_count": 52,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          3
+        ],
+        "atom_window": [
+          0,
+          3
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 30 October 2018",
+      "mk1": "од 30 октомври 2018 година",
+      "mk2": "КОМИСИЈАТА од 30 октомври",
+      "score": 0.5490196078431373,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        0,
+        3
+      ],
+      "mk2_char_span": [
+        50,
+        77
+      ],
+      "evidence": {
+        "token_count": 52,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          3
+        ],
+        "atom_window": [
+          0,
+          3
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 3,
+      "en": "amending Regulation (EU) No 1031/2010 as regards the auctioning of 50 million unallocated allowances from the market stability reserve for the innovation fund and to list an auction platform to be appointed by Germany",
+      "mk1": "за изменување на Регулативата (ЕУ) бр. 1031/2010 во врска со аукциската продажба на 50 милиони недоделени квоти од резервите за стабилност на пазарот наменети за фондот за иновации и за наведување на аукциска платформа што ќе ја именува Германија",
+      "mk2": "2018 година за изменување на Регулативата (ЕУ) бр. 1031/2010 во врска соза аукциската продажба на 50 милиони недоделени квоти од резервите за стабилност на пазарот наменети за фондот за иновации и за наведување на аукциска платформа што ќе ја именува Германија",
+      "score": 0.972,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        0,
+        3
+      ],
+      "mk2_char_span": [
+        77,
+        337
+      ],
+      "evidence": {
+        "token_count": 52,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          3
+        ],
+        "atom_window": [
+          0,
+          3
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 4,
+      "en": "(Text with EEA relevance)",
+      "mk1": "(Текст со важност за ЕЕО)",
+      "mk2": "(Текст со важност за ЕЕО)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        3,
+        4
+      ],
+      "mk2_char_span": [
+        338,
+        363
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          4,
+          4
+        ],
+        "atom_window": [
+          3,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 5,
+      "en": "THE EUROPEAN COMMISSION,",
+      "mk1": "ЕВРОПСКАТА КОМИСИЈА,",
+      "mk2": "ЕВРОПСКАТА КОМИСИЈА,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        4,
+        5
+      ],
+      "mk2_char_span": [
+        364,
+        384
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          5
+        ],
+        "atom_window": [
+          4,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "mk2": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        385,
+        450
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          6
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "Having regard to Directive 2003/87/EC of the European Parliament and of the Council of 13 October 2003 establishing a system for greenhouse gas emission allowance trading within the Union and amending Council Directive 96/61/EC, and in particular Articles 3d(3), 10(4) and 10a(8) thereof,",
+      "mk1": "имајќи ја предвид Директивата 2003/87/ЕЗ на Европскиот парламент и на Советот од 13 октомври 2003 година за воспоставување на систем за тргување со квоти на стакленички гасови во рамките на Унијата и за изменување на Директивата 96/61/EЗ на Советот, а особено членовите 3г(3), 10(4) and 10a(8) од истата,",
+      "mk2": "имајќи ја предвид Директивата 2003/87/ЕЗ на Европскиот парламент и на Советот од 13 октомври 2003 година за воспоставување на систем за тргување со квоти на стакленички гасови во рамките на Унијата и за изменување на Директивата 96/61/EЗ на Советот, а особено членовите 3г(3), 10(4) и 10a(8) од истата, С",
+      "score": 0.9899328859060402,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        451,
+        755
+      ],
+      "evidence": {
+        "token_count": 66,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          9
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 8,
+      "en": "OJ L 275, 25.10.2003, p. 32.",
+      "mk1": "Сл. весник L 275, 25.10.2003 година, стр. 32.",
+      "mk2": "л. весник L 275, 25.10.2003 година, стр. 32.",
+      "score": 0.9873417721518988,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        755,
+        800
+      ],
+      "evidence": {
+        "token_count": 66,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          9
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 9,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "со оглед на тоа што:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        800,
+        820
+      ],
+      "evidence": {
+        "token_count": 66,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          9
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 10,
+      "en": "(1) Directive 2003/87/EC establishes a fund to provide financial support to innovation in low-carbon technologies within the territory of the Union by making 400 million allowances available from the total volume of allowances for the period 2021 to 2030 as part of the EU Emission Trading System (‘innovation fund’).",
+      "mk1": "(1) Директивата 2003/87/ЕЗ воспоставува фонд за обезбедување на финансиска поддршка за иновации во ниско-јаглеродни технологии во рамките на територијата на Унијата со тоа што овозможува 400 милиони квоти од вкупниот обем на квоти за периодот од 2021 до 2030 година како дел од системот за тргување со емисии на ЕУ („фонд за иновации“).",
+      "mk2": "(1)Директивата 2003/87/ЕЗ воспоставува фонд за обезбедување на финансиска поддршка за иновации во ниско-јаглеродни технологии во рамките на територијата на Унијата со тоа што овозможува 400 милиони квоти од вкупниот обем на квоти за периодот од 2021 до 2030 година, како дел од системот за тргување со емисии на ЕУ („фонд за иновации“). По",
+      "score": 0.9954614220877458,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        821,
+        1160
+      ],
+      "evidence": {
+        "token_count": 184,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 11,
+      "en": "In addition, 50 million unallocated allowances from the market stability reserve should supplement any remaining revenues from the 300 million allowances available in the period from 2013 to 2020 under Commission Decision 2010/670/EU, and should be used in a timely manner for the innovation fund before 2021.",
+      "mk1": "Покрај тоа, 50 милиони нераспределени квоти од резервите за стабилност на пазарот треба да ги надополнат сите преостанати приходи од 300 милиони квоти достапни во периодот од 2013 до 2020 година година според Одлуката 2010/670/EУ на Комисијата и треба да се искористат навремено за фондот за иновации пред 2021 година.",
+      "mk2": "крај тоа, 50 милиони нераспределени квоти од резервите за стабилност на пазарот треба да ги надополнат сите преостанати приходи од 300 милиони квоти достапни во периодот од 2013 до 2020 година година според Одлуката 2010/670/EУ на Комисијата и треба да се искористат навремено за фондот за иновации пред 2021 година. Одлу",
+      "score": 0.988976377952756,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        1160,
+        1481
+      ],
+      "evidence": {
+        "token_count": 184,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 12,
+      "en": "Commission Decision 2010/670/EU of 3 November 2010 laying down criteria and measures for the financing of commercial demonstration projects that aim at the environmentally safe capture and geological storage of CO2 as well as demonstration projects of innovative renewable energy technologies under the system for greenhouse gas emission allowance trading within the Union established by Directive 2003/87/EC of the European Parliament and of the Council (OJ L 290, 6.11.2010, p. 39).",
+      "mk1": "Одлука 2010/670/ЕУ на Комисијата од 3 ноември 2010 година за утврдување на критериуми и мерки за финансирање на комерцијални демонстрациски проекти кои имаат за цел еколошко безбедно заловување и геолошко складирање на CO2 како и демонстрациски проекти за иновативни технологии за обновлива енергија во склоп на системот за тргување со квоти на емисии на стакленички гасови во рамките на Унијата, воспоставена со Директивата 2003/87/ЕЗ на Европскиот парламент и на Советот (Сл. весник L 290, 6.11.2010 година, стр. 39).",
+      "mk2": "ка 2010/670/ЕУ на Комисијата од 3 ноември 2010 година за утврдување на критериуми и мерки за финансирање на комерцијални демонстрациски проекти кои имаат зачија цел е еколошко безбедно заловување и геолошко складирање на CO2 како и демонстрациски проекти за иновативни технологии за обновлива енергија во склоп на системот за тргување со квоти на емисии на стакленички гасови во рамките на Унијата, воспоставена со Директиватата 2003/87/ЕЗ на Европскиот парламент и на Советот (Сл. весник L 290, 6.11.2010 година, стр. 39).",
+      "score": 0.9883040935672515,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        1481,
+        2004
+      ],
+      "evidence": {
+        "token_count": 184,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 13,
+      "en": "(2) In order to ensure that the innovation fund is in a position to provide support before 2021, it is necessary to monetise the 50 million allowances for the innovation fund by means of auctions in accordance with the rules and modalities for auctions on the Common Auction Platform, which are established by Commission Regulation (EU) No 1031/2010.",
+      "mk1": "(2) Со цел да се обезбеди дека фондот за иновации е во состојба да обезбеди поддршка пред 2021 година, неопходно е да се монетизираат 50 милиони квоти за фондот за иновации преку аукции во согласност со правилата и модалитетите за аукции на Заедничката аукциска платформа, кои се утврдени со Регулативата (ЕУ) бр. 1031/2010.",
+      "mk2": "(2)Со цел да се обезбеди осигури дека фондот за иновации е во состојба да обезбеди поддршка пред 2021 година, неопходно е да се монетизираат 50 милиони квоти за фондот за иновации преку аукции во согласност со правилата и модалитетите за аукции на Заедничката аукциска платформа, кои се утврдени со Регулативата (ЕУ) бр. 1031/201",
+      "score": 0.9859154929577465,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        11
+      ],
+      "mk2_char_span": [
+        2005,
+        2334
+      ],
+      "evidence": {
+        "token_count": 191,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          9,
+          11
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 14,
+      "en": "Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to Directive 2003/87/EC of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowances trading within the Community (OJ L 302, 18.11.2010, p. 1).",
+      "mk1": "Регулатива (ЕУ) 1031/2010 на Комисијата од 12 ноември 2010 година за времето на одржување, управувањето и други аспекти на аукциското продавање на квоти на емисии на стакленички гасови во согласност со Директивата 2003/87/EЗ на Европскиот парламент и на Советот за воспоставување шема за тргување со квоти на емисии на стакленички гасови во Заедницата (Сл. весник L 302, 18.11.2010 година, стр. 1).",
+      "mk2": "0. Регулатива (ЕУ) бр. 1031/2010 на Комисијата од 12 ноември 2010 година за времето на одржување, управувањето и другите аспекти на аукциската продажба на квоти на емисии на стакленички гасови во согласност со Директиватата 2003/87/EЗ на Европскиот парламент и на Советот за воспоставување шема за тргување со квоти на емисии на стакленички гасови во Заедницата (Сл. весник L 302, 18.11.2010 година, стр.",
+      "score": 0.9744245524296675,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        11
+      ],
+      "mk2_char_span": [
+        2334,
+        2738
+      ],
+      "evidence": {
+        "token_count": 191,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          9,
+          11
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 15,
+      "en": "(3) With the aim to reduce the administrative burden on Member States and to improve overall efficiency, the volume of 50 million allowances for the innovation fund should be added to the volumes of allowances to be auctioned at the Common Auction Platform in 2020 by the Member States that as at 1 January 2018 were participating in the joint action pursuant to Article 26 of Commission Regulation (EU) No 1031/2010.",
+      "mk1": "(3) Со цел да се намали административниот товар на земјите членки и да се подобри севкупната ефикасност, обемот од 50 милиони квоти за фондот за иновации треба да се додаде на обемот на квотите што ќе бидат ставени на аукциска продажба на Заедничката аукциска платформа во 2020 година од страна на земјите членки кои од 1 јануари 2018 година учествувале во заедничката акција според член 26 од Регулативата (ЕУ) бр 1031/2010 на Комисијата.",
+      "mk2": "1). (3)Со цел да се намали административниот товар на земјите членки и да се подобри севкупната ефикасност, обемот од 50 милиони квоти за фондот за иновации треба да се додаде на обемот на квотите што ќе бидат ставени на аукциска продажба на Заедничката аукциска платформа во 2020 година од страна на земјите членки кои од 1 јануари 2018 година учествувале во Фзаедничката акција според член 26 од Регулативата (ЕУ) бр. 1031/2010 на Комисијата.",
+      "score": 0.996547756041427,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        11
+      ],
+      "mk2_char_span": [
+        2738,
+        3183
+      ],
+      "evidence": {
+        "token_count": 191,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          9,
+          11
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 16,
+      "en": "(4) The participating Member States should auction their share of the 50 million allowances for the innovation fund through their auctioneers.",
+      "mk1": "(4) Земјите членки треба да го стават на аукциска продажба својот дел од 50те милиони квоти за фондот за иновации преку нивните аукционери.",
+      "mk2": "(4)Земјите членки треба да го стават на аукциска продажба својот дел од 50-те милиони квоти за фондот за иновации преку нивните аукционери. Со цел д",
+      "score": 0.9645390070921985,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        3184,
+        3332
+      ],
+      "evidence": {
+        "token_count": 123,
+        "references_preserved": true,
+        "neighbor_window": [
+          16,
+          18
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 17,
+      "en": "In order to receive the respective innovation fund proceeds, each auctioneer should designate, by 1 October 2019, an auctioneer's nominated bank account for the receipt of these auction proceeds.",
+      "mk1": "Со цел да се добијат средствата од фондот за иновации, секој аукционер треба да назначи, до 1 октомври 2019 година, номинирана банкарска сметка на аукционерот за прием на приходите од оваа аукциска продажба.",
+      "mk2": "а се добијат средствата од фондот за иновации, секој аукционер треба да назначи, до 1 октомври 2019 година, треба да назначи номинирана банкарска сметка на аукционерот за прием на приходите од оваа аукциска продажба. Аукц",
+      "score": 0.9285714285714286,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        3332,
+        3553
+      ],
+      "evidence": {
+        "token_count": 123,
+        "references_preserved": true,
+        "neighbor_window": [
+          16,
+          18
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 18,
+      "en": "The auctioneers may designate their existing auctioneer's nominated bank account for the auction proceeds due to their Member State, a separate auctioneer's nominated bank account dedicated for the auction proceeds of the innovation fund, or the auctioneer's nominated bank account of another auctioneer of a Member State that will auction allowances for the innovation fund.",
+      "mk1": "Аукционерите можат да ја назначат нивната постојна аукционерска номинирана банкарска сметка за приходите од аукциската продажба кои се доспеани за нивната земја членка, посебна аукционерска номинирана банкарска сметка за приходите од аукциската продажба за фондот за иновации или аукционерска номинирана банкарска сметка на друг аукционер на земјата членка кој ќе стави на аукциска продажба квоти за фондот за иновации.",
+      "mk2": "ионерите можат да ја назначат нивната постојна аукционерска номинирана банкарска сметка на аукционери за приходите од аукциската продажба кои се доспеани за нивната земја членка, посебна аукционерска номинирана банкарска сметка на аукционери за приходите од аукциската продажба за фондот за иновации или аукционерска номинирана банкарска сметка на друг аукционер на земјата членка, кој што ќе стави на аукциска продажба квоти за фондот за иновации.",
+      "score": 0.9582366589327146,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        3553,
+        4001
+      ],
+      "evidence": {
+        "token_count": 123,
+        "references_preserved": true,
+        "neighbor_window": [
+          16,
+          18
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 19,
+      "en": "(5) The auctioneers appointed to conduct the auctioning of the 50 million allowances for the innovation fund should ensure that the auction proceeds for the innovation fund are disbursed in the account notified to them by the Commission for the purposes of that fund, at the latest 15 days following the end of the month within which the auction proceeds were generated.",
+      "mk1": "(5) Аукционерите назначени за аукциска продажба на 50 милиони квоти за фондот за иновации треба да се погрижат средствата од аукциската продажба за фондот за иновации да се уплатат на сметката што им ја дала Комисијата за целите на тој фонд најдоцна 15 дена по завршувањето на месецот во кој се остварени приходите од аукциската продажба.",
+      "mk2": "(5)Аукционерите назначени за аукциска продажба на 50 милиони квоти за фондот за иновации треба да се погрижат средствата од аукциската продажба за фондот за иновации да се уплатат на сметката што им ја дала Комисијата за целите на тој фонд најдоцна 15 дена по завршувањето на месецот во кој се остварени приходите од аукциската продажба.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        4002,
+        4339
+      ],
+      "evidence": {
+        "token_count": 56,
+        "references_preserved": true,
+        "neighbor_window": [
+          19,
+          19
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 20,
+      "en": "(6) Any additional fees resulting from the holding of these auction proceeds in the auctioneer's nominated bank account and from their disbursement may be deducted by the auctioneer from the auction proceeds prior to their disbursement.",
+      "mk1": "(6) Сите дополнителни трошоци кои произлегуваат од одржувањето на овие приходи од аукциска продажба на номинираната банкарска сметка на аукционерот и од нивната исплата може се одбијат од приходите од аукциската продажба пред нивната исплата од страна на аукционерот.",
+      "mk2": "(6)Сите дополнителни трошоци кои произлегуваат од одржувањето на овие приходи од аукциска продажба на номинираната банкарска сметка на аукционерот и од нивната исплата може да се одбијат од приходите од аукциската продажба пред нивната исплата од страна на аукционерот. Пр",
+      "score": 0.9887640449438202,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        13,
+        14
+      ],
+      "mk2_char_span": [
+        4340,
+        4612
+      ],
+      "evidence": {
+        "token_count": 81,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          21
+        ],
+        "atom_window": [
+          13,
+          14
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 21,
+      "en": "Before the first deduction and before any change to such fees, the respective auctioneer's Member State should notify to the Commission and all other Member States the amount and the purpose of the additional fees its auctioneer intends to deduct.",
+      "mk1": "Пред првото одбивање и пред било каква промена на таквите давачки, земјата членка на аукционерот треба да ја извести Комисијата и сите други земји членки за износот и целта на дополнителните давачки што нејзиниот аукционер има намера да ги одбие.",
+      "mk2": "ед првото одбивање и пред било каква било промена на таквите давачки, земјата членка на аукционерот треба да гија извести Комисијата и сите други земји членки за износот и целта на дополнителните давачки што нејзиниот аукционер има намера да ги одбие.",
+      "score": 0.9817444219066938,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        13,
+        14
+      ],
+      "mk2_char_span": [
+        4612,
+        4863
+      ],
+      "evidence": {
+        "token_count": 81,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          21
+        ],
+        "atom_window": [
+          13,
+          14
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 22,
+      "en": "(7) Article 61 of Regulation (EU) No 1031/2010 currently provides for the simultaneous announcement by the auction platform of the detailed results of each auction and the notification to the successful bidders of the individual results.",
+      "mk1": "(7) Член 61 од Регулативата (ЕУ) бр. 1031/2010 во моментов предвидува истовремена објава од страна на аукциската платформа на детални резултати од секоја аукциска продажба и известување за поединечните резултати до успешните наддавачи.",
+      "mk2": "(7)Член 61 од Регулативата (ЕУ) бр. 1031/2010 во моментов предвидува истовремена објава, од страна на аукциската платформа, на детални резултати од секоја аукциска продажба и известување за поединечните резултати до успешните наддавачи. Сепак, нивото на детали на резултатите",
+      "score": 0.9233870967741935,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        14,
+        15
+      ],
+      "mk2_char_span": [
+        4864,
+        5140
+      ],
+      "evidence": {
+        "token_count": 150,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          24
+        ],
+        "atom_window": [
+          14,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 23,
+      "en": "However, the level of detail of the auction results to be announced does not allow for their publication simultaneously with the notification of the individual results to the successful bidders.",
+      "mk1": "Сепак, нивото на детали на резултатите од аукциската продажба што треба да се објават не дозволува нивно објавување истовремено со известувањето за поединечните резултати до успешните наддавачи.",
+      "mk2": "од аукциската продажба што треба да се објават не дозволува нивно истовремено објавување истовремено со известувањето за поединечните резултати до успешните наддавачи. Со цел да се усогласи оваа одредба со пазарната практика и д",
+      "score": 0.7350835322195705,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        14,
+        15
+      ],
+      "mk2_char_span": [
+        5140,
+        5368
+      ],
+      "evidence": {
+        "token_count": 150,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          24
+        ],
+        "atom_window": [
+          14,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 24,
+      "en": "In order to align this provision with market practice and to safeguard against market abuse, the auction platform may publish, prior to the announcement of the remaining auction result details, the volume of allowances auctioned and the auction clearing price, so that these are published simultaneously as the platform notifies the individual results of the auction to the successful bidders.",
+      "mk1": "Со цел да се усогласи оваа одредба со пазарната практика и да се заштити од злоупотреба на пазарот, аукциската платформа може да ги објави, пред објавувањето на преостанатите детали од резултат од аукциската продажба, обемот на квоти што се продаваат на аукциската продажба и крајната аукциска цена, за тие да се објават истовремено со известувањето од страна на платформата за индивидуалните резултати од аукциската продажба до успешните наддавачи.",
+      "mk2": "а се заштити од злоупотреба на пазарот, аукциската платформа може да ги објави, пред објавувањето на преостанатите детали од резултатот од аукциската продажба, да ги објави обемот на квоти што се продаваат на аукциската продажба и крајната аукциска цена, за тие да се објават истовремено со известувањето од страна на платформата за индивидуалните резултати од аукциската продажба до успешните наддавачи. Останатите резултати од аукциската продажба треба да се објават најдоцна 15 минути по затворањето на периодот за наддавање.",
+      "score": 0.7950310559006211,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        14,
+        15
+      ],
+      "mk2_char_span": [
+        5368,
+        5896
+      ],
+      "evidence": {
+        "token_count": 150,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          24
+        ],
+        "atom_window": [
+          14,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 25,
+      "en": "The remaining auction results should be announced no later than 15 minutes after the closure of the bidding window.",
+      "mk1": "Останатите резултати од аукциската продажба треба да се објават најдоцна 15 минути по затворањето на периодот за наддавање.",
+      "mk2": "(8) Регулативата (ЕУ) бр. 1031/2010 им овозможува на земјите членки да не учествуваат во заедничкат",
+      "score": 0.23148148148148148,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        15,
+        16
+      ],
+      "mk2_char_span": [
+        5897,
+        5996
+      ],
+      "evidence": {
+        "token_count": 80,
+        "references_preserved": true,
+        "neighbor_window": [
+          25,
+          27
+        ],
+        "atom_window": [
+          15,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 26,
+      "en": "(8) Regulation (EU) No 1031/2010 allows Member States not participating in the joint action as provided in paragraphs 1 and 2 of Article 26 of that Regulation to appoint their own auction platform for the auctioning of their share of the volume of allowances covered by Chapters II and III of Directive 2003/87/EC.",
+      "mk1": "(8) Регулативата (ЕУ) бр. 1031/2010 им овозможува на земјите членки да не учествуваат во заедничката акција како што е предвидено во ставовите 1 и 2 на членот 26 од таа регулатива, да назначат своја сопствена аукциска платформа за аукциска продажба на нивниот дел од обемот на квоти опфатени со Поглавјата II и III од Директивата 2003/87/ЕЗ.",
+      "mk2": "а акција, како што е предвидено во ставовите 1 и 2 на членот 26 од таа регулатива, да назначат своја сопствена аукциска платформа за аукциска продажба на нивниот дел од обемот на квоти опфатени со Поглавјата II и III од Директивата 2003/87/ЕЗ. Назначувањето на таквите аукцис",
+      "score": 0.7920792079207921,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        15,
+        16
+      ],
+      "mk2_char_span": [
+        5996,
+        6271
+      ],
+      "evidence": {
+        "token_count": 80,
+        "references_preserved": true,
+        "neighbor_window": [
+          25,
+          27
+        ],
+        "atom_window": [
+          15,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 27,
+      "en": "The appointment of such auction platforms is subject to listing of the auction platform concerned in Annex III, in accordance with the third subparagraph of Article 30(5) of Regulation (EU) No 1031/2010.",
+      "mk1": "Назначувањето на таквите аукциски платформи подлежи на вклучување на аукциската платформа од Анекс III, во согласност со 30(5) од Регулативата (ЕУ) бр. 1031/2010.",
+      "mk2": "ки платформи подлежи на вклучување на аукциската платформа од Анекс III, во согласност со 30(5) од Регулативата (ЕУ) бр. 1031/2010.",
+      "score": 0.8896797153024911,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        15,
+        16
+      ],
+      "mk2_char_span": [
+        6271,
+        6402
+      ],
+      "evidence": {
+        "token_count": 80,
+        "references_preserved": true,
+        "neighbor_window": [
+          25,
+          27
+        ],
+        "atom_window": [
+          15,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 28,
+      "en": "(9) In accordance with Article 30(4) of Regulation (EU) No 1031/2010, Germany informed the Commission of its decision not to participate in the joint action as provided in paragraphs 1 and 2 of Article 26 of that Regulation, and to appoint its own auction platform.",
+      "mk1": "(9) Во согласност со член 30(4) од Регулативата (ЕУ) бр. 1031/2010, Германија ја информирала Комисијата за својата одлука да не учествува во заедничката акција како што е предвидено во ставовите 1 и 2 од член 26 од таа регулатива, и да назначи своја сопствена аукциска платформа.",
+      "mk2": "(9)Во согласност со член 30(4) од Регулативата (ЕУ) бр. 1031/2010, Германија ја информирала Комисијата за својата одлука да не учествува во заедничката акција како што е предвидено во ставовите 1 и 2 од член 26 од таа регулатива, и да назначи своја сопствена аукциска платформа.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        16,
+        17
+      ],
+      "mk2_char_span": [
+        6403,
+        6681
+      ],
+      "evidence": {
+        "token_count": 47,
+        "references_preserved": true,
+        "neighbor_window": [
+          28,
+          28
+        ],
+        "atom_window": [
+          16,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 29,
+      "en": "(10) On 12 April 2018, Germany notified the Commission its intention to appoint European Energy Exchange AG as an auction platform referred to in Article 30(1) of Regulation (EU) No 1031/2010 for a maximum period of five years from the entry into force of this Regulation.",
+      "mk1": "(10) На 12 април 2018 година, Германија ја извести Комисијата за својата намера да ја назначи Европската енергетска берза АГ како аукциска платформа наведена во член 30(1) од Регулативата (ЕУ) бр 1031/2010 за максимален период од пет години од влегувањето во сила на оваа регулатива.",
+      "mk2": "(10)На 12 април 2018 година, Германија ја извести Комисијата за својата намера да ја назначи Европската енергетска берза АГ какоза аукциска платформа наведена во член 30(1) од Регулативата (ЕУ) бр. 1031/2010 за максимален период од пет години од влегувањето во сила на оваа регулатива.",
+      "score": 0.9963898916967509,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        17,
+        18
+      ],
+      "mk2_char_span": [
+        6682,
+        6967
+      ],
+      "evidence": {
+        "token_count": 83,
+        "references_preserved": true,
+        "neighbor_window": [
+          29,
+          30
+        ],
+        "atom_window": [
+          17,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 30,
+      "en": "The term of appointment, the legal basis for the appointment and the applicable conditions and obligations for European Energy Exchange AG as the auction platform for Germany for that period should be listed in the Annex III to Regulation (EU) No 1031/2010.",
+      "mk1": "Рокот на назначувањето, правната основа за назначувањето и применливите услови и обврски за Европската енергетска берза АГ како аукциска платформа за Германија за тој период треба да бидат наведени во Анекс III кон Регулативата (ЕУ) бр. 1031/2010.",
+      "mk2": "Рокот на назначувањето, правната основа за назначувањето и применливите услови и обврски за Европската енергетска берза АГ како аукциска платформа за Германија за тој период треба да бидат наведени во Анекс III кон Регулативата (ЕУ) бр. 1031/2010.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        17,
+        18
+      ],
+      "mk2_char_span": [
+        6967,
+        7215
+      ],
+      "evidence": {
+        "token_count": 83,
+        "references_preserved": true,
+        "neighbor_window": [
+          29,
+          30
+        ],
+        "atom_window": [
+          17,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 31,
+      "en": "(11) Regulation (EU) No 1031/2010 should therefore be amended accordingly.",
+      "mk1": "(11) Регулатива (ЕУ) бр. 1031/2010 треба соодветно да се измени.",
+      "mk2": "(11)Затоа, Регулативата (ЕУ) бр. 1031/2010 треба соодветно да се и",
+      "score": 0.8907563025210085,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        18,
+        21
+      ],
+      "mk2_char_span": [
+        7216,
+        7282
+      ],
+      "evidence": {
+        "token_count": 44,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          33
+        ],
+        "atom_window": [
+          18,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 32,
+      "en": "(12) In order to ensure predictable and timely auctions by the auction platform to be appointed by Germany, this Regulation should enter into force as a matter of urgency,",
+      "mk1": "(12) Со цел да се обезбедат предвидливи и навремени аукциски продажби од страна на аукциската платформа што ќе ја назначи Германија, оваа регулатива треба итно да влезе во сила,",
+      "mk2": "змени. (12)Со цел да се обезбедат предвидливи и навремени аукциски продажби од страна на аукциската платформа што ќе ја назначи Германија, оваа регулатива треба итно да влезе во сила,",
+      "score": 0.9829545454545454,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        18,
+        21
+      ],
+      "mk2_char_span": [
+        7282,
+        7465
+      ],
+      "evidence": {
+        "token_count": 44,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          33
+        ],
+        "atom_window": [
+          18,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 33,
+      "en": "HAS ADOPTED THIS REGULATION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "mk2": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        18,
+        21
+      ],
+      "mk2_char_span": [
+        7465,
+        7492
+      ],
+      "evidence": {
+        "token_count": 44,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          33
+        ],
+        "atom_window": [
+          18,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 34,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "Член 1",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        21,
+        22
+      ],
+      "mk2_char_span": [
+        7493,
+        7499
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          34,
+          34
+        ],
+        "atom_window": [
+          21,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 35,
+      "en": "Regulation (EU) No 1031/2010 is amended as follows:",
+      "mk1": "Регулативата (ЕУ) бр. 1031/2010, се менува како што следува:",
+      "mk2": "Регулативата (ЕУ) бр. 1031/2010, се менува како што следува:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        22,
+        23
+      ],
+      "mk2_char_span": [
+        7500,
+        7560
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          35,
+          35
+        ],
+        "atom_window": [
+          22,
+          23
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 36,
+      "en": "(1) In Article 10, the following paragraph 5 is added:",
+      "mk1": "(1) Во член 10 се вметнува став 5:",
+      "mk2": "(1)Во член 10 се вметнува следниот став 5:",
+      "score": 0.8732394366197183,
+      "status": "REVIEW",
+      "cardinality": "1:1",
+      "mk2_span": [
+        23,
+        24
+      ],
+      "mk2_char_span": [
+        7561,
+        7603
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          36,
+          36
+        ],
+        "atom_window": [
+          23,
+          24
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 37,
+      "en": "‘5.",
+      "mk1": "„5.",
+      "mk2": "„5.О",
+      "score": 0.5,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        24,
+        25
+      ],
+      "mk2_char_span": [
+        7604,
+        7608
+      ],
+      "evidence": {
+        "token_count": 117,
+        "references_preserved": true,
+        "neighbor_window": [
+          37,
+          39
+        ],
+        "atom_window": [
+          24,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 38,
+      "en": "The volume of allowances covered by Chapter III of Directive 2003/87/EC to be auctioned in 2020 shall also include the volume of 50 million unallocated allowances from the market stability reserve referred to in the second subparagraph of Article 10a(8) of that Directive.",
+      "mk1": "Обемот на квотите што се опфатени со Поглавје III од Директивата 2003/87/ЕЗ што ќе се стави на аукциска продажба во 2020 година, исто така, го вклучува и обемот на 50 милиони недоделени квоти од резервите за стабилност на пазарот наведени во вториот потстав од член 10а(8) од таа директива.",
+      "mk2": "бемот на квотите што се опфатени со Поглавје III од Директивата 2003/87/ЕЗ што ќе се стави на аукциска продажба во 2020 година, исто така, го вклучува и обемот на 50 милиони недоделени квоти од резервите за стабилност на пазарот наведени во вториот потстав од член 10а(8) од таа директива. Тие квоти се делат во еднакви количини помеѓу земјите членки кои",
+      "score": 0.8962264150943396,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        24,
+        25
+      ],
+      "mk2_char_span": [
+        7608,
+        7963
+      ],
+      "evidence": {
+        "token_count": 117,
+        "references_preserved": true,
+        "neighbor_window": [
+          37,
+          39
+        ],
+        "atom_window": [
+          24,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 39,
+      "en": "Those allowances shall be divided in equal amounts between the Member States participating in the joint action pursuant to Article 26(1) of this Regulation as at 1 January 2018 and shall be added to the volume of allowances to be auctioned for each of them.",
+      "mk1": "Тие квоти се делат во еднакви количини помеѓу земјите членки кои учествуваат во заедничката акција, согласно член 26(1) од оваа регулатива, на 1 јануари 2018 година и се додаваат на обемот на квотите што ќе се продаваат на аукциска продажба за секој од нив.",
+      "mk2": "учествуваат во заедничката акција, во согласност со член 26(1) од оваа регулатива, на 1 јануари 2018 година и се додаваат на обемот на квотите што ќе се продаваат на аукциска продажба за секоја од нив. Обемот од 50 милиони квоти начелно се распределува рамномерно во текот на аукциите што се одржаа во 2020 година.",
+      "score": 0.6690391459074733,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        24,
+        25
+      ],
+      "mk2_char_span": [
+        7963,
+        8277
+      ],
+      "evidence": {
+        "token_count": 117,
+        "references_preserved": true,
+        "neighbor_window": [
+          37,
+          39
+        ],
+        "atom_window": [
+          24,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 40,
+      "en": "The volume of 50 million allowances shall in principle be distributed evenly over the auctions held in 2020.’",
+      "mk1": "Обемот од 50 милиони квоти начелно се распределува рамномерно во текот на аукциите што се одржаа во 2020 година.",
+      "mk2": "",
+      "score": 0.422680412371134,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 41,
+      "en": "(2) Article 23 is replaced by the following:",
+      "mk1": "(2) Член 23 се заменува со следното:",
+      "mk2": "„Член 23 Функции",
+      "score": 0.375,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        26,
+        28
+      ],
+      "mk2_char_span": [
+        8314,
+        8331
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": false,
+        "neighbor_window": [
+          41,
+          43
+        ],
+        "atom_window": [
+          26,
+          28
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 42,
+      "en": "‘Article 23",
+      "mk1": "„Член 23",
+      "mk2": "на а",
+      "score": 0.36363636363636365,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        26,
+        28
+      ],
+      "mk2_char_span": [
+        8331,
+        8335
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": false,
+        "neighbor_window": [
+          41,
+          43
+        ],
+        "atom_window": [
+          26,
+          28
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "The auctioneer's functions",
+      "mk1": "Функции на аукционерот",
+      "mk2": "укционерот",
+      "score": 0.625,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        26,
+        28
+      ],
+      "mk2_char_span": [
+        8335,
+        8345
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": false,
+        "neighbor_window": [
+          41,
+          43
+        ],
+        "atom_window": [
+          26,
+          28
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "1.",
+      "mk1": "1.",
+      "mk2": "1.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        28,
+        29
+      ],
+      "mk2_char_span": [
+        8346,
+        8348
+      ],
+      "evidence": {
+        "token_count": 6,
+        "references_preserved": true,
+        "neighbor_window": [
+          44,
+          45
+        ],
+        "atom_window": [
+          28,
+          29
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "The auctioneer shall carry out the following functions:",
+      "mk1": "Аукционерот ги извршува следните функции:",
+      "mk2": "Аукционерот ги извршува следните функции:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        28,
+        29
+      ],
+      "mk2_char_span": [
+        8348,
+        8389
+      ],
+      "evidence": {
+        "token_count": 6,
+        "references_preserved": true,
+        "neighbor_window": [
+          44,
+          45
+        ],
+        "atom_window": [
+          28,
+          29
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 46,
+      "en": "(a) auction the volume of allowances to be auctioned by each Member State appointing it;",
+      "mk1": "(а) наддавање на износот на квотите што ќе бидат ставени на аукциска продажба од страна на секоја земја членка што го назначила;",
+      "mk2": "(а)наддавање на износот на квотите што ќе бидат ставени на аукциска продажба од страна на секоја земја членка што го назначила;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        29,
+        30
+      ],
+      "mk2_char_span": [
+        8390,
+        8517
+      ],
+      "evidence": {
+        "token_count": 22,
+        "references_preserved": true,
+        "neighbor_window": [
+          46,
+          46
+        ],
+        "atom_window": [
+          29,
+          30
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 47,
+      "en": "(b) receive the auction proceeds due to each Member State appointing it;",
+      "mk1": "(б) примање на приходите од аукциската продажба кои се достасани за секоја земја членка што го назначила;",
+      "mk2": "(б)примање на приходите од аукциската продажба кои се достасани за секоја земја членка што го назначила;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        30,
+        31
+      ],
+      "mk2_char_span": [
+        8518,
+        8622
+      ],
+      "evidence": {
+        "token_count": 17,
+        "references_preserved": true,
+        "neighbor_window": [
+          47,
+          47
+        ],
+        "atom_window": [
+          30,
+          31
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 48,
+      "en": "(c) disburse the auction proceeds due to each Member State appointing it.",
+      "mk1": "(в) исплата на приходите од аукциската продажба кои се достасани за секоја земја членка што го назначила.",
+      "mk2": "(в)исплата на приходите од аукциската продажба кои се достасани за секоја земја членка што го назначила.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        31,
+        32
+      ],
+      "mk2_char_span": [
+        8623,
+        8727
+      ],
+      "evidence": {
+        "token_count": 17,
+        "references_preserved": true,
+        "neighbor_window": [
+          48,
+          48
+        ],
+        "atom_window": [
+          31,
+          32
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 49,
+      "en": "The auctioneer of each Member State auctioning allowances pursuant to Article 10(5) shall receive the auction proceeds from those allowances on an auctioneer's nominated bank account designated by it no later than 1 October 2019 for the receipt of payments due under Article 10(5).",
+      "mk1": "Аукционерот на секоја земја членка што ги става квотите на аукциска продажба според членот 10(5) ги добива приходите од аукциската продажба од тие квоти на номинираната банкарска сметка на аукционерот, кој го назначила, најдоцна до 1 октомври 2019 година, за прием на плаќања кои достасуваат според член 10(5).",
+      "mk2": "2.Аукционерот на секоја земја членка што ги става квотите на аукциска продажба според членот 10(5) ги добива приходите од аукциската продажба од тие квоти на номинираната банкарска сметка на аукционерот, кој го назначила, најдоцна до 1 октомври 2019 година, за прием на плаќања кои достасуваат според член 10(5). Аукц",
+      "score": 0.9886178861788618,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        32,
+        33
+      ],
+      "mk2_char_span": [
+        8728,
+        9045
+      ],
+      "evidence": {
+        "token_count": 136,
+        "references_preserved": true,
+        "neighbor_window": [
+          49,
+          51
+        ],
+        "atom_window": [
+          32,
+          33
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 50,
+      "en": "The auctioneer shall ensure that these auction proceeds are disbursed to the account notified to it by the Commission for the purposes of Article 10a(8) of Directive 2003/87/EC, at the latest 15 days following the end of the month within which the auction proceeds were generated.",
+      "mk1": "Аукционерот обезбедува овие приходи од аукциската продажба да бидат исплатени на сметката која му ја доставила Комисијата за целите на членот 10а(8) од Директивата 2003/87/EЗ, најдоцна 15 дена по крајот на месецот во кој биле генерирани приходите од аукциската продажба.",
+      "mk2": "ионерот обезбедува осигурува овие приходи од аукциската продажба да бидат исплатени на сметката која му ја доставила Комисијата за целите на членот 10а(8) од Директивата 2003/87/EЗ, најдоцна 15 дена по крајот на месецот во кој биле генерирани приходите од аукциската продажба.",
+      "score": 0.9740740740740741,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        32,
+        33
+      ],
+      "mk2_char_span": [
+        9045,
+        9321
+      ],
+      "evidence": {
+        "token_count": 136,
+        "references_preserved": true,
+        "neighbor_window": [
+          49,
+          51
+        ],
+        "atom_window": [
+          32,
+          33
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 51,
+      "en": "The auctioneer may deduct prior to disbursement any additional fees for their holding and disbursement, subject to the prior notification of the amount and the reason for these fees by its Member State to the Commission and all other Member States.’",
+      "mk1": "Аукционерот може да ги одбие сите дополнителни давачки за нивно одржување и исплата пред плаќањето, што е предмет на претходно известување за износот и објаснување за овие давачки што неговата земја членка ги доставува до Комисијата и до сите други земји членки.“;",
+      "mk2": "Аукционерот може да ги одбие сите дополнителни давачки за нивно одржување и исплата пред плаќањето, што е предмет на претходно известување за износот и објаснување за овие давачки што кои неговата земја членка ги доставува до Комисијата и до сите други земји членки.“;",
+      "score": 0.9923664122137404,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        32,
+        33
+      ],
+      "mk2_char_span": [
+        9321,
+        9590
+      ],
+      "evidence": {
+        "token_count": 136,
+        "references_preserved": true,
+        "neighbor_window": [
+          49,
+          51
+        ],
+        "atom_window": [
+          32,
+          33
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 52,
+      "en": "(3) Paragraph 2 of Article 61 is replaced by the following:",
+      "mk1": "(3) Став 2 од член 61 се заменува со следното:",
+      "mk2": "(3)Став 2 од член 61 се заменува со следното:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        33,
+        34
+      ],
+      "mk2_char_span": [
+        9591,
+        9636
+      ],
+      "evidence": {
+        "token_count": 10,
+        "references_preserved": true,
+        "neighbor_window": [
+          52,
+          52
+        ],
+        "atom_window": [
+          33,
+          34
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 53,
+      "en": "Pursuant to paragraph 1 the auction platform shall announce at least the following results of each auction:",
+      "mk1": "Согласно став 1, аукциската платформа ги објавува барем следните резултати од секоја аукциска продажба:",
+      "mk2": "„2.Во сСогласност со став 1, аукциската платформа ги објавува барем следните резултати од секоја аукциска про",
+      "score": 0.9230769230769231,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        34,
+        37
+      ],
+      "mk2_char_span": [
+        9637,
+        9746
+      ],
+      "evidence": {
+        "token_count": 33,
+        "references_preserved": true,
+        "neighbor_window": [
+          53,
+          55
+        ],
+        "atom_window": [
+          34,
+          37
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 54,
+      "en": "(a) the volume of the allowances auctioned;",
+      "mk1": "(а) обемот на квотите што се продаваат на аукциската продажба;",
+      "mk2": "дажба: (а)обемот на квотите што се продаваат на аукциската продажб",
+      "score": 0.943089430894309,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        34,
+        37
+      ],
+      "mk2_char_span": [
+        9746,
+        9812
+      ],
+      "evidence": {
+        "token_count": 33,
+        "references_preserved": true,
+        "neighbor_window": [
+          53,
+          55
+        ],
+        "atom_window": [
+          34,
+          37
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 55,
+      "en": "(b) the auction clearing price in euros;",
+      "mk1": "(б) крајната аукциска цена во евра;",
+      "mk2": "а; (б)крајната аукциска цена во евра;",
+      "score": 0.9696969696969697,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        34,
+        37
+      ],
+      "mk2_char_span": [
+        9812,
+        9849
+      ],
+      "evidence": {
+        "token_count": 33,
+        "references_preserved": true,
+        "neighbor_window": [
+          53,
+          55
+        ],
+        "atom_window": [
+          34,
+          37
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 56,
+      "en": "(c) the total volume of bids submitted;",
+      "mk1": "(в) вкупниот број на поднесени наддавања;",
+      "mk2": "(в)вкупниот број на поднесени наддавања;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        37,
+        38
+      ],
+      "mk2_char_span": [
+        9850,
+        9890
+      ],
+      "evidence": {
+        "token_count": 6,
+        "references_preserved": true,
+        "neighbor_window": [
+          56,
+          56
+        ],
+        "atom_window": [
+          37,
+          38
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 57,
+      "en": "(d) the total number of bidders and the number of successful bidders;",
+      "mk1": "(г) вкупниот број на наддавачи и бројот на успешни наддавачи;",
+      "mk2": "(г)вкупниот број на наддавачи и бројот на успешни наддавачи;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        38,
+        39
+      ],
+      "mk2_char_span": [
+        9891,
+        9951
+      ],
+      "evidence": {
+        "token_count": 10,
+        "references_preserved": true,
+        "neighbor_window": [
+          57,
+          57
+        ],
+        "atom_window": [
+          38,
+          39
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 58,
+      "en": "(e) in case of cancellation of an auction, the auctions to which the volume of allowances will be carried over;",
+      "mk1": "(д) во случај на откажување на аукциската продажба, аукциските продажби на кои ќе се пренесе обемот на квотите;",
+      "mk2": "(д)во случај на откажување на аукциската продажба, аукциските продажби на кои ќе се пренесе обемот на квотите;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        39,
+        40
+      ],
+      "mk2_char_span": [
+        9952,
+        10062
+      ],
+      "evidence": {
+        "token_count": 18,
+        "references_preserved": true,
+        "neighbor_window": [
+          58,
+          58
+        ],
+        "atom_window": [
+          39,
+          40
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 59,
+      "en": "(f) the total revenue earned from the auction;",
+      "mk1": "(ѓ) вкупниот приход остварен на аукциската продажба;",
+      "mk2": "(ѓ)вкупниот приход остварен на аукциската продажба;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        40,
+        41
+      ],
+      "mk2_char_span": [
+        10063,
+        10114
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          59,
+          59
+        ],
+        "atom_window": [
+          40,
+          41
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 60,
+      "en": "(g) the distribution of the revenue between the Member States, in the case of auction platforms appointed pursuant to Article 26(1) or (2).’",
+      "mk1": "(е) распределбата на приходите меѓу земјите членки, при аукциски платформи назначени во согласност со член 26(1) или (2).“",
+      "mk2": "(е)распределбата на приходите меѓу земјите членки, при аукциски платформи, назначени во согласност со член 26(1) или (2).“",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        41,
+        42
+      ],
+      "mk2_char_span": [
+        10115,
+        10237
+      ],
+      "evidence": {
+        "token_count": 19,
+        "references_preserved": true,
+        "neighbor_window": [
+          60,
+          60
+        ],
+        "atom_window": [
+          41,
+          42
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 61,
+      "en": "At the same time as the auction platform announces the results of each auction pursuant to points (a) and (b) of paragraph 2, the auction platform shall notify each successful bidder bidding through its systems:",
+      "mk1": "Во исто време кога аукциската платформа ги објавува резултатите од секоја аукциска продажба во согласност со точките (а) и (б) од став 2, аукциската платформа го известува секој успешен наддавач кој вршел наддавање преку нејзините системи за следново:",
+      "mk2": "(4)Став 3 од член 61 се заменува со следното: „3.Во исто време кога аукциската платформа ги објавува резултатите од секоја аукциска продажба во согласност со точките (а) и (б) од став 2, аукциската платформа го известува секој успешен наддавач, кој вршел наддавање преку нејзините системи з",
+      "score": 0.8935361216730038,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        42,
+        45
+      ],
+      "mk2_char_span": [
+        10238,
+        10528
+      ],
+      "evidence": {
+        "token_count": 62,
+        "references_preserved": true,
+        "neighbor_window": [
+          61,
+          62
+        ],
+        "atom_window": [
+          42,
+          45
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 62,
+      "en": "(a) the total number of allowances to be allocated to that bidder;",
+      "mk1": "(а) вкупниот број на квоти што ќе му бидат доделени на тој наддавач;",
+      "mk2": "а следново: (а)вкупниот број на квоти што ќе му бидат доделени на тој наддавач;",
+      "score": 0.9219858156028369,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        42,
+        45
+      ],
+      "mk2_char_span": [
+        10528,
+        10607
+      ],
+      "evidence": {
+        "token_count": 62,
+        "references_preserved": true,
+        "neighbor_window": [
+          61,
+          62
+        ],
+        "atom_window": [
+          42,
+          45
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 63,
+      "en": "(b) which of its tied bids, if any, were randomly selected;",
+      "mk1": "(б) која од неговите поврзани понуди, ако ги има, била случајно избрани;",
+      "mk2": "(б)која од неговите поврзани понуди, ако ги има, била случајно избраниа;",
+      "score": 0.9925925925925926,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        45,
+        48
+      ],
+      "mk2_char_span": [
+        10608,
+        10680
+      ],
+      "evidence": {
+        "token_count": 67,
+        "references_preserved": true,
+        "neighbor_window": [
+          63,
+          65
+        ],
+        "atom_window": [
+          45,
+          48
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 64,
+      "en": "(c) the payment due either in euros or in the currency of a Member State not member of the euro-zone, chosen by the bidder provided that the clearing system or settlement system is capable of handling the national currency in question;",
+      "mk1": "(в) достасаното плаќање во евра или во валута на земја членка која не е членка на еврозоната, избрано од наддавачот под услов системот за порамнување или системот за подмирување да може да ја обработи националната валута;",
+      "mk2": "(в)достасаното плаќање во евра или во валута на земја членка која не е членка на еврозоната, избрано од наддавачот под услов системот за порамнување или системот за подмирување да може да ја обработи националната валута;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        45,
+        48
+      ],
+      "mk2_char_span": [
+        10680,
+        10901
+      ],
+      "evidence": {
+        "token_count": 67,
+        "references_preserved": true,
+        "neighbor_window": [
+          63,
+          65
+        ],
+        "atom_window": [
+          45,
+          48
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 65,
+      "en": "(d) the date by which the payment due must be paid in cleared funds into the auctioneer's nominated bank account.’;",
+      "mk1": "(г) датумот до кој достасаното плаќањето мора да се изврши во расположливи средства на номинираната банкарска сметка на аукционерот.“;",
+      "mk2": "(г)датумот до кој достасаното плаќањето мора да се изврши во расположливи средства на номинираната банкарска сметка на аукционерот.“;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        45,
+        48
+      ],
+      "mk2_char_span": [
+        10901,
+        11035
+      ],
+      "evidence": {
+        "token_count": 67,
+        "references_preserved": true,
+        "neighbor_window": [
+          63,
+          65
+        ],
+        "atom_window": [
+          45,
+          48
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 66,
+      "en": "(5) Annex III is amended in accordance with the Annex to this Regulation.",
+      "mk1": "(5) Анекс III се менува во согласност со анексот кон оваа регулативата.",
+      "mk2": "(5)Анекс III се менува во согласност со анексот кон оваа регулативата.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        48,
+        49
+      ],
+      "mk2_char_span": [
+        11036,
+        11106
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          66,
+          66
+        ],
+        "atom_window": [
+          48,
+          49
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 67,
+      "en": "This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила на дваесеттиот ден од денот на нејзиното објавувањево Службениот весник на Европската Унија.",
+      "mk2": "Член 2 Оваа регулатива влегува во сила на следниот ден од дваесеттиот ден од денот на нејзиното објавување во Службениот весник на Европска",
+      "score": 0.8778625954198473,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        49,
+        52
+      ],
+      "mk2_char_span": [
+        11107,
+        11246
+      ],
+      "evidence": {
+        "token_count": 36,
+        "references_preserved": true,
+        "neighbor_window": [
+          67,
+          68
+        ],
+        "atom_window": [
+          49,
+          52
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 68,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "mk1": "Оваа регулатива е целосно обврзувачка и директно применлива во сите земји членки.",
+      "mk2": "та Унија. Оваа регулатива е целосно обврзувачка и директно применлива во сите земји членки.",
+      "score": 0.9467455621301775,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        49,
+        52
+      ],
+      "mk2_char_span": [
+        11246,
+        11337
+      ],
+      "evidence": {
+        "token_count": 36,
+        "references_preserved": true,
+        "neighbor_window": [
+          67,
+          68
+        ],
+        "atom_window": [
+          49,
+          52
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 69,
+      "en": "Done at Brussels, 30 October 2018.",
+      "mk1": "Брисел, 30 октомври 2018 година.",
+      "mk2": "Брисел, 30 октомври 2018 година.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        52,
+        53
+      ],
+      "mk2_char_span": [
+        11338,
+        11370
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          69,
+          69
+        ],
+        "atom_window": [
+          52,
+          53
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 70,
+      "en": "For the Commission",
+      "mk1": "За Комисијата",
+      "mk2": "За Комисијата",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        53,
+        54
+      ],
+      "mk2_char_span": [
+        11371,
+        11384
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          70,
+          70
+        ],
+        "atom_window": [
+          53,
+          54
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 71,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "Претседател",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        54,
+        55
+      ],
+      "mk2_char_span": [
+        11385,
+        11396
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          71,
+          71
+        ],
+        "atom_window": [
+          54,
+          55
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 72,
+      "en": "Jean-Claude JUNCKER",
+      "mk1": "Жан-Клод ЈУНКЕР",
+      "mk2": "Жан-Клод ЈУНКЕР",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        55,
+        56
+      ],
+      "mk2_char_span": [
+        11397,
+        11412
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          72,
+          72
+        ],
+        "atom_window": [
+          55,
+          56
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 73,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "mk2": "АНЕКС",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        56,
+        57
+      ],
+      "mk2_char_span": [
+        11413,
+        11418
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          73,
+          73
+        ],
+        "atom_window": [
+          56,
+          57
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 74,
+      "en": "In Annex III to Regulation (EU) No 1031/2010, the following part 5 is added:",
+      "mk1": "Во Анекс III кон Регулативата (ЕУ) бр. 1031/2010, се додава следниот дел 5:",
+      "mk2": "Во Анекс III кон Регулативата (ЕУ) бр. 1031/2010, се додава следниот дел 5:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        57,
+        58
+      ],
+      "mk2_char_span": [
+        11419,
+        11494
+      ],
+      "evidence": {
+        "token_count": 13,
+        "references_preserved": true,
+        "neighbor_window": [
+          74,
+          74
+        ],
+        "atom_window": [
+          57,
+          58
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 75,
+      "en": "‘Auction platforms appointed by Germany",
+      "mk1": "„Аукциски платформи назначени од Германија",
+      "mk2": "„Аукциски платформи назначени од Германија",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        58,
+        59
+      ],
+      "mk2_char_span": [
+        11495,
+        11537
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          75,
+          75
+        ],
+        "atom_window": [
+          58,
+          59
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 76,
+      "en": "5",
+      "mk1": "5",
+      "mk2": "5",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        59,
+        60
+      ],
+      "mk2_char_span": [
+        11538,
+        11539
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          76,
+          76
+        ],
+        "atom_window": [
+          59,
+          60
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 77,
+      "en": "Auction platform",
+      "mk1": "Аукциска платформа",
+      "mk2": "Аукциска платформа",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        60,
+        61
+      ],
+      "mk2_char_span": [
+        11540,
+        11558
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          77,
+          77
+        ],
+        "atom_window": [
+          60,
+          61
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 78,
+      "en": "European Energy Exchange AG (EEX)",
+      "mk1": "Европска енергетска берза АГ (EEX)",
+      "mk2": "Европска енергетска берза АГ (EEX)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        61,
+        62
+      ],
+      "mk2_char_span": [
+        11559,
+        11593
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          78,
+          78
+        ],
+        "atom_window": [
+          61,
+          62
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 79,
+      "en": "Legal Basis",
+      "mk1": "Правна основа",
+      "mk2": "Правна основа",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        62,
+        63
+      ],
+      "mk2_char_span": [
+        11594,
+        11607
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          79,
+          79
+        ],
+        "atom_window": [
+          62,
+          63
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 80,
+      "en": "Article 30(1)",
+      "mk1": "Член 30(1)",
+      "mk2": "Член 30(1)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        63,
+        64
+      ],
+      "mk2_char_span": [
+        11608,
+        11618
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          80,
+          80
+        ],
+        "atom_window": [
+          63,
+          64
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 81,
+      "en": "Term of appointment",
+      "mk1": "Рок на именување",
+      "mk2": "Рок на именување",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        64,
+        65
+      ],
+      "mk2_char_span": [
+        11619,
+        11635
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          81,
+          81
+        ],
+        "atom_window": [
+          64,
+          65
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 82,
+      "en": "From 5 January 2019 at the earliest for a maximum period of five years until 4 January 2024, without prejudice to the second subparagraph of Article 30(5).",
+      "mk1": "Најрано од 5 јануари 2019 година за максимален период од пет години до 4 јануари 2024 година, без да е во спротивност со вториот потстав на член 30(5).",
+      "mk2": "Најрано од 5 јануари 2019 година за максимален период од пет години до 4 јануари 2024 година, без да е во спротивност со вториот потстав на член 30(5).",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        65,
+        66
+      ],
+      "mk2_char_span": [
+        11636,
+        11787
+      ],
+      "evidence": {
+        "token_count": 29,
+        "references_preserved": true,
+        "neighbor_window": [
+          82,
+          82
+        ],
+        "atom_window": [
+          65,
+          66
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 83,
+      "en": "Conditions",
+      "mk1": "Услови",
+      "mk2": "Услови",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        66,
+        67
+      ],
+      "mk2_char_span": [
+        11788,
+        11794
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          83,
+          83
+        ],
+        "atom_window": [
+          66,
+          67
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 84,
+      "en": "Admission to the auctions shall not be dependent on becoming a member of or a participant in the secondary market organised by EEX or of any other trading place operated by EEX or by any third party.",
+      "mk1": "Приемот на аукциски продажби не треба да зависи од тоа да се стане член на или учесник на секундарниот пазар организиран од страна на ЕЕХ или на кое било друго трговско место управувано од страна на ЕЕХ или од која било трета страна.",
+      "mk2": "Приемот на аукциски продажби не треба да зависи од тоа да се стане член на или учесник на секундарниот пазар организиран од страна на ЕЕХ или на кое било друго трговско место управувано од страна на ЕЕХ или од која било трета страна.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        67,
+        68
+      ],
+      "mk2_char_span": [
+        11795,
+        12028
+      ],
+      "evidence": {
+        "token_count": 43,
+        "references_preserved": true,
+        "neighbor_window": [
+          84,
+          84
+        ],
+        "atom_window": [
+          67,
+          68
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 85,
+      "en": "Obligations",
+      "mk1": "Обврски",
+      "mk2": "Обврски",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        68,
+        69
+      ],
+      "mk2_char_span": [
+        12029,
+        12036
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          85,
+          85
+        ],
+        "atom_window": [
+          68,
+          69
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 86,
+      "en": "Within two months from 5 January 2019, EEX shall submit its exit strategy to Germany.",
+      "mk1": "Во рок од два месеци од 5 јануари 2019 година, ЕЕХ ја доставува својата излезна стратегија до Германија.",
+      "mk2": "1. Во рок од два месециа од 5 јануари 2019 година, ЕЕХ ја доставува својата излезна стратегија до Германиј",
+      "score": 0.9805825242718447,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        69,
+        71
+      ],
+      "mk2_char_span": [
+        12037,
+        12143
+      ],
+      "evidence": {
+        "token_count": 55,
+        "references_preserved": true,
+        "neighbor_window": [
+          86,
+          87
+        ],
+        "atom_window": [
+          69,
+          71
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 87,
+      "en": "The exit strategy shall be without prejudice to the obligations of EEX laid down in the contract with the Commission and the Member States concluded pursuant to Article 26 and the rights of the Commission and those Member States under that contract.",
+      "mk1": "Излезната стратегија не е цо спротивност на обврските на EEX утврдени во договорот со Комисијата и земјите членки, склучен во согласност со член 26 и правата на Комисијата и на тие земји членки според тој договор.",
+      "mk2": "а. Излезната стратегија не е во спротивност на обврските на EEX утврдени во договорот со Комисијата и земјите членки, склучен во согласност со член 26 и правата на Комисијата и на тие земји членки според тој договор.",
+      "score": 0.9905660377358491,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        69,
+        71
+      ],
+      "mk2_char_span": [
+        12143,
+        12359
+      ],
+      "evidence": {
+        "token_count": 55,
+        "references_preserved": true,
+        "neighbor_window": [
+          86,
+          87
+        ],
+        "atom_window": [
+          69,
+          71
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 88,
+      "en": "Germany shall notify the Commission of any substantive changes in the relevant contractual relations with EEX notified to the Commission on 12 April 2018.’",
+      "mk1": "Германија ја известува Комисијата за какви било суштински промени во релевантните договорни односи со EEX кои се доставени до Комисијата на 12 април 2018 година.“",
+      "mk2": "2. Германија ја известува Комисијата за какви било суштински промени во релевантните договорни односи со EEX кои се доставени до Комисијата на 12 април 2018 година.“",
+      "score": 0.9937888198757764,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        71,
+        73
+      ],
+      "mk2_char_span": [
+        12360,
+        12525
+      ],
+      "evidence": {
+        "token_count": 26,
+        "references_preserved": true,
+        "neighbor_window": [
+          88,
+          88
+        ],
+        "atom_window": [
+          71,
+          73
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 3,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32019R0007",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COMMISSION DELEGATED REGULATION (EU) 2019/7",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 30 October 2018",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "amending Regulation (EU) No 1031/2010 as regards the auctioning of 50 million unallocated allowances from the market stability reserve for the innovation fund and to list an auction platform to be appointed by Germany",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ДЕЛЕГИРАНА РЕГУЛАТИВА НА КОМИСИЈАТА (ЕУ) 2019/7",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 30 октомври 2018 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Регулативата (ЕУ) бр. 1031/2010 во врска со аукциската продажба на 50 милиони недоделени квоти од резервите за стабилност на пазарот наменети за фондот за иновации и за наведување на аукциска платформа што ќе ја именува Германија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "15.10.20.30 Животна средина, потрошувачи и здравствена заштита/Животна средина/Загадување и непријатности/Следење на атмосферското загадување",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Павлова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "16.8.2024 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "EU Emission Trading System",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Систем за тргување со емисии на ЕУ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://ckp.org.mk/cbam-%D0%BF%D1%80%D0%B5%D0%BA%D1%83%D0%B3%D1%80%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%B0-%D1%82%D0%B0%D0%BA%D1%81%D0%B0-%D0%BD%D0%B0-%D1%98%D0%B0%D0%B3%D0%BB%D0%B5%D1%80%D0%BE%D0%B4/",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Фуснота 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "greenhouse gas emission allowance trading",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тргување со квоти на стакленички гасови",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.undp.org/sites/g/files/zskgke326/files/migration/mk/Nationalroadmap.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32019R0007",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COMMISSION DELEGATED REGULATION (EU) 2019/7",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 30 October 2018",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "amending Regulation (EU) No 1031/2010 as regards the auctioning of 50 million unallocated allowances from the market stability reserve for the innovation fund and to list an auction platform to be appointed by Germany",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ДЕЛЕГИРАНА РЕГУЛАТИВА НА КОМИСИЈАТА (ЕУ) 2019/7",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 30 октомври 2018 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Регулативата (ЕУ) бр. 1031/2010 во врска со аукциската продажба на 50 милиони недоделени квоти од резервите за стабилност на пазарот наменети за фондот за иновации и за наведување на аукциска платформа што ќе ја именува Германија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "15.10.20.30 Животна средина, потрошувачи и здравствена заштита/",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ана Наќева",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "25.8.2024",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Нема промена на карактеристични термини. Направени се промени со цел усогласување со Прирачникот за преведување на правните акти на ЕУ издаден од СЕП.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Сл. весник L 275, 25.10.2003 година, стр. 32.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Одлука 2010/670/ЕУ на Комисијата од 3 ноември 2010 година за утврдување на критериуми и мерки за финансирање на комерцијални демонстрациски проекти кои имаат зачија цел е еколошко безбедно заловување и геолошко складирање на CO2 како и демонстрациски проекти за иновативни технологии за обновлива енергија во склоп на системот за тргување со квоти на емисии на стакленички гасови во рамките на Унијата, воспоставена со Директиватата 2003/87/ЕЗ на Европскиот парламент и на Советот (Сл. весник L 290, 6.11.2010 година, стр. 39).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Регулатива (ЕУ) бр. 1031/2010 на Комисијата од 12 ноември 2010 година за времето на одржување, управувањето и другите аспекти на аукциската продажба на квоти на емисии на стакленички гасови во согласност со Директиватата 2003/87/EЗ на Европскиот парламент и на Советот за воспоставување шема за тргување со квоти на емисии на стакленички гасови во Заедницата (Сл. весник L 302, 18.11.2010 година, стр. 1).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 6,
+        "text": "Сл. весник L 275, 25.10.2003 година, стр. 32."
+      },
+      {
+        "ref": "2",
+        "body_index": 8,
+        "text": "Одлука 2010/670/ЕУ на Комисијата од 3 ноември 2010 година за утврдување на критериуми и мерки за финансирање на комерцијални демонстрациски проекти кои имаат зачија цел е еколошко безбедно заловување и геолошко складирање на CO2 како и демонстрациски проекти за иновативни технологии за обновлива енергија во склоп на системот за тргување со квоти на емисии на стакленички гасови во рамките на Унијата, воспоставена со Директиватата 2003/87/ЕЗ на Европскиот парламент и на Советот (Сл. весник L 290, 6.11.2010 година, стр. 39)."
+      },
+      {
+        "ref": "3",
+        "body_index": 9,
+        "text": "Регулатива (ЕУ) бр. 1031/2010 на Комисијата од 12 ноември 2010 година за времето на одржување, управувањето и другите аспекти на аукциската продажба на квоти на емисии на стакленички гасови во согласност со Директиватата 2003/87/EЗ на Европскиот парламент и на Советот за воспоставување шема за тргување со квоти на емисии на стакленички гасови во Заедницата (Сл. весник L 302, 18.11.2010 година, стр. 1)."
+      }
+    ]
+  },
+  "dry_run": true
+}

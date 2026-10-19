@@ -1,0 +1,1125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210905T175906Z" creationid="DESKTOP-VNO6T3Q\Dell">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">12</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021R0520</prop>
+    <prop type="x-SourceTMX">32021R0520_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">b17122dfacb35305a002b31c41b4a75f58cc00e9a28991501801add8c2c638de</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">71</prop>
+  </header>
+  <body>
+    <tu creationdate="20210901T012618Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210901T012618Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210901T012618Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING REGULATION (EU) 2021/520</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/520 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T170304Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T170304Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T170304Z">
+      <prop type="x-Context">7353582418551784268, 1901036649548470141</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 24 March 2021</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 24 март 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T015818Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210901T015818Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210901T015818Z">
+      <prop type="x-Context">2094311973019752702, -693899598895376172</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>О) ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T015813Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210901T015813Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210901T015813Z">
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171816Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171816Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171816Z">
+      <prop type="x-Context">1911552470034348323, -7650074761136549016</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Commission Delegated Regulation (EU) 2019/2035 <bpt i="1" type="pt29" x="1" />(<ph x="2" type="ph30" />)<ept i="1" /> supplements Regulation (EU) 2016/429 by providing detailed rules concerning the traceability of kept terrestrial animals and hatching eggs.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Делегираната Ррегулатива (ЕУ) 2019/2035 () на Комисијата ја дополнува Ррегулативата (ЕУ) 2016/429 со утврдување детални правила за можноста за следењеследливоста на одгледуваните копнени животни и јајца за испилување.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">11</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171825Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171825Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171825Z">
+      <prop type="x-Context">-5377437084306880253, -5958529053588274890</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In addition, certain other technical and operational details and formats of computer databases for kept bovine, ovine, caprine and porcine animals should also be laid down in this Regulation in order to ensure comparable quality of databases across the Union.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Покрај тоаДополнително, со цел да се обезбеди споредлив квалитет на базите на податоци во целата Унија, во оваа регулатива треба да се утврдат одредени други технички и оперативни детали и формати на компјутерски бази на податоци за одгледувани говеда, овци, кози и свињи.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">18</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171831Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171831Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171831Z">
+      <prop type="x-Context">8729252196551419570, 1348006762087072885</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Commission should recognise the full operability of those exchanges of electronic data between computer databases of Member States following this protocol.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и. Комисијата треба да го признае целосното функционирање на овие размени на електронски податоци помеѓу компјутерските бази на податоци на земјите членки во согласност со овој протокол.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171832Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171832Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171832Z">
+      <prop type="x-Context">3963223806432490598, -2689142264505018228</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whilst the means of identification to be used for various species of terrestrial animals, in particular kept bovine, ovine, caprine, porcine, camelid and cervid animals and psittacidae, are determined by Delegated Regulation (EU) 2019/2035, the technical specifications for these means of identification should be set out in this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Средствата за идентификација што треба да се користат за разните видови копнени животни, особено за одгледуваните говеда, овци, кози, свињи, камили, елени и папагали, се утврдени со Делегираната регулатива (ЕУ) 2019/2035, а техничките спецификации за овие средствата за идентификација треба да се утврдатутврдени со оваа регулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171834Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171834Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171834Z">
+      <prop type="x-Context">-4156645696786918688, -7782150975948628180</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Delegated Regulation (EU) 2019/2035 sets out requirements for electronic identification of kept bovine, ovine, caprine, porcine, camelid and cervid animals and psittacidae.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Со Делегираната регулатива (ЕУ) 2019/2035 сеги утврдуваат барањата за електронската идентификација на одгледуваните говеда, овци, кози, свињи, камили, елени и папагали. Овие електронски и</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171841Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171841Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171841Z">
+      <prop type="x-Context">961466135917188330, 2259711961131633656</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Until the date of application of Regulation (EU) 2016/429, Union rules on traceability include various exemptions from the identification and registration system with respect to some categories of animals, such as animals kept under extensive conditions.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>До датумот на примена на Регулативата (ЕУ) 2016/429, правилата за можност за следењеследливост на Унијата вклучуваат различни исклучоци од системот за идентификација и регистрација за одредени категории животни, како што се животните одгледувани во екстензивни ус</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">28</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171843Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171843Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171843Z">
+      <prop type="x-Context">-3912988916749961247, -7665044832179079094</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>It is appropriate to review those rules and apply a balanced and harmonised approach to the exemptions from the identification and registration system, taking into account the relevant risks on the one hand and the proportionality and efficiency of the measures on the other hand.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>лови. Соодветно е да се прегледаат тие правила и да се примени урамнотежен и усогласен пристап кон исклучоците од системот за идентификација и регистрација, земајќи ги предвид релевантните ризици, но и пропорционалноста и ефективноста на мерките</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">29</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171844Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171844Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171844Z">
+      <prop type="x-Context">-1541811734845348484, 4833971116063430853</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>New rules reflecting this approach should therefore be laid down in this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. Затоа, во оваа регулатива треба да се утврдат нови правила што го одразуваат овој пристап.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">30</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210826T194524Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210831T172513Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T175947Z">
+      <prop type="x-Context">-8765631656038685300, -4629540974255820637</prop>
+      <prop type="x-Context">-8509915048494655685, 5563023433536492072</prop>
+      <prop type="x-Context">-6450572861658554030, -218463542026583018</prop>
+      <prop type="x-Context">-6086013432402111164, -4699973993920813098</prop>
+      <prop type="x-Context">-6049815237888379541, -7701532539766739102</prop>
+      <prop type="x-Context">-5303096832372076359, -7510245360847128852</prop>
+      <prop type="x-Context">-5228429639598696927, -3642973886859226981</prop>
+      <prop type="x-Context">-4461547643220132975, 623435515575381753</prop>
+      <prop type="x-Context">-3591767756383018459, -3592937263909202658</prop>
+      <prop type="x-Context">-3251238842970499178, -4667309904693698852</prop>
+      <prop type="x-Context">-2875391187054866434, 8331964867750541967</prop>
+      <prop type="x-Context">-2671713621535759388, 5990101732300677787</prop>
+      <prop type="x-Context">-1298492762061435608, -2409053160320953212</prop>
+      <prop type="x-Context">105988771812812556, -4221877563222689238</prop>
+      <prop type="x-Context">729487027357001531, 5868571276464908676</prop>
+      <prop type="x-Context">1497998214893308204, 5206859664319228489</prop>
+      <prop type="x-Context">3312549752683087382, -3553608829711734584</prop>
+      <prop type="x-Context">6194292215258127031, -8905080696174022640</prop>
+      <prop type="x-Context">7111480363132471127, 131305555599977068</prop>
+      <prop type="x-Context">8967350516437006867, -6730313474017649759</prop>
+      <prop type="x-Context">9178172105883698309, -8951411902592973282</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 1</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">45</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171905Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171905Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171905Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Subject matter and scope</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Предмет и опсегРЕ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">46</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171906Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171906Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171906Z">
+      <prop type="x-Context">-6978388740094390655, -3982522943575386596</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the deadlines for the transmission of information by operators for the registration of kept bovine, ovine, caprine and porcine animals in computer databases;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ат правилата за: роковите за превнесување на податоци од страна на операторите заради регистрација на одгледувани говеда, овци, кози и свињи во компјутерски бази на податоци;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">48</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171908Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171908Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171908Z">
+      <prop type="x-Context">8376050028141561014, -3153392930379318961</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>uniform access to data contained in computer databases of kept bovine, ovine, caprine and porcine animals and the technical specifications and operational rules of such databases;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за еднообразен пристап до податоците содржани во компјутерски бази на податоци за одгледуваните говеда, овци, кози и свињи и правилата што се однесуваат на техничките спецификации и оперативните правила на таквите бази на податоци;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">49</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171910Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171910Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171910Z">
+      <prop type="x-Context">-2936025067905696226, -6210109167472674269</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the technical conditions and modalities for the exchange of electronic data in respect of kept bovine animals between Member States’ computer databases and the recognition of full operability of a data exchange system;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>техничките услови и модалитети за размена на електронски податоци за одгледувани говеда помеѓу компјутерските бази на податоци на земјите членки и признавање на целосно функционирање на системот за размена на податоци;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">50</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171911Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171911Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171911Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the technical specifications, formats and design for means of identification of kept bovine, ovine, caprine, porcine, camelid and cervid animals;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>техничките спецификации, формати и дизајн на средства за идентификација на одгледуваните говеда, овци, кози, свињи, камили и елени;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">51</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171912Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171912Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171912Z">
+      <prop type="x-Context">1486894491286876052, -598429403284906215</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the technical requirements for means of identification of kept psittacidae;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>техничките барања за средства за идентификација на одгледуваните папагали;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">52</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171914Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171914Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171914Z">
+      <prop type="x-Context">-8406813517139852233, -2957839654341025427</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the time periods for the application of means of identification of kept bovine, ovine, caprine, porcine, camelid and cervid animals born in the Union or after the entry into the Union of those animals;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>временските рокови за примена на средствата за идентификација на одгледувани говеда, овци, кози, свињи, камили и елени родени во Унијата или по влегувањето на тие животни во Унијата;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">53</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171915Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171915Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171915Z">
+      <prop type="x-Context">-2673324091493999097, 5851672029695260243</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the configuration of the identification code of kept bovine, ovine, caprine, camelid and cervid animals;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>конфигурацијата на идентификацискиотоната кодознака на одгледувани говеда, овци, кози, камили и еле</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">54</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171916Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171916Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171916Z">
+      <prop type="x-Context">5805565538929751506, 1993468786565910351</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the removal, modification and replacement of means of identification of kept bovine, ovine, caprine, porcine, camelid and cervid animals and the deadlines for such operations;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ни; отстранувањето, модификација и замена на средства за идентификација на одгледувани говеда, овци, кози, свињи, камили и елени и рокови за такви постапкиделува</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">55</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171918Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171918Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171918Z">
+      <prop type="x-Context">8017158833008957053, -5584873581609033243</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>transitional measures regarding approval of means of identification.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ња; преодни мерки во врска со одобрување средства за идентификација.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">56</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171919Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171919Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171919Z">
+      <prop type="x-Context">3235374350142640013, 4398393441648</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the purposes of this Regulation, the definitions laid down in Article 2 of Delegated Regulation (EU) 2019/2035 shall apply.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>иниции За целите на оваа регулатива, се применуваат дефинициите утврдени во член 2 од Делегираната регулатива (ЕУ) 2019/2035.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">58</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210903T201902Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210903T201902Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210903T201902Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Deadlines and procedures for the transmission of information by operators for the registration of kept bovine, ovine, caprine and porcine animals</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 3 Рокови и постапки за пренесувањетовнесување на податоци од оператори за регистрација на одгледувани говеда, овци, кози и свињи</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">60</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210826T194713Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210831T174428Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T175948Z">
+      <prop type="x-Context">-8378084831114725403, 4769477000070284012</prop>
+      <prop type="x-Context">-8327850404529008915, 603350609510104064</prop>
+      <prop type="x-Context">-8102686567502634135, -5960046902815843764</prop>
+      <prop type="x-Context">-8012456236894609934, -1178169927798718921</prop>
+      <prop type="x-Context">-7515975692444434486, -5170650098514090978</prop>
+      <prop type="x-Context">-6975882894416243393, -1546774186906581636</prop>
+      <prop type="x-Context">-6913416532714745757, -2099772849793005804</prop>
+      <prop type="x-Context">-6907392368772290547, -2957617531329539097</prop>
+      <prop type="x-Context">-5781862752784597265, 5121989916944421816</prop>
+      <prop type="x-Context">-5678040520242483466, 4125287838620555907</prop>
+      <prop type="x-Context">-5214153368554984093, 7815101950360268967</prop>
+      <prop type="x-Context">-3537467229678059980, 2825473408723871605</prop>
+      <prop type="x-Context">-3237616303143638246, -933408585627640196</prop>
+      <prop type="x-Context">-2981386600312494729, 3466527720491017117</prop>
+      <prop type="x-Context">-2066774683324001019, -2011064772581137168</prop>
+      <prop type="x-Context">-1755680000170421682, -7210590284137694737</prop>
+      <prop type="x-Context">-1396305939094065303, -598429403284906215</prop>
+      <prop type="x-Context">-1214216947123543991, 6221916472957398527</prop>
+      <prop type="x-Context">-884607889738569326, -7891191786879958581</prop>
+      <prop type="x-Context">-723862342153946099, -5585343715028141931</prop>
+      <prop type="x-Context">-125664855620155603, -8956775061522639242</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">591980515274036910, 293331765207581062</prop>
+      <prop type="x-Context">1281719944050327201, -3007835015452929377</prop>
+      <prop type="x-Context">1563762464224770540, 4726750741384722776</prop>
+      <prop type="x-Context">1656707321318171010, -6831294845616052898</prop>
+      <prop type="x-Context">2107140201694534436, 9222922595336046058</prop>
+      <prop type="x-Context">3585081050253158112, -4855036570371113428</prop>
+      <prop type="x-Context">3772459994138963174, -8118062662521230796</prop>
+      <prop type="x-Context">4139970050982256649, -2719254772851015045</prop>
+      <prop type="x-Context">4276905224918143474, -6684891833661704853</prop>
+      <prop type="x-Context">4599652667408355815, -7851336227277423568</prop>
+      <prop type="x-Context">5613331533867981138, -7731194219006026706</prop>
+      <prop type="x-Context">6470478655472699785, -7781096880773112597</prop>
+      <prop type="x-Context">6713000867928585791, 2649932653746364566</prop>
+      <prop type="x-Context">8619893152154349684, 718370070415100885</prop>
+      <prop type="x-Context">8648959849551181213, -8569098185348448324</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>1.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">61</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171921Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171921Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171921Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Operators keeping bovine, ovine, caprine and porcine animals shall transmit the information on movements, births and deaths referred to in point (d) of Article 112 of Regulation (EU) 2016/429 and on movements referred to in Article 113(1)(c) of that Regulation and in point (b) of Article 56 of Delegated Regulation (EU) 2019/2035 for registration in the computer databases set up for those species within a time period for transmission to be determined by the Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Оператори што одгледуваат говеда, овци, кози и свињи ги пренесуваат информациите за движења, раѓања и смртни случаи наведени во точка (г) од член 112 (г) од Регулативата (ЕУ) 2016/429 и за движењае наведени во член 113(1)(в) на таа регулатива и во точка (б) од член 56 (б) од Делегираната регулатива (ЕУ) 2019/2035 за регистрација во компјутерските бази на податоци воспоставени за тие видови во рокот за пренесувањевнесување утврден од земјите членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">62</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171923Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171923Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171923Z">
+      <prop type="x-Context">-5152437911413289494, -342935469966601913</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The maximum time period to transmit the information shall not exceed 7 days following the movement, birth or death of the animals, as applicable.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Максималниот временски рок за преносвнес на податоци не треба да биде подолг од 7 дена по движењето, раѓањето или смртта на животните, во зависност од случајот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">63</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171924Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171924Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171924Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In the case of births, when determining the maximum time period for transmitting the information, Member States may use the date when the means of identification is applied to the animal as the starting point of the time period concerned, provided that there is no risk of confusion between this date and the date of birth of the animal.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Во случај на раѓања, при утврдувањето на максималниот временски рок за преносвнес на информацијата, земјата членка може да го употреби датумот на кој средството за идентификација е употребено на животното како појдовна точка за временскиот рок, доколку нема ризик за забуна помеѓу овој датум и датумот на раѓање на животното.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">64</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171925Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171925Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171925Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>By way of derogation from paragraph 1, the competent authority may extend the maximum time period to transmit the information on movements referred to in paragraph 1 up to 14 days following movements of bovine animals within the same Member State from establishments of origin to registered pasture establishments located in mountain areas for grazing.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.По пат на отстапување од став 1, надлежниот орган може да го продолжи максималниот временски рок за пренесувањевнесување на податоци за движењае наведени во став 1 на најмногу 14 дена по движењето на говедата во истата земја членка од објектот наделовни субјекти со потекло до регистрирани пасиштаделовни субјекти за пасење што се наоѓаатлоцирани во планинските обла</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">65</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171926Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171926Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171926Z">
+      <prop type="x-Context">8956168950296016830, -6911399969837601588</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The competent authority may decide to accept lists of the bovine animals subject to movements to registered pasture establishments from the operators of those establishments.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>сти. Надлежниот орган може да одлучи да прифати списоци на говеда што треба да се движат во регистрирани пасиштаделовни субјекти за пасење од операторитете одговорни за тие деловни субјектиобјекти.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">66</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T174816Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210831T174816Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210831T174816Z">
+      <prop type="x-Context">3663312393608424712, -3881890007056377957</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Those lists shall contain:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Овие списоци ги вклучуваат:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">67</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T174948Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210831T174948Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T175948Z">
+      <prop type="x-Context">-7934289154117013484, 6143247142038727761</prop>
+      <prop type="x-Context">-5538541617456530158, -1123033994083490003</prop>
+      <prop type="x-Context">-5007040819113545284, -4591145746877689173</prop>
+      <prop type="x-Context">-4244476022058752550, 1248204273971502973</prop>
+      <prop type="x-Context">-3791365665924027933, 3091633701288437885</prop>
+      <prop type="x-Context">-3247604591670644886, -8147675762611698608</prop>
+      <prop type="x-Context">-2229757749693264804, 4727545997818607759</prop>
+      <prop type="x-Context">-754452540059800367, -1188553222002766119</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">1112840157397393579, 2690219437941653647</prop>
+      <prop type="x-Context">5228752699454649331, 5197817639072051918</prop>
+      <prop type="x-Context">5882310290672116885, 2321499037845850248</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">68</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171927Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171927Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171927Z">
+      <prop type="x-Context">122295, 152520</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the unique registration number of the registered pasture establishment;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>единствениот регистарски број на регистрираното пасиштеиот деловен субјект за пасење;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">69</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T174931Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210831T174931Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T175948Z">
+      <prop type="x-Context">-7772026860762829901, 6864982140463124159</prop>
+      <prop type="x-Context">-7515975692444434486, -5170650098514090978</prop>
+      <prop type="x-Context">-2279019280654520367, -8032162507672972624</prop>
+      <prop type="x-Context">966088420970504564, 2844432086234678142</prop>
+      <prop type="x-Context">3330275803848692590, 2093400175813627118</prop>
+      <prop type="x-Context">3431376755497122566, -4487421350422550822</prop>
+      <prop type="x-Context">4125237634850128861, -3624778575437082619</prop>
+      <prop type="x-Context">5729839878955838115, -4719266636945559962</prop>
+      <prop type="x-Context">5858656246637423551, -7320291520972723034</prop>
+      <prop type="x-Context">7983133643874590092, -7918229163188574511</prop>
+      <prop type="x-Context">8325393366152812493, 2430895269658858745</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">70</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T174937Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210831T174937Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T175947Z">
+      <prop type="x-Context">3248388819695038056, 8192165787043405206</prop>
+      <prop type="x-Context">8554819967780055226, 8977275199853084080</prop>
+      <prop type="x-Context">9181536849109774326, 5797970033262926494</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">74</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171931Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171931Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171931Z">
+      <prop type="x-Context">122388, 152613</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the animals’ date of arrival at the registered pasture establishment;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>датумот на пристигнување на животните во регистриранотоиот деловен субјект за пасењепасиште;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">75</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T174941Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210831T174941Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T175947Z">
+      <prop type="x-Context">5296579843916054437, 3136510812615634083</prop>
+      <prop type="x-Context">8689095627833731843, 3698667793349236639</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">76</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171934Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171934Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171934Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Uniform access to data contained in computer databases of kept bovine, ovine, caprine and porcine animals</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за пасење. Член 4 Еднообразен пристап до податоците содржани во компјутерските бази на податоци за одгледувани говеда, овци, кози и свињи</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">78</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171935Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171935Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171935Z">
+      <prop type="x-Context">-7609241025236612910, 7123939872397621084</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall ensure that operators keeping bovine, ovine, caprine and porcine animals have, on their request and free of charge, at least read-only access to a minimum of information related to their establishments that is contained in the computer databases referred to in Article 109(1)(a) to (c) of Regulation (EU) 2016/429.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Земјите членки им обезбедуваат на операторите кои одгледуваат говеда, овци, говеда и свињи, на нивно барање и бесплатно, да имаат барем пристап само за читање до минималните податоци што се однесуваат на нивните објектиделовни субјекти содржани во компјутерските бази на податоци наведени во член 109(1)(а) до, (в) од Регулативата (ЕУ) 2016/429.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">79</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171938Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171938Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171938Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Technical specifications for computer databases of kept bovine, ovine, caprine and porcine animals</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 5 Технички спецификации на компјутерските бази на податоци за одгледувани говеда, овци, кози и св</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">80</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171939Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171939Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171939Z">
+      <prop type="x-Context">-3573352500659826331, 3191337565706996887</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall ensure that the computer databases of kept bovine, ovine, caprine and porcine animals referred to in Article 109(1)(a) to (c) of Regulation (EU) 2016/429 are set up in such a way that the information recorded in those databases can be exchanged between computer databases of Member States in the format set out in the third column of the table in Annex I to this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ињи Земјите членки обезбедуваат дека компјутерските бази на податоци за одгледуваните говеда, овци, овци и свињи наведени во член 109(1)(а) до (в) од Регулативата (ЕУ) 2016/429 се воспоставени така што податоците снимени во тие бази на податоци можеат да се разменуваат помеѓу компјутерските бази на податоци на земјите членки во форматот утврден во третата колона од табелата во Анекс I кон на оваа регулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">81</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171943Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171943Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171943Z">
+      <prop type="x-Context">-3183792962190903680, -7237454153517962945</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall implement appropriate technical and organisational measures to ensure that the computer databases of kept bovine, ovine, caprine and porcine animals referred to in Article 109(1)(a) to (c) of Regulation (EU) 2016/429 continue operating in the face of potential disruptions.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>вци, кози и свињи Земјите членки спроведуваат соодветни технички и организациски мерки за да обезбедат дека компјутерските бази на податоци за одгледуваните говеда, овци, кози и свињи наведени во член 109(1)(а) до (в) од Регулативата (ЕУ) 2016/429 продолжуваат да функционираат во случај на можни наруш</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">83</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171944Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171944Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171944Z">
+      <prop type="x-Context">-9104221087368556913, -3369910120252235536</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Those measures shall also guarantee the security, integrity and authenticity of the information recorded in such databases.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>увања. Овие мерки, исто така, гарантираат сигурност, интегритет и автентичност на податоците запишани во таквите бази на податоци.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">84</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171947Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171947Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171947Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Technical conditions and modalities for the electronic exchange of identification document data in respect of kept bovine animals between Member States’ computer databases</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 7 Технички услови и модалитети за електронска размена на податоци за документи за идентификација кои се однесуваат на одгледуваните говеда помеѓу компјутерските бази на податоци на земјите членки</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">85</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171948Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171948Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171948Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>When Member States exchange electronically with other Member States identification document data in respect of kept bovine animals that is referred to in points (a) to (c) of Article 44 of Delegated Regulation (EU) 2019/2035, that data shall be exchanged in the format of XML Schema Definition made available by the Commission to the competent authority.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.Кога една земја членка разменува електронски со другите земји членки електронски разменува информации содржани во документите за идентификација на говедата наведени во точките (а) до (в) од член 77 од Делегираната регулатива (ЕУ) 2019/2035, тие информации ќе се разменуваат во форматот на XML Дефиниција на шема која Комисијата ја направи достапниа за надлежниот орган. 2.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">86</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171952Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171952Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171952Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The competent authority in the Member State of origin of the kept bovine animals intended to be moved shall ensure that the identification document data is transmitted electronically to the Member State of destination before the departure of the animals, and that a timestamp is provided with each transmission.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Надлежниот орган на земјата членка од која тргнуваат одгледуваните говеда наменети за движење, пред заминување на животните, осигуруваобезбедува електронскио пренос внесување на податоците од документот за идентификација до земјата членка која им е крајната дестинација и дека е обезбеден временски печат при секој преносе внесување.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">87</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171956Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171956Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171956Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Recognition of the full operability of a system for electronic exchange of identification document data in respect of kept bovine animals between Member States’ computer databases</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 8 Признавање на целосното функционирање на системот за електронска размена на податоци од документи за идентификација на говеда меѓу компјутерските бази на податоци на земјите членки</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">88</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T171957Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T171957Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T171957Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States exchanging electronically identification document data through a system established by the Commission and designed for the exchange of data in respect of kept bovine animals between Member States’ computer databases shall be recognised as having a system of full operability.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.Земјите членки кои електронски разменуваат податоци од документи за идентификација преку систем воспоставенформиран од Комисијата и дизајниран да разменува податоци за одгледувани говеда помеѓу компјутерските бази на податоци на земјите членки, се признава дека треба да имаат целосно функционал</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">89</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172000Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172000Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172000Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Commission shall establish and make public on its website the list of Member States exchanging identification document data through that system.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ен систем. 2.Комисијата воспоставува и објавува на својата веб -страница список на земјите членки кои преку тој систем ги разменуваат информациите содржани во документот за идентификација.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">90</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172003Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172003Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172003Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Technical specifications, formats and design for means of identification of kept bovine, ovine, caprine, porcine, camelid and cervid animals</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 9 Технички спецификации, формати и дизајн на средства за идентификација на одгледуваните говеда, овци, кози, свињи, камили и елени</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">92</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172005Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172005Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172005Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The competent authority shall only approve the use of conventional ear tags or conventional pastern bands referred to in points (a) and (b) of Annex III to Delegated Regulation (EU) 2019/2035 as means of identification of kept bovine, ovine, caprine, porcine, camelid and cervid animals, if those means of identification fulfil the technical specification set out in Part 1 of Annex II to this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.Надлежниот орган одобруваовластува употреба само на конвенционални ушни маркици или конвенционални протезиленти за глуждот наведени во точките (а) и (б) од Анекс III од Делегираната регулатива (ЕУ) 2019/2035 како средства за идентификација на одгледуваните говеда, овци, кози, свињи, камили и елени само ако тие средства за идентификација се во согласност со техничката спецификација утврдена во Дел 1 од Анекс II од оваа регулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">93</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172010Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172010Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172010Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The competent authority shall only approve the use of electronic identifiers referred to in points (c) to (f) of Annex III to Delegated Regulation (EU) 2019/2035 as means of identification of kept bovine, ovine, caprine, porcine, camelid and cervid animals, if those means of identification fulfil the technical specifications set out in Part 2 of Annex II to this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.Надлежниот орган одобруваовластува употреба само на електронски идентификатори наведени во точките (в) до (ѓ) од Анекс III конод Делегираната регулатива (ЕУ) 2019/2035 како средства за идентификација на одгледуваните говеда, овци, кози, свињи, камили и елени само ако тие средства за идентификација се во согласност со техничките спецификации утврдени во Дел 2 од Анекс II конод оваа регу</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">95</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172014Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172014Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172014Z">
+      <prop type="x-Context">3756243588259912302, -7316074683537960670</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In addition, the electronic identifiers referred to in points (c) and (f) of Annex III to Delegated Regulation (EU) 2019/2035 shall fulfil the technical specification set out in Part 1 of Annex II to this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>латива. Освен тоаДополнително, електронските идентификатори наведени во точките (в) и (ѓ) од Анекс III од Делегираната регулатива (ЕУ) 2019/2035 мора да бидате во согласност со техничките спецификации утврдени во Дел 1 од Анекс II конод ов</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">96</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172017Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172017Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172017Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>By way of derogation from paragraph 3, the competent authority may approve the use of electronic ear tags as means of identification of kept porcine animals, if those means of identification fulfil the technical specifications laid down by the Member State where the porcine animals are kept, and display visibly, legibly and indelibly the unique registration number of:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>аа регулатива. 4.По пат на отстапување од став 3, надлежниот орган може да одобри употреба на електронски ушни маркици како средство за идентификација на одгледуваните свињи доколку тие средства за идентификација се во согласност со техничките спецификации утврдени од земјата членка каде што се одгледуваат свињите и овозможуваат единствениот број на регистрација да биде видлив, читлив и неизбришлив :</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">97</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172021Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172021Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172021Z">
+      <prop type="x-Context">122326, 152551</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the last establishment of the supply chain referred to in Article 53 of Delegated Regulation (EU) 2019/2035, when those animals are moved to an establishment outside that supply chain.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б) последниот деловен објектсубјект во синџирот на снабдување спомнат во член 53 од Делегираната регулатива (ЕУ) 2019/2035 доколку тие животни се преместат во објектделовен субјект надвор од тој синџир на снабдување.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">99</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172024Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172024Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172024Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Technical specifications, formats and design for means of identification of kept psittacidae</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 10 Технички спецификации, формати и дизајн на средства за идентификација на одгледуваните папагали</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">100</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172035Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172035Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172035Z">
+      <prop type="x-Context">122295, 152520</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the leg ring referred to in Article 76(1)(a) of Delegated Regulation (EU) 2019/2035 fulfils the technical specifications set out in Part 1 of Annex II to this Regulation;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>збедат: (а) прстенот на ногатастапалото наведен во член 76(1)(а) од Делегираната регулатива (ЕУ) 2019/2035 да е во согласност со техничките спецификации утврдени во Дел 1 од Анекс II конод оваа регулатива;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">102</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172038Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172038Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172038Z">
+      <prop type="x-Context">122326, 152551</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the tattoo referred to in Article 76(1)(c) of Delegated Regulation (EU) 2019/2035 ensures indelible marking and proper reading.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б) дека тетоважата наведена во член 76(1)(в) од Делегираната регулатива (ЕУ) 2019/2035 осигуруваобезбедува неизбришливо обележување и точно</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">103</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172040Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172040Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172040Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The competent authority shall only approve the use of injectable transponders referred to in Article 76(1)(b) of Delegated Regulation (EU) 2019/2035 as means of identification of kept psittacidae, if those means of identification fulfil the technical specifications set out in point 2 of Part 2 of Annex II to this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>читање. 2.Надлежниот орган овластува употреба на транспондери за инјектирање наведени во член 76(1)(б) од Делегираната регулатива (ЕУ) 2019/2035 како средства за идентификација на одгледуваните папагали само ако тие средства за идентификација се во согласност со техничките спецификации утврдени во, точка 2 од Дел 2 од Анекс II конод оваа регулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">104</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172042Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172042Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172042Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Operational rules for the approval of electronic identifiers of kept bovine, ovine, caprine, porcine, camelid and cervid animals and psittacidae</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 11 Оперативни пПравила за одобрување електронски идентификатори за одгледуваните говеда, овци, кози, свињи, камили , елени и папагал</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">105</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172043Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172043Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172043Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>When granting approval of the electronic identifiers referred to in points (c) to (f) of Annex III to Delegated Regulation (EU) 2019/2035 of kept bovine, ovine, caprine, porcine, camelid and cervid animals and psittacidae, the competent authority shall ensure that the manufacturers of the electronic identifiers have provided evidence that the conformance and performance tests referred to in point 4 of Part 2 of Annex II to this Regulation have been carried out in test centres accredited in accordance with ISO/IEC standard 17025 ‘General requirements for the competence of testing and calibration laboratories’.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и 1.При давање дозвола за електронските идентификатори наведени во точките (в) до (ѓ) од Анекс III конод Делегираната регулатива (ЕУ) 2019/2035 за одгледувани говеда, овци, кози, свињи, камили елени и папагали, надлежниот орган гарантира дека производителите на електронските идентификатори обезбедиле докази дека тестовите за сообразност и перформансите наведени во точка 4 од Дел 2 од Анекс II конод оваа регулатива се спроведениа во тест- центри овластени во согласност со стандардот ИСО/ИЕЦISO / IEC 17025 стандардот „Општи барања за компетентност на лаборатории за тестирање и калибрација“.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">106</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172047Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172047Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172047Z">
+      <prop type="x-Context">4297896223332760615, 4589078394193542619</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The identification code of kept bovine, ovine, caprine, camelid and cervid animals shall be as follows:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Идентификацискиот кодата ознака на одгледувани говеда, овци, кози, камили и елени ги содржи следните елеме</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">109</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172048Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172048Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172048Z">
+      <prop type="x-Context">122295, 152520</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the first element of the identification code shall be the country code of the Member State where the means of identification was first applied to the animals, in the format of either:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>нти: (а) првиот елемент на ознаката за идентификација е ознаката на земјата членка во која средството за идентификација за првпат е применето на животното , во форма на:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">110</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T183504Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172049Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T175948Z">
+      <prop type="x-Context">-8500947259522457130, -5148093157385348682</prop>
+      <prop type="x-Context">-7869998512190951517, 5024184486729067314</prop>
+      <prop type="x-Context">-6752796148344694737, -2177541195325127200</prop>
+      <prop type="x-Context">-2920529370829540447, 4578810546</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(i)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(i)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">111</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172051Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172051Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172051Z">
+      <prop type="x-Context">122326, 152551</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the second element of the identification code shall be a unique code for each animal not exceeding 12 numeric characters.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б) вториот елемент за идентификацискиотата код ознака е единствената ознака за секое животно не подолга од 12 нумерични знацибројчеани карактери.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">115</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172051Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172051Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172051Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Time periods for the application of means of identification of kept bovine animals</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 13 Временски рокови за примена на средствата за идентификација на одгледуваните г</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">116</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172052Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172052Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172052Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Operators shall ensure that the means of identification referred to in point (a) of Article 112 of Regulation (EU) 2016/429 are applied to kept bovine animals before the expiry of a maximum time period after birth, to be determined by the Member State in which the animals were born.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>оведа 1.Операторите треба да обезбедат дека средствата за идентификација наведени во точка (а) од член 112 од Регулативата (ЕУ) 2016/429 се применуваат на одгледуваните говеда пред истекот на максимално дозволениот период по раѓањето, определен од земјата членка во која животните се родиле</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">117</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172053Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172053Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172053Z">
+      <prop type="x-Context">-419214820571610074, -4630878173623906724</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The maximum time period shall be calculated from the date of birth of the animals and shall not exceed 20 days.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ја. Максималниот дозволен рок се пресметува од датумот на раѓање на животното и не може да биде подолг од 20 дена.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">118</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172053Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172053Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172053Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>By way of derogation from paragraph 1, Member States may authorise operators to extend the maximum time period for the application of a second means of identification to up to 60 days, following the date of birth of the animals, for reasons related to the physiological development of the animals, if the second means of identification is a ruminal bolus.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Пo пат на отстапување од став 1, земјите членки можат да ги овластат операторите да го продолжат максималниот рок за примена на друго средство за идентификација до најмногу 60 дена од датумот на раѓање на животното од причини поврзани со физиолошкиот развој на животните, ако другото средство за идентифика</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">119</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210905T172054Z" creationid="DESKTOP-VNO6T3Q\Dell" changedate="20210905T172054Z" changeid="DESKTOP-VNO6T3Q\Dell" lastusagedate="20210905T172054Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>By way of derogation from paragraph 1, Member States may authorise operators to extend the maximum time period referred to in paragraph 1 to up to 9 months, under the following conditions:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ција е руминален болус. 3.Пo пат на отстапување од став 1, земјите членки можат да ги овластат операторите да го продолжат максималниот рок наведен во став 1 на најмногу девет месеци, под следниве услови:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0520</prop>
+      <prop type="x-SourceTUIndex">120</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

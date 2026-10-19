@@ -1,0 +1,464 @@
+{
+  "experiment": "phase3c-isolated-boundary-classifier",
+  "model": "gpt-5.6",
+  "endpoint": "POST https://api.openai.com/v1/responses",
+  "structuredOutput": true,
+  "referenceLabelsExposed": false,
+  "evaluationCasesSha256": "D94505D73A6F31539AC2350821AB40330EF92A568165B8282B5EBB3BB6F79FA9",
+  "usage": {
+    "input_tokens": 30511,
+    "output_tokens": 4435,
+    "total_tokens": 34946
+  },
+  "results": [
+    {
+      "ambiguityId": "32006L0126-boundary-01",
+      "decision": "KEEP_BOUNDARY",
+      "confidence": 0.99,
+      "reason_codes": [
+        "RUNNING_HEADER_BODY_BOUNDARY",
+        "LARGE_VERTICAL_GAP",
+        "GEOMETRIC_MISMATCH"
+      ],
+      "explanation": "“30.12.2006” is positioned at the top-right of the page and functions as a running header/date, while the right fragment is body text substantially lower in the right column. They must remain separate.",
+      "latencyMs": 4489,
+      "responseId": "resp_0908157381590ed5006ac8b1afb85487d2bebcb84b9193763a"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-02",
+      "decision": "KEEP_BOUNDARY",
+      "confidence": 0.99,
+      "reason_codes": [
+        "RECITAL_MARKER",
+        "SEMANTIC_MISMATCH",
+        "STYLE_MISMATCH",
+        "GEOMETRIC_SEPARATION"
+      ],
+      "explanation": "“(21)” is a standalone recital marker, while “in” continues the preceding sentence into “Article 5a of Decision 1999/468/EC.” They do not form one logical paragraph across this boundary.",
+      "latencyMs": 5839.7,
+      "responseId": "resp_05e68533df22a112006ac8b1b2eaac87d2868f8680b5d5f7aa"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-03",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SENTENCE_CONTINUATION",
+        "SAME_BASELINE",
+        "SAME_REGION",
+        "STYLE_COMPATIBLE",
+        "CONTIGUOUS_READING_ORDER"
+      ],
+      "explanation": "The right fragment directly continues the definition begun by the left fragment: “with or without a sidecar, as defined …”. Both fragments are on the same page and baseline, in the same column, with compatible styling and consecutive reading order.",
+      "latencyMs": 4007.3,
+      "responseId": "resp_080d6a38443d4f28006ac8b1b8cf4c87d285bb0c3320ab3c8a"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-04",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SENTENCE_CONTINUATION"
+      ],
+      "explanation": "The fragments are adjacent on the same baseline and continue the phrase “as defined in Article,” with following context continuing the same citation.",
+      "latencyMs": 2908.2,
+      "responseId": "resp_0146980894bbd1a0006ac8b1bcc19887d295a10b0137c986dc"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-05",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SYNTACTIC_CONTINUATION",
+        "SAME_REGION"
+      ],
+      "explanation": "The fragments are adjacent on the same baseline and form the continuous citation “1(2)(b) of Directive”, consistent with the surrounding text.",
+      "latencyMs": 2696.2,
+      "responseId": "resp_0e4dd7352d799662006ac8b1bfa97c87d29f91d724b624f802"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-06",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SENTENCE_CONTINUATION",
+        "SAME_SOURCE_BLOCK",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SAME_PAGE_REGION"
+      ],
+      "explanation": "The right fragment directly continues the phrase “motor- cycles” as “of this category shall be”. Both fragments are adjacent in reading order, share source block 22, use compatible styling, and occur in the same page region.",
+      "latencyMs": 3286.7,
+      "responseId": "resp_0f26f1e01f35d26b006ac8b1c2581c87d2ba74dbcac926dd71"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-07",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SAME_SOURCE_BLOCK",
+        "SAME_BASELINE",
+        "CONSECUTIVE_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SENTENCE_CONTINUATION"
+      ],
+      "explanation": "The fragments are consecutive words on the same baseline and in the same source block, forming the continuous phrase “of this category” within the surrounding sentence.",
+      "latencyMs": 3682.5,
+      "responseId": "resp_0d7bfc784d435ed5006ac8b1c5c59c87d290e8fc7c3dbd9905"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-08",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "SAME_SOURCE_BLOCK",
+        "CONTIGUOUS_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SENTENCE_CONTINUATION"
+      ],
+      "explanation": "The fragments are adjacent on the same baseline and source block, with matching style and continuous syntax: “of this category shall be subject to a”.",
+      "latencyMs": 2756.4,
+      "responseId": "resp_066997793c7ce3c2006ac8b1c9534487d29c456f585ab3a765"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-09",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SAME_SENTENCE",
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SMALL_HORIZONTAL_GAP"
+      ],
+      "explanation": "The fragments are adjacent words on the same baseline and in the same source block, forming the continuous phrase “shall be subject” within the surrounding sentence.",
+      "latencyMs": 2152.2,
+      "responseId": "resp_0d3e54ab0040afc0006ac8b1cc127087d2885e9845884a8880"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-10",
+      "decision": "MERGE",
+      "confidence": 0.998,
+      "reason_codes": [
+        "SAME_SENTENCE",
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SAME_SOURCE_BLOCK"
+      ],
+      "explanation": "The fragments are consecutive words in the phrase “subject to a minimum,” with matching style, the same baseline and region, adjacent reading order, and shared source block.",
+      "latencyMs": 2980.1,
+      "responseId": "resp_043900bf52061cd1006ac8b1ce3f3c87d2a22b225a645eca2b"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-11",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SYNTACTIC_CONTINUATION",
+        "SAME_SOURCE_BLOCK",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SAME_REGION"
+      ],
+      "explanation": "“to a” continues directly with “minimum of two years' experience…” to form one sentence. The fragments are adjacent lines in the same source block, column, and style.",
+      "latencyMs": 3058,
+      "responseId": "resp_0aa76d463995456d006ac8b1d130dc87d2b991e2b73b861c32"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-12",
+      "decision": "KEEP_BOUNDARY",
+      "confidence": 0.999,
+      "reason_codes": [
+        "RUNNING_HEADER_DATE",
+        "TOP_MARGIN_POSITION",
+        "BODY_TEXT_SEPARATE"
+      ],
+      "explanation": "The left fragment is a date positioned in the page’s top margin, consistent with a running header. The right fragment is body text beginning lower in the right column. A running header must not be merged with body text.",
+      "latencyMs": 2456.2,
+      "responseId": "resp_06bad38e014b1fc4006ac8b1d44bf087d2963e802e6b36d0d4"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-13",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SYNTACTIC_CONTINUATION",
+        "SAME_SOURCE_BLOCK",
+        "ADJACENT_READING_ORDER",
+        "STYLE_MATCH",
+        "SAME_PAGE_REGION"
+      ],
+      "explanation": "The left fragment ends with “being” and the right fragment continues directly with “used by,” forming a single grammatical list item. Both fragments are adjacent in reading order, share the same page, region, font, and size, and originate from the same source block.",
+      "latencyMs": 2997.5,
+      "responseId": "resp_0be87b05a087864b006ac8b1d6b8c887d29923e49bb17af50c"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-14",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SYNTACTIC_CONTINUATION"
+      ],
+      "explanation": "The fragments are adjacent on the same baseline, in the same text block and region, with matching style. “used by non-commercial” is a direct continuation within the same logical list-item paragraph.",
+      "latencyMs": 2741.5,
+      "responseId": "resp_0007ba9669a4507d006ac8b1d9c35c87d290a348077e13dab7"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-15",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SAME_SOURCE_BLOCK",
+        "SENTENCE_CONTINUATION"
+      ],
+      "explanation": "The fragments are adjacent on the same line and form the continuous phrase “non-commercial bodies” within the surrounding sentence.",
+      "latencyMs": 2863.5,
+      "responseId": "resp_0d9cab558d6a8cfc006ac8b1dc7ae887d28bd3bf19d7c08d31"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-16",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "SAME_SOURCE_BLOCK",
+        "STYLE_COMPATIBLE",
+        "SENTENCE_CONTINUATION"
+      ],
+      "explanation": "The fragments are adjacent on the same baseline and source block, with matching style. Context forms the continuous phrase “used by non-commercial bodies for social purposes...”.",
+      "latencyMs": 2562.1,
+      "responseId": "resp_0b010a2cf32853e8006ac8b1df57c087d29dbe5394520463b9"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-17",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SENTENCE_CONTINUATION",
+        "CONSECUTIVE_LINES",
+        "SAME_SOURCE_BLOCK",
+        "STYLE_MATCH"
+      ],
+      "explanation": "The fragments are consecutive lines in the same source block and column. “for social” continues directly as “purposes and that…”, forming one logical paragraph.",
+      "latencyMs": 3378.9,
+      "responseId": "resp_067b1fbdaed956dc006ac8b1e1dc3c87d285d80f1d0209737d"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-18",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SENTENCE_CONTINUATION"
+      ],
+      "explanation": "“States” and “shall” are adjacent words on the same baseline and continue the list-item text beginning “(c) Member” and followed by “take the”.",
+      "latencyMs": 2665.1,
+      "responseId": "resp_030161161be6d487006ac8b1e5426087d2b01d220a4a8f16d1"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-19",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "SAME_SOURCE_BLOCK",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SENTENCE_CONTINUATION"
+      ],
+      "explanation": "The fragments are adjacent on the same baseline and form the continuous phrase “shall take the” within the surrounding sentence.",
+      "latencyMs": 2815.3,
+      "responseId": "resp_05f521ee07dd9372006ac8b1e7f37087d2a769e3229b9825b9"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-20",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SAME_SENTENCE",
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE"
+      ],
+      "explanation": "The fragments are consecutive words in the phrase “take the necessary measures,” with matching style, the same baseline and region, and adjacent reading order.",
+      "latencyMs": 3222.5,
+      "responseId": "resp_06b2fcf60eeb91f5006ac8b1eadb6c87d28c4ef3520ff60a18"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-21",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SAME_SOURCE_BLOCK",
+        "SENTENCE_CONTINUITY"
+      ],
+      "explanation": "The fragments are adjacent words on the same line and in the same source block, forming the phrase “necessary measures” within the surrounding sentence.",
+      "latencyMs": 2049,
+      "responseId": "resp_0adb59beac11811d006ac8b1ee064887d2ae9355903d6fd5c0"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-22",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_SOURCE_BLOCK",
+        "CONSECUTIVE_LINES",
+        "SAME_STYLE",
+        "SAME_REGION",
+        "SYNTACTIC_CONTINUATION",
+        "SMALL_VERTICAL_GAP"
+      ],
+      "explanation": "The right fragment directly continues “measures” as “measures pursuant to point (b).” Both fragments are consecutive lines in the same source block, column, page, and style.",
+      "latencyMs": 3380.2,
+      "responseId": "resp_068c3ef346df4370006ac8b1f000e087d29adb641cacd72ca8"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-23",
+      "decision": "KEEP_BOUNDARY",
+      "confidence": 0.999,
+      "reason_codes": [
+        "RUNNING_HEADER",
+        "BODY_TEXT_CONTINUATION_FROM_PRECEDING_CONTEXT",
+        "LARGE_INDENTATION_SHIFT"
+      ],
+      "explanation": "“30.12.2006” is a running page header at the top right. The right fragment is body text continuing the preceding hyphenated phrase “definite dura-” as “tion.” A header must not be merged with body text.",
+      "latencyMs": 2565.7,
+      "responseId": "resp_09e32aa7b62dfac3006ac8b1f36c7887d2a1e5d498178cc56b"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-24",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SENTENCE_CONTINUATION",
+        "SAME_SOURCE_BLOCK",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SAME_REGION"
+      ],
+      "explanation": "The right fragment directly completes the clause “shall establish equivalences.” Both fragments are adjacent in reading order, use compatible styling, and originate from the same source block and column.",
+      "latencyMs": 2984.9,
+      "responseId": "resp_071c58c139d9b5cd006ac8b1f5f6d487d2b93cf19c634fe0f1"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-25",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_SOURCE_BLOCK",
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SENTENCE_CONTINUATION"
+      ],
+      "explanation": "The fragments are adjacent words on the same baseline, in the same source block and region, with compatible styling. They continue the phrase “establish equivalences between entitlements obtained” within the same logical list-item paragraph.",
+      "latencyMs": 3776.1,
+      "responseId": "resp_0409b3608222cf4a006ac8b1f8ef3887d294422a6a251111ff"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-26",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SAME_SOURCE_BLOCK",
+        "SAME_BASELINE",
+        "ADJACENT_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SENTENCE_CONTINUATION"
+      ],
+      "explanation": "The fragments are adjacent on the same baseline within the same source block and continue the phrase “equivalences between entitlements obtained”.",
+      "latencyMs": 2493.5,
+      "responseId": "resp_0e6d1c6884fbee18006ac8b1fcb89c87d2931b986b32dbcb56"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-27",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "SAME_SOURCE_BLOCK",
+        "CONSECUTIVE_READING_ORDER",
+        "STYLE_COMPATIBLE",
+        "SENTENCE_CONTINUATION"
+      ],
+      "explanation": "The fragments are consecutive words on the same baseline and in the same source block, forming the phrase “entitlements obtained” within the surrounding sentence.",
+      "latencyMs": 2512.5,
+      "responseId": "resp_079aa0dcba108696006ac8b1ff36d487d2935f81a226a3b168"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-28",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_SOURCE_BLOCK",
+        "CONSECUTIVE_READING_ORDER",
+        "LINE_WRAP_CONTINUATION",
+        "SYNTACTIC_CONTINUATION",
+        "STYLE_MATCH",
+        "SMALL_VERTICAL_GAP"
+      ],
+      "explanation": "The fragments are consecutive lines in the same source block and region, with matching style. “obtained before the implementation…” is a direct syntactic continuation within one paragraph.",
+      "latencyMs": 3395.2,
+      "responseId": "resp_07b67f85bbc154d9006ac8b201bfc487d29d4d66f15d3d7c02"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-29",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SAME_SOURCE_BLOCK",
+        "CONSECUTIVE_LINES",
+        "SENTENCE_CONTINUATION",
+        "STYLE_COMPATIBLE",
+        "SAME_PAGE_AND_REGION"
+      ],
+      "explanation": "The left fragment ends with the incomplete phrase “transport of” and the right begins with “children;”, directly completing it. Both fragments are consecutive lines in the same source block, with compatible styling and a minimal vertical gap.",
+      "latencyMs": 2635.4,
+      "responseId": "resp_0e467c9bc0e73b41006ac8b2051fe087d28f434a6d928dabb5"
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-30",
+      "decision": "MERGE",
+      "confidence": 0.999,
+      "reason_codes": [
+        "SAME_SOURCE_BLOCK",
+        "CONSECUTIVE_LINES",
+        "SENTENCE_CONTINUATION",
+        "STYLE_COMPATIBLE",
+        "MINIMAL_VERTICAL_GAP"
+      ],
+      "explanation": "The left fragment ends with “using” and the right begins with its direct object, “the various braking systems”. Both fragments are consecutive lines in the same source block, on the same page, with matching font and a minimal vertical gap. The right-side indentation is consistent with a wrapped continuation line.",
+      "latencyMs": 2481.2,
+      "responseId": "resp_0324ced8b19b8ee4006ac8b207c00887d284b66d9b3f587fcb"
+    }
+  ],
+  "evaluation": {
+    "total": 30,
+    "resolved": 30,
+    "abstained": 0,
+    "agreement": 30,
+    "scored": 30,
+    "falseMerge": 0,
+    "falseKeepBoundary": 0
+  }
+}

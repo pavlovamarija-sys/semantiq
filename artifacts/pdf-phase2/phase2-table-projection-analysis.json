@@ -1,0 +1,1560 @@
+{
+  "old": {
+    "nativeTables": 0,
+    "studioTableContextUnits": 0,
+    "assessment": "Flattened paragraphs; no row/cell identity reaches Studio."
+  },
+  "new": {
+    "nativeTables": 3,
+    "rows": 48,
+    "cells": 100,
+    "studioTableContextUnits": 101,
+    "cellsWithNoStudioUnit": 2,
+    "cellsWithOneStudioUnit": 95,
+    "cellsWithMultipleStudioUnits": 3,
+    "rowColumnOrder": "PASS",
+    "article1InTableContext": true,
+    "annexIReferenceInTableContext": true
+  },
+  "cellMappings": [
+    {
+      "table": 0,
+      "row": 0,
+      "cell": 0,
+      "docxParagraphs": 2,
+      "studioTransUnits": 2,
+      "catSegments": 2,
+      "texts": [
+        "Council Directive 84/450/EEC",
+        "(OJ L 250, 19.9.1984, p. 17)"
+      ]
+    },
+    {
+      "table": 0,
+      "row": 0,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 0,
+      "catSegments": 0,
+      "texts": []
+    },
+    {
+      "table": 0,
+      "row": 1,
+      "cell": 0,
+      "docxParagraphs": 2,
+      "studioTransUnits": 2,
+      "catSegments": 2,
+      "texts": [
+        "Directive 97/55/EC of the European Parliament and of the Council",
+        "(OJ L 290, 23.10.1997, p. 18)"
+      ]
+    },
+    {
+      "table": 0,
+      "row": 1,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 0,
+      "catSegments": 0,
+      "texts": []
+    },
+    {
+      "table": 0,
+      "row": 2,
+      "cell": 0,
+      "docxParagraphs": 2,
+      "studioTransUnits": 2,
+      "catSegments": 2,
+      "texts": [
+        "Directive 2005/29/EC of the European Parliament and of the Council",
+        "(OJ L 149, 11.6.2005, p. 22)"
+      ]
+    },
+    {
+      "table": 0,
+      "row": 2,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "only Article 14"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 0,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Directive"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 0,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Time-limit for transposition"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 0,
+      "cell": 2,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Date of application"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 1,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "84/450/EEC"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 1,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "1 October 1986"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 1,
+      "cell": 2,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "—"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 2,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "97/55/EC"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 2,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "23 April 2000"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 2,
+      "cell": 2,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "—"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 3,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "2005/29/EC"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 3,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "12 June 2007"
+      ]
+    },
+    {
+      "table": 1,
+      "row": 3,
+      "cell": 2,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "12 December 2007"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 0,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Directive 84/450/EEC"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 0,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "This Directive"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 1,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 1"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 1,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 1"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 2,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2, introductory words"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 2,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2, introductory words"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 3,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2, point 1"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 3,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2(a)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 4,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2, point 2"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 4,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2(b)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 5,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2, point 2a"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 5,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2(c)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 6,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2, point 3"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 6,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2(d)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 7,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2, point 4"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 7,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 2(e)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 8,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 3"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 8,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 3"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 9,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 3a(1)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 9,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 10,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(1), first subparagraph, first sentence"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 10,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(1), first subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 11,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(1), first subparagraph, second sentence"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 11,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(1), second subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 12,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(1), second subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 12,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(2), first subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 13,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(1), third subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 13,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(2), second subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 14,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(2), first subparagraph, introductory words"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 14,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(3), first subparagraph, introductory words"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 15,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(2), first subparagraph, first indent"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 15,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(3), first subparagraph, point (a)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 16,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(2), first subparagraph, second indent"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 16,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(3), first subparagraph, point (b)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 17,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(2), first subparagraph, final words"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 17,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(3), second subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 18,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(2), second subparagraph, introductory words"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 18,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(3), third subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 19,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(2), second subparagraph, first indent"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 19,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(3), third subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 20,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(2), second subparagraph, second indent"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 20,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(3), third subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 21,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(2), second subparagraph, final words"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 21,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(3), third subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 22,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(2), third subparagraph, introductory words"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 22,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(4), introductory words"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 23,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(2), third subparagraph, first indent"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 23,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(4), point (a)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 24,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(2), third subparagraph, second indent"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 24,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(4), point (b)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 25,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(3), first subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 25,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(5)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 26,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 4(3), second subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 26,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5(6)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 27,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 5"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 27,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 6"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 28,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 6"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 28,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 7"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 29,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 7(1)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 29,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 8(1), first subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 30,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 7(2)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 30,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 8(1), second subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 31,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 7(3)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 31,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 8(2)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 32,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 7(4)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 32,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 8(3)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 33,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 7(5)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 33,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 8(4)"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 34,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 8, first subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 34,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "—"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 35,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 8, second subparagraph"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 35,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 9"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 36,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "—"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 36,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 10"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 37,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "—"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 37,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 11"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 38,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 9"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 38,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Article 12"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 39,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "—"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 39,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Annex I"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 40,
+      "cell": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "—"
+      ]
+    },
+    {
+      "table": 2,
+      "row": 40,
+      "cell": 1,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "texts": [
+        "Annex II"
+      ]
+    }
+  ],
+  "headingReferenceEvidence": {
+    "Article 1": {
+      "old": [
+        {
+          "index": 62,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 185,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 186,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 65,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 196,
+          "heading": false,
+          "tableCell": true
+        },
+        {
+          "index": 197,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "Article 2": {
+      "old": [
+        {
+          "index": 64,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 67,
+          "heading": true,
+          "tableCell": false
+        }
+      ]
+    },
+    "Article 3": {
+      "old": [
+        {
+          "index": 74,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 199,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 200,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 78,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 210,
+          "heading": false,
+          "tableCell": true
+        },
+        {
+          "index": 211,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "Article 4": {
+      "old": [
+        {
+          "index": 79,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 202,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 83,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 213,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "Article 5": {
+      "old": [
+        {
+          "index": 90,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 237,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 95,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 248,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "Article 6": {
+      "old": [
+        {
+          "index": 118,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 238,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 239,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 125,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 249,
+          "heading": false,
+          "tableCell": true
+        },
+        {
+          "index": 250,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "Article 7": {
+      "old": [
+        {
+          "index": 120,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 240,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 127,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 251,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "Article 8": {
+      "old": [
+        {
+          "index": 125,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 132,
+          "heading": true,
+          "tableCell": false
+        }
+      ]
+    },
+    "Article 9": {
+      "old": [
+        {
+          "index": 134,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 254,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 259,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 142,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 265,
+          "heading": false,
+          "tableCell": true
+        },
+        {
+          "index": 270,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "Article 10": {
+      "old": [
+        {
+          "index": 137,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 256,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 145,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 267,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "Article 11": {
+      "old": [
+        {
+          "index": 140,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 258,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 148,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 269,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "Article 12": {
+      "old": [
+        {
+          "index": 142,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 260,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 150,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 271,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "ANNEX I": {
+      "old": [
+        {
+          "index": 151,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 262,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 162,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 273,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "ANNEX II": {
+      "old": [
+        {
+          "index": 181,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 264,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 192,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 275,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "Annex I": {
+      "old": [
+        {
+          "index": 151,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 262,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 162,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 273,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    },
+    "Annex II": {
+      "old": [
+        {
+          "index": 181,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 264,
+          "heading": true,
+          "tableCell": false
+        }
+      ],
+      "new": [
+        {
+          "index": 192,
+          "heading": true,
+          "tableCell": false
+        },
+        {
+          "index": 275,
+          "heading": false,
+          "tableCell": true
+        }
+      ]
+    }
+  },
+  "classification": "IMPROVED",
+  "caveat": "Three Annex I Part A logical cells still contain two DOCX paragraphs and therefore two Studio units/segments each."
+}

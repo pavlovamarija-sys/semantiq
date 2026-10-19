@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210824T111041Z" creationid="NAKJEVI\Vane">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32018L2057_MK</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">BreakOnTag</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32018L2057</prop>
+    <prop type="x-SourceTMX">32018L2057_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">e75775679cda65e5528e4ed9f316faea0fc7eeb82505d94b99cc45fb15b819eb</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">12</prop>
+  </header>
+  <body>
+    <tu creationdate="20210824T111124Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210824T111159Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T172329Z" usagecount="3">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL DIRECTIVE (EU) 2018/2057</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВА (ЕУ) 2018/2057 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210824T111201Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210824T111222Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T172329Z" usagecount="2">
+      <prop type="x-Context">9107552971782311425, 4484054480406872870</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 20 December 2018</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 20 декември 2018 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210824T111226Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210824T191047Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T172329Z" usagecount="2">
+      <prop type="x-Context">3657596318, -6945057590836406931</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>amending Directive 2006/112/EC on the common system of value added tax as regards the temporary application of a generalised reverse charge mechanism in relation to supplies of goods and services above a certain threshold</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за изменување на Директивата 2006/112/ЕЗ за заедничкиот систем на данок на додадена вредност во однос на привремената примена на општ механизам за пренесување на даночна обврска за набавки на стоки и услуги над одреден праг С</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210824T191050Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210824T191059Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T172329Z" usagecount="2">
+      <prop type="x-Context">-6470904881433754552, 4837060459012134445</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОВЕТОТ НА ЕВРОПСКАТА УНИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210529T083439Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210824T191117Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T172329Z" usagecount="2">
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Article 113 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија, а особено член 113 од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210529T083520Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210824T191118Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T172329Z" usagecount="2">
+      <prop type="x-Context">1333417285834173202, -1562503264613108206</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210529T083743Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210824T191635Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T172329Z" usagecount="2">
+      <prop type="x-Context">-3839773534996336846, -2785450077649139251</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the opinion of the European Economic and Social Committee (<ph x="1" type="ph27" />),</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ент (), имајќи го предвид мислењето на Европскиот економско-социјален комитет (),</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">9</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210824T191827Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210825T060848Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210825T060848Z">
+      <prop type="x-Context">3520251291494, -1473885434305972833</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In its communication of 7 April 2016 on an action plan on VAT, the Commission announced its intentions to come forward with a proposal for a definitive value added tax (VAT) regime for cross-border business-to-business trade between Member States on the basis of the taxation of cross-border supplies of goods and services.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во своето соопштение од 7 април 2016 година за акциски план за ДДВ, Комисијата ги најави своите намери да изнесе предлог за конечен режим за данокот на додадена вредност (ДДВ) за прекугранична трговија помеѓу претпријатијата помеѓу земјите членки врз основа на оданочувањето на прекуграничните набавки на стоки и услуги.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">13</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210825T080817Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210825T081146Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210825T081146Z">
+      <prop type="x-Context">-9135179001236264834, -6131916286834992298</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In order to limit the risk of fraud shifting between Member States, Member States that fulfil certain criteria as regards their fraud level, in particular in relation to carousel fraud, and that are able to establish that other control measures are not sufficient to combat that fraud, should be allowed to use the GRCM.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Со цел ограничување на ризикот од пренасочување на измамите помеѓу земјите членки, на земјите членки што исполнуваат одредени критериуми во однос на нивното ниво на измами, особено во однос на кружните измами, и што може да докажат дека другите контролни мерки не се доволни за борба против тие измами, треба да им се дозволи да го применуваат ОМПДО. П</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">18</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210825T081147Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210825T082956Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210825T082956Z">
+      <prop type="x-Context">225964399654663212, -4086326758615729636</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In addition, they should establish that estimated gains in tax compliance and collection expected as a result of the introduction of the GRCM outweigh the estimated overall additional burden on businesses and tax authorities and that businesses and tax authorities will not incur costs that are higher than those incurred as a result of the application of other control measures.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>окрај тоа, тие треба да докажат дека проценетите добивки од исполнувањето на даночните обврски и наплатата на данокот, кои се очекуваат како резултат на воведувањето на ОМПДО, се поголеми од проценетото целокупно дополнително оптоварување на претпријатијата и на даночните органи и дека претпријатијата и даночните органи нема да претрпат трошоци повисоки од трошоците настанати како резултат на примена на други контролни мерки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210825T112917Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210825T120014Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T172329Z" usagecount="2">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>By way of derogation from Article 193, a Member State may, until 30 June 2022, introduce a generalised reverse charge mechanism (‘GRCM’) on non-cross-border supplies, providing that the person liable for payment of VAT is the taxable person to whom all supplies of goods and services are made above a threshold of EUR 17 500 per transaction.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Директива 2006/112/ЕЗ, се вметнува следниов член: „Член 199в 1.По пат на отстапување од член 193, земјата членка може, до 30 јуни 2022 година, да воведе општ механизам за пренесување на даночна обврска (ОМПДО) за набавки што не се прекугранични, под услов лицето кое е одговорно за плаќање на ДДВ да е даночен обврзник кому му се доставуваат сите стоки и услуги над праг од 17.500 ЕУР по трансакција.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">34</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210825T121210Z" creationid="DESKTOP-K7QEIH6\Vane" changedate="20210825T121439Z" changeid="DESKTOP-K7QEIH6\Vane" lastusagedate="20210905T172329Z" usagecount="2">
+      <prop type="x-Context">7687026470043954105, -343955679198725909</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>A Member State wishing to introduce the GRCM shall comply with all of the following conditions:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Земја членка што сака да воведе ОМПДО, го исполнува секој од следниве услови:</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L2057</prop>
+      <prop type="x-SourceTUIndex">35</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

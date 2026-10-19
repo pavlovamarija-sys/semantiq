@@ -1,0 +1,87 @@
+{
+  "celex": "32006L0114",
+  "old": {
+    "nonEmptyDocxParagraphs": 259,
+    "tables": 0
+  },
+  "experimental": {
+    "nonEmptyDocxParagraphs": 270,
+    "nonEmptyBodyParagraphs": 169,
+    "reconstructedLogicalParagraphs": 243,
+    "logicalContentNodes": 269,
+    "translationUnitsIfDerivedFromTypedNodes": 269,
+    "tables": 3,
+    "rows": 48,
+    "cells": 100,
+    "confirmedFalseBoundariesRepaired": 4,
+    "allDeterministicMergeDecisions": 18,
+    "unresolvedAmbiguousBoundaries": 7,
+    "docxStructure": {
+      "nonEmptyDocxParagraphs": 270,
+      "nonEmptyBodyParagraphs": 169,
+      "tables": [
+        {
+          "index": 0,
+          "rows": 3,
+          "columns": 2,
+          "cells": 6,
+          "containsArticle1": false,
+          "containsAnnexI": false
+        },
+        {
+          "index": 1,
+          "rows": 4,
+          "columns": 3,
+          "cells": 12,
+          "containsArticle1": false,
+          "containsAnnexI": false
+        },
+        {
+          "index": 2,
+          "rows": 41,
+          "columns": 2,
+          "cells": 82,
+          "containsArticle1": true,
+          "containsAnnexI": true
+        }
+      ],
+      "article1InTableCell": true,
+      "annexIInTableCell": true
+    }
+  },
+  "textIntegrity": {
+    "status": "PASS",
+    "tokens": 3389,
+    "sha256": "c1041d1e04032898999d7bf32d1a541f49943eb770d06d4daac906622edc59ab"
+  },
+  "sourceToModelIntegrity": {
+    "status": "PASS",
+    "tokens": 3389,
+    "sourceSpans": 3362,
+    "modelSpans": 3362,
+    "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+  },
+  "structuralHeadingValidation": {
+    "status": "PASS",
+    "articles": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "annexes": [
+      1,
+      2
+    ],
+    "issues": []
+  },
+  "productionBehaviorChanged": false
+}

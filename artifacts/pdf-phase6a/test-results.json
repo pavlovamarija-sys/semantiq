@@ -1,0 +1,6 @@
+{
+  "focusedContractTests": {"status": "PASS", "passed": 3},
+  "workerSuite": {"status": "PASS", "passed": 34, "warnings": 1},
+  "typescriptTypecheck": {"status": "PASS"},
+  "fixtureRegressionRunner": {"status": "PASS", "fixtures": ["32006L0114", "32006L0126", "32006L0042"]}
+}

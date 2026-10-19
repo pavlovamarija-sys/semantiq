@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "authoritativePdfPersistedBeforeShadowByCode": true,
+  "shadowSameSourceBufferByCode": true,
+  "shadowOwnRunIdentity": true,
+  "shadowDocxNonAuthoritative": true,
+  "shadowDocxPersistedAsWorkingDocument": false,
+  "evidenceNonAuthoritative": true,
+  "shadowDeterminesImportSuccess": false,
+  "shadowFailureFailsImport": false,
+  "evidenceWriteFailureFailsImport": false,
+  "shadowFeedsExtraction": false,
+  "shadowFeedsCanonicalSegments": false,
+  "shadowFeedsCat": false,
+  "shadowFeedsTranslation": false,
+  "flagOffPreventsInvocation": true,
+  "activeFailureRescuedByShadow": false,
+  "supportingEvidence": ["Phase 6B implementation", "Phase 6B.2 tests", "Phase 6B.3 five-case orchestration suite", "real 32008L0050 runtime record"]
+}

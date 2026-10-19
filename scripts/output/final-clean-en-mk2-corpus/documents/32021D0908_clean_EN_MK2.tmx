@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210728T174903Z" creationid="HP\a">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32021D0908</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021D0908</prop>
+    <prop type="x-SourceTMX">32021D0908_MK1.tmx</prop>
+    <prop type="x-SourceTMXSHA256">acae9efdfce4c72caf76188c35f4a32a5e8271c8884885cb6743088f531d6f90</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">6</prop>
+  </header>
+  <body>
+    <tu creationdate="20180726T111454Z" creationid="SEI\Marija.Pavlova" changedate="20210728T174945Z" changeid="PC" lastusagedate="20210728T183633Z" usagecount="1">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL DECISION (CFSP) 2021/908</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА (ЗНБП) 2021/908 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0908</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T174947Z" creationid="PC" changedate="20210728T175004Z" changeid="PC" lastusagedate="20210728T183633Z" usagecount="1">
+      <prop type="x-Context">-4471331182894851081, 2260364519024842378</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 4 June 2021</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 4 јуни 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0908</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T175002Z" creationid="PC" changedate="20210728T175038Z" changeid="PC" lastusagedate="20210728T183633Z" usagecount="1">
+      <prop type="x-Context">3657596318, -790154011644746187</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>amending Decision 2012/642/CFSP concerning restrictive measures in view of the situation in Belarus</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за спроведување на Одлуката 2012/642/ЗНБП за рестриктивни мерки во поглед однос на состојбата во Белоруси</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0908</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201020T073841Z" creationid="DESKTOP-R6F8DM9\Angel" changedate="20210728T175041Z" changeid="PC" lastusagedate="20210728T183633Z" usagecount="1">
+      <prop type="x-Context">-7319303401356404272, 4241771706967979695</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ја СОВЕТОТ НА ЕВРОПСКАТА УНИЈ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0908</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20180906T060656Z" creationid="SEI\Marija.Bojkova" changedate="20210728T175046Z" changeid="PC" lastusagedate="20210728T183633Z" usagecount="1">
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on European Union and in particular Article 29 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>А, имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0908</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20170511T120214Z" creationid="SEI\Sanja.Georgievska" changedate="20210728T175339Z" changeid="PC" lastusagedate="20210728T183633Z" usagecount="1">
+      <prop type="x-Context">7840276140990562998, 5937590062171650789</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘Article 2a</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„Член 2a</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0908</prop>
+      <prop type="x-SourceTUIndex">11</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

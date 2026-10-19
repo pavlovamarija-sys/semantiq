@@ -1,0 +1,690 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-US" srclang="en-US" creationdate="20220818T115427Z" creationid="DESKTOP-O174019\HP 2021">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">EN-MK</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32019L1153</prop>
+    <prop type="x-SourceTMX">32019L1153_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">0a7d854bcb672f9f2eab33423e57c1dd2c4d6cf930637147747c5820b42e6db5</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">42</prop>
+  </header>
+  <body>
+    <tu creationdate="20220818T115520Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220818T120115Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220818T120115Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>DIRECTIVE (EU) 2019/1153 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВА (ЕУ) 2019/1153 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T120123Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220820T155155Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220818T120124Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>of 20 June 2019</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 20 јуни 2019 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T120136Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220818T120137Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T151637Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">1074201001, 4231707174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>laying down rules facilitating the use of financial and other information for the prevention, detection, investigation or prosecution of certain criminal offences, and repealing Council Decision 2000/642/JHA</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за утврдување на правила кои овозможуваат употреба на финансиски и други информации за спречување, откривање, истрага или кривично гонење запрогон на одредени незаконски кривични дела и укинување на Одлуката 2000/642/ПВР на</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T120159Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220818T120200Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T152729Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-7124098552985558198, -4614663339850189355</prop>
+      <prop type="x-ContextContent">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, |  | ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Article 87(2) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ИЈА, имајќи го предвид Договорот за функционирање на Европската унијаУнија, а особено член 87(2) од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T120205Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220818T120306Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220818T120306Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-8229639682514783868, -5777382943661448700</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 87(2) thereof, |  | имајќи го предвид Договорот за функционирање на Европската унија, а особено член 87(2) од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Комисијата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T120346Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220818T120348Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220818T120348Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-7799275716982960255, 6129419318174696374</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the European Commission, |  | имајќи го предвид  предлогот на Комисијата, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>After transmission of the draft legislative act to the national parliaments,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>по доставување на нацрт-законодавниот акт до националните парламенти,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T143732Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220819T121410Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220819T121410Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">(1) |  | (1) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>In order to enhance security, improve prosecution of financial crimes, combat money laundering and prevent tax crimes in the Member States and across the Union, it is necessary to improve access to information by Financial Intelligence Units (‘FIUs’) and public authorities responsible for the prevention, detection, investigation or prosecution of serious crime, to enhance their ability to conduct financial investigations and to improve cooperation between them.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(2)Со цел да се зајакне безбедноста, да се подобри гонењето на финансиски криминал, борбата против перење пари и да се спречат даночни казниви дела во земјите -членки и на целата територија на УнијатаУнијата, неопходно е да се подобри пристапот до информациите од страна на Финансиско- разузнавачка единица („ФИУ“) и јавните власти органи одговорни за спречување, откривање, истрага или гонење запрогон на тешки форми на криминалкривични дела, со цел подобрување на нивната способност за спроведување финансиски истраги и за подобрување на нивната меѓусебна соработка.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">16</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T151158Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220818T151634Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220818T151634Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">(1) |  | (1) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Pursuant to Article 4(3) of the Treaty on European Union (TEU), the Union and the Member States are to assist each other.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(3)Во согласност со член 4(3) од Договорот за Европската унија Унија (ДЕУ), Унијата и земјите членки треба меѓусебно да си помагаат едни на др</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">17</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T151817Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220818T152113Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220818T152113Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">4525162190574148603, 7770594764178813447</prop>
+      <prop type="x-ContextContent">Pursuant to Article 4(3) of the Treaty on European Union (TEU), the Union and the Member States are to assist each other. |  | Во согласност со член 4(3) од Договорот за Европската унија (ДЕУ), Унијата и земјите членки треба да си помагаат едни на други. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>They should also commit to cooperate in a loyal and expeditious manner.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>уги. Тие, исто така, се обврзуваат да соработуваат лојално и навремено.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">18</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T152240Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220820T180253Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220818T212859Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>In its communication of 2 February 2016 on an ‘Action Plan to strengthen the fight against terrorist financing’, the Commission committed to explore the possibility of a distinct self-standing legal instrument to broaden the access to centralised bank and payment account registers by Member States’ authorities, including by authorities competent for the prevention, detection, investigation or prosecution of criminal offences, by Asset Recovery Offices, by tax authorities and by anti-corruption authorities.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(4)Во соопштението од 2 февруари 2016 година, за акцискиот план, со цел да се зајакне борбата против финансирање на тероризам, Комисијата се обврза да ја истражи можноста за посебен самостоен правен инструмент за да го прошири пристапот до централизираните банкарски и платежни регистри од страна на властите органите на земјите членки, вклучувајќи ги и органите надлежни за спречување, откривање, истрага или кривично гонење запрогон на незаконски кривични дела, преку органите канцелариите за наплатаповрат на имот, од даночните власти органи и од антикорупциските</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T212926Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220818T213157Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220818T213157Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">4169245432, 5241497589</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Moreover, that Action Plan also called for a mapping of obstacles to the access to, exchange and use of information as well as to operational cooperation between FIUs.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>властиоргани. Освен тоа, акцискиот план повикува на мапирање на пречките за пристап, размена и користење на информации, како и за оперативна соработка помеѓу „ФИУ“.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T213234Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220818T213513Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220818T213513Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">(1) |  | (1) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Combating serious crime, including financial fraud and money laundering, remains a priority for the Union.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(5)Борбата против тешки форми на криминалкривични дела, вклучувајќи финансиска измама и перење на пари, останува приоритет за У</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220818T213804Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220818T214852Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220818T214852Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">(1) |  | (1) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>Directive (EU) 2015/849 of the European Parliament and of the Council (<ph x="1" type="316" />) requires Member States to put in place centralised bank account registries or data retrieval systems allowing the timely identification of the persons holding bank and payment accounts and safe-deposit boxes.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>нијата. (6)Директивата (ЕУ) 2015/849 на Европскиот парламент и на Советот () им наложува на земјите членки да воспостават централизирани регистри на банкарски сметки или системи за пронаоѓање преземање податоци, што овозможуваат навремена идентификација на лицата кои поседуваат банкарски и платежни сметки и сефови.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T145123Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T145212Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T145212Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Member States shall review the effectiveness of their systems to combat serious criminal offences by maintaining comprehensive statistics.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Следење 1.Земјите членки ја ревидираат преиспитуваат ефективноста на нивните системи за борба против тешки форми на кривични дела преку водење сеопфатна статистика.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">258</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T145231Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T145300Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T145300Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>By 1 February 2020, the Commission shall establish a detailed programme for monitoring the outputs, results and impact of this Directive.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.До 1 февруари 2020 година, Комисијата ќе воспоставивоспоставува детална програма за следење на резултатите и влијанието на оваа дирек</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">259</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T145343Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T145357Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T145357Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-1478509872045544984, -2596980380433212647</prop>
+      <prop type="x-ContextContent">That programme shall set out the means by which, and the intervals at which, the data and other necessary evidence will be collected. |  | Таа програма ги утврдува средствата со кои и интервалите во кои ќе се собираат податоците и другите потребни докази. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>It shall specify the action to be taken by the Commission and by the Member States in collecting and analysing the data and other evidence.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и докази. Во неа се прецизирани активностите, што треба да ги преземат Комисијата и земјите членки при собирањето и анализата на податоците и другите докази.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">261</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T145432Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T145433Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T145433Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>In any event, the statistics referred to in paragraph 1 shall include the following information:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>торингот. 3.Во секој случај, статистиката наведена во став 1 ги вклучува следните информации:</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">263</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T145836Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T145845Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T145845Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Member States shall organise the production and gathering of the statistics and shall transmit the statistics referred to in paragraph 3 to the Commission on an annual basis.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>4.Земјите членки го организираат производството и собирањето на статистиката и ја доставуваат статистиката наведена во став 3 до Комисијата на годишно ниво.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">268</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T145917Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T150013Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T150607Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>This Directive shall not preclude Member States from maintaining or concluding bilateral or multilateral agreements or arrangements between themselves on the exchange of information between competent authorities, insofar as such agreements or arrangements are compatible with Union law, in particular with this Directive.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>менти 1.Оваа директива не ги спречува земјите членки да одржуваат или склучуваат билатерални или мултилатерални договори или меѓусебни аранжмани меѓу себе, за размена на информации меѓу надлежните властиоргани, доколку таквите договори или аранжмани се компатибилни во согласност со правото на Унијата, а особено со оваа директива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">270</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T150029Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T150100Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T150100Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>This Directive is without prejudice to any obligations and commitments of Member States or of the Union under existing bilateral or multilateral agreements with third countries.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Оваа директива не е во спротивност со какви кои било обврски на земјите членки или на Унијата според постоечките билатерални или мултилатерални договори со трети земји.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">271</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T150119Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T150249Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T150715Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Without prejudice to the division of competences between the Union and the Member States, in accordance with Union law, Member States shall notify the Commission of their intention to enter into negotiations on, and to conclude, agreements between Member States and third countries that are contracting parties of the European Economic Area on matters falling within the scope of Chapter II of this Directive.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.Без да е во спротивност со поделбата на надлежностите меѓу Унијата и земјите членки, во согласност со правото на Унијата, земјите членки ја известуваат Комисијата за нивната намера да влезат во преговори и да склучатза договори меѓу земјите членки и третите земји кои склучуваат договор восе договорни страни на Европската економска област за прашања кои спаѓаат во опсегот на Поглавје II од оваа директива и да склучат такви договори.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">272</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T154017Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T154021Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T154021Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">6868974417624157235, -9042593988656100745</prop>
+      <prop type="x-ContextContent">The Commission shall adopt such authorisation decisions by implementing acts. |  | Комисијата донесува такви одлуки за овластување со акти за спроведување. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Those implementing acts shall be adopted in accordance with the advisory procedure referred to in Article 22.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>спроведување. Тие акти за спроведување се донесуваат во согласност со советодавната постапка од член 22.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">278</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T154104Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T154139Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T154139Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>By 2 August 2024, and every three years thereafter, the Commission shall draw up a report on the implementation of this Directive and submit it to the European Parliament and to the Council.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1 ОценаЕвалуација 1.До 2 август 2024 година, а потоа на секои три години, Комисијата подготвува извештај за спроведувањето на оваа директива и го достави доставува до Европскиот парламент и до Совет</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">280</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T154150Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T154151Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T154151Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-8210759484026222138, -4481869411750547861</prop>
+      <prop type="x-ContextContent">By 2 August 2024, and every three years thereafter, the Commission shall draw up a report on the implementation of this Directive and submit it to the European Parliament and to the Council. |  | До 2 август 2024 година, а потоа на секои три години, Комисијата подготвува извештај за спроведувањето на оваа директива и го достави до Европскиот парламент и до Советот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>The report shall be made public.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>от. Извештајот се објавува јавно.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">281</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T154243Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T154521Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T154521Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>By 2 August 2024, the Commission shall issue a report to the European Parliament and to the Council to assess the need for, and proportionality of, extending the definition of financial information to any type of information or data which are held by public authorities or by obliged entities and which are available to FIUs without the taking of coercive measures under national law, and shall present a legislative proposal, if appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ам за координација и поддршка. 3.До 2 август 2024 година, Комисијата ќе издаде извештај до Европскиот парламент и до Советот за да ја процени потребата и пропорционалноста на проширувањето на дефиницијата за финансиски информации на кој било вид на информации или податоци што ги поседуваат јавните власти или обврзаните субјекти и кои им се достапни на ФИУ без преземање на присилни мерки, според националното право ите закони и ќе поднесат законодавен предлог, доколку е соодветно.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">283</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T154534Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T155422Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T155422Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>By 2 August 2024, the Commission shall carry out an assessment of the opportunities and challenges regarding an extension of the exchange of financial information or financial analysis between FIUs within the Union to cover exchanges relating to serious criminal offences other than terrorism or organised crime associated with terrorism.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>4.До 2 август 2024 година, Комисијата ќе изврши проценка на можностите и предизвиците во врска со проширувањето на размената на финансиски информации или финансиски анализи помеѓу ФИУ во рамките на Унијата за покривање на размениата поврзана со тешки форми на криминалкои се однесуваат на тешки кривични дела, освен тероризам или организиран криминал поврзани со теро</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">284</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T170154Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T170408Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T170408Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>No sooner than 2 August 2027, the Commission shall carry out an evaluation of this Directive and present a report on the main findings to the European Parliament and the Council.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ризам. 5.Не порано од 2 август 2027 година, Комисијата ќе изврши евалуација на оваа директива и ќе поднесе извештај за главните наоди до Европскиот парламент и до Советот. Извеш</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">285</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T170423Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T170530Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T170530Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">6370235212174237671, -433382673123186079</prop>
+      <prop type="x-ContextContent">No sooner than 2 August 2027, the Commission shall carry out an evaluation of this Directive and present a report on the main findings to the European Parliament and the Council. |  | Не порано од 2 август 2027 година, Комисијата ќе изврши евалуација на оваа директива и ќе поднесе извештај за главните наоди до Европскиот парламент и Советот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>The report shall also include an evaluation of how fundamental rights and principles recognised by the Charter of Fundamental Rights of the European Union have been respected.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тајот, исто така, вклучува евалуација за тоа како се почитуванина почитувањето на основните права и принципи признати со Повелбата за основните права на Европската унијаУнија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">286</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T170549Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T170612Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T170612Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>For the purposes of paragraphs 1 to 4 of this Article, Member States shall provide the Commission with necessary information.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>6.За целите на ставовите од 1 до 4 на овој член, земјите членки ѝ ги даваат доставуваат на Комисијата потребните информаци</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">287</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T170625Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T170704Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T170704Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-5969306078454175343, -8947559934817588820</prop>
+      <prop type="x-ContextContent">For the purposes of paragraphs 1 to 4 of this Article, Member States shall provide the Commission with necessary information. |  | За целите на ставовите од 1 до 4 на овој член, земјите членки ѝ ги даваат на Комисијата потребните информации. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>The Commission shall take into account the statistics submitted by Member States under Article 19 and may request additional information from Member States and supervisory authorities.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и. Комисијата ги зема предвид статистичките податоци поднесени доставени од земјите членки, според член 19 и може да побара дополнителни информации од земјите членки и надзорните властиоргани.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">288</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T170801Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T171024Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T171024Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-4192143552342401080, 3374539742463145711</prop>
+      <prop type="x-ContextContent">The Commission shall be assisted by a committee. |  | На Комисијата ѝ помага комитет. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>This committee shall be a committee within the meaning of Regulation (EU) No 182/2011.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а комитет. Овој комитет е комитет во смисла на Регулативата (ЕУ) бр. 182/2011.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">291</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T171101Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T171112Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T171112Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Where reference is made to this paragraph, Article 4 of Regulation (EU) No 182/2011 shall apply.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Koga Кога се упатува на овој став, се применува член 4 од Регулативата (ЕУ) бр. 182/2011.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">292</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T171143Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T171222Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T171222Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-4231338909810651577, 4073757425900085328</prop>
+      <prop type="x-ContextContent">Transposition |  | Транспозиција | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 August 2021.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>озиција Земјите членки ги донесуваат законите, регулативите и административните одредби потребни за усогласување со оваа директива до 1 август 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">294</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T171233Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T171250Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T171250Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-9090434357723915715, 1571751878879216944</prop>
+      <prop type="x-ContextContent">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 1 August 2021. |  | Земјите членки ги донесуваат законите, регулативите и административните одредби потребни за усогласување со оваа директива до 1 август 2021 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>They shall immediately inform the Commission thereof.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. Тие веднаш ја информираат Комисијата за тоа.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">295</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T171301Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T171319Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T171319Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-5285367165389704486, 548767438048161690</prop>
+      <prop type="x-ContextContent">They shall immediately inform the Commission thereof. |  | Тие веднаш ја информираат Комисијата за тоа. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>When Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Кога земјите членки ги донесуваат тие одредби, тие содржат упатување кон оваа директива или се придружени со такво упатување при нивното официјално објавување. На</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">296</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T171336Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T171434Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T171443Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-2394842144281087872, -6132078798672204289</prop>
+      <prop type="x-ContextContent">When Member States adopt those provisions, they shall contain a reference to this Directive or shall be accompanied by such a reference on the occasion of their official publication. |  | Кога земјите членки ги донесуваат тие одредби, тие содржат упатување кон оваа директива или се придружени со такво упатување при нивното официјално објавување. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>The methods of making such reference shall be laid down by Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>чините за изготвување на такво упатување се ги утврдуваат од страна на земјите членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">297</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T171733Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T172053Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T172053Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Repeal of Decision 2000/642/JHA</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>лен 24 Укинување на Одлуката 2000/642/ПВР</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">299</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T172107Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T172152Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T172152Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-7563740484917389061, 6262711969197612263</prop>
+      <prop type="x-ContextContent">Repeal of Decision 2000/642/JHA |  | Укинување на Одлуката 2000/642/ПВР | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Decision 2000/642/JHA is repealed with effect from 1 August 2021.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Одлуката 2000/642/ПВР се укинува на 1 август 2021 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">300</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T172224Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T172252Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T172252Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-1071363383846022996, -6940353654854384546</prop>
+      <prop type="x-ContextContent">Entry into force |  | Влегување во сила | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>This Directive shall enter into force on the twentieth day following that of its publication in the <bpt i="1" type="1679" />Official Journal of the European Union<ept i="1" />.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>о сила Оваа директива влегува во сила на дваесеттиот ден од денот на нејзиното објавување во Службениот весник на Европската унијаУнија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">302</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T172317Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T172405Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T172405Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">3364086950872751, 4394811017912</prop>
+      <prop type="x-ContextContent">Addressees |  | Адресати | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>This Directive is addressed to the Member States in accordance with the Treaties.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>дресати Оваа директива се однесува на земјите членки во согласност со Договорите.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">304</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T172420Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T172435Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T172435Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-8872742794821938966, 4935368892395378326</prop>
+      <prop type="x-ContextContent">This Directive is addressed to the Member States in accordance with the Treaties. |  | Оваа директива се однесува на земјите членки во согласност со Договорите. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-US">
+        <seg>Done at Brussels, 20 June 2019.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Брисел 20 јуни, 2019 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">305</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220824T172447Z" creationid="DESKTOP-O174019\HP 2021" changedate="20220824T172447Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20220824T172447Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-1674440906901098760, -6105501167114129033</prop>
+      <prop type="x-ContextContent">Done at Brussels, 20 June 2019. |  | Брисел 20 јуни, 2019 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-US">
+        <seg>For the European Parliament</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Европскиот парламент</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L1153</prop>
+      <prop type="x-SourceTUIndex">306</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,730 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20221112T201557Z" creationid="HP\a">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32022D1955_MK1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32022R1955</prop>
+    <prop type="x-SourceTMX">32022R1955_tmx.tmx</prop>
+    <prop type="x-SourceTMXSHA256">9ed29879bb4c6549fc4cbd872c5813e6407ef1cd62aa58fb388f0c2fe9982f4c</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">48</prop>
+  </header>
+  <body>
+    <tu creationdate="20221112T075853Z" creationid="PC" changedate="20221112T075853Z" changeid="PC" lastusagedate="20221112T075853Z">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL IMPLEMENTING REGULATION (EU) 2022/1955</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2022/1955 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T075906Z" creationid="PC" changedate="20221112T075906Z" changeid="PC" lastusagedate="20221112T075906Z">
+      <prop type="x-Context">-6567666369441098802, 1633584061312239956</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 17 October 2022</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 17 октомври 2022 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T075944Z" creationid="PC" changedate="20221112T075944Z" changeid="PC" lastusagedate="20221112T075944Z">
+      <prop type="x-Context">3657596318, 1571690814086662633</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>implementing Regulation (EU) No 359/2011 concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Iran</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за спроведување на Регулативата (ЕУ) бр. 359/2011 за рестриктивни мерки насочени против одредени лица, субјекти и тела во однос на состојбата во Иран</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220308T083011Z" creationid="М" changedate="20221112T075946Z" changeid="PC" lastusagedate="20221112T075946Z">
+      <prop type="x-Context">-3116573772041934415, -1641080852296752630</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>СОВЕТOT НА ЕВРОПСКАТА УНИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20180521T062859Z" creationid="SEI\Mario.Jordanov" changedate="20221112T075951Z" changeid="PC" lastusagedate="20221112T075951Z">
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирањето на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080158Z" creationid="PC" changedate="20221112T080217Z" changeid="PC" lastusagedate="20221112T080217Z">
+      <prop type="x-Context">-1630537092630497703, 452261040054540310</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="26" x="1" />
+          <bpt i="2" type="24" />H<ept i="2" />
+          <ept i="1" />
+          <bpt i="3" type="29" />aving regard to Council Regulation (EU) No 359/2011 of 12 April 2011 concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Iran<ept i="3" />
+          <bpt i="4" type="30" x="2" /> (<ph x="3" type="44" />)<ept i="4" />
+          <bpt i="6" type="50" />, and in particular Article 12(1) thereof,<ept i="6" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Регулативата (ЕУ) бр. 359/2011 на Советот од 12 април 2011 година, за рестриктивни мерки насочени кон одредени лица, субјекти и тела во однос на состојбата во Иран(), а особено член 12(1) од истата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080308Z" creationid="PC" changedate="20221112T080308Z" changeid="PC" lastusagedate="20221112T080308Z">
+      <prop type="x-Context">3520251291494, -1473885434305972833</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(1)	On 12 April 2011, the Council adopted Regulation (EU) No 359/2011.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(1)На 12 април 2011 година, Советот ја донесе Регулативата (ЕУ) бр. 359/2011.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">10</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T114816Z" creationid="PC" changedate="20221112T114816Z" changeid="PC" lastusagedate="20221112T114816Z">
+      <prop type="x-Context">2059312225145919606, -7369122665543848955</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 1</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">17</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T114831Z" creationid="PC" changedate="20221112T114842Z" changeid="PC" lastusagedate="20221112T114842Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="125" x="1" />
+          <bpt i="2" type="123" />A<ept i="2" />
+          <ept i="1" />
+          <bpt i="3" type="128" />nnex I to Regulation (EU) No 359/2011 is amended as set out in the Annex to this Regulation.<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Анекс I кон Регулативата (ЕУ) бр. 359/2011 се изменува како што е утврдено во Анексот кон оваа регулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">18</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220307T090127Z" creationid="М" changedate="20221112T114948Z" changeid="PC" lastusagedate="20221112T114948Z">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation shall enter into force on the date of its publication in the Official Journal of the European Union.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 2 Оваа регулатива влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Униј</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220307T073728Z" creationid="М" changedate="20221112T114952Z" changeid="PC" lastusagedate="20221112T114952Z">
+      <prop type="x-Context">-980194056136191215, 7066540533057390441</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation shall be binding in its entirety and directly applicable in all Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а. Оваа регулатива е целосно обврзувачка и директно применлива во сите земји членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T115008Z" creationid="PC" changedate="20221112T115008Z" changeid="PC" lastusagedate="20221112T115008Z">
+      <prop type="x-Context">237266540109909941, -1991686434613724941</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Luxembourg, 17 October 2022.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Луксембург, 17 октомври 2022 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20190517T131456Z" creationid="SEI\Marija.Bojkova" changedate="20221112T080423Z" changeid="PC" lastusagedate="20221112T080423Z">
+      <prop type="x-Context">-4759261184695792928, -562598099365887991</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Council</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Советот</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20200120T101716Z" creationid="SEI\Marija.Bojkova" changedate="20221112T115009Z" changeid="PC" lastusagedate="20221112T115009Z">
+      <prop type="x-Context">-3648910944734109195, 136400592362229</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The President</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претседател</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210414T173835Z" creationid="BLAZHESKI\a" changedate="20221112T080427Z" changeid="PC" lastusagedate="20221112T080427Z">
+      <prop type="x-Context">6451808141391308451, 4236527515880034</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>J. BORRELL FONTELLES</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Ж. БОРЕЉ ФОНТЕЉЕС</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">24</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210414T125208Z" creationid="SEI\Marija.Bojkova" changedate="20221112T080429Z" changeid="PC" lastusagedate="20221112T080429Z">
+      <prop type="x-Context">-6348429133465573242, -648686204509179231</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">25</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080436Z" creationid="PC" changedate="20221112T080508Z" changeid="PC" lastusagedate="20221112T080508Z">
+      <prop type="x-Context">2032267, 2032267</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The following persons and entities are added to the list of natural and legal persons, entities and bodies set out in Annex I to Regulation (EU) No 359/2011:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Следните лица и субјекти се додаваат во списокот на физички и правни лица, субјекти и тела утврден во Анекс I кон Регулативата (ЕУ) бр. 359/2011:</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">26</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210517T071954Z" creationid="PC" changedate="20221112T080509Z" changeid="PC" lastusagedate="20221112T080509Z">
+      <prop type="x-Context">3298924626309570590, 4848757253343982839</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Persons</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Лица</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">27</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20180727T060755Z" creationid="SEI\Marija.Pavlova" changedate="20221112T080510Z" changeid="PC" lastusagedate="20221112T201652Z" usagecount="1">
+      <prop type="x-Context">3504461599997, 4410315196402</prop>
+      <prop type="x-Context">3513964923851, 147852175</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Име</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">28</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080522Z" creationid="PC" changedate="20221112T080522Z" changeid="PC" lastusagedate="20221112T201652Z" usagecount="1">
+      <prop type="x-Context">117890334, 147766119</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Identifying information</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Информации за идентификација</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">29</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220513T134011Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova" changedate="20221112T080554Z" changeid="PC" lastusagedate="20221112T201652Z" usagecount="1">
+      <prop type="x-Context">-7150679494299279164, -8186041902733590150</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Reasons</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Причини за внесување на список</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">30</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20190312T140301Z" creationid="SEI\Marija.Bojkova" changedate="20221112T080558Z" changeid="PC" lastusagedate="20221112T201652Z" usagecount="1">
+      <prop type="x-Context">3515724231356, 4113348042888788015</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Date of listing</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Датум на внесување на список</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">31</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080602Z" creationid="PC" changedate="20221112T080602Z" changeid="PC" lastusagedate="20221112T080602Z">
+      <prop type="x-Context">8059992357447852666, -5219634527679315268</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘96.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„96.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">32</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080613Z" creationid="PC" changedate="20221112T080613Z" changeid="PC" lastusagedate="20221112T080613Z">
+      <prop type="x-Context">1834466478424669000, -9115351679411890210</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>محمد گچی چشمه رستمی</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>محمد گچی چشمه رستمی</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">34</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080629Z" creationid="PC" changedate="20221112T080629Z" changeid="PC" lastusagedate="20221112T201651Z" usagecount="3">
+      <prop type="x-Context">544541876894137315, -2149480646381465295</prop>
+      <prop type="x-Context">4489971509844420197, 4672145715733621</prop>
+      <prop type="x-Context">6034462716442113690, -5013789021291952306</prop>
+      <prop type="x-Context">7316896948311033952, -7959799967352019731</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>POB:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>د) Место на раѓање</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">36</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080642Z" creationid="PC" changedate="20221112T080642Z" changeid="PC" lastusagedate="20221112T080642Z">
+      <prop type="x-Context">2032267, -821084540679786612</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Kermanshah (Iran)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>: Kermanshah (Иран)</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">37</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080647Z" creationid="PC" changedate="20221112T080647Z" changeid="PC" lastusagedate="20221112T201651Z" usagecount="3">
+      <prop type="x-Context">-7836777412859059470, 8576684251455317585</prop>
+      <prop type="x-Context">216073142343358382, 4569579308252598534</prop>
+      <prop type="x-Context">1248769560319692644, 3241122081537412370</prop>
+      <prop type="x-Context">8469480318482862670, 4238796487020209</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>DOB:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Датум на раѓање:</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">38</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080651Z" creationid="PC" changedate="20221112T080651Z" changeid="PC" lastusagedate="20221112T080651Z">
+      <prop type="x-Context">2032267, -7248583127561067383</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>1976 or 1977</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1976 или 1977 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">39</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201017T194824Z" creationid="BLAZHESKI\a" changedate="20221112T080655Z" changeid="PC" lastusagedate="20221112T201652Z" usagecount="10">
+      <prop type="x-Context">-9011171998851153767, 4509369469718860360</prop>
+      <prop type="x-Context">-8263558424194746890, 144963944853278282</prop>
+      <prop type="x-Context">-6261178146158085201, 4500257246036377840</prop>
+      <prop type="x-Context">-2286177450976216576, 3425319483572359116</prop>
+      <prop type="x-Context">2032081, 3816650501350767481</prop>
+      <prop type="x-Context">2032174, 58180442510015</prop>
+      <prop type="x-Context">58179524243453, 2924278125058277478</prop>
+      <prop type="x-Context">151060966749029, 5070689871</prop>
+      <prop type="x-Context">145141483756815085, 151030272205948</prop>
+      <prop type="x-Context">4500257434277171300, 4872934597995</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Nationality:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Државјанство:</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">40</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210519T082432Z" creationid="PC" changedate="20221112T080658Z" changeid="PC" lastusagedate="20221112T201652Z" usagecount="10">
+      <prop type="x-Context">8314060927809233084, 4227146073833575</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Iranian</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>на Иран</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">41</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201017T200510Z" creationid="BLAZHESKI\a" changedate="20221112T080700Z" changeid="PC" lastusagedate="20221112T201652Z" usagecount="10">
+      <prop type="x-Context">108751370383736, 4405343863329</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Gender: male</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Пол: машки</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">42</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20181018T112135Z" creationid="SEI\Marija.Bojkova" changedate="20221112T080701Z" changeid="PC" lastusagedate="20221112T080701Z">
+      <prop type="x-Context">3369240304985360, 4236450155167002</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>National ID No:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Број на национална лична карта:</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">43</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080711Z" creationid="PC" changedate="20221112T080711Z" changeid="PC" lastusagedate="20221112T080711Z">
+      <prop type="x-Context">2372367765863606302, -6278161457213657933</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>111936 (Iran)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>111936 (Иран)</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">44</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T115158Z" creationid="PC" changedate="20221112T115158Z" changeid="PC" lastusagedate="20221112T115158Z">
+      <prop type="x-Context">3377196023633783, 4412987912242</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Head of Iran’s Morality Police</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>нкција: Началник на Иранската полиција за морал</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">47</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T115233Z" creationid="PC" changedate="20221112T115233Z" changeid="PC" lastusagedate="20221112T115233Z">
+      <prop type="x-Context">250563841690220788, -3254426806122883474</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Mohammad Rostami Cheshmeh Gachi is the head of Iran’s Morality Police.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Mohammad Rostami Cheshmeh Gachi е началник на Иранската полиција за морал.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">48</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T115303Z" creationid="PC" changedate="20221112T115303Z" changeid="PC" lastusagedate="20221112T115303Z">
+      <prop type="x-Context">-8692198234540876831, 5811680273388989131</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>He was head of the Kermanshah Public Security Police from early 2014 until early 2019 and held senior positions in the Iranian intelligence police.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Тој бил началник на полицијата за јавна безбедност во Керманшах од почетокот на 2014 година, до почетокот на 2019 година и имал високи позиции во Иранската разузнавачка полиција.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">49</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T115327Z" creationid="PC" changedate="20221112T115327Z" changeid="PC" lastusagedate="20221112T201652Z" usagecount="2">
+      <prop type="x-Context">-5383966447226411065, 4015442317527199233</prop>
+      <prop type="x-Context">-5235851765960933309, 802933362892483634</prop>
+      <prop type="x-Context">-2881466810882973702, 6368318242057040952</prop>
+      <prop type="x-Context">-12878776701134028, 1619595790818880207</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Morality Police is part of Iran’s Law Enforcement Forces (LEF) and is a special police unit which enforces the strict dress rules for women, including compulsory wearing of a headscarf.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Полицијата за морал е дел од Иранските сили за спроведување на законот (LEF) и е специјална полициска единица која ги спроведува строгите правила за облекување на жените, вклучително и задолжителното носење шамија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">50</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T115355Z" creationid="PC" changedate="20221112T115355Z" changeid="PC" lastusagedate="20221112T201652Z" usagecount="2">
+      <prop type="x-Context">-5644940490330346286, -3445852184335874056</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Morality Police has used unlawful force against women for not complying with Iranian hijab laws, sexual and gender-based violence, arbitrary arrests and detentions, excessive violence and torture.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Полицијата за морал употреби незаконска сила против жените поради непочитување на иранските закони за хиџаб, сексуално и родово насилство, произволни апсења и притворања, прекумерно насилство и тортура.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">51</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080807Z" creationid="PC" changedate="20221112T080807Z" changeid="PC" lastusagedate="20221112T201652Z" usagecount="12">
+      <prop type="x-Context">-8379201487131581392, 4425564819500362266</prop>
+      <prop type="x-Context">-6692890554421308249, -8575348038612349962</prop>
+      <prop type="x-Context">-559167787039982343, 4049299320074966461</prop>
+      <prop type="x-Context">255391346030091148, 957260347609069466</prop>
+      <prop type="x-Context">385870124855760074, 9216922228094093627</prop>
+      <prop type="x-Context">2483720254435390142, 1095927030512026701</prop>
+      <prop type="x-Context">3138222236838771278, 3670436398211702568</prop>
+      <prop type="x-Context">4279800573209917325, -6729908020073784098</prop>
+      <prop type="x-Context">8534583820621351994, -8989713132380137765</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>17.10.2022</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>17.10.2022 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">58</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T201651Z" creationid="PC" changedate="20221112T080815Z" changeid="PC" lastusagedate="20221112T080815Z">
+      <prop type="x-Context">1954832224, 58177779998972</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>97.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>97.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">59</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080822Z" creationid="PC" changedate="20221112T080822Z" changeid="PC" lastusagedate="20221112T080822Z">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>RAHIMI Hossein</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>RAHIMI Hossein</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">60</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080825Z" creationid="PC" changedate="20221112T080825Z" changeid="PC" lastusagedate="20221112T080825Z">
+      <prop type="x-Context">1733305273213555492, 58182178282072</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>حسین رحیمی</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>حسین رحیمی</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">61</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T115837Z" creationid="PC" changedate="20221112T115837Z" changeid="PC" lastusagedate="20221112T115837Z">
+      <prop type="x-Context">-5821859560629257362, -2014674334686437736</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Brigadier General Hossein Rahimi has been the head of Iran’s Law Enforcement Forces (LEF) in Tehran since 7 August 2017.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ехеран Бригадниот генерал Hossein Rahimi е на чело на Иранските сили за спроведување на законот (LEF) во Техеран од 7 август 2017 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">67</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T115851Z" creationid="PC" changedate="20221112T115851Z" changeid="PC" lastusagedate="20221112T115851Z">
+      <prop type="x-Context">206870058791104143, -7940784835545533477</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The LEF’s response to the September 2022 protests in Tehran was particularly harsh.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Одговорот на LEF на протестите во септември 2022 година во Техеран бил особено остар.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">68</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T115902Z" creationid="PC" changedate="20221112T115902Z" changeid="PC" lastusagedate="20221112T201651Z" usagecount="1">
+      <prop type="x-Context">345190075002997788, -676280902761725924</prop>
+      <prop type="x-Context">8889617295764826748, -8408880183972695802</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The LEF’s excessive use of violence to repress those protests resulted in the deaths of multiple people.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Прекумерната употреба на насилство од страна на LEF за потиснување на тие протести резултираше со смрт на повеќе луѓе.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">69</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T115931Z" creationid="PC" changedate="20221112T115931Z" changeid="PC" lastusagedate="20221112T115931Z">
+      <prop type="x-Context">-5954189038255437860, -2726178055311798839</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>As head of the LEF in Tehran, Rahimi is therefore responsible for serious human rights violations in Iran.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Како началник на LEF во Техеран, Rahimi е одговорен за сериозни повреди на човековите права во Иран.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">70</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T120036Z" creationid="PC" changedate="20221112T120036Z" changeid="PC" lastusagedate="20221112T120036Z">
+      <prop type="x-Context">-4869733777459253500, 5551741458710633620</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Colonel Abbas Abdi is the head of Iran’s Law Enforcement Forces (LEF) in the district of Divandarreh.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Полковник Abbas Abdi е началникот на Иранските сили за спроведување на законот (LEF) во округот на Дивандарех.</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">75</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221112T080958Z" creationid="PC" changedate="20221112T080958Z" changeid="PC" lastusagedate="20221112T080958Z">
+      <prop type="x-Context">-9083671719849853112, -700337093247733296</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>حاج احمد میرزایی</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>حاج احمد میرزایی</seg>
+      </tuv>
+      <prop type="x-CELEX">32022R1955</prop>
+      <prop type="x-SourceTUIndex">79</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

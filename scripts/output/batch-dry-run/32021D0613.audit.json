@@ -1,0 +1,942 @@
+{
+  "celex": "32021D0613",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0613\\TMX_MK1\\32021D0613_MK1.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0613\\MK2\\32021D0613_MK2.docx",
+  "tmx_sha256": "e769fa250b5069e7a2702b589ba5f807da936ac9356fa85ff4e1634515bc1061",
+  "mk2_sha256": "aaf33f05b30cbee3ec7eb8cbeabcef02a9d94684f9b8d0ee6d42d9f9c59c04b1",
+  "original_tus": 26,
+  "accepted_tus": 6,
+  "skipped_tus": 20,
+  "acceptance_percent": 23.08,
+  "mk1_coverage": 55.48,
+  "mk2_coverage": 94.51,
+  "accepted_clean_en_chars": 401,
+  "accepted_clean_mk2_chars": 408,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL DECISION (CFSP) 2021/613",
+      "mk1": "ОДЛУКА (ЗНБП) 2021/613 НА СОВЕТОТ",
+      "mk2": "ОДЛУКА (ЗНБП) 2021/613 НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        33
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 15 April 2021",
+      "mk1": "од 15 април 2021 година",
+      "mk2": "од 15 април 2021 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        34,
+        57
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "за изменување на Одлуката (ЗНБП) 2016/1693 за рестриктивни мерки против И",
+      "score": 0.2857142857142857,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        58,
+        131
+      ],
+      "evidence": {
+        "token_count": 42,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          4
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 4,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 29 thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот,",
+      "mk2": "СИЛС (ДаешДаиш) и Ал-Каеда и лица, групи, претпријатија и субјекти [toшто се поврзани со нив СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот,",
+      "score": 0.5639097744360902,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        131,
+        330
+      ],
+      "evidence": {
+        "token_count": 42,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          4
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 5,
+      "en": "(1) On 20 September 2016 the Council adopted Decision (CFSP) 2016/1693 ().",
+      "mk1": "(1) На 20 септември 2016 година, Советот ја донесе Одлуката (ЗНБП) 2016/1693. ().",
+      "mk2": "",
+      "score": 0.5018820577164367,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 6,
+      "en": "(2) In view of the continued threat posed by ISIL (Da’esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them, one person should be added to the list of persons, groups, undertakings and entities set out in the Annex to Decision (CFSP) 2016/1693.",
+      "mk1": "(2) Со оглед на постојаната закана од страна на ИСИС (Даеш) и Ал Каеда и лица, групи, претпријатија и субјекти кои се поврзани со нив, едно лице треба да се додаде во списокот на лица, групи, претпријатија и субјекти утврден во Анексот кон Одлуката (ЗНБП) 2016/1693.",
+      "mk2": "со оглед на тоа што: (1)На 20 септември 2016 година, Советот ја донесе Одлуката (ЗНБП) 2016/1693. (). Одлука (ЗНБП) 2016/1693 на Советот од 20 септември 2016 година за рестриктивни мерки против ИСИС ИСИЛ (Даеш) и Ал Ал-Каеда и лица, групи, претпријатија и субјекти кои што се поврзани со нив и за укинување на Заедничкиот став 2002/402/ЗНБП (Сл. весник L 255, 21.9.2016 година, стр.25). (2)Со оглед на постојаната закана од страна на ИСИСЛ (ДаешДаиш) и Ал Ал-Каеда и лица, групи, претпријатија и субјекти кои што се поврзани со нив, едно лице треба да се додаде во списокот на лица, групи, претпријатија и субјекти утврден во Анексот кон Одлуката (ЗНБП) 2016/1693.",
+      "score": 0.5740112994350283,
+      "status": "UNMATCHED",
+      "cardinality": "1:N",
+      "mk2_span": [
+        6,
+        9
+      ],
+      "mk2_char_span": [
+        439,
+        1103
+      ],
+      "evidence": {
+        "token_count": 113,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          6
+        ],
+        "atom_window": [
+          6,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 7,
+      "en": "(3) Decision (CFSP) 2016/1693 should therefore be amended accordingly,",
+      "mk1": "(3) Затоа, Одлука (ЗНБП) 2016/1693 треба соодветно да се измени,",
+      "mk2": "(3)Затоа, Одлуката (ЗНБП) 2016/1693 треба соодветно да се измени,",
+      "score": 0.9830508474576272,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        1104,
+        1169
+      ],
+      "evidence": {
+        "token_count": 10,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          7
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 8,
+      "en": "The Annex to Decision (CFSP) 2016/1693 is amended as set out in the Annex to this Decision.",
+      "mk1": "Анексот кон Одлуката (ЗНБП) 2016/1693 се изменува како што е утврдено во Анексот кон оваа одлука.",
+      "mk2": "ЈА ДОНЕСЕ ОВАА ОДЛУКА: Член 1 Анексот кон Одлуката (ЗНБП) 2016/1693 се изменува како што е утврдено во Анексот кон оваа одлука.",
+      "score": 0.8663594470046083,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        10,
+        13
+      ],
+      "mk2_char_span": [
+        1170,
+        1297
+      ],
+      "evidence": {
+        "token_count": 22,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          8
+        ],
+        "atom_window": [
+          10,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 9,
+      "en": "This Decision shall enter into force on the date of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "Член 2 Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија",
+      "score": 0.9665071770334929,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        13,
+        16
+      ],
+      "mk2_char_span": [
+        1298,
+        1406
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          9,
+          10
+        ],
+        "atom_window": [
+          13,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 10,
+      "en": "Done at Brussels, 15 April 2021.",
+      "mk1": "Брисел, 15 април 2021 година.",
+      "mk2": ". Брисел, 15 април 2021 година.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        13,
+        16
+      ],
+      "mk2_char_span": [
+        1406,
+        1437
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          9,
+          10
+        ],
+        "atom_window": [
+          13,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 11,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "За Советот Претседател",
+      "score": 0.6666666666666666,
+      "status": "UNMATCHED",
+      "cardinality": "1:N",
+      "mk2_span": [
+        16,
+        18
+      ],
+      "mk2_char_span": [
+        1438,
+        1460
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          11,
+          11
+        ],
+        "atom_window": [
+          16,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 12,
+      "en": "The following entry is added to the list of persons, groups, undertakings and entities set out in the Annex to Decision (CFSP) 2016/1693:",
+      "mk1": "Следниот внес се додава во списокот на лица, групи, претпријатија и субјекти утврден во Анексот кон Одлуката (ЗНБП) 2016/1693:",
+      "mk2": "А. П. ЗАКАРИЈАС АНЕКС Следниот внес се додава во списокот на лица, групи, претпријатија и субјекти утврден во Анексот кон Одлуката (ЗНБП) 2016/1693:",
+      "score": 0.9236641221374046,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        18,
+        21
+      ],
+      "mk2_char_span": [
+        1461,
+        1609
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          12
+        ],
+        "atom_window": [
+          18,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 13,
+      "en": "‘7.",
+      "mk1": "„7.",
+      "mk2": "„7.Mesu",
+      "score": 0.2857142857142857,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        21,
+        22
+      ],
+      "mk2_char_span": [
+        1610,
+        1617
+      ],
+      "evidence": {
+        "token_count": 18,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          21,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 14,
+      "en": "Mesut SEKERCI; date of birth:",
+      "mk1": "Mesut SEKERCI; датум на раѓање:",
+      "mk2": "t SEKERCI; датум на раѓање: 22 јули 1995 година; место на раѓање: Evr",
+      "score": 0.5319148936170213,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        21,
+        22
+      ],
+      "mk2_char_span": [
+        1617,
+        1686
+      ],
+      "evidence": {
+        "token_count": 18,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          21,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 15,
+      "en": "22 July 1995; place of birth:",
+      "mk1": "22 јули 1995 година; место на раѓање:",
+      "mk2": "eux (FranceФранција); националностдржавјанство: Французинфранцуско, Турчинтурско.“.",
+      "score": 0.18181818181818182,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        21,
+        22
+      ],
+      "mk2_char_span": [
+        1686,
+        1769
+      ],
+      "evidence": {
+        "token_count": 18,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          21,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 16,
+      "en": "Evreux (France); nationality:",
+      "mk1": "Evreux (France); националност:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 17,
+      "en": "French, Turkish.’.",
+      "mk1": "Французин, Турчин.“.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 18,
+      "en": "amending Decision (CFSP) 2016/1693 concerning restrictive measures against ISIL (Da’esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them",
+      "mk1": "за изменување на Одлуката (ЗНБП) 2016/1693 за рестриктивни мерки против ИСИС (Даеш) и Ал-Каеда и лица, групи, претпријатија и субјекти кои се поврзани со нив",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 19,
+      "en": "Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,",
+      "mk1": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 20,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 21,
+      "en": "Council Decision (CFSP) 2016/1693 of 20 September 2016 concerning restrictive measures against ISIL (Da’esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them and repealing Common Position 2002/402/CFSP (OJ L 255, 21.9.2016, p. 25).",
+      "mk1": "Одлука (ЗНБП) 2016/1693 на Советот од 20 септември 2016 година за рестриктивни мерки против ИСИС (Даеш) и Ал Каеда и лица, групи, претпријатија и субјекти кои се поврзани со нив и за укинување на Заедничкиот став 2002/402/ЗНБП (Сл. весник L 255, 21.9.2016 година, стр.25).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 22,
+      "en": "HAS ADOPTED THIS DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 23,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 24,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 25,
+      "en": "A. P. ZACARIAS",
+      "mk1": "А. П. ЗАКАРИАС",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 26,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 1,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021D0613",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL DECISION (CFSP) 2021/613",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 15 April 2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "amending Decision (CFSP) 2016/1693 concerning restrictive measures against ISIL (Da’esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2021/613 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 15 април 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката (ЗНБП) 2016/1693 за рестриктивни мерки против ИСИС ИСИЛ (Даеш) и Ал-Каеда и лица, групи, претпријатија и субјекти кои се поврзани со нив",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Common foreign and security policy",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ангела Николова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translations@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "20.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор(АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021D0613",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL DECISION (CFSP) 2021/613",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 15 April 2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "amending Decision (CFSP) 2016/1693 concerning restrictive measures against ISIL (Da’esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2021/613 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 15 април 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката (ЗНБП) 2016/1693 за рестриктивни мерки против ИСИС ИСИЛ (Даеш) и Ал-Каеда и лица, групи, претпријатија и субјекти кои се поврзани со нив",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Common foreign and security policy",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Павлова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translations@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "21.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ISIL",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ИСИС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ИСИЛ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://dejure.mk/zakon/odluka-za-voveduvanje-na-restriktivni-merki-soglasno-odlukata-znbp-2020-1516-na-sovetot-od-19-oktomvri-2020-godina-za-izmenuvanje-na-odlukata-znbp-201",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Одлука (ЗНБП) 2016/1693 на Советот од 20 септември 2016 година за рестриктивни мерки против ИСИС ИСИЛ (Даеш) и Ал Ал-Каеда и лица, групи, претпријатија и субјекти кои што се поврзани со нив и за укинување на Заедничкиот став 2002/402/ЗНБП (Сл. весник L 255, 21.9.2016 година, стр.25).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 7,
+        "text": "Одлука (ЗНБП) 2016/1693 на Советот од 20 септември 2016 година за рестриктивни мерки против ИСИС ИСИЛ (Даеш) и Ал Ал-Каеда и лица, групи, претпријатија и субјекти кои што се поврзани со нив и за укинување на Заедничкиот став 2002/402/ЗНБП (Сл. весник L 255, 21.9.2016 година, стр.25)."
+      }
+    ]
+  },
+  "dry_run": true
+}

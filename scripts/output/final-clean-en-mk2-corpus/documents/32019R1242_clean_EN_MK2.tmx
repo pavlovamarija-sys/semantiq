@@ -1,0 +1,505 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20240816T211112Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32019R1242_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32019R1242</prop>
+    <prop type="x-SourceTMX">32019R1242_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">b0c2fe2589847e3abdc4af95fcc55e0414f317ebe7f4bbf2f5db7efc42163c64</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">27</prop>
+  </header>
+  <body>
+    <tu creationdate="20240816T213349Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240816T213518Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195222Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>REGULATION (EU) 2019/1242 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) 2019/1242 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240816T213518Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240816T213536Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195222Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4253238372150105122, -5787162811525255239</prop>
+      <prop type="x-ContextContent">REGULATION (EU) 2019/1242 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL |  | РЕГУЛАТИВА (ЕУ) 2019/1242 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 20 June 2019</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 20 јуни 2019 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240816T215331Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240816T223120Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240816T223120Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3657596318, -790154011644746187</prop>
+      <prop type="x-ContextContent">of 20 June 2019 |  | од 20 јуни 2019 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>setting CO<bpt i="1" type="11" />2<ept i="1" /> emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за утврдување на емисиски нормистандарди за емисија на CO2 за нови тешки возила и за изменување на Регулативите (ЕЗ) бр. 595/2009 и (ЕУ) 2018/956 на Европскиот парламент и на Советот и Директивата 96/53/ЕЗ на Совет</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240206T114921Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240816T223120Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240816T223121Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1141196867, 4946986246</prop>
+      <prop type="x-Context">530841399381148522, 215034765145114753</prop>
+      <prop type="x-ContextContent">setting CO2 emission performance standards for new heavy-duty vehicles and amending Regulations (EC) No 595/2009 and (EU) 2018/956 of the European Parliament and of the Council and Council Directive 96/53/EC | AgIKAQEAAQIxMQEBAgEBAjExAQ== | за утврдување на емисиски норми на CO2 за нови тешки товарни возила и за изменување на Регулативите (ЕЗ) бр. 595/2009 и (ЕУ) 2018/956 на Европскиот парламент и на Советот и Директивата 96/53/ЕЗ на Советот | AgIlAQEAAQlTdWJzY3JpcHQBAgIBAQlTdWJzY3JpcHQB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Text with EEA relevance)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>от (Текст со важност за ЕЕ</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210209T145351Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240816T223121Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195222Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2094311973019752702, -693899598895376172</prop>
+      <prop type="x-ContextContent">(Text with EEA relevance) |  | (Текст со важност за ЕЕО) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>О) ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240326T202522Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240816T223122Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195222Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7124098552985558198, -4614663339850189355</prop>
+      <prop type="x-ContextContent">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, |  | ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирањето на Европската Унија, а особено член 192(1) од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231207T164536Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240816T223123Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195222Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8229639682514783868, -3562062928975399014</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 192(1) thereof, |  | имајќи го предвид Договорот за функционирањето на Европската Унија, а особено член 192(1) од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210209T133230Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240816T223127Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195222Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7799275716982960255, 363684144863454645</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the European Commission, |  | имајќи го предвид предлогот на Европската комисија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>After transmission of the draft legislative act to the national parliaments,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>по доставување на нацрт-законодавниот акт до националните парламенти,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240816T223128Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240816T223135Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195222Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8428148328744422, -1269320548716298125</prop>
+      <prop type="x-ContextContent">After transmission of the draft legislative act to the national parliaments, |  | по доставување на нацрт-законодавниот акт до националните парламенти, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the opinion of the European Economic and Social Committee<ph x="1" type="376" />,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид мислењето на Европскиот економско-социјален комитет,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">9</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240817T061303Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240817T061431Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240817T061431Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2335869729, 2646599603</prop>
+      <prop type="x-Context">-1819062522618700484, 3055526210889783486</prop>
+      <prop type="x-ContextContent">(2)	In order to contribute to the objectives of the Paris Agreement, the transformation of the entire transport sector towards zero emissions needs to be accelerated, considering the Commission’s communication of 28 November 2018 entitled ‘A Clean Planet for all — a European strategic long-term vision for a prosperous, modern, competitive and climate neutral economy’, which outlines a vision of the economic and societal transformations required, engaging all sectors of the economy and society, to achieve the transition to net-zero greenhouse gas emissions by 2050. |  | (2)	Со цел да придонесе кон целите од Парискиот договор, трансформацијата на севкупниот транспортен сектор кон нулта-емисии треба да се забрза, со оглед на комуникацијата на Комисијата од 28 ноември 2018 година со наслов „Чиста планета за сите — европска стратешка долгорочна визија за просперитетна, современа, конкурентна и климатски-неутрална економија“, која отцтрува една визија за потребните економските и општествените трансформации, вклучувајќи ги сите сектори од економијата и општеството, за да ја постигне транзицијата кон нето нулта стапка на емисии на стакленички гасови до 2050 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Emissions of air pollutants from transport that significantly harm our health, and the environment, need also to be drastically reduced without delay.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>честички од транспортот кои што значително му штетат на нашето здравје и на животната средина, исто така, треба драстично да се намалат без одлагање.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240817T061431Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240817T061451Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195222Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1472090304204154949, -5517604996572304189</prop>
+      <prop type="x-ContextContent">Emissions of air pollutants from transport that significantly harm our health, and the environment, need also to be drastically reduced without delay. |  | Емисиите на штетни честички од транспортот кои значително му штетат на нашето здравје и животната средина, исто така, треба драстично да се намалат без одлагање. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(3)	The Commission adopted mobility packages on 31 May 2017 (‘Europe on the Move:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(3)Комисијата ги усвоидонесе пакетите за мобилност на 31 мај 2017 година („Европа во движење</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240817T061452Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T210922Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195222Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-507900139723779275, 7074900128699336179</prop>
+      <prop type="x-ContextContent">(3)	The Commission adopted mobility packages on 31 May 2017 (‘Europe on the Move: |  | (3)	Комисијата ги усвои пакетите за мобилност на 31 мај 2017 година („Европа во движење: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>An agenda for a socially fair transition towards clean, competitive and connected mobility for all’) and 8 November 2017 (‘Delivering on low-emission mobility — A European Union that protects the planet, empowers its consumers and defends its industry and workers’).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>: Агенда за социјално праведна транзиција кон чиста, конкурентна и поврзана мобилност за сите“) и на 8 ноември 2017 година („Обезбедување на мобилност со ниски емисии – Европска Унија која ја штити планетата, им дава можностиќ на своите потрошувачи и ја брани својата индустрија и работници</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240817T061934Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240817T062005Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240817T062005Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3642099637892366638, 6869608569005726535</prop>
+      <prop type="x-ContextContent">An agenda for a socially fair transition towards clean, competitive and connected mobility for all’) and 8 November 2017 (‘Delivering on low-emission mobility — A European Union that protects the planet, empowers its consumers and defends its industry and workers’). |  | Агенда за социјално праведна транзиција кон чиста, конкурентна и поврзана мобилност за сите“) и 8 ноември 2017 („Обезбедување на мобилност со ниски емисии – Европска Унија која ја штити планетата, им дава моќ на своите потрошувачи и ја брани својата индустрија и работниците“). | </prop>
+      <prop type="x-Context">1247892123, 4277850722</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Those packages set out a positive agenda which also aimed at ensuring a smooth transition towards clean, competitive and connected mobility for all.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>те“). Овие пакети поставија позитивна агенда, која, исто така, има за цел да обезбеди непречена транзиција кон чиста, конкурентна и поврзана мобилност за сите.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T192553Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T192553Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195224Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7084199444605918393, -5505097932030143647</prop>
+      <prop type="x-ContextContent">Where the Committee delivers no opinion, the Commission shall not adopt the draft implementing act and the third subparagraph of Article 5(4) of Regulation (EU) No 182/2011 shall apply. |  | Кога Комитетот не дава мислење, Комисијата нема да го усвои нацрт-актот за спроведување и се применува третиот потстав од член 5(4) од Регулативата (ЕУ) бр. 182/2011. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>_____________</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>____________</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">353</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T202749Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T202954Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195224Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">104241301315423146, 4367557786350</prop>
+      <prop type="x-ContextContent">A. TAJANI |  | А. ТАЈАНИ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>G. CIAMBA</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Г. ЦИАМБА</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">405</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231202T154110Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T202751Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195224Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3367739489738469, 4370224191737</prop>
+      <prop type="x-ContextContent">G. CIAMBA |  | Г. ЦИАМБА | </prop>
+      <prop type="x-Context">3157766218, 5675230509</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX I</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС I</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">406</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T202955Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T211359Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195224Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">108528083796055, 4395057713153</prop>
+      <prop type="x-ContextContent">ANNEX I |  | АНЕКС I | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Average specific CO<bpt i="1" type="6046" x="1" />2<ept i="1" /> emissions, specific CO<bpt i="2" type="6055" />2<ept i="2" /> emissions targets and excess CO<bpt i="3" type="6064" />2<ept i="3" /> emissions</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Просечни специфични емисии на CO2, специфични цели на емисиите на CO2 и вишок емисии на CO2</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">407</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T203019Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T203051Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195224Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1802180456808670624, -5404221213895484219</prop>
+      <prop type="x-ContextContent">VEHICLE SUB-GROUPS |  | ПОДГРУПИ НА ВОЗИЛА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Each new heavy-duty vehicle shall be attributed to one of the vehicle sub-groups defined in Table 1 in accordance with the conditions set out therein.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЛА Секое ново тешко возило се става во една од подгрупите на возила дефинирани во Табела 1 во согласност со условите утврдени во неа.</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">409</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T203051Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T203058Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195225Z" usagecount="9">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2850077003350986530, -4356040053874304067</prop>
+      <prop type="x-ContextContent">Each new heavy-duty vehicle shall be attributed to one of the vehicle sub-groups defined in Table 1 in accordance with the conditions set out therein. |  | Секое ново тешко возило се става во една од подгрупите на возила дефинирани во Табела 1 во согласност со условите утврдени во неа. | </prop>
+      <prop type="x-Context">4445427383046333951, 4531140417133831551</prop>
+      <prop type="x-ContextContent">is the payload adjustment factor defined in Table 5. |  | е факторот на прилагодување на носивоста дефиниран во Табела 5. | </prop>
+      <prop type="x-Context">5680337701948722370, 3338650657209534246</prop>
+      <prop type="x-ContextContent">The specific CO2 emissions of a vocational vehicle shall be the average of the CO2 emissions in g/km reported in accordance with Regulation (EU) 2018/956. | AgQPAQEBAQQ2NjA2AQECAQEENjYwNgFBAQIAAQQ2NjE1AQECAgEENjYxNQE= | Специфичните емисии на CO2 на наменското возило се просечните емисии на CO2 во g/km пријавени во согласност со Регулативата (ЕУ) 2018/956. | AgQZAQEBAQQ2NjA2AQECAQEENjYwNgEwAQIAAQQ2NjA2AQECAgEENjYwNgE=</prop>
+      <prop type="x-Context">-2011758167595377439, 2655675901496545493</prop>
+      <prop type="x-ContextContent">is the payload value attributed to the vehicles in the vehicle sub-group sg for the mission profile mp, as specified in Table 3. | AgRJAQEBAQQ3NzEwAQICAQEENzcxMAEZAQICAQQ3NzIyAQICAgEENzcyMgE= | е вредноста на носивост што се припишува на возилата во подгрупата на возила sg за наменскиот профил mp, како што е наведено во Табела 3. | AgRNAQEBAQQ3NzEwAQICAQEENzcxMAEWAQICAQQ3NzIyAQICAgEENzcyMgE=</prop>
+      <prop type="x-Context">-959876301122285100, -2486529135937989866</prop>
+      <prop type="x-ContextContent">is the average payload value for the vehicle sub-group 5-LH as determined in point 2.5. |  | е просечната вредност на носивоста за подгрупата на возила sg како што е утврдено во точка 2.5. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Table 1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Табела 1</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">410</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T203055Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T203210Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195224Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3517387359067, 4410658667040</prop>
+      <prop type="x-ContextContent">Table 1 |  | Табела 1 | </prop>
+      <prop type="x-Context">109069424911988, 109069424911988</prop>
+      <prop type="x-ContextContent">UDL, UDR |  | UDL, UDR | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Vehicle sub-groups (sg)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Подгрупи на возила (sg)</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">411</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T203128Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T203141Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240820T203141Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8732734292311470856, 6028092176596250051</prop>
+      <prop type="x-ContextContent">Vehicle sub-groups (sg) |  | Подгрупи на возила (sg) | </prop>
+      <prop type="x-Context">4945660068, 5550839398</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Heavy-duty vehicles</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Тешки возила</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">412</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T203129Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T203153Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195224Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1039769127909942610, 131402778067422996</prop>
+      <prop type="x-ContextContent">Heavy-duty vehicles |  | Тешки возила | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Cab type</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Вид на кабина</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">413</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T203154Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T203155Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195224Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">108571249045765, -3254534990402591072</prop>
+      <prop type="x-ContextContent">Cab type |  | Вид на кабина | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Engine power</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Моќност на моторот</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">414</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T203156Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T203216Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195224Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3032540013113819594, -45205862140746082</prop>
+      <prop type="x-ContextContent">Mission profile weights (Wsg,mp) | AgIaAQEBAQQ2NjMzAQUCAQEENjYzMwE= | Пондери на наменските профили (Wsg, mp) | AgIgAQEBAQQ2NjMzAQYCAQEENjYzMwE=</prop>
+      <prop type="x-Context">3554637074, 7197844302</prop>
+      <prop type="x-Context">104401057692275833, -598277844735074256</prop>
+      <prop type="x-ContextContent">Engine power |  | Моќност на моторот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Vehicle sub-group (sg)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Подгрупи на возила (sg)</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">415</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T203402Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T203407Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195224Z" usagecount="10">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">108599419600404, -2870642622212545925</prop>
+      <prop type="x-ContextContent">Day cab |  | Скратена кабина | </prop>
+      <prop type="x-Context">915968497336047058, -6109244077657240583</prop>
+      <prop type="x-ContextContent">Rigid lorries with axle configuration 4 × 2 and technically permissible maximum laden mass &gt; 16 tonnes |  | Крути камиони со конфигурација на оска 4×2 и максимална технички дозволена натоварена маса &gt; 16 тони | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>All</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Сите</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">417</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240820T203409Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T203410Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195224Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">117513591, 148030797</prop>
+      <prop type="x-ContextContent">All |  | Сите | </prop>
+      <prop type="x-Context">104769448102064313, -2916574481506494158</prop>
+      <prop type="x-ContextContent">Sleeper cab |  | Проширена кабина | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>&lt; 170 kW</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>&lt; 170 kW</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">418</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231129T131137Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240820T203410Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240821T195225Z" usagecount="71">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032422, 2032422</prop>
+      <prop type="x-ContextContent">4-UD |  | 4-UD | </prop>
+      <prop type="x-Context">3134911021788658568, 3134911021788658568</prop>
+      <prop type="x-ContextContent">REL, RER, LEL, LER |  | REL, RER, LEL, LER | </prop>
+      <prop type="x-Context">117513591, 148030797</prop>
+      <prop type="x-ContextContent">All |  | Сите | </prop>
+      <prop type="x-Context">2032205, 2032205</prop>
+      <prop type="x-ContextContent">&lt; 170 kW |  | &lt; 170 kW | </prop>
+      <prop type="x-Context">1954832224, 1954832224</prop>
+      <prop type="x-ContextContent">60 000 |  | 60 000 | </prop>
+      <prop type="x-Context">117834751, 117834751</prop>
+      <prop type="x-ContextContent">LER |  | LER | </prop>
+      <prop type="x-Context">9200838720027549500, -4076179665570150160</prop>
+      <prop type="x-ContextContent">Annual mileage AMsg (in km) | AgIRAQEBAQQ4MDY1AQICAQEEODA2NQE= | Годишна километража AMsg (во km) | AgIWAQEBAQQ4MDY1AQICAQEEODA2NQE=</prop>
+      <prop type="x-Context">8732734292311470856, 6028092176596250051</prop>
+      <prop type="x-ContextContent">Vehicle sub-groups (sg) |  | Подгрупи на возила (sg) | </prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">0,026 |  | 0.026 | </prop>
+      <prop type="x-Context">5832852160055548269, 8297361722534926618</prop>
+      <prop type="x-ContextContent">is the emission debt limit as determined in accordance with point 5.3; |  | е ограничувањето на емисискиот долг во согласност со точката 5.3; | </prop>
+      <prop type="x-Context">2032205, 2032205</prop>
+      <prop type="x-ContextContent">≥ 170 kW |  | ≥ 170 kW | </prop>
+      <prop type="x-Context">3816039832179915593, -5362647972245589419</prop>
+      <prop type="x-ContextContent">is the emission credits for the reporting period of the year Y as determined in accordance with point 5.2; |  | e емисиските кредити за извештајниот период од годината Y како што се утврдени во согласност со точка 5.2; | </prop>
+      <prop type="x-Context">104769448102064313, -2916574481506494158</prop>
+      <prop type="x-ContextContent">Sleeper cab |  | Проширена кабина | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>4-UD</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>4-UD</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1242</prop>
+      <prop type="x-SourceTUIndex">419</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

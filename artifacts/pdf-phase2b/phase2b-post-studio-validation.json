@@ -1,0 +1,108 @@
+{
+  "celex": "32006L0114",
+  "classification": "PASS",
+  "immutableInputVerification": {
+    "v2DocxHashMatchesExpected": true,
+    "v2DocxSha256": "058065F2A20068752432963D50608AB2463E2DB7F35C370405DDA70EF3F0F813",
+    "v2SdlxliffSha256": "D54A6E2034A93E547D54311754FE33B7F7983726710D696B3E9A8A836464D165"
+  },
+  "textIntegrity": {
+    "status": "PASS",
+    "pdfToTypedModel": {
+      "status": "PASS",
+      "tokens": 3389,
+      "sourceSpans": 3362,
+      "modelSpans": 3362,
+      "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+    },
+    "typedModelToV2Docx": {
+      "status": "PASS",
+      "tokens": 3389,
+      "sha256": "c1041d1e04032898999d7bf32d1a541f49943eb770d06d4daac906622edc59ab"
+    },
+    "v2DocxToSdlxliff": {
+      "status": "PASS",
+      "tokens": 3389,
+      "orderedTokenHash": "c1041d1e04032898999d7bf32d1a541f49943eb770d06d4daac906622edc59ab"
+    },
+    "missing": 0,
+    "added": 0,
+    "duplicated": 0,
+    "changed": 0,
+    "reordered": 0
+  },
+  "structure": {
+    "status": "PASS",
+    "tables": 3,
+    "rows": 48,
+    "cells": 100,
+    "tableContextPreserved": true,
+    "tableContextUnits": 98,
+    "rowsRepresented": 48,
+    "nonEmptyCellsRepresented": 98,
+    "articleAnnexReferencesDistinguishable": true,
+    "structuralReadingOrder": {
+      "status": "PASS",
+      "articles": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "annexes": [
+        1,
+        2
+      ],
+      "issues": []
+    }
+  },
+  "knownFalseBoundaries": [
+    {
+      "nodeId": "tablecell-e795a50cb0cdd25f",
+      "kind": "Annex I Part A multi-line cell",
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "result": "REPAIRED"
+    },
+    {
+      "nodeId": "tablecell-1170670854759090",
+      "kind": "Annex I Part A multi-line cell",
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "result": "REPAIRED"
+    },
+    {
+      "nodeId": "tablecell-dcc19ff200192bde",
+      "kind": "Annex I Part A multi-line cell",
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "result": "REPAIRED"
+    },
+    {
+      "nodeId": "listitem-4000388ab09f133b",
+      "kind": "page-1 citation/footnote continuation",
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "result": "REPAIRED"
+    }
+  ],
+  "regression": {
+    "outsideThreeCells": "NONE",
+    "bodyProjectionIdenticalToV1": true,
+    "tableProjectionIdenticalAfterCollapsingOnlyThreeKnownV1Pairs": true,
+    "materialCatRegression": false
+  },
+  "productionBehaviorChanged": false
+}

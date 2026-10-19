@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "32006L0114": {"tables": 3, "rows": 48, "cells": 100, "integrity": "PASS"},
+  "32006L0126": {"physicalTables": 5, "logicalTables": 3, "rows": 128, "cells": 264, "spans": 27433, "tokens": 18825, "MERGE": 28, "KEEP_BOUNDARY": 4, "ABSTAIN": 46, "integrity": "PASS"},
+  "32006L0042": {"physicalTables": 8, "logicalTables": 1, "rows": 278, "cells": 556, "spans": 48170, "tokens": 30922, "MERGE": 95, "KEEP_BOUNDARY": 11, "ABSTAIN": 54, "integrity": "PASS"}
+}

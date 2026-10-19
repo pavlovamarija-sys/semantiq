@@ -1,0 +1,37 @@
+{
+  "phase": "6B",
+  "classification": "PASS",
+  "controlledDocument": "32008L0050",
+  "projectId": "ac1e24ca-b699-4863-ba99-f310fa220a8a",
+  "runtimeEvidence": {
+    "file": "D:\\EU Acquis AI App\\artifacts\\shadow-runs\\13c13a7c-ef87-47f7-8844-58be5e8de75e.json",
+    "runId": "13c13a7c-ef87-47f7-8844-58be5e8de75e",
+    "documentId": "edaaedfd-99fe-473c-921a-6f7a2478f66a",
+    "versionImportId": "e66411bf-204a-4d08-8035-35a161cdc0cf",
+    "status": "completed",
+    "validationStatus": "PASS",
+    "nonAuthoritative": true
+  },
+  "sourceIdentity": {
+    "manualAuthenticatedDownload": "D:\\EU Acquis AI App\\artifacts\\pdf-phase6b\\manual-verification\\e66411bf-204a-4d08-8035-35a161cdc0cf.pdf",
+    "persistedPdfSha256": "37e412c00e79cf64f5f2a9f104abb9369ecf88814fd577070032300907fb1c87",
+    "shadowSourceSha256": "37e412c00e79cf64f5f2a9f104abb9369ecf88814fd577070032300907fb1c87",
+    "exactMatch": true,
+    "result": "PASS",
+    "retrievalProvenance": "authenticated application retrieval performed by the user; byte verification performed independently by Codex"
+  },
+  "tokenIntegrity": "PASS",
+  "authorityIsolation": "PASS",
+  "failureIsolation": "PASS",
+  "shadowNonAuthoritative": true,
+  "downstreamContamination": false,
+  "activeDocxNullExpected": true,
+  "controlledDocumentTuning": false,
+  "readyToClose": true,
+  "featureFlagChanged": false,
+  "phase6CStarted": false,
+  "history": [
+    "Earlier closure attempts remained PARTIAL because persisted bytes were inaccessible without the authenticated browser session.",
+    "User-mediated authenticated retrieval supplied the exact persisted PDF for final independent hashing."
+  ]
+}

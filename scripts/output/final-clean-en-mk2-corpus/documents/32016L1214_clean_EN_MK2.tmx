@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210610T193144Z" creationid="DESKTOP-EC0O2KC\Ane">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">3</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32016L1214</prop>
+    <prop type="x-SourceTMX">32016L1214_MK1.tmx</prop>
+    <prop type="x-SourceTMXSHA256">d60915c889b126f4edbecec3af8ef7a4dbad8da0a2ec76f34fd735af98ac648c</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">8</prop>
+  </header>
+  <body>
+    <tu creationdate="20210606T165500Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T165500Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T165500Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>DIRECTIVES</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВИ</seg>
+      </tuv>
+      <prop type="x-CELEX">32016L1214</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210607T092634Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210607T092634Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210607T092634Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">3366795238101370, 4398475543071</prop>
+      <prop type="x-ContextContent">DIRECTIVES |  | ДИРЕКТИВИ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION DIRECTIVE (EU) 2016/1214</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВА (ЕУ) 2016/1214 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32016L1214</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210607T092636Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210607T092636Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210607T092636Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-3836825297120441729, -7361757583232490289</prop>
+      <prop type="x-ContextContent">COMMISSION DIRECTIVE (EU) 2016/1214 |  | ДИРЕКТИВА (ЕУ) 2016/1214 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 25 July 2016</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 25 јули 2016 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32016L1214</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210607T092753Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210607T092753Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210607T092753Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">3657596318, -790155717426821069</prop>
+      <prop type="x-ContextContent">of 25 July 2016 |  | од 25 јули 2016 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>amending Directive 2005/62/EC as regards quality system standards and specifications for blood establishments</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за изменување на Директивата 2005/62/ЕЗ за стандардите и спецификациите на системот за квалитет во установите за трансфузиона медицина</seg>
+      </tuv>
+      <prop type="x-CELEX">32016L1214</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210607T092756Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210607T092756Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210607T092756Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-2841259732492246134, 4924290778719208047</prop>
+      <prop type="x-ContextContent">amending Directive 2005/62/EC as regards quality system standards and specifications for blood establishments |  | за изменување на Директивата 2005/62/ЕЗ за стандардите и спецификациите на системот за квалитет во установите за трансфузиона медицина | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Text with EEA relevance)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Текст со важност за ЕЕО)</seg>
+      </tuv>
+      <prop type="x-CELEX">32016L1214</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T165507Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T165507Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T165507Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">2094311973019752702, -693899598895376172</prop>
+      <prop type="x-ContextContent">(Text with EEA relevance) |  | (Текст со важност за ЕЕО) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32016L1214</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T165509Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T165509Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T165509Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-ContextContent">THE EUROPEAN COMMISSION, |  | ЕВРОПСКАТА КОМИСИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32016L1214</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210607T092857Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210607T093135Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210607T093135Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-1630537092630497703, -2439055183373607700</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, |  | имајќи го предвид Договорот за функционирање на Европската Унија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Directive 2002/98/EC of the European Parliament and of the Council of 27 January 2003 setting standards of quality and safety for the collection, testing, processing, storage, and distribution of human blood and blood components and amending Directive 2001/83/EC (<ph x="1" type="109" />), and in particular point (h) of the second paragraph of Article 29 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Директивата 2002/98/ЕЗ на Европскиот парламент и на Советот од 27 јануари 2003 година, за утврдување на стандардиот за квалитет и безбедноста за собирање, тестирање, обработка, складирање и распределба на човечка крв и крвни компоненти и изменувајќи за изменување на Директивата 2001/83/ЕЗз(),а(), а особено точка (ж) од вториот став од член 29 од истатаиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32016L1214</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

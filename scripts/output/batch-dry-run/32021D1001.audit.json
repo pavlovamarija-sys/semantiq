@@ -1,0 +1,1717 @@
+{
+  "celex": "32021D1001",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D1001\\TMX_MK1\\32021D1001_MK1.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D1001\\MK2\\32021D1001_MK2.docx",
+  "tmx_sha256": "7c6370307c257881c437ddaf92ae1811b7aeabcd960fcedd641d3d376372fdd2",
+  "mk2_sha256": "24c33af9ada98ceae1ef6039b3e325934e266174029506d9c6a0d39b5a29ee92",
+  "original_tus": 70,
+  "accepted_tus": 19,
+  "skipped_tus": 51,
+  "acceptance_percent": 27.14,
+  "mk1_coverage": 52.0,
+  "mk2_coverage": 58.7,
+  "accepted_clean_en_chars": 2101,
+  "accepted_clean_mk2_chars": 2139,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL DECISION (CFSP) 2021/1001",
+      "mk1": "ОДЛУКА (ЗНБП) 2021/1001 НА СОВЕТОТ",
+      "mk2": "ОДЛУКА (ЗНБП) 2021/1001 НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        34
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 21 June 2021",
+      "mk1": "од 21 јуни 2021 година",
+      "mk2": "од 21 јуни 2021 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        35,
+        57
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "amending Decision 2012/642/CFSP concerning restrictive measures in view of the situation in Belarus",
+      "mk1": "за изменување на Одлуката 2012/642/ЗНБП за рестриктивни мерки во однос на состојбата во Белорусија",
+      "mk2": "за изменување на Одлуката 2012/642/ЗНБП за рестриктивни мерки во однос на состојбата во Белорусија",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        2,
+        3
+      ],
+      "mk2_char_span": [
+        58,
+        156
+      ],
+      "evidence": {
+        "token_count": 14,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          3
+        ],
+        "atom_window": [
+          2,
+          3
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 4,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        3,
+        4
+      ],
+      "mk2_char_span": [
+        157,
+        185
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          4,
+          4
+        ],
+        "atom_window": [
+          3,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on European Union and in particular Article 29 thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот,",
+      "mk2": "имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        4,
+        5
+      ],
+      "mk2_char_span": [
+        186,
+        263
+      ],
+      "evidence": {
+        "token_count": 13,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          5
+        ],
+        "atom_window": [
+          4,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,",
+      "mk1": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "mk2": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        264,
+        371
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          6
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "(1) On 15 October 2012, the Council adopted Decision 2012/642/CFSP () concerning restrictive measures in view of the situation in Belarus.",
+      "mk1": "(1) На 15 октомври 2012 година, Советот ја донесе Одлуката 2012/642/ЗНБП () за рестриктивни мерки во однос на состојбата во Белорусија.",
+      "mk2": "со оглед на тоа што: (1)На 15 октомври 2012 година, Советот ја донесе Одлуката 2012/642/ЗНБП HYPERLINK \\l \"bookmark1\" () за рестриктивни мерки во однос на с",
+      "score": 0.7636363636363637,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        372,
+        528
+      ],
+      "evidence": {
+        "token_count": 56,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          8
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 8,
+      "en": "Council Decision 2012/642/CFSP of 15 October 2012 concerning restrictive measures in view of the situation in Belarus (OJ L 285, 17.10.2012, p. 1).",
+      "mk1": "Одлука 2012/642/ЗНБП на Советот од 15 октомври 2012 година за рестриктивни мерки во однос на состојбата во Белорусија (Сл. весник L 285, 17.10.2012 година, стр. 1).",
+      "mk2": "остојбата во Белорусија. Одлука 2012/642/ЗНБП на Советот од 15 октомври 2012 година за рестриктивни мерки во однос на состојбата во Белорусија (Сл. весник L 285, 17.10.2012 година, стр. 1).",
+      "score": 0.9289940828402367,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        528,
+        717
+      ],
+      "evidence": {
+        "token_count": 56,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          8
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 9,
+      "en": "It called on the Council to adopt additional listings of persons and entities as soon as possible on the basis of the relevant sanctions framework.",
+      "mk1": "Го повика Советот врз основа на соодветната рамка на санкциии, колку што е можно побрзо, да донесе дополнителни списоци на лица и субјекти.",
+      "mk2": "(2)На 24 и 25 мај 2021 година, Европскиот совет донесе заклучоци со кои остро се осудува принудното слетување на летот на Рајанер во Минск, Белорусија, на 23 мај 2021 година, при што се загрози авијациската безбедноста во воздухо",
+      "score": 0.20555555555555555,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        8,
+        10
+      ],
+      "mk2_char_span": [
+        718,
+        947
+      ],
+      "evidence": {
+        "token_count": 175,
+        "references_preserved": true,
+        "neighbor_window": [
+          9,
+          11
+        ],
+        "atom_window": [
+          8,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 10,
+      "en": "(3) In view of the gravity of that incident, one further entity should be included in the list of natural and legal persons, entities and bodies subject to restrictive measures set out in the Annex to Decision 2012/642/CFSP.",
+      "mk1": "(3) Со оглед на сериозноста на тој инцидент, еден дополнителен субјект треба да се додаде во списокот на физички и правни лица, субјекти и тела кои подлежат на рестриктивни мерки утврдени во Анексот кон Одлуката 2012/642/ЗНБП.",
+      "mk2": "пловството, како и притворот од страна на белоруските власти на новинарот Раман Пратасевич (Raman Pratasevich) и Софија Сапега (Sofia Sapega). Го повика Советот, врз основа на соодветната рамка на санкциии, колку што е можно побрзо, да донесе дополнителни списоци на лица и субјекти врз основа на соодветната рамка на санкции. (3)Со оглед на сериозноста на тој инцидент, ед",
+      "score": 0.15120274914089346,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        8,
+        10
+      ],
+      "mk2_char_span": [
+        947,
+        1320
+      ],
+      "evidence": {
+        "token_count": 175,
+        "references_preserved": true,
+        "neighbor_window": [
+          9,
+          11
+        ],
+        "atom_window": [
+          8,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 11,
+      "en": "In order to avoid undesired consequences of this listing, it is necessary to amend the list of instances where the competent authority of a Member State may authorise derogations to the freezing of funds and the prohibition to make funds or economic resources available to listed persons or entities.",
+      "mk1": "Со цел да се избегнат несакани последици од тој список, потребно е да се измени списокот на случаи во кои надлежниот орган на земја членка може да одобри отстапување од замрзнувањето на средства и забраната за ставање на располагање на средства или економски ресурси на наведените лица или субјекти.",
+      "mk2": "ен дополнителен субјект треба да се додаде во списокот на физички и правни лица, субјекти и тела кои што подлежат на рестриктивни мерки утврдени во Анексот кон Одлуката 2012/642/ЗНБП. Со цел да се избегнат несакани последици од тој список, потребно е да се измени списокот на случаи во кои надлежниот орган на земја членка може да одобри отстапување од замрзнувањето на финансиски средства и забраната за ставање на располагање на средства или економски ресурси на наведените лица или субјекти.",
+      "score": 0.7547649301143583,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        8,
+        10
+      ],
+      "mk2_char_span": [
+        1320,
+        1814
+      ],
+      "evidence": {
+        "token_count": 175,
+        "references_preserved": true,
+        "neighbor_window": [
+          9,
+          11
+        ],
+        "atom_window": [
+          8,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 12,
+      "en": "(4) Decision 2012/642/CFSP should therefore be amended accordingly, HAS ADOPTED THIS DECISION:",
+      "mk1": "(4) Затоа, Одлуката 2012/642/ЗНБП треба соодветно да се измени, ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "mk2": "(4)Затоа, Одлуката 2012/642/ЗНБП треба соодветно да се измени, ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        10,
+        12
+      ],
+      "mk2_char_span": [
+        1815,
+        1900
+      ],
+      "evidence": {
+        "token_count": 13,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          12
+        ],
+        "atom_window": [
+          10,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 13,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "Член 1",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        1901,
+        1907
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          13
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 14,
+      "en": "Decision 2012/642/CFSP is amended as follows:",
+      "mk1": "Одлуката 2012/642/ЗНБП се менува како што следува:",
+      "mk2": "Одлуката 2012/642/ЗНБП се изменува како што следува:",
+      "score": 0.98,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        13,
+        16
+      ],
+      "mk2_char_span": [
+        1908,
+        1960
+      ],
+      "evidence": {
+        "token_count": 17,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          13,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 15,
+      "en": "(1) Article 5(1) is replaced by the following:",
+      "mk1": "(1) член 5(1) се заменува со следново:",
+      "mk2": "(1)член 5(1) се заменува со следново:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        13,
+        16
+      ],
+      "mk2_char_span": [
+        1960,
+        1999
+      ],
+      "evidence": {
+        "token_count": 17,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          13,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 16,
+      "en": "‘Article 5",
+      "mk1": "„Член 5",
+      "mk2": "„Член 5",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        13,
+        16
+      ],
+      "mk2_char_span": [
+        1999,
+        2006
+      ],
+      "evidence": {
+        "token_count": 17,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          13,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 17,
+      "en": "1.",
+      "mk1": "1.",
+      "mk2": "1.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        16,
+        17
+      ],
+      "mk2_char_span": [
+        2007,
+        2009
+      ],
+      "evidence": {
+        "token_count": 49,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          18
+        ],
+        "atom_window": [
+          16,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 18,
+      "en": "The competent authority of a Member State may authorise the release of certain frozen funds or economic resources or the making available of certain funds or economic resources, under such conditions as it deems appropriate, after having determined that the funds or economic resources concerned are:",
+      "mk1": "Надлежниот орган на дадена земја членка може да одобри ослободување на одредени замрзнати финансиски средства или економски ресурси или ставање на располагање на одредени финансиски средства или економски ресурси под услови кои ги смета за соодветни, откако ќе утврди дека соодветните финансиски средства или економски ресурси се:",
+      "mk2": "Надлежниот орган на дадена земја членка може да одобри ослободување на одредени замрзнати финансиски средства или економски ресурси или ставање на располагање на одредени финансиски средства или економски ресурси под услови кои што ги смета за соодветни, откако ќе утврди дека соодветните финансиски средства или економски ресурси се:",
+      "score": 0.9939393939393939,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        16,
+        17
+      ],
+      "mk2_char_span": [
+        2009,
+        2343
+      ],
+      "evidence": {
+        "token_count": 49,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          18
+        ],
+        "atom_window": [
+          16,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 19,
+      "en": "(a) necessary to satisfy the basic needs of any person listed in the Annex and their dependent family members, including payments for foodstuffs, rent or mortgage, medicines and medical treatment, taxes, insurance premiums, and public utility charges;",
+      "mk1": "(а) потребни за задоволување на основните потреби на кое било лице наведено во Анексот и на нивните членови на семејствата кои се зависни од нив, вклучувајќи трошоци за храна, кирија или отплата на хипотека, лекови и медицинска грижа, даноци, осигурителни премии и давачки за комунални услуги;",
+      "mk2": "(а)потребни за задоволување на основните потреби на кое било лице наведено во Анексот и на нивните членови на семејствата кои што се зависни од нив, вклучувајќи трошоци за храна, кирија или отплата на хипотека, лекови и медицинска медицинско грижалекување, даноци, осигурителни премии и давачки за комуна",
+      "score": 0.9433962264150944,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        17,
+        20
+      ],
+      "mk2_char_span": [
+        2344,
+        2648
+      ],
+      "evidence": {
+        "token_count": 92,
+        "references_preserved": true,
+        "neighbor_window": [
+          19,
+          21
+        ],
+        "atom_window": [
+          17,
+          20
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 20,
+      "en": "(b) intended exclusively for the payment of reasonable professional fees and the reimbursement of incurred expenses associated with the provision of legal services;",
+      "mk1": "(б) наменети исклучиво за плаќање на разумни професионални давачки и за враќање на направени трошоци поврзани со обезбедување на правни услуги;",
+      "mk2": "лни услуги; (б)наменети исклучиво за плаќање на разумни професионални давачки и за враќање на направени трошоци поврзани со обезбедување на правни у",
+      "score": 0.9440559440559441,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        17,
+        20
+      ],
+      "mk2_char_span": [
+        2648,
+        2796
+      ],
+      "evidence": {
+        "token_count": 92,
+        "references_preserved": true,
+        "neighbor_window": [
+          19,
+          21
+        ],
+        "atom_window": [
+          17,
+          20
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 21,
+      "en": "(c) intended exclusively for the payment of fees or service charges for the routine holding or maintenance of frozen funds or economic resources;",
+      "mk1": "(в) наменети исклучиво за плаќање на надоместоци или давачки за услуги за тековно одржување и управување со замрзнати финансиски средства или економски ресурси;",
+      "mk2": "слуги; (в)наменети исклучиво за плаќање на надоместоци или давачки за услуги за тековно одржување и управување со замрзнати финансиски средства или економски ресурси;",
+      "score": 0.98125,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        17,
+        20
+      ],
+      "mk2_char_span": [
+        2796,
+        2962
+      ],
+      "evidence": {
+        "token_count": 92,
+        "references_preserved": true,
+        "neighbor_window": [
+          19,
+          21
+        ],
+        "atom_window": [
+          17,
+          20
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 22,
+      "en": "(d) necessary for extraordinary expenses, provided that the competent authority has notified the grounds on which it considers that a specific authorisation should be granted to the other competent authorities and the Commission at least two weeks prior to the authorisation;",
+      "mk1": "(г) потребни за вонредни трошоци, под услов најмалку две недели пред одобрувањето, надлежниот орган да ги извести другите овластени органи и Комисијата за причините врз основа на кои смета дека треба да се додели посебното одобрување;",
+      "mk2": "(г)потребни за вонредни трошоци, под услов најмалку две недели пред одобрувањето, надлежниот орган да ги извести другите овластени органи и Комисијата за причините врз основа на кои смета дека треба да се додели посебното одобрување;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        20,
+        21
+      ],
+      "mk2_char_span": [
+        2963,
+        3196
+      ],
+      "evidence": {
+        "token_count": 36,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          22
+        ],
+        "atom_window": [
+          20,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 23,
+      "en": "(e) to be paid into or from an account of a diplomatic mission or consular post or an international organisation enjoying immunities in accordance with international law, in so far as such payments are intended to be used for official purposes of the diplomatic mission or consular post or international organisation;",
+      "mk1": "(д) наменети за исплата на или од сметка на дипломатска мисија или конзуларно претставништво или меѓународна организација која ужива имунитет во согласност со меѓународното право, доколку целта на овие плаќања е да се користат за службени потреби на дипломатската мисија или конзуларното претставништво или меѓународната организација;",
+      "mk2": "(д)наменети за исплата на или од сметка на дипломатска мисија или конзуларно претставништво, или меѓународна организација која што ужива имунитет во согласност со меѓународното право, доколку целта на овие плаќања е да се користат за службени потреби на дипломатската мисија или конзуларното претставништво или меѓународната организација",
+      "score": 0.9939759036144579,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        21,
+        23
+      ],
+      "mk2_char_span": [
+        3197,
+        3534
+      ],
+      "evidence": {
+        "token_count": 56,
+        "references_preserved": true,
+        "neighbor_window": [
+          23,
+          24
+        ],
+        "atom_window": [
+          21,
+          23
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 24,
+      "en": "(f) intended exclusively for the payment of a charge necessary for:",
+      "mk1": "(ѓ) наменети исклучиво за исплата на надоместок неопходен за:",
+      "mk2": "; (ѓ)наменети исклучиво за исплата на надоместок неопходен за:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        21,
+        23
+      ],
+      "mk2_char_span": [
+        3534,
+        3596
+      ],
+      "evidence": {
+        "token_count": 56,
+        "references_preserved": true,
+        "neighbor_window": [
+          23,
+          24
+        ],
+        "atom_window": [
+          21,
+          23
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 25,
+      "en": "This Decision shall enter into force on the day of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "",
+      "score": 0.32020997375328086,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 26,
+      "en": "Done at Luxembourg, 21 June 2021.",
+      "mk1": "Луксембург, 21 јуни 2021 година.",
+      "mk2": "",
+      "score": 0.23931623931623933,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 27,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "",
+      "score": 0.20652173913043478,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 28,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 29,
+      "en": "J. BORRELL FONTELLES",
+      "mk1": "Ј. БОРЕЛ ФОНТЕЛЕС",
+      "mk2": "",
+      "score": 0.26356589147286824,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 30,
+      "en": "Names",
+      "mk1": "Имиња",
+      "mk2": "",
+      "score": 0.2109704641350211,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 31,
+      "en": "Transcription of Belarusian spelling",
+      "mk1": "Транскрипција на белоруски правопис",
+      "mk2": "",
+      "score": 0.2509505703422053,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 32,
+      "en": "Date of listing",
+      "mk1": "Датум на внесување во список",
+      "mk2": "",
+      "score": 0.31666666666666665,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 33,
+      "en": "‘15.",
+      "mk1": "„15.",
+      "mk2": "",
+      "score": 0.30952380952380953,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 34,
+      "en": "Belaeronavigatsia",
+      "mk1": "Belaeronavigatsia",
+      "mk2": "",
+      "score": 0.3333333333333333,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 35,
+      "en": "State-owned enterprise",
+      "mk1": "Претпријатие во сопственост на државата.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 36,
+      "en": "Belarusian:",
+      "mk1": "Белоруски:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 37,
+      "en": "Белаэронавiгация Дзяржаўнае прадпрыемства",
+      "mk1": "Белаэронавiгация Дзяржаўнае прадпрыемства",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 38,
+      "en": "Russian:",
+      "mk1": "Руски:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 39,
+      "en": "Белаэронавигация Государственное предприятие",
+      "mk1": "Белаэронавигация Государственное предприятие",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 40,
+      "en": "Address:",
+      "mk1": "Адреса:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 41,
+      "en": "19 Korotkevich Str., Minsk, 220039, Republic of Belarus Tel.:",
+      "mk1": "19 Korotkevich Str., Minsk, 220039, Republic of Belarus Тел.:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 42,
+      "en": "+375 (17) 215-40-51 Fax:",
+      "mk1": "+375 (17) 215-40-51 Факс:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "+375 (17) 213-41-63 Website:",
+      "mk1": "+375 (17) 213-41-63 Веб-страница:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "http://www.ban.by/ Email:",
+      "mk1": "Http://www.ban.by/ Е-пошта:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "office@ban.by Date of registration:",
+      "mk1": "office@ban.by Датум на регистрација:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 46,
+      "en": "1996",
+      "mk1": "1996",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 47,
+      "en": "http://www.ban.by/",
+      "mk1": "http://www.ban.by/",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 48,
+      "en": "office@ban.by",
+      "mk1": "office@ban.by",
+      "mk2": "",
+      "score": 0.12429378531073447,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 49,
+      "en": "State-owned Enterprise BELAERONAVIGATSIA is responsible for Belarusian air traffic control.",
+      "mk1": "Претпријатието во сопственост на државата BELAERONAVIGATSIA е одговорно за контролата на воздушниот сообраќај во Белорусија.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 50,
+      "en": "21.6.2021’",
+      "mk1": "21.6.2021“",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 51,
+      "en": "(1) the following legal person is added to table ‘B. Legal persons, entities or bodies referred to in Article 4(1)’:",
+      "mk1": "(1) следното правно лице е додадено во табелата „Б. Правни лица, субјекти или тела наведени во член 4(1)“:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 52,
+      "en": "(ii) the operation of flights in the framework of international adoption procedures;",
+      "mk1": "(ii) управување со летови во рамките на меѓународните процедури за посвојување;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 53,
+      "en": "(i) the operation of flights for humanitarian purposes, for the evacuation or repatriation of persons, or for initiatives providing support to victims of natural, nuclear or chemical disasters;",
+      "mk1": "(i) изведување летови со хуманитарни цели, за евакуација или репатријација на лица или за иницијативи за помош на жртви на природни, нуклеарни или хемиски катастрофи;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 54,
+      "en": "(iii) the operation of flights required for attending meetings with the objective of seeking a solution to the crisis in Belarus or promoting the policy objectives of the restrictive measures;",
+      "mk1": "(iii) изведување летови неопходни за состаноци за решавање на кризата во Белорусија или за поттикнување на политичките цели на рестриктивните мерки;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 55,
+      "en": "(iv) an emergency landing, take-off or overflight by an EU air carrier; or",
+      "mk1": "(iv) итно слетување, полетување или прелетување на авиопревозник на ЕУ; или",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 56,
+      "en": "(g) necessary to deal with urgent and clearly identified air safety matters and after prior consultation of the European Union Aviation Safety Agency.",
+      "mk1": "(е) неопходни за справување со итни и јасно дефинирани прашања во однос на воздухопловната безбедност и по претходна консултација со Агенцијата на Европската Унија за безбедност на воздухопловството.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 57,
+      "en": "Member States shall inform the other Member States and the Commission of any authorisation granted under this Article.’.",
+      "mk1": "Земјите членки ги известуваат другите земји членки и Комисијата за секое одобрение дадено според овој член.“.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 58,
+      "en": "(2) The Annex to Decision 2012/642/CFSP is amended in accordance with the Annex to this Decision.",
+      "mk1": "(2) Анексот кон Одлуката 2012/642/ЗНБП се изменува во согласност со Анексот кон оваа одлука.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 59,
+      "en": "The Annex to Decision 2012/642/CFSP is amended as follows:",
+      "mk1": "Анексот кон Одлуката 2012/642/ЗНБП се изменува како што следува:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 60,
+      "en": "It therefore bears responsibility for diverting passenger flight FR4978 to Minsk airport without proper justification on 23 May 2021.",
+      "mk1": "Затоа тоа е одговорно за пренасочување на патничкиот лет FR4978 до аеродромот во Минск без соодветно оправдување на 23 мај 2021 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 61,
+      "en": "This politically motivated decision was aimed at arresting and detaining opposition journalist Raman Pratasevich and Sofia Sapega and is a form of repression against civil society and democratic opposition in Belarus.",
+      "mk1": "Целта на оваа политички мотивирана одлука беше апсење и притворање на опозициските новинари Раман Праташевиќ (Raman Pratasevich) и Софија Сапега (Sofia Sapega) и претставува форма на репресија врз граѓанското општество и демократската опозиција во Белорусија.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 62,
+      "en": "The BELAERONAVIGATSIA State-owned Enterprise is therefore responsible for the repression of civil society and democratic opposition.",
+      "mk1": "Затоа, претпријатието во сопственост на државата BELAERONAVIGATSIA е одговорно за репресијата врз граѓанското општество и демократската опозиција.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 63,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 64,
+      "en": "(2) On 24 and 25 May 2021, the European Council adopted conclusions in which it strongly condemned the forced landing of a Ryanair flight in Minsk, Belarus, on 23 May 2021 endangering aviation safety, and the detention by Belarusian authorities of journalist Raman Pratasevich and Sofia Sapega.",
+      "mk1": "(2) На 24 и 25 мај 2021 година, Европскиот совет донесе заклучоци со кои остро се осудува принудното слетување на летот на Рајанер во Минск, Белорусија, на 23 мај 2021 година, при што се загрози авијациската безбедност, како и притворот од страна на белоруските власти на новинарот Раман Патасевич (Raman Pratasevich) и Софиа Сапега (Sofia Sapega).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 65,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 66,
+      "en": "Transcription of Russian spelling",
+      "mk1": "Транскрипција на руски правопис",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 67,
+      "en": "(Belarusian spelling)",
+      "mk1": "(Белоруски правопис)",
+      "mk2": "",
+      "score": 0.23076923076923078,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 68,
+      "en": "(Russian spelling)",
+      "mk1": "(Руски правопис)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 69,
+      "en": "Identifying Information",
+      "mk1": "Информации за идентификација",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 70,
+      "en": "Reasons for listing",
+      "mk1": "Причини за наведување на список",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 1,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021D1001",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Council Decision (CFSP) 2021/1001 of 21 June 2021 amending Decision 2012/642/CFSP concerning restrictive measures in view of the situation in Belarus",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2021/1001 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 21 јуни 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката 2012/642/ЗНБП за рестриктивни мерки во однос на состојбата во Белорусија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Common foreign and security policy",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ангела Николова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translations@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "20.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор(АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "член 1(1)(е)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "European Union Aviation Safety Agency",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција на Европската унија Унија за безбедност на воздухопловството",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "HYPERLINK \"https://dejure.mk/zakon/pravilnik-za-zaednichkite-osnovni-pravila-za-dejnostite-vo-civilnoto-vozduhoplovstvo\" https://dejure.mk/zakon/pravilnik-za-zaednichkite-osnovni-pravila-za-dejnostite-vo-civilnoto-vozduhoplovstvo",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "член 1(1)(ѓ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "repatriation",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "репатријација",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://mfa.gov.mk/fr/page/1706/covid-19",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021D1001",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Council Decision (CFSP) 2021/1001 of 21 June 2021 amending Decision 2012/642/CFSP concerning restrictive measures in view of the situation in Belarus",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2021/1001 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 21 јуни 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката 2012/642/ЗНБП за рестриктивни мерки во однос на состојбата во Белорусија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Common foreign and security policy",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Павлова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translations@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "21.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула, став 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "aviation safety",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "авијациска безбедност",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "безбедност во воздухопловството",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за цивилно воздухопловство- https://www.caa.gov.mk/page/35/?s",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Одлука 2012/642/ЗНБП на Советот од 15 октомври 2012 година за рестриктивни мерки во однос на состојбата во Белорусија (Сл. весник L 285, 17.10.2012 година, стр. 1).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 7,
+        "text": "Одлука 2012/642/ЗНБП на Советот од 15 октомври 2012 година за рестриктивни мерки во однос на состојбата во Белорусија (Сл. весник L 285, 17.10.2012 година, стр. 1)."
+      }
+    ]
+  },
+  "dry_run": true
+}

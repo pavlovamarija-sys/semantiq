@@ -1,0 +1,518 @@
+{
+  "celex": "32017D1774",
+  "dry_run": true,
+  "source_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32017D1774\\TMX_MK1\\32017D1774_TM.tmx"
+  ],
+  "mk2_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32017D1774\\MK2\\32017D1774_MK2.docx"
+  ],
+  "original_tmx_sha256": "4ea2e79640d3b66ca1ca3e5d2466805769a71129f519a9da0d1e30a7d3ce82a1",
+  "mk2_sha256": "527de6bf2489486c8573ddaa8c32ab2629395902efbfae4b46011f5806216e0c",
+  "extraction": {
+    "format": "DOCX",
+    "paragraphs": 155,
+    "table cells": 98,
+    "characters": 9349,
+    "extraction method": "OOXML body traversal",
+    "error": ""
+  },
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL IMPLEMENTING DECISION (EU) 2017/1774",
+      "mk1": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2017/1774 НА СОВЕТОТ",
+      "status": "HIGH",
+      "target": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2017/1774 НА СОВЕТОТ од",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 25 September 2017",
+      "mk1": "од септември 2017 година",
+      "status": "HIGH",
+      "target": "25 септември 2017 година",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 25 September 2017",
+      "mk1": "од септември 2017 година",
+      "status": "UNMATCHED",
+      "target": "за подложување на N (1-фенетилпиперидин-",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 3,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "UNMATCHED",
+      "target": "4-ил)-N-фенилакриламид (акрилоилфентанил) ) на",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 4,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "status": "REVIEW",
+      "target": "контролни мерки СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 3,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 4,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "status": "REVIEW",
+      "target": "имајќи го предвид предлогот на Европската",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the proposal from the European Commission,",
+      "mk1": "имајќи го предвид предлогот на Европската Комисија,",
+      "status": "UNMATCHED",
+      "target": "Комисија, имајќи го предвид мис",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the opinion of the European Parliament (),",
+      "mk1": "имајќи го предвид мислењето на Европскиот парламент,",
+      "status": "REVIEW",
+      "target": "лењето на Европскиот парламент ,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the proposal from the European Commission,",
+      "mk1": "имајќи го предвид предлогот на Европската Комисија,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the opinion of the European Parliament (),",
+      "mk1": "имајќи го предвид мислењето на Европскиот парламент,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 7,
+      "en": "Opinion of 13 September 2017 (not yet published in the Official Journal).",
+      "mk1": "Мислење од 13 септември 2017 година (сѐ уште не е објавено во Службен весник)",
+      "status": "UNMATCHED",
+      "target": "(2)Акрилоилфентанилот е синтетички опиоид. Тој по својата структура е сличен со фентанилот, контролир",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 8,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "status": "UNMATCHED",
+      "target": "ана супстанција која има ш",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 9,
+      "en": "It is structurally similar to fentanyl, a controlled substance widely used in medicine as an adjunct to general anaesthesia during surgery and for pain management.",
+      "mk1": "Тој по својата структура е сличен со фентанил, контролирана супстанција која има широка употреба во медицината како додаток на анестезија за време на операции за контролирање на болката.",
+      "status": "UNMATCHED",
+      "target": "ирока употреба во медицината како додаток на општата анестезија за време на операции за контролирање на болката. Според податоците што ги има на располагање, акрилоилфентанилот е моќен и долготраен агенс кој делува дејствува на опиоидниот систем.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 8,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 9,
+      "en": "It is structurally similar to fentanyl, a controlled substance widely used in medicine as an adjunct to general anaesthesia during surgery and for pain management.",
+      "mk1": "Тој по својата структура е сличен со фентанил, контролирана супстанција која има широка употреба во медицината како додаток на анестезија за време на операции за контролирање на болката.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 10,
+      "en": "(3)\tAcryloylfentanyl has been available in the Union since at least April 2016 and has been detected in six Member States.",
+      "mk1": "(3)\tАкрилоилфентанил е достапен во Унијата најмалку од април 2016 година и е откриен во шест земји членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 11,
+      "en": "In most cases where it has been seized, the substance was in liquid form, but other forms such as tablets, powders and a capsule have also been detected.",
+      "mk1": "Во поголемиот дел од случаите кога тој беше запленет, супстанцијата беше во течна форма, но исто така е откриен и во други форми, како таблети, прашок и капсули.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 12,
+      "en": "The detected quantities are relatively small, but should be considered in the context of the high potency of the substance.",
+      "mk1": "Откриените количини се релативно мали, но треба да се земат предвид со оглед на тоа дека супстанцијата има висока моќност.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 13,
+      "en": "(4)\tThree Member States have collectively reported 47 deaths associated with acryloylfentanyl.",
+      "mk1": "(4)\tВо три земји членки беа пријавени вкупно 47 смртни случаи поврзани со акрилоилфентанил.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 14,
+      "en": "It is sold in small and wholesale amounts.",
+      "mk1": "Се продава во мали и во големи количини.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 15,
+      "en": "(7)\tAcryloylfentanyl is not listed for control under the 1961 United Nations Single Convention on Narcotic Drugs or under the 1971 United Nations Convention on Psychotropic Substances.",
+      "mk1": "(7)\tАкрилоилфентанил не е наведен за контрола во рамките на Единствената конвенција за наркотични дроги на Обединетите Нации од 1961 година или во рамките на Конвенцијата за психотропни супстанции на Обединетите Нации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 16,
+      "en": "The substance is not currently under assessment by the United Nations system.",
+      "mk1": "Супстанцијата во моментов не е опфатена со системот за оцена на Обединетите Нации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 17,
+      "en": "(8)\tAcryloylfentanyl has no established or acknowledged human or veterinary medical use.",
+      "mk1": "(8)\tАкрилоилфентанил нема востановена употреба кај луѓето, ниту востановена употреба за ветеринарни цели.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 18,
+      "en": "However, the available evidence and information on the health and social risks that the substance poses provide sufficient grounds for subjecting acryloylfentanyl to control measures across the Union.",
+      "mk1": "Сепак, достапните докази и информации за здравјето и социјалните ризици кои ги предизвикува оваа супстанција, даваат доволна основа за акрилоилфентанил да подложи на контролни мерки во рамките на Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 19,
+      "en": "(10)\tOnly nine Member States control acryloylfentanyl under national drug control legislation, while two other Member States use other legislative measures to control it.",
+      "mk1": "(10)\tАкрилоилфентанил се контролира во само девет земји членки во рамките на националното законодавство за контрола на дроги, додека во други две земји членки се користат други законодавни мерки за негова контрола.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 20,
+      "en": "Therefore, subjecting this substance to control measures across the Union would help avoid the emergence of obstacles in cross-border law enforcement and judicial cooperation, and would help protect from the risks that its availability and use could pose.",
+      "mk1": "Затоа, со подложување на оваа супстанција на контролни мерки во рамките на Унијата би се помогнало да се избегнат пречките кои би можеле да се појават во прекуграничното спроведување на правото и во судската соработка и би се помогнало во заштитата од ризиците кои би ги предизвикала неговата достапност.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 21,
+      "en": "As the conditions and procedure for triggering the exercise of such implementing powers have been met, an implementing decision should be adopted in order to subject acryloylfentanyl to control measures across the Union.",
+      "mk1": "Бидејќи се исполнети условите и постапката за остварување на оваа примена на овластувања, треба да се донесе одлука за спроведување со цел да се подложи акрилоилфентанил на контролни мерки во рамките на Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 22,
+      "en": "(13)\tIreland is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision, which implements Decision 2005/387/JHA.",
+      "mk1": "(13)\tИрска е обврзана со Одлуката 2005/387/ПВР и затоа учествува во донесувањето и примената на оваа одлука, со која се спроведува Одлуката 2005/387/ПВР.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 23,
+      "en": "(14)\tThe United Kingdom is not bound by Decision 2005/387/JHA and is therefore not taking part in the adoption of this Decision, which implements Decision 2005/387/JHA, and is not bound by it or subject to its application,",
+      "mk1": "(14)\tОбединетото Кралство не е обврзано со Одлуката 2005/387/ПВР и затоа нема да учествува во донесувањето на оваа одлука со која се спроведува Одлуката 2005/387/ПВР и не обврзана со неа ниту подложи на нејзината примена.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 24,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 25,
+      "en": "This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на следниот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "status": "HIGH",
+      "target": "Член 3 Оваа одлука влегува во сила на следниот ден од денот на нејзиното објавување во Службениот весник на Европската Унија",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 26,
+      "en": "This Decision shall apply in accordance with the Treaties.",
+      "mk1": "Оваа одлука се применува во согласност со Договорите.",
+      "status": "HIGH",
+      "target": ". Оваа одлука се применува во согласност со Договорите.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 26,
+      "en": "This Decision shall apply in accordance with the Treaties.",
+      "mk1": "Оваа одлука се применува во согласност со Договорите.",
+      "status": "UNMATCHED",
+      "target": "Брисел, 25 септември 201",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 27,
+      "en": "Done at Brussels, 25 September 2017.",
+      "mk1": "Брисел, 25 септември 2017 година.",
+      "status": "UNMATCHED",
+      "target": "7 година. За Со",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 28,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "status": "UNMATCHED",
+      "target": "ветот",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 27,
+      "en": "Done at Brussels, 25 September 2017.",
+      "mk1": "Брисел, 25 септември 2017 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 28,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "status": "UNMATCHED",
+      "target": "ПетседателП",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 29,
+      "en": "The President",
+      "mk1": "Петседател",
+      "status": "HIGH",
+      "target": "ретседател",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 30,
+      "en": "M. MAASIKAS",
+      "mk1": "М. МААСИКАС",
+      "status": "HIGH",
+      "target": "М. МААСИКАС",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 29,
+      "en": "The President",
+      "mk1": "Петседател",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 30,
+      "en": "M. MAASIKAS",
+      "mk1": "М. МААСИКАС",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 31,
+      "en": "(6)\tAcryloylfentanyl is sold as ‘research chemical’, typically as a powder or as ready-to-use nasal sprays.",
+      "mk1": "(6)\tАкрилоилфентанил се продава како „хемикалија за научни истражувања“ и е вообичаено во форма на прав или како готов спреј за нос.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 32,
+      "en": "The available data suggest that acryloylfentanyl is a potent and long-lasting antinociceptive agent acting on the opioid system.",
+      "mk1": "Според податоците што ги има на располагање акрилоилфентанил е моќен и долготраен агенс кој делува на опиоидниот систем.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 33,
+      "en": "Having regard to Council Decision 2005/387/JHA of 10 May 2005 on the information exchange, risk-assessment and control of new psychoactive substances (), and in particular Article 8(3) thereof,",
+      "mk1": "имајќи ја предвид Одлуката 2005/387/ПВР на Советот од 10 мај 2005 година за размена на информации, процена на ризик и контрола на нови психоактивни супстанции, а особено член 8(3) од истата,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 34,
+      "en": "on subjecting N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide (acryloylfentanyl) to control measures",
+      "mk1": "за подложување на N (1-фенетилпиперидин-4-ил)-N-фенилакриламид (акрилоилфентанил) ) на контролни мерки",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 35,
+      "en": "OJ L 127, 20.5.2005, p. 32.",
+      "mk1": "Сл. весник L 127, 20.5.2005 година, стр. 32.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 36,
+      "en": "(1)\tA risk assessment report on the new psychoactive substance N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide (acryloylfentanyl) was drawn up in accordance with Decision 2005/387/JHA by a special session of the extended Scientific Committee of the European Monitoring Centre for Drugs and Drug Addiction, and was subsequently submitted to the Commission and to the Council on 24 February 2017.",
+      "mk1": "(1)\tПроширениот Научен одбор на Европскиот центар за следење на дроги и зависности од дрога на посебна седница, во согласност со Одлуката 2005/387/ПВР, состави извештај од процената на ризик од новата психоактивна супстанција N (1-фенетилпиперидин-4-ил)-N-фенилакриламид (акрилоилфентанил) кој потоа беше поднесен до Комисијата и до Советот на 24 февруари 2017.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 37,
+      "en": "(2)\tAcryloylfentanyl is a synthetic opioid.",
+      "mk1": "Акрилоилфентанил е синтетички опиоид.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 38,
+      "en": "In at least 40 deaths, acryloylfentanyl was the cause of death or is likely to have been a contributing cause of death.",
+      "mk1": "Кај најмалку 40 од овие случаи, акрилоилфентанил бил директна причина за смртта или веројатно ја предизвикал причината за смртта.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 39,
+      "en": "In addition, more than 20 acute intoxications suspected to be due to acryloylfentanyl have been reported.",
+      "mk1": "Исто така, се пријавени повеќе од 20 случаи на акутно труење за кои постои сомнение дека настанале поради акрилоилфентанил.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 40,
+      "en": "(5)\tThere is no information to suggest the involvement of organised crime in the manufacture, distribution, trafficking or supply of acryloylfentanyl within the Union.",
+      "mk1": "(5)\tНема информации кои укажуваат дека во Унијата постои вклученост на организиран криминал во производството, пренесувањето, трговијата или снабдувањето со акрилоилфентанил.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 41,
+      "en": "The available data suggest that most of the acryloylfentanyl on the market in Europe has been produced by chemical companies based in China.",
+      "mk1": "Достапните податоци укажуваат дека најголемиот дел од акрилоилфентанил што е на пазарот во Европа е произведен од хемиски компании со седишта во Кина.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 42,
+      "en": "Limited information from seizures suggests that acryloylfentanyl may have also been sold on the illicit opioid market.",
+      "mk1": "Ограничените информации за конфискациите упатуваат дека можеби акрилоилфентанил се продава на нелегален пазар на опиоиди.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 43,
+      "en": "Apart from its use in analytical reference materials and in scientific research into its chemistry, pharmacology and toxicology in response to its emergence on the drug market, there is no indication that it is being used for other legitimate purposes.",
+      "mk1": "Освен неговата употреба во аналитички референтни материјали и во научни истражувања за неговиот хемиски состав, фармаколошки состав и токсиколошки состав кои се јавуваат како реакција на неговото појавување на пазарот на дроги, нема други показатели дека тој се употребува за други законски цели.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 44,
+      "en": "The new psychoactive substance N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide (acryloylfentanyl) shall be subjected to control measures across the Union.",
+      "mk1": "Новата психоактивна супстанција N-(1-фенетилпиперидин-4-ил)-N-фенилакриламид (акрилоилфентанил) подложи на контролни мерки во рамките на Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 45,
+      "en": "(9)\tThe risk assessment report reveals that there is limited scientific evidence available on acryloylfentanyl, and observes that further research would be needed.",
+      "mk1": "(9)\tВо извештајот од процената на ризик се открива дека на располагање има ограничени научни докази на располагање за акрилоилфентанил и се заклучува дека потребно е понатамошно истражување.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 46,
+      "en": "(11)\tDecision 2005/387/JHA confers upon the Council implementing powers to submit new psychoactive substances to control measures across the Union in order to ensure a quick and expertise-based response at Union level to the emergence of such substances that have been detected and reported by the Member States.",
+      "mk1": "(11)\tОдлука 2005/387/ПВР му ја пренесува примената на овластувањата на Советот за подложување на нови психоактивни супстанции на контролни мерки во рамките на Унијата за да може на појавата на ваквите супстанции што се откриени и пријавени од страна на земјите членки да се даде брза реакција, заснована врз експертиза на ниво на Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 47,
+      "en": "(12)\tDenmark is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision, which implements Decision 2005/387/JHA.",
+      "mk1": "(12)\tДанска е обврзана со Одлуката 2005/387/ПВР и затоа учествува во донесувањето и примената на оваа одлука, со која се спроведува Одлуката 2005/387/ПВР.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 48,
+      "en": "HAS ADOPTED THIS DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 49,
+      "en": "By 30 September 2018, Member States shall take the necessary measures in accordance with their national law to subject the new psychoactive substance referred to in Article 1 to control measures and criminal penalties, as provided for under their legislation, in compliance with their obligations under the 1971 United Nations Convention on Psychotropic Substances.",
+      "mk1": "До 30 септември 2018 земјите членки ги преземаат неопходните мерки во согласност со нивното национално право да ја подложат новата психоактивна супстанција наведена во член 1 на контролни мерки и кривични казни, како што се предвидува со нивното законодавство, во согласност со нивните обврски во рамките на Конвенцијата за психотропни супстанции на Обединетите Нации од 1971 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    }
+  ],
+  "accepted_indices": [
+    1,
+    2,
+    25,
+    26,
+    29,
+    30
+  ]
+}

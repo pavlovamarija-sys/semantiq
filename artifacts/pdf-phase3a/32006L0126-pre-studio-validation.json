@@ -1,0 +1,926 @@
+{
+  "celex": "32006L0126",
+  "classification": "PARTIAL",
+  "blindGeneralizedRun": true,
+  "hashes": {
+    "sourcePdfSha256": "0E6E7DF9EF641AFEBECF692CE9E1AF7C8CA2F2AD2E4C82950AD6ECF81A3D55EE",
+    "experimentalDocxSha256": "29BE7B931470891C9C3DD0F7D2CF8734FCB8118FB7C302696ACA822EFB2DC2B6"
+  },
+  "extraction": {
+    "pages": 43,
+    "blocks": 1200,
+    "lines": 2555,
+    "spans": 27433
+  },
+  "sourceCoverage": {
+    "status": "PASS",
+    "tokens": 18825,
+    "sourceSpans": 27433,
+    "modelSpans": 27433,
+    "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+  },
+  "orderedPdfToModelIntegrity": {
+    "status": "PASS",
+    "tokens": 18825,
+    "orderedTokenSha256": "29c2256828299c5436b28a64480b0b33106369d83b87bd2f4a77b7ede145385b",
+    "missing": 0,
+    "added": 0,
+    "duplicated": 0,
+    "changed": 0,
+    "reordered": 0
+  },
+  "modelToDocxIntegrity": {
+    "status": "PASS",
+    "tokens": 18825,
+    "sha256": "29c2256828299c5436b28a64480b0b33106369d83b87bd2f4a77b7ede145385b"
+  },
+  "layout": {
+    "pages": 43,
+    "summary": {
+      "two-column": 11,
+      "single-column": 32
+    },
+    "ambiguities": 1
+  },
+  "classificationCounts": {
+    "Paragraph": 926,
+    "Heading": 85,
+    "Footnote": 6,
+    "PageBreak": 42,
+    "ListItem": 153,
+    "Table": 7
+  },
+  "legalStructure": {
+    "status": "PASS",
+    "articleOrder": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "articlePages": [
+      3,
+      3,
+      3,
+      3,
+      6,
+      6,
+      7,
+      8,
+      8,
+      8,
+      8,
+      9,
+      9,
+      9,
+      9,
+      9,
+      10,
+      10,
+      10
+    ],
+    "annexOrder": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "annexPages": [
+      11,
+      21,
+      30,
+      34,
+      38,
+      39,
+      40,
+      41
+    ],
+    "validator": {
+      "status": "PASS",
+      "articles": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "annexes": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "issues": []
+    },
+    "chapterHeadings": 0,
+    "sectionHeadings": 0,
+    "tableReferencesExcludedFromHeadings": true
+  },
+  "tables": {
+    "status": "PARTIAL",
+    "detected": 7,
+    "details": [
+      {
+        "id": "table-357360da2eb28fea",
+        "page": 4,
+        "rows": 4,
+        "columns": 2,
+        "cells": 8,
+        "confidence": 0.97,
+        "columnAnchors": [
+          56.41,
+          325.19
+        ],
+        "sample": "(a) Category A1:\t2002/24/EC,\n— motorcycles with a cylinder capacity not exceeding 125\t\ncubic centimetres, of a power not exceeding 11 kW and with a power/weight ratio not exceeding 0,1 kW/kg,\t— the minimum age for category B1 is fixed at 16"
+      },
+      {
+        "id": "table-ad2f84c1c4ebf96e",
+        "page": 40,
+        "rows": 7,
+        "columns": 2,
+        "cells": 14,
+        "confidence": 0.97,
+        "columnAnchors": [
+          92.75,
+          327.25
+        ],
+        "sample": "Council Directive 91/439/EEC (1)\t(OJ L 237, 24.8.1991, p. 1)\nCouncil Directive 94/72/EC\t(OJ L 337, 24.12.1994, p. 86)\nCouncil Directive 96/47/EC\t(OJ L 235, 17.9.1996, p. 1)\nCouncil Directive 97/26/EC\t(OJ L 150, 7.6.1997, p. 41)\nCommission D"
+      },
+      {
+        "id": "table-46079baa84fa37e0",
+        "page": 40,
+        "rows": 7,
+        "columns": 3,
+        "cells": 21,
+        "confidence": 0.97,
+        "columnAnchors": [
+          92.75,
+          212.08,
+          301.61
+        ],
+        "sample": "Directive\tDeadline for transposition\tDate of application\nDirective 91/439/EEC\t1st July 1994\t1st July 1996\nDirective 94/72/EC\t-\t1st January1995\nDecision 96/427/EC\t-\t16 July 1996\nDirective 96/47/EC\t1st July 1996\t1st July 1996\nDirective 97/26/"
+      },
+      {
+        "id": "table-ad356a802200c9e1",
+        "page": 41,
+        "rows": 9,
+        "columns": 2,
+        "cells": 18,
+        "confidence": 0.97,
+        "columnAnchors": [
+          92.75,
+          301.67
+        ],
+        "sample": "Directive 91/439/EEC\tThis Directive\nArticle 1(1), first sentence\tArticle 1(1) first sentence\nArticle 1(1), second sentence\t—\n-\tArticle 1(2)\nArticle 1(2)\tArticle 2(1)\n-\tArticle 2(2)\nArticle 1(3)\t-\nArticle 2(1)\tArticle 1(1), second sentence\nA"
+      },
+      {
+        "id": "table-3971e6a74dcbf2bb",
+        "page": 41,
+        "rows": 22,
+        "columns": 2,
+        "cells": 44,
+        "confidence": 0.97,
+        "columnAnchors": [
+          92.75,
+          301.53
+        ],
+        "sample": "Article 2(3)\t-\nArticle 2(4)\t-\nArticle 3(1), first subparagraph, introductory words\tArticle 4(1), first sentence\n-\tArticle 4(2), first indent\n-\tArticle 4(2), second indent\nArticle 3(1), first subparagraph, first indent\tArticle 4(3), first in"
+      },
+      {
+        "id": "table-0787a773c1369c26",
+        "page": 42,
+        "rows": 40,
+        "columns": 2,
+        "cells": 80,
+        "confidence": 0.97,
+        "columnAnchors": [
+          92.75,
+          301.66
+        ],
+        "sample": "Directive 91/439/EEC\tThis Directive\nArticle 3(3), introductory words\t-\nArticle 3(3), first indent\tArticle 4(1), third sentence\nArticle 3(3), second indent, first subparagraph\tArticle 4(3), second indent\nArticle 3(3), second indent, second s"
+      },
+      {
+        "id": "table-9eeefeacfbdd3adb",
+        "page": 43,
+        "rows": 40,
+        "columns": 2,
+        "cells": 80,
+        "confidence": 0.97,
+        "columnAnchors": [
+          92.75,
+          301.67
+        ],
+        "sample": "Directive 91/439/EEC\tThis Directive\nArticle 7(1), introductory words\tArticle 7(1), introductory words\nArticle 7(1)(a)\tArticle 7(1)(a)\n-\tArticle 7(1)(b)\n-\tArticle 7(1)(c)\n-\tArticle 7(1)(d)\nArticle 7(1)(b)\tArticle 7(1)(e)\nArticle 7(2)\t-\nArtic"
+      }
+    ],
+    "knownDefects": [
+      {
+        "page": 4,
+        "type": "false-positive-table",
+        "detail": "Two independent body columns containing aligned list material were classified as a 4x2 table."
+      },
+      {
+        "page": 40,
+        "type": "missing-final-row-from-table",
+        "detail": "The final multi-fragment Directive 2003/59/EC row remains outside the inferred 7x3 table."
+      },
+      {
+        "page": 41,
+        "type": "false-table-split",
+        "detail": "One continuing correlation table is split into 9x2 and 22x2 regions; intervening sparse rows are outside both regions."
+      },
+      {
+        "pages": [
+          41,
+          42,
+          43
+        ],
+        "type": "cross-page-table-continuity-not-modeled",
+        "detail": "Physical-page table regions are not linked into one logical multi-page correlation table."
+      }
+    ]
+  },
+  "paragraphReconstruction": {
+    "status": "PARTIAL",
+    "suspiciousContinuationCount": 33,
+    "suspiciousContinuations": [
+      {
+        "previousNode": "paragraph-488dd17484a1e899",
+        "nextNode": "paragraph-239d34f587c360cc",
+        "page": 1,
+        "previousTail": "30.12.2006",
+        "nextHead": "needed to be harmonised more fully, in order to contri- bute to the implementation of Community poli",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-46851eb928afbabf",
+        "nextNode": "paragraph-10019a4418a0ea51",
+        "page": 2,
+        "previousTail": "(21)",
+        "nextHead": "in",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-5336a9cba04107e7",
+        "nextNode": "paragraph-18286f47dc5da149",
+        "page": 4,
+        "previousTail": "— ‘motorcycle’ means two-wheel vehicles with or without a sidecar,",
+        "nextHead": "as defined",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-18286f47dc5da149",
+        "nextNode": "paragraph-a535c4b8e72f8fda",
+        "page": 4,
+        "previousTail": "as defined",
+        "nextHead": "in Article",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-ec153558717e469d",
+        "nextNode": "paragraph-18c858857b8ea3f5",
+        "page": 4,
+        "previousTail": "1(2)(b)",
+        "nextHead": "of Directive",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-cb404df3dded2955",
+        "nextNode": "paragraph-4714ee3d7aa8c94d",
+        "page": 4,
+        "previousTail": "The minimum age for category A is fixed at 20 years. However, access to the driving of motor- cycles",
+        "nextHead": "of this",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-4714ee3d7aa8c94d",
+        "nextNode": "paragraph-f37f06d79889414d",
+        "page": 4,
+        "previousTail": "of this",
+        "nextHead": "category",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-f37f06d79889414d",
+        "nextNode": "paragraph-6472306f5651f4bf",
+        "page": 4,
+        "previousTail": "category",
+        "nextHead": "shall be",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-6472306f5651f4bf",
+        "nextNode": "paragraph-2374e69e43bb3996",
+        "page": 4,
+        "previousTail": "shall be",
+        "nextHead": "subject",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-2374e69e43bb3996",
+        "nextNode": "paragraph-2d334df36bb6f50e",
+        "page": 4,
+        "previousTail": "subject",
+        "nextHead": "to a",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-2d334df36bb6f50e",
+        "nextNode": "paragraph-dedec6f4d288c501",
+        "page": 4,
+        "previousTail": "to a",
+        "nextHead": "minimum of two years' experience on motorcycles under an A2 licence. This requirement as to previous",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-17324d59dd098d99",
+        "nextNode": "paragraph-664501b698666680",
+        "page": 4,
+        "previousTail": "— quadricycles, as defined in Article 1(3)(b) of Directive",
+        "nextHead": "introduce this category of driving licence, a driving licence for category B shall be required to dr",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-89612d8e0a044d13",
+        "nextNode": "paragraph-99d5b616f0d2a0db",
+        "page": 5,
+        "previousTail": "30.12.2006",
+        "nextHead": "motor vehicles other than those in categories D1 or D, whose maximum authorised mass is over 3 500 k",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "listitem-e733f7b7de5eff16",
+        "nextNode": "paragraph-d286b375066f0b14",
+        "page": 7,
+        "previousTail": "ce for category B which was obtained at least two years earlier provided that the vehicles are being",
+        "nextHead": "used by",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-d286b375066f0b14",
+        "nextNode": "paragraph-5beef1ae87ab714b",
+        "page": 7,
+        "previousTail": "used by",
+        "nextHead": "non-commercial",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-5beef1ae87ab714b",
+        "nextNode": "paragraph-3871b82f7413d88a",
+        "page": 7,
+        "previousTail": "non-commercial",
+        "nextHead": "bodies",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-3871b82f7413d88a",
+        "nextNode": "paragraph-53319b3c2a731977",
+        "page": 7,
+        "previousTail": "bodies",
+        "nextHead": "for social",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-53319b3c2a731977",
+        "nextNode": "paragraph-f0cb12562d75717c",
+        "page": 7,
+        "previousTail": "for social",
+        "nextHead": "purposes and that the driver provides his services on a voluntary basis;",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-917656166912cb8a",
+        "nextNode": "paragraph-879417017e3d432c",
+        "page": 8,
+        "previousTail": "States",
+        "nextHead": "shall",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-879417017e3d432c",
+        "nextNode": "paragraph-2918fb5b3fac3b8b",
+        "page": 8,
+        "previousTail": "shall",
+        "nextHead": "take the",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-2918fb5b3fac3b8b",
+        "nextNode": "paragraph-b89b9d6f2c1ab855",
+        "page": 8,
+        "previousTail": "take the",
+        "nextHead": "necessary",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-b89b9d6f2c1ab855",
+        "nextNode": "paragraph-281e1b1fa2d7fd4e",
+        "page": 8,
+        "previousTail": "necessary",
+        "nextHead": "measures",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-281e1b1fa2d7fd4e",
+        "nextNode": "paragraph-1c58d8220e31f22a",
+        "page": 8,
+        "previousTail": "measures",
+        "nextHead": "pursuant to point (b). The necessary measures as regards the issue, replacement, renewal or exchange",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-d9b1ad4341fde173",
+        "nextNode": "paragraph-e4ee4d1426d2b0be",
+        "page": 9,
+        "previousTail": "30.12.2006",
+        "nextHead": "tion. Attendance at a university or school shall not imply transfer of normal residence.",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "listitem-038499f7576f0625",
+        "nextNode": "paragraph-3084fd2f9ab2bb76",
+        "page": 9,
+        "previousTail": "1. With the agreement of the Commission, Member States shall establish",
+        "nextHead": "equivalences",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-3084fd2f9ab2bb76",
+        "nextNode": "paragraph-423e44606f631efb",
+        "page": 9,
+        "previousTail": "equivalences",
+        "nextHead": "between",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-423e44606f631efb",
+        "nextNode": "paragraph-9e2ce1de2d553ef9",
+        "page": 9,
+        "previousTail": "between",
+        "nextHead": "entitlements",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-9e2ce1de2d553ef9",
+        "nextNode": "paragraph-380aa7eeb60fc355",
+        "page": 9,
+        "previousTail": "entitlements",
+        "nextHead": "obtained",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-380aa7eeb60fc355",
+        "nextNode": "paragraph-69855370e7948c91",
+        "page": 9,
+        "previousTail": "obtained",
+        "nextHead": "before the implementation of this Directive and the categories defined in Article 4.",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-3b5a5c2679735bc0",
+        "nextNode": "paragraph-acda2b6d87d46dec",
+        "page": 22,
+        "previousTail": "ponsibility in respect to the carriage of passengers; comfort and safety of passengers; transport of",
+        "nextHead": "children; necessary checks before driving away; all sorts of buses should be part of the theory test",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-d3b5128455921c33",
+        "nextNode": "paragraph-e861e63ef647049a",
+        "page": 28,
+        "previousTail": " stopping: decelerating in time, braking or stopping according to circumstances; anticipation; using",
+        "nextHead": "the various braking systems (only for categories C, CE, D, DE); using speed reduction systems other ",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-2335e11c91d1f200",
+        "nextNode": "paragraph-99e829cabe8dd76a",
+        "page": 40,
+        "previousTail": "(passenger",
+        "nextHead": "transport)",
+        "classification": "suspicious-continuation-retained"
+      },
+      {
+        "previousNode": "paragraph-99e829cabe8dd76a",
+        "nextNode": "paragraph-758b49f7555d7544",
+        "page": 40,
+        "previousTail": "transport)",
+        "nextHead": "and 10",
+        "classification": "suspicious-continuation-retained"
+      }
+    ],
+    "falseMergesConfirmed": 0,
+    "crossPageMergingSupported": false,
+    "note": "Candidates are retained explicitly; no second-pass repair was performed."
+  },
+  "unresolved": {
+    "headingOrShortFragmentCount": 53,
+    "headingOrShortFragments": [
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-44152913dec272fc",
+        "text": "DIRECTIVE 2006/126/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-801d96e0544b89a4",
+        "text": "of 20 December 2006 on driving licences (Recast)",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-815524a092f4aa2f",
+        "text": "(Text with EEA relevance)",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-62bc5d4f9bc07a86",
+        "text": "Model licence",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-f01a3f597709d2e7",
+        "text": "Mutual recognition",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-04a07dc2080043cb",
+        "text": "Anti-forgery measures",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-885447b5e68ae7c8",
+        "text": "Categories, definitions and minimum ages",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-beb3aea4a84a3fb6",
+        "text": "Conditions and restrictions",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-b50aebbc146ddcfa",
+        "text": "Staging and equivalences between categories",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-e426d52d9989e714",
+        "text": "Issue, validity and renewal",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-73f1ee12be4087f1",
+        "text": "Adaptation to scientific and technical progress",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-2cdc6e30dc69da6f",
+        "text": "Committee",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-be9cab4ce37eac47",
+        "text": "Examiners",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-b73056e895fe2aae",
+        "text": "Various provisions concerning the exchange, the with- drawal, the replacement and the recognition of driving",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-8de19c38934bcdc5",
+        "text": "licences",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-820a73d64d5e5686",
+        "text": "Normal residence",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-40f506310dbe84f1",
+        "text": "Equivalences between non-Community model licences",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-72ff3980108f0f2d",
+        "text": "Review",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-be50575d691f4c4a",
+        "text": "Mutual Assistance",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-1a6d83d29b7fc360",
+        "text": "Transposition",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-f3cfcafcea1503a0",
+        "text": "Repeal",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-cb9aad4ff55a46f1",
+        "text": "Entry into force",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-6160cf7fb0bd7036",
+        "text": "Addressees",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-108d68781e4484a1",
+        "text": "PROVISIONS CONCERNING THE COMMUNITY MODEL DRIVING LICENCE",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-83bb7a7fdd8500aa",
+        "text": "4. Special provisions",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-c88b3432fe0e6fba",
+        "text": "COMMUNITY MODEL DRIVING LICENCE",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-af8be10889673ad9",
+        "text": "SPECIMEN MODEL LICENCE",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-cca17c76f830f813",
+        "text": "I. MINIMUM REQUIREMENTS FOR DRIVING TESTS",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-47a8a78871af6c47",
+        "text": "Form",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-59d6e1f09865ca6c",
+        "text": "Content of the theory test concerning all vehicle categories",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-f36dfba2a362ee25",
+        "text": "Specific provisions concerning categories A1, A2 and A",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-e7cce82ff3f731c7",
+        "text": "Specific provisions concerning categories C, CE, C1, C1E, D, DE, D1 and D1E",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-d03d38e374d03047",
+        "text": "The vehicle and its equipment",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-5f832cad227ac23b",
+        "text": "Skills and behaviour to be tested concerning categories A1, A2 and A",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-7f3e8d1f8e0740b8",
+        "text": "Skills and behaviour to be tested concerning categories B, B1 and BE",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-a3b090c6d2993261",
+        "text": "Skills and behaviour to be tested concerning categories C, CE, C1, C1E, D, DE, D1 and D1E",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-f4617c6e47da247c",
+        "text": "Marking of the test of skills and behaviour",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-9c3b8bbc467bca6c",
+        "text": "Length of the test",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-22e41d3aaa36fb59",
+        "text": "Location of the test",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-fb562c03f4ecf7d6",
+        "text": "II. KNOWLEDGE, SKILL AND BEHAVIOUR FOR DRIVING A POWER-DRIVEN VEHICLE",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-c406c526b0c9e731",
+        "text": "MINIMUM STANDARDS OF PHYSICAL AND MENTAL FITNESS FOR DRIVING A POWER-DRIVEN VEHICLE",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-d8e54187e3f99ab6",
+        "text": "MINIMUM STANDARDS FOR PERSONS WHO CONDUCT PRACTICAL DRIVING TESTS",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-67906cafce3a05c0",
+        "text": "1. Competences required by a driving examiner",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-20c045f7dbb5a8d1",
+        "text": "2. General conditions",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-5a7826fec6c16a24",
+        "text": "3. Initial qualification",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-96394fd30d4b55bf",
+        "text": "4. Quality assurance and periodic training",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-8ce99d21b2ebdbfc",
+        "text": "5. Acquired rights",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-45e4216055a2a174",
+        "text": "MINIMUM REQUIREMENTS FOR DRIVER TRAINING AND TESTING FOR COMBINATIONS AS DEFINED IN",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-b05ea043bc0c6f30",
+        "text": "THE SECOND SUBPARAGRAPH OF ARTICLE 4(4)(B)",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-f806b7b0872b5a57",
+        "text": "MINIMUM REQUIREMENTS FOR DRIVER TRAINING AND TESTING FOR MOTORCYCLES WITHIN",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-44c2de9646a1b4f5",
+        "text": "CATEGORY A (PROGRESSIVE ACCESS)",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-edf5b4774a25ac04",
+        "text": "REPEALED DIRECTIVE AS SUCCESSIVELY AMENDED",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      },
+      {
+        "kind": "heading-or-short-fragment",
+        "nodeId": "heading-8e11857fe8acdfb0",
+        "text": "DEADLINES FOR TRANSPOSITION INTO NATIONAL LAW AND FOR APPLICATION",
+        "reason": "Short/bold line lacks a full legal-label grammar."
+      }
+    ],
+    "layoutAmbiguities": [
+      {
+        "page": 40,
+        "type": "mid-region-gutter-straddler",
+        "candidates": [
+          "full-width separator",
+          "wide column paragraph"
+        ],
+        "fragmentIds": [
+          [
+            "p40-b0-l0"
+          ],
+          [
+            "p40-b1-l0"
+          ],
+          [
+            "p40-b3-l0"
+          ],
+          [
+            "p40-b14-l0"
+          ],
+          [
+            "p40-b16-l0"
+          ]
+        ],
+        "reason": "Fragment crosses the inferred midpoint but not the full inferred gutter.",
+        "confidence": 0.65
+      }
+    ]
+  },
+  "previousFailures": {
+    "partAnchorDependencyRemoved": true,
+    "fixedPageDependencyRemoved": true,
+    "page9ArticleOrder": [
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "page10ArticleOrder": [
+      17,
+      18,
+      19
+    ],
+    "status": "PASS"
+  },
+  "regression32006L0114": "PASS",
+  "algorithmChangesAfterGeneralizedRun": [],
+  "documentSpecificWorkaroundsIntroduced": [],
+  "productionChanged": false
+}

@@ -1,0 +1,425 @@
+{
+  "classifier": "generalized-deterministic-v1",
+  "contract": {
+    "decisions": [
+      "MERGE",
+      "KEEP_BOUNDARY",
+      "ABSTAIN"
+    ],
+    "actionDependsOnlyOnDecision": true,
+    "freeTextCannotModifyDocument": true
+  },
+  "summary": {
+    "total": 30,
+    "resolved": 30,
+    "abstained": 0,
+    "agreement": 30,
+    "scored": 30,
+    "falseMerge": 0,
+    "falseKeepBoundary": 0
+  },
+  "results": [
+    {
+      "ambiguityId": "32006L0126-boundary-01",
+      "decision": "KEEP_BOUNDARY",
+      "confidence": 1.0,
+      "reason_codes": [
+        "RUNNING_HEADER",
+        "TOP_MARGIN_DATE"
+      ],
+      "explanation": "The left fragment is a repeated top-margin date header, not body text.",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-02",
+      "decision": "KEEP_BOUNDARY",
+      "confidence": 0.99,
+      "reason_codes": [
+        "INTERVENING_SOURCE_LINES"
+      ],
+      "explanation": "Other source lines lie between the two fragments in the same PDF block.",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-03",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-04",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-05",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-06",
+      "decision": "MERGE",
+      "confidence": 0.98,
+      "reason_codes": [
+        "CONSECUTIVE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Consecutive source lines in one block form a tightly spaced lexical continuation.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-07",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-08",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-09",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-10",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-11",
+      "decision": "MERGE",
+      "confidence": 0.98,
+      "reason_codes": [
+        "CONSECUTIVE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Consecutive source lines in one block form a tightly spaced lexical continuation.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-12",
+      "decision": "KEEP_BOUNDARY",
+      "confidence": 1.0,
+      "reason_codes": [
+        "RUNNING_HEADER",
+        "TOP_MARGIN_DATE"
+      ],
+      "explanation": "The left fragment is a repeated top-margin date header, not body text.",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-13",
+      "decision": "MERGE",
+      "confidence": 0.98,
+      "reason_codes": [
+        "CONSECUTIVE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Consecutive source lines in one block form a tightly spaced lexical continuation.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-14",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-15",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-16",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-17",
+      "decision": "MERGE",
+      "confidence": 0.98,
+      "reason_codes": [
+        "CONSECUTIVE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Consecutive source lines in one block form a tightly spaced lexical continuation.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-18",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-19",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-20",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-21",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-22",
+      "decision": "MERGE",
+      "confidence": 0.98,
+      "reason_codes": [
+        "CONSECUTIVE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Consecutive source lines in one block form a tightly spaced lexical continuation.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-23",
+      "decision": "KEEP_BOUNDARY",
+      "confidence": 1.0,
+      "reason_codes": [
+        "RUNNING_HEADER",
+        "TOP_MARGIN_DATE"
+      ],
+      "explanation": "The left fragment is a repeated top-margin date header, not body text.",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-24",
+      "decision": "MERGE",
+      "confidence": 0.98,
+      "reason_codes": [
+        "CONSECUTIVE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Consecutive source lines in one block form a tightly spaced lexical continuation.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-25",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-26",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-27",
+      "decision": "MERGE",
+      "confidence": 0.99,
+      "reason_codes": [
+        "SAME_BASELINE",
+        "ADJACENT_SOURCE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Adjacent same-block fragments share a baseline and continue lexically with matching style.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-28",
+      "decision": "MERGE",
+      "confidence": 0.98,
+      "reason_codes": [
+        "CONSECUTIVE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Consecutive source lines in one block form a tightly spaced lexical continuation.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-29",
+      "decision": "MERGE",
+      "confidence": 0.98,
+      "reason_codes": [
+        "CONSECUTIVE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Consecutive source lines in one block form a tightly spaced lexical continuation.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-30",
+      "decision": "MERGE",
+      "confidence": 0.98,
+      "reason_codes": [
+        "CONSECUTIVE_LINES",
+        "STYLE_MATCH",
+        "LEXICAL_CONTINUATION"
+      ],
+      "explanation": "Consecutive source lines in one block form a tightly spaced lexical continuation.",
+      "referenceLabel": "MERGE",
+      "matchesReference": true
+    }
+  ]
+}

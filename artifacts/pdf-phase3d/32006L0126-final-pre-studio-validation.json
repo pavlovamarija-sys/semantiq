@@ -1,0 +1,5200 @@
+{
+  "celex": "32006L0126",
+  "status": "FAIL",
+  "sourcePdfSha256": "0E6E7DF9EF641AFEBECF692CE9E1AF7C8CA2F2AD2E4C82950AD6ECF81A3D55EE",
+  "extraction": {
+    "pages": 43,
+    "blocks": 1200,
+    "lines": 2555,
+    "spans": 27433
+  },
+  "sourceCoverage": {
+    "status": "PASS",
+    "tokens": 18825,
+    "sourceSpans": 27433,
+    "modelSpans": 27433,
+    "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+  },
+  "textIntegrity": {
+    "pdfToTypedModel": {
+      "status": "PASS",
+      "normalizedOrderedTokens": 18825,
+      "missing": 0,
+      "added": 0,
+      "duplicated": 0,
+      "changed": 0,
+      "reordered": 0
+    }
+  },
+  "readingOrder": {
+    "status": "PASS",
+    "articles": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "annexes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "issues": []
+  },
+  "tables": {
+    "tables": 5,
+    "rows": 128,
+    "cells": 264,
+    "shapes": [
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        33,
+        2
+      ],
+      [
+        40,
+        2
+      ],
+      [
+        40,
+        2
+      ]
+    ]
+  },
+  "paragraphBoundaryDecisions": {
+    "MERGE": 28,
+    "KEEP_BOUNDARY": 4,
+    "ABSTAIN": 46
+  },
+  "remainingUnresolvedParagraphAmbiguities": 46,
+  "crossPageTables": [
+    {
+      "logicalTableId": "logicaltable-65d01ed47d091724",
+      "pages": [
+        41,
+        42,
+        43
+      ],
+      "physicalSegments": [
+        "table-d4bd261c50183b73",
+        "table-0787a773c1369c26",
+        "table-9eeefeacfbdd3adb"
+      ],
+      "columns": 2,
+      "rows": 113,
+      "repeatedHeaderRows": [
+        "tablerow-89fe62c2d1ef3342",
+        "tablerow-0ee9d52b82265c23"
+      ],
+      "representation": "One logical table identity with page-preserving physical segments."
+    }
+  ],
+  "unresolvedParagraphBoundaries": [
+    {
+      "boundaryId": "paragraphboundary-5bd487c968e14efe",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 1,
+          "block_index": 12,
+          "line_ids": [
+            "p1-b12-l1",
+            "p1-b12-l2",
+            "p1-b12-l3",
+            "p1-b12-l4",
+            "p1-b12-l5",
+            "p1-b12-l6",
+            "p1-b12-l7",
+            "p1-b12-l8",
+            "p1-b12-l9",
+            "p1-b12-l10",
+            "p1-b12-l11",
+            "p1-b12-l12"
+          ],
+          "span_ids": [
+            "p1-b12-l1-s0",
+            "p1-b12-l1-s1",
+            "p1-b12-l1-s2",
+            "p1-b12-l1-s3",
+            "p1-b12-l1-s4",
+            "p1-b12-l1-s5",
+            "p1-b12-l1-s6",
+            "p1-b12-l1-s7",
+            "p1-b12-l1-s8",
+            "p1-b12-l1-s9",
+            "p1-b12-l1-s10",
+            "p1-b12-l1-s11",
+            "p1-b12-l1-s12",
+            "p1-b12-l1-s13",
+            "p1-b12-l1-s14",
+            "p1-b12-l1-s15",
+            "p1-b12-l1-s16",
+            "p1-b12-l2-s0",
+            "p1-b12-l2-s1",
+            "p1-b12-l2-s2",
+            "p1-b12-l2-s3",
+            "p1-b12-l2-s4",
+            "p1-b12-l2-s5",
+            "p1-b12-l2-s6",
+            "p1-b12-l2-s7",
+            "p1-b12-l2-s8",
+            "p1-b12-l2-s9",
+            "p1-b12-l2-s10",
+            "p1-b12-l2-s11",
+            "p1-b12-l2-s12",
+            "p1-b12-l3-s0",
+            "p1-b12-l3-s1",
+            "p1-b12-l3-s2",
+            "p1-b12-l3-s3",
+            "p1-b12-l3-s4",
+            "p1-b12-l3-s5",
+            "p1-b12-l3-s6",
+            "p1-b12-l3-s7",
+            "p1-b12-l3-s8",
+            "p1-b12-l3-s9",
+            "p1-b12-l3-s10",
+            "p1-b12-l3-s11",
+            "p1-b12-l3-s12",
+            "p1-b12-l3-s13",
+            "p1-b12-l3-s14",
+            "p1-b12-l3-s15",
+            "p1-b12-l3-s16",
+            "p1-b12-l4-s0",
+            "p1-b12-l4-s1",
+            "p1-b12-l4-s2",
+            "p1-b12-l4-s3",
+            "p1-b12-l4-s4",
+            "p1-b12-l4-s5",
+            "p1-b12-l4-s6",
+            "p1-b12-l4-s7",
+            "p1-b12-l4-s8",
+            "p1-b12-l4-s9",
+            "p1-b12-l4-s10",
+            "p1-b12-l4-s11",
+            "p1-b12-l4-s12",
+            "p1-b12-l4-s13",
+            "p1-b12-l4-s14",
+            "p1-b12-l4-s15",
+            "p1-b12-l4-s16",
+            "p1-b12-l4-s17",
+            "p1-b12-l4-s18",
+            "p1-b12-l5-s0",
+            "p1-b12-l5-s1",
+            "p1-b12-l5-s2",
+            "p1-b12-l5-s3",
+            "p1-b12-l5-s4",
+            "p1-b12-l5-s5",
+            "p1-b12-l5-s6",
+            "p1-b12-l5-s7",
+            "p1-b12-l5-s8",
+            "p1-b12-l5-s9",
+            "p1-b12-l5-s10",
+            "p1-b12-l5-s11",
+            "p1-b12-l5-s12",
+            "p1-b12-l5-s13",
+            "p1-b12-l5-s14",
+            "p1-b12-l6-s0",
+            "p1-b12-l6-s1",
+            "p1-b12-l6-s2",
+            "p1-b12-l6-s3",
+            "p1-b12-l6-s4",
+            "p1-b12-l6-s5",
+            "p1-b12-l6-s6",
+            "p1-b12-l6-s7",
+            "p1-b12-l6-s8",
+            "p1-b12-l6-s9",
+            "p1-b12-l6-s10",
+            "p1-b12-l6-s11",
+            "p1-b12-l6-s12",
+            "p1-b12-l6-s13",
+            "p1-b12-l6-s14",
+            "p1-b12-l6-s15",
+            "p1-b12-l6-s16",
+            "p1-b12-l7-s0",
+            "p1-b12-l7-s1",
+            "p1-b12-l7-s2",
+            "p1-b12-l7-s3",
+            "p1-b12-l7-s4",
+            "p1-b12-l7-s5",
+            "p1-b12-l7-s6",
+            "p1-b12-l7-s7",
+            "p1-b12-l7-s8",
+            "p1-b12-l7-s9",
+            "p1-b12-l7-s10",
+            "p1-b12-l7-s11",
+            "p1-b12-l7-s12",
+            "p1-b12-l7-s13",
+            "p1-b12-l7-s14",
+            "p1-b12-l7-s15",
+            "p1-b12-l7-s16",
+            "p1-b12-l8-s0",
+            "p1-b12-l8-s1",
+            "p1-b12-l8-s2",
+            "p1-b12-l8-s3",
+            "p1-b12-l8-s4",
+            "p1-b12-l8-s5",
+            "p1-b12-l8-s6",
+            "p1-b12-l8-s7",
+            "p1-b12-l8-s8",
+            "p1-b12-l8-s9",
+            "p1-b12-l8-s10",
+            "p1-b12-l8-s11",
+            "p1-b12-l8-s12",
+            "p1-b12-l8-s13",
+            "p1-b12-l8-s14",
+            "p1-b12-l9-s0",
+            "p1-b12-l9-s1",
+            "p1-b12-l9-s2",
+            "p1-b12-l9-s3",
+            "p1-b12-l9-s4",
+            "p1-b12-l9-s5",
+            "p1-b12-l9-s6",
+            "p1-b12-l9-s7",
+            "p1-b12-l9-s8",
+            "p1-b12-l9-s9",
+            "p1-b12-l9-s10",
+            "p1-b12-l9-s11",
+            "p1-b12-l9-s12",
+            "p1-b12-l9-s13",
+            "p1-b12-l9-s14",
+            "p1-b12-l10-s0",
+            "p1-b12-l10-s1",
+            "p1-b12-l10-s2",
+            "p1-b12-l10-s3",
+            "p1-b12-l10-s4",
+            "p1-b12-l10-s5",
+            "p1-b12-l10-s6",
+            "p1-b12-l10-s7",
+            "p1-b12-l10-s8",
+            "p1-b12-l10-s9",
+            "p1-b12-l10-s10",
+            "p1-b12-l11-s0",
+            "p1-b12-l11-s1",
+            "p1-b12-l11-s2",
+            "p1-b12-l11-s3",
+            "p1-b12-l11-s4",
+            "p1-b12-l11-s5",
+            "p1-b12-l11-s6",
+            "p1-b12-l11-s7",
+            "p1-b12-l11-s8",
+            "p1-b12-l11-s9",
+            "p1-b12-l11-s10",
+            "p1-b12-l11-s11",
+            "p1-b12-l11-s12",
+            "p1-b12-l11-s13",
+            "p1-b12-l11-s14",
+            "p1-b12-l11-s15",
+            "p1-b12-l11-s16",
+            "p1-b12-l12-s0",
+            "p1-b12-l12-s1",
+            "p1-b12-l12-s2",
+            "p1-b12-l12-s3",
+            "p1-b12-l12-s4",
+            "p1-b12-l12-s5",
+            "p1-b12-l12-s6",
+            "p1-b12-l12-s7",
+            "p1-b12-l12-s8",
+            "p1-b12-l12-s9",
+            "p1-b12-l12-s10",
+            "p1-b12-l12-s11",
+            "p1-b12-l12-s12",
+            "p1-b12-l12-s13",
+            "p1-b12-l12-s14"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 67.17749786376953,
+              "y0": 578.6080322265625,
+              "x1": 284.50604248046875,
+              "y1": 704.2495727539062
+            }
+          ],
+          "reading_order_start": 16,
+          "reading_order_end": 16
+        },
+        {
+          "page": 1,
+          "block_index": 12,
+          "line_ids": [
+            "p1-b12-l0"
+          ],
+          "span_ids": [
+            "p1-b12-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 1,
+              "x0": 41.55229949951172,
+              "y0": 579.4076538085938,
+              "x1": 50.516700744628906,
+              "y1": 587.93701171875
+            }
+          ],
+          "reading_order_start": 17,
+          "reading_order_end": 17
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-3f29111acccd4565",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 2,
+          "block_index": 13,
+          "line_ids": [
+            "p2-b13-l1",
+            "p2-b13-l2",
+            "p2-b13-l3",
+            "p2-b13-l4",
+            "p2-b13-l5",
+            "p2-b13-l6"
+          ],
+          "span_ids": [
+            "p2-b13-l1-s0",
+            "p2-b13-l1-s1",
+            "p2-b13-l1-s2",
+            "p2-b13-l1-s3",
+            "p2-b13-l1-s4",
+            "p2-b13-l1-s5",
+            "p2-b13-l1-s6",
+            "p2-b13-l1-s7",
+            "p2-b13-l1-s8",
+            "p2-b13-l1-s9",
+            "p2-b13-l1-s10",
+            "p2-b13-l1-s11",
+            "p2-b13-l1-s12",
+            "p2-b13-l1-s13",
+            "p2-b13-l1-s14",
+            "p2-b13-l2-s0",
+            "p2-b13-l2-s1",
+            "p2-b13-l2-s2",
+            "p2-b13-l2-s3",
+            "p2-b13-l2-s4",
+            "p2-b13-l2-s5",
+            "p2-b13-l2-s6",
+            "p2-b13-l2-s7",
+            "p2-b13-l2-s8",
+            "p2-b13-l2-s9",
+            "p2-b13-l2-s10",
+            "p2-b13-l2-s11",
+            "p2-b13-l2-s12",
+            "p2-b13-l2-s13",
+            "p2-b13-l2-s14",
+            "p2-b13-l2-s15",
+            "p2-b13-l2-s16",
+            "p2-b13-l3-s0",
+            "p2-b13-l3-s1",
+            "p2-b13-l3-s2",
+            "p2-b13-l3-s3",
+            "p2-b13-l3-s4",
+            "p2-b13-l3-s5",
+            "p2-b13-l3-s6",
+            "p2-b13-l3-s7",
+            "p2-b13-l3-s8",
+            "p2-b13-l3-s9",
+            "p2-b13-l3-s10",
+            "p2-b13-l3-s11",
+            "p2-b13-l3-s12",
+            "p2-b13-l3-s13",
+            "p2-b13-l3-s14",
+            "p2-b13-l3-s15",
+            "p2-b13-l3-s16",
+            "p2-b13-l4-s0",
+            "p2-b13-l4-s1",
+            "p2-b13-l4-s2",
+            "p2-b13-l4-s3",
+            "p2-b13-l4-s4",
+            "p2-b13-l4-s5",
+            "p2-b13-l4-s6",
+            "p2-b13-l4-s7",
+            "p2-b13-l4-s8",
+            "p2-b13-l4-s9",
+            "p2-b13-l4-s10",
+            "p2-b13-l4-s11",
+            "p2-b13-l4-s12",
+            "p2-b13-l4-s13",
+            "p2-b13-l4-s14",
+            "p2-b13-l5-s0",
+            "p2-b13-l5-s1",
+            "p2-b13-l5-s2",
+            "p2-b13-l5-s3",
+            "p2-b13-l5-s4",
+            "p2-b13-l5-s5",
+            "p2-b13-l5-s6",
+            "p2-b13-l5-s7",
+            "p2-b13-l5-s8",
+            "p2-b13-l5-s9",
+            "p2-b13-l5-s10",
+            "p2-b13-l5-s11",
+            "p2-b13-l5-s12",
+            "p2-b13-l5-s13",
+            "p2-b13-l5-s14",
+            "p2-b13-l5-s15",
+            "p2-b13-l5-s16",
+            "p2-b13-l6-s0",
+            "p2-b13-l6-s1",
+            "p2-b13-l6-s2",
+            "p2-b13-l6-s3",
+            "p2-b13-l6-s4",
+            "p2-b13-l6-s5",
+            "p2-b13-l6-s6",
+            "p2-b13-l6-s7",
+            "p2-b13-l6-s8",
+            "p2-b13-l6-s9",
+            "p2-b13-l6-s10"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 335.8451843261719,
+              "y0": 691.483642578125,
+              "x1": 553.2024536132812,
+              "y1": 753.8582153320312
+            }
+          ],
+          "reading_order_start": 63,
+          "reading_order_end": 63
+        },
+        {
+          "page": 2,
+          "block_index": 13,
+          "line_ids": [
+            "p2-b13-l0"
+          ],
+          "span_ids": [
+            "p2-b13-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 2,
+              "x0": 310.2767028808594,
+              "y0": 692.2832641601562,
+              "x1": 323.7702331542969,
+              "y1": 700.8126220703125
+            }
+          ],
+          "reading_order_start": 64,
+          "reading_order_end": 64
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-ba6919db6f21541e",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 3,
+          "block_index": 1,
+          "line_ids": [
+            "p3-b1-l1",
+            "p3-b1-l2",
+            "p3-b1-l3",
+            "p3-b1-l4"
+          ],
+          "span_ids": [
+            "p3-b1-l1-s0",
+            "p3-b1-l1-s1",
+            "p3-b1-l1-s2",
+            "p3-b1-l1-s3",
+            "p3-b1-l1-s4",
+            "p3-b1-l1-s5",
+            "p3-b1-l1-s6",
+            "p3-b1-l1-s7",
+            "p3-b1-l1-s8",
+            "p3-b1-l1-s9",
+            "p3-b1-l1-s10",
+            "p3-b1-l1-s11",
+            "p3-b1-l1-s12",
+            "p3-b1-l1-s13",
+            "p3-b1-l1-s14",
+            "p3-b1-l1-s15",
+            "p3-b1-l1-s16",
+            "p3-b1-l2-s0",
+            "p3-b1-l2-s1",
+            "p3-b1-l2-s2",
+            "p3-b1-l2-s3",
+            "p3-b1-l2-s4",
+            "p3-b1-l2-s5",
+            "p3-b1-l2-s6",
+            "p3-b1-l2-s7",
+            "p3-b1-l2-s8",
+            "p3-b1-l2-s9",
+            "p3-b1-l2-s10",
+            "p3-b1-l2-s11",
+            "p3-b1-l2-s12",
+            "p3-b1-l2-s13",
+            "p3-b1-l2-s14",
+            "p3-b1-l3-s0",
+            "p3-b1-l3-s1",
+            "p3-b1-l3-s2",
+            "p3-b1-l3-s3",
+            "p3-b1-l3-s4",
+            "p3-b1-l3-s5",
+            "p3-b1-l3-s6",
+            "p3-b1-l3-s7",
+            "p3-b1-l3-s8",
+            "p3-b1-l3-s9",
+            "p3-b1-l3-s10",
+            "p3-b1-l3-s11",
+            "p3-b1-l3-s12",
+            "p3-b1-l3-s13",
+            "p3-b1-l3-s14",
+            "p3-b1-l3-s15",
+            "p3-b1-l3-s16",
+            "p3-b1-l4-s0",
+            "p3-b1-l4-s1",
+            "p3-b1-l4-s2"
+          ],
+          "boxes": [
+            {
+              "page": 3,
+              "x0": 67.17749786376953,
+              "y0": 196.72451782226562,
+              "x1": 284.4484558105469,
+              "y1": 238.01014709472656
+            }
+          ],
+          "reading_order_start": 74,
+          "reading_order_end": 74
+        },
+        {
+          "page": 3,
+          "block_index": 1,
+          "line_ids": [
+            "p3-b1-l0"
+          ],
+          "span_ids": [
+            "p3-b1-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 3,
+              "x0": 41.55229949951172,
+              "y0": 197.5240936279297,
+              "x1": 55.045814514160156,
+              "y1": 206.05349731445312
+            }
+          ],
+          "reading_order_start": 75,
+          "reading_order_end": 75
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-0e28db0929fff4a0",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 9,
+          "block_index": 10,
+          "line_ids": [
+            "p9-b10-l0",
+            "p9-b10-l1",
+            "p9-b10-l2",
+            "p9-b10-l3",
+            "p9-b10-l4",
+            "p9-b10-l5",
+            "p9-b10-l6"
+          ],
+          "span_ids": [
+            "p9-b10-l0-s0",
+            "p9-b10-l0-s1",
+            "p9-b10-l0-s2",
+            "p9-b10-l0-s3",
+            "p9-b10-l0-s4",
+            "p9-b10-l0-s5",
+            "p9-b10-l0-s6",
+            "p9-b10-l0-s7",
+            "p9-b10-l0-s8",
+            "p9-b10-l0-s9",
+            "p9-b10-l0-s10",
+            "p9-b10-l0-s11",
+            "p9-b10-l0-s12",
+            "p9-b10-l0-s13",
+            "p9-b10-l0-s14",
+            "p9-b10-l0-s15",
+            "p9-b10-l0-s16",
+            "p9-b10-l1-s0",
+            "p9-b10-l1-s1",
+            "p9-b10-l1-s2",
+            "p9-b10-l1-s3",
+            "p9-b10-l1-s4",
+            "p9-b10-l1-s5",
+            "p9-b10-l1-s6",
+            "p9-b10-l1-s7",
+            "p9-b10-l1-s8",
+            "p9-b10-l1-s9",
+            "p9-b10-l1-s10",
+            "p9-b10-l1-s11",
+            "p9-b10-l1-s12",
+            "p9-b10-l1-s13",
+            "p9-b10-l1-s14",
+            "p9-b10-l1-s15",
+            "p9-b10-l1-s16",
+            "p9-b10-l1-s17",
+            "p9-b10-l1-s18",
+            "p9-b10-l1-s19",
+            "p9-b10-l1-s20",
+            "p9-b10-l1-s21",
+            "p9-b10-l1-s22",
+            "p9-b10-l2-s0",
+            "p9-b10-l2-s1",
+            "p9-b10-l2-s2",
+            "p9-b10-l2-s3",
+            "p9-b10-l2-s4",
+            "p9-b10-l2-s5",
+            "p9-b10-l2-s6",
+            "p9-b10-l2-s7",
+            "p9-b10-l2-s8",
+            "p9-b10-l2-s9",
+            "p9-b10-l2-s10",
+            "p9-b10-l2-s11",
+            "p9-b10-l2-s12",
+            "p9-b10-l2-s13",
+            "p9-b10-l2-s14",
+            "p9-b10-l2-s15",
+            "p9-b10-l2-s16",
+            "p9-b10-l2-s17",
+            "p9-b10-l2-s18",
+            "p9-b10-l2-s19",
+            "p9-b10-l2-s20",
+            "p9-b10-l3-s0",
+            "p9-b10-l3-s1",
+            "p9-b10-l3-s2",
+            "p9-b10-l3-s3",
+            "p9-b10-l3-s4",
+            "p9-b10-l3-s5",
+            "p9-b10-l3-s6",
+            "p9-b10-l3-s7",
+            "p9-b10-l3-s8",
+            "p9-b10-l3-s9",
+            "p9-b10-l3-s10",
+            "p9-b10-l3-s11",
+            "p9-b10-l3-s12",
+            "p9-b10-l3-s13",
+            "p9-b10-l3-s14",
+            "p9-b10-l3-s15",
+            "p9-b10-l3-s16",
+            "p9-b10-l3-s17",
+            "p9-b10-l3-s18",
+            "p9-b10-l3-s19",
+            "p9-b10-l3-s20",
+            "p9-b10-l3-s21",
+            "p9-b10-l3-s22",
+            "p9-b10-l4-s0",
+            "p9-b10-l4-s1",
+            "p9-b10-l4-s2",
+            "p9-b10-l4-s3",
+            "p9-b10-l4-s4",
+            "p9-b10-l4-s5",
+            "p9-b10-l4-s6",
+            "p9-b10-l4-s7",
+            "p9-b10-l4-s8",
+            "p9-b10-l4-s9",
+            "p9-b10-l4-s10",
+            "p9-b10-l4-s11",
+            "p9-b10-l4-s12",
+            "p9-b10-l4-s13",
+            "p9-b10-l4-s14",
+            "p9-b10-l4-s15",
+            "p9-b10-l4-s16",
+            "p9-b10-l5-s0",
+            "p9-b10-l5-s1",
+            "p9-b10-l5-s2",
+            "p9-b10-l5-s3",
+            "p9-b10-l5-s4",
+            "p9-b10-l5-s5",
+            "p9-b10-l5-s6",
+            "p9-b10-l5-s7",
+            "p9-b10-l5-s8",
+            "p9-b10-l5-s9",
+            "p9-b10-l5-s10",
+            "p9-b10-l5-s11",
+            "p9-b10-l5-s12",
+            "p9-b10-l5-s13",
+            "p9-b10-l5-s14",
+            "p9-b10-l5-s15",
+            "p9-b10-l5-s16",
+            "p9-b10-l5-s17",
+            "p9-b10-l5-s18",
+            "p9-b10-l5-s19",
+            "p9-b10-l5-s20",
+            "p9-b10-l5-s21",
+            "p9-b10-l5-s22",
+            "p9-b10-l6-s0",
+            "p9-b10-l6-s1",
+            "p9-b10-l6-s2"
+          ],
+          "boxes": [
+            {
+              "page": 9,
+              "x0": 41.55132293701172,
+              "y0": 722.7064208984375,
+              "x1": 284.41351318359375,
+              "y1": 795.6254272460938
+            }
+          ],
+          "reading_order_start": 345,
+          "reading_order_end": 345
+        },
+        {
+          "page": 9,
+          "block_index": 26,
+          "line_ids": [
+            "p9-b26-l0"
+          ],
+          "span_ids": [
+            "p9-b26-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 9,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 346,
+          "reading_order_end": 346
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-bf08d17c234142bf",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 11,
+          "block_index": 39,
+          "line_ids": [
+            "p11-b39-l2"
+          ],
+          "span_ids": [
+            "p11-b39-l2-s0",
+            "p11-b39-l2-s1",
+            "p11-b39-l2-s2",
+            "p11-b39-l2-s3",
+            "p11-b39-l2-s4",
+            "p11-b39-l2-s5",
+            "p11-b39-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 11,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 394,
+          "reading_order_end": 394
+        },
+        {
+          "page": 11,
+          "block_index": 39,
+          "line_ids": [
+            "p11-b39-l0"
+          ],
+          "span_ids": [
+            "p11-b39-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 11,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 395,
+          "reading_order_end": 395
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-72b9c79d0e51813f",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 11,
+          "block_index": 12,
+          "line_ids": [
+            "p11-b12-l0"
+          ],
+          "span_ids": [
+            "p11-b12-l0-s0",
+            "p11-b12-l0-s1",
+            "p11-b12-l0-s2",
+            "p11-b12-l0-s3",
+            "p11-b12-l0-s4",
+            "p11-b12-l0-s5",
+            "p11-b12-l0-s6",
+            "p11-b12-l0-s7",
+            "p11-b12-l0-s8",
+            "p11-b12-l0-s9",
+            "p11-b12-l0-s10",
+            "p11-b12-l0-s11",
+            "p11-b12-l0-s12",
+            "p11-b12-l0-s13",
+            "p11-b12-l0-s14",
+            "p11-b12-l0-s15",
+            "p11-b12-l0-s16",
+            "p11-b12-l0-s17",
+            "p11-b12-l0-s18",
+            "p11-b12-l0-s19",
+            "p11-b12-l0-s20",
+            "p11-b12-l0-s21",
+            "p11-b12-l0-s22",
+            "p11-b12-l0-s23",
+            "p11-b12-l0-s24",
+            "p11-b12-l0-s25",
+            "p11-b12-l0-s26",
+            "p11-b12-l0-s27",
+            "p11-b12-l0-s28",
+            "p11-b12-l0-s29",
+            "p11-b12-l0-s30",
+            "p11-b12-l0-s31",
+            "p11-b12-l0-s32",
+            "p11-b12-l0-s33",
+            "p11-b12-l0-s34"
+          ],
+          "boxes": [
+            {
+              "page": 11,
+              "x0": 104.19950103759766,
+              "y0": 335.9588928222656,
+              "x1": 501.7293395996094,
+              "y1": 344.4883117675781
+            }
+          ],
+          "reading_order_start": 409,
+          "reading_order_end": 409
+        },
+        {
+          "page": 11,
+          "block_index": 13,
+          "line_ids": [
+            "p11-b13-l0"
+          ],
+          "span_ids": [
+            "p11-b13-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 11,
+              "x0": 116.4443130493164,
+              "y0": 345.3693542480469,
+              "x1": 214.7626953125,
+              "y1": 353.8987731933594
+            }
+          ],
+          "reading_order_start": 410,
+          "reading_order_end": 410
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-12b790547598d62c",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 12,
+          "block_index": 32,
+          "line_ids": [
+            "p12-b32-l0"
+          ],
+          "span_ids": [
+            "p12-b32-l0-s0",
+            "p12-b32-l0-s1",
+            "p12-b32-l0-s2",
+            "p12-b32-l0-s3",
+            "p12-b32-l0-s4",
+            "p12-b32-l0-s5",
+            "p12-b32-l0-s6",
+            "p12-b32-l0-s7",
+            "p12-b32-l0-s8",
+            "p12-b32-l0-s9",
+            "p12-b32-l0-s10",
+            "p12-b32-l0-s11",
+            "p12-b32-l0-s12",
+            "p12-b32-l0-s13",
+            "p12-b32-l0-s14",
+            "p12-b32-l0-s15",
+            "p12-b32-l0-s16",
+            "p12-b32-l0-s17",
+            "p12-b32-l0-s18",
+            "p12-b32-l0-s19",
+            "p12-b32-l0-s20",
+            "p12-b32-l0-s21",
+            "p12-b32-l0-s22",
+            "p12-b32-l0-s23",
+            "p12-b32-l0-s24",
+            "p12-b32-l0-s25",
+            "p12-b32-l0-s26",
+            "p12-b32-l0-s27",
+            "p12-b32-l0-s28",
+            "p12-b32-l0-s29",
+            "p12-b32-l0-s30",
+            "p12-b32-l0-s31",
+            "p12-b32-l0-s32",
+            "p12-b32-l0-s33",
+            "p12-b32-l0-s34",
+            "p12-b32-l0-s35",
+            "p12-b32-l0-s36",
+            "p12-b32-l0-s37",
+            "p12-b32-l0-s38",
+            "p12-b32-l0-s39",
+            "p12-b32-l0-s40",
+            "p12-b32-l0-s41",
+            "p12-b32-l0-s42"
+          ],
+          "boxes": [
+            {
+              "page": 12,
+              "x0": 127.38468170166016,
+              "y0": 643.0639038085938,
+              "x1": 501.6632995605469,
+              "y1": 651.59326171875
+            }
+          ],
+          "reading_order_start": 472,
+          "reading_order_end": 472
+        },
+        {
+          "page": 12,
+          "block_index": 33,
+          "line_ids": [
+            "p12-b33-l0"
+          ],
+          "span_ids": [
+            "p12-b33-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 12,
+              "x0": 140.31011962890625,
+              "y0": 652.4744262695312,
+              "x1": 149.9824676513672,
+              "y1": 661.0037841796875
+            }
+          ],
+          "reading_order_start": 473,
+          "reading_order_end": 473
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-00392dedc54d2272",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 13,
+          "block_index": 41,
+          "line_ids": [
+            "p13-b41-l2"
+          ],
+          "span_ids": [
+            "p13-b41-l2-s0",
+            "p13-b41-l2-s1",
+            "p13-b41-l2-s2",
+            "p13-b41-l2-s3",
+            "p13-b41-l2-s4",
+            "p13-b41-l2-s5",
+            "p13-b41-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 13,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 482,
+          "reading_order_end": 482
+        },
+        {
+          "page": 13,
+          "block_index": 41,
+          "line_ids": [
+            "p13-b41-l0"
+          ],
+          "span_ids": [
+            "p13-b41-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 13,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 483,
+          "reading_order_end": 483
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-fe1f498b80790a76",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 15,
+          "block_index": 43,
+          "line_ids": [
+            "p15-b43-l2"
+          ],
+          "span_ids": [
+            "p15-b43-l2-s0",
+            "p15-b43-l2-s1",
+            "p15-b43-l2-s2",
+            "p15-b43-l2-s3",
+            "p15-b43-l2-s4",
+            "p15-b43-l2-s5",
+            "p15-b43-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 575,
+          "reading_order_end": 575
+        },
+        {
+          "page": 15,
+          "block_index": 43,
+          "line_ids": [
+            "p15-b43-l0"
+          ],
+          "span_ids": [
+            "p15-b43-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 576,
+          "reading_order_end": 576
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-48fa83ae63a2eaab",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 15,
+          "block_index": 0,
+          "line_ids": [
+            "p15-b0-l0"
+          ],
+          "span_ids": [
+            "p15-b0-l0-s0",
+            "p15-b0-l0-s1",
+            "p15-b0-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 129.0294952392578,
+              "y0": 75.97453308105469,
+              "x1": 239.52789306640625,
+              "y1": 84.5039291381836
+            }
+          ],
+          "reading_order_start": 578,
+          "reading_order_end": 578
+        },
+        {
+          "page": 15,
+          "block_index": 1,
+          "line_ids": [
+            "p15-b1-l0"
+          ],
+          "span_ids": [
+            "p15-b1-l0-s0",
+            "p15-b1-l0-s1",
+            "p15-b1-l0-s2",
+            "p15-b1-l0-s3",
+            "p15-b1-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 91.96116638183594,
+              "x1": 255.71925354003906,
+              "y1": 100.49056243896484
+            }
+          ],
+          "reading_order_start": 579,
+          "reading_order_end": 579
+        },
+        {
+          "page": 15,
+          "block_index": 2,
+          "line_ids": [
+            "p15-b2-l0"
+          ],
+          "span_ids": [
+            "p15-b2-l0-s0",
+            "p15-b2-l0-s1",
+            "p15-b2-l0-s2",
+            "p15-b2-l0-s3",
+            "p15-b2-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 107.89152526855469,
+              "x1": 252.03456115722656,
+              "y1": 116.4209213256836
+            }
+          ],
+          "reading_order_start": 580,
+          "reading_order_end": 580
+        },
+        {
+          "page": 15,
+          "block_index": 3,
+          "line_ids": [
+            "p15-b3-l0"
+          ],
+          "span_ids": [
+            "p15-b3-l0-s0",
+            "p15-b3-l0-s1",
+            "p15-b3-l0-s2",
+            "p15-b3-l0-s3",
+            "p15-b3-l0-s4",
+            "p15-b3-l0-s5",
+            "p15-b3-l0-s6"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 123.87815856933594,
+              "x1": 245.39015197753906,
+              "y1": 132.40756225585938
+            }
+          ],
+          "reading_order_start": 581,
+          "reading_order_end": 581
+        },
+        {
+          "page": 15,
+          "block_index": 4,
+          "line_ids": [
+            "p15-b4-l0"
+          ],
+          "span_ids": [
+            "p15-b4-l0-s0",
+            "p15-b4-l0-s1",
+            "p15-b4-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 139.8085174560547,
+              "x1": 230.83045959472656,
+              "y1": 148.33792114257812
+            }
+          ],
+          "reading_order_start": 582,
+          "reading_order_end": 582
+        },
+        {
+          "page": 15,
+          "block_index": 5,
+          "line_ids": [
+            "p15-b5-l0"
+          ],
+          "span_ids": [
+            "p15-b5-l0-s0",
+            "p15-b5-l0-s1",
+            "p15-b5-l0-s2",
+            "p15-b5-l0-s3",
+            "p15-b5-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 155.73887634277344,
+              "x1": 232.3486785888672,
+              "y1": 164.26828002929688
+            }
+          ],
+          "reading_order_start": 583,
+          "reading_order_end": 583
+        },
+        {
+          "page": 15,
+          "block_index": 6,
+          "line_ids": [
+            "p15-b6-l0"
+          ],
+          "span_ids": [
+            "p15-b6-l0-s0",
+            "p15-b6-l0-s1",
+            "p15-b6-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 171.7255096435547,
+              "x1": 318.6748352050781,
+              "y1": 180.25491333007812
+            }
+          ],
+          "reading_order_start": 584,
+          "reading_order_end": 584
+        },
+        {
+          "page": 15,
+          "block_index": 7,
+          "line_ids": [
+            "p15-b7-l0"
+          ],
+          "span_ids": [
+            "p15-b7-l0-s0",
+            "p15-b7-l0-s1",
+            "p15-b7-l0-s2",
+            "p15-b7-l0-s3",
+            "p15-b7-l0-s4",
+            "p15-b7-l0-s5",
+            "p15-b7-l0-s6"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 187.65586853027344,
+              "x1": 313.36090087890625,
+              "y1": 196.18527221679688
+            }
+          ],
+          "reading_order_start": 585,
+          "reading_order_end": 585
+        },
+        {
+          "page": 15,
+          "block_index": 8,
+          "line_ids": [
+            "p15-b8-l0"
+          ],
+          "span_ids": [
+            "p15-b8-l0-s0",
+            "p15-b8-l0-s1",
+            "p15-b8-l0-s2",
+            "p15-b8-l0-s3",
+            "p15-b8-l0-s4",
+            "p15-b8-l0-s5",
+            "p15-b8-l0-s6"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 203.5862274169922,
+              "x1": 263.38714599609375,
+              "y1": 212.11563110351562
+            }
+          ],
+          "reading_order_start": 586,
+          "reading_order_end": 586
+        },
+        {
+          "page": 15,
+          "block_index": 9,
+          "line_ids": [
+            "p15-b9-l0"
+          ],
+          "span_ids": [
+            "p15-b9-l0-s0",
+            "p15-b9-l0-s1",
+            "p15-b9-l0-s2",
+            "p15-b9-l0-s3",
+            "p15-b9-l0-s4",
+            "p15-b9-l0-s5",
+            "p15-b9-l0-s6",
+            "p15-b9-l0-s7",
+            "p15-b9-l0-s8",
+            "p15-b9-l0-s9",
+            "p15-b9-l0-s10"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 219.57286071777344,
+              "x1": 368.435302734375,
+              "y1": 228.10226440429688
+            }
+          ],
+          "reading_order_start": 587,
+          "reading_order_end": 587
+        },
+        {
+          "page": 15,
+          "block_index": 10,
+          "line_ids": [
+            "p15-b10-l0"
+          ],
+          "span_ids": [
+            "p15-b10-l0-s0",
+            "p15-b10-l0-s1",
+            "p15-b10-l0-s2",
+            "p15-b10-l0-s3",
+            "p15-b10-l0-s4",
+            "p15-b10-l0-s5",
+            "p15-b10-l0-s6"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 129.0294952392578,
+              "y0": 235.5032196044922,
+              "x1": 317.2819519042969,
+              "y1": 244.03262329101562
+            }
+          ],
+          "reading_order_start": 588,
+          "reading_order_end": 588
+        },
+        {
+          "page": 15,
+          "block_index": 11,
+          "line_ids": [
+            "p15-b11-l0"
+          ],
+          "span_ids": [
+            "p15-b11-l0-s0",
+            "p15-b11-l0-s1",
+            "p15-b11-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 251.48985290527344,
+              "x1": 215.0510711669922,
+              "y1": 260.0192565917969
+            }
+          ],
+          "reading_order_start": 589,
+          "reading_order_end": 589
+        },
+        {
+          "page": 15,
+          "block_index": 12,
+          "line_ids": [
+            "p15-b12-l0"
+          ],
+          "span_ids": [
+            "p15-b12-l0-s0",
+            "p15-b12-l0-s1",
+            "p15-b12-l0-s2",
+            "p15-b12-l0-s3",
+            "p15-b12-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 267.4201965332031,
+              "x1": 294.2549743652344,
+              "y1": 275.9496154785156
+            }
+          ],
+          "reading_order_start": 590,
+          "reading_order_end": 590
+        },
+        {
+          "page": 15,
+          "block_index": 13,
+          "line_ids": [
+            "p15-b13-l0"
+          ],
+          "span_ids": [
+            "p15-b13-l0-s0",
+            "p15-b13-l0-s1",
+            "p15-b13-l0-s2",
+            "p15-b13-l0-s3",
+            "p15-b13-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 283.3505554199219,
+              "x1": 282.61236572265625,
+              "y1": 291.8799743652344
+            }
+          ],
+          "reading_order_start": 591,
+          "reading_order_end": 591
+        },
+        {
+          "page": 15,
+          "block_index": 14,
+          "line_ids": [
+            "p15-b14-l0"
+          ],
+          "span_ids": [
+            "p15-b14-l0-s0",
+            "p15-b14-l0-s1",
+            "p15-b14-l0-s2",
+            "p15-b14-l0-s3",
+            "p15-b14-l0-s4",
+            "p15-b14-l0-s5",
+            "p15-b14-l0-s6"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 299.3371887207031,
+              "x1": 325.5835266113281,
+              "y1": 307.8666076660156
+            }
+          ],
+          "reading_order_start": 592,
+          "reading_order_end": 592
+        },
+        {
+          "page": 15,
+          "block_index": 15,
+          "line_ids": [
+            "p15-b15-l0"
+          ],
+          "span_ids": [
+            "p15-b15-l0-s0",
+            "p15-b15-l0-s1",
+            "p15-b15-l0-s2",
+            "p15-b15-l0-s3",
+            "p15-b15-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 315.2675476074219,
+              "x1": 329.62652587890625,
+              "y1": 323.7969665527344
+            }
+          ],
+          "reading_order_start": 593,
+          "reading_order_end": 593
+        },
+        {
+          "page": 15,
+          "block_index": 16,
+          "line_ids": [
+            "p15-b16-l0"
+          ],
+          "span_ids": [
+            "p15-b16-l0-s0",
+            "p15-b16-l0-s1",
+            "p15-b16-l0-s2",
+            "p15-b16-l0-s3",
+            "p15-b16-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 331.2541809082031,
+              "x1": 208.8331298828125,
+              "y1": 339.7835998535156
+            }
+          ],
+          "reading_order_start": 594,
+          "reading_order_end": 594
+        },
+        {
+          "page": 15,
+          "block_index": 17,
+          "line_ids": [
+            "p15-b17-l0"
+          ],
+          "span_ids": [
+            "p15-b17-l0-s0",
+            "p15-b17-l0-s1",
+            "p15-b17-l0-s2",
+            "p15-b17-l0-s3",
+            "p15-b17-l0-s4",
+            "p15-b17-l0-s5",
+            "p15-b17-l0-s6",
+            "p15-b17-l0-s7",
+            "p15-b17-l0-s8"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 347.1845397949219,
+              "x1": 309.76995849609375,
+              "y1": 355.7139587402344
+            }
+          ],
+          "reading_order_start": 595,
+          "reading_order_end": 595
+        },
+        {
+          "page": 15,
+          "block_index": 18,
+          "line_ids": [
+            "p15-b18-l0"
+          ],
+          "span_ids": [
+            "p15-b18-l0-s0",
+            "p15-b18-l0-s1",
+            "p15-b18-l0-s2",
+            "p15-b18-l0-s3",
+            "p15-b18-l0-s4",
+            "p15-b18-l0-s5",
+            "p15-b18-l0-s6"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 363.1148986816406,
+              "x1": 357.40667724609375,
+              "y1": 371.6443176269531
+            }
+          ],
+          "reading_order_start": 596,
+          "reading_order_end": 596
+        },
+        {
+          "page": 15,
+          "block_index": 19,
+          "line_ids": [
+            "p15-b19-l0"
+          ],
+          "span_ids": [
+            "p15-b19-l0-s0",
+            "p15-b19-l0-s1",
+            "p15-b19-l0-s2",
+            "p15-b19-l0-s3",
+            "p15-b19-l0-s4",
+            "p15-b19-l0-s5",
+            "p15-b19-l0-s6",
+            "p15-b19-l0-s7",
+            "p15-b19-l0-s8"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 379.1015625,
+              "x1": 354.01202392578125,
+              "y1": 387.6309814453125
+            }
+          ],
+          "reading_order_start": 597,
+          "reading_order_end": 597
+        },
+        {
+          "page": 15,
+          "block_index": 20,
+          "line_ids": [
+            "p15-b20-l0"
+          ],
+          "span_ids": [
+            "p15-b20-l0-s0",
+            "p15-b20-l0-s1",
+            "p15-b20-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 395.03192138671875,
+              "x1": 223.40133666992188,
+              "y1": 403.56134033203125
+            }
+          ],
+          "reading_order_start": 598,
+          "reading_order_end": 598
+        },
+        {
+          "page": 15,
+          "block_index": 21,
+          "line_ids": [
+            "p15-b21-l0"
+          ],
+          "span_ids": [
+            "p15-b21-l0-s0",
+            "p15-b21-l0-s1",
+            "p15-b21-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 411.0185852050781,
+              "x1": 308.29443359375,
+              "y1": 419.5480041503906
+            }
+          ],
+          "reading_order_start": 599,
+          "reading_order_end": 599
+        },
+        {
+          "page": 15,
+          "block_index": 22,
+          "line_ids": [
+            "p15-b22-l0"
+          ],
+          "span_ids": [
+            "p15-b22-l0-s0",
+            "p15-b22-l0-s1",
+            "p15-b22-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 129.0294952392578,
+              "y0": 426.9489440917969,
+              "x1": 225.7017059326172,
+              "y1": 435.4783630371094
+            }
+          ],
+          "reading_order_start": 600,
+          "reading_order_end": 600
+        },
+        {
+          "page": 15,
+          "block_index": 23,
+          "line_ids": [
+            "p15-b23-l0"
+          ],
+          "span_ids": [
+            "p15-b23-l0-s0",
+            "p15-b23-l0-s1",
+            "p15-b23-l0-s2",
+            "p15-b23-l0-s3",
+            "p15-b23-l0-s4",
+            "p15-b23-l0-s5",
+            "p15-b23-l0-s6"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 446.1673889160156,
+              "x1": 390.6373596191406,
+              "y1": 454.6968078613281
+            }
+          ],
+          "reading_order_start": 601,
+          "reading_order_end": 601
+        },
+        {
+          "page": 15,
+          "block_index": 24,
+          "line_ids": [
+            "p15-b24-l0"
+          ],
+          "span_ids": [
+            "p15-b24-l0-s0",
+            "p15-b24-l0-s1",
+            "p15-b24-l0-s2",
+            "p15-b24-l0-s3",
+            "p15-b24-l0-s4",
+            "p15-b24-l0-s5",
+            "p15-b24-l0-s6",
+            "p15-b24-l0-s7",
+            "p15-b24-l0-s8",
+            "p15-b24-l0-s9",
+            "p15-b24-l0-s10"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 462.154052734375,
+              "x1": 440.372314453125,
+              "y1": 470.6834716796875
+            }
+          ],
+          "reading_order_start": 602,
+          "reading_order_end": 602
+        },
+        {
+          "page": 15,
+          "block_index": 25,
+          "line_ids": [
+            "p15-b25-l0"
+          ],
+          "span_ids": [
+            "p15-b25-l0-s0",
+            "p15-b25-l0-s1",
+            "p15-b25-l0-s2",
+            "p15-b25-l0-s3",
+            "p15-b25-l0-s4",
+            "p15-b25-l0-s5",
+            "p15-b25-l0-s6",
+            "p15-b25-l0-s7",
+            "p15-b25-l0-s8",
+            "p15-b25-l0-s9",
+            "p15-b25-l0-s10",
+            "p15-b25-l0-s11",
+            "p15-b25-l0-s12"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 478.08441162109375,
+              "x1": 483.9234924316406,
+              "y1": 486.61383056640625
+            }
+          ],
+          "reading_order_start": 603,
+          "reading_order_end": 603
+        },
+        {
+          "page": 15,
+          "block_index": 26,
+          "line_ids": [
+            "p15-b26-l0",
+            "p15-b26-l1"
+          ],
+          "span_ids": [
+            "p15-b26-l0-s0",
+            "p15-b26-l0-s1",
+            "p15-b26-l0-s2",
+            "p15-b26-l0-s3",
+            "p15-b26-l0-s4",
+            "p15-b26-l0-s5",
+            "p15-b26-l0-s6",
+            "p15-b26-l0-s7",
+            "p15-b26-l0-s8",
+            "p15-b26-l0-s9",
+            "p15-b26-l0-s10",
+            "p15-b26-l0-s11",
+            "p15-b26-l0-s12",
+            "p15-b26-l0-s13",
+            "p15-b26-l0-s14",
+            "p15-b26-l0-s15",
+            "p15-b26-l0-s16",
+            "p15-b26-l0-s17",
+            "p15-b26-l0-s18",
+            "p15-b26-l0-s19",
+            "p15-b26-l0-s20",
+            "p15-b26-l0-s21",
+            "p15-b26-l0-s22",
+            "p15-b26-l0-s23",
+            "p15-b26-l0-s24",
+            "p15-b26-l1-s0",
+            "p15-b26-l1-s1",
+            "p15-b26-l1-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 494.0147705078125,
+              "x1": 501.74127197265625,
+              "y1": 511.9546813964844
+            }
+          ],
+          "reading_order_start": 604,
+          "reading_order_end": 604
+        },
+        {
+          "page": 15,
+          "block_index": 27,
+          "line_ids": [
+            "p15-b27-l0",
+            "p15-b27-l1"
+          ],
+          "span_ids": [
+            "p15-b27-l0-s0",
+            "p15-b27-l0-s1",
+            "p15-b27-l0-s2",
+            "p15-b27-l0-s3",
+            "p15-b27-l0-s4",
+            "p15-b27-l0-s5",
+            "p15-b27-l0-s6",
+            "p15-b27-l0-s7",
+            "p15-b27-l0-s8",
+            "p15-b27-l0-s9",
+            "p15-b27-l0-s10",
+            "p15-b27-l0-s11",
+            "p15-b27-l0-s12",
+            "p15-b27-l0-s13",
+            "p15-b27-l0-s14",
+            "p15-b27-l0-s15",
+            "p15-b27-l0-s16",
+            "p15-b27-l0-s17",
+            "p15-b27-l0-s18",
+            "p15-b27-l0-s19",
+            "p15-b27-l0-s20",
+            "p15-b27-l0-s21",
+            "p15-b27-l0-s22",
+            "p15-b27-l0-s23",
+            "p15-b27-l0-s24",
+            "p15-b27-l1-s0",
+            "p15-b27-l1-s1",
+            "p15-b27-l1-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 519.3556518554688,
+              "x1": 501.74127197265625,
+              "y1": 537.2955322265625
+            }
+          ],
+          "reading_order_start": 605,
+          "reading_order_end": 605
+        },
+        {
+          "page": 15,
+          "block_index": 28,
+          "line_ids": [
+            "p15-b28-l0",
+            "p15-b28-l1"
+          ],
+          "span_ids": [
+            "p15-b28-l0-s0",
+            "p15-b28-l0-s1",
+            "p15-b28-l0-s2",
+            "p15-b28-l0-s3",
+            "p15-b28-l0-s4",
+            "p15-b28-l0-s5",
+            "p15-b28-l0-s6",
+            "p15-b28-l0-s7",
+            "p15-b28-l0-s8",
+            "p15-b28-l0-s9",
+            "p15-b28-l0-s10",
+            "p15-b28-l0-s11",
+            "p15-b28-l0-s12",
+            "p15-b28-l0-s13",
+            "p15-b28-l0-s14",
+            "p15-b28-l0-s15",
+            "p15-b28-l0-s16",
+            "p15-b28-l0-s17",
+            "p15-b28-l0-s18",
+            "p15-b28-l0-s19",
+            "p15-b28-l0-s20",
+            "p15-b28-l0-s21",
+            "p15-b28-l0-s22",
+            "p15-b28-l0-s23",
+            "p15-b28-l0-s24",
+            "p15-b28-l0-s25",
+            "p15-b28-l0-s26",
+            "p15-b28-l0-s27",
+            "p15-b28-l0-s28",
+            "p15-b28-l1-s0",
+            "p15-b28-l1-s1",
+            "p15-b28-l1-s2",
+            "p15-b28-l1-s3",
+            "p15-b28-l1-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 544.6964721679688,
+              "x1": 501.79266357421875,
+              "y1": 562.6363525390625
+            }
+          ],
+          "reading_order_start": 606,
+          "reading_order_end": 606
+        },
+        {
+          "page": 15,
+          "block_index": 29,
+          "line_ids": [
+            "p15-b29-l0"
+          ],
+          "span_ids": [
+            "p15-b29-l0-s0",
+            "p15-b29-l0-s1",
+            "p15-b29-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 129.0294952392578,
+              "y0": 570.037353515625,
+              "x1": 201.78529357910156,
+              "y1": 578.5667114257812
+            }
+          ],
+          "reading_order_start": 607,
+          "reading_order_end": 607
+        },
+        {
+          "page": 15,
+          "block_index": 30,
+          "line_ids": [
+            "p15-b30-l0"
+          ],
+          "span_ids": [
+            "p15-b30-l0-s0",
+            "p15-b30-l0-s1",
+            "p15-b30-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 585.9677124023438,
+              "x1": 253.19454956054688,
+              "y1": 594.4970703125
+            }
+          ],
+          "reading_order_start": 608,
+          "reading_order_end": 608
+        },
+        {
+          "page": 15,
+          "block_index": 31,
+          "line_ids": [
+            "p15-b31-l0"
+          ],
+          "span_ids": [
+            "p15-b31-l0-s0",
+            "p15-b31-l0-s1",
+            "p15-b31-l0-s2",
+            "p15-b31-l0-s3",
+            "p15-b31-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 601.9544067382812,
+              "x1": 259.4295654296875,
+              "y1": 610.4837646484375
+            }
+          ],
+          "reading_order_start": 609,
+          "reading_order_end": 609
+        },
+        {
+          "page": 15,
+          "block_index": 32,
+          "line_ids": [
+            "p15-b32-l0"
+          ],
+          "span_ids": [
+            "p15-b32-l0-s0",
+            "p15-b32-l0-s1",
+            "p15-b32-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 617.8847045898438,
+              "x1": 264.0184020996094,
+              "y1": 626.4140625
+            }
+          ],
+          "reading_order_start": 610,
+          "reading_order_end": 610
+        },
+        {
+          "page": 15,
+          "block_index": 33,
+          "line_ids": [
+            "p15-b33-l0"
+          ],
+          "span_ids": [
+            "p15-b33-l0-s0",
+            "p15-b33-l0-s1",
+            "p15-b33-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 633.8713989257812,
+              "x1": 262.79864501953125,
+              "y1": 642.4007568359375
+            }
+          ],
+          "reading_order_start": 611,
+          "reading_order_end": 611
+        },
+        {
+          "page": 15,
+          "block_index": 34,
+          "line_ids": [
+            "p15-b34-l0",
+            "p15-b34-l1"
+          ],
+          "span_ids": [
+            "p15-b34-l0-s0",
+            "p15-b34-l0-s1",
+            "p15-b34-l0-s2",
+            "p15-b34-l0-s3",
+            "p15-b34-l0-s4",
+            "p15-b34-l0-s5",
+            "p15-b34-l0-s6",
+            "p15-b34-l0-s7",
+            "p15-b34-l0-s8",
+            "p15-b34-l0-s9",
+            "p15-b34-l0-s10",
+            "p15-b34-l0-s11",
+            "p15-b34-l0-s12",
+            "p15-b34-l0-s13",
+            "p15-b34-l0-s14",
+            "p15-b34-l0-s15",
+            "p15-b34-l0-s16",
+            "p15-b34-l0-s17",
+            "p15-b34-l0-s18",
+            "p15-b34-l0-s19",
+            "p15-b34-l0-s20",
+            "p15-b34-l0-s21",
+            "p15-b34-l0-s22",
+            "p15-b34-l0-s23",
+            "p15-b34-l0-s24",
+            "p15-b34-l1-s0"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 649.8017578125,
+              "x1": 501.82672119140625,
+              "y1": 667.7415771484375
+            }
+          ],
+          "reading_order_start": 612,
+          "reading_order_end": 612
+        },
+        {
+          "page": 15,
+          "block_index": 35,
+          "line_ids": [
+            "p15-b35-l0"
+          ],
+          "span_ids": [
+            "p15-b35-l0-s0",
+            "p15-b35-l0-s1",
+            "p15-b35-l0-s2",
+            "p15-b35-l0-s3",
+            "p15-b35-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 675.142578125,
+              "x1": 237.1337127685547,
+              "y1": 683.6719360351562
+            }
+          ],
+          "reading_order_start": 613,
+          "reading_order_end": 613
+        },
+        {
+          "page": 15,
+          "block_index": 36,
+          "line_ids": [
+            "p15-b36-l0"
+          ],
+          "span_ids": [
+            "p15-b36-l0-s0",
+            "p15-b36-l0-s1",
+            "p15-b36-l0-s2",
+            "p15-b36-l0-s3",
+            "p15-b36-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 691.0729370117188,
+              "x1": 243.2407684326172,
+              "y1": 699.602294921875
+            }
+          ],
+          "reading_order_start": 614,
+          "reading_order_end": 614
+        },
+        {
+          "page": 15,
+          "block_index": 37,
+          "line_ids": [
+            "p15-b37-l0"
+          ],
+          "span_ids": [
+            "p15-b37-l0-s0",
+            "p15-b37-l0-s1",
+            "p15-b37-l0-s2",
+            "p15-b37-l0-s3",
+            "p15-b37-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 707.0596313476562,
+              "x1": 254.2266082763672,
+              "y1": 715.5889892578125
+            }
+          ],
+          "reading_order_start": 615,
+          "reading_order_end": 615
+        },
+        {
+          "page": 15,
+          "block_index": 38,
+          "line_ids": [
+            "p15-b38-l0"
+          ],
+          "span_ids": [
+            "p15-b38-l0-s0",
+            "p15-b38-l0-s1",
+            "p15-b38-l0-s2",
+            "p15-b38-l0-s3",
+            "p15-b38-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 722.9899291992188,
+              "x1": 240.31515502929688,
+              "y1": 731.519287109375
+            }
+          ],
+          "reading_order_start": 616,
+          "reading_order_end": 616
+        },
+        {
+          "page": 15,
+          "block_index": 39,
+          "line_ids": [
+            "p15-b39-l0"
+          ],
+          "span_ids": [
+            "p15-b39-l0-s0",
+            "p15-b39-l0-s1",
+            "p15-b39-l0-s2",
+            "p15-b39-l0-s3",
+            "p15-b39-l0-s4",
+            "p15-b39-l0-s5",
+            "p15-b39-l0-s6"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 738.9203491210938,
+              "x1": 312.6785583496094,
+              "y1": 747.44970703125
+            }
+          ],
+          "reading_order_start": 617,
+          "reading_order_end": 617
+        },
+        {
+          "page": 15,
+          "block_index": 40,
+          "line_ids": [
+            "p15-b40-l0"
+          ],
+          "span_ids": [
+            "p15-b40-l0-s0",
+            "p15-b40-l0-s1",
+            "p15-b40-l0-s2",
+            "p15-b40-l0-s3",
+            "p15-b40-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 754.906982421875,
+              "x1": 260.6407165527344,
+              "y1": 763.4363403320312
+            }
+          ],
+          "reading_order_start": 618,
+          "reading_order_end": 618
+        },
+        {
+          "page": 15,
+          "block_index": 41,
+          "line_ids": [
+            "p15-b41-l0"
+          ],
+          "span_ids": [
+            "p15-b41-l0-s0",
+            "p15-b41-l0-s1",
+            "p15-b41-l0-s2",
+            "p15-b41-l0-s3",
+            "p15-b41-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 770.8373413085938,
+              "x1": 288.8901062011719,
+              "y1": 779.36669921875
+            }
+          ],
+          "reading_order_start": 619,
+          "reading_order_end": 619
+        },
+        {
+          "page": 15,
+          "block_index": 42,
+          "line_ids": [
+            "p15-b42-l0"
+          ],
+          "span_ids": [
+            "p15-b42-l0-s0",
+            "p15-b42-l0-s1",
+            "p15-b42-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 15,
+              "x0": 144.22291564941406,
+              "y0": 786.823974609375,
+              "x1": 244.9380645751953,
+              "y1": 795.3533325195312
+            }
+          ],
+          "reading_order_start": 620,
+          "reading_order_end": 620
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-8dfa506a70df6404",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 17,
+          "block_index": 23,
+          "line_ids": [
+            "p17-b23-l2"
+          ],
+          "span_ids": [
+            "p17-b23-l2-s0",
+            "p17-b23-l2-s1",
+            "p17-b23-l2-s2",
+            "p17-b23-l2-s3",
+            "p17-b23-l2-s4",
+            "p17-b23-l2-s5",
+            "p17-b23-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 660,
+          "reading_order_end": 660
+        },
+        {
+          "page": 17,
+          "block_index": 23,
+          "line_ids": [
+            "p17-b23-l0"
+          ],
+          "span_ids": [
+            "p17-b23-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 661,
+          "reading_order_end": 661
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-0e52739c443b31f2",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 17,
+          "block_index": 23,
+          "line_ids": [
+            "p17-b23-l3"
+          ],
+          "span_ids": [
+            "p17-b23-l3-s0"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 119.84520721435547,
+              "y0": 51.36979675292969,
+              "x1": 129.6113739013672,
+              "y1": 59.89919662475586
+            }
+          ],
+          "reading_order_start": 662,
+          "reading_order_end": 662
+        },
+        {
+          "page": 17,
+          "block_index": 0,
+          "line_ids": [
+            "p17-b0-l0",
+            "p17-b0-l1",
+            "p17-b0-l2",
+            "p17-b0-l3"
+          ],
+          "span_ids": [
+            "p17-b0-l0-s0",
+            "p17-b0-l0-s1",
+            "p17-b0-l0-s2",
+            "p17-b0-l0-s3",
+            "p17-b0-l0-s4",
+            "p17-b0-l0-s5",
+            "p17-b0-l0-s6",
+            "p17-b0-l0-s7",
+            "p17-b0-l0-s8",
+            "p17-b0-l0-s9",
+            "p17-b0-l0-s10",
+            "p17-b0-l0-s11",
+            "p17-b0-l0-s12",
+            "p17-b0-l0-s13",
+            "p17-b0-l0-s14",
+            "p17-b0-l0-s15",
+            "p17-b0-l0-s16",
+            "p17-b0-l0-s17",
+            "p17-b0-l0-s18",
+            "p17-b0-l0-s19",
+            "p17-b0-l0-s20",
+            "p17-b0-l0-s21",
+            "p17-b0-l0-s22",
+            "p17-b0-l0-s23",
+            "p17-b0-l0-s24",
+            "p17-b0-l0-s25",
+            "p17-b0-l0-s26",
+            "p17-b0-l0-s27",
+            "p17-b0-l0-s28",
+            "p17-b0-l0-s29",
+            "p17-b0-l0-s30",
+            "p17-b0-l0-s31",
+            "p17-b0-l0-s32",
+            "p17-b0-l0-s33",
+            "p17-b0-l0-s34",
+            "p17-b0-l0-s35",
+            "p17-b0-l0-s36",
+            "p17-b0-l1-s0",
+            "p17-b0-l1-s1",
+            "p17-b0-l1-s2",
+            "p17-b0-l1-s3",
+            "p17-b0-l1-s4",
+            "p17-b0-l1-s5",
+            "p17-b0-l1-s6",
+            "p17-b0-l1-s7",
+            "p17-b0-l1-s8",
+            "p17-b0-l1-s9",
+            "p17-b0-l1-s10",
+            "p17-b0-l1-s11",
+            "p17-b0-l1-s12",
+            "p17-b0-l1-s13",
+            "p17-b0-l1-s14",
+            "p17-b0-l1-s15",
+            "p17-b0-l1-s16",
+            "p17-b0-l1-s17",
+            "p17-b0-l1-s18",
+            "p17-b0-l1-s19",
+            "p17-b0-l1-s20",
+            "p17-b0-l1-s21",
+            "p17-b0-l1-s22",
+            "p17-b0-l1-s23",
+            "p17-b0-l1-s24",
+            "p17-b0-l1-s25",
+            "p17-b0-l1-s26",
+            "p17-b0-l1-s27",
+            "p17-b0-l1-s28",
+            "p17-b0-l1-s29",
+            "p17-b0-l1-s30",
+            "p17-b0-l1-s31",
+            "p17-b0-l1-s32",
+            "p17-b0-l2-s0",
+            "p17-b0-l2-s1",
+            "p17-b0-l2-s2",
+            "p17-b0-l2-s3",
+            "p17-b0-l2-s4",
+            "p17-b0-l2-s5",
+            "p17-b0-l2-s6",
+            "p17-b0-l2-s7",
+            "p17-b0-l2-s8",
+            "p17-b0-l2-s9",
+            "p17-b0-l2-s10",
+            "p17-b0-l2-s11",
+            "p17-b0-l2-s12",
+            "p17-b0-l2-s13",
+            "p17-b0-l2-s14",
+            "p17-b0-l2-s15",
+            "p17-b0-l2-s16",
+            "p17-b0-l2-s17",
+            "p17-b0-l2-s18",
+            "p17-b0-l2-s19",
+            "p17-b0-l2-s20",
+            "p17-b0-l2-s21",
+            "p17-b0-l2-s22",
+            "p17-b0-l2-s23",
+            "p17-b0-l2-s24",
+            "p17-b0-l2-s25",
+            "p17-b0-l2-s26",
+            "p17-b0-l2-s27",
+            "p17-b0-l2-s28",
+            "p17-b0-l2-s29",
+            "p17-b0-l2-s30",
+            "p17-b0-l2-s31",
+            "p17-b0-l2-s32",
+            "p17-b0-l2-s33",
+            "p17-b0-l2-s34",
+            "p17-b0-l3-s0",
+            "p17-b0-l3-s1",
+            "p17-b0-l3-s2",
+            "p17-b0-l3-s3",
+            "p17-b0-l3-s4",
+            "p17-b0-l3-s5",
+            "p17-b0-l3-s6",
+            "p17-b0-l3-s7",
+            "p17-b0-l3-s8",
+            "p17-b0-l3-s9",
+            "p17-b0-l3-s10",
+            "p17-b0-l3-s11",
+            "p17-b0-l3-s12"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 129.0294952392578,
+              "y0": 75.97453308105469,
+              "x1": 501.7754211425781,
+              "y1": 112.67903900146484
+            }
+          ],
+          "reading_order_start": 663,
+          "reading_order_end": 663
+        },
+        {
+          "page": 17,
+          "block_index": 1,
+          "line_ids": [
+            "p17-b1-l0",
+            "p17-b1-l1",
+            "p17-b1-l2",
+            "p17-b1-l3",
+            "p17-b1-l4"
+          ],
+          "span_ids": [
+            "p17-b1-l0-s0",
+            "p17-b1-l0-s1",
+            "p17-b1-l0-s2",
+            "p17-b1-l0-s3",
+            "p17-b1-l0-s4",
+            "p17-b1-l0-s5",
+            "p17-b1-l0-s6",
+            "p17-b1-l0-s7",
+            "p17-b1-l0-s8",
+            "p17-b1-l0-s9",
+            "p17-b1-l0-s10",
+            "p17-b1-l0-s11",
+            "p17-b1-l0-s12",
+            "p17-b1-l0-s13",
+            "p17-b1-l0-s14",
+            "p17-b1-l0-s15",
+            "p17-b1-l0-s16",
+            "p17-b1-l0-s17",
+            "p17-b1-l0-s18",
+            "p17-b1-l0-s19",
+            "p17-b1-l0-s20",
+            "p17-b1-l0-s21",
+            "p17-b1-l0-s22",
+            "p17-b1-l0-s23",
+            "p17-b1-l0-s24",
+            "p17-b1-l0-s25",
+            "p17-b1-l0-s26",
+            "p17-b1-l0-s27",
+            "p17-b1-l0-s28",
+            "p17-b1-l0-s29",
+            "p17-b1-l0-s30",
+            "p17-b1-l0-s31",
+            "p17-b1-l0-s32",
+            "p17-b1-l0-s33",
+            "p17-b1-l0-s34",
+            "p17-b1-l1-s0",
+            "p17-b1-l1-s1",
+            "p17-b1-l1-s2",
+            "p17-b1-l1-s3",
+            "p17-b1-l1-s4",
+            "p17-b1-l1-s5",
+            "p17-b1-l1-s6",
+            "p17-b1-l1-s7",
+            "p17-b1-l1-s8",
+            "p17-b1-l1-s9",
+            "p17-b1-l1-s10",
+            "p17-b1-l1-s11",
+            "p17-b1-l1-s12",
+            "p17-b1-l1-s13",
+            "p17-b1-l1-s14",
+            "p17-b1-l1-s15",
+            "p17-b1-l1-s16",
+            "p17-b1-l1-s17",
+            "p17-b1-l1-s18",
+            "p17-b1-l1-s19",
+            "p17-b1-l1-s20",
+            "p17-b1-l1-s21",
+            "p17-b1-l1-s22",
+            "p17-b1-l1-s23",
+            "p17-b1-l1-s24",
+            "p17-b1-l1-s25",
+            "p17-b1-l1-s26",
+            "p17-b1-l1-s27",
+            "p17-b1-l1-s28",
+            "p17-b1-l1-s29",
+            "p17-b1-l1-s30",
+            "p17-b1-l1-s31",
+            "p17-b1-l1-s32",
+            "p17-b1-l2-s0",
+            "p17-b1-l2-s1",
+            "p17-b1-l2-s2",
+            "p17-b1-l2-s3",
+            "p17-b1-l2-s4",
+            "p17-b1-l2-s5",
+            "p17-b1-l2-s6",
+            "p17-b1-l2-s7",
+            "p17-b1-l2-s8",
+            "p17-b1-l2-s9",
+            "p17-b1-l2-s10",
+            "p17-b1-l2-s11",
+            "p17-b1-l2-s12",
+            "p17-b1-l2-s13",
+            "p17-b1-l2-s14",
+            "p17-b1-l2-s15",
+            "p17-b1-l2-s16",
+            "p17-b1-l2-s17",
+            "p17-b1-l2-s18",
+            "p17-b1-l2-s19",
+            "p17-b1-l2-s20",
+            "p17-b1-l2-s21",
+            "p17-b1-l2-s22",
+            "p17-b1-l2-s23",
+            "p17-b1-l2-s24",
+            "p17-b1-l2-s25",
+            "p17-b1-l2-s26",
+            "p17-b1-l3-s0",
+            "p17-b1-l3-s1",
+            "p17-b1-l3-s2",
+            "p17-b1-l3-s3",
+            "p17-b1-l3-s4",
+            "p17-b1-l3-s5",
+            "p17-b1-l3-s6",
+            "p17-b1-l3-s7",
+            "p17-b1-l3-s8",
+            "p17-b1-l3-s9",
+            "p17-b1-l3-s10",
+            "p17-b1-l3-s11",
+            "p17-b1-l3-s12",
+            "p17-b1-l3-s13",
+            "p17-b1-l3-s14",
+            "p17-b1-l3-s15",
+            "p17-b1-l3-s16",
+            "p17-b1-l3-s17",
+            "p17-b1-l3-s18",
+            "p17-b1-l3-s19",
+            "p17-b1-l3-s20",
+            "p17-b1-l3-s21",
+            "p17-b1-l3-s22",
+            "p17-b1-l3-s23",
+            "p17-b1-l3-s24",
+            "p17-b1-l3-s25",
+            "p17-b1-l3-s26",
+            "p17-b1-l3-s27",
+            "p17-b1-l3-s28",
+            "p17-b1-l3-s29",
+            "p17-b1-l3-s30",
+            "p17-b1-l3-s31",
+            "p17-b1-l3-s32",
+            "p17-b1-l3-s33",
+            "p17-b1-l3-s34",
+            "p17-b1-l3-s35",
+            "p17-b1-l3-s36",
+            "p17-b1-l4-s0",
+            "p17-b1-l4-s1",
+            "p17-b1-l4-s2"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 129.0294952392578,
+              "y0": 133.74241638183594,
+              "x1": 501.8181457519531,
+              "y1": 179.80111694335938
+            }
+          ],
+          "reading_order_start": 664,
+          "reading_order_end": 664
+        },
+        {
+          "page": 17,
+          "block_index": 2,
+          "line_ids": [
+            "p17-b2-l0"
+          ],
+          "span_ids": [
+            "p17-b2-l0-s0",
+            "p17-b2-l0-s1",
+            "p17-b2-l0-s2",
+            "p17-b2-l0-s3",
+            "p17-b2-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 129.0294952392578,
+              "y0": 200.86448669433594,
+              "x1": 311.1662902832031,
+              "y1": 209.39389038085938
+            }
+          ],
+          "reading_order_start": 665,
+          "reading_order_end": 665
+        },
+        {
+          "page": 17,
+          "block_index": 3,
+          "line_ids": [
+            "p17-b3-l0",
+            "p17-b3-l1"
+          ],
+          "span_ids": [
+            "p17-b3-l0-s0",
+            "p17-b3-l0-s1",
+            "p17-b3-l0-s2",
+            "p17-b3-l0-s3",
+            "p17-b3-l0-s4",
+            "p17-b3-l0-s5",
+            "p17-b3-l0-s6",
+            "p17-b3-l0-s7",
+            "p17-b3-l0-s8",
+            "p17-b3-l0-s9",
+            "p17-b3-l0-s10",
+            "p17-b3-l0-s11",
+            "p17-b3-l0-s12",
+            "p17-b3-l0-s13",
+            "p17-b3-l0-s14",
+            "p17-b3-l0-s15",
+            "p17-b3-l0-s16",
+            "p17-b3-l0-s17",
+            "p17-b3-l0-s18",
+            "p17-b3-l0-s19",
+            "p17-b3-l0-s20",
+            "p17-b3-l0-s21",
+            "p17-b3-l0-s22",
+            "p17-b3-l0-s23",
+            "p17-b3-l0-s24",
+            "p17-b3-l0-s25",
+            "p17-b3-l0-s26",
+            "p17-b3-l0-s27",
+            "p17-b3-l0-s28",
+            "p17-b3-l0-s29",
+            "p17-b3-l0-s30",
+            "p17-b3-l0-s31",
+            "p17-b3-l0-s32",
+            "p17-b3-l0-s33",
+            "p17-b3-l0-s34",
+            "p17-b3-l1-s0",
+            "p17-b3-l1-s1",
+            "p17-b3-l1-s2",
+            "p17-b3-l1-s3",
+            "p17-b3-l1-s4"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 129.0294952392578,
+              "y0": 230.45726013183594,
+              "x1": 501.73028564453125,
+              "y1": 248.39712524414062
+            }
+          ],
+          "reading_order_start": 666,
+          "reading_order_end": 666
+        },
+        {
+          "page": 17,
+          "block_index": 4,
+          "line_ids": [
+            "p17-b4-l0"
+          ],
+          "span_ids": [
+            "p17-b4-l0-s0",
+            "p17-b4-l0-s1",
+            "p17-b4-l0-s2",
+            "p17-b4-l0-s3",
+            "p17-b4-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 269.4604797363281,
+              "x1": 202.990478515625,
+              "y1": 277.9898986816406
+            }
+          ],
+          "reading_order_start": 667,
+          "reading_order_end": 667
+        },
+        {
+          "page": 17,
+          "block_index": 5,
+          "line_ids": [
+            "p17-b5-l0"
+          ],
+          "span_ids": [
+            "p17-b5-l0-s0",
+            "p17-b5-l0-s1",
+            "p17-b5-l0-s2",
+            "p17-b5-l0-s3",
+            "p17-b5-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 292.3073425292969,
+              "x1": 208.18487548828125,
+              "y1": 300.8367614746094
+            }
+          ],
+          "reading_order_start": 668,
+          "reading_order_end": 668
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-ff68fc46690f52df",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 17,
+          "block_index": 5,
+          "line_ids": [
+            "p17-b5-l0"
+          ],
+          "span_ids": [
+            "p17-b5-l0-s0",
+            "p17-b5-l0-s1",
+            "p17-b5-l0-s2",
+            "p17-b5-l0-s3",
+            "p17-b5-l0-s4"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 292.3073425292969,
+              "x1": 208.18487548828125,
+              "y1": 300.8367614746094
+            }
+          ],
+          "reading_order_start": 668,
+          "reading_order_end": 668
+        },
+        {
+          "page": 17,
+          "block_index": 6,
+          "line_ids": [
+            "p17-b6-l0"
+          ],
+          "span_ids": [
+            "p17-b6-l0-s0",
+            "p17-b6-l0-s1",
+            "p17-b6-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 315.1542053222656,
+              "x1": 180.856689453125,
+              "y1": 323.6836242675781
+            }
+          ],
+          "reading_order_start": 669,
+          "reading_order_end": 669
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-3f164e289e0dcdbe",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 17,
+          "block_index": 6,
+          "line_ids": [
+            "p17-b6-l0"
+          ],
+          "span_ids": [
+            "p17-b6-l0-s0",
+            "p17-b6-l0-s1",
+            "p17-b6-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 315.1542053222656,
+              "x1": 180.856689453125,
+              "y1": 323.6836242675781
+            }
+          ],
+          "reading_order_start": 669,
+          "reading_order_end": 669
+        },
+        {
+          "page": 17,
+          "block_index": 7,
+          "line_ids": [
+            "p17-b7-l0"
+          ],
+          "span_ids": [
+            "p17-b7-l0-s0",
+            "p17-b7-l0-s1",
+            "p17-b7-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 338.0573425292969,
+              "x1": 186.05108642578125,
+              "y1": 346.5867614746094
+            }
+          ],
+          "reading_order_start": 670,
+          "reading_order_end": 670
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-568354761569d897",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 17,
+          "block_index": 7,
+          "line_ids": [
+            "p17-b7-l0"
+          ],
+          "span_ids": [
+            "p17-b7-l0-s0",
+            "p17-b7-l0-s1",
+            "p17-b7-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 338.0573425292969,
+              "x1": 186.05108642578125,
+              "y1": 346.5867614746094
+            }
+          ],
+          "reading_order_start": 670,
+          "reading_order_end": 670
+        },
+        {
+          "page": 17,
+          "block_index": 8,
+          "line_ids": [
+            "p17-b8-l0"
+          ],
+          "span_ids": [
+            "p17-b8-l0-s0",
+            "p17-b8-l0-s1",
+            "p17-b8-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 360.9042053222656,
+              "x1": 186.7846221923828,
+              "y1": 369.4336242675781
+            }
+          ],
+          "reading_order_start": 671,
+          "reading_order_end": 671
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-26fb40260c73e426",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 17,
+          "block_index": 8,
+          "line_ids": [
+            "p17-b8-l0"
+          ],
+          "span_ids": [
+            "p17-b8-l0-s0",
+            "p17-b8-l0-s1",
+            "p17-b8-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 360.9042053222656,
+              "x1": 186.7846221923828,
+              "y1": 369.4336242675781
+            }
+          ],
+          "reading_order_start": 671,
+          "reading_order_end": 671
+        },
+        {
+          "page": 17,
+          "block_index": 9,
+          "line_ids": [
+            "p17-b9-l0"
+          ],
+          "span_ids": [
+            "p17-b9-l0-s0",
+            "p17-b9-l0-s1",
+            "p17-b9-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 383.7510681152344,
+              "x1": 183.67137145996094,
+              "y1": 392.2804870605469
+            }
+          ],
+          "reading_order_start": 672,
+          "reading_order_end": 672
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-7d97e2715a616850",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 17,
+          "block_index": 9,
+          "line_ids": [
+            "p17-b9-l0"
+          ],
+          "span_ids": [
+            "p17-b9-l0-s0",
+            "p17-b9-l0-s1",
+            "p17-b9-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 383.7510681152344,
+              "x1": 183.67137145996094,
+              "y1": 392.2804870605469
+            }
+          ],
+          "reading_order_start": 672,
+          "reading_order_end": 672
+        },
+        {
+          "page": 17,
+          "block_index": 10,
+          "line_ids": [
+            "p17-b10-l0"
+          ],
+          "span_ids": [
+            "p17-b10-l0-s0",
+            "p17-b10-l0-s1",
+            "p17-b10-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 144.22291564941406,
+              "y0": 406.6542053222656,
+              "x1": 190.87872314453125,
+              "y1": 415.1836242675781
+            }
+          ],
+          "reading_order_start": 673,
+          "reading_order_end": 673
+        },
+        {
+          "page": 17,
+          "block_index": 11,
+          "line_ids": [
+            "p17-b11-l0",
+            "p17-b11-l1"
+          ],
+          "span_ids": [
+            "p17-b11-l0-s0",
+            "p17-b11-l0-s1",
+            "p17-b11-l0-s2",
+            "p17-b11-l0-s3",
+            "p17-b11-l0-s4",
+            "p17-b11-l0-s5",
+            "p17-b11-l0-s6",
+            "p17-b11-l0-s7",
+            "p17-b11-l0-s8",
+            "p17-b11-l0-s9",
+            "p17-b11-l0-s10",
+            "p17-b11-l0-s11",
+            "p17-b11-l0-s12",
+            "p17-b11-l0-s13",
+            "p17-b11-l0-s14",
+            "p17-b11-l0-s15",
+            "p17-b11-l0-s16",
+            "p17-b11-l0-s17",
+            "p17-b11-l0-s18",
+            "p17-b11-l0-s19",
+            "p17-b11-l0-s20",
+            "p17-b11-l0-s21",
+            "p17-b11-l0-s22",
+            "p17-b11-l0-s23",
+            "p17-b11-l0-s24",
+            "p17-b11-l0-s25",
+            "p17-b11-l0-s26",
+            "p17-b11-l0-s27",
+            "p17-b11-l0-s28",
+            "p17-b11-l1-s0",
+            "p17-b11-l1-s1",
+            "p17-b11-l1-s2",
+            "p17-b11-l1-s3",
+            "p17-b11-l1-s4"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 129.0294952392578,
+              "y0": 436.2469482421875,
+              "x1": 501.7899169921875,
+              "y1": 454.13055419921875
+            }
+          ],
+          "reading_order_start": 674,
+          "reading_order_end": 674
+        },
+        {
+          "page": 17,
+          "block_index": 12,
+          "line_ids": [
+            "p17-b12-l0",
+            "p17-b12-l1"
+          ],
+          "span_ids": [
+            "p17-b12-l0-s0",
+            "p17-b12-l0-s1",
+            "p17-b12-l0-s2",
+            "p17-b12-l0-s3",
+            "p17-b12-l0-s4",
+            "p17-b12-l0-s5",
+            "p17-b12-l0-s6",
+            "p17-b12-l0-s7",
+            "p17-b12-l0-s8",
+            "p17-b12-l0-s9",
+            "p17-b12-l0-s10",
+            "p17-b12-l0-s11",
+            "p17-b12-l0-s12",
+            "p17-b12-l0-s13",
+            "p17-b12-l0-s14",
+            "p17-b12-l0-s15",
+            "p17-b12-l0-s16",
+            "p17-b12-l0-s17",
+            "p17-b12-l0-s18",
+            "p17-b12-l0-s19",
+            "p17-b12-l0-s20",
+            "p17-b12-l0-s21",
+            "p17-b12-l0-s22",
+            "p17-b12-l0-s23",
+            "p17-b12-l0-s24",
+            "p17-b12-l0-s25",
+            "p17-b12-l0-s26",
+            "p17-b12-l0-s27",
+            "p17-b12-l0-s28",
+            "p17-b12-l0-s29",
+            "p17-b12-l0-s30",
+            "p17-b12-l0-s31",
+            "p17-b12-l0-s32",
+            "p17-b12-l0-s33",
+            "p17-b12-l0-s34",
+            "p17-b12-l1-s0",
+            "p17-b12-l1-s1",
+            "p17-b12-l1-s2"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 129.0286407470703,
+              "y0": 475.1938781738281,
+              "x1": 501.720703125,
+              "y1": 493.1337890625
+            }
+          ],
+          "reading_order_start": 675,
+          "reading_order_end": 675
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-ea2b34e7b01967d7",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 17,
+          "block_index": 18,
+          "line_ids": [
+            "p17-b18-l0"
+          ],
+          "span_ids": [
+            "p17-b18-l0-s0",
+            "p17-b18-l0-s1",
+            "p17-b18-l0-s2",
+            "p17-b18-l0-s3",
+            "p17-b18-l0-s4",
+            "p17-b18-l0-s5",
+            "p17-b18-l0-s6",
+            "p17-b18-l0-s7",
+            "p17-b18-l0-s8",
+            "p17-b18-l0-s9",
+            "p17-b18-l0-s10",
+            "p17-b18-l0-s11",
+            "p17-b18-l0-s12",
+            "p17-b18-l0-s13",
+            "p17-b18-l0-s14",
+            "p17-b18-l0-s15",
+            "p17-b18-l0-s16",
+            "p17-b18-l0-s17",
+            "p17-b18-l0-s18",
+            "p17-b18-l0-s19",
+            "p17-b18-l0-s20",
+            "p17-b18-l0-s21",
+            "p17-b18-l0-s22",
+            "p17-b18-l0-s23",
+            "p17-b18-l0-s24",
+            "p17-b18-l0-s25",
+            "p17-b18-l0-s26",
+            "p17-b18-l0-s27",
+            "p17-b18-l0-s28",
+            "p17-b18-l0-s29",
+            "p17-b18-l0-s30",
+            "p17-b18-l0-s31",
+            "p17-b18-l0-s32",
+            "p17-b18-l0-s33",
+            "p17-b18-l0-s34",
+            "p17-b18-l0-s35",
+            "p17-b18-l0-s36"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 103.4592056274414,
+              "y0": 694.1922607421875,
+              "x1": 501.5774841308594,
+              "y1": 702.7216186523438
+            }
+          ],
+          "reading_order_start": 682,
+          "reading_order_end": 682
+        },
+        {
+          "page": 17,
+          "block_index": 19,
+          "line_ids": [
+            "p17-b19-l0"
+          ],
+          "span_ids": [
+            "p17-b19-l0-s0",
+            "p17-b19-l0-s1",
+            "p17-b19-l0-s2",
+            "p17-b19-l0-s3",
+            "p17-b19-l0-s4",
+            "p17-b19-l0-s5",
+            "p17-b19-l0-s6"
+          ],
+          "boxes": [
+            {
+              "page": 17,
+              "x0": 116.44181060791016,
+              "y0": 703.5464477539062,
+              "x1": 208.59349060058594,
+              "y1": 712.0758056640625
+            }
+          ],
+          "reading_order_start": 683,
+          "reading_order_end": 683
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-dac6c9541d01b863",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 19,
+          "block_index": 6,
+          "line_ids": [
+            "p19-b6-l2"
+          ],
+          "span_ids": [
+            "p19-b6-l2-s0",
+            "p19-b6-l2-s1",
+            "p19-b6-l2-s2",
+            "p19-b6-l2-s3",
+            "p19-b6-l2-s4",
+            "p19-b6-l2-s5",
+            "p19-b6-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 19,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 698,
+          "reading_order_end": 698
+        },
+        {
+          "page": 19,
+          "block_index": 6,
+          "line_ids": [
+            "p19-b6-l0"
+          ],
+          "span_ids": [
+            "p19-b6-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 19,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 699,
+          "reading_order_end": 699
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-2812c29b1d52e9cb",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 21,
+          "block_index": 36,
+          "line_ids": [
+            "p21-b36-l2"
+          ],
+          "span_ids": [
+            "p21-b36-l2-s0",
+            "p21-b36-l2-s1",
+            "p21-b36-l2-s2",
+            "p21-b36-l2-s3",
+            "p21-b36-l2-s4",
+            "p21-b36-l2-s5",
+            "p21-b36-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 21,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 714,
+          "reading_order_end": 714
+        },
+        {
+          "page": 21,
+          "block_index": 36,
+          "line_ids": [
+            "p21-b36-l0"
+          ],
+          "span_ids": [
+            "p21-b36-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 21,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 715,
+          "reading_order_end": 715
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-359ff061852c7b1d",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 21,
+          "block_index": 6,
+          "line_ids": [
+            "p21-b6-l1"
+          ],
+          "span_ids": [
+            "p21-b6-l1-s0",
+            "p21-b6-l1-s1",
+            "p21-b6-l1-s2"
+          ],
+          "boxes": [
+            {
+              "page": 21,
+              "x0": 120.45629119873047,
+              "y0": 227.5674285888672,
+              "x1": 170.33624267578125,
+              "y1": 236.09683227539062
+            }
+          ],
+          "reading_order_start": 724,
+          "reading_order_end": 724
+        },
+        {
+          "page": 21,
+          "block_index": 7,
+          "line_ids": [
+            "p21-b7-l0"
+          ],
+          "span_ids": [
+            "p21-b7-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 21,
+              "x0": 92.63339233398438,
+              "y0": 250.3008270263672,
+              "x1": 98.9366226196289,
+              "y1": 258.8302307128906
+            }
+          ],
+          "reading_order_start": 725,
+          "reading_order_end": 725
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-4af42c73ddf110e8",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 22,
+          "block_index": 22,
+          "line_ids": [
+            "p22-b22-l3"
+          ],
+          "span_ids": [
+            "p22-b22-l3-s0"
+          ],
+          "boxes": [
+            {
+              "page": 22,
+              "x0": 119.84520721435547,
+              "y0": 51.36979675292969,
+              "x1": 129.6113739013672,
+              "y1": 59.89919662475586
+            }
+          ],
+          "reading_order_start": 767,
+          "reading_order_end": 767
+        },
+        {
+          "page": 22,
+          "block_index": 0,
+          "line_ids": [
+            "p22-b0-l0"
+          ],
+          "span_ids": [
+            "p22-b0-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 22,
+              "x0": 92.74600219726562,
+              "y0": 75.97453308105469,
+              "x1": 111.65568542480469,
+              "y1": 84.5039291381836
+            }
+          ],
+          "reading_order_start": 768,
+          "reading_order_end": 768
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-a85338b4a125a63c",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 22,
+          "block_index": 10,
+          "line_ids": [
+            "p22-b10-l1",
+            "p22-b10-l2",
+            "p22-b10-l3",
+            "p22-b10-l4"
+          ],
+          "span_ids": [
+            "p22-b10-l1-s0",
+            "p22-b10-l2-s0",
+            "p22-b10-l2-s1",
+            "p22-b10-l2-s2",
+            "p22-b10-l2-s3",
+            "p22-b10-l2-s4",
+            "p22-b10-l2-s5",
+            "p22-b10-l2-s6",
+            "p22-b10-l2-s7",
+            "p22-b10-l2-s8",
+            "p22-b10-l2-s9",
+            "p22-b10-l2-s10",
+            "p22-b10-l2-s11",
+            "p22-b10-l2-s12",
+            "p22-b10-l2-s13",
+            "p22-b10-l2-s14",
+            "p22-b10-l2-s15",
+            "p22-b10-l2-s16",
+            "p22-b10-l2-s17",
+            "p22-b10-l2-s18",
+            "p22-b10-l2-s19",
+            "p22-b10-l2-s20",
+            "p22-b10-l2-s21",
+            "p22-b10-l2-s22",
+            "p22-b10-l2-s23",
+            "p22-b10-l2-s24",
+            "p22-b10-l2-s25",
+            "p22-b10-l2-s26",
+            "p22-b10-l2-s27",
+            "p22-b10-l2-s28",
+            "p22-b10-l2-s29",
+            "p22-b10-l2-s30",
+            "p22-b10-l2-s31",
+            "p22-b10-l2-s32",
+            "p22-b10-l2-s33",
+            "p22-b10-l2-s34",
+            "p22-b10-l2-s35",
+            "p22-b10-l2-s36",
+            "p22-b10-l3-s0",
+            "p22-b10-l3-s1",
+            "p22-b10-l3-s2",
+            "p22-b10-l3-s3",
+            "p22-b10-l3-s4",
+            "p22-b10-l3-s5",
+            "p22-b10-l3-s6",
+            "p22-b10-l3-s7",
+            "p22-b10-l3-s8",
+            "p22-b10-l3-s9",
+            "p22-b10-l3-s10",
+            "p22-b10-l3-s11",
+            "p22-b10-l3-s12",
+            "p22-b10-l3-s13",
+            "p22-b10-l3-s14",
+            "p22-b10-l3-s15",
+            "p22-b10-l3-s16",
+            "p22-b10-l3-s17",
+            "p22-b10-l3-s18",
+            "p22-b10-l3-s19",
+            "p22-b10-l3-s20",
+            "p22-b10-l3-s21",
+            "p22-b10-l3-s22",
+            "p22-b10-l3-s23",
+            "p22-b10-l3-s24",
+            "p22-b10-l3-s25",
+            "p22-b10-l3-s26",
+            "p22-b10-l3-s27",
+            "p22-b10-l3-s28",
+            "p22-b10-l3-s29",
+            "p22-b10-l3-s30",
+            "p22-b10-l3-s31",
+            "p22-b10-l3-s32",
+            "p22-b10-l4-s0",
+            "p22-b10-l4-s1",
+            "p22-b10-l4-s2",
+            "p22-b10-l4-s3",
+            "p22-b10-l4-s4"
+          ],
+          "boxes": [
+            {
+              "page": 22,
+              "x0": 120.56037139892578,
+              "y0": 390.72808837890625,
+              "x1": 502.0000915527344,
+              "y1": 427.3827209472656
+            }
+          ],
+          "reading_order_start": 789,
+          "reading_order_end": 789
+        },
+        {
+          "page": 22,
+          "block_index": 11,
+          "line_ids": [
+            "p22-b11-l0"
+          ],
+          "span_ids": [
+            "p22-b11-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 22,
+              "x0": 92.74697875976562,
+              "y0": 442.04046630859375,
+              "x1": 111.65666198730469,
+              "y1": 450.56988525390625
+            }
+          ],
+          "reading_order_start": 790,
+          "reading_order_end": 790
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-2501b8b5d972a3d5",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 23,
+          "block_index": 25,
+          "line_ids": [
+            "p23-b25-l2"
+          ],
+          "span_ids": [
+            "p23-b25-l2-s0",
+            "p23-b25-l2-s1",
+            "p23-b25-l2-s2",
+            "p23-b25-l2-s3",
+            "p23-b25-l2-s4",
+            "p23-b25-l2-s5",
+            "p23-b25-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 23,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 815,
+          "reading_order_end": 815
+        },
+        {
+          "page": 23,
+          "block_index": 25,
+          "line_ids": [
+            "p23-b25-l0"
+          ],
+          "span_ids": [
+            "p23-b25-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 23,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 816,
+          "reading_order_end": 816
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-c10552f4fa2b7e27",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 23,
+          "block_index": 25,
+          "line_ids": [
+            "p23-b25-l3"
+          ],
+          "span_ids": [
+            "p23-b25-l3-s0"
+          ],
+          "boxes": [
+            {
+              "page": 23,
+              "x0": 119.84520721435547,
+              "y0": 51.36979675292969,
+              "x1": 129.6113739013672,
+              "y1": 59.89919662475586
+            }
+          ],
+          "reading_order_start": 817,
+          "reading_order_end": 817
+        },
+        {
+          "page": 23,
+          "block_index": 0,
+          "line_ids": [
+            "p23-b0-l0"
+          ],
+          "span_ids": [
+            "p23-b0-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 23,
+              "x0": 92.74600219726562,
+              "y0": 75.97453308105469,
+              "x1": 111.65568542480469,
+              "y1": 84.5039291381836
+            }
+          ],
+          "reading_order_start": 818,
+          "reading_order_end": 818
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-ae93c5c84ddd71cb",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 23,
+          "block_index": 7,
+          "line_ids": [
+            "p23-b7-l1"
+          ],
+          "span_ids": [
+            "p23-b7-l1-s0",
+            "p23-b7-l1-s1",
+            "p23-b7-l1-s2"
+          ],
+          "boxes": [
+            {
+              "page": 23,
+              "x0": 120.56891632080078,
+              "y0": 239.86851501464844,
+              "x1": 241.0723114013672,
+              "y1": 248.39791870117188
+            }
+          ],
+          "reading_order_start": 833,
+          "reading_order_end": 833
+        },
+        {
+          "page": 23,
+          "block_index": 8,
+          "line_ids": [
+            "p23-b8-l0"
+          ],
+          "span_ids": [
+            "p23-b8-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 23,
+              "x0": 92.74600982666016,
+              "y0": 261.5809631347656,
+              "x1": 99.04924011230469,
+              "y1": 270.1103820800781
+            }
+          ],
+          "reading_order_start": 834,
+          "reading_order_end": 834
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-297092df0bc61309",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 23,
+          "block_index": 11,
+          "line_ids": [
+            "p23-b11-l0",
+            "p23-b11-l1"
+          ],
+          "span_ids": [
+            "p23-b11-l0-s0",
+            "p23-b11-l0-s1",
+            "p23-b11-l0-s2",
+            "p23-b11-l0-s3",
+            "p23-b11-l0-s4",
+            "p23-b11-l0-s5",
+            "p23-b11-l0-s6",
+            "p23-b11-l0-s7",
+            "p23-b11-l0-s8",
+            "p23-b11-l0-s9",
+            "p23-b11-l0-s10",
+            "p23-b11-l0-s11",
+            "p23-b11-l0-s12",
+            "p23-b11-l0-s13",
+            "p23-b11-l0-s14",
+            "p23-b11-l0-s15",
+            "p23-b11-l0-s16",
+            "p23-b11-l0-s17",
+            "p23-b11-l0-s18",
+            "p23-b11-l0-s19",
+            "p23-b11-l0-s20",
+            "p23-b11-l0-s21",
+            "p23-b11-l0-s22",
+            "p23-b11-l0-s23",
+            "p23-b11-l0-s24",
+            "p23-b11-l0-s25",
+            "p23-b11-l0-s26",
+            "p23-b11-l0-s27",
+            "p23-b11-l0-s28",
+            "p23-b11-l0-s29",
+            "p23-b11-l0-s30",
+            "p23-b11-l0-s31",
+            "p23-b11-l0-s32",
+            "p23-b11-l0-s33",
+            "p23-b11-l0-s34",
+            "p23-b11-l0-s35",
+            "p23-b11-l0-s36",
+            "p23-b11-l1-s0",
+            "p23-b11-l1-s1",
+            "p23-b11-l1-s2",
+            "p23-b11-l1-s3",
+            "p23-b11-l1-s4",
+            "p23-b11-l1-s5",
+            "p23-b11-l1-s6",
+            "p23-b11-l1-s7",
+            "p23-b11-l1-s8",
+            "p23-b11-l1-s9",
+            "p23-b11-l1-s10",
+            "p23-b11-l1-s11",
+            "p23-b11-l1-s12",
+            "p23-b11-l1-s13",
+            "p23-b11-l1-s14"
+          ],
+          "boxes": [
+            {
+              "page": 23,
+              "x0": 120.58170318603516,
+              "y0": 354.951416015625,
+              "x1": 501.8749084472656,
+              "y1": 372.8913269042969
+            }
+          ],
+          "reading_order_start": 839,
+          "reading_order_end": 839
+        },
+        {
+          "page": 23,
+          "block_index": 12,
+          "line_ids": [
+            "p23-b12-l0"
+          ],
+          "span_ids": [
+            "p23-b12-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 23,
+              "x0": 92.74600982666016,
+              "y0": 386.0743408203125,
+              "x1": 105.35246276855469,
+              "y1": 394.603759765625
+            }
+          ],
+          "reading_order_start": 840,
+          "reading_order_end": 840
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-953f6e170c1ac4f1",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 25,
+          "block_index": 24,
+          "line_ids": [
+            "p25-b24-l2"
+          ],
+          "span_ids": [
+            "p25-b24-l2-s0",
+            "p25-b24-l2-s1",
+            "p25-b24-l2-s2",
+            "p25-b24-l2-s3",
+            "p25-b24-l2-s4",
+            "p25-b24-l2-s5",
+            "p25-b24-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 25,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 875,
+          "reading_order_end": 875
+        },
+        {
+          "page": 25,
+          "block_index": 24,
+          "line_ids": [
+            "p25-b24-l0"
+          ],
+          "span_ids": [
+            "p25-b24-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 25,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 876,
+          "reading_order_end": 876
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-e217a6a103b5b6c1",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 25,
+          "block_index": 6,
+          "line_ids": [
+            "p25-b6-l1"
+          ],
+          "span_ids": [
+            "p25-b6-l1-s0",
+            "p25-b6-l1-s1",
+            "p25-b6-l1-s2",
+            "p25-b6-l1-s3",
+            "p25-b6-l1-s4",
+            "p25-b6-l1-s5",
+            "p25-b6-l1-s6",
+            "p25-b6-l1-s7",
+            "p25-b6-l1-s8",
+            "p25-b6-l1-s9",
+            "p25-b6-l1-s10"
+          ],
+          "boxes": [
+            {
+              "page": 25,
+              "x0": 120.58316802978516,
+              "y0": 279.7833557128906,
+              "x1": 306.728759765625,
+              "y1": 288.3127746582031
+            }
+          ],
+          "reading_order_start": 889,
+          "reading_order_end": 889
+        },
+        {
+          "page": 25,
+          "block_index": 7,
+          "line_ids": [
+            "p25-b7-l0"
+          ],
+          "span_ids": [
+            "p25-b7-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 25,
+              "x0": 92.74747467041016,
+              "y0": 302.1764221191406,
+              "x1": 111.65715026855469,
+              "y1": 310.7058410644531
+            }
+          ],
+          "reading_order_start": 890,
+          "reading_order_end": 890
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-5fa7f7fdc08b620d",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 26,
+          "block_index": 30,
+          "line_ids": [
+            "p26-b30-l3"
+          ],
+          "span_ids": [
+            "p26-b30-l3-s0"
+          ],
+          "boxes": [
+            {
+              "page": 26,
+              "x0": 119.84520721435547,
+              "y0": 51.36979675292969,
+              "x1": 129.6113739013672,
+              "y1": 59.89919662475586
+            }
+          ],
+          "reading_order_start": 927,
+          "reading_order_end": 927
+        },
+        {
+          "page": 26,
+          "block_index": 0,
+          "line_ids": [
+            "p26-b0-l0"
+          ],
+          "span_ids": [
+            "p26-b0-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 26,
+              "x0": 92.74600219726562,
+              "y0": 75.97453308105469,
+              "x1": 99.04923248291016,
+              "y1": 84.5039291381836
+            }
+          ],
+          "reading_order_start": 928,
+          "reading_order_end": 928
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-553a8dd65a906fef",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 26,
+          "block_index": 15,
+          "line_ids": [
+            "p26-b15-l1"
+          ],
+          "span_ids": [
+            "p26-b15-l1-s0",
+            "p26-b15-l1-s1",
+            "p26-b15-l1-s2",
+            "p26-b15-l1-s3",
+            "p26-b15-l1-s4",
+            "p26-b15-l1-s5",
+            "p26-b15-l1-s6",
+            "p26-b15-l1-s7",
+            "p26-b15-l1-s8",
+            "p26-b15-l1-s9",
+            "p26-b15-l1-s10"
+          ],
+          "boxes": [
+            {
+              "page": 26,
+              "x0": 120.58170318603516,
+              "y0": 442.997314453125,
+              "x1": 347.2079162597656,
+              "y1": 451.5267333984375
+            }
+          ],
+          "reading_order_start": 957,
+          "reading_order_end": 957
+        },
+        {
+          "page": 26,
+          "block_index": 16,
+          "line_ids": [
+            "p26-b16-l0"
+          ],
+          "span_ids": [
+            "p26-b16-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 26,
+              "x0": 92.74600982666016,
+              "y0": 466.1844787597656,
+              "x1": 111.65568542480469,
+              "y1": 474.7138977050781
+            }
+          ],
+          "reading_order_start": 958,
+          "reading_order_end": 958
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-822b7591d1519a41",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 27,
+          "block_index": 26,
+          "line_ids": [
+            "p27-b26-l2"
+          ],
+          "span_ids": [
+            "p27-b26-l2-s0",
+            "p27-b26-l2-s1",
+            "p27-b26-l2-s2",
+            "p27-b26-l2-s3",
+            "p27-b26-l2-s4",
+            "p27-b26-l2-s5",
+            "p27-b26-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 27,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 986,
+          "reading_order_end": 986
+        },
+        {
+          "page": 27,
+          "block_index": 26,
+          "line_ids": [
+            "p27-b26-l0"
+          ],
+          "span_ids": [
+            "p27-b26-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 27,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 987,
+          "reading_order_end": 987
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-8fb7aa108f455098",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 27,
+          "block_index": 26,
+          "line_ids": [
+            "p27-b26-l3"
+          ],
+          "span_ids": [
+            "p27-b26-l3-s0"
+          ],
+          "boxes": [
+            {
+              "page": 27,
+              "x0": 119.84520721435547,
+              "y0": 51.36979675292969,
+              "x1": 129.6113739013672,
+              "y1": 59.89919662475586
+            }
+          ],
+          "reading_order_start": 988,
+          "reading_order_end": 988
+        },
+        {
+          "page": 27,
+          "block_index": 0,
+          "line_ids": [
+            "p27-b0-l0"
+          ],
+          "span_ids": [
+            "p27-b0-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 27,
+              "x0": 92.74600219726562,
+              "y0": 75.97453308105469,
+              "x1": 99.04923248291016,
+              "y1": 84.5039291381836
+            }
+          ],
+          "reading_order_start": 989,
+          "reading_order_end": 989
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-0e201210cd3337de",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 27,
+          "block_index": 12,
+          "line_ids": [
+            "p27-b12-l1"
+          ],
+          "span_ids": [
+            "p27-b12-l1-s0",
+            "p27-b12-l1-s1",
+            "p27-b12-l1-s2",
+            "p27-b12-l1-s3",
+            "p27-b12-l1-s4",
+            "p27-b12-l1-s5",
+            "p27-b12-l1-s6",
+            "p27-b12-l1-s7",
+            "p27-b12-l1-s8",
+            "p27-b12-l1-s9",
+            "p27-b12-l1-s10"
+          ],
+          "boxes": [
+            {
+              "page": 27,
+              "x0": 120.58170318603516,
+              "y0": 409.6640319824219,
+              "x1": 306.727294921875,
+              "y1": 418.1934509277344
+            }
+          ],
+          "reading_order_start": 1013,
+          "reading_order_end": 1013
+        },
+        {
+          "page": 27,
+          "block_index": 13,
+          "line_ids": [
+            "p27-b13-l0"
+          ],
+          "span_ids": [
+            "p27-b13-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 27,
+              "x0": 92.74600982666016,
+              "y0": 436.0821533203125,
+              "x1": 111.65568542480469,
+              "y1": 444.611572265625
+            }
+          ],
+          "reading_order_start": 1014,
+          "reading_order_end": 1014
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-be1131aa8843816a",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 28,
+          "block_index": 17,
+          "line_ids": [
+            "p28-b17-l3"
+          ],
+          "span_ids": [
+            "p28-b17-l3-s0"
+          ],
+          "boxes": [
+            {
+              "page": 28,
+              "x0": 119.84520721435547,
+              "y0": 51.36979675292969,
+              "x1": 129.6113739013672,
+              "y1": 59.89919662475586
+            }
+          ],
+          "reading_order_start": 1042,
+          "reading_order_end": 1042
+        },
+        {
+          "page": 28,
+          "block_index": 0,
+          "line_ids": [
+            "p28-b0-l0"
+          ],
+          "span_ids": [
+            "p28-b0-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 28,
+              "x0": 92.74600219726562,
+              "y0": 75.97453308105469,
+              "x1": 111.65568542480469,
+              "y1": 84.5039291381836
+            }
+          ],
+          "reading_order_start": 1043,
+          "reading_order_end": 1043
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-8868276e9d415831",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 29,
+          "block_index": 18,
+          "line_ids": [
+            "p29-b18-l2"
+          ],
+          "span_ids": [
+            "p29-b18-l2-s0",
+            "p29-b18-l2-s1",
+            "p29-b18-l2-s2",
+            "p29-b18-l2-s3",
+            "p29-b18-l2-s4",
+            "p29-b18-l2-s5",
+            "p29-b18-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 29,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1077,
+          "reading_order_end": 1077
+        },
+        {
+          "page": 29,
+          "block_index": 18,
+          "line_ids": [
+            "p29-b18-l0"
+          ],
+          "span_ids": [
+            "p29-b18-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 29,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1078,
+          "reading_order_end": 1078
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-d407e17e8d2e2a60",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 29,
+          "block_index": 18,
+          "line_ids": [
+            "p29-b18-l3"
+          ],
+          "span_ids": [
+            "p29-b18-l3-s0"
+          ],
+          "boxes": [
+            {
+              "page": 29,
+              "x0": 119.84520721435547,
+              "y0": 51.36979675292969,
+              "x1": 129.6113739013672,
+              "y1": 59.89919662475586
+            }
+          ],
+          "reading_order_start": 1079,
+          "reading_order_end": 1079
+        },
+        {
+          "page": 29,
+          "block_index": 0,
+          "line_ids": [
+            "p29-b0-l0"
+          ],
+          "span_ids": [
+            "p29-b0-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 29,
+              "x0": 92.74600219726562,
+              "y0": 75.97453308105469,
+              "x1": 103.57833862304688,
+              "y1": 84.5039291381836
+            }
+          ],
+          "reading_order_start": 1080,
+          "reading_order_end": 1080
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-44b32e8f86b61d26",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 31,
+          "block_index": 19,
+          "line_ids": [
+            "p31-b19-l2"
+          ],
+          "span_ids": [
+            "p31-b19-l2-s0",
+            "p31-b19-l2-s1",
+            "p31-b19-l2-s2",
+            "p31-b19-l2-s3",
+            "p31-b19-l2-s4",
+            "p31-b19-l2-s5",
+            "p31-b19-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 31,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1127,
+          "reading_order_end": 1127
+        },
+        {
+          "page": 31,
+          "block_index": 19,
+          "line_ids": [
+            "p31-b19-l0"
+          ],
+          "span_ids": [
+            "p31-b19-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 31,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1128,
+          "reading_order_end": 1128
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-840972aaf35ce482",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 33,
+          "block_index": 24,
+          "line_ids": [
+            "p33-b24-l2"
+          ],
+          "span_ids": [
+            "p33-b24-l2-s0",
+            "p33-b24-l2-s1",
+            "p33-b24-l2-s2",
+            "p33-b24-l2-s3",
+            "p33-b24-l2-s4",
+            "p33-b24-l2-s5",
+            "p33-b24-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 33,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1180,
+          "reading_order_end": 1180
+        },
+        {
+          "page": 33,
+          "block_index": 24,
+          "line_ids": [
+            "p33-b24-l0"
+          ],
+          "span_ids": [
+            "p33-b24-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 33,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1181,
+          "reading_order_end": 1181
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-94c3491398c977ef",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 35,
+          "block_index": 30,
+          "line_ids": [
+            "p35-b30-l2"
+          ],
+          "span_ids": [
+            "p35-b30-l2-s0",
+            "p35-b30-l2-s1",
+            "p35-b30-l2-s2",
+            "p35-b30-l2-s3",
+            "p35-b30-l2-s4",
+            "p35-b30-l2-s5",
+            "p35-b30-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 35,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1249,
+          "reading_order_end": 1249
+        },
+        {
+          "page": 35,
+          "block_index": 30,
+          "line_ids": [
+            "p35-b30-l0"
+          ],
+          "span_ids": [
+            "p35-b30-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 35,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1250,
+          "reading_order_end": 1250
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-8793ec3a316415f8",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 36,
+          "block_index": 21,
+          "line_ids": [
+            "p36-b21-l3"
+          ],
+          "span_ids": [
+            "p36-b21-l3-s0"
+          ],
+          "boxes": [
+            {
+              "page": 36,
+              "x0": 119.84520721435547,
+              "y0": 51.36979675292969,
+              "x1": 129.6113739013672,
+              "y1": 59.89919662475586
+            }
+          ],
+          "reading_order_start": 1286,
+          "reading_order_end": 1286
+        },
+        {
+          "page": 36,
+          "block_index": 0,
+          "line_ids": [
+            "p36-b0-l0",
+            "p36-b0-l1"
+          ],
+          "span_ids": [
+            "p36-b0-l0-s0",
+            "p36-b0-l1-s0"
+          ],
+          "boxes": [
+            {
+              "page": 36,
+              "x0": 92.74600219726562,
+              "y0": 75.97453308105469,
+              "x1": 157.21804809570312,
+              "y1": 84.5039291381836
+            }
+          ],
+          "reading_order_start": 1287,
+          "reading_order_end": 1287
+        },
+        {
+          "page": 36,
+          "block_index": 1,
+          "line_ids": [
+            "p36-b1-l0",
+            "p36-b1-l1"
+          ],
+          "span_ids": [
+            "p36-b1-l0-s0",
+            "p36-b1-l0-s1",
+            "p36-b1-l0-s2",
+            "p36-b1-l0-s3",
+            "p36-b1-l0-s4",
+            "p36-b1-l0-s5",
+            "p36-b1-l0-s6",
+            "p36-b1-l0-s7",
+            "p36-b1-l0-s8",
+            "p36-b1-l0-s9",
+            "p36-b1-l0-s10",
+            "p36-b1-l0-s11",
+            "p36-b1-l0-s12",
+            "p36-b1-l0-s13",
+            "p36-b1-l0-s14",
+            "p36-b1-l0-s15",
+            "p36-b1-l0-s16",
+            "p36-b1-l0-s17",
+            "p36-b1-l0-s18",
+            "p36-b1-l0-s19",
+            "p36-b1-l0-s20",
+            "p36-b1-l0-s21",
+            "p36-b1-l0-s22",
+            "p36-b1-l0-s23",
+            "p36-b1-l0-s24",
+            "p36-b1-l0-s25",
+            "p36-b1-l0-s26",
+            "p36-b1-l0-s27",
+            "p36-b1-l0-s28",
+            "p36-b1-l0-s29",
+            "p36-b1-l0-s30",
+            "p36-b1-l0-s31",
+            "p36-b1-l0-s32",
+            "p36-b1-l0-s33",
+            "p36-b1-l0-s34",
+            "p36-b1-l1-s0",
+            "p36-b1-l1-s1",
+            "p36-b1-l1-s2",
+            "p36-b1-l1-s3",
+            "p36-b1-l1-s4",
+            "p36-b1-l1-s5",
+            "p36-b1-l1-s6",
+            "p36-b1-l1-s7",
+            "p36-b1-l1-s8"
+          ],
+          "boxes": [
+            {
+              "page": 36,
+              "x0": 92.74600982666016,
+              "y0": 102.44981384277344,
+              "x1": 501.6710205078125,
+              "y1": 120.3333969116211
+            }
+          ],
+          "reading_order_start": 1288,
+          "reading_order_end": 1288
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-f6679a38cbcbc9cb",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 37,
+          "block_index": 5,
+          "line_ids": [
+            "p37-b5-l2"
+          ],
+          "span_ids": [
+            "p37-b5-l2-s0",
+            "p37-b5-l2-s1",
+            "p37-b5-l2-s2",
+            "p37-b5-l2-s3",
+            "p37-b5-l2-s4",
+            "p37-b5-l2-s5",
+            "p37-b5-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 37,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1309,
+          "reading_order_end": 1309
+        },
+        {
+          "page": 37,
+          "block_index": 5,
+          "line_ids": [
+            "p37-b5-l0"
+          ],
+          "span_ids": [
+            "p37-b5-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 37,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1310,
+          "reading_order_end": 1310
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-dc3ba8ba0cc9a553",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 37,
+          "block_index": 5,
+          "line_ids": [
+            "p37-b5-l3"
+          ],
+          "span_ids": [
+            "p37-b5-l3-s0"
+          ],
+          "boxes": [
+            {
+              "page": 37,
+              "x0": 119.84520721435547,
+              "y0": 51.36979675292969,
+              "x1": 129.6113739013672,
+              "y1": 59.89919662475586
+            }
+          ],
+          "reading_order_start": 1311,
+          "reading_order_end": 1311
+        },
+        {
+          "page": 37,
+          "block_index": 0,
+          "line_ids": [
+            "p37-b0-l0",
+            "p37-b0-l1",
+            "p37-b0-l2"
+          ],
+          "span_ids": [
+            "p37-b0-l0-s0",
+            "p37-b0-l0-s1",
+            "p37-b0-l0-s2",
+            "p37-b0-l0-s3",
+            "p37-b0-l0-s4",
+            "p37-b0-l0-s5",
+            "p37-b0-l0-s6",
+            "p37-b0-l0-s7",
+            "p37-b0-l0-s8",
+            "p37-b0-l0-s9",
+            "p37-b0-l0-s10",
+            "p37-b0-l0-s11",
+            "p37-b0-l0-s12",
+            "p37-b0-l0-s13",
+            "p37-b0-l0-s14",
+            "p37-b0-l0-s15",
+            "p37-b0-l0-s16",
+            "p37-b0-l0-s17",
+            "p37-b0-l0-s18",
+            "p37-b0-l0-s19",
+            "p37-b0-l0-s20",
+            "p37-b0-l0-s21",
+            "p37-b0-l0-s22",
+            "p37-b0-l0-s23",
+            "p37-b0-l0-s24",
+            "p37-b0-l0-s25",
+            "p37-b0-l0-s26",
+            "p37-b0-l0-s27",
+            "p37-b0-l0-s28",
+            "p37-b0-l0-s29",
+            "p37-b0-l0-s30",
+            "p37-b0-l0-s31",
+            "p37-b0-l0-s32",
+            "p37-b0-l0-s33",
+            "p37-b0-l0-s34",
+            "p37-b0-l0-s35",
+            "p37-b0-l0-s36",
+            "p37-b0-l0-s37",
+            "p37-b0-l0-s38",
+            "p37-b0-l1-s0",
+            "p37-b0-l1-s1",
+            "p37-b0-l1-s2",
+            "p37-b0-l1-s3",
+            "p37-b0-l1-s4",
+            "p37-b0-l1-s5",
+            "p37-b0-l1-s6",
+            "p37-b0-l1-s7",
+            "p37-b0-l1-s8",
+            "p37-b0-l1-s9",
+            "p37-b0-l1-s10",
+            "p37-b0-l1-s11",
+            "p37-b0-l1-s12",
+            "p37-b0-l1-s13",
+            "p37-b0-l1-s14",
+            "p37-b0-l1-s15",
+            "p37-b0-l1-s16",
+            "p37-b0-l1-s17",
+            "p37-b0-l1-s18",
+            "p37-b0-l1-s19",
+            "p37-b0-l1-s20",
+            "p37-b0-l1-s21",
+            "p37-b0-l1-s22",
+            "p37-b0-l1-s23",
+            "p37-b0-l1-s24",
+            "p37-b0-l1-s25",
+            "p37-b0-l1-s26",
+            "p37-b0-l1-s27",
+            "p37-b0-l1-s28",
+            "p37-b0-l1-s29",
+            "p37-b0-l1-s30",
+            "p37-b0-l1-s31",
+            "p37-b0-l1-s32",
+            "p37-b0-l2-s0",
+            "p37-b0-l2-s1",
+            "p37-b0-l2-s2",
+            "p37-b0-l2-s3",
+            "p37-b0-l2-s4"
+          ],
+          "boxes": [
+            {
+              "page": 37,
+              "x0": 92.74600219726562,
+              "y0": 75.97453308105469,
+              "x1": 501.7820129394531,
+              "y1": 103.2685775756836
+            }
+          ],
+          "reading_order_start": 1312,
+          "reading_order_end": 1312
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-10c9493f8c9a019f",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 39,
+          "block_index": 15,
+          "line_ids": [
+            "p39-b15-l2"
+          ],
+          "span_ids": [
+            "p39-b15-l2-s0",
+            "p39-b15-l2-s1",
+            "p39-b15-l2-s2",
+            "p39-b15-l2-s3",
+            "p39-b15-l2-s4",
+            "p39-b15-l2-s5",
+            "p39-b15-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 39,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1341,
+          "reading_order_end": 1341
+        },
+        {
+          "page": 39,
+          "block_index": 15,
+          "line_ids": [
+            "p39-b15-l0"
+          ],
+          "span_ids": [
+            "p39-b15-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 39,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1342,
+          "reading_order_end": 1342
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-87f74e46b5cd9815",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 41,
+          "block_index": 38,
+          "line_ids": [
+            "p41-b38-l2"
+          ],
+          "span_ids": [
+            "p41-b38-l2-s0",
+            "p41-b38-l2-s1",
+            "p41-b38-l2-s2",
+            "p41-b38-l2-s3",
+            "p41-b38-l2-s4",
+            "p41-b38-l2-s5",
+            "p41-b38-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 41,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1415,
+          "reading_order_end": 1415
+        },
+        {
+          "page": 41,
+          "block_index": 38,
+          "line_ids": [
+            "p41-b38-l0"
+          ],
+          "span_ids": [
+            "p41-b38-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 41,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1416,
+          "reading_order_end": 1416
+        }
+      ]
+    },
+    {
+      "boundaryId": "paragraphboundary-deb79f2914c4b5ab",
+      "reason": "The boundary lacks sufficient generalized deterministic evidence for merge or retention.",
+      "evidence": [
+        "No validated deterministic rule matched; the original boundary is retained."
+      ],
+      "source": [
+        {
+          "page": 43,
+          "block_index": 40,
+          "line_ids": [
+            "p43-b40-l2"
+          ],
+          "span_ids": [
+            "p43-b40-l2-s0",
+            "p43-b40-l2-s1",
+            "p43-b40-l2-s2",
+            "p43-b40-l2-s3",
+            "p43-b40-l2-s4",
+            "p43-b40-l2-s5",
+            "p43-b40-l2-s6"
+          ],
+          "boxes": [
+            {
+              "page": 43,
+              "x0": 224.1288299560547,
+              "y0": 50.286773681640625,
+              "x1": 370.5179748535156,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1568,
+          "reading_order_end": 1568
+        },
+        {
+          "page": 43,
+          "block_index": 40,
+          "line_ids": [
+            "p43-b40-l0"
+          ],
+          "span_ids": [
+            "p43-b40-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 43,
+              "x0": 508.5317687988281,
+              "y0": 50.286773681640625,
+              "x1": 553.2852172851562,
+              "y1": 59.88227462768555
+            }
+          ],
+          "reading_order_start": 1569,
+          "reading_order_end": 1569
+        }
+      ]
+    }
+  ],
+  "gates": {
+    "pagesProcessed": true,
+    "sourceSpanCoverage": true,
+    "orderedTokens": true,
+    "articles": true,
+    "annexes": true,
+    "page4FalseTableEliminated": true,
+    "page40FinalRowRetained": true,
+    "page41TableRetained": true,
+    "crossPageContinuity": true,
+    "repeatedHeadersExplicit": true,
+    "sourceOrder": true,
+    "noUnresolvedParagraphAmbiguities": false
+  },
+  "newMaterialStructuralDefects": [
+    "noUnresolvedParagraphAmbiguities"
+  ],
+  "productionChanged": false,
+  "aiDependency": false,
+  "sdlxliffGenerated": false
+}

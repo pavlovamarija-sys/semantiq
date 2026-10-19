@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="TW4Win 2.0 Format" datatype="rtf" segtype="sentence" adminlang="EN-GB" srclang="EN-GB" creationdate="20211010T215532Z" creationid="Petreski-PC\Petreski">
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32016R1237</prop>
+    <prop type="x-SourceTMX">32016R1237_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">ac0170269fd6dace35ecb12fe054103a84cd7881df3928d3bd7c8d1fccb72dec</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">1</prop>
+  </header>
+  <body>
+    <tu creationdate="20191009T231812Z" creationid="Petreski-PC\Petreski" changedate="20211010T215648Z" changeid="Petreski-PC\Petreski" lastusagedate="20211010T215648Z">
+      <tuv xml:lang="EN-GB">
+        <seg>II</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>II</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1237</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

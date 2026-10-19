@@ -1,0 +1,29 @@
+{
+  "classification": "PARTIAL_ACTUAL_BYTES_VERIFIED_DOCX_DEFECT",
+  "generation_id": "0aef4e29-711a-4cd1-9e9d-1d3f4bc560a2",
+  "run_id": "7ec58b3d-5829-48da-83e5-9146097dc06b",
+  "generation_status": "completed",
+  "validation_status": "PASS",
+  "run_status": "available",
+  "source_generation_id": "01eb331b-427d-4e77-b9ab-e40412bdef0a",
+  "source_run_id": "63a18859-19eb-4b91-afc3-0221b0544f1a",
+  "checkpoint_count": 27,
+  "translation_count": 265,
+  "mapping_count": 265,
+  "protected_code_count": 3,
+  "checkpoint_issues": 0,
+  "translation_issues": 0,
+  "protected_code_issues": 0,
+  "source_checkpoint_differences": 0,
+  "source_translation_differences": 0,
+  "input_tokens_preserved": 17890,
+  "output_tokens_preserved": 23432,
+  "provider_calls_allowed": false,
+  "idempotency": {"matching_generations":1,"matching_runs":1,"status":"PASS"},
+  "artifacts": [
+    {"id":"45d9ddca-a58b-46c7-9cf9-549560aa9037","type":"STUDIO_SDLXLIFF_MK1","status":"available","sha256":"2c00162dd6545a51f23fcbf1fe2df8c60a11ac0d4c95abd67614703517ad5639","byte_size":282648,"actual_byte_readback":"PASS"},
+    {"id":"d67fe184-9227-40e1-81ef-082f6249608a","type":"TARGET_DOCX","status":"available","sha256":"0cfaa6d001f2f11a102298badc596880a5dbc6a27a75b4addf534535b6972ede","byte_size":887584,"actual_byte_readback":"PASS_WITH_STRUCTURAL_DEFECT"}
+  ],
+  "historical_failed_generations_preserved": true,
+  "remaining_blocker": "Three protected line-break TUs contain two DOCX w:br elements instead of one; a new immutable corrected output is required."
+}

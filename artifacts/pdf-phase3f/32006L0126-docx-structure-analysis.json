@@ -1,0 +1,39 @@
+{
+  "status": "PASS",
+  "paragraphs": 1443,
+  "nonEmptyParagraphs": 1398,
+  "nativeTables": 5,
+  "tableCells": 264,
+  "multiParagraphCells": 0,
+  "allLogicalCellsOneParagraph": true,
+  "controlledLineBreaks": 4,
+  "sections": 1,
+  "xml": {
+    "status": "PASS",
+    "requiredPartsPresent": true,
+    "documentXmlBytes": 210223,
+    "documentRelationships": 8,
+    "xmlTables": 5,
+    "xmlParagraphs": 1443,
+    "xmlTextNodes": 1402,
+    "xmlBreaks": 46,
+    "xmlLineBreaks": 4,
+    "xmlPageBreaks": 42,
+    "sectionProperties": 1,
+    "packageParts": [
+      "word/_rels/document.xml.rels",
+      "word/document.xml",
+      "word/fontTable.xml",
+      "word/numbering.xml",
+      "word/settings.xml",
+      "word/styles.xml",
+      "word/stylesWithEffects.xml",
+      "word/theme/theme1.xml",
+      "word/webSettings.xml"
+    ]
+  },
+  "physicalTables": 5,
+  "logicalTables": 3,
+  "rows": 128,
+  "cells": 264
+}

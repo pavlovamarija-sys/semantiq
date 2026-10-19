@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210601T164002Z" creationid="NBRM\biljanada">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">TM_32014L0110_Сашенка Граматова_МК1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32014L0110</prop>
+    <prop type="x-SourceTMX">32014L0110_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">704bdeb98ffbdb76e665fded643c763c0f6923d230a10d7171da35e72f5fd5e1</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">11</prop>
+  </header>
+  <body>
+    <tu creationdate="20210601T112117Z" creationid="NBRM\BiljanaDS" changedate="20210601T112117Z" changeid="NBRM\BiljanaDS" lastusagedate="20210601T170650Z" usagecount="2">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>DIRECTIVES</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВИ</seg>
+      </tuv>
+      <prop type="x-CELEX">32014L0110</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T121932Z" creationid="NBRM\BiljanaDS" changedate="20210601T121932Z" changeid="NBRM\BiljanaDS" lastusagedate="20210604T161940Z" usagecount="3">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">2094311973019752702, -693899598895376172</prop>
+      <prop type="x-ContextContent">(Text with EEA relevance) |  | (Текст со важност за ЕЕО) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32014L0110</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T121934Z" creationid="NBRM\BiljanaDS" changedate="20210601T121934Z" changeid="NBRM\BiljanaDS" lastusagedate="20210604T161942Z" usagecount="3">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-ContextContent">THE EUROPEAN COMMISSION, |  | ЕВРОПСКАТА КОМИСИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>иИмајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32014L0110</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T121945Z" creationid="NBRM\BiljanaDS" changedate="20210601T121945Z" changeid="NBRM\BiljanaDS" lastusagedate="20210604T161944Z" usagecount="3">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">7864611915906308453, -2480711391596308291</prop>
+      <prop type="x-ContextContent"> OJ L 269, 10.10.2013, p. 1. | AgEAAwEBAQI1OQA= |  Сл. весник L 269, 10.10.2013, стр. 1. | AgEAAwEBAQI1OQA=</prop>
+      <prop type="x-Context">7864611915906308453, 506154693127787546</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>сСо оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32014L0110</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T133446Z" creationid="NBRM\BiljanaDS" changedate="20210601T133446Z" changeid="NBRM\BiljanaDS" lastusagedate="20210601T170749Z" usagecount="1">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">7619758583707291269, 910078981109873891</prop>
+      <prop type="x-ContextContent">They shall forthwith communicate to the Commission the text of those provisions. |  | Тие веднаш ја известуваат Комисијата за текстот на тие одредби. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Кога земјите членки ги донесуваат овие одредби, тие содржат упатување кон оваа директива или се придружени со таквото упатување при нивното официјално објавување.</seg>
+      </tuv>
+      <prop type="x-CELEX">32014L0110</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T134136Z" creationid="NBRM\BiljanaDS" changedate="20210601T134136Z" changeid="NBRM\BiljanaDS" lastusagedate="20210601T170750Z" usagecount="1">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">-7994379849154279760, 14144368376647002</prop>
+      <prop type="x-ContextContent">When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. |  | Кога земјите членки ги донесуваат овие одредби, тие содржат упатување кон оваа директива или се придружени со таквото упатување при нивното официјално објавување. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall determine how such reference is to be made.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Земјите членки одредуваат како ќе се изготви тоа упатување.</seg>
+      </tuv>
+      <prop type="x-CELEX">32014L0110</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T134322Z" creationid="NBRM\BiljanaDS" changedate="20210601T134322Z" changeid="NBRM\BiljanaDS" lastusagedate="20210601T170751Z" usagecount="1">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">-5759266512045740712, -8230726614799579412</prop>
+      <prop type="x-ContextContent">Member States shall determine how such reference is to be made. |  | Земјите членки одредуваат како ќе се изготви тоа упатување. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Земјите членки го доставуваат до Комисијата текстот на главните одредби од националното законодавство што гисе донесуваат во областа регулирана што ја опфаќасо оваа директи</seg>
+      </tuv>
+      <prop type="x-CELEX">32014L0110</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T134537Z" creationid="NBRM\BiljanaDS" changedate="20210601T134537Z" changeid="NBRM\BiljanaDS" lastusagedate="20210601T170753Z" usagecount="1">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Directive shall enter into force on the twentieth day following that of its publication in the <bpt i="1" type="135" />Official Journal of the European Union<ept i="1" />.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ва. Член 3 Оваа директива влегува во сила на дванаесеттиот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32014L0110</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T134623Z" creationid="NBRM\BiljanaDS" changedate="20210601T134623Z" changeid="NBRM\BiljanaDS" lastusagedate="20210601T170755Z" usagecount="1">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Directive is addressed to the Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 4 Оваа директива се однесува на земјите членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32014L0110</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T134642Z" creationid="NBRM\BiljanaDS" changedate="20210601T134642Z" changeid="NBRM\BiljanaDS" lastusagedate="20210604T162006Z" usagecount="3">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">-6303317180498091632, -5494254857448318079</prop>
+      <prop type="x-ContextContent">Done at Brussels, 20 November 2020. |  | Брисел, 20 ноември 2020 година. | </prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Commission</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Комисијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32014L0110</prop>
+      <prop type="x-SourceTUIndex">25</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210322T222009Z" creationid="sasPC\Sash" changedate="20210601T111445Z" changeid="NBRM\BiljanaDS" lastusagedate="20210604T162007Z" usagecount="3">
+      <prop type="x-LastUsedBy">NBRM\BiljanaDS</prop>
+      <prop type="x-Context">1956864951517053623, 131080963057861854</prop>
+      <prop type="x-ContextContent">For the Commission |  | За Комисијата | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The President</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претседател</seg>
+      </tuv>
+      <prop type="x-CELEX">32014L0110</prop>
+      <prop type="x-SourceTUIndex">26</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

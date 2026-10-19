@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210831T122131Z" creationid="sasPC\Sash">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">TM_32020R1641_MK1_Сашенка Граматова-Љубен</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32020R1641</prop>
+    <prop type="x-SourceTMX">32020R1641_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">82def9e0b7888bc63b90ce642d9e74f12711a445c7a8d2271e4dbf3578ba6a62</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">15</prop>
+  </header>
+  <body>
+    <tu creationdate="20210604T174209Z" creationid="sasPC\Sash" changedate="20210831T122142Z" changeid="sasPC\Sash" lastusagedate="20210831T122142Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING REGULATION (EU) 2020/1641</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2020/1641 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T122159Z" creationid="sasPC\Sash" changedate="20210831T175338Z" changeid="sasPC\Sash" lastusagedate="20210831T175338Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">7353582418551784268, 1901036649548470141</prop>
+      <prop type="x-ContextContent">COMMISSION IMPLEMENTING REGULATION (EU) 2020/1641 |  | РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2020/1641 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 5 November 2020</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 5 ноември 2020 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T122218Z" creationid="sasPC\Sash" changedate="20210831T173932Z" changeid="sasPC\Sash" lastusagedate="20210831T173932Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>regarding imports of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods for human consumption from the United States of America</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за увоз на живи, разладени, замрзнати или преработени школки со два капаци, иглокожи, плаштари и морски полжави за исхрана на луѓе од Соединетите Американски Држави</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T121931Z" creationid="sasPC\Sash" changedate="20210831T133643Z" changeid="sasPC\Sash" lastusagedate="20210831T133643Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Text with EEA relevance)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Текст со важност за ЕЕО)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210827T132501Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210829T131146Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210901T122036Z" usagecount="7">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">5254640285077942680, -4987327602006405272</prop>
+      <prop type="x-ContextContent">References to those repealed acts shall be constructed as references to this Regulation. |  | Упатувањата на тие укинати акти се конструираат како упатувања кон оваа регулатива. | </prop>
+      <prop type="x-Context">355285130213557761, -1261250206581146213</prop>
+      <prop type="x-ContextContent">Each consignment of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods intended for human consumption, as referred to Article 1, shall enter the Union only if they are accompanied by an official certificate duly completed in accordance with the model set out in the Annex. |  | Секоја пратка со живи, разладени, замрзнати или преработени школки со два капаци, иглокожи, плаштари и морски полжави за исхрана на луѓе како што е наведено во член 1, влегуваат во Унијата само ако се придружени со службен сертификат прописно пополнет во согласност со образецот од анексот. | </prop>
+      <prop type="x-Context">881798650088529064, -4895150483124651513</prop>
+      <prop type="x-ContextContent">This Regulation lays down rules concerning the entry into the Union of consignments of live, chilled, frozen or processed bivalve molluscs, echinoderms, tunicates and marine gastropods intended for human consumption from the States of Massachusetts and Washington of the United States. |  | Оваа регулатива ги утврдува правилата за влез во Унијата на пратки со живи, разладени, замрзнати или преработени школки со два капаци, иглокожи, плаштари и морски полжави за исхрана на луѓе од државите Масачусетс и Вашингтон на Соединетите Американски Држави. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 2</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 2</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">28</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T131149Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210829T131152Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210829T131152Z">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 2 |  | Член 2 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Definitions</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Дефиниции</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">29</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T131206Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210829T131214Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210829T131214Z">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">3235374350142640013, 4398393441648</prop>
+      <prop type="x-ContextContent">Definitions |  | Дефиниции | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the purposes of this Regulation, the following definitions shall apply:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За целите на оваа регулатива, се применуваат следните дефиниции :</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">30</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T122218Z" creationid="sasPC\Sash" changedate="20210901T122223Z" changeid="sasPC\Sash" lastusagedate="20210901T133515Z" usagecount="4">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-4596473658971105615, -1116162874385632779</prop>
+      <prop type="x-ContextContent">I, the undersigned official inspector, hereby certify that: |  | Јас, долупотпишаниот службен инспектор, потврдувам дека: | </prop>
+      <prop type="x-Context">-1720818610967152405, -4092366499309466525</prop>
+      <prop type="x-ContextContent">Certificate reference No |  | Референтен број на сертификат | </prop>
+      <prop type="x-Context">3500610770945, 4573163431</prop>
+      <prop type="x-ContextContent">Address |  | Адреса | </prop>
+      <prop type="x-Context">7483135644930507769, -5315313461615809486</prop>
+      <prop type="x-ContextContent">the aquaculture animals referred to above are placed under conditions, including with a water quality, that do not alter their health status; |  | горенаведените животни од аквакултура се транспортирани во услови, вклучително и квалитет на водата, коишто не влијаат на промена на нивниот здравствен статус; | </prop>
+      <prop type="x-Context">6629941160630497140, 3002024663218470412</prop>
+      <prop type="x-ContextContent">the transport container or well boat prior to loading is clean and disinfected or previously unused; and |  | контејнерот за транспорт или бродот со бунар пред товарањето е исчистен и дезинфициран или претходно не бил користен; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>l.2.a</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>l.2.a</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">241</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T122228Z" creationid="sasPC\Sash" changedate="20210901T122236Z" changeid="sasPC\Sash" lastusagedate="20210901T122236Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">2032422, 2032422</prop>
+      <prop type="x-ContextContent">I.1. |  | I.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Central competent authority</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>I.3.Централен надлежен орган</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">242</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T122238Z" creationid="sasPC\Sash" changedate="20210901T122242Z" changeid="sasPC\Sash" lastusagedate="20210901T122242Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">2032422, 2032422</prop>
+      <prop type="x-ContextContent">I.1. |  | I.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Local competent authority</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>I.4.Локален надлежен орган</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">243</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T122257Z" creationid="sasPC\Sash" changedate="20210901T122257Z" changeid="sasPC\Sash" lastusagedate="20210901T122257Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3851240002564609683, -4762914929370396537</prop>
+      <prop type="x-ContextContent">Country of origin |  | Земја на потекло | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>USA</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>САД</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">247</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T122258Z" creationid="sasPC\Sash" changedate="20210901T122303Z" changeid="sasPC\Sash" lastusagedate="20210901T122329Z" usagecount="1">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7574274514189229103, 131111638709463153</prop>
+      <prop type="x-ContextContent">Country of destination |  | Земја-примач | </prop>
+      <prop type="x-Context">2032267, 2032267</prop>
+      <prop type="x-ContextContent">US |  | УС | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ISO code</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ИСО- код</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">248</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T122303Z" creationid="sasPC\Sash" changedate="20210901T122310Z" changeid="sasPC\Sash" lastusagedate="20210901T122310Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">1876844311311, 1876874563095</prop>
+      <prop type="x-ContextContent">ISO code |  | ИСО код | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>US</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>УС</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">249</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T122316Z" creationid="sasPC\Sash" changedate="20210901T122318Z" changeid="sasPC\Sash" lastusagedate="20210901T122639Z" usagecount="1">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-9017071859905805411, -6852385389483904325</prop>
+      <prop type="x-ContextContent">State of origin |  | Држава на потекло | </prop>
+      <prop type="x-Context">118092237, 148060495</prop>
+      <prop type="x-ContextContent">Type |  | Тип | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Code</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Код</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">251</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T133648Z" creationid="sasPC\Sash" changedate="20210901T133648Z" changeid="sasPC\Sash" lastusagedate="20210901T133648Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>*</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>⃞</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1641</prop>
+      <prop type="x-SourceTUIndex">318</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

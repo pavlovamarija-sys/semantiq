@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "counts": {
+    "ABSTAIN": 54,
+    "MERGE": 95,
+    "KEEP_BOUNDARY": 11
+  },
+  "merge": {
+    "total": 95,
+    "false": 0,
+    "assessment": "All executable merges were same-block baseline continuations or tightly spaced lexical continuations; no material false merge found."
+  },
+  "keepBoundary": {
+    "total": 11,
+    "false": 0,
+    "assessment": "All executable keeps were supported by intervening source lines or publication-date running-header separation; no material false keep found."
+  },
+  "abstain": {
+    "total": 54,
+    "safe": 54,
+    "assessment": "Conservative abstentions were retained; no source loss or ordering corruption resulted."
+  },
+  "note": "Independent post-run forensic assessment completed. No tuning or rerun was performed."
+}

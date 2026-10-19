@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "required_chain": ["SOURCE_PDF", "RECONSTRUCTION_MODEL", "VALIDATED_DOCX"],
+  "existing_relationship": {"parent": "SOURCE_PDF", "child": "RECONSTRUCTION_MODEL", "type": "derived_from", "role": "source_pdf"},
+  "new_relationship": {"parent": "RECONSTRUCTION_MODEL", "child": "VALIDATED_DOCX", "type": "rendered_from", "role": "reconstruction_model"},
+  "enforcement": ["application scope query", "model envelope identity validation", "processing-generation input binding", "atomic database completion RPC"]
+}

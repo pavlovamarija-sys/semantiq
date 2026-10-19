@@ -1,0 +1,15 @@
+{
+  "reconstructionFixtures": {"32006L0114":"PASS","32006L0126":"PASS","32006L0042":"PASS"},
+  "broadApplicationSuite": {"passed":87,"failed":2,"phase6c2_related_failures":0},
+  "preExistingUnrelatedFailures": [
+    "exact-approved-retrieval: known imported legacy TM fixture absent",
+    "exact-approved-retrieval: whitespace-only imported legacy TM fixture absent"
+  ],
+  "pdfToDocxConverterChanged": false,
+  "shadowDefaultChanged": false
+  ,"immutableArtifactTests":{"passed":16,"failed":0}
+  ,"sourcePdfRegistrationTests":{"passed":16,"failed":0}
+  ,"celexOrchestrationTests":{"passed":5,"failed":0}
+  ,"workerTests":{"passed":38,"failed":0}
+  ,"typescript":"PASS"
+}

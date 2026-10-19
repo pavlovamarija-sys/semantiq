@@ -1,0 +1,203 @@
+{
+  "status": "PASS",
+  "celex": "32006L0054",
+  "source": {
+    "sha256": "5ed2f4d6a8629cceafd16603f421d00c3e14646a9252776f8e2a1f637d9358ae",
+    "bytes": 133771,
+    "pages": 14
+  },
+  "docx": {
+    "sha256": "c18f48efc8895732658dcc59f0f66b233865d6adfebda5146bef04a520e571e7",
+    "bytes": 59479,
+    "renderedPages": 26,
+    "structure": {
+      "nonEmptyDocxParagraphs": 624,
+      "nonEmptyBodyParagraphs": 321,
+      "tables": [
+        {
+          "index": 0,
+          "rows": 7,
+          "columns": 2,
+          "cells": 14,
+          "containsArticle1": false,
+          "containsAnnexI": false
+        },
+        {
+          "index": 1,
+          "rows": 7,
+          "columns": 2,
+          "cells": 14,
+          "containsArticle1": false,
+          "containsAnnexI": false
+        },
+        {
+          "index": 2,
+          "rows": 26,
+          "columns": 5,
+          "cells": 130,
+          "containsArticle1": true,
+          "containsAnnexI": false
+        },
+        {
+          "index": 3,
+          "rows": 3,
+          "columns": 5,
+          "cells": 15,
+          "containsArticle1": false,
+          "containsAnnexI": false
+        },
+        {
+          "index": 4,
+          "rows": 28,
+          "columns": 5,
+          "cells": 140,
+          "containsArticle1": false,
+          "containsAnnexI": false
+        }
+      ],
+      "article1InTableCell": true,
+      "annexIInTableCell": false
+    }
+  },
+  "model": {
+    "recitals": 41,
+    "recitalOrdinals": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41
+    ],
+    "tables": 5,
+    "tableShapes": [
+      {
+        "page": 12,
+        "rows": 7,
+        "columns": 2
+      },
+      {
+        "page": 12,
+        "rows": 7,
+        "columns": 2
+      },
+      {
+        "page": 13,
+        "rows": 26,
+        "columns": 5
+      },
+      {
+        "page": 13,
+        "rows": 3,
+        "columns": 5
+      },
+      {
+        "page": 14,
+        "rows": 28,
+        "columns": 5
+      }
+    ],
+    "footnotes": 7,
+    "unresolved": 55
+  },
+  "coverage": {
+    "status": "PASS",
+    "tokens": 8449,
+    "sourceSpans": 12729,
+    "modelSpans": 12505,
+    "excludedSpans": 224,
+    "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+  },
+  "docxTextIntegrity": {
+    "status": "PASS",
+    "tokens": 8449,
+    "sha256": "799f3b4af06ac6cf0741c169d227c1f981a00ec311202796be5d504dc9fde6d2",
+    "footnotes": 7
+  },
+  "legalReadingOrder": {
+    "status": "PASS",
+    "articles": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36
+    ],
+    "annexes": [
+      1,
+      2
+    ],
+    "issues": []
+  },
+  "pageFurniture": {
+    "excludedRecords": 56,
+    "excludedSpans": 224,
+    "recordsHaveProvenance": true
+  }
+}

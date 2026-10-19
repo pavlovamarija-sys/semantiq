@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210727T201131Z" creationid="HP\a">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32021R0667_MK1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021R0667</prop>
+    <prop type="x-SourceTMX">32021R0667_MK1.tmx</prop>
+    <prop type="x-SourceTMXSHA256">d3068caf4dfb1aea5016297093e8d08b47a21baa28864dce89891110201e97ef</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">9</prop>
+  </header>
+  <body>
+    <tu creationdate="20210727T201202Z" creationid="PC" changedate="20210727T201211Z" changeid="PC" lastusagedate="20210727T201818Z" usagecount="1">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL IMPLEMENTING REGULATION (EU) 2021/667</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/667 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0667</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210727T200233Z" creationid="PC" changedate="20210727T201223Z" changeid="PC" lastusagedate="20210727T201818Z" usagecount="1">
+      <prop type="x-Context">-6567666369441098802, 1633584061312239956</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 23 April 2021</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 23 април 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0667</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210727T201212Z" creationid="PC" changedate="20210727T201325Z" changeid="PC" lastusagedate="20210727T201818Z" usagecount="1">
+      <prop type="x-Context">3657596318, -7068392848370078782</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>implementing Article 21(2) of Regulation (EU) 2016/44 concerning restrictive measures in view of the situation in Libya</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за спроведување на член 21(2) од Регулативата (ЕУ) за рестриктивни мерки во однос на состојбата во Либија</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0667</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201020T073841Z" creationid="DESKTOP-R6F8DM9\Angel" changedate="20210727T201328Z" changeid="PC" lastusagedate="20210727T201818Z" usagecount="1">
+      <prop type="x-Context">8923470438122626085, -876364398391219480</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0667</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20180521T062859Z" creationid="SEI\Mario.Jordanov" changedate="20210727T201334Z" changeid="PC" lastusagedate="20210727T201818Z" usagecount="1">
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирањето на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0667</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210727T201337Z" creationid="PC" changedate="20210727T201449Z" changeid="PC" lastusagedate="20210727T201818Z" usagecount="1">
+      <prop type="x-Context">-1630537092630497703, 452261040054540310</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="41" x="1" />
+          <bpt i="2" type="39" />H<ept i="2" />
+          <ept i="1" />
+          <bpt i="3" type="44" />aving regard to Council Regulation (EU) 2016/44 of 18 January 2016 concerning restrictive measures in view of the situation in Libya and repealing Regulation (EU) No 204/2011<ept i="3" />
+          <bpt i="4" type="60" x="2" /> (<ph x="3" type="74" />)<ept i="4" />
+          <bpt i="6" type="80" x="4" />, and in particular Article 21(2) thereof,<ept i="6" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Регулативата 2016/44 на Советот од 18 јануари 2016 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на Регулативата (ЕУ) бр. 204/2011 (), а особено член 21(2) од истата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0667</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210727T201616Z" creationid="PC" changedate="20210727T201635Z" changeid="PC" lastusagedate="20210727T201818Z" usagecount="1">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Annex III to Regulation (EU) 2016/44 is amended in accordance with the Annex to this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 1 Анекс III кон Регулативата (ЕУ) 2016/44 се изменува во согласност со Анексот кон оваа регулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0667</prop>
+      <prop type="x-SourceTUIndex">11</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20200120T101540Z" creationid="BLAZHESKI\a" changedate="20210727T201638Z" changeid="PC" lastusagedate="20210727T201818Z" usagecount="1">
+      <prop type="x-Context">5867395684248989793, -397430594169105111</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 2</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 2</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0667</prop>
+      <prop type="x-SourceTUIndex">12</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20180309T133147Z" creationid="SEI\Ivana.Stoilkovic" changedate="20210727T201649Z" changeid="PC" lastusagedate="20210727T201818Z" usagecount="1">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Оваа регулатива влегува во сила на денот по нејзиното објавување во Службениот весник на Европската Унија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0667</prop>
+      <prop type="x-SourceTUIndex">13</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

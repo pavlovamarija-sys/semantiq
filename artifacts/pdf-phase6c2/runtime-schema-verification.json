@@ -1,0 +1,18 @@
+{
+  "status": "PASS",
+  "tables": {
+    "document_artifacts": { "exists": true, "rls": true },
+    "processing_generations": { "exists": true, "rls": true },
+    "processing_generation_inputs": { "exists": true, "rls": true },
+    "artifact_relationships": { "exists": true, "rls": true }
+  },
+  "columns_verified": true,
+  "indexes_verified": true,
+  "policies_verified": true,
+  "scope_foreign_keys_verified": true,
+  "immutability_triggers_verified": true,
+  "lineage_cycle_trigger_verified": true,
+  "finalization_function_security": "INVOKER",
+  "document_artifacts_bucket": { "exists": true, "public": false, "file_size_limit": 157286400 },
+  "storage_update_policy": false
+}

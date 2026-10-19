@@ -1,0 +1,21 @@
+{
+  "valid_units_considered": 3608,
+  "gold": 30,
+  "rejected_candidates": 2589,
+  "rejection_reasons": {
+    "length_outside_sentence_range": 1730,
+    "target_length_outside_range": 1368,
+    "not_complete_sentence": 1885,
+    "heading_or_structural_label": 129,
+    "list_only_fragment": 635,
+    "suspicious_joined_or_truncated_beginning": 87,
+    "revision_or_consolidation_marker": 15
+  },
+  "documents": 30,
+  "length_ranges": {
+    "en_min": 80,
+    "en_max": 481,
+    "mk_min": 84,
+    "mk_max": 474
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "status": "PASS",
+  "actualTypedModelModified": false,
+  "actualDocxModified": false,
+  "simulatedMerges": 26,
+  "cases": [
+    {
+      "ambiguityId": "32006L0126-boundary-01",
+      "simulatedAction": "KEEP_BOUNDARY",
+      "joinPolicy": null,
+      "beforeTokenCount": 18,
+      "afterTokenCount": 18,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-02",
+      "simulatedAction": "KEEP_BOUNDARY",
+      "joinPolicy": null,
+      "beforeTokenCount": 2,
+      "afterTokenCount": 2,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-03",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 12,
+      "afterTokenCount": 12,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-04",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 4,
+      "afterTokenCount": 4,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-05",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 3,
+      "afterTokenCount": 3,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-06",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 22,
+      "afterTokenCount": 22,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-07",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 3,
+      "afterTokenCount": 3,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-08",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 3,
+      "afterTokenCount": 3,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-09",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 3,
+      "afterTokenCount": 3,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-10",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 3,
+      "afterTokenCount": 3,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-11",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 31,
+      "afterTokenCount": 31,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-12",
+      "simulatedAction": "KEEP_BOUNDARY",
+      "joinPolicy": null,
+      "beforeTokenCount": 62,
+      "afterTokenCount": 62,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-13",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 54,
+      "afterTokenCount": 54,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-14",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 3,
+      "afterTokenCount": 3,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-15",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 2,
+      "afterTokenCount": 2,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-16",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 3,
+      "afterTokenCount": 3,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-17",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 14,
+      "afterTokenCount": 14,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-18",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 2,
+      "afterTokenCount": 2,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-19",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 3,
+      "afterTokenCount": 3,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-20",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 3,
+      "afterTokenCount": 3,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-21",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 2,
+      "afterTokenCount": 2,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-22",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 47,
+      "afterTokenCount": 47,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-23",
+      "simulatedAction": "KEEP_BOUNDARY",
+      "joinPolicy": null,
+      "beforeTokenCount": 15,
+      "afterTokenCount": 15,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-24",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 12,
+      "afterTokenCount": 12,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-25",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 2,
+      "afterTokenCount": 2,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-26",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 2,
+      "afterTokenCount": 2,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-27",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 2,
+      "afterTokenCount": 2,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-28",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 14,
+      "afterTokenCount": 14,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-29",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 51,
+      "afterTokenCount": 51,
+      "tokenSequenceEqual": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-30",
+      "simulatedAction": "MERGE",
+      "joinPolicy": "one ASCII space between rstrip(left) and lstrip(right)",
+      "beforeTokenCount": 41,
+      "afterTokenCount": 41,
+      "tokenSequenceEqual": true
+    }
+  ]
+}

@@ -1,0 +1,1511 @@
+{
+  "celex": "32017D1774",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32017D1774\\TMX_MK1\\32017D1774_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32017D1774\\MK2\\32017D1774_MK2.docx",
+  "tmx_sha256": "4ea2e79640d3b66ca1ca3e5d2466805769a71129f519a9da0d1e30a7d3ce82a1",
+  "mk2_sha256": "527de6bf2489486c8573ddaa8c32ab2629395902efbfae4b46011f5806216e0c",
+  "original_tus": 49,
+  "accepted_tus": 3,
+  "skipped_tus": 46,
+  "acceptance_percent": 6.12,
+  "mk1_coverage": 41.22,
+  "mk2_coverage": 76.95,
+  "accepted_clean_en_chars": 72,
+  "accepted_clean_mk2_chars": 95,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL IMPLEMENTING DECISION (EU) 2017/1774",
+      "mk1": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2017/1774 НА СОВЕТОТ",
+      "mk2": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2017/1774 НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        48
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 25 September 2017",
+      "mk1": "од септември 2017 година",
+      "mk2": "од 25 септември 2017 година",
+      "score": 0.9411764705882353,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        49,
+        76
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "за подложување на N (1-фенетилпиперидин-4-ил)-N-фенилакрила",
+      "score": 0.30952380952380953,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        77,
+        136
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          4
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 4,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "mk2": "мид (акрилоилфентанил) ) на контролни мерки СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "score": 0.6530612244897959,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        136,
+        274
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          4
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the proposal from the European Commission,",
+      "mk1": "имајќи го предвид предлогот на Европската Комисија,",
+      "mk2": "имајќи ја предвид Одлуката 2005/387/ПВР на Советот од 10 мај 2005 година за размена на информации, процена на ризик и контр",
+      "score": 0.29069767441860467,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        5,
+        8
+      ],
+      "mk2_char_span": [
+        275,
+        398
+      ],
+      "evidence": {
+        "token_count": 71,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          7
+        ],
+        "atom_window": [
+          5,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the opinion of the European Parliament (),",
+      "mk1": "имајќи го предвид мислењето на Европскиот парламент,",
+      "mk2": "ола на нови психоактивни супстанции , а особено член 8(3) од истата, Сл. весник L 127, 20.5.2005 година, стр. 32. имајќи го п",
+      "score": 0.1317365269461078,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        5,
+        8
+      ],
+      "mk2_char_span": [
+        398,
+        523
+      ],
+      "evidence": {
+        "token_count": 71,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          7
+        ],
+        "atom_window": [
+          5,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 7,
+      "en": "Opinion of 13 September 2017 (not yet published in the Official Journal).",
+      "mk1": "Мислење од 13 септември 2017 година (сѐ уште не е објавено во Службен весник)",
+      "mk2": "редвид предлогот на Европската Комисија, имајќи го предвид мислењето на Европскиот парламент , Мислење од 13. септември. септември 2017 година (сèсѐ уште не е објавено во Службен весник)",
+      "score": 0.5905511811023622,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        5,
+        8
+      ],
+      "mk2_char_span": [
+        523,
+        709
+      ],
+      "evidence": {
+        "token_count": 71,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          7
+        ],
+        "atom_window": [
+          5,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 8,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "со оглед на тоа што:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        710,
+        730
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          8
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 9,
+      "en": "It is structurally similar to fentanyl, a controlled substance widely used in medicine as an adjunct to general anaesthesia during surgery and for pain management.",
+      "mk1": "Тој по својата структура е сличен со фентанил, контролирана супстанција која има широка употреба во медицината како додаток на анестезија за време на операции за контролирање на болката.",
+      "mk2": "(1)Проширениот Научен одбор на Европскиот центар за следење на дроги и зависности од дрога на посебна седница, во согласност со Одлуката 2005/387/ПВР, состави извештај од за процената на ризицик од новата психоактивна супстанција N (1-фенетилпиперидин-4-ил)-N-фенилакриламид (акрилоилфентанил) кој потоа беше поднесен до Комисијата и до Советот на 24 февруари 2017. (2)Акрилоилфентанилот е синтетички опиоид. Тој по својата структура е сличен со фентанилот, контролира",
+      "score": 0.1747269890795632,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        12
+      ],
+      "mk2_char_span": [
+        731,
+        1199
+      ],
+      "evidence": {
+        "token_count": 171,
+        "references_preserved": true,
+        "neighbor_window": [
+          9,
+          11
+        ],
+        "atom_window": [
+          9,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 10,
+      "en": "(3) Acryloylfentanyl has been available in the Union since at least April 2016 and has been detected in six Member States.",
+      "mk1": "(3) Акрилоилфентанил е достапен во Унијата најмалку од април 2016 година и е откриен во шест земји членки.",
+      "mk2": "на супстанција која има широка употреба во медицината како додаток на општата анестезија за време на операции за контролирање на болката. Според податоците што ги има на располагање, акрилоилфентанилот е моќен и долготраен агенс кој делува дејствува на опиоидниот сис",
+      "score": 0.21195652173913043,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        12
+      ],
+      "mk2_char_span": [
+        1199,
+        1466
+      ],
+      "evidence": {
+        "token_count": 171,
+        "references_preserved": true,
+        "neighbor_window": [
+          9,
+          11
+        ],
+        "atom_window": [
+          9,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 11,
+      "en": "In most cases where it has been seized, the substance was in liquid form, but other forms such as tablets, powders and a capsule have also been detected.",
+      "mk1": "Во поголемиот дел од случаите кога тој беше запленет, супстанцијата беше во течна форма, но исто така е откриен и во други форми, како таблети, прашок и капсули.",
+      "mk2": "тем. (3)Акрилоилфентанилот е достапен во Унијата најмалку од април 2016 година и е откриен во шест земји членки. Во поголемиот дел од случаите, кога е тој беше запленет, супстанцијата бешебила во течна форма, но, исто така, е откриен и во други форми, како таблети, прашок и капсули. Откриените количини се релативно мали, но треба да се земат предвид со оглед на тоа дека супстанцијата има висока моќност.",
+      "score": 0.5683060109289617,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        12
+      ],
+      "mk2_char_span": [
+        1466,
+        1872
+      ],
+      "evidence": {
+        "token_count": 171,
+        "references_preserved": true,
+        "neighbor_window": [
+          9,
+          11
+        ],
+        "atom_window": [
+          9,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 12,
+      "en": "The detected quantities are relatively small, but should be considered in the context of the high potency of the substance.",
+      "mk1": "Откриените количини се релативно мали, но треба да се земат предвид со оглед на тоа дека супстанцијата има висока моќност.",
+      "mk2": "",
+      "score": 0.367003367003367,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 13,
+      "en": "(4) Three Member States have collectively reported 47 deaths associated with acryloylfentanyl.",
+      "mk1": "(4) Во три земји членки беа пријавени вкупно 47 смртни случаи поврзани со акрилоилфентанил.",
+      "mk2": "",
+      "score": 0.4726134585289515,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 14,
+      "en": "It is sold in small and wholesale amounts.",
+      "mk1": "Се продава во мали и во големи количини.",
+      "mk2": "(6)Акрилоилфентанилот се продава како „хемикалија за научни истражувања“",
+      "score": 0.37037037037037035,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        14,
+        16
+      ],
+      "mk2_char_span": [
+        2552,
+        2625
+      ],
+      "evidence": {
+        "token_count": 92,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          14,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 15,
+      "en": "(7) Acryloylfentanyl is not listed for control under the 1961 United Nations Single Convention on Narcotic Drugs or under the 1971 United Nations Convention on Psychotropic Substances.",
+      "mk1": "(7) Акрилоилфентанил не е наведен за контрола во рамките на Единствената конвенција за наркотични дроги на Обединетите Нации од 1961 година или во рамките на Конвенцијата за психотропни супстанции на Обединетите Нации.",
+      "mk2": "и е вообичаено во форма на прав или како готов спреј за нос. Се продава во мали и во големи количини. Ограничените информации за конфискациите упатуваат дека можеби акрилоилфентанилот се продава на нелегален пазар назана опиоиди. (7)Акрилоилфентанил не се наоѓа на списокотнаведен за контрола во рамките на Единствената конвенција за наркотични дроги на Обединетите Нации од 1961 година или во рамк",
+      "score": 0.48932676518883417,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        14,
+        16
+      ],
+      "mk2_char_span": [
+        2625,
+        3023
+      ],
+      "evidence": {
+        "token_count": 92,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          14,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 16,
+      "en": "The substance is not currently under assessment by the United Nations system.",
+      "mk1": "Супстанцијата во моментов не е опфатена со системот за оцена на Обединетите Нации.",
+      "mk2": "ите на Конвенцијата за психотропни супстанции на Обединетите Нации. Супстанцијата во моментов не е опфатена со системот за оцена на Обединетите Нации.",
+      "score": 0.7074235807860262,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        14,
+        16
+      ],
+      "mk2_char_span": [
+        3023,
+        3173
+      ],
+      "evidence": {
+        "token_count": 92,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          14,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 17,
+      "en": "(8) Acryloylfentanyl has no established or acknowledged human or veterinary medical use.",
+      "mk1": "(8) Акрилоилфентанил нема востановена употреба кај луѓето, ниту востановена употреба за ветеринарни цели.",
+      "mk2": "(8)Акрилоилфентанилот нема востановена употреба кај луѓето, ниту востановена употреба за ветеринарни цели. Освен неговата употреба во аналитички референтни материјали и во научни истражувања за неговиот хемиски состав, фармаколошки состав и токсиколошки состав, кои се ј",
+      "score": 0.5519125683060109,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        16,
+        19
+      ],
+      "mk2_char_span": [
+        3174,
+        3444
+      ],
+      "evidence": {
+        "token_count": 197,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          16,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 18,
+      "en": "However, the available evidence and information on the health and social risks that the substance poses provide sufficient grounds for subjecting acryloylfentanyl to control measures across the Union.",
+      "mk1": "Сепак, достапните докази и информации за здравјето и социјалните ризици кои ги предизвикува оваа супстанција, даваат доволна основа за акрилоилфентанил да подложи на контролни мерки во рамките на Унијата.",
+      "mk2": "авуваат како реакција на неговото појавување на пазарот на дроги, нема други показатели дека тој се употребува за други законски цели. (9)Во извештајот од процената на ризик се открива дека на располагање има ограничени научни докази на располагање за акрилоилфентанилот и се заклучува дека е потребно е понатамошно истражување. Сепак, достапните докази и информации за здравјето и социјалните ризици кои ги предизвикува оваа супстанција, даваат доволна основа за акрилоилфентанилот да подлеожи на контролните мерки во целата",
+      "score": 0.5194444444444445,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        16,
+        19
+      ],
+      "mk2_char_span": [
+        3444,
+        3969
+      ],
+      "evidence": {
+        "token_count": 197,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          16,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 19,
+      "en": "(10) Only nine Member States control acryloylfentanyl under national drug control legislation, while two other Member States use other legislative measures to control it.",
+      "mk1": "(10) Акрилоилфентанил се контролира во само девет земји членки во рамките на националното законодавство за контрола на дроги, додека во други две земји членки се користат други законодавни мерки за негова контрола.",
+      "mk2": "рамките на Унијата. (10)Акрилоилфентанилот се контролира во само во девет земји членки во рамките на националното законодавство за контрола на дроги, додека во други две земји членки се користат други законодавни мерки за негова контрола. Затоа, со подложување на оваа супстанција на контролни мерки во целата рамките на Унијата, би се помогнало да се избегнат пречките кои би можеле да се појават во прекуграничното спроведување на правото и во судската соработка и би се помогнало во заштитата од ризиците кои би ги предизвикала неговата достапност.",
+      "score": 0.5570291777188329,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        16,
+        19
+      ],
+      "mk2_char_span": [
+        3969,
+        4520
+      ],
+      "evidence": {
+        "token_count": 197,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          16,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 20,
+      "en": "Therefore, subjecting this substance to control measures across the Union would help avoid the emergence of obstacles in cross-border law enforcement and judicial cooperation, and would help protect from the risks that its availability and use could pose.",
+      "mk1": "Затоа, со подложување на оваа супстанција на контролни мерки во рамките на Унијата би се помогнало да се избегнат пречките кои би можеле да се појават во прекуграничното спроведување на правото и во судската соработка и би се помогнало во заштитата од ризиците кои би ги предизвикала неговата достапност.",
+      "mk2": "(11)Со Одлуката 2005/387/ПВР му јана Советот му сепренесува доделуваат овластувања за спроведувањепримената на овластувањата на Советот за подложување на нови психоактивни супстанции на контролни мерки во целатарамките на Унијата за да може на појавата на ваквите супстанции што се откриени и пријавени од страна на земјите членки да се осигуридаде брза реакција, заснов",
+      "score": 0.408955223880597,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        19,
+        21
+      ],
+      "mk2_char_span": [
+        4521,
+        4891
+      ],
+      "evidence": {
+        "token_count": 119,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          22
+        ],
+        "atom_window": [
+          19,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 21,
+      "en": "As the conditions and procedure for triggering the exercise of such implementing powers have been met, an implementing decision should be adopted in order to subject acryloylfentanyl to control measures across the Union.",
+      "mk1": "Бидејќи се исполнети условите и постапката за остварување на оваа примена на овластувања, треба да се донесе одлука за спроведување со цел да се подложи акрилоилфентанил на контролни мерки во рамките на Унијата.",
+      "mk2": "ана врз експертиза на ниво на Унијата. Бидејќи се исполнети условите и постапката за остварувањепокренување на оваие а примена на овластувањата,за спроведување треба да се донесе одлука за спроведување со цел да се подложи акрилоилфентанилот на контролни ме",
+      "score": 0.7913978494623656,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        19,
+        21
+      ],
+      "mk2_char_span": [
+        4891,
+        5148
+      ],
+      "evidence": {
+        "token_count": 119,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          22
+        ],
+        "atom_window": [
+          19,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 22,
+      "en": "(13) Ireland is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision, which implements Decision 2005/387/JHA.",
+      "mk1": "(13) Ирска е обврзана со Одлуката 2005/387/ПВР и затоа учествува во донесувањето и примената на оваа одлука, со која се спроведува Одлуката 2005/387/ПВР.",
+      "mk2": "рки во целатарамките на Унијата. (12)Данска е обврзана со Одлуката 2005/387/ПВР и затоа учествува во донесувањето и примената на оваа одлука, со која се спроведува Одлуката 2005/387/ПВР.",
+      "score": 0.8821752265861027,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        19,
+        21
+      ],
+      "mk2_char_span": [
+        5148,
+        5334
+      ],
+      "evidence": {
+        "token_count": 119,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          22
+        ],
+        "atom_window": [
+          19,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 23,
+      "en": "(14) The United Kingdom is not bound by Decision 2005/387/JHA and is therefore not taking part in the adoption of this Decision, which implements Decision 2005/387/JHA, and is not bound by it or subject to its application,",
+      "mk1": "(14) Обединетото Кралство не е обврзано со Одлуката 2005/387/ПВР и затоа нема да учествува во донесувањето на оваа одлука со која се спроведува Одлуката 2005/387/ПВР и не обврзана со неа ниту подложи на нејзината примена.",
+      "mk2": "(13)Ирска е обврзана со Одлуката 2005/387/ПВР и затоа учествува во донесувањето и примената на оваа одлука, со која се спроведува Одлуката 2005/387/ПВР. (14)Обединетото Кралство не е обврзано со Одлуката 2005/387/ПВР и затоа нема да учествува во донесувањето на оваа одлука со која се спроведува Одлуката 2005/387/ПВР и не обврзана со неа ниту подлеожи на нејзината примена.",
+      "score": 0.7427597955706985,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        21,
+        23
+      ],
+      "mk2_char_span": [
+        5335,
+        5709
+      ],
+      "evidence": {
+        "token_count": 58,
+        "references_preserved": true,
+        "neighbor_window": [
+          23,
+          23
+        ],
+        "atom_window": [
+          21,
+          23
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 24,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "",
+      "score": 0.35294117647058826,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 25,
+      "en": "This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на следниот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "",
+      "score": 0.1992619926199262,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 26,
+      "en": "This Decision shall apply in accordance with the Treaties.",
+      "mk1": "Оваа одлука се применува во согласност со Договорите.",
+      "mk2": "",
+      "score": 0.24120603015075376,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 27,
+      "en": "Done at Brussels, 25 September 2017.",
+      "mk1": "Брисел, 25 септември 2017 година.",
+      "mk2": "",
+      "score": 0.18181818181818182,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 28,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "",
+      "score": 0.08899297423887588,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 29,
+      "en": "The President",
+      "mk1": "Петседател",
+      "mk2": "",
+      "score": 0.20245398773006135,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 30,
+      "en": "M. MAASIKAS",
+      "mk1": "М. МААСИКАС",
+      "mk2": "",
+      "score": 0.21176470588235294,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 31,
+      "en": "(6) Acryloylfentanyl is sold as ‘research chemical’, typically as a powder or as ready-to-use nasal sprays.",
+      "mk1": "(6) Акрилоилфентанил се продава како „хемикалија за научни истражувања“ и е вообичаено во форма на прав или како готов спреј за нос.",
+      "mk2": "",
+      "score": 0.2569832402234637,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 32,
+      "en": "The available data suggest that acryloylfentanyl is a potent and long-lasting antinociceptive agent acting on the opioid system.",
+      "mk1": "Според податоците што ги има на располагање акрилоилфентанил е моќен и долготраен агенс кој делува на опиоидниот систем.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 33,
+      "en": "Having regard to Council Decision 2005/387/JHA of 10 May 2005 on the information exchange, risk-assessment and control of new psychoactive substances (), and in particular Article 8(3) thereof,",
+      "mk1": "имајќи ја предвид Одлуката 2005/387/ПВР на Советот од 10 мај 2005 година за размена на информации, процена на ризик и контрола на нови психоактивни супстанции, а особено член 8(3) од истата,",
+      "mk2": "",
+      "score": 0.24,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 34,
+      "en": "on subjecting N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide (acryloylfentanyl) to control measures",
+      "mk1": "за подложување на N (1-фенетилпиперидин-4-ил)-N-фенилакриламид (акрилоилфентанил) ) на контролни мерки",
+      "mk2": "",
+      "score": 0.2446043165467626,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 35,
+      "en": "OJ L 127, 20.5.2005, p. 32.",
+      "mk1": "Сл. весник L 127, 20.5.2005 година, стр. 32.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 36,
+      "en": "(1) A risk assessment report on the new psychoactive substance N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide (acryloylfentanyl) was drawn up in accordance with Decision 2005/387/JHA by a special session of the extended Scientific Committee of the European Monitoring Centre for Drugs and Drug Addiction, and was subsequently submitted to the Commission and to the Council on 24 February 2017.",
+      "mk1": "(1) Проширениот Научен одбор на Европскиот центар за следење на дроги и зависности од дрога на посебна седница, во согласност со Одлуката 2005/387/ПВР, состави извештај од процената на ризик од новата психоактивна супстанција N (1-фенетилпиперидин-4-ил)-N-фенилакриламид (акрилоилфентанил) кој потоа беше поднесен до Комисијата и до Советот на 24 февруари 2017.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 37,
+      "en": "(2) Acryloylfentanyl is a synthetic opioid.",
+      "mk1": "Акрилоилфентанил е синтетички опиоид.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 38,
+      "en": "In at least 40 deaths, acryloylfentanyl was the cause of death or is likely to have been a contributing cause of death.",
+      "mk1": "Кај најмалку 40 од овие случаи, акрилоилфентанил бил директна причина за смртта или веројатно ја предизвикал причината за смртта.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 39,
+      "en": "In addition, more than 20 acute intoxications suspected to be due to acryloylfentanyl have been reported.",
+      "mk1": "Исто така, се пријавени повеќе од 20 случаи на акутно труење за кои постои сомнение дека настанале поради акрилоилфентанил.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 40,
+      "en": "(5) There is no information to suggest the involvement of organised crime in the manufacture, distribution, trafficking or supply of acryloylfentanyl within the Union.",
+      "mk1": "(5) Нема информации кои укажуваат дека во Унијата постои вклученост на организиран криминал во производството, пренесувањето, трговијата или снабдувањето со акрилоилфентанил.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 41,
+      "en": "The available data suggest that most of the acryloylfentanyl on the market in Europe has been produced by chemical companies based in China.",
+      "mk1": "Достапните податоци укажуваат дека најголемиот дел од акрилоилфентанил што е на пазарот во Европа е произведен од хемиски компании со седишта во Кина.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 42,
+      "en": "Limited information from seizures suggests that acryloylfentanyl may have also been sold on the illicit opioid market.",
+      "mk1": "Ограничените информации за конфискациите упатуваат дека можеби акрилоилфентанил се продава на нелегален пазар на опиоиди.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "Apart from its use in analytical reference materials and in scientific research into its chemistry, pharmacology and toxicology in response to its emergence on the drug market, there is no indication that it is being used for other legitimate purposes.",
+      "mk1": "Освен неговата употреба во аналитички референтни материјали и во научни истражувања за неговиот хемиски состав, фармаколошки состав и токсиколошки состав кои се јавуваат како реакција на неговото појавување на пазарот на дроги, нема други показатели дека тој се употребува за други законски цели.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "The new psychoactive substance N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide (acryloylfentanyl) shall be subjected to control measures across the Union.",
+      "mk1": "Новата психоактивна супстанција N-(1-фенетилпиперидин-4-ил)-N-фенилакриламид (акрилоилфентанил) подложи на контролни мерки во рамките на Унијата.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "(9) The risk assessment report reveals that there is limited scientific evidence available on acryloylfentanyl, and observes that further research would be needed.",
+      "mk1": "(9) Во извештајот од процената на ризик се открива дека на располагање има ограничени научни докази на располагање за акрилоилфентанил и се заклучува дека потребно е понатамошно истражување.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 46,
+      "en": "(11) Decision 2005/387/JHA confers upon the Council implementing powers to submit new psychoactive substances to control measures across the Union in order to ensure a quick and expertise-based response at Union level to the emergence of such substances that have been detected and reported by the Member States.",
+      "mk1": "(11) Одлука 2005/387/ПВР му ја пренесува примената на овластувањата на Советот за подложување на нови психоактивни супстанции на контролни мерки во рамките на Унијата за да може на појавата на ваквите супстанции што се откриени и пријавени од страна на земјите членки да се даде брза реакција, заснована врз експертиза на ниво на Унијата.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 47,
+      "en": "(12) Denmark is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision, which implements Decision 2005/387/JHA.",
+      "mk1": "(12) Данска е обврзана со Одлуката 2005/387/ПВР и затоа учествува во донесувањето и примената на оваа одлука, со која се спроведува Одлуката 2005/387/ПВР.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 48,
+      "en": "HAS ADOPTED THIS DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 49,
+      "en": "By 30 September 2018, Member States shall take the necessary measures in accordance with their national law to subject the new psychoactive substance referred to in Article 1 to control measures and criminal penalties, as provided for under their legislation, in compliance with their obligations under the 1971 United Nations Convention on Psychotropic Substances.",
+      "mk1": "До 30 септември 2018 земјите членки ги преземаат неопходните мерки во согласност со нивното национално право да ја подложат новата психоактивна супстанција наведена во член 1 на контролни мерки и кривични казни, како што се предвидува со нивното законодавство, во согласност со нивните обврски во рамките на Конвенцијата за психотропни супстанции на Обединетите Нации од 1971 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 2,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32017D1774",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL IMPLEMENTING DECISION (EU) 2017/1774",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 25 September 2017",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "on subjecting N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide (acryloylfentanyl) to control measures",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2017/1774 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од септември 2017 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за подложување на N (1-фенетилпиперидин-4-ил)-N-фенилакриламид (акрилоилфентанил) ) на контролни мерки",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Животна средина, заштита на здравјето на потрошувачите, заштита на здравјето",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наташа Пеевска",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "17.10.2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула (7)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "United Nations Single Convention on Narcotic Drugs",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Единствена конвенција за наркотични дроги на Обединетите Нации",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.emcdda.europa.eu/system/files/attachments/11716/FYROM%20Strategy%202006-12.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула (7)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "United Nations Convention on Psychotropic Substances",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Конвенција за психотропни супстанции на Обединетите Нации",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.emcdda.europa.eu/system/files/attachments/11716/FYROM%20Strategy%202006-12.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула (2)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "opioid system",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "опиоиден систем",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "HYPERLINK \"https://semejnamedicina.mednet.mk/upload/dok/788_897411305.pdf\" https://semejnamedicina.mednet.mk/upload/dok/788_897411305.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула (4)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "acute intoxication",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "акутно труење",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "HYPERLINK \"http://www.ff.ukim.edu.mk/wp-content/uploads/2019/10/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC-%D0%A2%D0%BE%D0%BA%D1%81%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0.pdf\" http://www.ff.ukim.edu.mk/wp-content/uploads/2019/10/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D0%BC-%D0%A2%D0%BE%D0%BA%D1%81%D0%B8%D0%BA%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%98%D0%B0.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32017D1774",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL IMPLEMENTING DECISION (EU) 2017/1774",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 25 September 2017",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "on subjecting N-(1-phenethylpiperidin-4-yl)-N-phenylacrylamide (acryloylfentanyl) to control measures",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2017/1774 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од септември 2017 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за подложување на N (1-фенетилпиперидин-4-ил)-N-фенилакриламид (акрилоилфентанил) на контролни мерки",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Животна средина, заштита на здравјето на потрошувачите, заштита на здравјето",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Реска Рајчевска",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "25.10.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула (2)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "general anaesthesia",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "анестезија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "општа анестезија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "fzo.org.mk, fakulteti.mk",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула (11)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "confer",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "пренесува",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "доделува",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://mk.glosbe.com/en/mk/confer",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "criminal penalties",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "кривични казни",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "кривични санкции",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "nacionalnakomisija.gov.mk",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Сл. весник L 127, 20.5.2005 година, стр. 32.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Мислење од 13. септември. септември 2017 година (сèсѐ уште не е објавено во Службен весник)",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 5,
+        "text": "Сл. весник L 127, 20.5.2005 година, стр. 32."
+      },
+      {
+        "ref": "2",
+        "body_index": 7,
+        "text": "Мислење од 13. септември. септември 2017 година (сèсѐ уште не е објавено во Службен весник)"
+      }
+    ]
+  },
+  "dry_run": true
+}

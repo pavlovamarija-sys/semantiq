@@ -1,0 +1,277 @@
+{
+  "canonicalSnapshotId": "d57fdd35-3b79-4f3a-b20a-3cfaf9941225",
+  "sdlxliffPath": "artifacts\\pdf-phase6c6\\studio-input\\validated-docx-corrected.sdlxliff",
+  "sdlxliffSha256": "588de15278fef72518c567f3c3e9a9ed279efece6b8733776a1375e794abe2a4",
+  "sourceLanguage": "en-GB",
+  "targetLanguage": null,
+  "canonicalTranslationUnits": 265,
+  "studioTransUnits": 271,
+  "studioSegments": 0,
+  "matched": 265,
+  "missing": [],
+  "duplicateStudioAssignments": false,
+  "strictDocumentOrder": true,
+  "extraStudioUnits": [
+    {
+      "index": 38,
+      "transUnitId": "a5a3b116-0265-44a3-a41f-477de1b7fe68",
+      "sourceText": "",
+      "segmentedText": "",
+      "targetText": "",
+      "normalizedSource": "",
+      "segmentCount": 0,
+      "sourceElementCount": 1,
+      "segSourceElementCount": 1,
+      "inlineCodeCount": 1,
+      "context": [
+        {
+          "tag": "cxt",
+          "id": "42"
+        },
+        {
+          "tag": "cxt",
+          "id": "2"
+        }
+      ],
+      "rawXml": "<trans-unit xmlns=\"urn:oasis:names:tc:xliff:document:1.2\" xmlns:sdl=\"http://sdl.com/FileTypes/SdlXliff/1.0\" id=\"a5a3b116-0265-44a3-a41f-477de1b7fe68\"><source><x id=\"0\"/></source><seg-source><x id=\"0\"/></seg-source><target/></trans-unit>",
+      "studioCodeDefinitions": [
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        },
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        }
+      ],
+      "nonTranslatableStructuralProof": {
+        "sourceEmpty": true,
+        "segmentedSourceEmpty": true,
+        "targetEmpty": true,
+        "noSegmentMarkers": true,
+        "codesAreExcludedPageBreaks": true
+      },
+      "classification": "EMPTY_NON_TRANSLATABLE_PAGE_BREAK"
+    },
+    {
+      "index": 72,
+      "transUnitId": "12b6a2e5-130c-40af-bf55-aad979fe6e1a",
+      "sourceText": "",
+      "segmentedText": "",
+      "targetText": "",
+      "normalizedSource": "",
+      "segmentCount": 0,
+      "sourceElementCount": 1,
+      "segSourceElementCount": 1,
+      "inlineCodeCount": 1,
+      "context": [
+        {
+          "tag": "cxt",
+          "id": "76"
+        },
+        {
+          "tag": "cxt",
+          "id": "2"
+        }
+      ],
+      "rawXml": "<trans-unit xmlns=\"urn:oasis:names:tc:xliff:document:1.2\" xmlns:sdl=\"http://sdl.com/FileTypes/SdlXliff/1.0\" id=\"12b6a2e5-130c-40af-bf55-aad979fe6e1a\"><source><x id=\"1\"/></source><seg-source><x id=\"1\"/></seg-source><target/></trans-unit>",
+      "studioCodeDefinitions": [
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        },
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        }
+      ],
+      "nonTranslatableStructuralProof": {
+        "sourceEmpty": true,
+        "segmentedSourceEmpty": true,
+        "targetEmpty": true,
+        "noSegmentMarkers": true,
+        "codesAreExcludedPageBreaks": true
+      },
+      "classification": "EMPTY_NON_TRANSLATABLE_PAGE_BREAK"
+    },
+    {
+      "index": 105,
+      "transUnitId": "0be83566-b78f-4c74-9683-248d4c7e23af",
+      "sourceText": "",
+      "segmentedText": "",
+      "targetText": "",
+      "normalizedSource": "",
+      "segmentCount": 0,
+      "sourceElementCount": 1,
+      "segSourceElementCount": 1,
+      "inlineCodeCount": 1,
+      "context": [
+        {
+          "tag": "cxt",
+          "id": "109"
+        },
+        {
+          "tag": "cxt",
+          "id": "2"
+        }
+      ],
+      "rawXml": "<trans-unit xmlns=\"urn:oasis:names:tc:xliff:document:1.2\" xmlns:sdl=\"http://sdl.com/FileTypes/SdlXliff/1.0\" id=\"0be83566-b78f-4c74-9683-248d4c7e23af\"><source><x id=\"2\"/></source><seg-source><x id=\"2\"/></seg-source><target/></trans-unit>",
+      "studioCodeDefinitions": [
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        },
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        }
+      ],
+      "nonTranslatableStructuralProof": {
+        "sourceEmpty": true,
+        "segmentedSourceEmpty": true,
+        "targetEmpty": true,
+        "noSegmentMarkers": true,
+        "codesAreExcludedPageBreaks": true
+      },
+      "classification": "EMPTY_NON_TRANSLATABLE_PAGE_BREAK"
+    },
+    {
+      "index": 135,
+      "transUnitId": "6270d546-2209-49db-9f68-e2fc336e9103",
+      "sourceText": "",
+      "segmentedText": "",
+      "targetText": "",
+      "normalizedSource": "",
+      "segmentCount": 0,
+      "sourceElementCount": 1,
+      "segSourceElementCount": 1,
+      "inlineCodeCount": 1,
+      "context": [
+        {
+          "tag": "cxt",
+          "id": "139"
+        },
+        {
+          "tag": "cxt",
+          "id": "2"
+        }
+      ],
+      "rawXml": "<trans-unit xmlns=\"urn:oasis:names:tc:xliff:document:1.2\" xmlns:sdl=\"http://sdl.com/FileTypes/SdlXliff/1.0\" id=\"6270d546-2209-49db-9f68-e2fc336e9103\"><source><x id=\"3\"/></source><seg-source><x id=\"3\"/></seg-source><target/></trans-unit>",
+      "studioCodeDefinitions": [
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        },
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        }
+      ],
+      "nonTranslatableStructuralProof": {
+        "sourceEmpty": true,
+        "segmentedSourceEmpty": true,
+        "targetEmpty": true,
+        "noSegmentMarkers": true,
+        "codesAreExcludedPageBreaks": true
+      },
+      "classification": "EMPTY_NON_TRANSLATABLE_PAGE_BREAK"
+    },
+    {
+      "index": 156,
+      "transUnitId": "cfcf1342-e224-49b7-b507-888f1b1cd7ba",
+      "sourceText": "",
+      "segmentedText": "",
+      "targetText": "",
+      "normalizedSource": "",
+      "segmentCount": 0,
+      "sourceElementCount": 1,
+      "segSourceElementCount": 1,
+      "inlineCodeCount": 1,
+      "context": [
+        {
+          "tag": "cxt",
+          "id": "160"
+        },
+        {
+          "tag": "cxt",
+          "id": "2"
+        }
+      ],
+      "rawXml": "<trans-unit xmlns=\"urn:oasis:names:tc:xliff:document:1.2\" xmlns:sdl=\"http://sdl.com/FileTypes/SdlXliff/1.0\" id=\"cfcf1342-e224-49b7-b507-888f1b1cd7ba\"><source><x id=\"4\"/></source><seg-source><x id=\"4\"/></seg-source><target/></trans-unit>",
+      "studioCodeDefinitions": [
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        },
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        }
+      ],
+      "nonTranslatableStructuralProof": {
+        "sourceEmpty": true,
+        "segmentedSourceEmpty": true,
+        "targetEmpty": true,
+        "noSegmentMarkers": true,
+        "codesAreExcludedPageBreaks": true
+      },
+      "classification": "EMPTY_NON_TRANSLATABLE_PAGE_BREAK"
+    },
+    {
+      "index": 182,
+      "transUnitId": "8bcce01a-3958-4b98-83b0-9f7031c41ce1",
+      "sourceText": "",
+      "segmentedText": "",
+      "targetText": "",
+      "normalizedSource": "",
+      "segmentCount": 0,
+      "sourceElementCount": 1,
+      "segSourceElementCount": 1,
+      "inlineCodeCount": 1,
+      "context": [
+        {
+          "tag": "cxt",
+          "id": "189"
+        },
+        {
+          "tag": "cxt",
+          "id": "2"
+        }
+      ],
+      "rawXml": "<trans-unit xmlns=\"urn:oasis:names:tc:xliff:document:1.2\" xmlns:sdl=\"http://sdl.com/FileTypes/SdlXliff/1.0\" id=\"8bcce01a-3958-4b98-83b0-9f7031c41ce1\"><source><x id=\"5\"/></source><seg-source><x id=\"5\"/></seg-source><target/></trans-unit>",
+      "studioCodeDefinitions": [
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        },
+        {
+          "name": "page",
+          "segmentationHint": "Exclude",
+          "definition": "<br type=\"page\"/><w:br w:type=\"page\"/>"
+        }
+      ],
+      "nonTranslatableStructuralProof": {
+        "sourceEmpty": true,
+        "segmentedSourceEmpty": true,
+        "targetEmpty": true,
+        "noSegmentMarkers": true,
+        "codesAreExcludedPageBreaks": true
+      },
+      "classification": "EMPTY_NON_TRANSLATABLE_PAGE_BREAK"
+    }
+  ],
+  "allExtrasProvenStructural": true,
+  "catPersistenceAllowed": false,
+  "catPersistenceBlocker": "SDLXLIFF and supplied project artifacts do not establish target language mk-MK."
+}

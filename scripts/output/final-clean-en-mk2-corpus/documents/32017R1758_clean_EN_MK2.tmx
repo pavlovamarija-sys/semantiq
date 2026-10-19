@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20220828T095619Z" creationid="LAPTOP-47GIDCVS\lekikj">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32017R1758_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32017R1758</prop>
+    <prop type="x-SourceTMX">32017R1758_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">60aa2006c82c5b3fe7a5569a43f6796810c81604560a7a71fdebafa6b5e9261c</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">9</prop>
+  </header>
+  <body>
+    <tu creationdate="20220828T095808Z" creationid="LAPTOP-47GIDCVS\lekikj" changedate="20220828T095811Z" changeid="LAPTOP-47GIDCVS\lekikj" lastusagedate="20220828T193609Z" usagecount="2">
+      <prop type="x-LastUsedBy">LAPTOP-47GIDCVS\lekikj</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING REGULATION (EU) 2017/1758</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2017/1758 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R1758</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T095819Z" creationid="LAPTOP-47GIDCVS\lekikj" changedate="20220828T095820Z" changeid="LAPTOP-47GIDCVS\lekikj" lastusagedate="20220828T193609Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-47GIDCVS\lekikj</prop>
+      <prop type="x-Context">7353582418551784268, 1901036649548470141</prop>
+      <prop type="x-ContextContent">COMMISSION IMPLEMENTING REGULATION (EU) 2017/1758 |  | РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2017/1758 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 27 September 2017</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 27 септември 2017 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R1758</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T095830Z" creationid="LAPTOP-47GIDCVS\lekikj" changedate="20220828T095832Z" changeid="LAPTOP-47GIDCVS\lekikj" lastusagedate="20220828T193609Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-47GIDCVS\lekikj</prop>
+      <prop type="x-Context">3657596318, -2974083973345206439</prop>
+      <prop type="x-ContextContent">of 27 September 2017 |  | од 27 септември 2017 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>laying down form and content of the accounting information to be submitted to the Commission for the purpose of the clearance of the accounts of the EAGF and the EAFRD as well as for monitoring and forecasting purposes</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за утврдување на формата и содржината на сметководствените информации што се доставуваат до Комисијата со цел порамнување на сметките на ЕАГФ и на ЕАФРД, како и за цели за следење и прогнозирање</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R1758</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T095839Z" creationid="LAPTOP-47GIDCVS\lekikj" changedate="20220828T095840Z" changeid="LAPTOP-47GIDCVS\lekikj" lastusagedate="20220828T193609Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-47GIDCVS\lekikj</prop>
+      <prop type="x-Context">-4944376939114574355, -6571827293250843546</prop>
+      <prop type="x-ContextContent">laying down form and content of the accounting information to be submitted to the Commission for the purpose of the clearance of the accounts of the EAGF and the EAFRD as well as for monitoring and forecasting purposes |  | за утврдување на формата и содржината на сметководствените информации што се доставуваат до Комисијата со цел порамнување на сметките на ЕАГФ и на ЕАФРД како и за цели за следење и прогнозирање | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R1758</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T095846Z" creationid="LAPTOP-47GIDCVS\lekikj" changedate="20220828T095848Z" changeid="LAPTOP-47GIDCVS\lekikj" lastusagedate="20220828T193609Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-47GIDCVS\lekikj</prop>
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-ContextContent">THE EUROPEAN COMMISSION, |  | ЕВРОПСКАТА КОМИСИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R1758</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T095901Z" creationid="LAPTOP-47GIDCVS\lekikj" changedate="20220828T095924Z" changeid="LAPTOP-47GIDCVS\lekikj" lastusagedate="20220828T193609Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-47GIDCVS\lekikj</prop>
+      <prop type="x-Context">-1630537092630497703, -2439055183373607700</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, |  | имајќи го предвид Договорот за функционирање на Европската Унија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Regulation (EU) No 1306/2013 of the European Parliament and of the Council of 17 December 2013 on the financing, management and monitoring of the common agricultural policy and repealing Council Regulations (EEC) No 352/78, (EC) No 165/94, (EC) No 2799/98, (EC) No 814/2000, (EC) No 1290/2005 and (EC) No 485/2008 (<ph x="1" type="6830" />), and in particular Article 104 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Регулативата (ЕУ) бр. 1306/2013 на Европскиот парламент и на Советот од 17 декември 2013 година за финансирањето, управувањето и следењето на заедничката земјоделска политика и за укинување на рРегулативите (ЕЕЗ) бр. 352/78, (ЕЗ) бр. 165/94, (ЕЗ) бр. 2799/98, (ЕЗ) бр. 814/2000, (ЕЗ) бр. 1290/2005 и (ЕЗ) бр. 485/2008 на Советот (), а особено член 104 од истата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R1758</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T100658Z" creationid="LAPTOP-47GIDCVS\lekikj" changedate="20220828T100659Z" changeid="LAPTOP-47GIDCVS\lekikj" lastusagedate="20220828T193634Z" usagecount="3">
+      <prop type="x-LastUsedBy">LAPTOP-47GIDCVS\lekikj</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">3521724722021, 3522654244714</prop>
+      <prop type="x-ContextContent">X-TABLE |  | X-ТАБЕЛА | </prop>
+      <prop type="x-Context">3233020039719621693, 136349112272896</prop>
+      <prop type="x-ContextContent">‘Aide-mémoire’ |  | „Ед-мемоар“ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Financial year 2018</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>нсиска година 2018</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R1758</prop>
+      <prop type="x-SourceTUIndex">33</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T100702Z" creationid="LAPTOP-47GIDCVS\lekikj" changedate="20220828T100702Z" changeid="LAPTOP-47GIDCVS\lekikj" lastusagedate="20220828T193637Z" usagecount="1120">
+      <prop type="x-LastUsedBy">LAPTOP-47GIDCVS\lekikj</prop>
+      <prop type="x-Context">-9185709225950351623, -3733379533555824014</prop>
+      <prop type="x-ContextContent">Regions whose GDP per capita for the 2007-2013 programming period was less than 75 % of the average of the EU-25 for the reference period but whose GDP per capita is above 75 % of the GDP average of the EU-27 |  | Региони чиј БДП по глава на жител за програмскиот период 2007-2013 бил помал од 75% од просекот на ЕУ-25 за референтниот период, но чиј БДП по глава на жител е над 75% од просечниот БДП во ЕУ-27 | </prop>
+      <prop type="x-Context">-7977268412807608666, -3250785597407894742</prop>
+      <prop type="x-ContextContent">Farm and business development (Article 19) |  | Развој на фарми и деловни активности (член 19) | </prop>
+      <prop type="x-Context">-7563510899535935789, 130923648560829254</prop>
+      <prop type="x-ContextContent">Advance payment |  | Авансна исплата | </prop>
+      <prop type="x-Context">-7152510278991669440, 592253132793501948</prop>
+      <prop type="x-ContextContent">Animal welfare (Article 33) |  | Добросостојба на животните (член 33) | </prop>
+      <prop type="x-Context">-7004008952561522148, 8592773489356889651</prop>
+      <prop type="x-ContextContent">Derogations/Other allocations |  | Отстапки/Друга пренамена | </prop>
+      <prop type="x-Context">-6999271245762596915, 1994750500356347114</prop>
+      <prop type="x-ContextContent">are for regional programmes |  | се за регионални програми | </prop>
+      <prop type="x-Context">-6361823535806074852, -4131425660184186971</prop>
+      <prop type="x-ContextContent">Risk management (Articles 36 to 39) |  | Управување со ризик (членови од 36 до 39) | </prop>
+      <prop type="x-Context">-6167748307179788788, 174391986645559513</prop>
+      <prop type="x-ContextContent">Additional allocation for Portugal and Cyprus |  | Дополнително распоредување за Португалија и Кипар | </prop>
+      <prop type="x-Context">-6157112810033389069, -6018844457047530933</prop>
+      <prop type="x-ContextContent">Temporary budgetary difficulties — Article 24(1) of Regulation (EU) No 1303/2013 |  | Привремени буџетски тешкотии — член 24(1)од Регулативата (ЕУ) бр. 1303/2013 | </prop>
+      <prop type="x-Context">-6022457333958116014, -3117714691750545711</prop>
+      <prop type="x-ContextContent">Investments in forest area development and improvement of the viability of forests (Articles 21 to 26) |  | Вложувања во развој на шумски области и подобрување на одржливоста на шумите (членови од 21 до 26) | </prop>
+      <prop type="x-Context">-5979239223642406878, 6456733062361001475</prop>
+      <prop type="x-ContextContent">The last two digits ‘PP’ indicate the programme number (figures between ‘00’ and ‘99’ are allowed) and where: |  | Последните две цифри „РР“ се однесуваат на програмскиот број (дозволени се цифри меѓу „00“ и „99“) и каде: | </prop>
+      <prop type="x-Context">-5480174186928556555, -3049123457413887422</prop>
+      <prop type="x-ContextContent">Technical assistance (Article 51) |  | Техничка помош (член 51) | </prop>
+      <prop type="x-Context">-5031892491035474949, -3001884743253947296</prop>
+      <prop type="x-ContextContent">Not applicable |  | Не е применливо | </prop>
+      <prop type="x-Context">-4734696232914554587, 7467911614791129888</prop>
+      <prop type="x-ContextContent">Final payment (first and single payment, or settlement of the balance after advance payment, partial payment) |  | Конечна исплата (прва и единствена исплата или порамнување на билансот по авансната исплата, делумна исплата) | </prop>
+      <prop type="x-Context">-4462632177649549227, 3498386630333771624</prop>
+      <prop type="x-ContextContent">Financing of complementary national direct payments for Croatia (Article 40) |  | Финансирање дополнителни национални директни исплати за Хрватска (член 40) | </prop>
+      <prop type="x-Context">-4362293902633445164, -1616766953524649606</prop>
+      <prop type="x-ContextContent">Recovery/reimbursement (following a penalty)/correction |  | Поврат/надомест (по казна)/исправка | </prop>
+      <prop type="x-Context">-4253217297328515885, -2084498792978202063</prop>
+      <prop type="x-ContextContent">Knowledge transfer and information actions (Article 14) |  | Пренос на знаење и активности за информирање (член 14) | </prop>
+      <prop type="x-Context">-4036015970500059036, -3565579211706750455</prop>
+      <prop type="x-ContextContent">Setting-up of producer groups and organisations (Article 27) |  | Основање здруженија и организации на производители (член 27) | </prop>
+      <prop type="x-Context">-4006287804933468099, -4006287804933468099</prop>
+      <prop type="x-ContextContent">https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2013:347:TOC |  | https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2013:347:TOC | </prop>
+      <prop type="x-Context">-3099091957158565148, 468307075621559238</prop>
+      <prop type="x-ContextContent">Less developed regions, outermost regions and in the smaller Aegean islands within the meaning of Regulation (EU) No 229/2013 |  | Помалку развиени региони, најдалечни региони и помали егејски острови во рамките на значењето на Регулативата (ЕУ) бр. 229/2013 | </prop>
+      <prop type="x-Context">-722152763966798824, -2035417306409926333</prop>
+      <prop type="x-ContextContent">Investments in physical assets (Article 17) |  | Вложувања во физички средства (член 17) | </prop>
+      <prop type="x-Context">-78654479042603598, -8832673997851784096</prop>
+      <prop type="x-ContextContent">Quality schemes for agricultural products and foodstuffs (Article 16) |  | Програми за квалитет за земјоделски производи и храна (член 16) | </prop>
+      <prop type="x-Context">122295, 122295</prop>
+      <prop type="x-ContextContent">A |  | A | </prop>
+      <prop type="x-Context">122388, 122388</prop>
+      <prop type="x-ContextContent">D |  | D | </prop>
+      <prop type="x-Context">123008, 123008</prop>
+      <prop type="x-ContextContent">X |  | X | </prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4: |  | 4: | </prop>
+      <prop type="x-Context">2032422, 2032422</prop>
+      <prop type="x-ContextContent">F100 |  | F100 | </prop>
+      <prop type="x-Context">3368663427242658, 1766375912621347555</prop>
+      <prop type="x-ContextContent">Food aid |  | Помош во храна | </prop>
+      <prop type="x-Context">3374346538719211, 4405490792479</prop>
+      <prop type="x-ContextContent">Measure (1) | AgIJAQEBAQU1MzgwMwEBAgEBBTUzODAzAQ== | Мерка (1) | AgIHAQEBAQU1MzgwMwEBAgEBBTUzODAzAQ==</prop>
+      <prop type="x-Context">104297255095052594, 4408459932179</prop>
+      <prop type="x-ContextContent">Applicable |  | Применливо | </prop>
+      <prop type="x-Context">263209649520501574, -811859461925926862</prop>
+      <prop type="x-ContextContent">Support for LEADER local development (CLLD — community-led local development) (Articles 42, 43 and 44) |  | Поддршка за локалниот развој во рамките на ЛИДЕР (CLLD — локален развој управуван од локалната заедница) (членови 42, 43 и 44) | </prop>
+      <prop type="x-Context">741957235775015968, 131041861395646462</prop>
+      <prop type="x-ContextContent">Other regions |  | Други региони | </prop>
+      <prop type="x-Context">793476319847607067, 3948615453737904798</prop>
+      <prop type="x-ContextContent">Receipt of amounts (not preceded by an advance or final payment) |  | Принос (на кој не  му претходи авансна или конечна исплата) | </prop>
+      <prop type="x-Context">1062504190451256726, 4321357845918902404</prop>
+      <prop type="x-ContextContent">Union-level financial instruments referred to in Article 38(1)(a) of Regulation (EU) No 1303/2013 |  | Финансиски инструменти на ниво на Унијата наведени во член 38(1)(а) од Регулативата (ЕУ) бр. 1303/2013 | </prop>
+      <prop type="x-Context">1700353932960136768, -5075768184865282269</prop>
+      <prop type="x-ContextContent">Operations contributing to the objectives of environment and climate change mitigation and adaptation |  | Активности што придонесуваат за целите за ублажување приспособување на еколошките и климатските промени | </prop>
+      <prop type="x-Context">2243762407214513088, -3290208752311300148</prop>
+      <prop type="x-ContextContent">Category of contribution rates |  | Категорија на стапки за придонес | </prop>
+      <prop type="x-Context">2427973570940828644, -6498224154737931033</prop>
+      <prop type="x-ContextContent">Natura 2000 and Water Framework Directive payments (Article 30) |  | Исплати во однос на мрежата Натура 2000 Рамковната директива за води (член 30) | </prop>
+      <prop type="x-Context">2758178427416939982, 2278281584590486244</prop>
+      <prop type="x-ContextContent">113 — Early retirement (2) | AgIYAQEBAQU1NDg3NwEBAgEBBTU0ODc3AQ== | 113 — Предвремено пензионирање (2) | AgIgAQEBAQU1NDg3NwEBAgEBBTU0ODc3AQ==</prop>
+      <prop type="x-Context">3242647947223466791, 4586428517</prop>
+      <prop type="x-ContextContent">Mainstream |  | Општо | </prop>
+      <prop type="x-Context">3283837178611795686, -8090559789556637802</prop>
+      <prop type="x-ContextContent">Organic farming (Article 29) |  | Органско земјоделство (член 29) | </prop>
+      <prop type="x-Context">3575370444134923075, 7936868723692952760</prop>
+      <prop type="x-ContextContent">Payments to areas facing natural or other specific constraints (Articles 31 and 32) |  | Исплати на области што се соочуваат со природни или други посебни ограничувања (член 31 и 32) | </prop>
+      <prop type="x-Context">3997763847992345410, 3345418736393791539</prop>
+      <prop type="x-ContextContent">Cooperation (Article 35) |  | Соработка (член 35) | </prop>
+      <prop type="x-Context">4313016190054154640, -154740069976210855</prop>
+      <prop type="x-ContextContent">No financial transaction |  | Нема финансиска трансакција | </prop>
+      <prop type="x-Context">5128215051256542505, -6634745680803459929</prop>
+      <prop type="x-ContextContent">Basic services and village renewal in rural areas (Article 20) |  | Основни услуги и обновување на селата во руралните области (член 20) | </prop>
+      <prop type="x-Context">5589327216917215319, -5195520297193768646</prop>
+      <prop type="x-ContextContent">Transition regions other than those referred to in Article 59(3)(b) of Regulation (EU) No 1305/2013 |  | Преодни региони освен оние наведени во член 59(3)(б) од Регулативата (ЕУ) бр. 1305/2013 | </prop>
+      <prop type="x-Context">6410412609630005384, -3941235995653163707</prop>
+      <prop type="x-ContextContent">Restoring agricultural production potential damaged by natural disasters and catastrophic events and introduction of appropriate prevention actions (Article 18) |  | Обновување на потенцијалот на земјоделското производство оштетен од природни незгоди и разорни уништувања и воведување соодветни превентивни активности (член 18) | </prop>
+      <prop type="x-Context">6445657086025569109, 6666440673957270070</prop>
+      <prop type="x-ContextContent">Advisory services, farm management and farm relief services (Article 15) |  | Советодавни услуги, услуги за управување со фарма и помош на фарма (член 15) | </prop>
+      <prop type="x-Context">6536526215954493274, 8896867017620086470</prop>
+      <prop type="x-ContextContent">Forest environmental and climate services and forest conservation (Article 34) |  | Услуги за шумската животна средина и клима и за зачувување на шумите (член 34) | </prop>
+      <prop type="x-Context">6569072086133966415, 1074908590272448845</prop>
+      <prop type="x-ContextContent">Agri-environment-climate (Article 28) |  | Земјоделски, еколошки и климатски услови (член 28) | </prop>
+      <prop type="x-Context">6582353636097966526, -5360866853878722637</prop>
+      <prop type="x-ContextContent">Operations receiving funding from funds transferred to the EAFRD in application of Articles 7(2) and 14(1) of Regulation (EU) No 1307/2013 |  | Активности за што се добиваат финансии од фондови пренесени во ЕАФРД од примена на членовите 7(2) и 14(1) од Регулативата (ЕУ) бр. 1307/2013 | </prop>
+      <prop type="x-Context">6641754934219803927, -4283302707926762944</prop>
+      <prop type="x-ContextContent">131 — Meeting standards based on Union legislation (2) | AgI0AQEBAQU1NDkzNwEBAgEBBTU0OTM3AQ== | 131 — Исполнување на стандардите врз основа на законодавството на Унијата (2) | AgJLAQEBAQU1NDkzNwEBAgEBBTU0OTM3AQ==</prop>
+      <prop type="x-Context">7438666133213002594, 6138040740181327626</prop>
+      <prop type="x-ContextContent">Financial year 2018 |  | Финансиска година 2018 | </prop>
+      <prop type="x-Context">8447320715998964758, 4579881379</prop>
+      <prop type="x-ContextContent">Significance |  | Значење | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>2018</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2018</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R1758</prop>
+      <prop type="x-SourceTUIndex">34</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220828T100713Z" creationid="LAPTOP-47GIDCVS\lekikj" changedate="20220828T100713Z" changeid="LAPTOP-47GIDCVS\lekikj" lastusagedate="20220828T193631Z" usagecount="47">
+      <prop type="x-LastUsedBy">LAPTOP-47GIDCVS\lekikj</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4: |  | 4: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>A↓</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>A↓</seg>
+      </tuv>
+      <prop type="x-CELEX">32017R1758</prop>
+      <prop type="x-SourceTUIndex">35</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

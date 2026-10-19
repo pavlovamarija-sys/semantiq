@@ -1,0 +1,1504 @@
+{
+  "counts": {
+    "ABSTAIN": 54,
+    "MERGE": 95,
+    "KEEP_BOUNDARY": 11
+  },
+  "mergeSurvival": {
+    "total": 95,
+    "survivedWithinOneStudioUnit": 95
+  },
+  "keepBoundarySeparate": 11,
+  "abstain": {
+    "total": 54,
+    "retained": 54
+  },
+  "decisions": [
+    {
+      "nodeId": "paragraphboundary-45cd397b9ae74392",
+      "outcome": "abstain",
+      "leftText": "Directive 98/37/EC of the European Parliament and of the Council of 22 June 1998 on the approximation of the laws of the Member States relating to machinery (4) codified",
+      "rightText": "(1)",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-036571ae0b23927c",
+      "outcome": "merge",
+      "leftText": "Directive",
+      "rightText": "89/392/EEC (5).",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "a1adac7e-c087-43c0-8316-78072b9f61ad"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-b64ac0dffaa810f0",
+      "outcome": "merge",
+      "leftText": "Now",
+      "rightText": "that new",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "c337e8ed-068e-4892-9939-766bd98a5b78"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-2ac8aeb2bfd205fb",
+      "outcome": "merge",
+      "leftText": "Now that new",
+      "rightText": "substantial amendments are being made to Directive 98/ 37/EC, it is desirable, in order to clarify matters, that that Directive should be recast.",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "c337e8ed-068e-4892-9939-766bd98a5b78"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-e4446b5869be8854",
+      "outcome": "abstain",
+      "leftText": "12.11.2003, p. 491), Council Common Position of 18 July 2005 (OJ C 251 E, 11.10.2005, p. 1) and Position of the European Parlia- ment of 15 December 2005 (not yet published in the Official Journal). Council Decision of 25 April 2006. (4) OJ L 207, 23.7.1998, p. 1. Directive as amended by Directive",
+      "rightText": "98/79/EC (OJ L 331, 7.12.1998, p. 1). (5) Council Directive 89/392/EEC of 14 June 1989 on the approxima-",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-bc2ad5dfd521e7c1",
+      "outcome": "abstain",
+      "leftText": "98/79/EC (OJ L 331, 7.12.1998, p. 1). (5) Council Directive 89/392/EEC of 14 June 1989 on the approxima-",
+      "rightText": "tion of the laws of the Member States relating to machinery (OJ L 183, 29.6.1989, p. 9).",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-e76ef87024fa8a6d",
+      "outcome": "abstain",
+      "leftText": "The Member States' mandatory provisions governing construction site hoists intended for lifting persons or persons and goods, which are often supplemented by de facto compulsory technical specifications and/or by voluntary standards, do not necessarily lead to different levels of health and safety but, because of their dispari- ties, do nevertheless constitute barriers to trade within the Community. Moreover, the national systems for the conformity",
+      "rightText": "(5)",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-cb1225060d205b02",
+      "outcome": "keep_boundary",
+      "leftText": "(5)",
+      "rightText": "assessment",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-84eb7e7f152e3419",
+      "outcome": "merge",
+      "leftText": "assessment",
+      "rightText": "and certification",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "f4374ae6-fb7b-44ae-860a-8f6ce6d1ccf9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-85240dc0949bf2a9",
+      "outcome": "merge",
+      "leftText": "assessment and certification",
+      "rightText": "of these",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "f4374ae6-fb7b-44ae-860a-8f6ce6d1ccf9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-236af432782afa18",
+      "outcome": "merge",
+      "leftText": "assessment and certification of these",
+      "rightText": "machines diverge considerably. It is therefore desirable not to exclude from the scope of this Directive construc- tion site hoists intended for lifting persons or persons and goods.",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "f4374ae6-fb7b-44ae-860a-8f6ce6d1ccf9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-702ea77e43aab07d",
+      "outcome": "abstain",
+      "leftText": "It is appropriate to exclude from the scope of this Direc- tive weapons, including firearms, that are subject to Council Directive 91/477/EEC of 18 June 1991 on control of the acquisition and possession of weapons (6); the exclusion of firearms should not apply to portable cartridge-operated fixing and other impact machinery designed for industrial or technical purposes only. It is necessary",
+      "rightText": "(6)",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-f874bfce27491985",
+      "outcome": "keep_boundary",
+      "leftText": "(6)",
+      "rightText": "to provide",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-27636e4efd48846a",
+      "outcome": "merge",
+      "leftText": "to provide",
+      "rightText": "for transitional",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "707aad64-5db7-434a-a5c2-a1116da869b9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-49a2b07d98a87ef5",
+      "outcome": "merge",
+      "leftText": "to provide for transitional",
+      "rightText": "arrangements",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "707aad64-5db7-434a-a5c2-a1116da869b9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-0edb6a877d247fb9",
+      "outcome": "merge",
+      "leftText": "to provide for transitional arrangements",
+      "rightText": "enabling Member States to authorise the placing on the market and putting into service of such machinery manufactured in accordance with national provisions in force upon adoption of this Directive, including those implementing the Convention of 1 July 1969 on the Reciprocal Recognition of Proofmarks on Small Arms. Such transitional arrangements will also enable the Euro- pean standardisation organisations to draft standards ensuring the safety level based on the state of the art.",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "707aad64-5db7-434a-a5c2-a1116da869b9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-72d20b6989bace67",
+      "outcome": "abstain",
+      "leftText": "In relation to agricultural and forestry tractors, the provi- sions of this Directive concerning the risks currently not covered by Directive 2003/37/EC of the European Parlia- ment and of the Council of 26 May 2003 on type- approval of agricultural or forestry tractors, their trailers and interchangeable towed machinery, together with their",
+      "rightText": "(8)",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-78b954e8e511340f",
+      "outcome": "keep_boundary",
+      "leftText": "(8)",
+      "rightText": "systems,",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-3f09d85c3a9b97c1",
+      "outcome": "merge",
+      "leftText": "systems,",
+      "rightText": "components",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "aa1f9b6a-3aa4-4eaa-826d-3d49e553615b"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-0365f29ce1e560ba",
+      "outcome": "merge",
+      "leftText": "systems, components",
+      "rightText": "and separate",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "aa1f9b6a-3aa4-4eaa-826d-3d49e553615b"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-b10b5800ad6c709e",
+      "outcome": "merge",
+      "leftText": "systems, components and separate",
+      "rightText": "technical",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "aa1f9b6a-3aa4-4eaa-826d-3d49e553615b"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-aea42eb79e10eb2a",
+      "outcome": "merge",
+      "leftText": "systems, components and separate technical",
+      "rightText": "units (1) should no longer apply when such risks are covered by Directive 2003/37/EC.",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "aa1f9b6a-3aa4-4eaa-826d-3d49e553615b"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-cf3d0bca105fc83b",
+      "outcome": "merge",
+      "leftText": "It is",
+      "rightText": "also necessary",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "eeb4508b-a6a0-4c4e-84c1-557491529ef7"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-50679bd924d12549",
+      "outcome": "merge",
+      "leftText": "It is also necessary",
+      "rightText": "to provide",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "eeb4508b-a6a0-4c4e-84c1-557491529ef7"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-6a066c6e88e88393",
+      "outcome": "merge",
+      "leftText": "It is also necessary to provide",
+      "rightText": "for an",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "eeb4508b-a6a0-4c4e-84c1-557491529ef7"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-3eba0a675cc3014c",
+      "outcome": "merge",
+      "leftText": "It is also necessary to provide for an",
+      "rightText": "adequate",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "eeb4508b-a6a0-4c4e-84c1-557491529ef7"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-ea9d0426aba46420",
+      "outcome": "abstain",
+      "leftText": "It is also necessary to provide for an adequate",
+      "rightText": "(13)",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-5473437cd4a9733f",
+      "outcome": "keep_boundary",
+      "leftText": "(13)",
+      "rightText": "mechanism",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-437925614dea4ee9",
+      "outcome": "merge",
+      "leftText": "mechanism",
+      "rightText": "allowing",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "7cecf5b1-da42-470d-9105-1be729211ca1"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-9e7a08e05abfba05",
+      "outcome": "merge",
+      "leftText": "mechanism allowing",
+      "rightText": "for the",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "7cecf5b1-da42-470d-9105-1be729211ca1"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-887cd82ae80fed21",
+      "outcome": "merge",
+      "leftText": "mechanism allowing for the",
+      "rightText": "adoption",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "7cecf5b1-da42-470d-9105-1be729211ca1"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-d8aea456126a9f70",
+      "outcome": "merge",
+      "leftText": "mechanism allowing for the adoption",
+      "rightText": "of specific",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "7cecf5b1-da42-470d-9105-1be729211ca1"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-6d187d7859830eeb",
+      "outcome": "merge",
+      "leftText": "mechanism allowing for the adoption of specific",
+      "rightText": "measures at Community level requiring Member States to prohibit or restrict the placing on the market of certain types of machinery presenting the same risks to the health and safety of persons either due to shortcom- ings in the relevant harmonised standard(s) or by virtue of their technical characteristics, or to make such machinery subject to special conditions. In order to ensure the appropriate assessment of the need for such measures, they should be taken by the Commission, assisted by a committee, in the light of consultations with the Member States and other interested parties. Since such measures are not directly applicable to",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "7cecf5b1-da42-470d-9105-1be729211ca1"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-ec864d2602c47ea8",
+      "outcome": "abstain",
+      "leftText": "L 157/25",
+      "rightText": "economic operators, Member States should take all necessary measures for their implementation.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-e1e5286580effe0a",
+      "outcome": "abstain",
+      "leftText": "For trade fairs, exhibitions and such like, it should be possible to exhibit machinery which does not satisfy the requirements",
+      "rightText": "(17)",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-9c8a478f317dc969",
+      "outcome": "keep_boundary",
+      "leftText": "(17)",
+      "rightText": "of this",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-7ea3aab7e77f2c70",
+      "outcome": "merge",
+      "leftText": "However,",
+      "rightText": "interested",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "506af517-fdf9-4c29-bf66-58613d1b58bd"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-8f4e6183da70be8e",
+      "outcome": "merge",
+      "leftText": "However, interested",
+      "rightText": "parties should be properly informed that the machinery does not conform and cannot be purchased in that condition.",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "506af517-fdf9-4c29-bf66-58613d1b58bd"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-a8196986fc01e2d7",
+      "outcome": "abstain",
+      "leftText": "The CE marking should be fully recognised as being the only",
+      "rightText": "(21)",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-026f89bd686dfa9a",
+      "outcome": "keep_boundary",
+      "leftText": "(21)",
+      "rightText": "marking",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-91483fdc8e6ef447",
+      "outcome": "merge",
+      "leftText": "marking",
+      "rightText": "which",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "15f20fb8-dfcc-4542-b2d8-435ceebf8354"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-bc72cdeba180f751",
+      "outcome": "merge",
+      "leftText": "marking which",
+      "rightText": "guarantees",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "15f20fb8-dfcc-4542-b2d8-435ceebf8354"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-c393d0e7300e2d3e",
+      "outcome": "merge",
+      "leftText": "marking which guarantees",
+      "rightText": "that",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "15f20fb8-dfcc-4542-b2d8-435ceebf8354"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-a4e1c5539e832c87",
+      "outcome": "merge",
+      "leftText": "marking which guarantees that",
+      "rightText": "machinery",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "15f20fb8-dfcc-4542-b2d8-435ceebf8354"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-85f7e495f569e8be",
+      "outcome": "merge",
+      "leftText": "marking which guarantees that machinery",
+      "rightText": "conforms to the requirements of this Directive. All other markings which are likely to mislead third parties as to the meaning or the form of the CE marking, or both, should be prohibited.",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "15f20fb8-dfcc-4542-b2d8-435ceebf8354"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-c32298b30c8e7f10",
+      "outcome": "merge",
+      "leftText": "The manufacturer",
+      "rightText": "or his",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "ee113ebf-a211-4359-b33d-96dfb480a820",
+        "0bbc8039-c493-4f0a-bcb8-607b2128df68",
+        "441bf417-6d1f-4e26-8160-17de83517966"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-ff8116b626b09a0f",
+      "outcome": "merge",
+      "leftText": "The manufacturer or his",
+      "rightText": "authorised",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "ee113ebf-a211-4359-b33d-96dfb480a820",
+        "0bbc8039-c493-4f0a-bcb8-607b2128df68",
+        "441bf417-6d1f-4e26-8160-17de83517966"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-03c01e29b36b8c68",
+      "outcome": "merge",
+      "leftText": "The manufacturer or his authorised",
+      "rightText": "representative",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "ee113ebf-a211-4359-b33d-96dfb480a820",
+        "0bbc8039-c493-4f0a-bcb8-607b2128df68",
+        "42754d77-2f55-4685-a1ea-7332517122ee"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-66b26bd28ba4a898",
+      "outcome": "abstain",
+      "leftText": "The manufacturer or his authorised representative",
+      "rightText": "(23)",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-20a1938c68d36548",
+      "outcome": "keep_boundary",
+      "leftText": "(23)",
+      "rightText": "should also ensure that a risk assessment is carried out for the machinery which he wishes to place on the market. For this purpose, he should determine which are the essential health and safety requirements applicable to his machinery and in respect of which he must take measures.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-47ad7d83582d9ebb",
+      "outcome": "abstain",
+      "leftText": "Member States should provide for penalties applicable to infringements of the provisions of this Directive. Those penalties",
+      "rightText": "(26)",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-eac3ce65f8cd9979",
+      "outcome": "keep_boundary",
+      "leftText": "(26)",
+      "rightText": "should",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-39e10d209027ce4a",
+      "outcome": "merge",
+      "leftText": "should",
+      "rightText": "be",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "c337e8ed-068e-4892-9939-766bd98a5b78",
+        "d32ee3da-f366-4f00-b4cf-229647153dea",
+        "238ed91d-7999-49e9-a7f1-f91bb496b767"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-aa4105a4862bb331",
+      "outcome": "merge",
+      "leftText": "should be",
+      "rightText": "effective,",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "3c02a295-35b3-4d37-80bd-7679dcaabe4d"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-a3f198229a18d875",
+      "outcome": "merge",
+      "leftText": "should be effective,",
+      "rightText": "proportionate",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "3c02a295-35b3-4d37-80bd-7679dcaabe4d"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-0b59b5c3f099ebe8",
+      "outcome": "merge",
+      "leftText": "should be effective, proportionate",
+      "rightText": "and dissuasive.",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "3c02a295-35b3-4d37-80bd-7679dcaabe4d"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-bf1214914f04cc36",
+      "outcome": "abstain",
+      "leftText": "The application of this Directive to a number of machines intended for lifting persons requires a better delimitation of the products covered by this Directive",
+      "rightText": "(27)",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-211961b4b0a83cbd",
+      "outcome": "abstain",
+      "leftText": "(27)",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-cf999fd0150179e0",
+      "outcome": "keep_boundary",
+      "leftText": "9.6.2006",
+      "rightText": "with respect to those covered by Directive 95/16/EC of the European Parliament and of the Council of 29 June 1995 on the approximation of the laws of the Member States relating to lifts (1). A redefinition of the scope of the latter Directive is thus deemed necessary. Direc- tive 95/16/EC should therefore be amended accordingly.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-f694629e6ec2a35d",
+      "outcome": "abstain",
+      "leftText": "The measures necessary for the implementation of this Directive should be adopted in accordance with Council Decision 1999/468/EC of 28 June 1999 laying down the procedures for the exercise of implementing powers conferred on the Commission (3),",
+      "rightText": "(30)",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-1eb8481a3f54bc31",
+      "outcome": "merge",
+      "leftText": "— agricultural and forestry tractors for the risks covered by Directive",
+      "rightText": "2003/37/EC,",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "c2fa057e-d1a1-461d-89df-2d241c313adb"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-9dc6f935435ed34d",
+      "outcome": "merge",
+      "leftText": "— agricultural and forestry tractors for the risks covered by Directive 2003/37/EC,",
+      "rightText": "with",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "c2fa057e-d1a1-461d-89df-2d241c313adb"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-932ec9a69242ef4e",
+      "outcome": "merge",
+      "leftText": "— agricultural and forestry tractors for the risks covered by Directive 2003/37/EC, with",
+      "rightText": "the exclusion",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "c2fa057e-d1a1-461d-89df-2d241c313adb"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-8e2b5fb2c106836d",
+      "outcome": "merge",
+      "leftText": "— agricultural and forestry tractors for the risks covered by Directive 2003/37/EC, with the exclusion",
+      "rightText": "of",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "c2fa057e-d1a1-461d-89df-2d241c313adb"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-0963aec4e9336e88",
+      "outcome": "merge",
+      "leftText": "— agricultural and forestry tractors for the risks covered by Directive 2003/37/EC, with the exclusion of",
+      "rightText": "machinery mounted on these vehicles,",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "c2fa057e-d1a1-461d-89df-2d241c313adb"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-9f9dea1b581a06a2",
+      "outcome": "merge",
+      "leftText": "Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their",
+      "rightText": "trailers (1),",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "9f81650a-1c3d-4f03-9b76-8e23959ae197"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-afb53fd018c0d608",
+      "outcome": "merge",
+      "leftText": "Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (1),",
+      "rightText": "with the",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "9f81650a-1c3d-4f03-9b76-8e23959ae197"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-66479bdabdd6e5bc",
+      "outcome": "merge",
+      "leftText": "Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (1), with the",
+      "rightText": "exclusion",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "9f81650a-1c3d-4f03-9b76-8e23959ae197"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-ad0a3198c023157b",
+      "outcome": "merge",
+      "leftText": "Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (1), with the exclusion",
+      "rightText": "of machinery",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "9f81650a-1c3d-4f03-9b76-8e23959ae197"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-1502464cb9494365",
+      "outcome": "merge",
+      "leftText": "Directive 70/156/EEC of 6 February 1970 on the approximation of the laws of the Member States relating to the type-approval of motor vehicles and their trailers (1), with the exclusion of machinery",
+      "rightText": "mounted on these vehicles,",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "9f81650a-1c3d-4f03-9b76-8e23959ae197"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-13d68f06432e517a",
+      "outcome": "merge",
+      "leftText": "(k) electrical",
+      "rightText": "and electronic",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "52fe12ae-e238-475f-b989-cfddfbf56ec6"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-8d3f07b81efb80bc",
+      "outcome": "merge",
+      "leftText": "(k) electrical and electronic",
+      "rightText": "products",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "52fe12ae-e238-475f-b989-cfddfbf56ec6"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-58a94ee27f506a6c",
+      "outcome": "merge",
+      "leftText": "(k) electrical and electronic products",
+      "rightText": "falling",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "52fe12ae-e238-475f-b989-cfddfbf56ec6"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-949aecd314fd48cb",
+      "outcome": "merge",
+      "leftText": "(k) electrical and electronic products falling",
+      "rightText": "within",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "52fe12ae-e238-475f-b989-cfddfbf56ec6"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-b88feaf73ec40674",
+      "outcome": "merge",
+      "leftText": "(k) electrical and electronic products falling within",
+      "rightText": "the",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "52fe12ae-e238-475f-b989-cfddfbf56ec6"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-8e729e527fafa9e4",
+      "outcome": "merge",
+      "leftText": "(k) electrical and electronic products falling within the",
+      "rightText": "following areas, insofar as they are covered by Council Directive 73/23/EEC of 19 February 1973 on the harmoni- sation of the laws of Member States relating to electrical equipment designed for use within certain voltage limits (3):",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "52fe12ae-e238-475f-b989-cfddfbf56ec6"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-5566f26f68b83ab0",
+      "outcome": "merge",
+      "leftText": "— an assembly of linked parts or components, at least one of which",
+      "rightText": "moves and which",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "84cc7340-23ec-404b-807d-ee80f9e4fbe8"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-13e6420a95bc3e3d",
+      "outcome": "merge",
+      "leftText": "— an assembly of linked parts or components, at least one of which moves and which",
+      "rightText": "are joined",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "84cc7340-23ec-404b-807d-ee80f9e4fbe8"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-511a5ae8bf7e5dae",
+      "outcome": "merge",
+      "leftText": "— an assembly of linked parts or components, at least one of which moves and which are joined",
+      "rightText": "together,",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "84cc7340-23ec-404b-807d-ee80f9e4fbe8"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-f500d9491febad66",
+      "outcome": "merge",
+      "leftText": "— an assembly of linked parts or components, at least one of which moves and which are joined together,",
+      "rightText": "intended for lifting loads and whose only power source is directly applied human effort;",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "84cc7340-23ec-404b-807d-ee80f9e4fbe8"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-27db75a98e91c931",
+      "outcome": "merge",
+      "leftText": "(i) ‘manufacturer’ means any natural or legal person who designs",
+      "rightText": "and/or",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "bc08e322-da4d-4f09-a683-4f83c3d401a7"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-3381d871d8c45cd8",
+      "outcome": "merge",
+      "leftText": "(i) ‘manufacturer’ means any natural or legal person who designs and/or",
+      "rightText": "manufactures",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "bc08e322-da4d-4f09-a683-4f83c3d401a7"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-8d8287a79c2e799c",
+      "outcome": "merge",
+      "leftText": "(i) ‘manufacturer’ means any natural or legal person who designs and/or manufactures",
+      "rightText": "machinery",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "bc08e322-da4d-4f09-a683-4f83c3d401a7"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-26647fd9b2eab9f0",
+      "outcome": "merge",
+      "leftText": "(i) ‘manufacturer’ means any natural or legal person who designs and/or manufactures machinery",
+      "rightText": "or partly",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "bc08e322-da4d-4f09-a683-4f83c3d401a7"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-d9eb061cd85b2471",
+      "outcome": "merge",
+      "leftText": "(i) ‘manufacturer’ means any natural or legal person who designs and/or manufactures machinery or partly",
+      "rightText": "completed machinery covered by this Directive and is responsible for the conformity of the machinery or the",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "bc08e322-da4d-4f09-a683-4f83c3d401a7"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-01628ca7e10f648c",
+      "outcome": "abstain",
+      "leftText": "(i) ‘manufacturer’ means any natural or legal person who designs and/or manufactures machinery or partly completed machinery covered by this Directive and is responsible for the conformity of the machinery or the",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-538daaa125fe4830",
+      "outcome": "keep_boundary",
+      "leftText": "9.6.2006",
+      "rightText": "partly completed machinery with this Directive with a view to its being placed on the market, under his own name or trademark or for his own use. In the absence of a manufac- turer as defined above, any natural or legal person who places on the market or puts into service machinery or partly completed machinery covered by this Directive shall be considered a manufacturer;",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-41f64ec55a9e60b6",
+      "outcome": "merge",
+      "leftText": "Committee",
+      "rightText": "for Electrotechnical",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "64e7b781-fb51-4022-bfe6-3868c31f14b7"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-6211afaaf14ec37f",
+      "outcome": "merge",
+      "leftText": "2. Before",
+      "rightText": "placing",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "2143f942-39ad-488d-b997-86cc13e20ba9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-6257039e79ed422e",
+      "outcome": "merge",
+      "leftText": "2. Before placing",
+      "rightText": "partly",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "2143f942-39ad-488d-b997-86cc13e20ba9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-b67e8f9191778668",
+      "outcome": "merge",
+      "leftText": "2. Before placing partly",
+      "rightText": "completed",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "2143f942-39ad-488d-b997-86cc13e20ba9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-5ca58a93b1c074c2",
+      "outcome": "merge",
+      "leftText": "2. Before placing partly completed",
+      "rightText": "machinery",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "2143f942-39ad-488d-b997-86cc13e20ba9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-3adfadb08cc0735b",
+      "outcome": "merge",
+      "leftText": "2. Before placing partly completed machinery",
+      "rightText": "on the",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "2143f942-39ad-488d-b997-86cc13e20ba9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-454a72740d51dd96",
+      "outcome": "merge",
+      "leftText": "2. Before placing partly completed machinery on the",
+      "rightText": "market, the manufacturer or his authorised representative shall ensure that the procedure referred to in Article 13 has been completed.",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "2143f942-39ad-488d-b997-86cc13e20ba9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-67cc7e37729f6afa",
+      "outcome": "abstain",
+      "leftText": "L 157/29",
+      "rightText": "a transitional period, the system to be applied, the CE marking shall indicate conformity only to the provisions of those Direc- tives applied by the manufacturer or his authorised representa- tive. Particulars of the Directives applied, as published in the Official Journal of the European Union, shall be given on the EC declaration of conformity.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-53d1170ddef13287",
+      "outcome": "merge",
+      "leftText": "3. At trade fairs, exhibitions, demonstrations, and such like, Member States shall not prevent the showing of machinery or partly completed machinery which does not conform to this Directive, provided that a visible sign clearly indicates that it does not conform and that it will not be made available until it has been brought into conformity. Furthermore, during demon- strations",
+      "rightText": "of such",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "89de1b59-f015-46c2-923e-b4a0bdcb9df3"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-edfbfca443438138",
+      "outcome": "merge",
+      "leftText": "3. At trade fairs, exhibitions, demonstrations, and such like, Member States shall not prevent the showing of machinery or partly completed machinery which does not conform to this Directive, provided that a visible sign clearly indicates that it does not conform and that it will not be made available until it has been brought into conformity. Furthermore, during demon- strations of such",
+      "rightText": "non-conforming",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "89de1b59-f015-46c2-923e-b4a0bdcb9df3"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-835ecb41e0a668f5",
+      "outcome": "merge",
+      "leftText": "3. At trade fairs, exhibitions, demonstrations, and such like, Member States shall not prevent the showing of machinery or partly completed machinery which does not conform to this Directive, provided that a visible sign clearly indicates that it does not conform and that it will not be made available until it has been brought into conformity. Furthermore, during demon- strations of such non-conforming",
+      "rightText": "machinery",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "89de1b59-f015-46c2-923e-b4a0bdcb9df3"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-b0d1178e06c66c15",
+      "outcome": "merge",
+      "leftText": "3. At trade fairs, exhibitions, demonstrations, and such like, Member States shall not prevent the showing of machinery or partly completed machinery which does not conform to this Directive, provided that a visible sign clearly indicates that it does not conform and that it will not be made available until it has been brought into conformity. Furthermore, during demon- strations of such non-conforming machinery",
+      "rightText": "or partly",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "89de1b59-f015-46c2-923e-b4a0bdcb9df3"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-e031484e06a1673e",
+      "outcome": "merge",
+      "leftText": "3. At trade fairs, exhibitions, demonstrations, and such like, Member States shall not prevent the showing of machinery or partly completed machinery which does not conform to this Directive, provided that a visible sign clearly indicates that it does not conform and that it will not be made available until it has been brought into conformity. Furthermore, during demon- strations of such non-conforming machinery or partly",
+      "rightText": "completed machinery, adequate safety measures shall be taken to ensure the protection of persons.",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "89de1b59-f015-46c2-923e-b4a0bdcb9df3"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-8d2fdae5c9fd5392",
+      "outcome": "merge",
+      "leftText": "EC type-examination",
+      "rightText": "procedure",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "61b1563e-af4b-4386-aeed-f9e3e2f4977e",
+        "964a143d-9b7d-4b3a-b5a3-9bbfb9000410",
+        "8073ab82-213f-43b6-b215-f79c9e7d7f9b"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-e4b16d2699a051dc",
+      "outcome": "merge",
+      "leftText": "EC type-examination procedure",
+      "rightText": "provided",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "61b1563e-af4b-4386-aeed-f9e3e2f4977e",
+        "964a143d-9b7d-4b3a-b5a3-9bbfb9000410"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-0dcbb7c71023052a",
+      "outcome": "merge",
+      "leftText": "EC type-examination procedure provided",
+      "rightText": "for in",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "61b1563e-af4b-4386-aeed-f9e3e2f4977e",
+        "964a143d-9b7d-4b3a-b5a3-9bbfb9000410"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-39993e5cdaa51ed9",
+      "outcome": "merge",
+      "leftText": "(c) the full quality assurance procedure",
+      "rightText": "provided for in",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "c83c9278-78e6-4934-b7c5-ee4c8afa05a9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-6e8f3872da231c98",
+      "outcome": "abstain",
+      "leftText": "L 157/31",
+      "rightText": "question, the manufacturer or his authorised representative shall apply one of the following procedures:",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-71b2462d30b4814c",
+      "outcome": "merge",
+      "leftText": "EC type-examination",
+      "rightText": "procedure",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "61b1563e-af4b-4386-aeed-f9e3e2f4977e",
+        "964a143d-9b7d-4b3a-b5a3-9bbfb9000410",
+        "8073ab82-213f-43b6-b215-f79c9e7d7f9b"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-968b3a076456f59c",
+      "outcome": "merge",
+      "leftText": "EC type-examination procedure",
+      "rightText": "provided",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "61b1563e-af4b-4386-aeed-f9e3e2f4977e",
+        "964a143d-9b7d-4b3a-b5a3-9bbfb9000410"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-3f8ff19922ddfaae",
+      "outcome": "merge",
+      "leftText": "EC type-examination procedure provided",
+      "rightText": "for in",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "61b1563e-af4b-4386-aeed-f9e3e2f4977e",
+        "964a143d-9b7d-4b3a-b5a3-9bbfb9000410"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-222a06cb7503d37d",
+      "outcome": "merge",
+      "leftText": "(b) the full quality assurance procedure",
+      "rightText": "provided for in",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "96923335-4f40-45a9-9bc4-dcc1a702311f"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-e310a03207cc7e7b",
+      "outcome": "merge",
+      "leftText": "(a) the",
+      "rightText": "relevant",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "e285b76b-de11-4742-a7b9-de0a09bc782c"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-f1edc68c1a8fdbde",
+      "outcome": "merge",
+      "leftText": "(a) the relevant",
+      "rightText": "technical",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "e285b76b-de11-4742-a7b9-de0a09bc782c"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-5015f06b7af7764a",
+      "outcome": "merge",
+      "leftText": "(a) the relevant technical",
+      "rightText": "documentation",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "e285b76b-de11-4742-a7b9-de0a09bc782c"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-e4699b897522b6a1",
+      "outcome": "merge",
+      "leftText": "(a) the relevant technical documentation",
+      "rightText": "described",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "e285b76b-de11-4742-a7b9-de0a09bc782c"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-0fad0b541ca8a466",
+      "outcome": "merge",
+      "leftText": "(a) the relevant technical documentation described",
+      "rightText": "in",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "e285b76b-de11-4742-a7b9-de0a09bc782c"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-579427f6be182606",
+      "outcome": "merge",
+      "leftText": "2. The Member States shall ensure that the notified bodies are monitored regularly to check that they comply at all times with the criteria set out in Annex XI. The notified body shall provide",
+      "rightText": "all relevant",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "60df25dc-905b-47b0-8e12-872626c253f9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-ec01021684266550",
+      "outcome": "merge",
+      "leftText": "2. The Member States shall ensure that the notified bodies are monitored regularly to check that they comply at all times with the criteria set out in Annex XI. The notified body shall provide all relevant",
+      "rightText": "information",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "60df25dc-905b-47b0-8e12-872626c253f9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-3d86088a098b64d8",
+      "outcome": "merge",
+      "leftText": "2. The Member States shall ensure that the notified bodies are monitored regularly to check that they comply at all times with the criteria set out in Annex XI. The notified body shall provide all relevant information",
+      "rightText": "on request,",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "60df25dc-905b-47b0-8e12-872626c253f9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-0546d91f96982b4b",
+      "outcome": "merge",
+      "leftText": "2. The Member States shall ensure that the notified bodies are monitored regularly to check that they comply at all times with the criteria set out in Annex XI. The notified body shall provide all relevant information on request,",
+      "rightText": "including",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "60df25dc-905b-47b0-8e12-872626c253f9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-a2556cc9acddd0e7",
+      "outcome": "merge",
+      "leftText": "2. The Member States shall ensure that the notified bodies are monitored regularly to check that they comply at all times with the criteria set out in Annex XI. The notified body shall provide all relevant information on request, including",
+      "rightText": "budgetary documents, to enable the Member States to ensure that the requirements of Annex XI are met.",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "60df25dc-905b-47b0-8e12-872626c253f9"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-31186332994d8c58",
+      "outcome": "abstain",
+      "leftText": "This Directive shall not affect Member States' entitlement to lay down, in due observance of Community law, such require-",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-b9ddede4a3505136",
+      "outcome": "keep_boundary",
+      "leftText": "9.6.2006",
+      "rightText": "ments as they may deem necessary to ensure that persons, and in particular workers, are protected when using machinery, provided that this does not mean that such machinery is modi- fied in a way not specified in this Directive.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-ea2b33d11c35b9a0",
+      "outcome": "merge",
+      "leftText": "They",
+      "rightText": "shall apply",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "aa0d4e63-a19e-4a72-a928-6170dae42d2d"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-6bc43b0b326341dd",
+      "outcome": "merge",
+      "leftText": "They shall apply",
+      "rightText": "those provisions with",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "aa0d4e63-a19e-4a72-a928-6170dae42d2d"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-75efc805e448353d",
+      "outcome": "merge",
+      "leftText": "They shall apply those provisions with",
+      "rightText": "effect",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "aa0d4e63-a19e-4a72-a928-6170dae42d2d"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-b2aaed0069b19157",
+      "outcome": "merge",
+      "leftText": "They shall apply those provisions with effect",
+      "rightText": "from 29",
+      "combinedWithinStudioUnit": true,
+      "matchingUnitIds": [
+        "aa0d4e63-a19e-4a72-a928-6170dae42d2d"
+      ]
+    },
+    {
+      "nodeId": "paragraphboundary-832478617c3358d6",
+      "outcome": "abstain",
+      "leftText": "ESSENTIAL HEALTH AND SAFETY REQUIREMENTS",
+      "rightText": "1.1.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-9ec66353a3037d72",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-144565db6be6ab0e",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-3b3d07bd683c97d6",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-c596bababafbaa07",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-5fa563b8d3836342",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-0ac1d9f8b97618af",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-0ef37fa7d0498236",
+      "outcome": "abstain",
+      "leftText": "EN",
+      "rightText": "1.7.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-f0c6017f25d5b251",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-87758010f98f9163",
+      "outcome": "abstain",
+      "leftText": "— the peak C-weighted instantaneous sound pressure value at workstations, where this exceeds 63 Pa",
+      "rightText": "(130 dB in relation to 20 µPa),",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-029ab53e7274905c",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-2b040bcf58b250a5",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-7ec6248b8d599746",
+      "outcome": "abstain",
+      "leftText": "EN",
+      "rightText": "3.1.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-395c83417aa16104",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-93370cbaf8f277ad",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-71318072660b95af",
+      "outcome": "abstain",
+      "leftText": "EN",
+      "rightText": "3.6.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-67704003a0e4f6ff",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-f39115228532ecd6",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-478d4b419839e295",
+      "outcome": "abstain",
+      "leftText": "EN",
+      "rightText": "4.1.2.8.3. Risks due to contact with the moving carrier",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-c89146c5b63450c2",
+      "outcome": "abstain",
+      "leftText": "EN",
+      "rightText": "4.3.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-fb9493dfe69ecf92",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-3425a9cdce316628",
+      "outcome": "abstain",
+      "leftText": "EN",
+      "rightText": "5.6.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-5f95ccf72b0fe667",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-64432199884a75e0",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-3b343d027ee955d7",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-01b4bd9f56f0cb59",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-4d95d1e8ec0adde1",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-67741d378370aa3d",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-fa7df89570e756bb",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-6c0740d00fa7b94b",
+      "outcome": "abstain",
+      "leftText": "EN",
+      "rightText": "2.4. The manufacturer shall undertake to fulfil the obligations arising from the quality system as approved and to ensure that it remains appropriate and effective.",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-96d2901129faa8d5",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-724fe8e89b1c4007",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-8e7eae5902518c5c",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-bcd5f1faf576508d",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    },
+    {
+      "nodeId": "paragraphboundary-218577b6328078a2",
+      "outcome": "abstain",
+      "leftText": "Official Journal of the European Union",
+      "rightText": "9.6.2006",
+      "combinedWithinStudioUnit": false,
+      "matchingUnitIds": []
+    }
+  ]
+}

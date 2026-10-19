@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20211016T204015Z" creationid="DESKTOP-U6OB5LR\Lenovo">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32020L0739_ТМ</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">BreakOnTag</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32020L0739</prop>
+    <prop type="x-SourceTMX">32020L0739_ТМ.tmx</prop>
+    <prop type="x-SourceTMXSHA256">0f7ab59369a42cd2c1b2a242facd21acf923d53ba42daf8a2a9c738bee3588f2</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">12</prop>
+  </header>
+  <body>
+    <tu creationdate="20211016T204239Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211016T204339Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112407Z" usagecount="3">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION DIRECTIVE (EU) 2020/739</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВА (ЕУ) 2020/739</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T204355Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211016T204821Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112407Z" usagecount="3">
+      <prop type="x-Context">3657596318, -790154011644746187</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>amending Annex III to Directive 2000/54/EC of the European Parliament and of the Council as regards the inclusion of SARS-CoV-2 in the list of biological agents known to infect humans and amending Commission Directive (EU) 2019/1833</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и 2020 година за изменување на Анекс III од Директивата 2000/54/ЕЗ на Европскиот парламент и на Советот за вклучување на SARS-CoV-2 на листата на биолошки агенси за кои се знае дека предизвикуваат зарази кај луѓето и за изменување на Директивата (ЕУ) 2019/1833 на Комисијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T204824Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211016T204828Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112407Z" usagecount="3">
+      <prop type="x-Context">-7983633145010183829, -506683403922627313</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210323T134139Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211016T204828Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112407Z" usagecount="4">
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирањето на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210323T141650Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211016T205113Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112407Z" usagecount="5">
+      <prop type="x-Context">7864611915906308453, 4631006620855767438</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>сСо оглед на тоа што</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T205115Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211016T205253Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112407Z" usagecount="4">
+      <prop type="x-Context">3520251291494, -1473885434305972833</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(1)	The Union strives to maintain its high standards for ensuring adequate protection of workers’ health, which is particularly relevant in the context of a global health pandemic.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>: (1)Унијата настојува да ги одржи своите високи стандарди за да осигури соодветна заштита на здравјето на работниците, што е особено важно во контекст на глобална здравствена пандемија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T210102Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211016T210513Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112407Z" usagecount="4">
+      <prop type="x-Context">-7673313798293348574, -1316762093599046882</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The outbreak of COVID-19, a new coronavirus disease, has affected all Member States since early 2020 and is causing major disruptions to all sectors and services, directly impacting the health and safety of all workers across the Union.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Пандемијата на КОВИД-19, болест предизвикана од нов корона вирус, ги погодиува сите земји членки од почетокот на 2020 година и предизвикува големи нарушувања во сите сектори и услуги, што директно влијае врз здравјето и безбедноста на сите работници во целата Унија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">9</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211017T034953Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211017T040307Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112407Z" usagecount="1">
+      <prop type="x-Context">3372640941499131508, -8013867584442166550</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt42" x="1" />
+          <bpt i="2" type="pt43" x="2" />(<ph x="3" type="ph44" />4)	In October 2019, Commission Directive (EU) 2019/1833<ept i="2" />
+          <ept i="1" />
+          <bpt i="4" type="pt45" x="4" />
+          <bpt i="5" type="pt46" x="5" />
+          <bpt i="6" type="pt47" x="6" /> (<ph x="7" type="ph48" />)<ept i="6" />
+          <ept i="5" />
+          <ept i="4" />
+          <bpt i="8" type="pt49" x="8" />
+          <bpt i="9" type="pt50" x="9" /> amended Annex III to Directive 2000/54/EC, which resulted notably in the addition of a large number of biological agents, including the Severe Acute Respiratory Syndrome-related coronavirus (SARS-virus) and the Middle East Respiratory Syndrome coronavirus (MERS-virus).<ept i="9" />
+          <ept i="8" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(4)Во октомври 2019 година, со Директивата (ЕУ) 2019/1833 на Комисијата () е изменета Анекс III кон Директивата 2000/54/EЗ, со што, пред сѐ, во него се додадени голем број биолошки агенси, вклучително и корона вирусот поврзан со тешкиот акутен респираторен синдром (вирус SARS) или корона вирусот поврзан со средноисточниот респираторен синдром (вирус MERS).</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">16</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210622T190646Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211017T111134Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112408Z" usagecount="1">
+      <prop type="x-Context">4924820739758521657, -6589382909856318980</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">66</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211017T111408Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211017T111822Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112408Z" usagecount="1">
+      <prop type="x-Context">2032267, 2032267</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In Annex III to Directive 2000/54/EC, in the table concerning VIRUSES (Order ‘Nidovirales’, Family ‘Coronaviridae’, Genus ‘Betacoronavirus’) the following entry is inserted between ‘Severe acute respiratory syndrome-related coronavirus (SARS-virus)’ and ‘Middle East respiratory syndrome coronavirus (MERS-virus)’:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во Анекс III кон Директивата 2000/54/ЕЗ, во табелата што се однесува на ВИРУСИ (ред „Nidovirales“, семејство „Coronaviridae“, род „Betacoronavirus“)се додава следното помеѓу „корона вирус поврзан со тежок акутен респираторен синдром (вирус SARS)“ и „корона вирус поврзан со средноисточен респираторен синдром (вирус MERS)“ се додава следното:</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">67</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211017T111841Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211017T111857Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112408Z" usagecount="1">
+      <prop type="x-Context">191501080967139534, -5095486008782158571</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt211" x="1" />
+          <bpt i="2" type="pt212" x="2" />‘<ph x="3" type="ph213" />Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)<ept i="2" />
+          <ept i="1" />
+          <bpt i="4" type="pt214" x="4" />
+          <bpt i="5" type="pt215" x="5" />
+          <bpt i="6" type="pt216" x="6" /> (<ept i="6" />
+          <bpt i="7" type="pt217" x="7" />1<ept i="7" />
+          <bpt i="8" type="pt218" x="8" />)<ept i="8" />
+          <ept i="5" />
+          <ept i="4" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>‘Корона вирус 2 поврзан со тежок акутен респиратоен респираторен синдром (SARS-CoV-2) (1)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">68</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210522T111758Z" creationid="DESKTOP-U6OB5LR\Lenovo" changedate="20211017T111859Z" changeid="DESKTOP-U6OB5LR\Lenovo" lastusagedate="20211017T112408Z" usagecount="1">
+      <prop type="x-Context">-7737188838614567981, -5581421767468622131</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>3</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0739</prop>
+      <prop type="x-SourceTUIndex">69</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

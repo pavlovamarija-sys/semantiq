@@ -1,0 +1,1810 @@
+{
+  "celex": "32025D2586",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D2586\\TMX_MK1\\32025D2586_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D2586\\MK2\\32025D2586_MK2.docx",
+  "tmx_sha256": "1dae938185b86114dc54579f65bd5a12d33e49112968134d977bdd919256fd2c",
+  "mk2_sha256": "361e211b9a0f72ea468d6fbbd5f46b7ba9256429a38d4f5c2107bedb125343c0",
+  "original_tus": 91,
+  "accepted_tus": 6,
+  "skipped_tus": 85,
+  "acceptance_percent": 6.59,
+  "mk1_coverage": 15.85,
+  "mk2_coverage": 14.91,
+  "accepted_clean_en_chars": 258,
+  "accepted_clean_mk2_chars": 258,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL DECISION (CFSP) 2025/2580",
+      "mk1": "ОДЛУКА (ЗНБП) 2025/2580 НА СОВЕТОТ",
+      "mk2": "ОДЛУКА (ЗНБП) 2025/2586 НА СОВЕТОТ",
+      "score": 0.96875,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        0,
+        2
+      ],
+      "mk2_char_span": [
+        0,
+        35
+      ],
+      "evidence": {
+        "token_count": 10,
+        "references_preserved": false,
+        "neighbor_window": [
+          1,
+          2
+        ],
+        "atom_window": [
+          0,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 2,
+      "en": "of 15 December 2025",
+      "mk1": "од 15 декември 2025 година",
+      "mk2": "од 15 декември 2025 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        0,
+        2
+      ],
+      "mk2_char_span": [
+        35,
+        61
+      ],
+      "evidence": {
+        "token_count": 10,
+        "references_preserved": false,
+        "neighbor_window": [
+          1,
+          2
+        ],
+        "atom_window": [
+          0,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "amending Decision (CFSP) 2016/849 concerning restrictive measures against the Democratic People’s Republic of Korea",
+      "mk1": "за изменување на Одлуката (ЗНБП) 2016/849 за рестриктивни мерки против Демократската Народна Република Кореја",
+      "mk2": "за изменување на Одлуката (ЗНБП) 2017/2074 за рестриктивни мерки во однос на состојбата во Венецуела СОВЕТ",
+      "score": 0.6635071090047393,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        62,
+        168
+      ],
+      "evidence": {
+        "token_count": 32,
+        "references_preserved": false,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 4,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "ОТ НА ЕВРОПСКАТА УНИЈА, има",
+      "score": 0.8301886792452831,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        168,
+        195
+      ],
+      "evidence": {
+        "token_count": 32,
+        "references_preserved": false,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 29 thereof,",
+      "mk1": "имајќи го предвид договорот на Европската Унија, а особено член 29 од истиот,",
+      "mk2": "јќи го предвид Договорот за Европската Унијата, а особено член 29 од истиот,",
+      "score": 0.9530201342281879,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        195,
+        271
+      ],
+      "evidence": {
+        "token_count": 32,
+        "references_preserved": false,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,",
+      "mk1": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни прашања и безбедносна политика,",
+      "mk2": "имајќи ги предвид предлозите на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "score": 0.9252336448598131,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        5,
+        7
+      ],
+      "mk2_char_span": [
+        272,
+        381
+      ],
+      "evidence": {
+        "token_count": 20,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          7
+        ],
+        "atom_window": [
+          5,
+          7
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "со оглед на тоа што:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        5,
+        7
+      ],
+      "mk2_char_span": [
+        381,
+        401
+      ],
+      "evidence": {
+        "token_count": 20,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          7
+        ],
+        "atom_window": [
+          5,
+          7
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 8,
+      "en": "(1) On 27 May 2016, the Council adopted Decision (CFSP) 2016/849 ().",
+      "mk1": "(1) На 27 мај 2016 година, Советот ја донесе Одлуката (ЗНБП) 2016/849 ().",
+      "mk2": "(1)На 13 ноември 2017 година, Советот ја донесе Одлуката (ЗНБП) 2",
+      "score": 0.832,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        7,
+        8
+      ],
+      "mk2_char_span": [
+        402,
+        467
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": false,
+        "neighbor_window": [
+          8,
+          9
+        ],
+        "atom_window": [
+          7,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 9,
+      "en": "Council Decision (CFSP) 2016/849 of 27 May 2016 concerning restrictive measures against the Democratic People’s Republic of Korea and repealing Decision 2013/183/CFSP (OJ L 141, 28.5.2016, p. 79, ELI: http://data.europa.eu/eli/dec/2016/849/oj).",
+      "mk1": "Одлука (ЗНБП) 2016/849 на Советот од 27 мај 2016 година за рестриктивни мерки против Демократска Народна Република Кореја и за укинување на Одлуката 2013/183/ЗНБП (Сл. весник L 141, 28.5.2016 година, стр. 79, ELI: http://data.europa.eu/eli/dec/2016/849/oj).",
+      "mk2": "0176/2074 (). Одлука (ЗНБП) 2017/2074 на Советот, од 13 ноември 2017 година, за рестриктивни мерки во однос на состојбата во Венецуела (Сл. весник L 295, 14.11.2017 година, стр. 60, ELI: http://data.europa.eu/eli/dec/2017/2074/oj).",
+      "score": 0.6885964912280702,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        7,
+        8
+      ],
+      "mk2_char_span": [
+        467,
+        698
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": false,
+        "neighbor_window": [
+          8,
+          9
+        ],
+        "atom_window": [
+          7,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 10,
+      "en": "(2) In accordance with Article 36(2) of Decision (CFSP) 2016/849, the Council has reviewed the lists of designated persons, entities and vessels set out in Annexes II, III, V and VI to that Decision.",
+      "mk1": "(2) Во согласност со со член 36(2) од Одлуката (ЗНБП) 2016/849, Советот ги разгледа списоците на назначени лица , субјекти и пловила наведени во Анексите II, III, V и VI кон таа одлука.",
+      "mk2": "",
+      "score": 0.23309608540925267,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 11,
+      "en": "(3) The restrictive measures against the persons and entities in the lists set out in Annexes II and III to Decision (CFSP) 2016/849 should be maintained.",
+      "mk1": "(3) Треба да се задржат рестриктивните мерки против лицата и субјектите во списоците утврдени во Анексите II и III кон Одлуката (ЗНБП) 2016/849",
+      "mk2": "(3)Исто така, треба да се ажурираат внесовите за четири физички лица во Анекс I кон Одлук",
+      "score": 0.49557522123893805,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        11
+      ],
+      "mk2_char_span": [
+        1281,
+        1370
+      ],
+      "evidence": {
+        "token_count": 29,
+        "references_preserved": false,
+        "neighbor_window": [
+          11,
+          13
+        ],
+        "atom_window": [
+          9,
+          11
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 12,
+      "en": "The entries for one person and three entities in those Annexes should be updated.",
+      "mk1": "Внесовите за едно лице и три субјекти во тие анекси треба да се ажурираат.",
+      "mk2": "ата (ЗНБП) 2017/2074. (4)Затоа, Одлуката (ЗНБП",
+      "score": 0.17699115044247787,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        11
+      ],
+      "mk2_char_span": [
+        1370,
+        1416
+      ],
+      "evidence": {
+        "token_count": 29,
+        "references_preserved": false,
+        "neighbor_window": [
+          11,
+          13
+        ],
+        "atom_window": [
+          9,
+          11
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 13,
+      "en": "(4) Decision (CFSP) 2016/849 should therefore be amended accordingly,",
+      "mk1": "(4) Затоа, Одлуката (ЗНБП) 2016/849 треба соодветно да се измени,",
+      "mk2": ") 2017/2074 треба соодветно да се измени,",
+      "score": 0.7010309278350515,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        11
+      ],
+      "mk2_char_span": [
+        1416,
+        1457
+      ],
+      "evidence": {
+        "token_count": 29,
+        "references_preserved": false,
+        "neighbor_window": [
+          11,
+          13
+        ],
+        "atom_window": [
+          9,
+          11
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 14,
+      "en": "HAS ADOPTED THIS DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "mk2": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        1458,
+        1480
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          14
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 15,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "Член 1",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        1481,
+        1487
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          15,
+          15
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 16,
+      "en": "Annexes II and III to Decision (CFSP) 2016/849 are amended in accordance with the Annex to this Decision.",
+      "mk1": "Анексите II и III кон Одлуката (ЗНБП) 2016/849 се изменуваат во согласност со Анексот кон оваа одлука.",
+      "mk2": "",
+      "score": 0.5290322580645161,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 17,
+      "en": "This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на следниот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "",
+      "score": 0.1095890410958904,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 18,
+      "en": "Done at Brussels, 15 December 2025.",
+      "mk1": "Брисел, 15 декември 2025 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 19,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 20,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "",
+      "score": 0.13636363636363635,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 21,
+      "en": "K. KALLAS",
+      "mk1": "К. КАЛЛАС",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 22,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 23,
+      "en": "Decision (CFSP) 2016/849 is amended as follows:",
+      "mk1": "Одлуката (ЗНБП) 2016/849 се изменува како што следува:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 24,
+      "en": "(1)",
+      "mk1": "(1)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 25,
+      "en": "Annex II is amended as follows:",
+      "mk1": "Анекс II се изменува како што следува:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 26,
+      "en": "(a)",
+      "mk1": "(а)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 27,
+      "en": "under the heading ‘I. Persons and entities responsible for the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes or persons or entities acting on their behalf or at their direction, or entities owned or controlled by them’, subheading ‘A. Persons’, entry 10 is replaced by the following:",
+      "mk1": "под насловот „I. Лица и субјекти одговорни за програмите на ДНРК поврзани со нуклеарно оружје, балистички ракети или друго оружје за масовно уништување, или лица или субјекти што дејствуваат во нивно име или по нивна насока, или субјекти во нивна сопственост или под нивна контрола“, во делот на поднасловот „А. Лица“, записот 10 се заменува со следново:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 28,
+      "en": "Name",
+      "mk1": "Име",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 29,
+      "en": "Alias",
+      "mk1": "Псевдоним",
+      "mk2": "",
+      "score": 0.3125,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 30,
+      "en": "Identifying information",
+      "mk1": "Информации за идентификација",
+      "mk2": "",
+      "score": 0.3314285714285714,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 31,
+      "en": "Date of designation",
+      "mk1": "Датум на наведување на список",
+      "mk2": "",
+      "score": 0.2549019607843137,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 32,
+      "en": "Statement of Reasons",
+      "mk1": "Изјава за причините",
+      "mk2": "",
+      "score": 0.34146341463414637,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 33,
+      "en": "‘10.",
+      "mk1": "„10.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 34,
+      "en": "HONG Sung-Mu",
+      "mk1": "HONG Sung-Mu",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 35,
+      "en": "홍승무",
+      "mk1": "홍승무",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 36,
+      "en": "HONG Sung Mu",
+      "mk1": "HONG Sung Mu",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 37,
+      "en": "DOB:",
+      "mk1": "Датум на раѓање:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 38,
+      "en": "1.1.1942",
+      "mk1": "1.1.1942 година",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 39,
+      "en": "Gender: male",
+      "mk1": "Пол: машки",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 40,
+      "en": "20.5.2016",
+      "mk1": "20.5.2016 година",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 41,
+      "en": "Vice Director of the Munitions Industry Department (MID).",
+      "mk1": "Заменик-директор на Одделот за индустрија за муниција (MID).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 42,
+      "en": "The MID – designated by the UN Security Council on 2 March 2016 – is involved in key aspects of the DPRK’s missile programme.",
+      "mk1": "MID, кој беше назначен од Советот за безбедност на ОН на 2 март 2016 година, е вклучен во клучните аспекти на ракетната програма на ДНРК.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "The MID is responsible for overseeing the development of the DPRK’s ballistic missiles, including research and development programmes.",
+      "mk1": "MID е задолжен за надгледување на развојот на балистички ракети на ДНРК, вклучувајќи ги и програмите за истражување и развој.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "As such, Hong is responsible for the DPRK’s nuclear arms-related, ballistic-missile-related or other weapons of mass destruction-related programmes.",
+      "mk1": "Ова го прави Hong одговорен за програмите на ДНРК поврзани со нуклеарно оружје, балистички ракети или друго оружје за масовно уништување.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "He witnessed the launch of the Hwasong-15 intercontinental ballistic missile on 28 November 2017.",
+      "mk1": "Тој присуствуваше на лансирањето на интерконтиненталната балистичка ракета Hwasong-15 на 28 ноември 2017 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 46,
+      "en": "He participated in a meeting of the Central Military Commission of the Korean Workers’ Party in July 2020 dedicated to “deterrence from war”, a euphemism used to refer to the DPRK nuclear programme.",
+      "mk1": "Тој присуствуваше на состанок на Централната воена комисија на Работничката партија на Кореја во јули 2020 година посветена на „одвраќање од војната“, еуфемизам што се користи за нуклеарната програма на ДНРК.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 47,
+      "en": "He was re-elected to Party Central Committee in January 2021.",
+      "mk1": "Тој беше повторно избран во Централниот комитет на партијата во јануари 2021 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 48,
+      "en": "In March 2023, he was photographed with Kim Jong Un inspecting purported nuclear warheads ready for mounting on ballistic missiles, and in September 2024, he was photographed with Kim Jong Un inspecting a DPRK uranium enrichment facility.’",
+      "mk1": "Во март 2023 година, тој беше фотографиран со Ким Јонг Ун како проверуваат наводни нуклеарни боеви глави подготвени да се монтираат на балистички ракети, а во септември 2024 година, тој беше фотографиран со Ким Јонг Ун како проверува објект за збогатување ураниум во ДНРК.“",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 49,
+      "en": "(b)",
+      "mk1": "(б)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 50,
+      "en": "under the heading ‘I. Persons and entities responsible for the DPRK’s nuclear-related, ballistic-missile-related or other weapons of mass destruction-related programmes or persons or entities acting on their behalf or at their direction, or entities owned or controlled by them’, subheading ‘B. Entities’, entry 4 is replaced by the following:",
+      "mk1": "под насловот „I. Лица и субјекти одговорни за програмите на ДНРК поврзани со нуклеарно оружје, балистички ракети или друго оружје за масовно уништување, или лица или субјекти што дејствуваат во нивно име или по нивна насока, или субјекти во нивна сопственост или под нивна контрола“, во делот на поднасловот „Б. Субјекти“, записот 4 се заменува со следново:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 51,
+      "en": "Location",
+      "mk1": "Локација",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 52,
+      "en": "Other information",
+      "mk1": "Останати информации:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 53,
+      "en": "Yongbyon Nuclear Scientific Research Centre",
+      "mk1": "Yongbyon Nuclear Scientific Research Centre",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 54,
+      "en": "녕변 원자력 연구소",
+      "mk1": "녕변 원자력 연구소",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 55,
+      "en": "영변 원자력 연구소",
+      "mk1": "영변 원자력 연구소",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 56,
+      "en": "22.12.2009",
+      "mk1": "22.12.2009 година",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 57,
+      "en": "Facilities capable of producing fissile material for military uses, including a 5MW (e) reactor, a plutonium reprocessing facility (radio-chemical laboratory), a Light Water Reactor (LWR) and a reported uranium enrichment facility.",
+      "mk1": "Објекти со капацитет за производство на фисионен материјал за воена употреба, вклучувајќи реактор од 5 MW(e), постројка за преработка на плутониум (радиохемиска лабораторија), нуклеарен реактор со лесна вода и наводна постројка за збогатување на ураниум.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 58,
+      "en": "The Centre is maintained by the General Bureau of Atomic Energy (entity designated by the UNSC, 16.7.2009).",
+      "mk1": "Центарот работи под Генералната канцеларија за атомска енергија (субјект наведен од Советот за безбедност на ООН на 16.7.2009 година).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 59,
+      "en": "In June 2024, the International Atomic Energy Agency (IAEA) stated that they had observed the intermittent discharge of water from the cooling system of the LWR at Yongbyon since December 2023, consistent with the operation of the LWR.",
+      "mk1": "Меѓународната агенција за атомска енергија (ИАЕА) во јуни 2024 година објави дека забележала повремени протекувања на вода од системот за ладење на нуклеарниот реактор со лесна вода во Јонгбјон (Yongbyon) од декември 2023 година, што е во согласност со работењето на нуклеарниот реактор со лесна вода.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 60,
+      "en": "The IAEA also detected ongoing indications of operation of the 5MW(e) reactor and of the reported centrifuge enrichment facility.",
+      "mk1": "ИАЕА, исто така, пронајде континуирани индикации дека реакторот од 5 MW(e) и наводната постројка со центрифуга за збогатување се во функција.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 61,
+      "en": "The UN Panel of Experts, in its March 2024 report, also detected significant ongoing activity at Yongbyon.",
+      "mk1": "Панелот на експерти на ООН, исто така, пронајде значителна тековна активност во Јонгбјон во својот извештај од март 2024 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 62,
+      "en": "Satellite imagery taken throughout 2025 confirmed continued operations and the completion of several new construction projects.’",
+      "mk1": "Сателитските снимки направени во текот на 2025 година потврдија континуирани операции и завршување на неколку нови градежни проекти.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 63,
+      "en": "In Annex III, under the heading ‘B. Entities’, entries 3 and 8 are replaced by the following:",
+      "mk1": "Во Анекс III, под насловот „Б. Субјекти“, внесовите 3 и 8 се заменуваат со следново:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 64,
+      "en": "Name (and possible aliases)",
+      "mk1": "Име (и можни псевдоними)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 65,
+      "en": "Reasons",
+      "mk1": "Причини",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 66,
+      "en": "Maritime Administrative Bureau",
+      "mk1": "Maritime Administrative Bureau",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 67,
+      "en": "a.k.a. Maritime Administration of DPR Korea",
+      "mk1": "позната како Maritime Administration of DPR Korea",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 68,
+      "en": "a.k.a. DPRK National Maritime Supervision Bureau",
+      "mk1": "исто позната како DPRK National Maritime Supervision Bureau",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 69,
+      "en": "조선민주주의인민공화국 국가해사감독국",
+      "mk1": "조선민주주의인민공화국 국가해사감독국",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 70,
+      "en": "Address:",
+      "mk1": "Адреса:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 71,
+      "en": "Ryonhwa-2Dong, Central District, Pyongyang, DPRK",
+      "mk1": "Ryonhwa-2Dong, Central District, Пјонгјанг, ДНРК",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 72,
+      "en": "PO Box 416",
+      "mk1": "PO Box 416",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 73,
+      "en": "Telephone:",
+      "mk1": "Телефон:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 74,
+      "en": "850-2-18111 Ex 8059",
+      "mk1": "850-2-18111 локал 8059",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 75,
+      "en": "Fax 850 2 381 4410",
+      "mk1": "Факс 850 2 381 4410",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 76,
+      "en": "Email: mab@silibank.net.kp",
+      "mk1": "е-пошта: mab@silibank.net.kp",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 77,
+      "en": "Website: www.ma.gov.kp",
+      "mk1": "Веб-страница: www.ma.gov.kp",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 78,
+      "en": "16.10.2017",
+      "mk1": "16.10.2017 година",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 79,
+      "en": "The Maritime Administrative Bureau has assisted in the evasion of sanctions imposed by the United Nations Security Council including by renaming and re-registering assets of designated entities and providing false documentation to vessels subject to United Nations sanctions.",
+      "mk1": "Maritime Administrative Bureau (Канцеларијата за поморска администрација) помогна во избегнувањето на санкциите на Советот за безбедност на Обединетите нации, меѓу другото, со преименување и пререгистрација на средствата на наведените субјекти и обезбедување лажна документација за бродови кои се предмет на санкции на Обединетите нации.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 80,
+      "en": "8.",
+      "mk1": "8.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 81,
+      "en": "Korea Paekho Trading Corporation",
+      "mk1": "Korea Paekho Trading Corporation",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 82,
+      "en": "(Alias:",
+      "mk1": "(Псевдоним:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 83,
+      "en": "Joson Paekho Muyok Hoesa)",
+      "mk1": "Joson Paekho Muyok Hoesa)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 84,
+      "en": "조선백호무역회사",
+      "mk1": "조선백호무역회사",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 85,
+      "en": "Chongryu 3-dong, Taedonggang District, Pyongyang, Democratic People’s Republic of Korea",
+      "mk1": "Chongryu 3-dong, Taedonggang District, Пјонгјанг, Демократска Народна Република Кореја",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 86,
+      "en": "21.4.2022",
+      "mk1": "21.4.2022 година",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 87,
+      "en": "Paekho Trading Corporation is an art company involved in constructing statues overseas, in exporting artwork statues produced by Paekho Art Studio, and facilitates illicit labour and access to international financial systems.",
+      "mk1": "Paekho Trading Corporation е уметничка компанија која учествува во изградба на статуи во странство, извезува уметнички статуи произведени од Paekho Art Studio и го олеснува незаконското работење и пристапот до меѓународните финансиски системи.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 88,
+      "en": "It specifically targets development grants and loans, as well as foreign-direct investment earmarked for municipal projects.",
+      "mk1": "Конкретно е насочена кон грантови и заеми за развој, како и кон директни странски инвестиции наменети за општински проекти.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 89,
+      "en": "It is, thereby, engaged in the evasion of sanctions and responsible for supporting financially the DPRK’s nuclear and ballistic programmes.",
+      "mk1": "Со тоа, учествува во избегнување на санкциите и е одговорна за финансиска поддршка на нуклеарните и балистичките програми на ДНРК.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 90,
+      "en": "In July 2024, the company was seen participating in a trade fair of DPRK products in Vladivostok, Russia, and in November 2024, it was seen participating in the 16th Pyongyang Autumn International Trade Fair.’",
+      "mk1": "Оваа компанија учествуваше на Саемот за производи на ДНРК во Владивосток, Русија, во јули 2024 година, а во ноември 2024 година учествуваше на 16-тиот есенски меѓународен саем во Пјонгјанг.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 91,
+      "en": "(1) On 25 November 2022, the Council adopted Decision (CFSP) 2022/2319 ().",
+      "mk1": "(1) На 25 ноември 2022 година, Советот ја донесе Одлуката (ЗНБП) 2022/2319 ().",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 1,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32025D2586",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL DECISION (CFSP) 2025/2586",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 15 December 2025",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "amending Decision (CFSP) 2017/2074 concerning restrictive measures in view of the situation in Venezuela",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2025/2586 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 15 декември 2025 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката (ЗНБП) 2017/2074 за рестриктивни мерки во однос на состојбата во Венецуела",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Рестриктивни мерки, човекови права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ангела Николова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "12.2.2026 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Disident",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "дисидент",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://makedonski.gov.mk/corpus/l/disident-m",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32025D2586",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL DECISION (CFSP) 2025/2586",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 15 December 2025",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "amending Decision (CFSP) 2017/2074 concerning restrictive measures in view of the situation in Venezuela",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2025/2586 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 15 декември 2025 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката (ЗНБП) 2017/2074 за рестриктивни мерки во однос на состојбата во Венецуела",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Рестриктивни мерки, човекови права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Павлова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Human rights violations",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Кршења на човековите права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прекршувања на човековите права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.coe.int/mk/web/compass/questions-and-answers-about-human-rights",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Одлука (ЗНБП) 2017/2074 на Советот, од 13 ноември 2017 година, за рестриктивни мерки во однос на состојбата во Венецуела (Сл. весник L 295, 14.11.2017 година, стр. 60, ELI: http://data.europa.eu/eli/dec/2017/2074/oj).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 7,
+        "text": "Одлука (ЗНБП) 2017/2074 на Советот, од 13 ноември 2017 година, за рестриктивни мерки во однос на состојбата во Венецуела (Сл. весник L 295, 14.11.2017 година, стр. 60, ELI: http://data.europa.eu/eli/dec/2017/2074/oj)."
+      }
+    ]
+  },
+  "dry_run": true
+}

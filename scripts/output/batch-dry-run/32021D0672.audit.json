@@ -1,0 +1,927 @@
+{
+  "celex": "32021D0672",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0672\\TMX_MK1\\32021D0672_MK1.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0672\\MK2\\32021D0672_MK2.docx",
+  "tmx_sha256": "3cfc49266a53f57b70f0e399a6d1286efedfc5b719f309c0a9920ed559cf2a81",
+  "mk2_sha256": "d8fbf73406d0a0b16311ff6ef80b9a1b219827415bc1f60de7ca50c2afb0f060",
+  "original_tus": 24,
+  "accepted_tus": 10,
+  "skipped_tus": 14,
+  "acceptance_percent": 41.67,
+  "mk1_coverage": 71.55,
+  "mk2_coverage": 91.08,
+  "accepted_clean_en_chars": 732,
+  "accepted_clean_mk2_chars": 705,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL IMPLEMENTING DECISION (CFSP) 2021/672",
+      "mk1": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЗНБП) 2021/672 НА СОВЕТОТ",
+      "mk2": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЗНБП) 2021/672 НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        49
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 23 April 2021",
+      "mk1": "23 април 2021 година",
+      "mk2": "од 23 април 2021 година",
+      "score": 0.9302325581395349,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        50,
+        73
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "за спроведување на Одлуката (ЗНБП) 2015/1333 за рестри",
+      "score": 0.4050632911392405,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        74,
+        128
+      ],
+      "evidence": {
+        "token_count": 33,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          4
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 4,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 31(2) thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унија, а особено член 31(2) од истиот,",
+      "mk2": "ктивни мерки во однос на состојбата во Либија СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, имајќи го предвид Договорот за Европската Унија, а особено член 31(2) од истиот,",
+      "score": 0.6754385964912281,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        128,
+        283
+      ],
+      "evidence": {
+        "token_count": 33,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          4
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to Council Decision (CFSP) 2015/1333 of 31 July 2015 concerning restrictive measures in view of the situation in Libya, and repealing Decision 2011/137/CFSP (), and in particular Article 12(2) thereof,",
+      "mk1": "имајќи ја предвид Одлуката (ЗНБП) 2015/1333 на Советот од 31 јули 2015 година за рестриктивни мерки во поглед на состојбата во Либија и за укинување на Одлуката 2011/137/ЗНБП (), а особено член 12(2) од истата,",
+      "mk2": "имајќи ја предвид Одлуката (ЗНБП) 2015/1333 на Советот од 31 јули 2015 година за рестриктивни мерки во поглед однос на состојбата во Либија и за укинување на Одлуката 2011/137/ЗНБП (), а особено член 12(2) од истата,",
+      "score": 0.9853658536585366,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        284,
+        500
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          6
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "OJ L 206, 1.8.2015, p. 34.",
+      "mk1": "Сл. весник L 206, 1.8. 2015 година, стр. 34.",
+      "mk2": "Сл. весник L 206, 1.8. 2015 година, стр. 34.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        500,
+        545
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          6
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 7,
+      "en": "(1) On 31 July 2015, the Council adopted Decision (CFSP) 2015/1333 concerning restrictive measures in view of the situation in Libya.",
+      "mk1": "(1) На 31 јули 2015 година, Советот ја донесе Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија.",
+      "mk2": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика, со оглед на тоа што: (1)На 31 јули 2015 година, Советот ја донесе Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија.",
+      "score": 0.6558265582655827,
+      "status": "UNMATCHED",
+      "cardinality": "1:N",
+      "mk2_span": [
+        6,
+        9
+      ],
+      "mk2_char_span": [
+        546,
+        801
+      ],
+      "evidence": {
+        "token_count": 41,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          7
+        ],
+        "atom_window": [
+          6,
+          9
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 8,
+      "en": "(2) The entry for one person should be deleted as he is deceased.",
+      "mk1": "(2) Внесот за едно лице треба да се избрише бидејќи е починато.",
+      "mk2": "(2)Внесот за едно лице треба да се избрише бидејќи е починато.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        802,
+        864
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          8
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 9,
+      "en": "(3) Annexes II and IV to Decision (CFSP) 2015/1333 should therefore be amended accordingly,",
+      "mk1": "(3) Затоа, Анексите II и IV кон Одлуката (ЗНБП) 2015/1333 треба соодветно да се изменат,",
+      "mk2": "(3)Затоа, Анексите II и IV кон Одлуката (ЗНБП) 2015/1333 треба соодветно да се изменат,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        10,
+        11
+      ],
+      "mk2_char_span": [
+        865,
+        952
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          9,
+          9
+        ],
+        "atom_window": [
+          10,
+          11
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 10,
+      "en": "HAS ADOPTED THIS DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "mk2": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        953,
+        975
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          10
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 11,
+      "en": "Annexes II and IV to Decision (CFSP) 2015/1333 are amended in accordance with the Annex to this Decision.",
+      "mk1": "Анексите II и IV кон Одлуката (ЗНБП) 2015/1333 се изменуваат во согласност со Анексот кон оваа одлука.",
+      "mk2": "Член 1 Анексите II и IV кон Одлуката (ЗНБП) 2015/1333 се изменуваат во согласност со Анексот кон оваа одлука.",
+      "score": 0.9658536585365853,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        12,
+        15
+      ],
+      "mk2_char_span": [
+        976,
+        1086
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          11,
+          12
+        ],
+        "atom_window": [
+          12,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 12,
+      "en": "Article 2",
+      "mk1": "Член 2",
+      "mk2": "Член 2",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        12,
+        15
+      ],
+      "mk2_char_span": [
+        1086,
+        1092
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          11,
+          12
+        ],
+        "atom_window": [
+          12,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 13,
+      "en": "This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на денот по нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "Оваа одлука влегува во сила на денот по нејзиното објавување во Службениот весник на Европската Унија.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        15,
+        16
+      ],
+      "mk2_char_span": [
+        1093,
+        1195
+      ],
+      "evidence": {
+        "token_count": 16,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          13
+        ],
+        "atom_window": [
+          15,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 14,
+      "en": "Done at Brussels, 23 April 2021.",
+      "mk1": "Брисел, 23 април 2021 година.",
+      "mk2": "Брисел, 23 април 2021 година.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        16,
+        17
+      ],
+      "mk2_char_span": [
+        1196,
+        1225
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          14
+        ],
+        "atom_window": [
+          16,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 15,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "За Советот Претседател",
+      "score": 0.6666666666666666,
+      "status": "UNMATCHED",
+      "cardinality": "1:N",
+      "mk2_span": [
+        17,
+        19
+      ],
+      "mk2_char_span": [
+        1226,
+        1248
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          15,
+          15
+        ],
+        "atom_window": [
+          17,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 16,
+      "en": "(1) in Annex II (List of persons and entities referred to in Article 8(2)), Part A (Persons), entry 10 (concerning AL-GAOUD, Abdelmajid) is deleted;",
+      "mk1": "(1) во Анекс II (Список на лица и субјекти наведени во член 8(2)), Дел А (Лица), внес 10 (во однос на AL-GAOUD, Abdelmajid) се брише;",
+      "mk2": "",
+      "score": 0.23958333333333334,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 17,
+      "en": "(2) in Annex IV (List of persons and entities referred to in Article 9(2)), Part A (Persons), entry 10 (concerning AL-GAOUD, Abdelmajid) is deleted.",
+      "mk1": "(2) во Анекс IV (Список на лица и субјекти наведени во член 9(2)), Дел А (Лица), внес 10 (во однос на AL-GAOUD, Abdelmajid) се брише.",
+      "mk2": "АНЕКС Одлуката (ЗНБП) 2015/1333 се изменува како што следува: (1)во Анекс II (Список на лица и субјекти наведени во член 8(2)), Дел А (Лица), внес 10 (во однос на AL-GAOUD, Abdelmajid) се брише;",
+      "score": 0.7892976588628763,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        20,
+        23
+      ],
+      "mk2_char_span": [
+        1265,
+        1459
+      ],
+      "evidence": {
+        "token_count": 35,
+        "references_preserved": false,
+        "neighbor_window": [
+          17,
+          17
+        ],
+        "atom_window": [
+          20,
+          23
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 18,
+      "en": "implementing Decision (CFSP) 2015/1333 concerning restrictive measures in view of the situation in Libya",
+      "mk1": "за спроведување на Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија",
+      "mk2": "",
+      "score": 0.35944700460829493,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 19,
+      "en": "Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,",
+      "mk1": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 20,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 21,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 22,
+      "en": "A. P. ZACARIAS",
+      "mk1": "А. П. ЗАКАРИАС",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 23,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 24,
+      "en": "Decision (CFSP) 2015/1333 is amended as follows:",
+      "mk1": "Одлуката (ЗНБП) 2015/1333 се изменува како што следува:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 1,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021D0672",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL IMPLEMENTING DECISION (CFSP) 2021/672",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 23 April 2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "implementing Decision (CFSP) 2015/1333 concerning restrictive measures in view of the situation in Libya",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЗНБП) 2021/672 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 23 април 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за спроведување на Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Common foreign and security policy",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ангела Николова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translations@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "20.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор(АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021D0672",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL IMPLEMENTING DECISION (CFSP) 2021/672",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 23 April 2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "implementing Decision (CFSP) 2015/1333 concerning restrictive measures in view of the situation in Libya",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЗНБП) 2021/672 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 23 април 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за спроведување на Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Common foreign and security policy",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Павлова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translations@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "21.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Сл. весник L 206, 1.8. 2015 година, стр. 34.",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 5,
+        "text": "Сл. весник L 206, 1.8. 2015 година, стр. 34."
+      }
+    ]
+  },
+  "dry_run": true
+}

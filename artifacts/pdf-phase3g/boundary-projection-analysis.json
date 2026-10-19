@@ -1,0 +1,1703 @@
+{
+  "candidateCount": 78,
+  "counts": {
+    "ABSTAIN": 46,
+    "KEEP_BOUNDARY": 4,
+    "MERGE": 28
+  },
+  "results": [
+    {
+      "candidateId": "paragraphboundary-5bd487c968e14efe",
+      "decision": "ABSTAIN",
+      "left": "The rules on driving licences are essential elements of the common transport policy, contribute to improving road safety, and facilitate the free movement of persons taking up residence in a Member State other than the one issuing the licence. Given the importance of individual means of transport, possession of a driving licence duly recognised by a host Member State promotes free move- ment and freedom of establishment of persons. Despite the progress achieved with harmonising the rules on driving licences, significant differences have persisted between Member States in the rules on periodicity of licences renewal and on subcategories of vehicles, which",
+      "right": "(2)",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "acca65b2-f9b2-4e1c-b3f6-e438e2c265bf"
+      ],
+      "rightUnitIds": [
+        "999c495a-3313-42b5-a4ed-3ab8ae5b97eb",
+        "f3b8b427-02b2-4336-966b-5969820abcff",
+        "03656546-c5fd-4a17-94e5-a95188d3a7b9",
+        "8b0d24e6-6860-4708-974d-344a6e9657b3",
+        "6c521594-297a-40cc-8060-3f646d7f899f"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-f5ba6179f6448883",
+      "decision": "KEEP_BOUNDARY",
+      "left": "30.12.2006",
+      "right": "needed to be harmonised more fully, in order to contri- bute to the implementation of Community policies.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "rightUnitIds": [
+        "e8516b4a-52b0-4bf8-9821-4966abc5f806"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-3f29111acccd4565",
+      "decision": "ABSTAIN",
+      "left": "In particular, the Commission should be empowered to establish the criteria necessary for the application of this Directive. Since those measures are of general scope and are designed to amend non-essential elements of this Directive, they should be adopted in accordance with the regulatory procedure with scrutiny provided for",
+      "right": "(21)",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "a6f4d524-81a5-469d-b098-f2118ba792fb"
+      ],
+      "rightUnitIds": [
+        "57a980d0-c7db-4d01-b964-e2f6916e56e2"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-412bd26c1beb3324",
+      "decision": "KEEP_BOUNDARY",
+      "left": "(21)",
+      "right": "in",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "57a980d0-c7db-4d01-b964-e2f6916e56e2"
+      ],
+      "rightUnitIds": [
+        "89ee2024-4e26-4726-a330-96b090a17ed6",
+        "dcd221df-03f5-40fb-a0d3-110884836ced",
+        "a7d36838-696b-4ab8-8865-4ed83b9e0773",
+        "9fa2667c-39ab-4337-8f57-c14c415f60f7",
+        "3777a23f-fda4-4aad-94f6-a302d57d0239"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-ba6919db6f21541e",
+      "decision": "ABSTAIN",
+      "left": "This Directive should not prejudice the obligations of the Member States relating to the deadlines for transposition into national law and application of the Directives listed in Annex VII, Part B,",
+      "right": "(23)",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "6a4e9737-0eaa-4230-ad15-c117650ddd32"
+      ],
+      "rightUnitIds": [
+        "b9e07918-b224-4bbe-a6ce-faa035ecd0b7"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-5d0a7d44d0fc8371",
+      "decision": "MERGE",
+      "left": "— ‘motorcycle’ means two-wheel vehicles with or without a sidecar,",
+      "right": "as defined",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "873450c2-d02e-4100-8093-1377e87edac5"
+      ],
+      "leftUnitIds": [
+        "873450c2-d02e-4100-8093-1377e87edac5"
+      ],
+      "rightUnitIds": [
+        "7d971ac7-93e2-43c5-b6f9-6cdff6add57a",
+        "873450c2-d02e-4100-8093-1377e87edac5",
+        "4d7d9ae7-1c1b-4500-ae9d-05c2477f8308",
+        "bef6ad9c-7a65-4168-88dc-3d222d1e037b",
+        "aff63049-63df-42e9-8777-5f28a87022b4"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        1
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-4ba7264ee96b0dea",
+      "decision": "MERGE",
+      "left": "— ‘motorcycle’ means two-wheel vehicles with or without a sidecar, as defined",
+      "right": "in Article",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "873450c2-d02e-4100-8093-1377e87edac5"
+      ],
+      "leftUnitIds": [
+        "873450c2-d02e-4100-8093-1377e87edac5"
+      ],
+      "rightUnitIds": [
+        "999c495a-3313-42b5-a4ed-3ab8ae5b97eb",
+        "7fcc45c8-01b6-4c7d-88b2-79c7e7a60a1b",
+        "8b0d24e6-6860-4708-974d-344a6e9657b3",
+        "6c521594-297a-40cc-8060-3f646d7f899f",
+        "f9bed23d-4380-447e-b6cd-af553dc09837"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        1
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-73c210f1b5fc9d38",
+      "decision": "MERGE",
+      "left": "— ‘motorcycle’ means two-wheel vehicles with or without a sidecar, as defined in Article",
+      "right": "1(2)(b)",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "873450c2-d02e-4100-8093-1377e87edac5"
+      ],
+      "leftUnitIds": [
+        "873450c2-d02e-4100-8093-1377e87edac5"
+      ],
+      "rightUnitIds": [
+        "873450c2-d02e-4100-8093-1377e87edac5"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        1
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-e9755eb53417945f",
+      "decision": "MERGE",
+      "left": "— ‘motorcycle’ means two-wheel vehicles with or without a sidecar, as defined in Article 1(2)(b)",
+      "right": "of Directive",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "873450c2-d02e-4100-8093-1377e87edac5"
+      ],
+      "leftUnitIds": [
+        "873450c2-d02e-4100-8093-1377e87edac5"
+      ],
+      "rightUnitIds": [
+        "7d971ac7-93e2-43c5-b6f9-6cdff6add57a",
+        "873450c2-d02e-4100-8093-1377e87edac5",
+        "4d7d9ae7-1c1b-4500-ae9d-05c2477f8308",
+        "bef6ad9c-7a65-4168-88dc-3d222d1e037b",
+        "2fc50e88-9a38-408b-9334-b2ea8d476231"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        1
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-8ba9d47f6e7b07cc",
+      "decision": "MERGE",
+      "left": "— ‘motorcycle’ means two-wheel vehicles with or without a sidecar, as defined in Article 1(2)(b) of Directive",
+      "right": "2002/24/EC,",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "873450c2-d02e-4100-8093-1377e87edac5"
+      ],
+      "leftUnitIds": [
+        "873450c2-d02e-4100-8093-1377e87edac5"
+      ],
+      "rightUnitIds": [
+        "7d971ac7-93e2-43c5-b6f9-6cdff6add57a",
+        "873450c2-d02e-4100-8093-1377e87edac5",
+        "bef6ad9c-7a65-4168-88dc-3d222d1e037b"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        1
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-3188f8e71b4da9fd",
+      "decision": "MERGE",
+      "left": "— The minimum age for category A is fixed at 20 years. However, access to the driving of motor- cycles",
+      "right": "of this",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "leftUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "rightUnitIds": [
+        "1078120d-c4e5-4bb3-a0eb-d890aa44a148",
+        "a6f4d524-81a5-469d-b098-f2118ba792fb",
+        "7fcc45c8-01b6-4c7d-88b2-79c7e7a60a1b",
+        "0ae0996f-8862-4cb9-bd7f-4d069eec2a09",
+        "8b0d24e6-6860-4708-974d-344a6e9657b3"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        3
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-c692b8bf243f28bb",
+      "decision": "MERGE",
+      "left": "— The minimum age for category A is fixed at 20 years. However, access to the driving of motor- cycles of this",
+      "right": "category",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "leftUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "rightUnitIds": [
+        "af77cbed-0c01-4457-bea3-6507a915fe51",
+        "da716363-5527-4450-b509-39c56215d166",
+        "c20e641a-129b-42c6-ade9-bd3445f4628e",
+        "0706d220-1391-4063-9f9a-4595a35b4836",
+        "5ae78587-4ef8-4303-a96b-a25db18f4019"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        3
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-fce01fbfa78a72d0",
+      "decision": "MERGE",
+      "left": "— The minimum age for category A is fixed at 20 years. However, access to the driving of motor- cycles of this category",
+      "right": "shall be",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "leftUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "rightUnitIds": [
+        "e6546c1b-ed0e-4c83-b3a4-fc5fcc7ec418",
+        "b92dcb52-6b66-4b63-9e8c-546b616d6952",
+        "c2b42d55-4d58-459a-ac16-a685bc45f057",
+        "9d96fd58-db41-46f4-8d82-76f53724633d",
+        "0f4835a1-7a00-4a43-8dd3-3ea7d371188e"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        3
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-74889d53d55adbf3",
+      "decision": "MERGE",
+      "left": "— The minimum age for category A is fixed at 20 years. However, access to the driving of motor- cycles of this category shall be",
+      "right": "subject",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "leftUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "rightUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057",
+        "002f251b-43ea-4489-8c44-7e13b64aa514",
+        "8213ecd5-eda1-4377-be23-1a630d41b874",
+        "e4473224-eb91-4e0f-8492-5fdfe4522738",
+        "dd437ae9-7fc8-418b-8aa0-f9d967bc0544"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        3
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-8befbf24a8122374",
+      "decision": "MERGE",
+      "left": "— The minimum age for category A is fixed at 20 years. However, access to the driving of motor- cycles of this category shall be subject",
+      "right": "to a",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "leftUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "rightUnitIds": [
+        "59534c89-7075-4199-b9fc-c262f32362df",
+        "d480e0dc-a63e-41a3-8fbc-5c795da2f536",
+        "0cf9fc47-5fef-4786-b4f0-c9c14abdad62",
+        "1ae813d4-d6c1-42b6-884c-773605c19c79",
+        "c799e70b-4245-44e9-b40a-069f6cb31c2b"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        3
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-fbcd0b52ed22a350",
+      "decision": "MERGE",
+      "left": "— The minimum age for category A is fixed at 20 years. However, access to the driving of motor- cycles of this category shall be subject to a",
+      "right": "minimum of two years' experience on motorcycles under an A2 licence. This requirement as to previous experience may be waived if the candidate is at least 24 years old.",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "leftUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "rightUnitIds": [
+        "c2b42d55-4d58-459a-ac16-a685bc45f057"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        3
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-34229de100d52c94",
+      "decision": "KEEP_BOUNDARY",
+      "left": "30.12.2006",
+      "right": "motor vehicles other than those in categories D1 or D, whose maximum authorised mass is over 3 500 kg and which are designed and constructed for the carriage of no more than eight passengers in addition to the driver; motor vehicles in this category may be combined with a trailer having a maximum authorised mass which does not exceed 750 kg;",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "rightUnitIds": [
+        "5848c544-71c6-40d0-bb28-f3c74bf9464b"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-ce46cd18b935c60a",
+      "decision": "MERGE",
+      "left": "(a) vehicles of category D1 (with a maximum authorised mass of 3 500 kg, excluding any specialised equipment intended for the carriage of disabled passengers) by holders over 21 years old of a driving licence for category B which was obtained at least two years earlier provided that the vehicles are being",
+      "right": "used by",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e"
+      ],
+      "leftUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e"
+      ],
+      "rightUnitIds": [
+        "e311d2fa-e0b2-47f7-b514-bc53e554e5d5",
+        "c9b3179f-425d-4420-8a8d-7c2363adf29c",
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e",
+        "55e47547-8043-46ab-8387-496a3be16d2f",
+        "4a865ff1-e462-4b59-869d-fa33ad394cb6"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        1
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-90e4f99a60fbe121",
+      "decision": "MERGE",
+      "left": "(a) vehicles of category D1 (with a maximum authorised mass of 3 500 kg, excluding any specialised equipment intended for the carriage of disabled passengers) by holders over 21 years old of a driving licence for category B which was obtained at least two years earlier provided that the vehicles are being used by",
+      "right": "non-commercial",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e"
+      ],
+      "leftUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e"
+      ],
+      "rightUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e",
+        "55e47547-8043-46ab-8387-496a3be16d2f"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        1
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-69d9b282bb5f087f",
+      "decision": "MERGE",
+      "left": "(a) vehicles of category D1 (with a maximum authorised mass of 3 500 kg, excluding any specialised equipment intended for the carriage of disabled passengers) by holders over 21 years old of a driving licence for category B which was obtained at least two years earlier provided that the vehicles are being used by non-commercial",
+      "right": "bodies",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e"
+      ],
+      "leftUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e"
+      ],
+      "rightUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e",
+        "55e47547-8043-46ab-8387-496a3be16d2f",
+        "da78ec29-a955-4562-a3db-4a76ee116d48"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        1
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-9792ab2ebbc008a8",
+      "decision": "MERGE",
+      "left": "(a) vehicles of category D1 (with a maximum authorised mass of 3 500 kg, excluding any specialised equipment intended for the carriage of disabled passengers) by holders over 21 years old of a driving licence for category B which was obtained at least two years earlier provided that the vehicles are being used by non-commercial bodies",
+      "right": "for social",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e"
+      ],
+      "leftUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e"
+      ],
+      "rightUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e",
+        "55e47547-8043-46ab-8387-496a3be16d2f"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        1
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-223520d8ce0a78dd",
+      "decision": "MERGE",
+      "left": "(a) vehicles of category D1 (with a maximum authorised mass of 3 500 kg, excluding any specialised equipment intended for the carriage of disabled passengers) by holders over 21 years old of a driving licence for category B which was obtained at least two years earlier provided that the vehicles are being used by non-commercial bodies for social",
+      "right": "purposes and that the driver provides his services on a voluntary basis;",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e"
+      ],
+      "leftUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e"
+      ],
+      "rightUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        1
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-2375665d30845de8",
+      "decision": "MERGE",
+      "left": "States",
+      "right": "shall",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "0ae0996f-8862-4cb9-bd7f-4d069eec2a09",
+        "e6546c1b-ed0e-4c83-b3a4-fc5fcc7ec418",
+        "ce677921-15d6-4c6b-bfd9-70cf8ea77a5a",
+        "2a38d00b-2b95-49e9-86c6-e9240040119c",
+        "9c0440f5-6a24-47e9-b8f8-903302513e62"
+      ],
+      "leftUnitIds": [
+        "acca65b2-f9b2-4e1c-b3f6-e438e2c265bf",
+        "0289a52c-3a4e-4870-a26b-216ed36de0ed",
+        "59534c89-7075-4199-b9fc-c262f32362df",
+        "d480e0dc-a63e-41a3-8fbc-5c795da2f536",
+        "0cf9fc47-5fef-4786-b4f0-c9c14abdad62"
+      ],
+      "rightUnitIds": [
+        "0ae0996f-8862-4cb9-bd7f-4d069eec2a09",
+        "8b0d24e6-6860-4708-974d-344a6e9657b3",
+        "62385b9c-01cb-4f9d-8a6f-7417addd2d9a",
+        "e6546c1b-ed0e-4c83-b3a4-fc5fcc7ec418",
+        "ce677921-15d6-4c6b-bfd9-70cf8ea77a5a"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        1,
+        2,
+        3,
+        5
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-658b12589160dccc",
+      "decision": "MERGE",
+      "left": "States shall",
+      "right": "take the",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "73d2d034-0972-4e43-aff2-ae30072526a9",
+        "a40f2897-8a60-46ff-a080-32963e8c89fa",
+        "3dbf8ee3-914f-4dbb-aeca-dd80bef2069b",
+        "4d4222ae-bca0-4f8a-9887-0f9a4309b4f7",
+        "ae76651e-3830-4f90-bcbb-e1ae0494de34"
+      ],
+      "leftUnitIds": [
+        "0ae0996f-8862-4cb9-bd7f-4d069eec2a09",
+        "e6546c1b-ed0e-4c83-b3a4-fc5fcc7ec418",
+        "ce677921-15d6-4c6b-bfd9-70cf8ea77a5a",
+        "2a38d00b-2b95-49e9-86c6-e9240040119c",
+        "9c0440f5-6a24-47e9-b8f8-903302513e62"
+      ],
+      "rightUnitIds": [
+        "38586fe6-a38d-4bbd-90cc-80048a6f02f5",
+        "73d2d034-0972-4e43-aff2-ae30072526a9",
+        "a40f2897-8a60-46ff-a080-32963e8c89fa",
+        "3dbf8ee3-914f-4dbb-aeca-dd80bef2069b",
+        "402e17e4-a2fd-4d48-b304-3d1fc3ddd026"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        2
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-f569bba6912cac0a",
+      "decision": "MERGE",
+      "left": "States shall take the",
+      "right": "necessary",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "73d2d034-0972-4e43-aff2-ae30072526a9",
+        "a40f2897-8a60-46ff-a080-32963e8c89fa",
+        "4d4222ae-bca0-4f8a-9887-0f9a4309b4f7",
+        "ae76651e-3830-4f90-bcbb-e1ae0494de34"
+      ],
+      "leftUnitIds": [
+        "73d2d034-0972-4e43-aff2-ae30072526a9",
+        "a40f2897-8a60-46ff-a080-32963e8c89fa",
+        "3dbf8ee3-914f-4dbb-aeca-dd80bef2069b",
+        "4d4222ae-bca0-4f8a-9887-0f9a4309b4f7",
+        "ae76651e-3830-4f90-bcbb-e1ae0494de34"
+      ],
+      "rightUnitIds": [
+        "59534c89-7075-4199-b9fc-c262f32362df",
+        "4cd4202c-6047-47bd-a92a-8b1195817e60",
+        "1078120d-c4e5-4bb3-a0eb-d890aa44a148",
+        "a6f4d524-81a5-469d-b098-f2118ba792fb",
+        "7fcc45c8-01b6-4c7d-88b2-79c7e7a60a1b"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        2
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-ac62e2403071ee5f",
+      "decision": "MERGE",
+      "left": "States shall take the necessary",
+      "right": "measures",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "73d2d034-0972-4e43-aff2-ae30072526a9",
+        "a40f2897-8a60-46ff-a080-32963e8c89fa",
+        "4d4222ae-bca0-4f8a-9887-0f9a4309b4f7",
+        "ae76651e-3830-4f90-bcbb-e1ae0494de34"
+      ],
+      "leftUnitIds": [
+        "73d2d034-0972-4e43-aff2-ae30072526a9",
+        "a40f2897-8a60-46ff-a080-32963e8c89fa",
+        "4d4222ae-bca0-4f8a-9887-0f9a4309b4f7",
+        "ae76651e-3830-4f90-bcbb-e1ae0494de34"
+      ],
+      "rightUnitIds": [
+        "59534c89-7075-4199-b9fc-c262f32362df",
+        "0cf9fc47-5fef-4786-b4f0-c9c14abdad62",
+        "1078120d-c4e5-4bb3-a0eb-d890aa44a148",
+        "a6f4d524-81a5-469d-b098-f2118ba792fb",
+        "7fcc45c8-01b6-4c7d-88b2-79c7e7a60a1b"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        2
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-be9241bf3548ca46",
+      "decision": "MERGE",
+      "left": "States shall take the necessary measures",
+      "right": "pursuant to point (b). The necessary measures as regards the issue, replacement, renewal or exchange of a driving licence shall be to verify with other Member States where there are reasonable grounds to suspect that the appli- cant is already the holder of another driving licence;",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "73d2d034-0972-4e43-aff2-ae30072526a9"
+      ],
+      "leftUnitIds": [
+        "73d2d034-0972-4e43-aff2-ae30072526a9",
+        "a40f2897-8a60-46ff-a080-32963e8c89fa",
+        "4d4222ae-bca0-4f8a-9887-0f9a4309b4f7",
+        "ae76651e-3830-4f90-bcbb-e1ae0494de34"
+      ],
+      "rightUnitIds": [
+        "73d2d034-0972-4e43-aff2-ae30072526a9"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        2
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-0e28db0929fff4a0",
+      "decision": "ABSTAIN",
+      "left": "However, the normal residence of a person whose occupational ties are in a different place from his personal ties and who consequently lives in turn in different places situated in two or more Member States shall be regarded as being the place of his personal ties, provided that such person returns there regularly. This last condition need not be met where the person is living in a Member State in order to carry out a task of a definite dura-",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "d9f40ce2-e2ae-4b92-9360-6f972a534ce6"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-f472eb07032481e8",
+      "decision": "KEEP_BOUNDARY",
+      "left": "30.12.2006",
+      "right": "tion. Attendance at a university or school shall not imply transfer of normal residence.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "rightUnitIds": [
+        "ee426f08-fb22-4b4b-b401-37bf5b1b7056"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-20c8b02666590b89",
+      "decision": "MERGE",
+      "left": "1. With the agreement of the Commission, Member States shall establish",
+      "right": "equivalences",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "leftUnitIds": [
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "rightUnitIds": [
+        "07eb9b91-bcba-425a-85e8-970f2233d946",
+        "00d1bf86-1406-4205-a494-6a323ee78321",
+        "740b7123-d30f-4cad-8ba4-6c658b780b4f",
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        2
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-0e24153f248c65d8",
+      "decision": "MERGE",
+      "left": "1. With the agreement of the Commission, Member States shall establish equivalences",
+      "right": "between",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "leftUnitIds": [
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "rightUnitIds": [
+        "acca65b2-f9b2-4e1c-b3f6-e438e2c265bf",
+        "474b728f-1e8c-4d4a-b1a5-bd2db2635b2e",
+        "07eb9b91-bcba-425a-85e8-970f2233d946",
+        "a7683cfd-d4ed-4001-ba79-432ec011394c",
+        "3f13cf95-9f8d-4e8a-894d-99ee9ee54b76"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        2
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-fd76e2d221867e32",
+      "decision": "MERGE",
+      "left": "1. With the agreement of the Commission, Member States shall establish equivalences between",
+      "right": "entitlements",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "leftUnitIds": [
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "rightUnitIds": [
+        "9e9dc473-d819-40f9-b155-13a12764135b",
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        2
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-e8e74298153f670c",
+      "decision": "MERGE",
+      "left": "1. With the agreement of the Commission, Member States shall establish equivalences between entitlements",
+      "right": "obtained",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "leftUnitIds": [
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "rightUnitIds": [
+        "dcb4ed01-52c6-4d5b-a2b7-0959dde4ae6e",
+        "55e47547-8043-46ab-8387-496a3be16d2f",
+        "e4a7d723-19ca-4db8-83af-857277cca8cf",
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        2
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-3ddd67c482106659",
+      "decision": "MERGE",
+      "left": "1. With the agreement of the Commission, Member States shall establish equivalences between entitlements obtained",
+      "right": "before the implementation of this Directive and the categories defined in Article 4.",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "leftUnitIds": [
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "rightUnitIds": [
+        "94b04f15-05c0-4f39-ab06-dd9ff0810a20"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        2
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-bf08d17c234142bf",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-72b9c79d0e51813f",
+      "decision": "ABSTAIN",
+      "left": "(a) The material used for driving licences shall be made secure against forgery by using the following techniques",
+      "right": "(mandatory security features):",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "dfa13867-3167-44f5-b854-a91261785c78"
+      ],
+      "rightUnitIds": [
+        "c56263c3-2bf8-4bd4-b9ad-0752c3643326"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-12b790547598d62c",
+      "decision": "ABSTAIN",
+      "left": "(b) date of expiry of the licence or a dash if the licence is valid indefinitely under the provision of Article 7(2)",
+      "right": "(c);",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "be5f9545-9d96-41b9-a3b3-e24d2f730478"
+      ],
+      "rightUnitIds": [
+        "dde4ff7f-136b-499f-8dd2-0f1764f3b119"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-00392dedc54d2272",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-fe1f498b80790a76",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-48fa83ae63a2eaab",
+      "decision": "ABSTAIN",
+      "left": "25. Modified accelerator systems 25.01 Adjusted accelerator pedal 25.02 Accelerator pedal by sole 25.03 Tilted accelerator pedal 25.04 Manual accelerator 25.05 Accelerator at knee 25.06 Servo accelerator (electronic, pneumatic, etc.) 25.07 Accelerator pedal on the left of brake pedal 25.08 Accelerator pedal on the left 25.09 Partitioning in front of/fold away/detached accelerator pedal 30. Modified combined braking and accelerator systems 30.01 Parallel pedals 30.02 Pedals at (or almost at) the same level 30.03 Accelerator and brake with sliding 30.04 Accelerator and brake with sliding and orthesis 30.05 Fold away/detached accelerator and brake pedals 30.06 Raised floor 30.07 Partitioning on the side of the brake pedal 30.08 Partitioning for prosthesis on the side of the brake pedal 30.09 Partitioning in front of the accelerator and brake pedals 30.10 Heel/leg support 30.11 Electrically operated accelerator and brake 35. Modified control layouts",
+      "right": "(Lights switches, windscreen wiper/washer, horn, direction indicators, etc.) 35.01 Control devices operable without negative influence on the steering and handling 35.02 Control devices operable without releasing the steering wheel and accessories (knob, fork, etc.) 35.03 Control devices operable without releasing the steering wheel and accessories (knob, fork, etc.) with the left hand 35.04 Control devices operable without releasing the steering wheel and accessories (knob, fork, etc.) with the right hand 35.05 Control devices operable without releasing the steering wheel and accessories (knob, fork, etc.) and the combined accelerator and braking mechanismss 40. Modified steering 40.01 Standard assisted steering 40.02 Reinforced assisted steering 40.03 Steering with backup system 40.04 Lengthened steering column 40.05 Adjusted steering wheel (Larger and/or thicker steering wheel section, reduced diameter steering wheel, etc.) 40.06 Tilted steering wheel 40.07 Vertical steering wheel 40.08 Horizontal steering wheel 40.09 Foot operated driving 40.10 Alternative adjusted steering (joy-stick, etc.) 40.11 Knob on the steering wheel 40.12 Hand orthesis on the steering wheel 40.13 With orthesis tenodese",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "a4aceabb-aee0-458b-80ec-fe102f454225"
+      ],
+      "rightUnitIds": [
+        "89a93034-5b71-4aad-b57b-6036e1355b7f"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-8dfa506a70df6404",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-0e52739c443b31f2",
+      "decision": "ABSTAIN",
+      "left": "EN 76. Restricted to category C vehicles the maximum authorised mass of which does not exceed 7 500 kg (C1), attached to a trailer the maximum authorised mass of which exceeds 750 kg, provided that the maximum authorised mass of the vehicle train thus formed does not exceed 12 000 kg, and that the maximum authorised mass of the trailer does not exceed the unladen mass of the drawing vehicle (C1E) 77. Restricted to category D vehicles with not more than 16 passenger seats, excluding the driver's seat (D1), attached to a trailer the maximum authorised mass of which exceeds 750 kg provided that (a) the maximum authorised mass of the vehicle train thus formed does not exceed 12 000 kg and the maximum authorised mass of the trailer does not exceed the unladen mass of the drawing vehicle and (b) the trailer is not used to carry passengers (D1E) 78. Restricted to vehicles with automatic transmission 79. (…) Restricted to vehicles which comply with the specifications indicated in brackets, in the context of the application of Article 10(1) of Directive 91/439/EEC 90.01: to the left",
+      "right": "90.02: to the right",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "b5a84fa3-3acc-4062-b899-e44d2cb68822"
+      ],
+      "rightUnitIds": [
+        "c061518e-d38a-4e2b-aeae-93e5d6fba0e2"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-ff68fc46690f52df",
+      "decision": "ABSTAIN",
+      "left": "90.02: to the right",
+      "right": "90.03: left",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c061518e-d38a-4e2b-aeae-93e5d6fba0e2"
+      ],
+      "rightUnitIds": [
+        "35e265ac-72b3-46e5-ba15-3948b50cb0db"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-3f164e289e0dcdbe",
+      "decision": "ABSTAIN",
+      "left": "90.03: left",
+      "right": "90.04: right",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "35e265ac-72b3-46e5-ba15-3948b50cb0db"
+      ],
+      "rightUnitIds": [
+        "5f2b4014-cf8c-4b7b-ae9a-ef7e826a86c8"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-568354761569d897",
+      "decision": "ABSTAIN",
+      "left": "90.04: right",
+      "right": "90.05: hand",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "5f2b4014-cf8c-4b7b-ae9a-ef7e826a86c8"
+      ],
+      "rightUnitIds": [
+        "928cd86f-af94-46bc-a4a3-12d3e0778fcd"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-26fb40260c73e426",
+      "decision": "ABSTAIN",
+      "left": "90.05: hand",
+      "right": "90.06: foot",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "928cd86f-af94-46bc-a4a3-12d3e0778fcd"
+      ],
+      "rightUnitIds": [
+        "e5804b41-8aa7-44d0-8f9e-05d652f6dacd"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-7d97e2715a616850",
+      "decision": "ABSTAIN",
+      "left": "90.06: foot",
+      "right": "90.07: usable 95. Driver holding CPC meeting the obligation of professional aptitude provided for by Directive 2003/59/EC until … [e.g.: 95.01.01.2012] 96. Driver having completed training or having passed a test of skills and behaviour in accordance with the provisions of Annex V.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "e5804b41-8aa7-44d0-8f9e-05d652f6dacd"
+      ],
+      "rightUnitIds": [
+        "dcb2d04d-8ce1-4e6f-9082-51a1209539d0"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-ea2b34e7b01967d7",
+      "decision": "ABSTAIN",
+      "left": "(b) an explanation of the numbered items which appear on pages 1 and 2 of the licence (at least items 1, 2, 3, 4 (a), 4",
+      "right": "(b), 4 (c), 5, 10, 11 and 12)",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "6634b2e0-155a-48e5-9552-a64b79db0990"
+      ],
+      "rightUnitIds": [
+        "05ab397c-9d82-45d3-b533-5b99895904c9"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-dac6c9541d01b863",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-2812c29b1d52e9cb",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-359ff061852c7b1d",
+      "decision": "ABSTAIN",
+      "left": "THEORY TEST",
+      "right": "1.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "85ef306e-e899-4f30-a7cd-b92246ae05ca"
+      ],
+      "rightUnitIds": [
+        "c2f6173f-dcb8-4dee-bc43-e110572d80a5",
+        "636e8d2e-51f9-4e1a-ace4-a57530386d28",
+        "0ae0996f-8862-4cb9-bd7f-4d069eec2a09",
+        "e6546c1b-ed0e-4c83-b3a4-fc5fcc7ec418",
+        "ce677921-15d6-4c6b-bfd9-70cf8ea77a5a"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-4af42c73ddf110e8",
+      "decision": "ABSTAIN",
+      "left": "EN",
+      "right": "2.1.8.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c32c1558-7e07-4ff7-9798-c9d1e26bb5e3",
+        "62593515-e2a3-4907-8313-c983a0f5f31b",
+        "a038d9f6-9eae-4eb4-8e86-7337c149d7bf",
+        "93d72c23-4249-4e75-a43f-59dbcb02915a",
+        "bac67eaa-1eba-4b5a-a07e-4a450e437727"
+      ],
+      "rightUnitIds": [
+        "6f4beddb-b6b1-4264-bea5-1d8f947aae1b"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-a85338b4a125a63c",
+      "decision": "ABSTAIN",
+      "left": "Rules on driving hours and rest periods as defined by Council Regulation (EEC) No 3820/85 of 20 December 1985 on the harmonisation of certain social legislation relating to road transport (1); use of the recording equipment as defined by Council Regulation (EEC) No 3821/85 of 20 December 1985 on recording equipment in road trans- port (2),",
+      "right": "4.1.2.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "d536d0aa-0d06-4a11-971a-6355c6400bf7"
+      ],
+      "rightUnitIds": [
+        "a301995d-88bc-4748-9747-71f38cb34616",
+        "0400da30-9ae8-4c65-844a-54673ed406e1",
+        "16286ced-70b1-4667-84a3-9c0beb00b6fe"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-1b8b7540de84866d",
+      "decision": "MERGE",
+      "left": "4.1.10. The driver's responsibility in respect to the carriage of passengers; comfort and safety of passengers; transport of",
+      "right": "children; necessary checks before driving away; all sorts of buses should be part of the theory test (public service buses and coaches, buses with special dimensions, …) (categories D, DE, D1, D1E only).",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "bdc03990-c2e0-456d-b969-dd6609cc4d5b"
+      ],
+      "leftUnitIds": [
+        "bdc03990-c2e0-456d-b969-dd6609cc4d5b"
+      ],
+      "rightUnitIds": [
+        "bdc03990-c2e0-456d-b969-dd6609cc4d5b"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        2
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-2501b8b5d972a3d5",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-c10552f4fa2b7e27",
+      "decision": "ABSTAIN",
+      "left": "EN",
+      "right": "4.2.2.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c32c1558-7e07-4ff7-9798-c9d1e26bb5e3",
+        "62593515-e2a3-4907-8313-c983a0f5f31b",
+        "a038d9f6-9eae-4eb4-8e86-7337c149d7bf",
+        "93d72c23-4249-4e75-a43f-59dbcb02915a",
+        "bac67eaa-1eba-4b5a-a07e-4a450e437727"
+      ],
+      "rightUnitIds": [
+        "2c45d8cc-f8ef-4720-9808-cbf192f332d5",
+        "3dbf8ee3-914f-4dbb-aeca-dd80bef2069b"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-ae93c5c84ddd71cb",
+      "decision": "ABSTAIN",
+      "left": "TEST OF SKILLS AND BEHAVIOUR",
+      "right": "5.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "7b26fd72-6ec2-424d-9cae-2ddb68e044b7"
+      ],
+      "rightUnitIds": [
+        "c2f6173f-dcb8-4dee-bc43-e110572d80a5",
+        "c0e7a181-21c4-41d1-8916-8893b3116217",
+        "539362e4-865c-4b38-8a52-e0bc8f274db5",
+        "e4cce35d-165e-4904-9f2a-447b22066c2c",
+        "c84ed390-f866-4148-8e32-a0575172ec27"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-297092df0bc61309",
+      "decision": "ABSTAIN",
+      "left": "‘Vehicle with automatic transmission’ means a vehicle in which the gear ratio between the engine and the wheels can be varied by use only of the accelerator or the brakes",
+      "right": "5.2.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "3ef56568-52f2-4aeb-92c2-3eabbdff69f6"
+      ],
+      "rightUnitIds": [
+        "c856e840-b748-4b52-9b29-1ab1f7c3ce76",
+        "9866c228-94d7-4dc6-a469-3dda2722f440",
+        "01b2b2a4-5461-40a1-8474-29bae487fdae"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-953f6e170c1ac4f1",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-e217a6a103b5b6c1",
+      "decision": "ABSTAIN",
+      "left": "Special manoeuvres to be tested with a bearing on road safety",
+      "right": "6.2.1.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "370f9c03-9f35-41cd-8c4e-15d1029b3438",
+        "235d8425-c243-47e5-8ef9-492c724d3b3c"
+      ],
+      "rightUnitIds": [
+        "6d1630d1-7889-419f-a974-b1662f1197f5"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-5fa7f7fdc08b620d",
+      "decision": "ABSTAIN",
+      "left": "EN",
+      "right": "7.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c32c1558-7e07-4ff7-9798-c9d1e26bb5e3",
+        "62593515-e2a3-4907-8313-c983a0f5f31b",
+        "a038d9f6-9eae-4eb4-8e86-7337c149d7bf",
+        "93d72c23-4249-4e75-a43f-59dbcb02915a",
+        "bac67eaa-1eba-4b5a-a07e-4a450e437727"
+      ],
+      "rightUnitIds": [
+        "efa49140-4990-4955-92a9-f2d2612e6f86",
+        "c28e3e39-ca05-4ca6-a005-45e605e9b131",
+        "2fc50e88-9a38-408b-9334-b2ea8d476231",
+        "91c38afc-77a2-4c67-8cf1-8ace879f54a5",
+        "b5a84fa3-3acc-4062-b899-e44d2cb68822"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-553a8dd65a906fef",
+      "decision": "ABSTAIN",
+      "left": "Category BE: special manoeuvres to be tested with a bearing on road safety",
+      "right": "7.3.1.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "d3358232-5047-4d05-9b4f-d08bc1c678a7"
+      ],
+      "rightUnitIds": [
+        "ff671d14-091e-43cd-8ca4-461b449b1670"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-822b7591d1519a41",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-8fb7aa108f455098",
+      "decision": "ABSTAIN",
+      "left": "EN",
+      "right": "8.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c32c1558-7e07-4ff7-9798-c9d1e26bb5e3",
+        "62593515-e2a3-4907-8313-c983a0f5f31b",
+        "a038d9f6-9eae-4eb4-8e86-7337c149d7bf",
+        "93d72c23-4249-4e75-a43f-59dbcb02915a",
+        "bac67eaa-1eba-4b5a-a07e-4a450e437727"
+      ],
+      "rightUnitIds": [
+        "c2f6173f-dcb8-4dee-bc43-e110572d80a5",
+        "e37f2907-8b82-43d3-ba58-86d226801a55",
+        "c53a2e36-c831-4284-af42-c708754b8a02",
+        "b5a84fa3-3acc-4062-b899-e44d2cb68822",
+        "a964424a-c303-477f-8df9-32a37a1b786f"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-0e201210cd3337de",
+      "decision": "ABSTAIN",
+      "left": "Special manoeuvres to be tested with a bearing on road safety",
+      "right": "8.2.1.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "370f9c03-9f35-41cd-8c4e-15d1029b3438",
+        "235d8425-c243-47e5-8ef9-492c724d3b3c"
+      ],
+      "rightUnitIds": [
+        "46da6e0f-033c-4f02-8310-b457c57cf689"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-be1131aa8843816a",
+      "decision": "ABSTAIN",
+      "left": "EN",
+      "right": "8.3.8.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c32c1558-7e07-4ff7-9798-c9d1e26bb5e3",
+        "62593515-e2a3-4907-8313-c983a0f5f31b",
+        "a038d9f6-9eae-4eb4-8e86-7337c149d7bf",
+        "93d72c23-4249-4e75-a43f-59dbcb02915a",
+        "bac67eaa-1eba-4b5a-a07e-4a450e437727"
+      ],
+      "rightUnitIds": [
+        "eec074e1-b9e2-4d3b-a519-091fcd387b00"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-366c3ab0c7c22000",
+      "decision": "MERGE",
+      "left": "9.3.10. Braking and stopping: decelerating in time, braking or stopping according to circumstances; anticipation; using",
+      "right": "the various braking systems (only for categories C, CE, D, DE); using speed reduction systems other than the brakes (only for categories C, CE, D, DE).",
+      "structurallySameSourceUnit": true,
+      "matchingUnitIds": [
+        "ecdb5dfe-852a-4270-ba16-b08140528d8b"
+      ],
+      "leftUnitIds": [
+        "ecdb5dfe-852a-4270-ba16-b08140528d8b"
+      ],
+      "rightUnitIds": [
+        "ecdb5dfe-852a-4270-ba16-b08140528d8b"
+      ],
+      "boundaryRemainsSeparate": false,
+      "studioSegmentCounts": [
+        3
+      ]
+    },
+    {
+      "candidateId": "paragraphboundary-8868276e9d415831",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-d407e17e8d2e2a60",
+      "decision": "ABSTAIN",
+      "left": "EN",
+      "right": "10.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c32c1558-7e07-4ff7-9798-c9d1e26bb5e3",
+        "62593515-e2a3-4907-8313-c983a0f5f31b",
+        "a038d9f6-9eae-4eb4-8e86-7337c149d7bf",
+        "93d72c23-4249-4e75-a43f-59dbcb02915a",
+        "bac67eaa-1eba-4b5a-a07e-4a450e437727"
+      ],
+      "rightUnitIds": [
+        "636e8d2e-51f9-4e1a-ace4-a57530386d28",
+        "539362e4-865c-4b38-8a52-e0bc8f274db5",
+        "3cf18e24-b56b-4d94-be6a-c31d30a9e982",
+        "5e5bcfba-d587-4a75-85b1-7f725dce6f1f",
+        "a964424a-c303-477f-8df9-32a37a1b786f"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-44b32e8f86b61d26",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-840972aaf35ce482",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-94c3491398c977ef",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-8793ec3a316415f8",
+      "decision": "ABSTAIN",
+      "left": "EN",
+      "right": "3.2. Examinations 3.2.1. Before a person may be authorised to conduct driving tests, that person must demonstrate a satisfactory standard of knowledge, understanding, skills and aptitude in respect of the subjects listed in point 1.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c32c1558-7e07-4ff7-9798-c9d1e26bb5e3",
+        "62593515-e2a3-4907-8313-c983a0f5f31b",
+        "a038d9f6-9eae-4eb4-8e86-7337c149d7bf",
+        "93d72c23-4249-4e75-a43f-59dbcb02915a",
+        "bac67eaa-1eba-4b5a-a07e-4a450e437727"
+      ],
+      "rightUnitIds": [
+        "c62a532b-976e-4c5b-82e1-d3e3f3db47fb"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-f6679a38cbcbc9cb",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-dc3ba8ba0cc9a553",
+      "decision": "ABSTAIN",
+      "left": "EN",
+      "right": "4.2.4. Member States may provide that where an examiner is authorised to conduct driving tests in more than one cate- gory, satisfying the periodic training requirement in relation to tests for one category satisfies the requirement for more than one category, provided the condition set out in point 4.2.5 is satisfied.",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c32c1558-7e07-4ff7-9798-c9d1e26bb5e3",
+        "62593515-e2a3-4907-8313-c983a0f5f31b",
+        "a038d9f6-9eae-4eb4-8e86-7337c149d7bf",
+        "93d72c23-4249-4e75-a43f-59dbcb02915a",
+        "bac67eaa-1eba-4b5a-a07e-4a450e437727"
+      ],
+      "rightUnitIds": [
+        "44c60016-898a-4776-9e51-523d572384ec"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-10c9493f8c9a019f",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-87f74e46b5cd9815",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    },
+    {
+      "candidateId": "paragraphboundary-deb79f2914c4b5ab",
+      "decision": "ABSTAIN",
+      "left": "Official Journal of the European Union",
+      "right": "30.12.2006",
+      "structurallySameSourceUnit": false,
+      "matchingUnitIds": [],
+      "leftUnitIds": [
+        "c59e2f55-d0ac-46c3-91d8-768201a57bf0",
+        "7702c8c4-8588-490b-9544-dd385a951ddb",
+        "add3d2c0-3b0b-4a79-9ac1-c3b6ed3ca5ee",
+        "7cee2fef-b706-4acf-8152-22dc4564032f",
+        "56a5b4eb-280c-49a3-8cc5-2a4c969a7695"
+      ],
+      "rightUnitIds": [
+        "b17d0112-33b3-40c9-9a61-33702eaaa07d",
+        "83676cce-5cbf-40ea-849a-98ae90bc05d7",
+        "bea2f74d-dd5b-4983-931e-03f1e0d2563b",
+        "97b8456b-4ae0-47e5-a265-fabd4de4711e",
+        "992ed42c-d569-4426-837a-ed40627d0e17"
+      ],
+      "boundaryRemainsSeparate": true,
+      "studioSegmentCounts": []
+    }
+  ],
+  "mergeSurvival": {
+    "total": 28,
+    "survivedWithinOneStudioUnit": 28
+  },
+  "keepBoundary": {
+    "total": 4
+  },
+  "abstain": {
+    "total": 46
+  }
+}

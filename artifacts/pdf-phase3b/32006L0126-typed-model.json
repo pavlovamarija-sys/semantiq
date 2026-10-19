@@ -1,0 +1,16 @@
+{
+  "status": "NOT_GENERATED",
+  "celex": "32006L0126",
+  "frozenRun": true,
+  "failure": {
+    "exceptionType": "KeyError",
+    "message": "'reason'",
+    "file": "workers/pdf-to-docx/spikes/typed_model_phase1.py",
+    "line": 554,
+    "operation": "ambiguity['reason'] during generic decision logging",
+    "pageBeingProcessed": 4,
+    "cause": "The aligned-list rejection ambiguity created by Phase 3B contains type/candidates/evidence/confidence but no reason field. Generic ambiguity decision logging assumes every ambiguity has reason."
+  },
+  "algorithmTuningAfterFrozenRun": false,
+  "message": "No typed model was returned. This is a failure envelope and must not be treated as reconstructed content."
+}

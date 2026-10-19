@@ -1,0 +1,13 @@
+{
+  "classification": "PASS_READY_NOT_EXECUTED",
+  "linkedProject": {"ref":"yswudlrbswpwifbgqldh","name":"EU Acquis AI App","organizationId":"ylesbqzjsflwxtaiwyrk"},
+  "migration": {"version":"20261028000000","status":"APPLIED","onlyPendingMigration":true},
+  "productionCatalog": {"checkpointPolicy":"canonical_mk1_batch_checkpoints_owned","authenticatedSelect":true,"authenticatedInsert":true,"projectOwnerPredicate":true,"immutableTriggerRetained":true},
+  "historicalGenerationsUnchanged": ["1ccd6fd8-c75e-4515-84c5-5e7511f64297","ad3a8f31-663d-460a-af31-e0fc8c985db3","b2d41b63-8b63-4b7a-8fa3-df65e5ee64d3"],
+  "producer": "canonical-mk1-phase6c7-v4-durable-checkpoints",
+  "requestKey": "phase6c7-controlled-32006l0114-v4-durable-checkpoints",
+  "health": {"nextjs":200,"worker":200},
+  "tests": {"focusedPassed":12,"focusedFailed":0,"typescript":"PASS","checkpointRecovery":"PASS","all27RecoveryWithoutProvider":"PASS","synthetic265TuPreflight":"PASS"},
+  "paidCalls":0,
+  "executed":false
+}

@@ -1,0 +1,474 @@
+{
+  "celex": "32006L0126",
+  "classification": "FAIL",
+  "blindRun": true,
+  "selection": {
+    "title": "Directive 2006/126/EC of the European Parliament and of the Council of 20 December 2006 on driving licences (Recast)",
+    "neutrality": "administrative/transport",
+    "pages": 43,
+    "selectionFrozenBeforeReconstruction": true
+  },
+  "hashes": {
+    "sourcePdfSha256": "0E6E7DF9EF641AFEBECF692CE9E1AF7C8CA2F2AD2E4C82950AD6ECF81A3D55EE",
+    "experimentalDocxSha256": null
+  },
+  "pdfExtraction": {
+    "pages": 43,
+    "blocks": 1200,
+    "lines": 2555,
+    "spans": 27433,
+    "nonEmptyFragments": 1651,
+    "readingOrder": {
+      "status": "FAIL",
+      "allExtractedFragmentsAssignedOnce": true,
+      "materialOrderAudit": "Material defect detected in the unchanged ordering primitive before model construction: after page 5 it uses global (y, x) sorting on continuing two-column pages. Genuine Article headings on page 9 appear as 11, 13, 14, 15, 12, 16 and on page 10 as 18, 19, 17."
+    },
+    "rawStructuralEvidence": {
+      "articleHeadingCandidates": 37,
+      "annexHeadingCandidates": 17,
+      "chapterHeadingCandidates": 0,
+      "sectionHeadingCandidates": 0,
+      "recitalLikeFragments": 9,
+      "listItemLikeFragments": 197,
+      "ojCitationFragments": 20,
+      "bodyCrossReferenceFragments": 198,
+      "pymupdfTableCandidates": 4,
+      "tableCandidates": [
+        {
+          "page": 40,
+          "index": 0,
+          "rows": 2,
+          "columns": 3,
+          "cells": 6
+        },
+        {
+          "page": 41,
+          "index": 0,
+          "rows": 2,
+          "columns": 2,
+          "cells": 4
+        },
+        {
+          "page": 42,
+          "index": 0,
+          "rows": 2,
+          "columns": 2,
+          "cells": 4
+        },
+        {
+          "page": 43,
+          "index": 0,
+          "rows": 2,
+          "columns": 2,
+          "cells": 4
+        }
+      ]
+    }
+  },
+  "typedModelCoverage": {
+    "status": "NOT_EVALUABLE",
+    "sourceSpans": 27433,
+    "representedSpans": 0,
+    "explicitlyAccountedUnrepresentedSpans": 27433,
+    "accountingReason": "All spans are unrepresented because model construction aborted at the page-6 hard-coded anchor lookup."
+  },
+  "structuralClassification": {
+    "status": "NOT_EVALUABLE",
+    "headings": null,
+    "bodyParagraphs": null,
+    "recitals": null,
+    "lists": null,
+    "tables": null,
+    "rows": null,
+    "cells": null,
+    "footnotes": null,
+    "pageBreaks": null,
+    "unresolved": null
+  },
+  "paragraphReconstruction": {
+    "status": "NOT_EVALUABLE",
+    "falseSplits": null,
+    "falseMerges": null,
+    "suspiciousContinuations": null,
+    "visualLineWrapArtifacts": null,
+    "crossPageIssues": null
+  },
+  "tableReconstruction": {
+    "status": "NOT_EVALUABLE",
+    "reason": "Failure occurred before any typed model or table result could be returned. Raw PyMuPDF candidates are extraction evidence only, not reconstructed tables."
+  },
+  "legalStructureValidation": {
+    "status": "NOT_EVALUABLE",
+    "rawArticleCandidates": [
+      {
+        "page": 3,
+        "block": 3,
+        "text": "Article 1",
+        "readingOrder": 77
+      },
+      {
+        "page": 3,
+        "block": 11,
+        "text": "Article 2",
+        "readingOrder": 86
+      },
+      {
+        "page": 3,
+        "block": 15,
+        "text": "Article 3",
+        "readingOrder": 90
+      },
+      {
+        "page": 3,
+        "block": 20,
+        "text": "Article 4",
+        "readingOrder": 95
+      },
+      {
+        "page": 6,
+        "block": 20,
+        "text": "Article 5",
+        "readingOrder": 202
+      },
+      {
+        "page": 6,
+        "block": 24,
+        "text": "Article 6",
+        "readingOrder": 211
+      },
+      {
+        "page": 7,
+        "block": 10,
+        "text": "Article 7",
+        "readingOrder": 280
+      },
+      {
+        "page": 8,
+        "block": 12,
+        "text": "Article 8",
+        "readingOrder": 298
+      },
+      {
+        "page": 8,
+        "block": 15,
+        "text": "Article 9",
+        "readingOrder": 303
+      },
+      {
+        "page": 8,
+        "block": 19,
+        "text": "Article 10",
+        "readingOrder": 309
+      },
+      {
+        "page": 8,
+        "block": 23,
+        "text": "Article 11",
+        "readingOrder": 317
+      },
+      {
+        "page": 9,
+        "block": 12,
+        "text": "Article 13",
+        "readingOrder": 339
+      },
+      {
+        "page": 9,
+        "block": 17,
+        "text": "Article 14",
+        "readingOrder": 352
+      },
+      {
+        "page": 9,
+        "block": 20,
+        "text": "Article 15",
+        "readingOrder": 357
+      },
+      {
+        "page": 9,
+        "block": 7,
+        "text": "Article 12",
+        "readingOrder": 360
+      },
+      {
+        "page": 9,
+        "block": 23,
+        "text": "Article 16",
+        "readingOrder": 363
+      },
+      {
+        "page": 10,
+        "block": 8,
+        "text": "Article 18",
+        "readingOrder": 371
+      },
+      {
+        "page": 10,
+        "block": 12,
+        "text": "Article 19",
+        "readingOrder": 378
+      },
+      {
+        "page": 10,
+        "block": 3,
+        "text": "Article 17",
+        "readingOrder": 380
+      },
+      {
+        "page": 42,
+        "block": 13,
+        "text": "Article 4",
+        "readingOrder": 1514
+      },
+      {
+        "page": 42,
+        "block": 13,
+        "text": "Article 5",
+        "readingOrder": 1515
+      },
+      {
+        "page": 43,
+        "block": 17,
+        "text": "Article 8",
+        "readingOrder": 1606
+      },
+      {
+        "page": 43,
+        "block": 18,
+        "text": "Article 9",
+        "readingOrder": 1608
+      },
+      {
+        "page": 43,
+        "block": 19,
+        "text": "Article 10",
+        "readingOrder": 1610
+      },
+      {
+        "page": 43,
+        "block": 20,
+        "text": "Article 8",
+        "readingOrder": 1611
+      },
+      {
+        "page": 43,
+        "block": 20,
+        "text": "Article 11",
+        "readingOrder": 1612
+      },
+      {
+        "page": 43,
+        "block": 21,
+        "text": "Article 9",
+        "readingOrder": 1613
+      },
+      {
+        "page": 43,
+        "block": 21,
+        "text": "Article 12",
+        "readingOrder": 1614
+      },
+      {
+        "page": 43,
+        "block": 22,
+        "text": "Article 10",
+        "readingOrder": 1615
+      },
+      {
+        "page": 43,
+        "block": 24,
+        "text": "Article 11",
+        "readingOrder": 1619
+      },
+      {
+        "page": 43,
+        "block": 24,
+        "text": "Article 14",
+        "readingOrder": 1620
+      },
+      {
+        "page": 43,
+        "block": 27,
+        "text": "Article 15",
+        "readingOrder": 1626
+      },
+      {
+        "page": 43,
+        "block": 28,
+        "text": "Article 16",
+        "readingOrder": 1628
+      },
+      {
+        "page": 43,
+        "block": 29,
+        "text": "Article 13",
+        "readingOrder": 1629
+      },
+      {
+        "page": 43,
+        "block": 31,
+        "text": "Article 18",
+        "readingOrder": 1634
+      },
+      {
+        "page": 43,
+        "block": 32,
+        "text": "Article 14",
+        "readingOrder": 1635
+      },
+      {
+        "page": 43,
+        "block": 32,
+        "text": "Article 19",
+        "readingOrder": 1636
+      }
+    ],
+    "rawAnnexCandidates": [
+      {
+        "page": 11,
+        "block": 0,
+        "text": "ANNEX I",
+        "readingOrder": 397
+      },
+      {
+        "page": 21,
+        "block": 0,
+        "text": "ANNEX II",
+        "readingOrder": 717
+      },
+      {
+        "page": 30,
+        "block": 0,
+        "text": "ANNEX III",
+        "readingOrder": 1104
+      },
+      {
+        "page": 34,
+        "block": 0,
+        "text": "ANNEX IV",
+        "readingOrder": 1211
+      },
+      {
+        "page": 38,
+        "block": 0,
+        "text": "ANNEX V",
+        "readingOrder": 1321
+      },
+      {
+        "page": 39,
+        "block": 0,
+        "text": "ANNEX VI",
+        "readingOrder": 1344
+      },
+      {
+        "page": 40,
+        "block": 0,
+        "text": "ANNEX VII",
+        "readingOrder": 1363
+      },
+      {
+        "page": 41,
+        "block": 0,
+        "text": "ANNEX VIII",
+        "readingOrder": 1418
+      },
+      {
+        "page": 43,
+        "block": 33,
+        "text": "Annex I",
+        "readingOrder": 1637
+      },
+      {
+        "page": 43,
+        "block": 34,
+        "text": "Annex I",
+        "readingOrder": 1640
+      },
+      {
+        "page": 43,
+        "block": 35,
+        "text": "Annex II",
+        "readingOrder": 1641
+      },
+      {
+        "page": 43,
+        "block": 35,
+        "text": "Annex II",
+        "readingOrder": 1642
+      },
+      {
+        "page": 43,
+        "block": 36,
+        "text": "Annex III",
+        "readingOrder": 1643
+      },
+      {
+        "page": 43,
+        "block": 36,
+        "text": "Annex III",
+        "readingOrder": 1644
+      },
+      {
+        "page": 43,
+        "block": 37,
+        "text": "Annex IV",
+        "readingOrder": 1646
+      },
+      {
+        "page": 43,
+        "block": 38,
+        "text": "Annex V",
+        "readingOrder": 1648
+      },
+      {
+        "page": 43,
+        "block": 39,
+        "text": "Annex VI",
+        "readingOrder": 1650
+      }
+    ],
+    "rawChapterCandidates": [],
+    "rawSectionCandidates": [],
+    "referencesExcludedFromHeadingValidation": "NOT_EVALUABLE",
+    "genuineArticleOrderEvidence": {
+      "status": "FAIL",
+      "sequenceBeforeAnnexes": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 13, 14, 15, 12, 16, 18, 19, 17],
+      "issues": ["Article 11 followed by 13", "Article 15 followed by 12", "Article 16 followed by 18", "Article 19 followed by 17"],
+      "cause": "The unchanged builder applies two-column ordering only while page_number < 6; later two-column pages are globally sorted by y then x."
+    }
+  },
+  "textIntegrity": {
+    "status": "NOT_RUN",
+    "pdfToTypedModel": "FAIL_NO_MODEL",
+    "typedModelToDocx": "NOT_RUN",
+    "missingAddedDuplicatedChangedReordered": "NOT_MEASURABLE"
+  },
+  "experimentalDocx": {
+    "status": "NOT_GENERATED",
+    "path": "artifacts\\pdf-phase3\\32006L0126-experimental.docx",
+    "reason": "Generating DOCX without a typed model would require changing or bypassing the unchanged algorithm."
+  },
+  "regression32006L0114": {
+    "status": "PASS",
+    "command": "workers/pdf-to-docx/.venv/Scripts/python.exe -m pytest workers/pdf-to-docx/tests/test_typed_model_phase1.py -q --basetemp=.tmp/pytest-phase3-regression -p no:cacheprovider",
+    "testsPassed": 3,
+    "testsFailed": 0
+  },
+  "failure": {
+    "exceptionType": "StopIteration",
+    "file": "workers/pdf-to-docx/spikes/typed_model_phase1.py",
+    "line": 322,
+    "operation": "next(item for item in fragments if _clean(item.text).upper() == \"PART A\")",
+    "page": 6,
+    "expectedAnchors": [
+      "PART A",
+      "PART B"
+    ],
+    "anchorsPresent": {
+      "PART A": false,
+      "PART B": false
+    }
+  },
+  "productionChanged": false,
+  "algorithmChanged": false
+}

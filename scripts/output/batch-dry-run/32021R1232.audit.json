@@ -1,0 +1,3540 @@
+{
+  "celex": "32021R1232",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R1232\\TMX_MK1\\32021R1232_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R1232\\MK2\\32021R1232_MK2.docx",
+  "tmx_sha256": "ab698cd329e746e6bb17505d0fb00782ef37c2ef236c2de777bf0c9efcf91549",
+  "mk2_sha256": "0e85bb086c23940f49d454d046158cc03f1734b94b5852302e1697ddbe1242db",
+  "original_tus": 205,
+  "accepted_tus": 6,
+  "skipped_tus": 199,
+  "acceptance_percent": 2.93,
+  "mk1_coverage": 4.23,
+  "mk2_coverage": 5.5,
+  "accepted_clean_en_chars": 581,
+  "accepted_clean_mk2_chars": 614,
+  "results": [
+    {
+      "index": 1,
+      "en": "REGULATION (EU) 2021/1232 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+      "mk1": "РЕГУЛАТИВА (ЕУ) бр.2021/1232 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+      "mk2": "РЕГУЛАТИВА (ЕУ) бр. 2021/1232 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        66
+      ],
+      "evidence": {
+        "token_count": 10,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 14 July 2021",
+      "mk1": "од 14 јули 2021 година",
+      "mk2": "од 14 јули 2021 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        67,
+        89
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "on a temporary derogation from certain provisions of Directive 2002/58/EC as regards the use of technologies by providers of number-independent interpersonal communications services for the processing of personal and other data for the purpose of combating online child sexual abuse",
+      "mk1": "за привремена дерогација од одредени одредби од Директивата 2002/58/ЕЗ за употребата на технологии од даватели на услуги за интерперсонална комуникација независни од број за обработка на лични и други податоци за целите на борба против сексуална злоупотреба на деца преку интернет",
+      "mk2": "за привремено дерогацијаотстапување од одредени одредби од Директивата 2002/58/ЕЗ за во однос наупотребата на технологиите кои од давателите на услуги за интерперсонална комуникација, независни од број ги користат за обработка на лични и други податоци за целите на борбата против сексуална злоупотреба на деца преку интернет",
+      "score": 0.9238410596026491,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        2,
+        3
+      ],
+      "mk2_char_span": [
+        90,
+        415
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          3
+        ],
+        "atom_window": [
+          2,
+          3
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 4,
+      "en": "Having regard to the Treaty on the Functioning of the European Union, and in particular Article 16(2), in conjunction with Article 114(1) thereof,",
+      "mk1": "Имајќи го предвид Договорот за функционирање на Европската унија, а особено членовите 16(2) во врска со член 114(1) од него,",
+      "mk2": "(тТекст со важност за ЕЕО) ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, иИмајќи го предвид Договорот за функционирање на Европската Унија, а особено членовите 16(2) во врска со член 114(1) од него,",
+      "score": 0.7570977917981072,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        3,
+        6
+      ],
+      "mk2_char_span": [
+        416,
+        620
+      ],
+      "evidence": {
+        "token_count": 34,
+        "references_preserved": true,
+        "neighbor_window": [
+          4,
+          4
+        ],
+        "atom_window": [
+          3,
+          6
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the proposal from the European Commission,",
+      "mk1": "Имајќи го предвид предлогот од Европската комисија,",
+      "mk2": "иИмајќи го предвид предлогот од Европската комисија,",
+      "score": 0.9900990099009901,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        621,
+        673
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          6
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "After transmission of the draft legislative act to the national parliaments,",
+      "mk1": "По доставување на нацрт-законодавниот акт до националните парламенти,",
+      "mk2": "пПо доставување на нацрт-законодавниот акт до националните парламенти,",
+      "score": 0.9927007299270073,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        673,
+        744
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          6
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "Having regard to the opinion of the European Economic and Social Committee (),",
+      "mk1": "Имајќи го предвид мислењето на Европскиот економско-социјален комитет (),",
+      "mk2": "иИмајќи го предвид мислењето на Европскиот економско-социјален комитет (), HYPE",
+      "score": 0.9583333333333334,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        745,
+        824
+      ],
+      "evidence": {
+        "token_count": 29,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          9
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 8,
+      "en": "OJ C 10, 11.1.2021, p. 63.",
+      "mk1": "Сл. весник C 10, 11.1.2021 година, стр. 63.",
+      "mk2": "RLINK \"https://eur-lex.europa.eu/legal-content",
+      "score": 0.07407407407407407,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        824,
+        870
+      ],
+      "evidence": {
+        "token_count": 29,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          9
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 9,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:C:2021:010:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:C:2021:010:TOC",
+      "mk2": "/EN/AUTO/?uri=OJ:C:2021:010:TOC\" Сл. весник C 10, 11.1.2021 година, стр. 63.",
+      "score": 0.42962962962962964,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        870,
+        946
+      ],
+      "evidence": {
+        "token_count": 29,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          9
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 10,
+      "en": "Position of the European Parliament of 6 July 2021 (not yet published in the Official Journal) and decision of the Council of 12 July 2021.",
+      "mk1": "Ставот на Европскиот парламент од 6 јули 2018 година (сѐ уште не е објавен во Службениот весник) и одлуката на Советот од 12 јули 2021 година.",
+      "mk2": "пПостапувајќи во согласност со вообичаената законодавна постапка (), Ставот на Европскиот парламент од 6 јули 2018 година (сѐ уште не е објавен во Службениот весник) и одлуката на Советот од 12 јули 2021",
+      "score": 0.7857142857142857,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        11
+      ],
+      "mk2_char_span": [
+        947,
+        1151
+      ],
+      "evidence": {
+        "token_count": 38,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          11
+        ],
+        "atom_window": [
+          9,
+          11
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 11,
+      "en": "Whereas:",
+      "mk1": "Со оглед на тоа што:",
+      "mk2": "година. сСо оглед на тоа што:",
+      "score": 0.8260869565217391,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        11
+      ],
+      "mk2_char_span": [
+        1151,
+        1180
+      ],
+      "evidence": {
+        "token_count": 38,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          11
+        ],
+        "atom_window": [
+          9,
+          11
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 12,
+      "en": "Directive 2002/58/EC of the European Parliament and of the Council () lays down rules ensuring the right to privacy and confidentiality with respect to the processing of personal data in exchanges of data in the electronic communication sector.",
+      "mk1": "Директивата 2002/58/EЗ на Европскиот парламент и на Советот () ги утврдува правилата со кои се обезбедува правото на приватност и доверливост во однос на обработката на личните податоци при размена на податоци во секторот за електронски комуникации.",
+      "mk2": "(1)Директивата 2002/58/EЗ на Европскиот парламент и на Советот () ги утврдува правилата со кои се осигуруваобезбедува правото на приватност и доверливост во однос на обработката на личните податоци при размена на податоци во секторот за електронски комуникации. Таа дДиректива ја прецизира и ја надополнува Регулативата (ЕУ) бр. 2016/679 на Европскиот парламент и на Советот (). Директива 2002/58/EЗ на Европскиот парламент и на Советот од 12 јули 2002 год",
+      "score": 0.7111756168359942,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        1181,
+        1637
+      ],
+      "evidence": {
+        "token_count": 175,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          14
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 13,
+      "en": "That Directive particularises and complements Regulation (EU) 2016/679 of the European Parliament and of the Council ().",
+      "mk1": "Таа Директива ја прецизира и надополнува Регулативата (ЕУ) бр. 2016/679 на Европскиот парламент и на Советот ().",
+      "mk2": "ина за обработка на личните податоци и заштита на приватноста во секторот за електронски комуникации (Директивата за приватност и електронски комуникации) ( HYPERLINK \"https://eur-lex.europa.eu/legal-conte",
+      "score": 0.21122112211221122,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        1637,
+        1842
+      ],
+      "evidence": {
+        "token_count": 175,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          14
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 14,
+      "en": "Directive 2002/58/EC of the European Parliament and of the Council of 12 July 2002 concerning the processing of personal data and the protection of privacy in the electronic communications sector (Directive on privacy and electronic communications) (OJ L 201, 31.7.2002, p. 37).",
+      "mk1": "Директива 2002/58/EЗ на Европскиот парламент и на Советот од 12 јули 2002 година за обработка на личните податоци и заштита на приватноста во секторот за електронски комуникации (Директивата за приватност и електронски комуникации) (Сл. весник L 201, 31.7.2002, стр. 37).",
+      "mk2": "nt/EN/AUTO/?uri=OJ:L:2002:201:TOC\" Сл. весник L 201, 31.7.2002 година, стр. 37). Регулатива (ЕЗ) бр. 2016/679 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физички лица во врска со обработка на личните податоци и за слободното движење на таквите податоци и за укинување на Директивата 95/46/ЕЗ (Општа регулатива за заштита на податоците) ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:119:TOC\" Сл. весник L 119, 12.1.2001 година, стр. 1).",
+      "score": 0.4644808743169399,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        1842,
+        2338
+      ],
+      "evidence": {
+        "token_count": 175,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          14
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 15,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2002:201:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2002:201:TOC",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 16,
+      "en": "Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).",
+      "mk1": "Регулатива (ЕЗ) бр. 2016/679 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физички лица во врска со обработка на личните податоци и за слободното движење на таквите податоци и за укинување на Директивата 95/46/ЕЗ (Општа регулатива за заштита на податоците) (Сл. весник L 119, 12.1.2001 година, стр.1).",
+      "mk2": "",
+      "score": 0.13340174448435094,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 17,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:119:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:119:TOC",
+      "mk2": "",
+      "score": 0.3008225616921269,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 18,
+      "en": "Directive 2002/58/EC applies to the processing of personal data in connection with the provision of publicly available electronic communication services.",
+      "mk1": "Директивата 2002/58/ЕЗ се однесува на обработката на лични податоци поврзана со јавно достапни услуги за електронски комуникации.",
+      "mk2": "",
+      "score": 0.3263888888888889,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 19,
+      "en": "Until 21 December 2020, the definition of ‘electronic communication service’ set out in Article 2, point (c), of Directive 2002/21/EC of the European Parliament and of the Council () applied.",
+      "mk1": "До 21декември 2020 година се применуваше дефиницијата за „услуги за електронски комуникации“ наведена во член 2, точка (в) од Директивата 2002/21/EЗ на Европски парламент и на Советот ().",
+      "mk2": "",
+      "score": 0.12914798206278028,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 20,
+      "en": "On that date, Directive (EU) 2018/1972 of the European Parliament and of the Council () repealed Directive 2002/21/EC.",
+      "mk1": "На тој датум, Директивата (ЕУ) 2018/1972 на Европскиот парламент и на Советот () ја укина Директивата 2002/21/ЕЗ.",
+      "mk2": "",
+      "score": 0.2562396006655574,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 21,
+      "en": "The definition of ‘electronic communications service’ in Article 2, point (4), of Directive (EU) 2018/1972 includes number-independent interpersonal communications services as defined in Article 2, point (7), of that Directive.",
+      "mk1": "Дефиницијата за услуги за електронски комуникации во член 2, точка (4) од Директивата (ЕУ) 2018/1972 ги опфаќа услугите за интерперсонална комуникација независни од број, како што се дефинирани во член 2, точка (7) од таа директива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 22,
+      "en": "Number-independent interpersonal communications services, which include, for example, Voice over internet Protocol, messaging and web-based email services, were therefore brought within the scope of Directive 2002/58/EC on 21 December 2020.",
+      "mk1": "Затоа, услугите за интерперсонална комуникација, коишто опфаќаат, на пример, Глас преку Интернет-протокол, пораки и веб услуги за е-пошта беа вклучени во доменот на Директивата 2002/58/ЕЗ на 21 декември 2020 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 23,
+      "en": "Directive 2002/21/EC of the European Parliament and of the Council of 7 March 2002 on a common regulatory framework for electronic communications networks and services (Framework Directive) (OJ L 108, 24.4.2002, p. 33).",
+      "mk1": "Директива 2002/21/ЕЗ на Европскиот парламент и на Советот од 7 март 2002 година за заедничка регулаторна рамка за мрежи за електронски комуникации и услуги (Рамковна директива) (Сл. весник L 108, 24.4.2002 г., стр. 33).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 24,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2002:108:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2002:108:TOC",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 25,
+      "en": "Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communications Code (OJ L 321, 17.12.2018, p. 36).",
+      "mk1": "Директива (ЕУ) 2018/1972 на на Европскиот парламент и на Советот од 11 декември 2018 година за воспоставување Европскиот законик за електронски комуникации (Сл. весник L 321, 17.12.2018 г., стр. 36).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 26,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:321:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:321:TOC",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 27,
+      "en": "In accordance with Article 6(1) of the Treaty on European Union (TEU), the Union recognises the rights, freedoms and principles set out in the Charter of Fundamental Rights of the European Union (the ‘Charter’).",
+      "mk1": "Во согласност со член 6(1) од Договорот за Европската Унија (ДЕУ), Европската Унија ги признава правата, слободите и принципите утврдени во Повелбата за фундаменталните права на Европската Унија („Повелба“).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 28,
+      "en": "Article 7 of the Charter protects the fundamental right of everyone to the respect for his or her private and family life, home and communications, which includes the confidentiality of communications.",
+      "mk1": "Член 7 од Повелбата ги штити фундаменталните права на секого во однос на неговиот или нејзиниот приватен и семеен живот, дом и комуникации, во коишто спаѓа и доверливоста на комуникациите.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 29,
+      "en": "Article 8 of the Charter contains the right to the protection of personal data.",
+      "mk1": "Член 8 од Повелбата го содржи правото на заштита на личните податоци.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 30,
+      "en": "Article 3(1) of the 1989 United Nations Convention on the Rights of the Child (UNCRC) and Article 24(2) of the Charter provide that, in all actions relating to children, whether taken by public authorities or private institutions, the child’s best interests must be a primary consideration.",
+      "mk1": "Член 3(1) од Конвенцијата на Обединетите нации за правата на детето (УНЦРЦ) и член 24(2) од Повелбата предвидуваат дека во сите активности кои се однесуваат на децата, без оглед дали ги спроведуваат јавни органи или приватни институции, од примарно значење мора да бидат интересите на децата.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 31,
+      "en": "Article 3(2) UNCRC and Article 24(1) of the Charter furthermore evoke the right of children to such protection and care as is necessary for their well-being.",
+      "mk1": "Понатаму, член 3(2) од УНЦРЦ и член 24(1) од Повелбата се повикуваат на правото на децата за таква заштита и грижа што е неопходна за нивната добросостојба.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 32,
+      "en": "The protection of children, both offline and online, is one of the Union’s priorities.",
+      "mk1": "Заштитата на децата, офлајн и онлајн, е еден од приоритетите на Европската Унија.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 33,
+      "en": "Sexual abuse and sexual exploitation of children constitute serious violations of human and fundamental rights, in particular of the rights of children to be protected from all forms of violence, abuse and neglect, maltreatment or exploitation, including sexual abuse, as provided for by the UNCRC and by the Charter.",
+      "mk1": "Сексуалната злоупотреба и сексуалната експлоатација претставуваат сериозни прекршувања на човековите и фундаменталните права, особено на правата на децата за заштита од сите форми на насилство, злоупотреба и запоставување, малтретирање или експлоатација, вклучително и од сексуална злоупотреба, како што е предвидено со УНЦРЦ и Повелбата.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 34,
+      "en": "Digitalisation has brought about many benefits for society and the economy, but it has also brought about challenges, including an increase of online child sexual abuse.",
+      "mk1": "Дигитализацијата донесе бројни придобивки за општеството и економијата, но исто така донесе и предизвици, вклучително и зголемување на сексуалната злоупотреба на деца преку интернет.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 35,
+      "en": "On 24 July 2020, the Commission adopted a communication entitled ‘EU strategy for a more effective fight against child sexual abuse’ (the ‘Strategy’).",
+      "mk1": "На 24 јули 2020 година, Комисијата донесе Информација за известување со наслов „Стратегија на ЕУ за поделотворна борба против сексуалната злоупотреба на децата“ („Стратегија“).",
+      "mk2": "",
+      "score": 0.13110539845758354,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 36,
+      "en": "The Strategy aims to provide an effective response, at Union level, to the crime of child sexual abuse.",
+      "mk1": "Стратегијата има за цел да обезбеди делотворна реакција на кривичното дело сексуална злоупотреба на деца, на ниво на Европската Унија.",
+      "mk2": "",
+      "score": 0.2017677537336178,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 37,
+      "en": "In line with Directive 2011/93/EU of the European Parliament and of the Council (), this Regulation does not govern Member States’ policies with regard to consensual sexual activities in which children may be involved and which can be regarded as the normal discovery of sexuality in the course of human development, taking account of the different cultural and legal traditions and of new forms of establishing and maintaining relations among children and adolescents, including through information and communication technologies.",
+      "mk1": "Во согласност со Директивата 2011/93/ЕУ на Европскиот парламент и на Советот (), оваа регулатива не ги уредува политиките на земјите членки во врска со консензуални сексуални дејства во коишто може да бидат инволвирани деца и коишто може да се сметаат како нормално откривање на сексуалноста во текот на човековиот развој, имајќи ги предвид различните културни и правни традиции и новите форми на воспоставување и одржување односи меѓу деца и адолесценти, вклучително и преку информатички и комуникациски технологии.",
+      "mk2": "",
+      "score": 0.1994261119081779,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 38,
+      "en": "Directive 2011/93/EU of the European Parliament and of the Council of 13 December 2011 on combating the sexual abuse and sexual exploitation of children and child pornography, and replacing Council Framework Decision 2004/68/JHA (OJ L 335, 17.12.2011, p. 1).",
+      "mk1": "Директива 2011/93/ЕУ на Европскиот парламент и на Советот од 13 декември 2011 година за борба против сексуална злоупотреба и сексуална експлоатација на деца и детска порнографија и заменување на Рамковната одлука на Советот 2004/68/ЈХА (Сл. весник L 335, 17.12.2011 г., стр. 1).",
+      "mk2": "",
+      "score": 0.27383863080684595,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 39,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2011:335:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2011:335:TOC",
+      "mk2": "",
+      "score": 0.3256043413912186,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 40,
+      "en": "Some providers of certain number-independent interpersonal communications services (‘providers’), such as webmail and messaging services, already use specific technologies on a voluntary basis to detect online child sexual abuse on their services and report it to law enforcement authorities and to organisations acting in the public interest against child sexual abuse, by scanning either the content, such as images and text, or the traffic data of communications using, in some instances, historical data.",
+      "mk1": "Некои даватели на одредени услуги за интерперсонални комуникации независни од број („даватели на услуги), како што се услуги за веб е-пошта и пораки, веќе користат посебни технологии на доброволна основа за откривање сексуална злоупотреба на деца преку интернет на нивните услуги и ја пријавуваат до органите за спроведување на законот и до организациите коишто делуваат во јавен интерес против сексуалната злоупотреба на деца, преку скенирање на содржината, на пример, слики или текст, или податочен сообраќај на комуникациите, користејќи во некои случаи историски податоци.",
+      "mk2": "",
+      "score": 0.38783269961977185,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 41,
+      "en": "The technology used for those activities could be hashing technology for images and videos and classifiers and artificial intelligence for analysing text or traffic data.",
+      "mk1": "Технологијата што се користи за тие активности може да биде хашинг технологија за слики и видеа, и класификатори и вештачка интелигенција за анализа на текст или податочен сообраќај",
+      "mk2": "",
+      "score": 0.20109119251753702,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 42,
+      "en": "When using hashing technology, online child sexual abuse material is reported when a positive hit is returned, which means a match resulting from a comparison between an image or a video and a unique, non-reconvertible digital signature (‘hash’) from a database maintained by an organisation acting in the public interest against child sexual abuse that contains verified online child sexual abuse material.",
+      "mk1": "При користење хашинг технологија, материјалот за злоупотреба на деца преку интернет се пријавува кога ќе се добие позитивен повратен одговор, односно кога има совпаѓање што произлегува од споредба на слика или видео и уникатен, не-реконвертибиелн дигитален потпис („хаш“) од базата на податоци што ја води организација што дејствува во јавен интерес проти сексуална злоупотреба на деца, којашто содржи верификуван материјал за сексуална злоупотреба на деца преку интернет.",
+      "mk2": "",
+      "score": 0.24870466321243523,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "Those providers refer to national hotlines for reporting online child sexual abuse material and to organisations, located both within the Union and in third countries, whose purpose is to identify children, reduce child sexual exploitation and sexual abuse and prevent child victimisation.",
+      "mk1": "Тие даватели на услуги се обраќаат до националните отворени линии за пријавување материјал за сексуална злоупотреба на деца преку интернет и до организации што се наоѓаат во рамките на Европската Унија и во трети земји, чија што цел е да ги идентификуваат децата, да ја намалат сексуалната експлоатација на децата и сексуалната злоупотреба и да спречат виктимизација на децата.",
+      "mk2": "",
+      "score": 0.37485970819304154,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "Such organisations might not fall within the scope of Regulation (EU) 2016/679.",
+      "mk1": "Ваквите организации може да не спаѓаат во доменот на Регулативата (ЕУ) 2016/679.",
+      "mk2": "",
+      "score": 0.32670454545454547,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "Collectively, such voluntary activities play a valuable role in enabling the identification and rescue of victims, whose fundamental rights to human dignity and to physical and mental integrity are severely violated.",
+      "mk1": "Колективно, ваквите доброволни активности имаат значајна улога во овозможување идентификација и спасување на жртвите, чии што фундаментални права на човечко достоинство и физички и ментален интегритет се сериозно прекршени.",
+      "mk2": "",
+      "score": 0.3545816733067729,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 46,
+      "en": "Such voluntary activities are also important in reducing the further dissemination of online child sexual abuse material and in contributing to the identification and investigation of offenders and to the prevention, detection, investigation and prosecution of child sexual abuse offences.",
+      "mk1": "Ваквите доброволни активности се исто така важни за намалување на понатамошното ширење материјали за сексуална злоупотреба на деца преку интернет и за идентификација и истрага на прекршителите, како и за превенција, откривање, истражување и гонење прекршоци поврзани со сексуална злоупотреба на деца.",
+      "mk2": "",
+      "score": 0.24276457883369332,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 47,
+      "en": "Notwithstanding their legitimate objective, voluntary activities by providers to detect online child sexual abuse on their services and report it constitute an interference with the fundamental rights to respect for private and family life and to the protection of personal data of all users of number-independent interpersonal communications services (‘users’).",
+      "mk1": "Без оглед на нивната легитимна цел, доброволните активности на давателите на услуги за откривање сексуална злоупотреба на деца преку интернет при обезбедување на нивните услуги и нејзиното пријавување претставува нарушување на фундаменталните права на почитување на приватниот и семејниот живот и на заштита на личните податоци на сите корисници на услуги за интерперсонални комуникации што не зависат од број („корисници“).",
+      "mk2": "",
+      "score": 0.2875,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 48,
+      "en": "Any limitation to the exercise of the fundamental right to respect for private and family life, including the confidentiality of communications, cannot be justified merely on the grounds that providers were using certain technologies at a time when number-independent interpersonal communications services did not fall within the definition of ‘electronic communications services’.",
+      "mk1": "Секое ограничување на реализирањето на фундаменталните права за почитување на приватниот и семејниот живот, вклучително и доверливоста на комуникациите, не може да се оправда само со фактот дека давателите на услуги користеле одредени технологии во време кога услугите за интерперсонални комуникации што не зависат од број не биле опфатени со дефиницијата „услуги за електронски комуникации“.",
+      "mk2": "",
+      "score": 0.3136593591905565,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 49,
+      "en": "Such limitations are only possible under certain conditions.",
+      "mk1": "Ваквите ограничувања се можни само под одредени услови.",
+      "mk2": "",
+      "score": 0.26907073509015256,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 50,
+      "en": "Pursuant to Article 52(1) of the Charter, such limitations are to be provided for by law and are to respect the essence of the rights to private and family life and to the protection of personal data and, subject to the principle of proportionality, they are to be necessary and genuinely meet objectives of general interest recognised by the Union or the need to protect the rights and freedoms of others.",
+      "mk1": "Во согласност со член 52(1) од Повелбата, ваквите ограничувања треба да бидат предвидени со закон и треба да ја почитуваат суштината на правата на приватен и семеен живот и на заштита на личните податоци, и според принципот на пропорционалност, тие треба да бидат неопходни и вистински да ги исполнуваат целите на општиот интерес признаен од Европската Унија или потребата за заштита на правата и слободите на другите.",
+      "mk2": "",
+      "score": 0.2545454545454545,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 51,
+      "en": "Where such limitations permanently involve a general and indiscriminate monitoring and analysis of the communications of all users, they interfere with the right to confidentiality of communications.",
+      "mk1": "Во случај кога ваквите ограничувања континуирано вклучуваат општо и неселективно следење и анализа на комуникациите на сите корисници, тие го нарушуваат правото на доверливост на комуникациите.",
+      "mk2": "",
+      "score": 0.4132680804785209,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 52,
+      "en": "Until 20 December 2020, the processing of personal data by providers by means of voluntary measures for the purpose of detecting online child sexual abuse on their services and reporting it and removing online child sexual abuse material from their services was governed solely by Regulation (EU) 2016/679.",
+      "mk1": "До 20 декември 2020 година, обработката на личните податоци од даватели на услуги преку доброволни мерки за целите на откривање сексуална злоупотреба на деца преку интернет при обезбедување на нивните услуги и нејзино пријавување и отстранување на материјал за сексуална злоупотреба на деца преку интернет од нивните услуги, единствено било регулирано со Регулативата (ЕУ) 2016/679.",
+      "mk2": "",
+      "score": 0.26956521739130435,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 53,
+      "en": "Directive (EU) 2018/1972, which was to be transposed by 20 December 2020, brought providers within the scope of Directive 2002/58/EC.",
+      "mk1": "Директивата (ЕУ) 2018/1972, која требаше да се транспонира до 20 декември 2020 година, ги вклучи давателите на услуги во доменот на Директивата 2001/58/ЕЗ.",
+      "mk2": "",
+      "score": 0.2847058823529412,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 54,
+      "en": "In order to continue using such voluntary measures after 20 December 2020, providers should comply with the conditions set out in this Regulation.",
+      "mk1": "За да продолжат да ги користат ваквите доброволни мерки по 20 декември 2020 година, давателите на услуги треба да се усогласат со условите предвидени во оваа регулатива.",
+      "mk2": "",
+      "score": 0.27041499330655955,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 55,
+      "en": "Regulation (EU) 2016/679 will continue to apply to the processing of personal data carried out by means of such voluntary measures.",
+      "mk1": "Регулативата (ЕУ) 2016/679 ќе продолжи да се применува во однос на обработката на личните податоци што се спроведува со помош на ваквите доброволни мерки.",
+      "mk2": "",
+      "score": 0.278419452887538,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 56,
+      "en": "Directive 2002/58/EC does not contain any specific provisions concerning the processing of personal data by providers in connection with the provision of electronic communication services for the purpose of detecting online child sexual abuse on their services and reporting it and removing online child sexual abuse material from their services.",
+      "mk1": "Директивата 2002/58/ЕЗ не содржи конкретни одредби за обработка на лични податоци од даватели на услуги во врска со обезбедувањето услуги за електронски комуникации за целите на откривање сексуална злоупотреба на деца преку интернет при обезбедување на нивните услуги и нејзино пријавување и отстранување материјали за сексуална злоупотреба на деца преку интернет од нивните услуги.",
+      "mk2": "",
+      "score": 0.2713821725009022,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 57,
+      "en": "However, pursuant to Article 15(1) of Directive 2002/58/EC, Member States can adopt legislative measures to restrict the scope of the rights and obligations provided for in, inter alia, Articles 5 and 6 of that Directive, which concern the confidentiality of communications and traffic data, for the purposes of the prevention, detection, investigation and prosecution of criminal offences linked to child sexual abuse.",
+      "mk1": "Меѓутоа, согласно со член15(1) од Директивата 2002/58/ЕЗ, земјите членки можат да усвојат законски мерки за да го ограничат доменот на права и обврски, предвидени, меѓу другото, во членовите 5 и 6 од таа директива, кои се однесуваат на доверливоста на комуникациите и податочниот сообраќај, со цел превенција, откривање, истрага и гонење на кривични дела поврзани со сексуална злоупотреба на деца.",
+      "mk2": "",
+      "score": 0.2860548271752086,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 58,
+      "en": "In the absence of such national legislative measures and pending the adoption of a longer-term legal framework to tackle child sexual abuse at Union level, providers can no longer rely on Regulation (EU) 2016/679 to continue to use voluntary measures to detect online child sexual abuse on their services and report it and to remove online child sexual abuse material from their services beyond 21 December 2020.",
+      "mk1": "Во отсуство на вакви национални законски мерки и во очекување на донесување на подолгорочна законска рамка за решавање на сексуалната злоупотреба на деца на ниво на Европската Унија, давателите на услуги не можат повеќе да се потпираат на Регулативата (ЕУ) 2016/679 за да продолжат со користењето доброволни мерки за откривање сексуална злоупотреба на деца преку интернет при обезбедување на нивните услуги и нејзино пријавување и отстранување материјали за сексуална злоупотреба на деца преку интернет од нивните услуги по 21 декември 2020 година.",
+      "mk2": "",
+      "score": 0.2952414032650226,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 59,
+      "en": "This Regulation does not provide for a legal ground for the processing of personal data by providers for the sole purpose of detecting online child sexual abuse on their services and reporting it and removing online child sexual abuse material from their services, but it provides for a derogation from certain provisions of Directive 2002/58/EC.",
+      "mk1": "Оваа регулатива не обезбедува законска основа за обработка на личните податоци од даватели на услуги само со единствена цел за откривање сексуална злоупотреба на деца преку интернет при обезбедување на нивните услуги и нејзино пријавување и отстранување материјали за сексуална злоупотреба на деца преку интернет од нивните услуги, туку обезбедува дерогација од одредени одредби од Директивата 2002/58/ЕЗ.",
+      "mk2": "",
+      "score": 0.32129817444219066,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 60,
+      "en": "This Regulation lays down additional safeguards which are to be respected by providers if they wish to rely on it.",
+      "mk1": "Оваа регулатива воспоставува дополнителни заштитни мерки коишто давателите на услуги треба да ги почитуваат ако сакаат да се потпрат на неа.",
+      "mk2": "",
+      "score": 0.3060728744939271,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 61,
+      "en": "Processing of data for the purposes of this Regulation could entail the processing of special categories of personal data as set out in Regulation (EU) 2016/679.",
+      "mk1": "Обработката на податоци за целите на оваа регулатива би можела да вклучи обработка на посебни категории лични податоци, како што се предвидени во Регулативата (ЕУ) 2016/679.",
+      "mk2": "",
+      "score": 0.3240506329113924,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 62,
+      "en": "Processing of images and videos by specific technical means which allow for the unique identification or authentication of a natural person is considered processing of special categories of personal data.",
+      "mk1": "Обработката на слики и видеа со специфични технички средства, коишто овозможуваат единствена идентификација или автентикација на физичко лице се смета за обработка на посебни категории лични податоци.",
+      "mk2": "",
+      "score": 0.4034582132564842,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 63,
+      "en": "This Regulation provides for a temporary derogation from Articles 5(1) and 6(1) of Directive 2002/58/EC, which protect the confidentiality of communications and traffic data.",
+      "mk1": "Оваа регулатива обезбедува привремена дерогација од членовите 5(1) и 6(1) од Директивата 2002/58/ЕЗ којашто ја заштитува доверливоста на комуникациите и податочниот сообраќај.",
+      "mk2": "",
+      "score": 0.23353819139596138,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 64,
+      "en": "The voluntary use by providers of technologies for the processing of personal and other data to the extent necessary to detect online child sexual abuse on their services and report it and to remove online child sexual abuse material from their services falls within the scope of the derogation provided for by this Regulation provided that such use complies with the conditions set out in this Regulation and is therefore subject to the safeguards and conditions set out in Regulation (EU) 2016/679.",
+      "mk1": "Доброволната употреба на технологии од страна на давателите на услуги за обработка на лични и други податоци, до степен што е неопходен за откривање сексуална злоупотреба на деца преку интернет при обезбедување на нивните услуги и нејзино пријавување и отстранување материјали за сексуална злоупотреба на деца преку интернет од нивните услуги, спаѓа во доменот на дерогацијата предвидена со оваа регулатива, под услов таквата употреба да биде во согласност со условите наведени во оваа регулатива и затоа подлежи на заштитните мерки и услови наведени во Регулативата (ЕУ) 2016/679.",
+      "mk2": "",
+      "score": 0.23660714285714285,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 65,
+      "en": "Directive 2002/58/EC was adopted on the basis of Article 114 of the Treaty on the Functioning of the European Union (TFEU).",
+      "mk1": "Директивата 2002/58/ЕЗ беше донесена врз основа на член 114 од Договорот за функционирање на Европската Унија (ДФЕУ).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 66,
+      "en": "Moreover, not all Member States have adopted legislative measures in accordance with Directive 2002/58/EC to restrict the scope of the rights and obligations related to the confidentiality of communications and traffic data as set out in that Directive, and the adoption of such measures involves a significant risk of fragmentation likely to negatively affect the internal market.",
+      "mk1": "Покрај тоа, сите земји членки немаат усвоено законски мерки во согласност со Директивата 2002/58/ЕЗ за ограничување на доменот на права и обврски во врска со доверливоста на комуникациите и податочниот сообраќај, како што е утврдено во таа директива, а усвојувањето на такви мерки вклучува значителен ризик од фрагментација којашто веројатно ви имала негативно влијание врз внатрешниот пазар.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 67,
+      "en": "Consequently, this Regulation should be based on Article 114 TFEU.",
+      "mk1": "Следствено на тоа, оваа регулатива би требало да се базира на член 114 од ДФЕУ.",
+      "mk2": "",
+      "score": 0.4909090909090909,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 68,
+      "en": "Given that data related to electronic communications involving natural persons usually qualify as personal data, this Regulation should also be based on Article 16 TFEU, which provides a specific legal basis for the adoption of rules relating to the protection of individuals with regard to the processing of personal data by Union institutions, bodies, offices and agencies, and by the Member States when carrying out activities which fall within the scope of Union law, and rules relating to the free movement of such data.",
+      "mk1": "Имајќи предвид дека податоците поврзани со електронски комуникации коишто вклучуваат физички лица, обично се квалификуваат како лични податоци, оваа регулатива исто така би требало да се базира на член 16 од ДФЕУ, којшто обезбедува посебна законска основа за усвојување правила за заштита на индивидуални лица при обработка на личните податоци од страна на институции на Европската Унија, органи, служби и агенции и од страна на земјите членки при спроведување активности коишто спаѓаат во доменот на правото на Европската Унија и правилата што се однесуваат на слободното движење на таквите податоци.",
+      "mk2": "",
+      "score": 0.44431818181818183,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 69,
+      "en": "Regulation (EU) 2016/679 applies to the processing of personal data in connection with the provision of electronic communications services by providers for the sole purpose of detecting online child sexual abuse on their services and reporting it and removing online child sexual abuse material from their services to the extent that that processing falls within the scope of the derogation provided for by this Regulation.",
+      "mk1": "Регулативата (ЕУ) 2016/679 се однесува на обработката на лични податоци во врска со обезбедувањето услуги за електронски комуникации од страна на даватели на услуги, со единствена цел за откривање сексуална злоупотреба на деца преку интернет при обезбедување на нивните услуги и нејзино пријавување и отстранување материјали за сексуална злоупотреба на деца преку интернет од нивните услуги, до степен до којшто таквата обработка спаѓа во доменот на дерогација предвидена со оваа регулатива.",
+      "mk2": "",
+      "score": 0.5496974935177182,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 70,
+      "en": "The types of technologies used for the purposes of this Regulation should be the least privacy-intrusive in accordance with the state of the art in the industry.",
+      "mk1": "Типовите технологии што се користат за целите на оваа регулатива треба што помалку да ја нарушуваат приватноста, во согласност со најновите достигнувања во индустријата.",
+      "mk2": "",
+      "score": 0.3842364532019704,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 71,
+      "en": "Those technologies should not be used to systematically filter and scan text in communications unless it is solely to detect patterns which point to possible concrete reasons for suspecting online child sexual abuse, and they should not be able to deduce the substance of the content of the communications.",
+      "mk1": "Тие технологии не треба да се користат за систематски да се филтрираат и скенираат текстови во комуникациите, освен единствено за откривање начини на однесување коишто укажуваат на можни конкретни причини за постоење сомнеж за сексуална злоупотреба на деца преку интернет, и не треба да ја намалат суштината на содржината на комуникациите.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 72,
+      "en": "In the case of technology used for identifying solicitation of children, such concrete reasons for suspicion should be based on objectively identified risk factors such as age difference and the likely involvement of a child in the scanned communication.",
+      "mk1": "Во случај на употреба на технологија за идентификација на активности за заведување деца, таквите конкретни причини за постоење сомнеж треба да се базираат на објективно идентификувани фактори на ризик, како што се, разлика во години и веројатна вклученост на дете во скенираната комуникација.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 73,
+      "en": "Appropriate procedures and redress mechanisms should be put in place to ensure that individuals can lodge complaints with providers.",
+      "mk1": "Треба да се воведат соодветни постапки и поправни механизми за да се обезбеди индивидуалните лица да можат да поднесуваат жалби до давателите на услуги.",
+      "mk2": "",
+      "score": 0.21495327102803738,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 74,
+      "en": "Such procedures and mechanisms are, in particular, relevant where content that does not constitute online child sexual abuse has been removed or reported to law enforcement authorities or to an organisation acting in the public interest against child sexual abuse.",
+      "mk1": "Ваквите постапки и механизми се особено релевантни во случаи кога, содржината што не претставува сексуална злоупотреба на деца преку интернет, е отстранета или пријавена до органи за спроведување на законот или до организација којашто дејствува во јавен интерен против сексуална злоупотреба на деца.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 75,
+      "en": "In order to ensure accuracy and reliability as much as possible, technology used for the purposes of this Regulation should, in accordance with the state of the art in the industry, limit the numbers and ratios of errors (false positives) to the maximum extent possible and should, where necessary, rectify without delay any such errors that might nonetheless occur.",
+      "mk1": "За да се обезбеди колку што е можно поголема точност и веродостојност, технологијата што се користи за целите на оваа регулатива би требало, согласно со најновите достигнувања во индустријата, да ги ограничи бројките и коефициентот на грешки (лажно позитивни) до максимален можен степен и би требало, ако е неопходно, да ги поправи таквите грешки без одложување, што во секој случај може да се појават.",
+      "mk2": "",
+      "score": 0.2330508474576271,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 76,
+      "en": "The content data and traffic data processed and the personal data generated when carrying out the activities covered by this Regulation, and the period during which the data are subsequently stored in the event of the identification of suspected online child sexual abuse, should remain limited to what is strictly necessary to carry out those activities.",
+      "mk1": "Обработката на содржината на податоците и податочниот сообраќај, и личните податоци генерирани при спроведување активности опфатени со оваа регулатива, како и периодот во којшто податоците последователно се складираат во случај на идентификација на сомнеж за сексуална злоупотреба на деца преку интернет, треба да остане ограничена на она што е строго неопходно за спроведување на тие активности.",
+      "mk2": "",
+      "score": 0.24881889763779527,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 77,
+      "en": "Any data should be immediately and permanently deleted as soon as they are no longer strictly necessary for one of the purposes specified in this Regulation, including where no suspected online child sexual abuse is identified, and in any event no later than 12 months from the date of the detection of suspected online child sexual abuse.",
+      "mk1": "Сите податоци треба веднаш и трајно да се избришат штом не се веќе строго неопходни за некоја од целите во оваа регулатива, вклучително и кога не постои идентификуван сомнеж за сексуална злоупотреба на деца преку интернет, а во секој случај, не подоцна од 12 месеци од датумот на откривање на сомнежот за сексуална злоупотреба на деца преку интернет.",
+      "mk2": "",
+      "score": 0.33488372093023255,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 78,
+      "en": "This should be without prejudice to the possibility to store relevant content data and traffic data in accordance with Directive 2002/58/EC.",
+      "mk1": "Ова не треба да биде во спротивност со можноста за складирање релевантна содржина на податоци и податочен сообраќај согласно со Директивата 2002/58/ЕЗ.",
+      "mk2": "",
+      "score": 0.28440366972477066,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 79,
+      "en": "This Regulation does not affect the application of any legal obligation under Union or national law to preserve data that applies to providers.",
+      "mk1": "Оваа регулатива не влијае врз примената на која било законска обврска согласно со правото на Европската Унија или националното право за чување податоци што се однесуваат на давателите на услуги.",
+      "mk2": "",
+      "score": 0.3179190751445087,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 80,
+      "en": "This Regulation does not prevent a provider that has reported online child sexual abuse to law enforcement authorities from requesting those authorities to acknowledge receipt of the report.",
+      "mk1": "Оваа регулатива не го спречува давателот на услуги, којшто пријавил сексуална злоупотреба на деца преку интернет до органите за спроведување на законите, да бара од тие органи потврда за прием на пријавата.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 81,
+      "en": "In order to ensure transparency and accountability in respect of the activities undertaken pursuant to the derogation provided for by this Regulation, providers should, by 3 February 2022, and by 31 January every year thereafter, publish and submit reports to the competent supervisory authority designated pursuant to Regulation (EU) 2016/679 (‘supervisory authority’) and to the Commission.",
+      "mk1": "За да се обезбеди транспарентност и отчетност во поглед на дејствата преземени согласно со дерогацијата предвидена со оваа регулатива, давателите на услуги треба, до 3 февруари 2022 година, и до 31 јануари секоја година потоа, да објавуваат и поднесуваат пријави до надлежниот орган за супервизија назначен согласно со Регулативата (ЕУ) 2016/679 (орган за супервизија) и до Комисијата.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 82,
+      "en": "Such reports should cover processing falling within the scope of this Regulation, including the type and volumes of data processed, the specific grounds relied on for the processing of personal data pursuant to Regulation (EU) 2016/679, the grounds relied on for transfers of personal data outside the Union pursuant to Chapter V of Regulation (EU) 2016/679, where applicable, the number of cases of online child sexual abuse identified, differentiating between online child sexual abuse material and solicitation of children, the number of cases in which a user has lodged a complaint with the internal redress mechanism or sought a judicial remedy and the outcome of such complaints and judicial proceedings, the numbers and ratios of errors (false positives) of the different technologies used, the measures applied to limit the error rate and the error rate achieved, the retention policy and the data protection safeguards applied pursuant to Regulation (EU) 2016/679, and the names of the organisations acting in the public interest against child sexual abuse with which data have been shared pursuant to this Regulation.",
+      "mk1": "Ваквите пријави треба да опфатат обработка што спаѓа во доменот на оваа регулатива, вклучително и тип и обем на обработени податоци, конкретни основи врз коишто се темели обработката на личните податоци согласно со Регулативата (ЕУ) 2016/679, основите врз кои се темелат трансферите на лични податоци надвор од Европската Унија, бројот на идентификувани случаи на сексуална злоупотреба на деца преку интернет, бројот на случаи во коишто корисник поднел жалба според внатрешните механизми за исправки или побарал правен лек и исходот на таквите жалби и судски постапки, бројот и коефициентот на грешки (лажно позитивни) на различните технологии што се користеле, мерките што се примениле за да се ограничи стапката на грешки и постигнатата стапка на грешки, политиката на задржување и заштитните мерки за заштита на податоците што се примениле согласно со Регулативата (ЕУ) 2016/679 и имињата на организациите коишто дејствувале во јавен интерес против сексуална злоупотреба на деца со коишто биле споделени податоци согласно со оваа регулатива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 83,
+      "en": "In order to support the supervisory authorities with their tasks, the Commission should request the European Data Protection Board to issue guidelines on the compliance of processing falling within the scope of the derogation laid down in this Regulation with Regulation (EU) 2016/679.",
+      "mk1": "За да се поддржат органите за супервизија во нивните задачи, Комисијата треба да побара од Европскиот одбор за заштита на податоци да издаде упатство за усогласеност со обработката на податоци што спаѓа во доменот на дерогацијата утврдени во оваа регулатива со Регулативата (ЕУ) 2016/679.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 84,
+      "en": "When the supervisory authorities assess whether an established or new technology to be used is in accordance with the state of the art in the industry, the least privacy-intrusive and operating on an adequate legal basis under Regulation (EU) 2016/679, those guidelines should, in particular, assist the supervisory authorities in providing advice in the framework of the prior consultation procedure set out in that Regulation.",
+      "mk1": "Кога органите за супервизија проценуваат дали треба да се користи воспоставена или нова технологија во согласност со најновиот развој во индустријата, која што најмалку ја нарушува приватноста и функционира според соодветна законска основа на Регулативата (ЕУ) 2016/679, тие упатства треба особено да им помогнат на органите за супервизија при давањето совет во рамките на претходната консултативна постапка предвидена во таа регулатива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 85,
+      "en": "This Regulation restricts the right to protection of the confidentiality of communications and derogates from the decision taken under Directive (EU) 2018/1972 to subject number-independent interpersonal communications services to the same rules that apply to all other electronic communications services as regards privacy for the sole purpose of detecting online child sexual abuse on those services and reporting it to law enforcement authorities or to organisations acting in the public interest against child sexual abuse and removing online child sexual abuse material from those services.",
+      "mk1": "Оваа регулатива го ограничува правото на заштита на доверливоста на комуникациите и дерогира од одлуката донесена според Директивата (ЕУ) 2018/1972, со цел да овозможи услугите за интерперсонални комуникации што не зависат од број да подлежат на правилата што се однесуваат на сите други услуги за електронски комуникации во врска со приватноста, заради единствена цел за откривање сексуална злоупотреба на деца преку интернет при обезбедувањето на тие услуги и нејзино пријавување до органите за спроведување на законот или до организации коишто дејствуваат во јавен интерес против сексуална злоупотреба на деца и отстранување материјали за сексуална злоупотреба на деца преку интернет од тие услуги.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 86,
+      "en": "The period of application of this Regulation should, therefore, be limited to three years from its date of application to allow for the necessary time to adopt a new long-term legal framework.",
+      "mk1": "Затоа, периодот на примена на оваа регулатива треба да се ограничи на три години од датумот на нејзината примена, со цел да се даде неопходно време за усвојување на нова долгорочна законска рамка.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 87,
+      "en": "Where the long-term legal framework is adopted and enters into force before that date, that long-term legal framework should repeal this Regulation.",
+      "mk1": "Во случај на усвојување долгорочна законска рамка и нејзино стапување во сила пред тој датум, таа долгорочна законска рамка ќе ја укине оваа Регулатива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 88,
+      "en": "With regard to all other activities that fall within the scope of Directive 2002/58/EC, providers should be subject to the specific obligations set out in that Directive and, consequently, to the monitoring and investigative powers of the competent authorities designated pursuant to that Directive.",
+      "mk1": "Во однос на сите други активности што спаѓаат во доменот на Директивата 2002/58/ЕЗ, давателите на услуги треба да подлежат на конкретните обврски утврдени во таа директивата, и следствено на тоа, на овластувањата за следење и истрага на надлежните органи назначени согласно со таа директива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 89,
+      "en": "End-to-end encryption is an important tool to guarantee the security and confidentiality of the communications of users, including those of children.",
+      "mk1": "Шифрирањето од-крај-до-крај претставува важна алатка со која се гарантира безбедноста и доверливоста на комуникациите на корисниците, вклучително и оние на децата.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 90,
+      "en": "Any weakening of encryption could potentially be abused by malicious third parties.",
+      "mk1": "Секое ослабување на шифрирањето би можело потенцијално да биде злоупотребено од злонамерни трети страни.",
+      "mk2": "",
+      "score": 0.2185430463576159,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 91,
+      "en": "Nothing in this Regulation should therefore be interpreted as prohibiting or weakening end-to-end encryption.",
+      "mk1": "Затоа, ништо во оваа регулатива не смее да се толкува како забрана или ослабување на шифрирањето од-крај-до-крај.",
+      "mk2": "",
+      "score": 0.3015075376884422,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 92,
+      "en": "The right to respect for private and family life, including the confidentiality of communications, is a fundamental right guaranteed under Article 7 of the Charter.",
+      "mk1": "Правото на почитување на приватниот и семејниот живот, вклучително и доверливоста на комуникациите претставува фундаментално право гарантирано со член 7 од Повелбата.",
+      "mk2": "",
+      "score": 0.4181184668989547,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 93,
+      "en": "It is thus also a prerequisite for secure communications between victims of child sexual abuse and a trusted adult or organisations active in the fight against child sexual abuse and for communications between victims and their lawyers.",
+      "mk1": "Затоа, тоа претставува предуслов за безбедни комуникации меѓу жртвите на сексуална злоупотреба на деца и доверливи возрасни лица или организации коишто се активни во борбата против сексуалната злоупотреба на деца и за комуникации меѓу жртвите и нивните адвокати.",
+      "mk2": "",
+      "score": 0.3440366972477064,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 94,
+      "en": "This Regulation should be without prejudice to the rules on professional secrecy under national law, such as rules on the protection of professional communications, between doctors and their patients, between journalists and their sources, or between lawyers and their clients, in particular since the confidentiality of communications between lawyers and their clients is key to ensuring the effective exercise of the rights of the defence as an essential part of the right to a fair trial.",
+      "mk1": "Оваа регулатива не треба да биде во спротивност со правилата за професионална тајна согласно со националното право, како што се правилата за заштита на професионалните комуникации меѓу лекари и нивните пациенти, меѓу новинари и нивните извори или меѓу адвокати и нивните клиенти, особено затоа што доверливоста на комуникациите меѓу адвокатите и нивните клиенти е од суштинско значење за обезбедување делотворно реализирање на правата на одбрана, како суштински дел од правото на праведно судење.",
+      "mk2": "",
+      "score": 0.2934648581997534,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 95,
+      "en": "This Regulation should also be without prejudice to national rules on registers of public authorities or organisations which offer counselling to individuals in distress.",
+      "mk1": "Исто така, оваа регулатива не треба да биде во спротивност со националните правила за регистри на јавни органи или организации коишто нудат советодавни услуги на индивидуални лица коишто се во неволја.",
+      "mk2": "",
+      "score": 0.3080872913992298,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 96,
+      "en": "Providers should communicate to the Commission the names of the organisations acting in the public interest against child sexual abuse to which they report potential online child sexual abuse under this Regulation.",
+      "mk1": "Давателите на услуги треба да ја информираат Комисијата за имињата на организациите коишто дејствуваат во јавен интерес против сексуалната злоупотреба на деца до коишто пријавуваат потенцијална сексуална злоупотреба на деца преку интернет согласно со оваа регулатива.",
+      "mk2": "",
+      "score": 0.38235294117647056,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 97,
+      "en": "While it is the sole responsibility of the providers acting as controllers to assess with which third party they can share personal data under Regulation (EU) 2016/679, the Commission should ensure transparency regarding the transfer of potential cases of online child sexual abuse by making public on its website a list of the organisations acting in the public interest against child sexual abuse communicated to it.",
+      "mk1": "И покрај тоа што единствена одговорност на давателите на услуги коишто дејствуваат како контролори е да проценат со која трета страна можат да ги споделат личните податоци согласно со Регулативата (ЕУ) 2016/679, Комисијата треба да обезбеди транспарентност во однос на трансферот на потенцијални случаи на сексуална злоупотреба на деца преку интернет со тоа што на нејзината веб-страница ќе објави список на организации коишто дејствуваат во јавен интерес против сексуална злоупотреба на деца коишто се информирани за тоа.",
+      "mk2": "",
+      "score": 0.41015625,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 98,
+      "en": "That public list should be easily accessible.",
+      "mk1": "Овој јавен список треба да биде лесно достапен.",
+      "mk2": "",
+      "score": 0.34683098591549294,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 99,
+      "en": "It should also be possible for providers to use that list in order to identify relevant organisations in the global fight against online child sexual abuse.",
+      "mk1": "Исто така треба да се овозможи давателите на услуги да можат да го користат тој список за да идентификуваат релевантни организации во глобалната борба против сексуалната злоупотреба на деца преку интернет.",
+      "mk2": "",
+      "score": 0.29411764705882354,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 100,
+      "en": "That list should be without prejudice to the obligations of the providers acting as controllers under Regulation (EU) 2016/679, including with regard to their obligation to conduct any transfer of personal data outside the Union pursuant to Chapter V of that Regulation and their obligation to fulfil all of the obligations under Chapter IV of that Regulation.",
+      "mk1": "Тој список не треба да биде во спротивност со обврските на давателите на услуги за дејствување како контролори согласно со Регулативата (ЕУ) 2016/679, вклучително и во однос на нивната обврска за спроведување трансфер на лични податоци надвор од Европската Унија согласно со Поглавје V од таа регулатива и нивната обврска за исполнување на обврските што произлегуваат од Поглавје IV од таа регулатива.",
+      "mk2": "",
+      "score": 0.2995008319467554,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 101,
+      "en": "The statistics to be provided by Member States under this Regulation are important indicators for the evaluation of policy, including legislative measures.",
+      "mk1": "Статистичките податоци што треба да се достават до земјите членки согласно со оваа регулатива се важни индикатори за оценување на политиката, вклучително и на законските мерки.",
+      "mk2": "",
+      "score": 0.3752310536044362,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 102,
+      "en": "In addition, it is important to recognise the impact of secondary victimisation inherent in the sharing of images and videos of victims of child sexual abuse that might have been circulating for years and which is not fully reflected in such statistics.",
+      "mk1": "Покрај тоа, важно е да се признае влијанието на секундарната виктимизација што е својствена за споделувањето слики и видеа на жртви на сексуална злоупотреба на деца коишто можеби циркулираат со години и којашто не е целосно одразена во таквите статистички податоци.",
+      "mk2": "",
+      "score": 0.31272727272727274,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 103,
+      "en": "In line with the requirements laid down in Regulation (EU) 2016/679, in particular the requirement that Member States ensure that supervisory authorities are provided with the human, technical and financial resources necessary for the effective performance of their tasks and exercise of their powers, Member States should ensure that supervisory authorities have such sufficient resources for the effective performance of their tasks and exercise of their powers under this Regulation.",
+      "mk1": "Во согласност со барањата утврдени во Регулативата (ЕУ) 2016/679, а особено барањето земјите членки да им обезбедат на органите за супервизија човечки, технички и финансиски ресурси неопходни за делотворно извршување на нивните задачи и реализирање на нивните овластувања, земјите членки треба да се погрижат органите за супервизија да располагаат со доволно ресурси за делотворно извршување на нивните задачи и реализирање на нивните овластувања согласно со оваа регулатива.",
+      "mk2": "",
+      "score": 0.2751185855972402,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 104,
+      "en": "Where a provider has conducted a data protection impact assessment and consulted the supervisory authorities with regard to a technology in accordance with Regulation (EU) 2016/679 prior to the entry into force of this Regulation, that provider should not be obliged under this Regulation to carry out an additional data protection impact assessment or consultation provided that the supervisory authorities have indicated that the processing of data by that technology would not result in a high risk to the rights and freedoms of natural persons or that measures have been taken by the controller to mitigate such a risk.",
+      "mk1": "Во случај кога давател на услуги спроведува процена на влијанието на заштитата на податоци и ги консултира органите за супервизија во врска со технологијата согласно со Регулативата (ЕУ) 2016/679 пред да стапи на сила оваа регулатива, тој давател на услуги не треба да биде обврзан согласно со оваа регулатива за спроведување дополнителна процена на влијанието на заштитата на податоци или консултации, под услов органите за супервизија да имаат укажано дека обработката на податоци со таа технологија не би резултирала со висок ризик по правата и слободите на физичките лица или дека се преземени мерки од страна на контролорот за да го ублажат таквиот ризик.",
+      "mk2": "",
+      "score": 0.261286456252497,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 105,
+      "en": "Users should have the right to an effective judicial remedy where their rights have been infringed as a result of the processing of personal and other data for the purpose of detecting online child sexual abuse on number-independent interpersonal communications services and reporting it and removing online child sexual abuse material from those services, for instance where a user’s content or identity have been reported to an organisation acting in the public interest against child sexual abuse or to law enforcement authorities or where a user’s content has been removed or a user’s account has been blocked or a service offered to a user has been suspended.",
+      "mk1": "Корисниците треба да имаат право на делотворен правен лек во случај на прекршување на нивните права како резултат на обработка на лични и други податоци, за целите на откривање сексуална злоупотреба на деца преку интернет при обезбедување услуги за интерперсонални комуникации независни од број и нејзино пријавување и отстранување материјали за сексуална злоупотреба на деца преку интернет од тие услуги, на пример, кога корисничка содржина или идентитет се пријавува на организација којашто дејствува во јавен интерес против сексуална злоупотреба на деца или на органите за спроведување на законот или кога корисничка содржина се отстранува или кориснички сметка се блокира или кога понудена услуга на корисник се суспендира.",
+      "mk2": "",
+      "score": 0.3347763347763348,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 106,
+      "en": "In line with Directive 2002/58/EC and the principle of data minimisation, the processing of personal and other data should be limited to content data and related traffic data, in as far as strictly necessary to achieve the purpose of this Regulation.",
+      "mk1": "Во согласност со Директивата 2002/58/ЕЗ и принципот на минимизирање податоци, обработката на лични и други податоци треба да се ограничи на содржината на податоците и сродниот податочен сообраќај, само до степен кој е строго неопходен за постигнување на целта на оваа регулатива.",
+      "mk2": "",
+      "score": 0.31181102362204727,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 107,
+      "en": "The derogation provided for by this Regulation should extend to the categories of data referred to in Articles 5(1) and 6(1) of Directive 2002/58/EC, which are applicable to the processing of both personal and non-personal data processed in the context of the provision of a number-independent interpersonal communications service.",
+      "mk1": "Дерогацијата предвидена со оваа регулатива треба да се прошири на категориите податоци споменати во членовите 5(1) и 6(1) од Директивата 2002/58/ЕЗ, коишто се однесуваат на обработката на лични и нелични податоци, обработени во контекстот на обезбедување услуга за интерперсонални комуникации независни од број.",
+      "mk2": "",
+      "score": 0.3603053435114504,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 108,
+      "en": "The objective of this Regulation is to create a temporary derogation from certain provisions of Directive 2002/58/EC without creating fragmentation in the internal market.",
+      "mk1": "Целта на оваа регулатива е да создаде привремена дерогација од одредени одредби од Директивата 2002/58/ЕЗ без притоа да се фрагментира внатрешниот пазар.",
+      "mk2": "",
+      "score": 0.19377162629757785,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 109,
+      "en": "In addition, it is unlikely that all Member States could adopt national legislative measures in time.",
+      "mk1": "Покрај тоа, постои мала веројатност сите земји членки навремено да донесат национални законски мерки.",
+      "mk2": "",
+      "score": 0.2413793103448276,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 110,
+      "en": "Since the objective of this Regulation cannot be sufficiently achieved by the Member States but can rather be better achieved at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 TEU.",
+      "mk1": "Бидејќи целта на оваа регулатива не може во доволна мера да се оствари од земјите членки, туку, подобро би се постигнала на ниво на Унијата, Европската Унија може да усвои мерки, во согласност со начелото на супсидијарност како што е утврдено во член 5 од ДЕУ.",
+      "mk2": "",
+      "score": 0.2768,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 111,
+      "en": "In accordance with the principle of proportionality as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve that objective.",
+      "mk1": "Во согласност со начелото на пропорционалност, како што е утврдено во овој член, оваа регулатива не го надминува она што е потребно за остварување на таа цел.",
+      "mk2": "",
+      "score": 0.31146454605699136,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 112,
+      "en": "It introduces a temporary and strictly limited derogation from the applicability of Articles 5(1) and 6(1) of Directive 2002/58/EC, with a series of safeguards to ensure that it does not go beyond what is necessary for the achievement of the set objective.",
+      "mk1": "Таа воведува привремена и строго ограничена дерогација од применливоста на членовите 5(1) и 6(1) од Директивата 2002/58/ЕЗ со низа заштитни мерки за да овозможи да не отиде подалеку од она што е неопходно за постигнување на поставената цел.",
+      "mk2": "",
+      "score": 0.3686131386861314,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 113,
+      "en": "The European Data Protection Supervisor was consulted in accordance with Article 42(1) of Regulation (EU) 2018/1725 of the European Parliament and of the Council () and delivered its opinion on 10 November 2020,",
+      "mk1": "Европскиот супервизор за заштита на податоци беше консултиран во согласност со член 42(1) од Регулативата (ЕУ) 2018/1725 на Европскиот парламент и на Советот () и своето мислење го изнесе на 10 ноември 2020 година.",
+      "mk2": "",
+      "score": 0.2072072072072072,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 114,
+      "en": "Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).",
+      "mk1": "Регулатива (ЕЗ) бр. 2018/1725 на Европскиот парламент и на Советот од 23 октомври 2018 година за заштита на физички лица во врска со обработка на личните податоци од страна на институции на Европската Унија, органи, служби и агенции и за слободното движење на таквите податоци, и за укинување на Регулативата 45/2001 и Одлуката 1247/2002/ЕЗ (Сл. весник L 295, 21.11.2018 година, стр.39).",
+      "mk2": "",
+      "score": 0.24372759856630824,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 115,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:295:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:295:TOC",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 116,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "",
+      "score": 0.20512820512820512,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 117,
+      "en": "Subject matter and scope",
+      "mk1": "Предмет и домен",
+      "mk2": "",
+      "score": 0.1927461139896373,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 118,
+      "en": "This Regulation lays down temporary and strictly limited rules derogating from certain obligations laid down in Directive 2002/58/EC, with the sole objective of enabling providers of certain number-independent interpersonal communications services (‘providers’) to use, without prejudice to Regulation (EU) 2016/679, specific technologies for the processing of personal and other data to the extent strictly necessary to detect online child sexual abuse on their services and report it and to remove online child sexual abuse material from their services.",
+      "mk1": "Со оваа регулатива се утврдуваат привремени и строго ограничени правила што дерогираат од одредени обврски утврдени во Директивата 2002/58/ЕЗ, со единствена цел да им се овозможи на давателите на услуги за интерперсонални комуникации независни од број (даватели на услуги), да користат конкретни технологии за обработка на лични и други податоци до степен којшто е строго неопходен за откривање сексуална злоупотреба на деца преку интернет при обезбедување на нивните услуги и да пријавуваат и отстрануваат материјал за сексуална злоупотреба на деца преку интернет од нивните услуги без тоа да биде во спротивност со Регулативата (ЕУ) 2016/679.",
+      "mk2": "",
+      "score": 0.23754789272030652,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 119,
+      "en": "This Regulation does not apply to the scanning of audio communications.",
+      "mk1": "Оваа регулатива не се однесува на скенирање аудио комуникации.",
+      "mk2": "",
+      "score": 0.36,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 120,
+      "en": "‘number-independent interpersonal communications service’ means a number-independent interpersonal communications service as defined in Article 2, point (7), of Directive (EU) 2018/1972;",
+      "mk1": "„услуга за интерперсонални комуникации што не зависи од број“ значи услуга за интерперсонални комуникации како што е дефинирана во член 2, точка (7) од Директивата (ЕУ) 2018/1972;",
+      "mk2": "",
+      "score": 0.31141868512110726,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 121,
+      "en": "‘online child sexual abuse material’ means:",
+      "mk1": "„материјал за сексуална злоупотреба на деца преку интернет“ значи:",
+      "mk2": "",
+      "score": 0.291866028708134,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 122,
+      "en": "(a)",
+      "mk1": "(а)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 123,
+      "en": "child pornography as defined in Article 2, point (c), of Directive 2011/93/EU;",
+      "mk1": "детска порнографија, како што е дефинирана во член 2, точка (в) од Директивата 2011/93/ЕУ;",
+      "mk2": "",
+      "score": 0.2977346278317152,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 124,
+      "en": "pornographic performance as defined in Article 2, point (e), of Directive 2011/93/EU;",
+      "mk1": "порнографска изведба, како што е дефинирана во член 2, точка (г) од Директивата 2011/93/ЕУ;",
+      "mk2": "",
+      "score": 0.23511450381679388,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 125,
+      "en": "‘solicitation of children’ means any intentional conduct constituting a criminal offence under Article 6 of Directive 2011/93/EU;",
+      "mk1": "„заведување деца“ значи секакво намерно однесување коешто претставува кривично дело според член 6 од Директивата 2011/93/ЕУ;",
+      "mk2": "",
+      "score": 0.19858156028368795,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 126,
+      "en": "‘online child sexual abuse’ means online child sexual abuse material and solicitation of children.",
+      "mk1": "„сексуална злоупотреба на деца преку интернет“ значи материјал за сексуална злоупотреба на деца преку интернет и заведување деца.",
+      "mk2": "",
+      "score": 0.3206751054852321,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 127,
+      "en": "Scope of the derogation",
+      "mk1": "Домен на дерогацијата",
+      "mk2": "",
+      "score": 0.3142857142857143,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 128,
+      "en": "Articles 5(1) and 6(1) of Directive 2002/58/EC shall not apply to the confidentiality of communications involving the processing by providers of personal and other data in connection with the provision of number-independent interpersonal communications services provided that:",
+      "mk1": "Членовите 5(1) и 6(1) од Директивата 2002/58/ЕЗ не се однесуваат на доверливоста на комуникациите која вклучува обработка на лични и други податоци од страна на даватели на услуги за обезбедување услуги за интерперсонални комуникации што зависат од број, под услов:",
+      "mk2": "",
+      "score": 0.2783018867924528,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 129,
+      "en": "the processing is:",
+      "mk1": "обработката да е:",
+      "mk2": "",
+      "score": 0.4744525547445255,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 130,
+      "en": "(i)",
+      "mk1": "(i)",
+      "mk2": "",
+      "score": 0.5489130434782609,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 131,
+      "en": "strictly necessary for the use of specific technology for the sole purpose of detecting and removing online child sexual abuse material and reporting it to law enforcement authorities and to organisations acting in the public interest against child sexual abuse and of detecting solicitation of children and reporting it to law enforcement authorities or organisations acting in the public interest against child sexual abuse;",
+      "mk1": "строго неопходна за употреба на конкретни технологии заради единствена цел на откривање и отстранување материјал за сексуална злоупотреба на деца преку интернет и негово пријавување до органите за спроведување на законот и до организации коишто работат во јавен интерес против сексуална злоупотреба на деца и откривање заведување деца и негово пријавување до органите за спроведување на законот или организации коишто дејствуваат во јавен интерес против сексуална злоупотреба на деца;",
+      "mk2": "",
+      "score": 0.3708873379860419,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 132,
+      "en": "proportionate and limited to technologies used by providers for the purpose set out in point (i);",
+      "mk1": "пропорционална и ограничена на технологии што ги користат давателите на услуги за целите наведени во точка (i);",
+      "mk2": "",
+      "score": 0.29936305732484075,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 133,
+      "en": "limited to content data and related traffic data that are strictly necessary for the purpose set out in point (i);",
+      "mk1": "ограничена на содржина на податоците и сродниот податочен сообраќај коишто се строго неопходни за целите наведени во точка (i);",
+      "mk2": "",
+      "score": 0.20127118644067796,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 134,
+      "en": "limited to what is strictly necessary for the purpose set out in point (i);",
+      "mk1": "ограничена на тоа што е строго неопходно за целите наведени во точка (i);",
+      "mk2": "",
+      "score": 0.2777777777777778,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 135,
+      "en": "the technologies used for the purpose set out in point (a)(i) of this paragraph are in accordance with the state of the art in the industry and are the least privacy-intrusive, including with regard to the principle of data protection by design and by default laid down in Article 25 of Regulation (EU) 2016/679 and, to the extent that they are used to scan text in communications, they are not able to deduce the substance of the content of the communications but are solely able to detect patterns which point to possible online child sexual abuse;",
+      "mk1": "технологиите што се користат за целите наведени во точка (а)(i) од овој став да се во согласност со најновите достигнувања во индустријата и најмалку да ја нарушуваат приватноста, вклучително и во однос на начелото за заштита податоците преку дизајн и според стандард утврдени во член 25 од Регулативата (ЕУ) 2016/679 и доколку се користат за скенирање текст во комуникациите, да не можат да ја намалат суштината на содржината на комуникациите туку единствено да овозможат откривање шеми на однесување коишто укажуваат на можна сексуална злоупотреба на деца преку интернет;",
+      "mk2": "",
+      "score": 0.3203463203463203,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 136,
+      "en": "in respect of any specific technology used for the purpose set out in point (a)(i) of this paragraph, a prior data protection impact assessment as referred to in Article 35 of Regulation (EU) 2016/679 and a prior consultation procedure as referred to in Article 36 of that Regulation have been conducted;",
+      "mk1": "во однос на која било конкретна технологија што се користи за целите наведени во точка (а)(i) од овој став, да биде спроведена претходна проценка на влијанието на заштитата на податоците како што е утврдено во член 35 од Регулативата (ЕУ) 2016/679 и претходна постапка на консултации како што е утврдено во член 36 од таа регулатива;",
+      "mk2": "",
+      "score": 0.2834101382488479,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 137,
+      "en": "with regard to new technology, meaning technology used for the purpose of detecting online child sexual abuse mat erial that has not been used by any provider in relation to services provided to users of number-independent interpersonal communications services (‘users’) in the Union before 2 August 2021, and with regard to technology used for the purpose of identifying possible solicitation of children, the provider reports back to the competent authority on the measures taken to demonstrate compliance with written advice issued in accordance with Article 36(2) of Regulation (EU) 2016/679 by the competent supervisory authority designated pursuant to Chapter VI, Section 1, of that Regulation (‘supervisory authority’) in the course of the prior consultation procedure;",
+      "mk1": "во однос на новата технологија, што подразбира технологија што се користи за целите на откривање материјал за сексуална злоупотреба на деца преку интернет, којашто не била користена од ниту еден давател на услуги во врска со услугите што им ги обезбедувала на корисниците за интерперсонални комуникации независни од број („корисници“) во Европската Унија пред 2 август 2021 година, и во однос на технологијата што се користи за целите на идентификување заведување деца, давателот на услуги да ги пријави до надлежните органи преземените мерки со цел да покаже усогласеност со писмениот совет издаден во согласност со член 36(2) од Регулативата (ЕУ) 2017/679 од надлежниот орган за супервизија, назначен согласно со Поглавје VI, Дел 1 од таа регулатива („орган за супервизија“) во текот на претходната постапка за консултации;",
+      "mk2": "",
+      "score": 0.2688356164383562,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 138,
+      "en": "the technologies used are sufficiently reliable in that they limit to the maximum extent possible the rate of errors regarding the detection of content representing online child sexual abuse and, where such occasional errors occur, their consequences are rectified without delay;",
+      "mk1": "користените технологии да бидат доволно сигурни за да ја ограничат до максимален можен степен стапката на грешки во однос на откривањето содржина што претставува сексуална злоупотреба на деца преку интернет, при што, повремената појава на такви грешки и последиците да се поправат без никакво одложување;",
+      "mk2": "",
+      "score": 0.31865828092243187,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 139,
+      "en": "the technologies used to detect patterns of possible solicitation of children are limited to the use of relevant key indicators and objectively identified risk factors such as age difference and the likely involvement of a child in the scanned communication, without prejudice to the right to human review.",
+      "mk1": "користените технологии за откривање шеми на можно заведување деца да се ограничени на употреба на релевантни клучни индикатори и објективно идентификувани фактори на ризик, како што се на пример, разлика во години и веројатна вклученост на дете во скенирана комуникација, без да е во спротивност со правото на проверка од страна на човек.",
+      "mk2": "",
+      "score": 0.29673590504451036,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 140,
+      "en": "the providers:",
+      "mk1": "давателите на услуги:",
+      "mk2": "",
+      "score": 0.3044982698961938,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 141,
+      "en": "have established internal procedures to prevent abuse of, unauthorised access to, and unauthorised transfers of, personal and other data;",
+      "mk1": "да имаат воспоставен внатрешни постапки за спречување злоупотреба, неовластен пристап и неовластени трансфери на лични и други податоци;",
+      "mk2": "",
+      "score": 0.26720647773279355,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 142,
+      "en": "ensure human oversight of and, where necessary, human intervention in the processing of personal and other data using technologies falling under this Regulation;",
+      "mk1": "да обезбедат надзор од човек и кога е тоа неопходно, човечка интервенција при обработката на лични и други податоци користејќи технологии што спаѓаат во доменот на оваа регулатива;",
+      "mk2": "",
+      "score": 0.2028985507246377,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 143,
+      "en": "ensure that material not previously identified as online child sexual abuse material, or solicitation of children, is not reported to law enforcement authorities or organisations acting in the public interest against child sexual abuse without prior human confirmation;",
+      "mk1": "да обезбедат материјалот што претходно не бил идентификуван како материјал за сексуална злоупотреба на деца преку интернет или заведување деца, да не се пријавува до органите за спроведување на законот или до организации коишто дејствуваат во јавен интерес против сексуална злоупотреба на деца, без претходно да биде потврден од човек;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 144,
+      "en": "have established appropriate procedures and redress mechanisms to ensure that users can lodge complaints with them within a reasonable timeframe for the purpose of presenting their views;",
+      "mk1": "да имаат воспоставено соодветни постапки и механизми за поднесување жалба, со цел да им овозможат на корисниците можност да поднесат жалба до нив во разумен временски рок за целите на претставување на нивните гледишта;",
+      "mk2": "",
+      "score": 0.2591687041564792,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 145,
+      "en": "inform users in a clear, prominent and comprehensible way of the fact that they have invoked, in accordance with this Regulation, the derogation from Articles 5(1) and 6(1) of Directive 2002/58/EC concerning the confidentiality of users’ communications for the sole purpose set out in point (a)(i) of this paragraph, the logic behind the measures they have taken under the derogation and the impact on the confidentiality of users’ communications, including the possibility that personal data are shared with law enforcement authorities and organisations acting in the public interest against child sexual abuse;",
+      "mk1": "да ги информираат корисниците на јасен, видливи и разбирлив начин за фактите на кои се повикуваат, согласно со оваа регулатива, дерогацијата од членовите 5(1) и 6(1) од Директивата 2002/58/ЕЗ во врска со доверливоста на комуникациите на корисниците, заради единствената цел наведена во точка (а)(i) од овој став, логиката зад мерките што ги имаат преземено согласно со дерогацијата и влијанието на доверливоста на комуникациите на корисниците, вклучително и на личните податоци што се споделуваат со органите за спроведување на законот и организациите што дејствуваат во јавен интерес против сексуална злоупотреба на деца;",
+      "mk2": "",
+      "score": 0.22564102564102564,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 146,
+      "en": "inform users of the following, where their content has been removed or their account has been blocked or a service offered to them has been suspended:",
+      "mk1": "да ги информираат корисниците за следното, при отстранување нивна содржина, блокирање на нивна сметка или при суспендирање на понудена услуга до нив:",
+      "mk2": "",
+      "score": 0.23529411764705882,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 147,
+      "en": "the avenues for seeking redress from them;",
+      "mk1": "начините за доставување поплака;",
+      "mk2": "",
+      "score": 0.36585365853658536,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 148,
+      "en": "the possibility of lodging a complaint with a supervisory authority; and",
+      "mk1": "можноста за поднесува тужба до орган за супервизија; и",
+      "mk2": "",
+      "score": 0.3201058201058201,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 149,
+      "en": "the right to a judicial remedy;",
+      "mk1": "правото на правен лек;",
+      "mk2": "",
+      "score": 0.3270223752151463,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 150,
+      "en": "by 3 February 2022, and by 31 January every year thereafter, publish and submit to the competent supervisory authority and to the Commission a report on the processing of personal data under this Regulation, including on:",
+      "mk1": "до 3 февруари 2022 година, и до 31 јануари секоја година потоа, да објавуваат и да поднесуваат извештај за обработката на лични податоци согласно со оваа регулатива до надлежниот орган за супервизија и до Комисијата, вклучително и за:",
+      "mk2": "",
+      "score": 0.3434704830053667,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 151,
+      "en": "the type and volumes of data processed;",
+      "mk1": "типот и обемот на обработени податоци;",
+      "mk2": "",
+      "score": 0.34498834498834496,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 152,
+      "en": "the specific ground relied on for the processing pursuant to Regulation (EU) 2016/679;",
+      "mk1": "врз која конкретна основа се вршела обработката согласно со оваа Регулатива (ЕУ) 2016/679;",
+      "mk2": "",
+      "score": 0.28350515463917525,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 153,
+      "en": "the ground relied on for transfers of personal data outside the Union pursuant to Chapter V of Regulation (EU) 2016/679, where applicable;",
+      "mk1": "врз која основа се вршеле трансфери на лични податоци надвор од Европската Унија согласно со Поглавје V од Регулативата 2016/679, кога е тоа применливо;",
+      "mk2": "",
+      "score": 0.3963963963963964,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 154,
+      "en": "the number of cases of online child sexual abuse identified, differentiating between online child sexual abuse material and solicitation of children;",
+      "mk1": "бројот на идентификувани случаи на сексуална злоупотреба на деца преку интернет, правејќи разлика меѓу материјал за сексуална злоупотреба на деца преку интернет и заведување деца;",
+      "mk2": "",
+      "score": 0.19494584837545126,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 155,
+      "en": "the number of cases in which a user has lodged a complaint with the internal redress mechanism or with a judicial authority and the outcome of such complaints;",
+      "mk1": "бројот на предмети во коишто корисник поднел жалба во рамки на внатрешен механизам за жалби или до судски власти и исходот на таквата жалба;",
+      "mk2": "",
+      "score": 0.23715415019762845,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 156,
+      "en": "the numbers and ratios of errors (false positives) of the different technologies used;",
+      "mk1": "бројот и коефициентот на грешки (лажно позитивни) кај различните користени технологии;",
+      "mk2": "",
+      "score": 0.24516129032258063,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 157,
+      "en": "the measures applied to limit the error rate and the error rate achieved;",
+      "mk1": "применетите мерки за ограничување на стапката на грешки и постигнатата стапка на грешки;",
+      "mk2": "",
+      "score": 0.46756756756756757,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 158,
+      "en": "the retention policy and the data protection safeguards applied pursuant to Regulation (EU) 2016/679;",
+      "mk1": "применетата политика за задржување и мерките за заштита на податоците согласно со Регулативата (ЕУ) 2016/679;",
+      "mk2": "2.До 3 октомври 2021 година, Комисијата ќе објави список на имиња на организации коишто дејствуваат во",
+      "score": 0.2222222222222222,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        122,
+        123
+      ],
+      "mk2_char_span": [
+        44396,
+        44498
+      ],
+      "evidence": {
+        "token_count": 40,
+        "references_preserved": false,
+        "neighbor_window": [
+          158,
+          159
+        ],
+        "atom_window": [
+          122,
+          123
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 159,
+      "en": "the names of the organisations acting in the public interest against child sexual abuse with which data has been shared pursuant to this Regulation;",
+      "mk1": "имињата на организациите што дејствуваат во јавен интерес против сексуална злоупотреба на деца со коишто се споделуваат податоци согласно со оваа регулатива;",
+      "mk2": "јавен интерес против сексуална злоупотреба на деца за коишто е известена во согласност со став 1. Комисијата редовно го ажурира овој јавен список.",
+      "score": 0.5733333333333334,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        122,
+        123
+      ],
+      "mk2_char_span": [
+        44498,
+        44645
+      ],
+      "evidence": {
+        "token_count": 40,
+        "references_preserved": false,
+        "neighbor_window": [
+          158,
+          159
+        ],
+        "atom_window": [
+          122,
+          123
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 160,
+      "en": "where suspected online child sexual abuse has been identified, the content data and related traffic data processed for the purpose set out in point (a)(i), and personal data generated through such processing are stored in a secure manner, solely for the purposes of:",
+      "mk1": "кога се идентификува сомнеж за сексуална злоупотреба на деца преку интернет, содржината на податоците и сродниот податочен сообраќај што се обработуваат за целите наведени во точка (а)(I) и личните податоци што се генерираат при ваквата обработка се чуваат на безбеден начин,единствено за целите на:",
+      "mk2": "",
+      "score": 0.24796747967479674,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 161,
+      "en": "reporting, without delay, the suspected online child sexual abuse to the competent law enforcement and judicial authorities or organisations acting in the public interest against child sexual abuse;",
+      "mk1": "пријавување, без никакво одложување, сомнеж за сексуална злоупотреба на деца преку интернет до надлежниот органи за спроведување на законот и и судските органи или организации коишто дејствуваат во јавен интерес против сексуална злоупотреба на деца;",
+      "mk2": "",
+      "score": 0.42479338842975206,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 162,
+      "en": "blocking the account of, or suspending or terminating the provision of the service to, the user concerned;",
+      "mk1": "блокирање сметка или суспендирање или прекинување на обезбедување услуги до засегнатиот корисник;",
+      "mk2": "",
+      "score": 0.24812030075187969,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 163,
+      "en": "creating a unique, non-reconvertible digital signature (‘hash’) of data reliably identified as online child sexual abuse material;",
+      "mk1": "создавање единствен, не-реконвертибилен дигитален потпис („хаш“) на податоци што може сигурно да се идентификува како материјали за сексуална злоупотреба на деца преку интернет;",
+      "mk2": "",
+      "score": 0.17410714285714285,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 164,
+      "en": "enabling the user concerned to seek redress from the provider or pursue administrative review or judicial remedies on matters related to the suspected online child sexual abuse; or",
+      "mk1": "можност засегнатиот корисник да поднесе жалба до давателот на услуги или да иницира административна проверка или правни лекови за прашања поврзани со сомнежот на сексуална злоупотреба на деца преку интернет; или",
+      "mk2": "",
+      "score": 0.19736842105263158,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 165,
+      "en": "D. M. SASSOLI",
+      "mk1": "Д. М. САСОЛИ",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 166,
+      "en": "A. LOGAR",
+      "mk1": "А. ЛОГАР",
+      "mk2": "",
+      "score": 0.2641509433962264,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 167,
+      "en": "Done at Brussels, 14 July 2021.",
+      "mk1": "Брисел, 14 јули 2021 година",
+      "mk2": "",
+      "score": 0.2471042471042471,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 168,
+      "en": "Entry into force and application",
+      "mk1": "Влегување во сила и датум на примена",
+      "mk2": "",
+      "score": 0.29558541266794625,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 169,
+      "en": "This Regulation shall enter into force on the third day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила третиот ден по денот на нејзиното објавување во Службениот весник ан Европската Унија.",
+      "mk2": "",
+      "score": 0.3185378590078329,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 170,
+      "en": "It shall apply until 3 August 2024.",
+      "mk1": "Се применува од 3 август 2024 година.",
+      "mk2": "",
+      "score": 0.32423756019261635,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 171,
+      "en": "developments in technological progress regarding the activities covered by this Regulation, and the extent to which such developments improve accuracy and reduce the numbers and ratios of errors (false positives).",
+      "mk1": "развој на технолошкиот напредок во однос на активностите опфатени со оваа регулатива, и степенот до којшто ваквиот развој на подобрува точноста и ги намалува бројките и коефициентите на грешки (лажно позитивни).",
+      "mk2": "",
+      "score": 0.30122591943957966,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 172,
+      "en": "Implementation report",
+      "mk1": "Извештај за спроведување",
+      "mk2": "",
+      "score": 0.3442622950819672,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 173,
+      "en": "Statistics",
+      "mk1": "Статистички податоци",
+      "mk2": "",
+      "score": 0.23102310231023102,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 174,
+      "en": "Public list of organisations acting in the public interest against child sexual abuse",
+      "mk1": "Јавна листа на организации коишто дејствуваат во јавен интерес против сексуална злоупотреба на деца",
+      "mk2": "",
+      "score": 0.24293785310734464,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 175,
+      "en": "Effective judicial remedies",
+      "mk1": "Делотворни правни лекови",
+      "mk2": "",
+      "score": 0.2928870292887029,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 176,
+      "en": "European Data Protection Board guidelines",
+      "mk1": "Упатства на Европскиот одбор за заштита на податоци",
+      "mk2": "",
+      "score": 0.22330097087378642,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 177,
+      "en": "Supervisory authorities",
+      "mk1": "Органи за супервизија",
+      "mk2": "",
+      "score": 0.21645021645021645,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 178,
+      "en": "responding to requests issued by competent law enforcement and judicial authorities in accordance with the applicable law to provide them with the necessary data for the prevention, detection, investigation or prosecution of criminal offences as set out in Directive 2011/93/EU;",
+      "mk1": "одговарање на барања издадени од надлежен орган за спроведување на законот и судски органи, во согласност со важечката законска регулатива за да им се обезбедат потребните податоци за превенција, откривање, истрага или гонење на кривични дела како што е утврдено во Директивата 2011/93/ЕУ;",
+      "mk2": "",
+      "score": 0.22388059701492538,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 179,
+      "en": "the data are stored no longer than strictly necessary for the relevant purpose set out in point (h) and, in any event, no longer than 12 months from the date of the identification of the suspected online child sexual abuse;",
+      "mk1": "чување на податоците не подолго од тоа што е строго неопходно за релевантната цел утврдена во точка (ж) и во секој случај, не подолго од 12 месеци од датумот на идентификување на сомнежот за сексуална злоупотреба на деца преку интернет;",
+      "mk2": "",
+      "score": 0.29201101928374656,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 180,
+      "en": "every case of a reasoned and verified suspicion of online child sexual abuse is reported without delay to the competent national law enforcement authorities or to organisations acting in the public interest against child sexual abuse.",
+      "mk1": "пријавување без одлагање на секој случај на разумен и потврден сомнеж на сексуална злоупотреба на деца преку интернет до надлежните органи за спроведување на законот или до организации коишто дејствуваа во јавен интерес против сексуална злоупотреба на деца.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 181,
+      "en": "Until 3 April 2022, the condition set out in paragraph 1, point (c), shall not apply to providers that:",
+      "mk1": "До 3 април 2022 година, условот утврден во став 1, точка (в) не се применува на давателите на услуги коишто:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 182,
+      "en": "were using a specific technology before 2 August 2021 for the purpose set out in paragraph 1, point (a)(i), without having completed a prior consultation procedure in respect of that technology;",
+      "mk1": "користеле конкретна технологија пред 2 август 2021 година за целите утврдени во став 1, точка (а)(i), без реализирана постапка на претходни консултации во врска со таа технологија;",
+      "mk2": "",
+      "score": 0.3474576271186441,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 183,
+      "en": "start a prior consultation procedure before 3 September 2021; and",
+      "mk1": "започнуваат постапка на претходни консултации пред 3 септември 2021 година; и",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 184,
+      "en": "duly cooperate with the competent supervisory authority in connection with the prior consultation procedure referred to in point (b).",
+      "mk1": "уредно соработуваат со надлежниот орган за супервизија во врска со постапката на претходни консултации спомената во точка (б).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 185,
+      "en": "Until 3 April 2022, the condition set out in paragraph 1, point (d), shall not apply to providers that:",
+      "mk1": "До 3 април 2022 година, условот утврден во став 1, точка (г) не се применува на давателите на услуги коишто:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 186,
+      "en": "were using a technology as referred to in paragraph 1, point (d), before 2 August 2021 without having completed a prior consultation procedure in respect of that technology;",
+      "mk1": "користеле технологија наведена во став 1, точка (г), пред 2 август 2021 година, без реализирана постапка на претходни консултации во врска со таа технологија;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 187,
+      "en": "start a procedure as referred to in paragraph 1, point (d), before 3 September 2021; and",
+      "mk1": "започнуваат постапка спомената во став 1, точка (г) пред 3 септември 2021 година; и",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 188,
+      "en": "duly cooperate with the competent supervisory authority in connection with the procedure referred to in paragraph 1, point (d).",
+      "mk1": "уредно соработуваат со надлежниот орган за супервизија во врска со постапката спомената во 1, точка (г).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 189,
+      "en": "By 3 September 2021, and pursuant to Article 70 of Regulation (EU) 2016/679, the Commission shall request the European Data Protection Board to issue guidelines for the purpose of assisting the supervisory authorities in assessing whether processing falling within the scope of this Regulation, for existing and new technologies used for the purpose set out in Article 3(1), point (a)(i), of this Regulation, complies with Regulation (EU) 2016/679.",
+      "mk1": "До 3 септември 2021 година, согласно со член 70 од Регулативата (ЕУ) 2016/679, Комисијата ќе побара од Европскиот одбор за заштита на податоци да издаде упатство со цел да им помогне на органите за супервизија при проценката дали обработката што спаѓа во доменот на оваа регулатива, за постојни и нови технологии што се користат за целите утврдени во член 3(1), точка (а)(i) од оваа регулатива, е во согласност со Регулативата (ЕУ) 2016/679.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 190,
+      "en": "In accordance with Article 79 of Regulation (EU) 2016/679 and Article 15(2) of Directive 2002/58/EC, users shall have the right to an effective judicial remedy where they consider that their rights have been infringed as a result of the processing of personal and other data for the purpose set out in Article 3(1), point (a)(i), of this Regulation.",
+      "mk1": "Во согласност со член 79 од Регулативата (ЕУ) 2016/679 и член 15(2) од Директивата 2002/58/ЕЗ, корисниците имаат право на делотворен правен лек ако мислат дека нивните права се прекршени како резултат на обработката на лични и други податоци, за целите наведени во член 3(1), точка (а)(i) од оваа регулатива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 191,
+      "en": "The supervisory authorities designated pursuant to Chapter VI, Section 1, of Regulation (EU) 2016/679 shall monitor the processing falling within the scope of this Regulation in accordance with their competences and powers under that Chapter.",
+      "mk1": "Органите за супервизија назначени согласно со Поглавје VI, Дел 1 од Регулативата (ЕУ) 2016/679 ја следат обработката што спаѓа во доменот на оваа регулатива, согласно со нивните надлежност и овластувања што произлегуваат од тоа поглавје.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 192,
+      "en": "Providers shall communicate any changes to that list to the Commission on a regular basis.",
+      "mk1": "Давателите на услуги редовно ќе ја известуваат Комисијата за сите промени во тој список.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 193,
+      "en": "By 3 October 2021, the Commission shall make public a list of the names of organisations acting in the public interest against child sexual abuse communicated to it under the paragraph 1.",
+      "mk1": "До 3 октомври 2021 година, Комисијата ќе објави список на имиња на организации коишто дејствуваат во јавен интерес против сексуална злоупотреба на деца за коишто е известена согласно со став 1.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 194,
+      "en": "The Commission shall keep that public list up to date.",
+      "mk1": "Комисијата редовно го ажурира овој јавен список.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 195,
+      "en": "By 3 August 2022, and on an annual basis thereafter, the Member States shall make publicly available and submit to the Commission reports with statistics on the following:",
+      "mk1": "До 3 август 2022 година, а потоа на годишно ниво, земјите членки ќе ги направат јавно достапни и ќе поднесуваат извештаи до Комисијата со статистички податоци за следното:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 196,
+      "en": "the total number of reports of detected online child sexual abuse that have been submitted by providers and organisations acting in the public interest against child sexual abuse to the competent national law enforcement authorities, differentiating, where such information is available, between the absolute number of cases and those cases reported several times and the type of provider on whose service the online child sexual abuse was detected;",
+      "mk1": "вкупниот број извештаи за откриена сексуална злоупотреба на деца преку интернет поднесени од страна на даватели на услуги и организации коишто дејствуваат во јавен интерес против сексуална злоупотреба на деца до надлежните национални органи за спроведување на законот, правејќи при тоа разлика, ако има достапни информации, меѓу апсолутниот број на случаи и оние случаи што се пријавувани неколку пати и типот на давател на услуги на чија услуга била откриена сексуална злоупотреба на деца преку интернет;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 197,
+      "en": "the number of children identified through actions pursuant to Article 3, differentiated by gender;",
+      "mk1": "бројот на деца идентификувани преку активности согласно со член 3, според пол;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 198,
+      "en": "the number of perpetrators convicted.",
+      "mk1": "бројот на осудени сторители.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 199,
+      "en": "The Commission shall aggregate the statistics referred to in paragraph 1 of this Article and shall take them into account when preparing the implementation report pursuant to Article 9.",
+      "mk1": "Комисијата ги собира статистичките податоци споменати во став 1 од овој член и ги зема предвид при подготвувањето извештај за спроведување согласно со член 9.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 200,
+      "en": "On the basis of the reports submitted pursuant to Article 3(1), point (g)(vii), and the statistics provided pursuant to Article 8, the Commission shall, by 3 August 2023, prepare a report on the implementation of this Regulation and submit and present it to the European Parliament and to Council.",
+      "mk1": "Врз основа на извештаите поднесени согласно со член 3(1), точка (е)(vii), и статистичките податоци обезбедени согласно со член 8, Комисијата, до 3 август 2023 година, ќе изготви извештај за спроведувањето на оваа регулатива и ќе го поднесе и презентира до Европскиот парламент и до Советот.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 201,
+      "en": "In the implementation report, the Commission shall consider, in particular:",
+      "mk1": "Во извештајот за спроведување, Комисијата особено ќе го земе предвид следното:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 202,
+      "en": "the conditions for the processing of personal data and other data set out in Article 3(1), point (a)(ii), and points (b), (c) and (d);",
+      "mk1": "условите за обработка на лични и други податоци утврдени во член 3(1), точка (а)(ii) и точките (б), (в) и (г).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 203,
+      "en": "the proportionality of the derogation provided for by this Regulation, including an assessment of the statistics submitted by the Member States pursuant to Article 8;",
+      "mk1": "пропорционалноста на дерогацијата предвидена со оваа регулатива, вклучително и проценката на статистичките податоци поднесени од земјите членки согласно со член 8.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 204,
+      "en": "By 3 September 2021, providers shall communicate to the Commission a list of the names of organisations acting in the public interest against child sexual abuse to which they report online child sexual abuse under this Regulation.",
+      "mk1": "До 3 септември 2021 година, давателите на услуги треба да достават до Комисијата список со називи на организации коишто дејствуваат во јавен интерес против сексуалната злоупотреба на деца до коишто пријавуваат потенцијална сексуална злоупотреба на деца преку интернет согласно со оваа регулатива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 205,
+      "en": "(iii)",
+      "mk1": "(iii)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 8,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Ббр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021Р1232",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "REGULATION (EU) 2021/1232 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 14 July 2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "on a temporary derogation from certain provisions of Directive 2002/58/EC as regards the use of technologies by providers of number-independent interpersonal communications services for the processing of personal and other data for the purpose of combating online child sexual abuse",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "(Text with EEA relevance)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА (ЕУ) бр.2021/1232 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 14 јули 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за привремена дерогација од одредени одредби од Директивата 2002/58/ЕЗ за употребата на технологии од даватели на услуги за интерперсонална комуникација независни од број за обработка на лични и други податоци за целите на борба против сексуална злоупотреба на деца преку интернет",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "(Текст со важност за ЕЕО)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Сексуална злоупотреба на деца преку интернет",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Сашенка Граматова-Љубен",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "29.08.2022 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Став 7",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Hashing technology for images and videos",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "хашинг технологија за слики и видеа",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Hash function - Wikipedia",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Став 25",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "End-to-end encryption",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "шифрирањето од-крај-до-крај",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Шифрирање од крај до крај и зошто на главните провајдери за складирање облак не им се допаѓа - Утерна технологија (uttertechnology.com)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "number-independent interpersonal communications services",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "интерперсонални комуникации независни од број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://aek.mk",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021R1232",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "REGULATION (EU) 2021/1232 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 14 July 2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "on a temporary derogation from certain provisions of Directive 2002/58/EC as regards the use of technologies by providers of number-independent interpersonal communications services for the processing of personal and other data for the purpose of combating online child sexual abuse",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "(Text with EEA relevance)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА (ЕУ) бр.2021/1232 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 14 јули 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за привремена дерогација од одредени одредби од Директивата 2002/58/ЕЗ за употребата на технологии од даватели на услуги за интерперсонална комуникација независни од број за обработка на лични и други податоци за целите на борба против сексуална злоупотреба на деца преку интернет",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "(Текст со важност за ЕЕО)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Сексуална злоупотреба на деца преку интернет",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Реска Рајчевска",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "6.9.2022 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "наслов",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "derogation",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "дерогација",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "oтстапување",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прирачник СЕП",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула, точка 7",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "non-reconvertible",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "нереконвертибилен",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "што не може да се преиначи",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "HYPERLINK \"https://www.merriam-webster.com/dictionary/reconvertible\" https://www.merriam-webster.com/dictionary/reconvertible",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула, точка 17",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "redress mechanisms",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "поправни механизми",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "механизми за правна заштита",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.merriam-webster.com/dictionary/redress",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула, точка 3",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "principles",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "принципи",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "начела",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прирачник СЕП",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:C:2021:010:TOC\" Сл. весник C 10, 11.1.2021 година, стр. 63.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Ставот на Европскиот парламент од 6 јули 2018 година (сѐ уште не е објавен во Службениот весник) и одлуката на Советот од 12 јули 2021 година.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Директива 2002/58/EЗ на Европскиот парламент и на Советот од 12 јули 2002 година за обработка на личните податоци и заштита на приватноста во секторот за електронски комуникации (Директивата за приватност и електронски комуникации) ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2002:201:TOC\" Сл. весник L 201, 31.7.2002 година, стр. 37).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Регулатива (ЕЗ) бр. 2016/679 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физички лица во врска со обработка на личните податоци и за слободното движење на таквите податоци и за укинување на Директивата 95/46/ЕЗ (Општа регулатива за заштита на податоците) ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:119:TOC\" Сл. весник L 119, 12.1.2001 година, стр. 1).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Директива 2002/21/ЕЗ на Европскиот парламент и на Советот од 7 март 2002 година за заедничка регулаторна рамка за мрежи за електронски комуникации и услуги (Рамковна директива) ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2002:108:TOC\" Сл. весник L 108, 24.4.2002 г.одина, стр. 33).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Директива (ЕУ) 2018/1972 на Европскиот парламент и на Советот од 11 декември 2018 година за воспоставување Европскиот законик за електронски комуникации ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:321:TOC\" Сл. весник L 321, 17.12.2018 г.одина, стр. 36).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Директива 2011/93/ЕУ на Европскиот парламент и на Советот од 13 декември 2011 година за борба против сексуална злоупотреба и сексуална експлоатација на деца и детска порнографија и заменување на Рамковната одлука на Советот 2004/68/ЈХА ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2011:335:TOC\" Сл. весник L 335, 17.12.2011 г.одина, стр. 1).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Регулатива (ЕЗ) бр. 2018/1725 на Европскиот парламент и на Советот од 23 октомври 2018 година за заштита на физички лица во врска со обработка на личните податоци од страна на институции на Европската Унија, органи, служби и агенции и за слободното движење на таквите податоци, и за укинување на Регулативата 45/2001 и Одлуката 1247/2002/ЕЗ ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:295:TOC\" Сл. весник L 295, 21.11.2018 година, стр. 39).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 8,
+        "text": "HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:C:2021:010:TOC\" Сл. весник C 10, 11.1.2021 година, стр. 63."
+      },
+      {
+        "ref": "2",
+        "body_index": 9,
+        "text": "Ставот на Европскиот парламент од 6 јули 2018 година (сѐ уште не е објавен во Службениот весник) и одлуката на Советот од 12 јули 2021 година."
+      },
+      {
+        "ref": "3",
+        "body_index": 11,
+        "text": "Директива 2002/58/EЗ на Европскиот парламент и на Советот од 12 јули 2002 година за обработка на личните податоци и заштита на приватноста во секторот за електронски комуникации (Директивата за приватност и електронски комуникации) ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2002:201:TOC\" Сл. весник L 201, 31.7.2002 година, стр. 37)."
+      },
+      {
+        "ref": "4",
+        "body_index": 11,
+        "text": "Регулатива (ЕЗ) бр. 2016/679 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физички лица во врска со обработка на личните податоци и за слободното движење на таквите податоци и за укинување на Директивата 95/46/ЕЗ (Општа регулатива за заштита на податоците) ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2016:119:TOC\" Сл. весник L 119, 12.1.2001 година, стр. 1)."
+      },
+      {
+        "ref": "5",
+        "body_index": 12,
+        "text": "Директива 2002/21/ЕЗ на Европскиот парламент и на Советот од 7 март 2002 година за заедничка регулаторна рамка за мрежи за електронски комуникации и услуги (Рамковна директива) ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2002:108:TOC\" Сл. весник L 108, 24.4.2002 г.одина, стр. 33)."
+      },
+      {
+        "ref": "6",
+        "body_index": 12,
+        "text": "Директива (ЕУ) 2018/1972 на Европскиот парламент и на Советот од 11 декември 2018 година за воспоставување Европскиот законик за електронски комуникации ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:321:TOC\" Сл. весник L 321, 17.12.2018 г.одина, стр. 36)."
+      },
+      {
+        "ref": "7",
+        "body_index": 16,
+        "text": "Директива 2011/93/ЕУ на Европскиот парламент и на Советот од 13 декември 2011 година за борба против сексуална злоупотреба и сексуална експлоатација на деца и детска порнографија и заменување на Рамковната одлука на Советот 2004/68/ЈХА ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2011:335:TOC\" Сл. весник L 335, 17.12.2011 г.одина, стр. 1)."
+      },
+      {
+        "ref": "8",
+        "body_index": 46,
+        "text": "Регулатива (ЕЗ) бр. 2018/1725 на Европскиот парламент и на Советот од 23 октомври 2018 година за заштита на физички лица во врска со обработка на личните податоци од страна на институции на Европската Унија, органи, служби и агенции и за слободното движење на таквите податоци, и за укинување на Регулативата 45/2001 и Одлуката 1247/2002/ЕЗ ( HYPERLINK \"https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:295:TOC\" Сл. весник L 295, 21.11.2018 година, стр. 39)."
+      }
+    ]
+  },
+  "dry_run": true
+}

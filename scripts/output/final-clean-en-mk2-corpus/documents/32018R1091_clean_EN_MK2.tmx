@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210710T201442Z" creationid="HP\a">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32018R1091_MK1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32018R1091</prop>
+    <prop type="x-SourceTMX">32018R1091_MK1.tmx</prop>
+    <prop type="x-SourceTMXSHA256">88981892980717c3f48fd9d68c7a8609e0bb380a98e1f75ef7c527e51821ce41</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">3</prop>
+  </header>
+  <body>
+    <tu creationdate="20210215T142408Z" creationid="NORSHA\marij" changedate="20210605T061657Z" changeid="NORSHA\marij" lastusagedate="20210606T212110Z" usagecount="7">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>REGULATION (EU) 2018/1091 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) 2018/1091 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1091</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210530T203107Z" creationid="NORSHA\marij" changedate="20210605T062753Z" changeid="NORSHA\marij" lastusagedate="20210606T212110Z" usagecount="7">
+      <prop type="x-Context">4253238372150105122, -5787162811525255239</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 18 July 2018 on integrated farm statistics and repealing Regulations (EC) No 1166/2008 and (EU) No 1337/2011</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 18 јули 2018 година за интегрирани статистики на земјоделските стопанства и за укинување на Регулативите (ЕЗ) бр. 1166/2008 и (ЕУ) бр. 1337/2011</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1091</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T075324Z" creationid="NORSHA\marij" changedate="20210606T174344Z" changeid="NORSHA\marij" lastusagedate="20210606T212111Z" usagecount="6">
+      <prop type="x-Context">-8024027842448787709, 4106399901705765962</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the purpose of obtaining the data referred to in this Regulation, Member States shall use one or more of the following sources or methods, provided that the information allows for the production of statistics that meet the quality requirements laid down in Article 11:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 4 Извори и методи на податоци Заради добивање на податоците на кои се упатува во оваа регулатива, земјите членки ги употребуваат еден или повеќе од следниве извори или методи, при што информациите дозволуваат да се изработи статистика што ги исполнува барањата за квалитет утврдени во член 11:</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1091</prop>
+      <prop type="x-SourceTUIndex">146</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

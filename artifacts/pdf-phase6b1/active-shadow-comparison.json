@@ -1,0 +1,10 @@
+{
+  "status": "EXPECTED_NO_ACTIVE_DOCX_AT_IMPORT_POINT",
+  "celex": "32008L0050",
+  "activeDocxSha256": null,
+  "shadowDocxSha256": "a188cb1461ee7813cf87fae95b57f620687ed4496b34525da68620bc9f295991",
+  "interpretation": "Normal CELEX import persists an authoritative PDF/version and invokes shadow before any separately user-triggered PDF-to-DOCX working-document conversion.",
+  "shadowSubstitutedForActiveDocx": false,
+  "shadowDocxPersisted": false,
+  "fullDocxComparisonAvailable": false
+}

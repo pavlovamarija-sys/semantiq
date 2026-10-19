@@ -1,0 +1,278 @@
+{
+  "celex": "32021R0667",
+  "dry_run": true,
+  "source_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R0667\\TMX_MK1\\32021R0667_MK1.tmx"
+  ],
+  "mk2_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R0667\\MK2\\32021R0667_MK2.docx"
+  ],
+  "original_tmx_sha256": "d3068caf4dfb1aea5016297093e8d08b47a21baa28864dce89891110201e97ef",
+  "mk2_sha256": "fc94c797224f23ea84505856337a6b757dd3bf9c8a8b278baf6a0b5371870366",
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL IMPLEMENTING REGULATION (EU) 2021/667",
+      "mk1": "РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/667 НА СОВЕТОТ",
+      "status": "HIGH",
+      "target": "РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/667 НА СОВЕТОТ",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 23 April 2021",
+      "mk1": "од 23 април 2021 година",
+      "status": "HIGH",
+      "target": "од 23 април 2021 година",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 3,
+      "en": "implementing Article 21(2) of Regulation (EU) 2016/44 concerning restrictive measures in view of the situation in Libya",
+      "mk1": "за спроведување на член 21(2) од Регулативата (ЕУ) за рестриктивни мерки во однос на состојбата во Либија",
+      "status": "HIGH",
+      "target": "за спроведување на член 21(2) од Регулативата (ЕУ) за рестриктивни мерки во однос на состојбата во Либија",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 23 April 2021",
+      "mk1": "од 23 април 2021 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 3,
+      "en": "implementing Article 21(2) of Regulation (EU) 2016/44 concerning restrictive measures in view of the situation in Libya",
+      "mk1": "за спроведување на член 21(2) од Регулативата (ЕУ) за рестриктивни мерки во однос на состојбата во Либија",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 4,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "UNMATCHED",
+      "target": "имајќи ја предвид Р",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирањето на Европската Унија,",
+      "status": "UNMATCHED",
+      "target": "егулативата 2016/44 на Советот од 18 јануари 2",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to Council Regulation (EU) 2016/44 of 18 January 2016 concerning restrictive measures in view of the situation in Libya and repealing Regulation (EU) No 204/2011 (), and in particular Article 21(2) thereof,",
+      "mk1": "имајќи ја предвид Регулативата 2016/44 на Советот од 18 јануари 2016 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на  Регулативата (ЕУ) бр. 204/2011  (), а особено член 21(2) од истата,",
+      "status": "REVIEW",
+      "target": "016 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на Регулативата (ЕУ) бр. 204/2011 (), а особено член 21(2) од истата,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирањето на Европската Унија,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to Council Regulation (EU) 2016/44 of 18 January 2016 concerning restrictive measures in view of the situation in Libya and repealing Regulation (EU) No 204/2011 (), and in particular Article 21(2) thereof,",
+      "mk1": "имајќи ја предвид Регулативата 2016/44 на Советот од 18 јануари 2016 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на  Регулативата (ЕУ) бр. 204/2011  (), а особено член 21(2) од истата,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 7,
+      "en": "OJ L 12, 19.1.2016, p. 1.",
+      "mk1": "Сл. весник L 12, 19.1. 2016 година, стр. 1.",
+      "status": "UNMATCHED",
+      "target": "(1)На 18 јануари 2016 годин",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 8,
+      "en": "(1)\tOn 18 January 2016, the Council adopted Regulation (EU) 2016/44.",
+      "mk1": "(1)\tНа 18 јануари 2016 година, Советот ја донесе Регулативата (ЕУ) 2016/44.",
+      "status": "REVIEW",
+      "target": "а, Советот ја донесе Регулативата (ЕУ) 2016/44.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 8,
+      "en": "(1)\tOn 18 January 2016, the Council adopted Regulation (EU) 2016/44.",
+      "mk1": "(1)\tНа 18 јануари 2016 година, Советот ја донесе Регулативата (ЕУ) 2016/44.",
+      "status": "UNMATCHED",
+      "target": "(2)Внесот за едно лице треба да се избрише бидејќи е починато. (3)Затоа",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 9,
+      "en": "(3)\tAnnex III to Regulation (EU) 2016/44 should therefore be amended accordingly,",
+      "mk1": "(3)\tЗатоа, Анекс III кон Регулативата (ЕУ) бр. 2016/44 треба соодветно да се измени.",
+      "status": "HIGH",
+      "target": ", Анекс III кон Регулативата (ЕУ) бр. 2016/44 треба соодветно да се измени,. ЈА",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 10,
+      "en": "HAS ADOPTED THIS REGULATION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "status": "HIGH",
+      "target": "ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 9,
+      "en": "(3)\tAnnex III to Regulation (EU) 2016/44 should therefore be amended accordingly,",
+      "mk1": "(3)\tЗатоа, Анекс III кон Регулативата (ЕУ) бр. 2016/44 треба соодветно да се измени.",
+      "status": "UNMATCHED",
+      "target": "Член 1 Анекс III кон Регулативата (ЕУ) 2016/4",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 10,
+      "en": "HAS ADOPTED THIS REGULATION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "status": "UNMATCHED",
+      "target": "4 се изменува",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 11,
+      "en": "Annex III to Regulation (EU) 2016/44 is amended in accordance with the Annex to this Regulation.",
+      "mk1": "Анекс III кон Регулативата (ЕУ) 2016/44 се изменува во согласност со Анексот кон оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "во согласност со Анексот кон оваа регулатива. Член 2",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 10,
+      "en": "HAS ADOPTED THIS REGULATION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 11,
+      "en": "Annex III to Regulation (EU) 2016/44 is amended in accordance with the Annex to this Regulation.",
+      "mk1": "Анекс III кон Регулативата (ЕУ) 2016/44 се изменува во согласност со Анексот кон оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 12,
+      "en": "Article 2",
+      "mk1": "Член 2",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 13,
+      "en": "This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила на денот по нејзиното објавување во Службениот весник на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 14,
+      "en": "The President",
+      "mk1": "Претседател",
+      "status": "UNMATCHED",
+      "target": "За Советот Претседател",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 15,
+      "en": "In Regulation (EU) 2016/44, Annex III (List of natural and legal persons, entities or bodies referred to in Article 6(2)), Part A (Persons), entry 9 (concerning AL-GAOUD, Abdelmajid) is deleted.",
+      "mk1": "Во Регулативата (ЕУ) 2016/44, Анекс III (Список на физички и правни лица, субјекти или тела наведени во член 6(2)), Дел А (Лица), внес 9 (во однос на AL-GAOUD, Abdelmajid) се брише.",
+      "status": "HIGH",
+      "target": "А. П. ЗАКАРИЈАС АНЕКС Во Регулативата (ЕУ) 2016/44, Анекс III (Список на физички и правни лица, субјекти или тела наведени во член 6(2)), Дел А (Лица), внесот 9 (во однос наза AL-GAOUD, Abdelmajid) се брише.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 16,
+      "en": "Having regard to the proposal of the High Representative of the Union for Foreign Affairs and Security Policy,",
+      "mk1": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 17,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 18,
+      "en": "(2)\tThe entry for one person should be deleted as he is deceased.",
+      "mk1": "(2)\tВнесот за едно лице треба да се избрише бидејќи е починато.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 19,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "mk1": "Оваа регулатива е обврзувачка во целост и директно применвлива во сите земји- членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 20,
+      "en": "Done at Brussels, 23 April 2021.",
+      "mk1": "Брисел, 23 април 2021 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 21,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 22,
+      "en": "A. P. ZACARIAS",
+      "mk1": "А. П. ЗАКАРИАС",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 23,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    }
+  ],
+  "accepted_indices": [
+    1,
+    2,
+    3,
+    9,
+    10,
+    15
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "workerSuite": {"status": "PASS", "passed": 38, "warnings": 1},
+  "shadowIsolation": "PASS",
+  "featureFlagDefaultOff": "PASS by helper contract",
+  "forcedMalformedInput": "PASS",
+  "threeFixtureRegressions": "PASS",
+  "typescriptTypecheck": "PASS",
+  "controlledRealImport": "NOT_RUN"
+}

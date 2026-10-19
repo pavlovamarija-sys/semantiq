@@ -1,0 +1,386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20260119T155649Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">najnova_tm</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32025R0392</prop>
+    <prop type="x-SourceTMX">32025R0392_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">d3c4896473b2391c1aa46bff63fa95a15c9de5d76a17b94f9ff12dca69be3690</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">23</prop>
+  </header>
+  <body>
+    <tu creationdate="20220920T170057Z" creationid="PC" changedate="20260119T121050Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL REGULATION (EU) 2025/392</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) 2025/392 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T112714Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T121050Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5531774718131007211, 514976314266711368</prop>
+      <prop type="x-ContextContent">COUNCIL REGULATION (EU) 2025/392 |  | РЕГУЛАТИВА (ЕУ) 2025/392 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 24 February 2025</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 24 февруари 2025 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T112714Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T121156Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3657596318, -3840010912057709433</prop>
+      <prop type="x-ContextContent">of 24 February 2025 |  | од 24 февруари 2025 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>amending Regulation (EC) No 765/2006 concerning restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за изменување на Регулативата (ЕЗ) бр. 765/2006 за рестриктивни мерки поради состојбата во Белорусија и вклученоста на Белорусија во руската агресија врз Украина</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T111257Z" creationid="PC" changedate="20260119T121158Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5529779644093689530, -7867190104417418832</prop>
+      <prop type="x-ContextContent">amending Regulation (EC) No 765/2006 concerning restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine |  | за изменување на Регулативата (ЕЗ) бр. 765/2006 за рестриктивни мерки поради состојбата во Белорусија и вклученоста на Белорусија во руската агресија врз Украина | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220703T070127Z" creationid="М" changedate="20260119T121202Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-ContextContent">THE COUNCIL OF THE EUROPEAN UNION, |  | СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Article 215 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија, а особено член 215 од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T121202Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T122605Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1333417285834173202, -1562503264613108206</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 215 thereof, |  | имајќи го предвид Договорот за функционирање на Европската Унија, а особено член 215 од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Council Decision (CFSP) 2025/391 of 24 February 2025 amending Decision 2012/642/CFSP concerning restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine <ph x="1" type="910" />,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Одлуката (ЗНБП) 2025/391 на Советот од 24 февруари 2025 година за изменување на Одлуката 2012/642/ЗНБП за рестриктивни мерки поради состојбата во Белорусија и вклученоста на Белорусија во руската агресија врз Украина,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T122614Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T122639Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3520251291494, -1473885434305972833</prop>
+      <prop type="x-ContextContent">Whereas: |  | со оглед на тоа што: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(1)	On 18 May 2006, the Council adopted Regulation (EC) No 765/2006 <ph x="1" type="947" />.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(1)На 18 мај 2006 година, Советот ја донесе Регулативата (ЕЗ) бр. 765/2006..</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">10</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T123601Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T123626Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">517721639442143708, 7913377291569185034</prop>
+      <prop type="x-ContextContent">(6)	Decision (CFSP) 2025/391 imposes further restrictions on exports of goods which could contribute to the enhancement of Belarusian industrial capacities, such as chemical elements, pyrotechnic articles and combustible materials. |  | (6)	Одлуката (ЗНБП) 2025/391 воведува дополнителни ограничувања на извозот на стоки кои би можеле да придонесат за унапредување на индустриските капацитети на Белорусија, како што се хемиски елементи, пиротехнички производи и запаливи материјали. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(7)	Furthermore, in order to minimise the risk of circumvention of restrictive measures, Decision (CFSP) 2025/391 further extends the list of goods and technology subject to the prohibition on transit via the territory of Belarus of machinery and of goods which could contribute, in particular, to the enhancement of Belarusian industrial capacities.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(7)Исто така, со цел да се минимизира ризикот од заобиколување на рестриктивните мерки, Одлуката (ЗНБП) 2025/391 дополнително ја го проширува листата списокот на стоки и технологии што подлежат на забрана за транзит преку територијата на Белорусија, вклучително и машини и стоки, кои, особено, би можеле да придонесат за унапредување на индустриските капацитети на Белору</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T123626Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T123820Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2508994946134782730, 528242248330097183</prop>
+      <prop type="x-ContextContent">(7)	Furthermore, in order to minimise the risk of circumvention of restrictive measures, Decision (CFSP) 2025/391 further extends the list of goods and technology subject to the prohibition on transit via the territory of Belarus of machinery and of goods which could contribute, in particular, to the enhancement of Belarusian industrial capacities. |  | (7)	Исто така, со цел да се минимизира ризикот од заобиколување на рестриктивните мерки, Одлуката (ЗНБП) 2025/391 дополнително ја проширува листата на стоки и технологии што подлежат на забрана за транзит преку територијата на Белорусија, вклучително и машини и стоки кои, особено, би можеле да придонесат за унапредување на индустриските капацитети на Белорусија. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(8)	Decision (CFSP) 2025/391 establishes derogations for the provision of certain goods and machinery necessary for civilian non-publicly available electronic communications networks.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>сија. (8)Одлуката (ЗНБП) 2025/391 дозволува отстапувања за обезбедување на одредени стоки и машини неопходни за цивилни електронски комуникациски мрежи кои што не се достапни за јавн</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T123820Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T123840Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7290580978953619442, 1810682401133097534</prop>
+      <prop type="x-ContextContent">(8)	Decision (CFSP) 2025/391 establishes derogations for the provision of certain goods and machinery necessary for civilian non-publicly available electronic communications networks. |  | (8)	Одлуката (ЗНБП) 2025/391 дозволува отстапувања за обезбедување на одредени стоки и машини неопходни за цивилни електронски комуникациски мрежи кои не се достапни за јавноста. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(9)	Additionally, Decision (CFSP) 2025/391 introduces further restrictions on the import of primary aluminium, which allows Belarus to diversify its sources of revenue, thereby enabling its involvement in the Russian aggression against Ukraine.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>оста. (9)Исто така, Одлуката (ЗНБП) 2025/391 воведува дополнителни ограничувања за увоз на примарен алуминиум, што ѝ овозможува на Белорусија да ги диверзифицира своите извори на приходи, со што се овозможува нејзиното учество во руската агресија против Украина.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T123840Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T123925Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8163935130121809663, -6595161355226156563</prop>
+      <prop type="x-ContextContent">(9)	Additionally, Decision (CFSP) 2025/391 introduces further restrictions on the import of primary aluminium, which allows Belarus to diversify its sources of revenue, thereby enabling its involvement in the Russian aggression against Ukraine. |  | (9)	Исто така, Одлуката (ЗНБП) 2025/391 воведува дополнителни ограничувања за увоз на примарен алуминиум, што ѝ овозможува на Белорусија да ги диверзифицира своите извори на приходи, со што се овозможува нејзиното учество во руската агресија против Украина. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(10)	Decision (CFSP) 2025/391 imposes a restriction on the sale, supply, transfer, export or provision of software related to oil and gas exploration in order to further restrict the oil and gas exploration and production capacities of Belarus and minimise the risk of circumvention of restrictive measures via the territory of Belarus.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(10)Одлуката (ЗНБП) 2025/391 воведува ограничување на продажбата, снабдувањето, преносот, извозот или обезбедувањето на софтвер поврзан со истражување на нафта и гас, со цел дополнително да се ограничат капацитетите за истражување и производство на нафта и гас на Белорусија и да се минимизира ризикот од заобиколување на рестриктивните мерки преку територијата на Белорусија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T123925Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T124007Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4833196176821532321, 7368027287008053767</prop>
+      <prop type="x-ContextContent">(10)	Decision (CFSP) 2025/391 imposes a restriction on the sale, supply, transfer, export or provision of software related to oil and gas exploration in order to further restrict the oil and gas exploration and production capacities of Belarus and minimise the risk of circumvention of restrictive measures via the territory of Belarus. |  | (10)	Одлуката (ЗНБП) 2025/391 воведува ограничување на продажбата, снабдувањето, преносот, извозот или обезбедувањето на софтвер поврзан со истражување на нафта и гас, со цел дополнително да се ограничат капацитетите за истражување и производство на нафта и гас на Белорусија и да се минимизира ризикот од заобиколување на рестриктивните мерки преку територијата на Белорусија. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(11)	In order to prevent Union operators from contributing to the development of Belarus’s infrastructure, Decision (CFSP) 2025/391 introduces a prohibition on the provision of construction services, including civil engineering works.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(11)Со цел да се спречи операторите на Унијата да придонесуваат за развојот на инфраструктурата на Белорусија, Одлуката (ЗНБП) 2025/391 воведува забрана за давање на градежни услуги, вклучително и градежно-инженерски работи.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T124130Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T124407Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8195171411774811159, 4013132515697678586</prop>
+      <prop type="x-ContextContent">Decision (CFSP) 2025/391 clarifies that the sale, license or transfer in any other way of intellectual property rights or trade secrets related to that software is prohibited. |  | Одлуката (ЗНБП) 2025/391 појаснува дека продажбата, лиценцирањето или преносот на кој било друг начин на права од интелектуална сопственост или трговски тајни поврзани со тој софтвер е забранет. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(13)	Decision (CFSP) 2025/391 introduces a derogation from the prohibition on the provision of construction, architectural and engineering services, legal advisory services and IT consultancy services where those services are strictly necessary for the functioning of a consular or diplomatic representation of Belarus located in a Member State.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ој софтвер е забранет. (13)Одлуката (ЗНБП) 2025/391 воведува отстапување од забраната за обезбедување на градежни, архитектонски и инженерски услуги, правни советодавни услуги и ИТ- консултантски услуги, кога тие услуги се строго неопходни за функционирањето на конзуларно или дипломатско претставништво на Белорусија кое што се наоѓа во некоја земја членка.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">26</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T124401Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T124429Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3989235722237810111, 5160086915889232582</prop>
+      <prop type="x-ContextContent">(13)	Decision (CFSP) 2025/391 introduces a derogation from the prohibition on the provision of construction, architectural and engineering services, legal advisory services and IT consultancy services where those services are strictly necessary for the functioning of a consular or diplomatic representation of Belarus located in a Member State. |  | (13)	Одлуката (ЗНБП) 2025/391 воведува отстапување од забраната за обезбедување на градежни, архитектонски и инженерски услуги, правни советодавни услуги и ИТ консултантски услуги, кога тие услуги се строго неопходни за функционирањето на конзуларно или дипломатско претставништво на Белорусија кое се наоѓа во некоја земја членка. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(14)	Decision (CFSP) 2025/391 expands the scope of the prohibition on accepting deposits to include those from legal persons, entities or bodies established in third countries and majority-owned by Belarusian nationals or natural persons residing in Belarus.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(14)Одлуката (ЗНБП) 2025/391 го проширува опфатот на забраната за прифаќање депозити за да ги опфати и оние од правни лица, субјекти или тела основани во трети земји и во мнозинска сопственост на белоруски државјани на Белорусија или физички лица со престој во Белорусија. Исто</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">27</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T124430Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T124447Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2140192623265049912, -7393118042343634379</prop>
+      <prop type="x-ContextContent">(14)	Decision (CFSP) 2025/391 expands the scope of the prohibition on accepting deposits to include those from legal persons, entities or bodies established in third countries and majority-owned by Belarusian nationals or natural persons residing in Belarus. |  | (14)	Одлуката (ЗНБП) 2025/391 го проширува опфатот на забраната за прифаќање депозити за да ги опфати и оние од правни лица, субјекти или тела основани во трети земји и во мнозинска сопственост на белоруски државјани или физички лица со престој во Белорусија. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Additionally, it subjects the acceptance of deposits for non-prohibited cross-border trade to a prior authorisation by the national competent authorities.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>така, таа го подложува прифаќањето депозити за дозволена прекугранична трговија подлежиподложи на претходно одобрение од надлежните национални органи.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">28</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T124447Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T124510Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8214415490178766731, 7450644695542371411</prop>
+      <prop type="x-ContextContent">Additionally, it subjects the acceptance of deposits for non-prohibited cross-border trade to a prior authorisation by the national competent authorities. |  | Исто така, таа го подложува прифаќањето депозити за дозволена прекугранична трговија на претходно одобрение од надлежните национални органи. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(15)	Decision (CFSP) 2025/391 prohibits the provision of crypto-asset wallet, account or custody services to Belarusian persons and residents and, in order to limit circumvention of this prohibition, it includes a prohibition on Belarusian nationals or natural persons residing in Belarus owning or controlling, or holding any posts on the governing bodies of, the legal persons, entities or bodies providing such services.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(15)Одлуката (ЗНБП) 2025/391 забранува обезбедување услуги за крипто-паричници, сметки или услуги за чување на крипто-средства на белоруски лица граѓаниод и на резиденти на Белорусија и, со цел да се ограничи заобиколувањето на оваа забрана, вклучува забрана белоруски државјани на или физички лица со престој во Белорусија да поседуваат, или да контролираат, или да вршат какви било функции во управните тела на правните лица, субјекти или тела што обезбедуваат</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">29</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T124510Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T133819Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7809227511160614803, -3488533118877466228</prop>
+      <prop type="x-ContextContent">(15)	Decision (CFSP) 2025/391 prohibits the provision of crypto-asset wallet, account or custody services to Belarusian persons and residents and, in order to limit circumvention of this prohibition, it includes a prohibition on Belarusian nationals or natural persons residing in Belarus owning or controlling, or holding any posts on the governing bodies of, the legal persons, entities or bodies providing such services. |  | (15)	Одлуката (ЗНБП) 2025/391 забранува обезбедување услуги за крипто-паричници, сметки или услуги за чување на крипто-средства на белоруски лица и резиденти и, со цел да се ограничи заобиколувањето на оваа забрана, вклучува забрана белоруски државјани или физички лица со престој во Белорусија да поседуваат или контролираат, или да вршат какви било функции во управните тела на правните лица, субјекти или тела што обезбедуваат такви услуги. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(16)	In order to facilitate the work of civil society and media, Decision (CFSP) 2025/391 also introduces an exemption from the prohibition on the sale, supply, transfer or export of banknotes denominated in any official currency of a Member State to or for use in Belarus, where it is necessary for use in civil society and media activities that directly promote democracy, human rights or the rule of law in Belarus, under certain conditions.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>такви услуги. (16)Со цел да се олесни работата на граѓанското општество и на медиумите, Одлуката (ЗНБП) 2025/391 воведува и исклучок од забраната за продажба, снабдување, пренос или извоз на банкноти деноминирани во која било официјална валута на земја членка, на или за употреба во Белорусија, кога тоа е неопходно за активности на граѓанското општество и медиумите кои што директно ја промовираат демократијата, човековите права или владеењето на правото во Белорусија, под одредени услови.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">30</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T124627Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T124738Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7455352769940364870, 1909003420767014945</prop>
+      <prop type="x-ContextContent">(16)	In order to facilitate the work of civil society and media, Decision (CFSP) 2025/391 also introduces an exemption from the prohibition on the sale, supply, transfer or export of banknotes denominated in any official currency of a Member State to or for use in Belarus, where it is necessary for use in civil society and media activities that directly promote democracy, human rights or the rule of law in Belarus, under certain conditions. |  | (16)	Со цел да се олесни работата на граѓанското општество и медиумите, Одлуката (ЗНБП) 2025/391 воведува и исклучок од забраната за продажба, снабдување, пренос или извоз на банкноти деноминирани во која било официјална валута на земја членка, на или за употреба во Белорусија, кога тоа е неопходно за активности на граѓанското општество и медиумите кои директно ја промовираат демократијата, човековите права или владеењето на правото во Белорусија, под одредени услови. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(17)	In order to minimise the risk of circumvention of restrictive measures, Decision (CFSP) 2025/391 amends the prohibition on the transport of goods by road within the territory of the Union, including in transit, by operators that are owned for 25 % or more by a Belarusian natural or legal person.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(17)Со цел да се минимизира ризикот од заобиколување на рестриктивните мерки, Одлуката (ЗНБП) 2025/391 ја изменува забраната за превоз на стоки по патишта на територијата на Унијата, вклучително и во транзит, од страна што се извршува од на оператори кои што се во сопственост од 25 % или повеќе на белоруско физичко или правно лице. о</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">31</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T124753Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T124823Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2289451044976604365, 3628004536900365408</prop>
+      <prop type="x-ContextContent">(17)	In order to minimise the risk of circumvention of restrictive measures, Decision (CFSP) 2025/391 amends the prohibition on the transport of goods by road within the territory of the Union, including in transit, by operators that are owned for 25 % or more by a Belarusian natural or legal person. |  | (17)	Со цел да се минимизира ризикот од заобиколување на рестриктивните мерки, Одлуката (ЗНБП) 2025/391 ја изменува забраната за превоз на стоки по патишта на територијата на Унијата, вклучително и во транзит, од страна на оператори кои се во сопственост од 25 % или повеќе на белоруско физичко или правно лице. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Entities established in the Union before 8 April 2022 and already operating as road transport undertakings should be prohibited from making any changes to their capital structure that would increase the percentage share owned by a Belarusian natural or legal person, entity or body, unless that percentage share remains below 25 % following such a change.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>д Белорусија. Субјектите основани во Унијата пред 8 април 2022 година и кои веќе работат како патни транспортни претпријатија треба да бидат спречени да прават какви било измени во својата капитална структура што би го зголемиле процентот на сопственост на белоруско физичко или правно лице, субјект или тело од Белорусија, освен ако тој процент остане под 25 % по таквата измена.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">32</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T125033Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T133904Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1684997555650893232, -33697778903893773</prop>
+      <prop type="x-ContextContent">Decision (CFSP) 2025/391 introduces an additional designation criterion which applies to those forming part of, supporting, materially or financially, or benefiting from the military and industrial complex of Belarus. |  | Одлуката (ЗНБП) 2025/391 воведува дополнителен критериум за назначување кој се применува на оние што се дел од, ја поддржуваат, материјално или финансиски, или имаат корист од воено-индустрискиот комплекс на Белорусија. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(19)	Decision (CFSP) 2025/391 introduces a derogation allowing the release of funds that were frozen due to the involvement of a listed intermediary bank in their transfer, under the conditions that the transfer is between two non-listed natural or legal persons, entities or bodies and is carried out using accounts at non-listed credit institutions.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(19)Одлуката (ЗНБП) 2025/391 воведува отстапување што овозможува ослободување на средства кои што биле замрзнати поради вклученост на наведена посредничка банка во листата списокот во нивниот трансфер, под услов трансферот да е меѓу две ненаведени физички или правни лица, субјекти или тела и да се врши преку сметки во ненаведени кредитни институц</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">35</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T125439Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T125541Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1065025706009834249, 7942113162464582001</prop>
+      <prop type="x-ContextContent">(19)	Decision (CFSP) 2025/391 introduces a derogation allowing the release of funds that were frozen due to the involvement of a listed intermediary bank in their transfer, under the conditions that the transfer is between two non-listed natural or legal persons, entities or bodies and is carried out using accounts at non-listed credit institutions. |  | (19)	Одлуката (ЗНБП) 2025/391 воведува отстапување што овозможува ослободување на средства кои биле замрзнати поради вклученост на наведена посредничка банка во листата во нивниот трансфер, под услов трансферот да е меѓу две ненаведени физички или правни лица, субјекти или тела и да се врши преку сметки во ненаведени кредитни институции. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Decision (CFSP) 2025/391 also introduces a derogation allowing the release of funds that were frozen due to the involvement of a listed issuing bank in their transfer under the condition that the transfer is between two non-listed natural or legal persons, entities or bodies.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ии. Одлуката (ЗНБП) 2025/391, исто така, воведува отстапување што овозможува ослободување на средства кои што биле замрзнати поради вклученост на наведенa банка на издавање во нивниот трансфер, под услов трансферот да е меѓу две ненаведени физички или правни лица, субјекти или тела.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">36</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260119T125542Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260119T125602Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000111Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7620569852277181063, 52393534450110195</prop>
+      <prop type="x-ContextContent">Decision (CFSP) 2025/391 also introduces a derogation allowing the release of funds that were frozen due to the involvement of a listed issuing bank in their transfer under the condition that the transfer is between two non-listed natural or legal persons, entities or bodies. |  | Одлуката (ЗНБП) 2025/391, исто така, воведува отстапување што овозможува ослободување на средства кои биле замрзнати поради вклученост на наведенa банка на издавање во нивниот трансфер, под услов трансферот да е меѓу две ненаведени физички или правни лица, субјекти или тела. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(20)	Where necessary to combat the circumvention of the prohibitions set out in Regulation (EC) No 765/2006, the Commission should be able to exchange information concerning third-country trade, transactions and operators with the competent authorities of countries that apply similar restrictive measures.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(20)Кога е неопходно за борба против заобиколувањето на забраните утврдени во Регулативата (ЕЗ) бр. 765/2006, Комисијата треба би требало да може да разменува информации во врска со трговијата со трети земји, трансакциите и операторите со надлежните органи на земјите што применуваат слични рестриктивни мерки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">37</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221231T085913Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260121T122910Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260125T000113Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6683639119371324209, -8289207118765116124</prop>
+      <prop type="x-ContextContent">Category III.Part 1 does not control goods for the personal use of the natural persons. |  | Категорија III.Дел 1 не контролира стока за лична употреба од физички лица. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>X.A.III.101	Telecommunication equipment.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>X.A.III.101Телекомуникациска опрема.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025R0392</prop>
+      <prop type="x-SourceTUIndex">1150</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,1660 @@
+{
+  "celex": "32015L0565",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32015L0565\\TMX_MK1\\32015L0565_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32015L0565\\MK2\\32015L0565_MK2.docx",
+  "tmx_sha256": "73201736e56fd93a3070536e06451c73d0f20d1d8dd9078f0a54507d078f9211",
+  "mk2_sha256": "ee18d233f5c544625361ffea6cf0adeb31898aefe870c3c7b7d28c271bc9a70c",
+  "original_tus": 38,
+  "accepted_tus": 29,
+  "skipped_tus": 9,
+  "acceptance_percent": 76.32,
+  "mk1_coverage": 99.01,
+  "mk2_coverage": 20.37,
+  "accepted_clean_en_chars": 5034,
+  "accepted_clean_mk2_chars": 4989,
+  "results": [
+    {
+      "index": 1,
+      "en": "DIRECTIVES",
+      "mk1": "ДИРЕКТИВИ",
+      "mk2": "ДИРЕКТИВИ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        9
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "COMMISSION DIRECTIVE (EU) 2015/565",
+      "mk1": "ДИРЕКТИВА (ЕУ) Бр. 2015/565 НА КОМИСИЈАТА",
+      "mk2": "ДИРЕКТИВА (ЕУ) 2015/565 НА КОМИСИЈАТА од",
+      "score": 0.9210526315789473,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        1,
+        4
+      ],
+      "mk2_char_span": [
+        10,
+        51
+      ],
+      "evidence": {
+        "token_count": 28,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          4
+        ],
+        "atom_window": [
+          1,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "of 8 April 2015",
+      "mk1": "од 8 април 2015 година",
+      "mk2": "8 април 2015 година за",
+      "score": 0.8636363636363636,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        1,
+        4
+      ],
+      "mk2_char_span": [
+        51,
+        73
+      ],
+      "evidence": {
+        "token_count": 28,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          4
+        ],
+        "atom_window": [
+          1,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 4,
+      "en": "amending Directive 2006/86/EC as regards certain technical requirements for the coding of human tissues and cells",
+      "mk1": "за изменување на Директивата 2006/86/ЕЗ во однос на одредени технички услови за кодирање на човечки ткива и клетки",
+      "mk2": "изменување на Директивата 2006/86/ЕЗ во однос на одредени технички услови за кодирање на човечки ткива и клетки",
+      "score": 0.9866666666666667,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        1,
+        4
+      ],
+      "mk2_char_span": [
+        73,
+        185
+      ],
+      "evidence": {
+        "token_count": 28,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          4
+        ],
+        "atom_window": [
+          1,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 5,
+      "en": "(Text with EEA relevance)",
+      "mk1": "(Текст со важност за ЕЕО)",
+      "mk2": "(Текст со важност за ЕЕО)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        4,
+        5
+      ],
+      "mk2_char_span": [
+        186,
+        211
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          5
+        ],
+        "atom_window": [
+          4,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "THE EUROPEAN COMMISSION,",
+      "mk1": "ЕВРОПСКАТА КОМИСИЈА,",
+      "mk2": "ЕВРОПСКАТА КОМИСИЈА,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        212,
+        232
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          6
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "mk2": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        6,
+        7
+      ],
+      "mk2_char_span": [
+        233,
+        298
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          7
+        ],
+        "atom_window": [
+          6,
+          7
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 8,
+      "en": "Having regard to Directive 2004/23/EC of the European Parliament and of the Council of 31 March 2004 () on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells, and in particular Article 28 thereof,",
+      "mk1": "имајќи ја предвид Директивата 2004/23/ЕЗ на Европскиот парламент и на Советот од 31 март 2004 година () за утврдување на стандарди за квалитет и безбедност при донирање, набавка, тестирање, обработка, зачувување, складирање и дистрибуција на човечки ткива и клетки, а особено член 28 од истата,",
+      "mk2": "имајќи ја предвид Директивата 2004/23/ЕЗ на Европскиот парламент и на Советот од 31 март 2004 година () за утврдување на стандарди за квалитет и безбедност при донирање, набавка, тестирање, обработка, зачувување, складирање и дистрибуција на човечки ткива и клетки, а особено член 28 од истат",
+      "score": 0.9982363315696648,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        7,
+        9
+      ],
+      "mk2_char_span": [
+        299,
+        591
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          7,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 9,
+      "en": "OJ L 102, 7.4.2004, p. 48.",
+      "mk1": "Сл. весник L 102, 7 април 2004 година., стр. 48",
+      "mk2": "а, Сл. весник L 102, 7.4.2004 година, стр. 48 с",
+      "score": 0.8809523809523809,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        7,
+        9
+      ],
+      "mk2_char_span": [
+        591,
+        638
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          7,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 10,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "о оглед на тоа што:",
+      "score": 0.972972972972973,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        7,
+        9
+      ],
+      "mk2_char_span": [
+        638,
+        657
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          7,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 11,
+      "en": "Directive 2004/23/EC requires that Member States ensure the traceability of human tissues and cells from the donor to the recipient and vice versa.",
+      "mk1": "Директивата 2004/23/ЕЗ бара од земјите членки да обезбедат следливост на човечките ткива и клетки од донаторот до примателот и обратно.",
+      "mk2": "Директивата 2004/23/ЕЗ бара од земјите членки да обезбедат следливост на човечките ткива и клетки од донаторот до примателот и обратно.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        658,
+        793
+      ],
+      "evidence": {
+        "token_count": 20,
+        "references_preserved": true,
+        "neighbor_window": [
+          11,
+          11
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 12,
+      "en": "In order to facilitate traceability it is necessary to establish a unique identifier applied to tissues and cells distributed in the Union (Single European Code) providing information on the main characteristics and properties of those tissues and cells.",
+      "mk1": "Со цел да се олесни следливоста, потребно е да се воспостави единствен идентификатор применлив на ткивата и клетките дистрибуирани во Унијата (единствен европски код), што обезбедува информации за главните карактеристики и својства на тие ткива и клетки.",
+      "mk2": "Со цел да се олесни следливоста, потребно е да се воспостави единствен идентификатор применлив на ткивата и клетките дистрибуирани во Унијата (единствен европски код), што обезбедува информации за главните карактеристики и својства на тие ткива и клетки.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        10,
+        11
+      ],
+      "mk2_char_span": [
+        794,
+        1048
+      ],
+      "evidence": {
+        "token_count": 37,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          12
+        ],
+        "atom_window": [
+          10,
+          11
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 13,
+      "en": "In order to ensure a uniform implementation of the Single European Code throughout the Union, obligations of the Member States competent authorities and of the tissue establishments for the application of the Single European Code should be set out.",
+      "mk1": "За да се обезбеди еднообразна примена на Единствениот европски код низ целата Унија, треба да се утврдат обврските на надлежните органи на земјите членки и на банките за ткива за примената на единствениот европски код.",
+      "mk2": "За да се обезбеди осигури еднообразноа примена спроведување на Единствениот европски код низ целата Унија, треба да се утврдат обврските на надлежните органи на земјите членки и на банките за ткива за примената на единствениот европски",
+      "score": 0.9422222222222222,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        1049,
+        1284
+      ],
+      "evidence": {
+        "token_count": 50,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          14
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 14,
+      "en": "Only this approach will guarantee a consistent and coherent application of the code in the Union.",
+      "mk1": "Само овој пристап ќе гарантира постојана и усогласена примена на кодот во Унијата.",
+      "mk2": "код. Само овој пристап ќе гарантира постојана и усогласена примена на кодот во Унијата.",
+      "score": 0.9759036144578314,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        1284,
+        1372
+      ],
+      "evidence": {
+        "token_count": 50,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          14
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 15,
+      "en": "Traceability from donor to recipient and vice versa should be ensured through coding of tissues and cells and through accompanying documentation.",
+      "mk1": "Следливоста од донатор до примател и обратно треба да се осигури со кодирање на ткивата и клетките и со придружната документација.",
+      "mk2": "Следливоста од донатор до примател и обратно треба да се осигури со кодирање на ткивата и клетките и со придружната документација. Од",
+      "score": 0.9885057471264368,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        1373,
+        1507
+      ],
+      "evidence": {
+        "token_count": 108,
+        "references_preserved": true,
+        "neighbor_window": [
+          15,
+          17
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 16,
+      "en": "At the recipient end, the Single European Code provides information on the donation and on the tissue establishment responsible for the procurement of tissues and cells.",
+      "mk1": "Од гледна точка на примателот единствениот европски код обезбедува информации за донацијата и за банката на ткива што е одговорна за набавка на ткива и клетки.",
+      "mk2": "гледна точка на примателот, единствениот европски код обезбедува информации за донацијата и за банката на ткива што е одговорна за набавка на ткива и клетки. Од гле",
+      "score": 0.96875,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        1507,
+        1671
+      ],
+      "evidence": {
+        "token_count": 108,
+        "references_preserved": true,
+        "neighbor_window": [
+          15,
+          17
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 17,
+      "en": "At the donor end, the tissue establishment responsible for the procurement of tissues and cells may track the tissues and cells distributed for human application by requesting the next operators in the chain to provide data related to the use of the tissues and cells based on the donation identification elements of the Single European Code as contained in the accompanying documentation.",
+      "mk1": "Од гледна точка на донаторот банката на ткива што е одговорна за собирање ткива и клетки може да ги следи дистрибуираните ткива и клетки за човечка употреба барајќи од другите оператори во ланецот да обезбедат податоци за употребата на ткивата и клетките врз основа на елементите за идентификација на донирањето од Единствениот европски код, што го содржи придружната документација.",
+      "mk2": "дна точка на донаторот, банката на ткива што е одговорна за собирање набавка на ткива и клетки може да ги следи дистрибуираните ткива и клетки за човечка употребапримена, барајќи од другите оператори во ланецот да обезбедат податоци за употребата на ткивата и клетките врз основа на елементите за идентификација на донирањето од Единствениот европски код, што го содржи придружната документација.",
+      "score": 0.9689119170984456,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        1671,
+        2067
+      ],
+      "evidence": {
+        "token_count": 108,
+        "references_preserved": true,
+        "neighbor_window": [
+          15,
+          17
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 18,
+      "en": "The format of the Single European Code should be harmonised in order to facilitate its application by small and large establishments, whilst allowing some flexibility for establishments to continue using existing codes.",
+      "mk1": "Форматот на единствениот европски код треба да се усогласи со цел да се олесни неговата примена кај малите и големите банки, а воедно да им се овозможи и одредена флексибилност да продолжат да ги користат постојните ознаки.",
+      "mk2": "Форматот на единствениот европски код треба да се усогласи со цел да се олесни неговата примена кај малите и големите банки, а воедно да им се овозможи и одредена флексибилност да продолжат да ги користат постојните ознакикодови.",
+      "score": 0.9866071428571429,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        13,
+        14
+      ],
+      "mk2_char_span": [
+        2068,
+        2297
+      ],
+      "evidence": {
+        "token_count": 37,
+        "references_preserved": true,
+        "neighbor_window": [
+          18,
+          18
+        ],
+        "atom_window": [
+          13,
+          14
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 19,
+      "en": "A Single European Code allowing for donation and product identification should be allocated to all tissues and cells distributed for human application, including those imported from third countries.",
+      "mk1": "Единствен европски код што овозможува донирање и идентификацијата на производот треба да се додели на сите ткива и клетки дистрибуирани за човечка употреба, вклучително и на оние увезени од трети земји.",
+      "mk2": "Единствениот европски код што овозможува донирање и идентификацијата на производот треба да се додели на сите ткива и клетки дистрибуирани за човечка употребапримена, вклучително и на оние увезени од трети земј",
+      "score": 0.9731051344743277,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        14,
+        15
+      ],
+      "mk2_char_span": [
+        2298,
+        2508
+      ],
+      "evidence": {
+        "token_count": 42,
+        "references_preserved": true,
+        "neighbor_window": [
+          19,
+          20
+        ],
+        "atom_window": [
+          14,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 20,
+      "en": "Member States may allow certain exemptions from the application of the code.",
+      "mk1": "Земјите членки можат да дозволат одредени исклучоци за примената на кодот.",
+      "mk2": "и. Земјите членки можат да дозволат одредени исклучоци за примената на кодот.",
+      "score": 0.9864864864864865,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        14,
+        15
+      ],
+      "mk2_char_span": [
+        2508,
+        2585
+      ],
+      "evidence": {
+        "token_count": 42,
+        "references_preserved": true,
+        "neighbor_window": [
+          19,
+          20
+        ],
+        "atom_window": [
+          14,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 21,
+      "en": "Where tissues and cells are excluded or exempted from the application of the Single European Code, the Member States should ensure that appropriate traceability of these tissues and cells is guaranteed throughout the entire chain from donation and procurement to human application.",
+      "mk1": "Кога ткивата и клетките се исклучени или изземени од примената на единствениот европски код, земјите членки треба да обезбедат соодветна следливост на овие ткива и клетки низ целиот ланец, од донирањето и набавката до примената кај луѓето.",
+      "mk2": "Кога Ако ткивата и клетките се исклучени или изземени од примената на единствениот европски код, земјите членки треба да обезбедат соодветна следливост на овие ткива и клетки низ целиот ланец, од донирањето и набавката до примената кај луѓеточовечката примена.",
+      "score": 0.9574036511156186,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        15,
+        16
+      ],
+      "mk2_char_span": [
+        2586,
+        2846
+      ],
+      "evidence": {
+        "token_count": 39,
+        "references_preserved": true,
+        "neighbor_window": [
+          21,
+          21
+        ],
+        "atom_window": [
+          15,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 22,
+      "en": "In situations where tissues and cells are released for circulation, other than for distribution (such as transfer to another operator for further processing with or without return), as a minimum the donation identification sequence should be applied at least in the accompanying documentation.",
+      "mk1": "Во ситуации кога ткивата и клетките се пуштени во промет, освен за дистрибуција (како што е пренесување на друг оператор за понатамошна обработка со или без враќање), треба да се примени минимална следливост за идентификација на донирањето барем во придружната документација.",
+      "mk2": "Во ситуации кога ткивата и клетките се пуштени во промет, освен за дистрибуција (како што е пренесување на друг оператор за понатамошна обработка со или без враќање), секвенцата треба да се примени минимална следливост за идентификација на донирањето треба да се примени како минимум барем во придружната",
+      "score": 0.8982456140350877,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        16,
+        17
+      ],
+      "mk2_char_span": [
+        2847,
+        3151
+      ],
+      "evidence": {
+        "token_count": 102,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          23
+        ],
+        "atom_window": [
+          16,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 23,
+      "en": "Where tissues and cells are transferred from a tissue establishment to another operator just for storage and/or for further distribution, the tissue establishment may already apply the Single European Code on their final label in addition to the donation identification sequence which should be applied at least in the accompanying documentation.",
+      "mk1": "Кога ткивата и клетките се пренесуваат од една банка на ткива до друг оператор само за складирање и/или за понатамошна дистрибуција, банката на ткива може да го постави единствениот европски код на нивната последна етикета во прилог на следливоста за идентификација на донирањето што треба да се содржи барем во придружната документација.",
+      "mk2": "документација. Кога ткивата и клетките се пренесуваат од една банка на ткива до друг оператор само за складирање и/или за понатамошна дистрибуција, банката на ткива може да го постави единствениот европски код на нивната последна крајна етикета, во прилог на следливоста секвенцата за идентификација на донирањето што треба да се содржи барем во придружната документација.",
+      "score": 0.9545454545454546,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        16,
+        17
+      ],
+      "mk2_char_span": [
+        3151,
+        3524
+      ],
+      "evidence": {
+        "token_count": 102,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          23
+        ],
+        "atom_window": [
+          16,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 24,
+      "en": "In the case of tissues and cells retrieved from a deceased donor by procurement teams operating for two or more tissue establishments, Member States shall ensure an appropriate traceability system across procurements.",
+      "mk1": "Во случај на ткива и клетки од починат донатор набавени од тимови кои работат за две или повеќе банки за ткива, земјите членки обезбедуваат соодветен систем за следливост на набавките.",
+      "mk2": "Во случај на ткива и клетки од починат донатор набавени од тимови кои работат за две или повеќе банки за ткива, земјите членки обезбедуваат осигуруваат соодветен систем за следливост на набав",
+      "score": 0.956989247311828,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        17,
+        18
+      ],
+      "mk2_char_span": [
+        3525,
+        3716
+      ],
+      "evidence": {
+        "token_count": 97,
+        "references_preserved": true,
+        "neighbor_window": [
+          24,
+          25
+        ],
+        "atom_window": [
+          17,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 25,
+      "en": "This may be ensured by developing a central system for the allocation of the unique donation numbers for each donation event recorded at national level, or by requiring all tissue establishments to ensure robust traceability links between the donation identification numbers allocated by each tissue establishment procuring or receiving tissue and cells originating from the same deceased donor.",
+      "mk1": "Ова може да се обезбеди со развој на централен систем за доделување единствени броеви за донации за секој поединечен случај на донирање забележан на национално ниво, или со барање за сите банки на ткива да обезбедат силни врски за следливост помеѓу идентификациските броеви за донирања доделени од секоја банка на ткива при набавка или прием на ткива и клетки кои потекнуваат од ист починат донатор.",
+      "mk2": "ките. Ова може да се обезбеди осигури со развој на централен систем за доделување единствени броеви за донации за секој поединечен случај на донирање забележан на национално ниво, или со барање за сите банки на ткива да обезбедат силни врски за следливост помеѓу идентификациските броеви за донирања доделени од секоја банка на ткива при набавка или прием на ткива и клетки кои потекнуваат од ист починат донатор.",
+      "score": 0.9838909541511772,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        17,
+        18
+      ],
+      "mk2_char_span": [
+        3716,
+        4129
+      ],
+      "evidence": {
+        "token_count": 97,
+        "references_preserved": true,
+        "neighbor_window": [
+          24,
+          25
+        ],
+        "atom_window": [
+          17,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 26,
+      "en": "The Commission should ensure the implementation of the Single European Code by providing the appropriate tools to the Member States competent authorities and tissue establishments.",
+      "mk1": "Комисијата треба да ја гарантира имплементацијата на единствениот европски код со обезбедување соодветни алатки за надлежните органи на земјите членки и банки за ткива.",
+      "mk2": "Комисијата треба да ја го гарантира осигури имплементацијата спроведувањето на единствениот европски код со обезбедување соодветни алатки за надлежните органи и банки за ткива на зем",
+      "score": 0.8538681948424068,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        18,
+        19
+      ],
+      "mk2_char_span": [
+        4130,
+        4312
+      ],
+      "evidence": {
+        "token_count": 103,
+        "references_preserved": true,
+        "neighbor_window": [
+          26,
+          28
+        ],
+        "atom_window": [
+          18,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 27,
+      "en": "The Member States competent authorities should update the register for tissue establishments, reflecting any changes in tissue establishment accreditations, designations, authorisations, or licences and the Commission should ensure the update of the register of the tissues and cells whenever new products need to be included.",
+      "mk1": "Надлежните органи на земјите членки треба да го ажурираат регистарот на банки за ткива, при што ќе ги бележат сите промени во акредитациите на банките за ткива, назначувањата, овластувањата или лиценците, а Комисијата треба да обезбеди ажурирање на регистарот на ткива и клетки секогаш кога треба да бидат вклучени нови производи.",
+      "mk2": "јите членки и банки за ткива. Надлежните органи на земјите членки треба да го ажурираат регистарот на банки за ткива, при што ќе ги бележат сите промени во акредитациите на банките за ткива, назначувањата, овластувањата или лиценците, а Комисијата треба да обезбеди осигури ажурирање на регистарот на ткива и клетки секогаш кога треба да бидат вклучени нови",
+      "score": 0.930576070901034,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        18,
+        19
+      ],
+      "mk2_char_span": [
+        4312,
+        4670
+      ],
+      "evidence": {
+        "token_count": 103,
+        "references_preserved": true,
+        "neighbor_window": [
+          26,
+          28
+        ],
+        "atom_window": [
+          18,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 28,
+      "en": "For this the Commission should consult a group of experts, in particular experts nominated by the Member States competent authorities.",
+      "mk1": "За оваа цел, Комисијата треба да се консултира со група експерти, особено експерти назначени од надлежните органи на земјите членки.",
+      "mk2": "производи. За оваа цел, Комисијата треба да се консултира со група експерти, особено експерти назначени од надлежните органи на земјите членки.",
+      "score": 0.9626865671641791,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        18,
+        19
+      ],
+      "mk2_char_span": [
+        4670,
+        4813
+      ],
+      "evidence": {
+        "token_count": 103,
+        "references_preserved": true,
+        "neighbor_window": [
+          26,
+          28
+        ],
+        "atom_window": [
+          18,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 29,
+      "en": "For the donation identification sequence in the Single European Code, the importing tissue establishment should use the tissue establishment code allocated to it in the EU Tissue Establishment Compendium and should allocate a unique donation number if the donation number on the imported product is not globally unique.",
+      "mk1": "За секвенцата за идентификација на донирањето во единствениот европски код, банката на увозни ткива треба да го користи кодот што и е доделен во Компендиумот на банки за ткива на ЕУ и треба да одреди единствен број на донирање доколку бројот на донирање на увезениот производ не е единствен во светски рамки.",
+      "mk2": "За секвенцата за идентификација на донирањето во единствениот европски код, банката за увозни ткива треба да го користи кодот што и е доделен во Компендиумот на банки за ткива на ЕУ и треба да одреди единствен број на донирање, доколку бројот на донирање на увезениот производ не е единствен во светски рамки.",
+      "score": 0.9967320261437909,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        19,
+        20
+      ],
+      "mk2_char_span": [
+        4814,
+        5123
+      ],
+      "evidence": {
+        "token_count": 52,
+        "references_preserved": true,
+        "neighbor_window": [
+          29,
+          29
+        ],
+        "atom_window": [
+          19,
+          20
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 30,
+      "en": "Pooling of tissues or cells is allowed in some Member States.",
+      "mk1": "Соединување на ткива или клетки е дозволено во некои земји членки.",
+      "mk2": "Соединување на ткива или клетки е дозволено во некои земји членки.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        20,
+        22
+      ],
+      "mk2_char_span": [
+        5124,
+        5191
+      ],
+      "evidence": {
+        "token_count": 47,
+        "references_preserved": true,
+        "neighbor_window": [
+          30,
+          32
+        ],
+        "atom_window": [
+          20,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 31,
+      "en": "Therefore, the application of the Single European Code in case of pooling is also addressed by this Directive.",
+      "mk1": "Затоа, со оваа директива се утврдува и примената на единствениот европски во случај на соединување.",
+      "mk2": "Затоа, со оваа директива се утврдува и примената на единствениот европски код во случај на соединувањ",
+      "score": 0.9746192893401016,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        20,
+        22
+      ],
+      "mk2_char_span": [
+        5191,
+        5292
+      ],
+      "evidence": {
+        "token_count": 47,
+        "references_preserved": true,
+        "neighbor_window": [
+          30,
+          32
+        ],
+        "atom_window": [
+          20,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 32,
+      "en": "A transitional regime for tissues and cells already in storage at the end of the transposition period should be introduced.",
+      "mk1": "Потребно е да се воведе преоден метод за ткива и клетки што се веќе складирани на крајот на преодниот период.",
+      "mk2": "е. Потребно е да се воведе преоден метод за ткива и клетки што се веќе складирани на крајот на преодниот период.",
+      "score": 0.9908256880733946,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        20,
+        22
+      ],
+      "mk2_char_span": [
+        5292,
+        5404
+      ],
+      "evidence": {
+        "token_count": 47,
+        "references_preserved": true,
+        "neighbor_window": [
+          30,
+          32
+        ],
+        "atom_window": [
+          20,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 33,
+      "en": "This Directive does not prevent Member States from maintaining or introducing more stringent measures relating to coding of tissues and cells, provided that the provisions of the Treaty are met.",
+      "mk1": "Оваа директива не ги спречува земјите членки да имаат или воведуваат построги мерки за кодирање на ткива и клетки, под услов да се исполнети одредбите од Договорот.",
+      "mk2": "Оваа директива не ги спречува земјите членки да имаат или воведуваат построги мерки за кодирање на ткива и клетки, под услов да се исполнети одредбите од Договорот.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        22,
+        23
+      ],
+      "mk2_char_span": [
+        5405,
+        5569
+      ],
+      "evidence": {
+        "token_count": 27,
+        "references_preserved": true,
+        "neighbor_window": [
+          33,
+          33
+        ],
+        "atom_window": [
+          22,
+          23
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 34,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "",
+      "score": 0.3598326359832636,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 35,
+      "en": "In Article 2, the following points (k) to (y) are added:",
+      "mk1": "Во член 2, се додаваат следните точки од (и) до (y):",
+      "mk2": "",
+      "score": 0.5052631578947369,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 36,
+      "en": "HAS ADOPTED THIS DIRECTIVE:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ДИРЕКТИВА:",
+      "mk2": "Член 1 Директивата 2006/",
+      "score": 0.46808510638297873,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        25,
+        27
+      ],
+      "mk2_char_span": [
+        5734,
+        5758
+      ],
+      "evidence": {
+        "token_count": 70,
+        "references_preserved": false,
+        "neighbor_window": [
+          36,
+          38
+        ],
+        "atom_window": [
+          25,
+          27
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 37,
+      "en": "Commission Directive 2006/86/EC () is hereby amended as follows:",
+      "mk1": "Директивата 2006/86/ЕЗ на Комисијата () се менува како што следи:",
+      "mk2": "86/ЕЗ на Комисијата () се изменува како што следуваи: Директива",
+      "score": 0.7333333333333333,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        25,
+        27
+      ],
+      "mk2_char_span": [
+        5758,
+        5821
+      ],
+      "evidence": {
+        "token_count": 70,
+        "references_preserved": false,
+        "neighbor_window": [
+          36,
+          38
+        ],
+        "atom_window": [
+          25,
+          27
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 38,
+      "en": "Commission Directive 2006/86/EC of 24 October 2006 implementing Directive 2004/23/EC of the European Parliament and of the Council as regards traceability requirements, notification of serious adverse reactions and events and certain technical requirements for the coding, processing, preservation, storage and distribution of human tissues and cells (OJ L 294, 25.10.2006, p. 32).",
+      "mk1": "Директива 2006/86/ЕЗ на Комисијата од 24 октомври 2006 година за спроведување на Директивата 2004/23/ЕЗ на Европскиот парламент и на Советот во врска со барањата за следливост, известување за сериозни несакани реакции и настани и одредени технички барања за кодирање, обработка, зачувување, складирање и дистрибуција на човечки ткива и клетки (Сл.весник L 294, 25 октомври.2006 год., стр. 32).",
+      "mk2": "2006/86/ЕЗ на Комисијата од 24 октомври 2006 година за спроведување на Директивата 2004/23/ЕЗ на Европскиот парламент и на Советот во врска со барањата за следливост, известување за сериозни несакани реакции и настани и одредени технички барања за кодирање, обработка, зачувување, складирање и дистрибуција на човечки ткива и клетки (Сл. весник L 294, 25.11..2006 година, стр. 32).",
+      "score": 0.9693741677762983,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        25,
+        27
+      ],
+      "mk2_char_span": [
+        5821,
+        6203
+      ],
+      "evidence": {
+        "token_count": 70,
+        "references_preserved": false,
+        "neighbor_window": [
+          36,
+          38
+        ],
+        "atom_window": [
+          25,
+          27
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW",
+      "provenance_unsafe_footnote": true
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 2,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32015L0565",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COMMISSION DIRECTIVE (EU) 2015/565 of 8 April 2015",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ДИРЕКТИВА (ЕУ) 2015/565 НА КОМИСИЈАТА од 8 април 2015 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јордан Стефановски",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "7.6.2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Став 3",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Tissue Establishment",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Банка за ткива",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Став 11",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Compendium",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Компендиум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "БАС Бизнис академија Смилевски",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Став 12",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Pooling",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Соединување",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 1, точка 1, став (у)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Split number",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Број разделник",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 1, точка 1, став (и)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "sequence",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "секвенца",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Во овој случај е најприкладно да остане секвенца затоа што станува збор за дел од кодиран број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 10б",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Точка 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Став (г)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "validation",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "проверка",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Став 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "traceability",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "следливост",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс IV",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Дел Б",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Root cause",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Основна причина",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32015L0565",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COMMISSION DIRECTIVE (EU) 2015/565 of 8 April 2015",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ДИРЕКТИВА (ЕУ) 2015/565 НА КОМИСИЈАТА од 8 април 2015 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јавно здравство",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Александра Петреска",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "15.6.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "преамбула",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ensure",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "гарантира",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "осигури",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прирачник за преведување на правните акти на ЕУ 2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "член 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Annex to Regulation",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "анекс на регулатива",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "анекс кон регулатива",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прирачник за преведување на правните акти на ЕУ 2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс I",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "human application",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "употреба на луѓето/ човечка употреба",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "човечка примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "http://npaa.sep.gov.mk/NPAA-public/App_Upload/2007.1300.4038.kt.doc",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Закон за биомедицинско потпомогнато оплодување",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Сл. весник L 102, 7.4.2004 година, стр. 48",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Директива 2006/86/ЕЗ на Комисијата од 24 октомври 2006 година за спроведување на Директивата 2004/23/ЕЗ на Европскиот парламент и на Советот во врска со барањата за следливост, известување за сериозни несакани реакции и настани и одредени технички барања за кодирање, обработка, зачувување, складирање и дистрибуција на човечки ткива и клетки (Сл. весник L 294, 25.11..2006 година, стр. 32).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 7,
+        "text": "Сл. весник L 102, 7.4.2004 година, стр. 48"
+      },
+      {
+        "ref": "2",
+        "body_index": 26,
+        "text": "Директива 2006/86/ЕЗ на Комисијата од 24 октомври 2006 година за спроведување на Директивата 2004/23/ЕЗ на Европскиот парламент и на Советот во врска со барањата за следливост, известување за сериозни несакани реакции и настани и одредени технички барања за кодирање, обработка, зачувување, складирање и дистрибуција на човечки ткива и клетки (Сл. весник L 294, 25.11..2006 година, стр. 32)."
+      }
+    ]
+  },
+  "dry_run": true
+}

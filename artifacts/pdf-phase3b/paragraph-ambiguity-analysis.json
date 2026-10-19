@@ -1,0 +1,11 @@
+{
+  "celex": "32006L0126",
+  "status": "NOT_REEVALUATED",
+  "phase3aSuspiciousCount": 33,
+  "classifications": {
+    "deterministicallyResolvable": null,
+    "genuinelyAmbiguous": null,
+    "falseAlarmFromPreviousStructure": null
+  },
+  "reason": "The frozen Phase 3B run aborted on page 4 before a typed model and revised table structure were returned. Broad paragraph repair was not attempted."
+}

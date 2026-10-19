@@ -1,0 +1,283 @@
+{
+  "celex": "32021D0672",
+  "dry_run": true,
+  "source_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0672\\TMX_MK1\\32021D0672_MK1.tmx"
+  ],
+  "mk2_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021D0672\\MK2\\32021D0672_MK2.docx"
+  ],
+  "original_tmx_sha256": "3cfc49266a53f57b70f0e399a6d1286efedfc5b719f309c0a9920ed559cf2a81",
+  "mk2_sha256": "d8fbf73406d0a0b16311ff6ef80b9a1b219827415bc1f60de7ca50c2afb0f060",
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL IMPLEMENTING DECISION (CFSP) 2021/672",
+      "mk1": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЗНБП) 2021/672 НА СОВЕТОТ",
+      "status": "HIGH",
+      "target": "ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЗНБП) 2021/672 НА СОВЕТОТ од",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 23 April 2021",
+      "mk1": "23 април 2021 година",
+      "status": "HIGH",
+      "target": "23 април 2021 година",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 23 April 2021",
+      "mk1": "23 април 2021 година",
+      "status": "UNMATCHED",
+      "target": "за спроведување на Одлуката (ЗНБП",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 3,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "UNMATCHED",
+      "target": ") 2015/1333 за рестриктивни мерки во однос на",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 4,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 31(2) thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унија, а особено член 31(2) од истиот,",
+      "status": "REVIEW",
+      "target": "состојбата во Либија СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, имајќи го предвид Договорот за Европската Унија, а особено член 31(2) од истиот,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 3,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "UNMATCHED",
+      "target": "имајќи ја предвид О",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 4,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 31(2) thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унија, а особено член 31(2) од истиот,",
+      "status": "UNMATCHED",
+      "target": "длуката (ЗНБП) 2015/1333 на Советот од 31 јули 2015 го",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to Council Decision (CFSP) 2015/1333 of 31 July 2015 concerning restrictive measures in view of the situation in Libya, and repealing Decision 2011/137/CFSP (), and in particular Article 12(2) thereof,",
+      "mk1": "имајќи ја предвид Одлуката (ЗНБП) 2015/1333 на Советот од 31 јули 2015 година за рестриктивни мерки во поглед на состојбата во Либија и за укинување на Одлуката 2011/137/ЗНБП  (), а особено член 12(2) од истата,",
+      "status": "REVIEW",
+      "target": "дина за рестриктивни мерки во поглед однос на состојбата во Либија и за укинување на Одлуката 2011/137/ЗНБП (), а особено член 12(2) од истата,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 4,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 31(2) thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унија, а особено член 31(2) од истиот,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to Council Decision (CFSP) 2015/1333 of 31 July 2015 concerning restrictive measures in view of the situation in Libya, and repealing Decision 2011/137/CFSP (), and in particular Article 12(2) thereof,",
+      "mk1": "имајќи ја предвид Одлуката (ЗНБП) 2015/1333 на Советот од 31 јули 2015 година за рестриктивни мерки во поглед на состојбата во Либија и за укинување на Одлуката 2011/137/ЗНБП  (), а особено член 12(2) од истата,",
+      "status": "UNMATCHED",
+      "target": "со оглед на тоа што: (1)На 31 јули 2015 година, Советот ја донесе Одлуката (ЗНБП)",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "OJ L 206, 1.8.2015, p. 34.",
+      "mk1": "Сл. весник L 206, 1.8. 2015 година, стр. 34.",
+      "status": "UNMATCHED",
+      "target": "2015/1333 за рес",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 7,
+      "en": "(1)\tOn 31 July 2015, the Council adopted Decision (CFSP) 2015/1333 concerning restrictive measures in view of the situation in Libya.",
+      "mk1": "(1)\tНа 31 јули 2015 година, Советот ја донесе Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија.",
+      "status": "UNMATCHED",
+      "target": "триктивни мерки во однос на состојбата во Либија.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "OJ L 206, 1.8.2015, p. 34.",
+      "mk1": "Сл. весник L 206, 1.8. 2015 година, стр. 34.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 7,
+      "en": "(1)\tOn 31 July 2015, the Council adopted Decision (CFSP) 2015/1333 concerning restrictive measures in view of the situation in Libya.",
+      "mk1": "(1)\tНа 31 јули 2015 година, Советот ја донесе Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 8,
+      "en": "(2)\tThe entry for one person should be deleted as he is deceased.",
+      "mk1": "(2)\tВнесот за едно лице треба да се избрише бидејќи е починато.",
+      "status": "UNMATCHED",
+      "target": "ЈА ДОНЕСЕ ОВАА ОДЛУКА: Член 1 Анексите II и IV к",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 9,
+      "en": "(3)\tAnnexes II and IV to Decision (CFSP) 2015/1333 should therefore be amended accordingly,",
+      "mk1": "(3)\tЗатоа, Анексите II и IV кон Одлуката (ЗНБП) 2015/1333 треба соодветно да се изменат,",
+      "status": "UNMATCHED",
+      "target": "он Одлуката (ЗНБП) 2015/1333 се изменуваат во согласност со Анексот",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 10,
+      "en": "HAS ADOPTED THIS DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "status": "REVIEW",
+      "target": "кон оваа одлука.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 9,
+      "en": "(3)\tAnnexes II and IV to Decision (CFSP) 2015/1333 should therefore be amended accordingly,",
+      "mk1": "(3)\tЗатоа, Анексите II и IV кон Одлуката (ЗНБП) 2015/1333 треба соодветно да се изменат,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 10,
+      "en": "HAS ADOPTED THIS DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 11,
+      "en": "Annexes II and IV to Decision (CFSP) 2015/1333 are amended in accordance with the Annex to this Decision.",
+      "mk1": "Анексите II и IV кон Одлуката (ЗНБП) 2015/1333 се изменуваат во согласност со Анексот кон оваа одлука.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 12,
+      "en": "Article 2",
+      "mk1": "Член 2",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 13,
+      "en": "This Decision shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на денот по нејзиното објавување во Службениот весник на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 14,
+      "en": "Done at Brussels, 23 April 2021.",
+      "mk1": "Брисел, 23 април 2021 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 15,
+      "en": "The President",
+      "mk1": "Претседател",
+      "status": "HIGH",
+      "target": "Претседател",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 16,
+      "en": "(1)\tin Annex II (List of persons and entities referred to in Article 8(2)), Part A (Persons), entry 10 (concerning AL-GAOUD, Abdelmajid) is deleted;",
+      "mk1": "(1)\tво Анекс II (Список на лица и субјекти наведени во член 8(2)), Дел А (Лица), внес 10 (во однос на AL-GAOUD, Abdelmajid) се брише;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 17,
+      "en": "(2)\tin Annex IV (List of persons and entities referred to in Article 9(2)), Part A (Persons), entry 10 (concerning AL-GAOUD, Abdelmajid) is deleted.",
+      "mk1": "(2)\tво Анекс IV (Список на лица и субјекти наведени во член 9(2)), Дел А (Лица), внес 10 (во однос на AL-GAOUD, Abdelmajid) се брише.",
+      "status": "REVIEW",
+      "target": "АНЕКС Одлуката (ЗНБП) 2015/1333 се изменува како што следува: (1)во Анекс II (Список на лица и субјекти наведени во член 8(2)), Дел А (Лица), внес 10 (во однос на AL-GAOUD, Abdelmajid) се брише;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 18,
+      "en": "implementing Decision (CFSP) 2015/1333 concerning restrictive measures in view of the situation in Libya",
+      "mk1": "за спроведување на Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 19,
+      "en": "Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,",
+      "mk1": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 20,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 21,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 22,
+      "en": "A. P. ZACARIAS",
+      "mk1": "А. П. ЗАКАРИАС",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 23,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 24,
+      "en": "Decision (CFSP) 2015/1333 is amended as follows:",
+      "mk1": "Одлуката (ЗНБП) 2015/1333 се изменува како што следува:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    }
+  ],
+  "accepted_indices": [
+    1,
+    2,
+    15
+  ]
+}

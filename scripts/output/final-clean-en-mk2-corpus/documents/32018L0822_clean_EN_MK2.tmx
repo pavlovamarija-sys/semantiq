@@ -1,0 +1,764 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20211012T213856Z" creationid="LAPTOP-8H8SSI8N\marij">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32018L0822_ТМ</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">BreakOnTag</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32018L0822</prop>
+    <prop type="x-SourceTMX">32018L0822_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">fde8bb13f91ceeab309df9729b6002d2523753b2ee81b50f7e4a4d6a015821d3</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">44</prop>
+  </header>
+  <body>
+    <tu creationdate="20211016T134201Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T155549Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161812Z" usagecount="1">
+      <prop type="x-Context">5187456080121055276, 8011475148145912564</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Generic hallmarks under category A and specific hallmarks under category B and under points (b)(i), (c) and (d) of paragraph 1 of category C may only be taken into account where they fulfil the “main benefit test”.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Генеричките ознаки, според категоријата А, и специфичните ознаки, според категоријата Б, и под точките (б)(i), (в) и (г) од став 1 од категоријата В може само да се земат предвид, доколку го исполнуваат „’испитувањето на основната корист“‘.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">230</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T134253Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T155730Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T155730Z">
+      <prop type="x-Context">7007603084452297935, 5465476672691083943</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt552" x="1" />That test will be satisfied if it can be established that the main benefit or one of the main benefits which, having regard <ept i="1" />
+          <bpt i="2" type="pt553" x="2" />to all relevant facts and circumstances, a person may reasonably expect to derive from an arrangement is the obtaining <ept i="2" />
+          <bpt i="3" type="pt554" x="3" />of a tax advantage.<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Ова испитување ќе биде задоволено доколку може да се утврди дека главната корист или една од главните користи е добивањето даночна предност, што, имајќи ги предвид сите релевантни факти и околности, лицето може разумно да очекува да ги добие од аранжманот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">231</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211014T100136Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T155858Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161812Z" usagecount="1">
+      <prop type="x-Context">-1990931932540762128, 4757095225663057730</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Part II.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Дел II.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">234</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211014T100146Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T155902Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161812Z" usagecount="1">
+      <prop type="x-Context">3513852359100, 141884350957</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Categories of hallmarks</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Категории ознаки</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">235</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T134539Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T155907Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161812Z" usagecount="1">
+      <prop type="x-Context">1174071361296687635, -3056641504355443836</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt561" x="1" />A.	<ept i="1" />
+          <bpt i="2" type="pt562" x="2" />Generic hallmarks linked to the main benefit test<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>A.Генеричките ознаки поврзани со испитувањето на главната корист</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">236</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T134746Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T155926Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161812Z" usagecount="1">
+      <prop type="x-Context">-2173148554402667894, 2108305500459365160</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt564" x="1" />An arrangement where the relevant taxpayer or a participant in the arrangement undertakes to comply with <ept i="1" />
+          <bpt i="2" type="pt565" x="2" />a condition of confidentiality which may require them not to disclose how the arrangement could secure a tax <ept i="2" />
+          <bpt i="3" type="pt566" x="3" />advantage vis-à-vis other intermediaries or the tax authorities.<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Аранжман каде релевантниот даночен обврзник или учесник во аранжманот презема да се усогласи со услов на доверливост што може да побарува да не открива како аранжманот би можел да обезбеди даночна предност во однос на други посредници или даночните власти.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">237</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T134854Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T155938Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-7682473093047732153, -3441663037430320873</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt568" x="1" />An arrangement where the intermediary is entitled to receive a fee (or interest, remuneration for finance costs and <ept i="1" />
+          <bpt i="2" type="pt569" x="2" />other charges) for the arrangement and that fee is fixed by reference to:<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Аранжман каде посредникот има право да добие надоместок (или камата, надомест на финансиски трошоци и други давачки) за аранжманот и тој надоместок е определен со упатување на:</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">238</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T135014Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T155943Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-6468975450601465792, -5164323272811404069</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the amount of the tax advantage derived from the arrangement; or</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>износот на даночната предност што произлегува од аранжманот; или</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">239</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T135027Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T155946Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">6258282074533046534, -3371599125571051834</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>whether or not a tax advantage is actually derived from the arrangement.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б) дали даночната предност, всушност, произлегува од аранжма</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">240</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T135045Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160038Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-8586718463767448789, -7640378786602090602</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt573" x="1" />This would include an obligation on <ept i="1" />
+          <bpt i="2" type="pt574" x="2" />the intermediary to partially or fully refund the fees where the intended tax advantage derived from the <ept i="2" />
+          <bpt i="3" type="pt575" x="3" />arrangement was not partially or fully achieved.<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>нот. Ова би вклучило обврска на посредникот делумно или сосема да ги надомести средствата каде намерената даночна предност што произлегува од аранжманот не била делумно или сосема постигната.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">241</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T135840Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160102Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt579" x="1" />An arrangement that has substantially standardised documentation and/or structure and is available to more than <ept i="1" />
+          <bpt i="2" type="pt580" x="2" />one relevant taxpayer without a need to be substantially customised for implementation.<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.Аранжман што има значително стандардната документација и/или структура и е достапен на повеќе од еден релевантен даночен обврзник без потреба да биде значително прилагоден приспособен за спроведу</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">242</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T140030Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160107Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-4560571755446176728, -4979157278622121561</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt582" x="1" />B.<ept i="1" />
+          <bpt i="2" type="pt583" x="2" />
+          <ept i="2" />
+          <bpt i="3" type="pt584" x="3" />Specific hallmarks linked to the main benefit test<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>вање. Б.Специфични ознаки поврзани со испитувањето на главната кори</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">243</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T140109Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160139Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-1569454871261005972, 8716137343180788846</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt586" x="1" />An arrangement whereby a participant in the arrangement takes contrived steps which consist in acquiring a loss-<ept i="1" />
+          <bpt i="2" type="pt587" x="2" />making company, discontinuing the main activity of such company and using its losses in order to reduce its tax <ept i="2" />
+          <bpt i="3" type="pt588" x="3" />liability, including through a transfer of those losses to another jurisdiction or by the acceleration of the use of <ept i="3" />
+          <bpt i="4" type="pt589" x="4" />those losses.<ept i="4" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ст Аранжман со кој учесникот во аранжманот зема вештачки чекори кои се состојат од стекнување друштво што остварува загуба; престанување на главната дејност на таквото друштво и користење на неговите загуби за да се намали неговата даночна одговорност, вклучувајќи вклучително и преку трансфер на овие загуби во друга јурисдикција или со забрзување на користењето на тие загуби.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">244</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T140259Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160159Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-504155523611110583, -8474971835393705630</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt591" x="1" />An arrangement that has the effect of converting income into capital, gifts or other categories of revenue which <ept i="1" />
+          <bpt i="2" type="pt592" x="2" />are taxed at a lower level or exempt from tax.<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Аранжман што води кон претворање на приходот во капитал, подароци или други категории приходи што се даночат со пониска стапка или се ослободени од данок.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">245</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T140347Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160336Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-8588111072913658877, -534843107753731523</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt594" x="1" />An arrangement which includes circular transactions resulting in the round-tripping of funds, namely through <ept i="1" />
+          <bpt i="2" type="pt595" x="2" />involving interposed entities without other primary commercial function or transactions that offset or cancel each <ept i="2" />
+          <bpt i="3" type="pt596" x="3" />other or that have other similar features.<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Аранжман што вклучува циркуларни трансакции што произлегуваат во фиктивното тргување со средства, имено, преку вклучување вметнати лица без друга примарна трговска функција или трансакции што се порамнуваат или исклучуваат меѓу себе или имаат други слични карактеристики.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">246</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T140811Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160343Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-646271189923837223, -2397567930859228140</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt598" x="1" />C.<ept i="1" />
+          <bpt i="2" type="pt599" x="2" />
+          <ept i="2" />
+          <bpt i="3" type="pt600" x="3" />Specific hallmarks related to cross-border transactions<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>В.Специфични ознаки поврзани со прекуграничните трансакции</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">247</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T140828Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160359Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>An arrangement that involves deductible cross-border payments made between two or more associated enterprises where at least one of the following conditions occurs:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.Аранжман што вклучува одбитоци на прекуграничните плаќања направени меѓу две или повеќе поврзани претпријатија каде се случува барем еден од следните услови</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">248</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T140954Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160404Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-3512561568469302492, 4119699995222322982</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the recipient is not resident for tax purposes in any tax jurisdiction;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>: примачот не е резидент за даночни цели во која било даночна јурисдикција;</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">249</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T141019Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160409Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-974231332795339943, 7356129886344584699</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>although the recipient is resident for tax purposes in a jurisdiction, that jurisdiction either:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б) иако примачот е резидент за даночните цели во јурисдикција, таа јурисдикција и</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">250</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T141042Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160418Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">9178318673482955737, -2746711100552892877</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(i)	does not impose any corporate tax or imposes corporate tax at the rate of zero or almost zero; or</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ли: (i)не наложува корпоративен данок или наложува корпоративен данок по нула или скоро нула стапка; и</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">251</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T141121Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160443Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-5534794824581710408, 3251809508149073032</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt610" x="1" />(ii)	is included in a list of third-country jurisdictions which have been assessed by Member States collectively <ept i="1" />
+          <bpt i="2" type="pt611" x="2" />or within the framework of the OECD as being non-cooperative;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ли (ii)е вклучен во список на јурисдикции на трети земји што колективно се проценети од земјите членки или во рамките на ОЕЦД дека не соработуваат;</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">252</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T141216Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160455Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">393671314225058110, 495626101768313053</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt613" x="1" />the payment benefits from a full exemption from tax in the jurisdiction where the recipient is resident for tax <ept i="1" />
+          <bpt i="2" type="pt614" x="2" />purposes;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в) плаќањето ужива е целосно ослободување ослободено од данок во јурисдикцијата, каде примачот е резидент за даночни</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">253</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T141350Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160511Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-1673986386093858194, -259299434629771200</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Deductions for the same depreciation on the asset are claimed in more than one jurisdiction.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>очни цели; Одбитоците за истата амортизација на средството се бараат во повеќе од една јурисдикција.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">255</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T141426Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160519Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-7088002186772394228, -4009406921296148615</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Relief from double taxation in respect of the same item of income or capital is claimed in more than one jurisdiction.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Ослободување од двојно оданочување во поглед на истата ставка за приход или капитал се бара во повеќе од една јурисдикција.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">256</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T141451Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160536Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-538928630444262681, -3991837728644356347</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>There is an arrangement that includes transfers of assets and where there is a material difference in the amount being treated as payable in consideration for the assets in those jurisdictions involved.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Постои аранжман што вклучува трансфер на средства и каде има материјална разлика во износот што се смета за наплатлив во поглед на средствата во вклучените јурисдикции.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">257</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T141608Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160542Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-5041672023495496836, 7080715297710895519</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt625" x="1" />D.<ept i="1" />
+          <bpt i="2" type="pt626" x="2" />
+          <ept i="2" />
+          <bpt i="3" type="pt627" x="3" />Specific hallmarks concerning automatic exchange of information and beneficial ownership<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Г.Специфични ознаки за автоматската размена на информации и вистинска сопственост</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">258</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T141632Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160617Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt631" x="1" />An arrangement which may have the effect of undermining the reporting obligation under the laws implementing Union legislation or any equivalent agreements on the automatic exchange of Financial Account information, <ept i="1" />
+          <bpt i="2" type="pt632" x="2" />including agreements with third countries, or which takes advantage of the absence of such legislation or <ept i="2" />
+          <bpt i="3" type="pt633" x="3" />agreements.<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.Аранжман што може да доведе до поткопување на обврската за известување според законите за спроведување на законодавството на Унијата или кои било еквивалентни договори за автоматска размена на информации за финансиските сметки, вклучувајќи вклучително и договори со трети земји или што го злоупотребува отсуството на таквото законодавство или догово</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">259</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T141803Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160639Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">4122667051702857944, -33809602919400648</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt635" x="1" />the use of an account, product or investment that is not, or purports not to be, a Financial Account, but has <ept i="1" />
+          <bpt i="2" type="pt636" x="2" />features that are substantially similar to those of a Financial Account;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ото: користење сметка, производ или инвестиција што не е или изгледа дека не е финансиска сметка, но има карактеристики што се значително слични со оние на финансиската сметка;</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">261</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T142025Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160652Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">4171117841508044350, -8592801604806554046</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the transfer of Financial Accounts or assets to, or the use of jurisdictions that are not bound by the automatic exchange of Financial Account information with the State of residence of the relevant taxpayer;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)трансфер на финансиски сметки или средства или користење јурисдикции што не се обврзани на автоматската размена на информации за финансиската сметка со државата на резидентност на релевантниот даночен обврзник;</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">262</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T142124Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160711Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">875967614336421332, 8391249760849470676</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt640" x="1" />the reclassification of income and capital into products or payments that are not subject to the automatic <ept i="1" />
+          <bpt i="2" type="pt641" x="2" />exchange of Financial Account information;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в) прекласификацијата на приходот и капиталот во производи или плаќања што не се подложни на автоматска размена на информации за финансиската сметка;</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">263</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T142200Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160731Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">4463990799133920526, 7742952233947815796</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt643" x="1" />the transfer or conversion of a Financial Institution or a Financial Account or the assets therein into <ept i="1" />
+          <bpt i="2" type="pt644" x="2" />a Financial Institution or a Financial Account or assets not subject to reporting under the automatic exchange <ept i="2" />
+          <bpt i="3" type="pt645" x="3" />of Financial Account information;<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г) трансфер или конверзија на финансиска институција или финансиска сметка или средствата во нив во финансиската институција или финансиската сметка или средства што не се подложни за известување според автоматската размена на информации за финансиската сметка</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">264</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T142313Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160840Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-6421832010463378560, -6053823120409367431</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt647" x="1" />the use of legal entities, arrangements or structures that eliminate or purport to eliminate reporting of one or <ept i="1" />
+          <bpt i="2" type="pt648" x="2" />more Account Holders or Controlling Persons under the automatic exchange of Financial Account information;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (д) користење правни лица, аранжмани или структури што ги отстрануваат или изгледа дека го отстрануваат известувањето на еден или повеќе носители на сметки или контролирачки лица според автоматската размена на информации за финансиските сметки;</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">265</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T142452Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T160930Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-9121968514960231348, 9050021392044025077</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt650" x="1" />arrangements that undermine, or exploit weaknesses in, the due diligence procedures used by Financial <ept i="1" />
+          <bpt i="2" type="pt651" x="2" />Institutions to comply with their obligations to report Financial Account information, including the use of <ept i="2" />
+          <bpt i="3" type="pt652" x="3" />jurisdictions with inadequate or weak regimes of enforcement of anti-money-laundering legislation or with <ept i="3" />
+          <bpt i="4" type="pt653" x="4" />weak transparency requirements for legal persons or legal arrangements.<ept i="4" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ѓ) аранжмани што поткопуваат или ја злоупотребуваат слабоста на постапките за соодветна процена користени од финансиските институции за да се усогласат со нивните обврски да известуваат информации за финансиските сметки, вклучувајќи вклучително иго користењето на јурисдикции со неадекватни или слаби режими за спроведување на законодавството против перење пари или со слаби побарувања за транспарентност на правните лица или правните аранжман</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">266</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T142739Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T161000Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt657" x="1" />An arrangement involving a non-transparent legal or beneficial ownership chain with the use of persons, legal <ept i="1" />
+          <bpt i="2" type="pt658" x="2" />arrangements or structures:<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и. 2.Аранжман вклучува нетранспарентен синџир на правна или вистинска сопственост со користењето на лицата, правните аранжмани или структури:</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">267</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T142832Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T161008Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">1205721128646110651, 1145409091947415752</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt660" x="1" />that do not carry on a substantive economic activity supported by adequate staff, equipment, assets and <ept i="1" />
+          <bpt i="2" type="pt661" x="2" />premises; and<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>што не извршува значителна економска активност дејност поддржана со соодветен персонал, опрема, средства и простори</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">268</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T142901Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T161024Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-6621885526510386896, -7517742543235032107</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt663" x="1" />that are incorporated, managed, resident, controlled or established in any jurisdiction other than the <ept i="1" />
+          <bpt i="2" type="pt664" x="2" />jurisdiction of residence of one or more of the beneficial owners of the assets held by such persons, legal <ept i="2" />
+          <bpt i="3" type="pt665" x="3" />arrangements or structures; and<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и; и (б)што се инкорпорирани, управувани, резидентни, контролирани или основани во која било јурисдикција освен јурисдикцијата на резидентност на еден или повеќе вистински сопственици на средствата што ги држат тие лица, правни аранжмани или структури; и</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">269</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T143012Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T161046Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">5741868589973298128, -1025885035448472309</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt667" x="1" />where the beneficial owners of such persons, legal arrangements or structures, as defined in Directive (EU) <ept i="1" />
+          <bpt i="2" type="pt668" x="2" />2015/849, are made unidentifiable.<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в) каде вистинските сопственици на таквите лица, правни аранжмани или структури, како што е дефинирано во Директивата (ЕУ) 2015/849, не можат да се идентификуваат.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">270</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T143117Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T161051Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">3598834380321244547, 4410860494449083919</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt670" x="1" />E.<ept i="1" />
+          <bpt i="2" type="pt671" x="2" />
+          <ept i="2" />
+          <bpt i="3" type="pt672" x="3" />Specific hallmarks concerning transfer pricing<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Д.Специфични ознаки за цените на трансферо</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">271</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211014T100253Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T161512Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">8972205129501075169, 5366523263866697539</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>An arrangement which involves the use of unilateral safe harbour rules.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>т Аранжман што го вклучува користењето на еднострани правила на ’„безбедно пристаниште“‘.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">272</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211014T100430Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T161518Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">7744243839334387648, -4810275483949940782</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>An arrangement involving the transfer of hard-to-value intangibles.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Аранжман што го вклучува трансферот на нематеријалните средства тешки за процена</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">273</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T143153Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T161535Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">8597714056784814987, 3263297000752683656</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt676" x="1" />The term “hard-to-value intangibles” covers <ept i="1" />
+          <bpt i="2" type="pt677" x="2" />intangibles or rights in intangibles for which, at the time of their transfer between associated enterprises:<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. Поимот ’“нематеријални средства тешки за процена”‘ ги опфаќа нематеријалните средства или правата на нематеријалните средства за кои, во време на нивниот трансфер меѓу поврзаните претпријатија</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">274</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211014T100558Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T161540Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-202729389368953961, 7153895806446955123</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	no reliable comparables exist; and</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>: (а)не постојат доверливи споредливи податоци; и</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">275</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T143253Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T161624Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">-949182899082585920, 3930401661601499962</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt681" x="1" />(b)	at the time the transaction was entered into, the projections of future cash flows or income expected to be <ept i="1" />
+          <bpt i="2" type="pt682" x="2" />derived from the transferred intangible, or the assumptions used in valuing the intangible are highly uncertain, making it difficult to predict the level of ultimate success of the intangible at the time of the transfer.<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)во време кога е направена трансакцијата, проекциите на идните парични токови или приходот што се очекува да се добие од префрлените нематеријални средства, или претпоставките што се користат во процената на нематеријалните средства се многу несигурни, со што е тешко да се предвиди нивото на конечниот успех на нематеријалното средство во времето на трансферот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">276</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211016T143401Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20211017T161650Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20211017T161814Z" usagecount="1">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt684" x="1" />An arrangement involving an intragroup cross-border transfer of functions and/or risks and/or assets, if the <ept i="1" />
+          <bpt i="2" type="pt685" x="2" />projected annual earnings before interest and taxes (EBIT), during the three-year period after the transfer, of the transferor or transferors, are less than 50 % of the projected annual EBIT of such transferor or transferors if the <ept i="2" />
+          <bpt i="3" type="pt686" x="3" />transfer had not been made.’<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.Аранжман што вклучува прекуграничен трансфер во рамките на групата на функциите и/или ризиците и/или средствата ако проектираните годишни добивки пред камата и даноци (ЕБИТ), за време на тригодишниот период по трансферот, на префрлувачот или префрлувачите, се помалку од 50 % од проектираниот годишен ЕБИТ на таквиот префрлувач или префрлувачи ако не бил направен трансферот.“</seg>
+      </tuv>
+      <prop type="x-CELEX">32018L0822</prop>
+      <prop type="x-SourceTUIndex">277</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

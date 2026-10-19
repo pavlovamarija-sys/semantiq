@@ -1,0 +1,56 @@
+{
+  "celex": "32006L0114",
+  "status": "PASS",
+  "sourcePdfSha256": "1B0FB08EC46C93B9DF62675F2B898030511DFCF5DF4832B15CDE56681932008B",
+  "sourceCoverage": {
+    "status": "PASS",
+    "tokens": 3389,
+    "sourceSpans": 3362,
+    "modelSpans": 3362,
+    "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+  },
+  "tables": 3,
+  "rows": 48,
+  "cells": 100,
+  "tableShapes": [
+    [
+      3,
+      2
+    ],
+    [
+      4,
+      3
+    ],
+    [
+      41,
+      2
+    ]
+  ],
+  "readingOrder": {
+    "status": "PASS",
+    "articles": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "annexes": [
+      1,
+      2
+    ],
+    "issues": []
+  },
+  "focusedTests": {
+    "passed": 3,
+    "failed": 0
+  },
+  "productionChanged": false
+}

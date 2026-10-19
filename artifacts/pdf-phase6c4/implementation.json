@@ -1,0 +1,12 @@
+{
+  "phase": "6C.4",
+  "status": "PASS",
+  "generation_kind": "validated_docx_render",
+  "worker_endpoint": "/render/validated-docx",
+  "application_endpoint": "/api/projects/{projectId}/validated-docx-generations",
+  "serializer": "typed-reconstruction-phase2b-frozen",
+  "model_schema": "eu-acquis.reconstruction-model.v1",
+  "migration": "20261021000000_complete_validated_docx_generation.sql",
+  "migration_deployed": true,
+  "automatic_invocation": false
+}

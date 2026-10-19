@@ -1,0 +1,113 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "celex": "32006L0114",
+      "sourcePdfSha256": "1B0FB08EC46C93B9DF62675F2B898030511DFCF5DF4832B15CDE56681932008B",
+      "status": "PASS",
+      "tables": 3,
+      "logicalTables": 3,
+      "rows": 48,
+      "cells": 100,
+      "spans": 3362,
+      "tokens": 3389,
+      "boundaryCounts": {
+        "MERGE": 2,
+        "ABSTAIN": 1
+      },
+      "coverage": {
+        "status": "PASS",
+        "tokens": 3389,
+        "sourceSpans": 3362,
+        "modelSpans": 3362,
+        "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+      },
+      "textIntegrity": {
+        "status": "PASS",
+        "tokens": 3389,
+        "sha256": "b8aede5cec5c3d5f13b6969c2f1d10e89e6f3e80c83c40a294601599b997e2e3"
+      },
+      "expected": {
+        "logicalTables": 3,
+        "rows": 48,
+        "cells": 100,
+        "merge": null,
+        "keep": null,
+        "tokens": 18825
+      }
+    },
+    {
+      "celex": "32006L0126",
+      "sourcePdfSha256": "0E6E7DF9EF641AFEBECF692CE9E1AF7C8CA2F2AD2E4C82950AD6ECF81A3D55EE",
+      "status": "PASS",
+      "tables": 5,
+      "logicalTables": 3,
+      "rows": 128,
+      "cells": 264,
+      "spans": 27433,
+      "tokens": 18825,
+      "boundaryCounts": {
+        "ABSTAIN": 46,
+        "KEEP_BOUNDARY": 4,
+        "MERGE": 28
+      },
+      "coverage": {
+        "status": "PASS",
+        "tokens": 18825,
+        "sourceSpans": 27433,
+        "modelSpans": 27433,
+        "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+      },
+      "textIntegrity": {
+        "status": "PASS",
+        "tokens": 18825,
+        "sha256": "caf4bb5601fd6f0a83915e873a0ee0abf4937dbe01096aaf2914a57270efda22"
+      },
+      "expected": {
+        "logicalTables": 3,
+        "rows": 128,
+        "cells": 264,
+        "merge": 28,
+        "keep": 4,
+        "tokens": 18825
+      }
+    },
+    {
+      "celex": "32006L0042",
+      "sourcePdfSha256": "3100C4CF8A7BF243A62D7000D9B07A8FA4F0042688A312DEC3D285E76E46B966",
+      "status": "PASS",
+      "tables": 8,
+      "logicalTables": 1,
+      "rows": 278,
+      "cells": 556,
+      "spans": 48170,
+      "tokens": 30922,
+      "boundaryCounts": {
+        "ABSTAIN": 54,
+        "MERGE": 95,
+        "KEEP_BOUNDARY": 11
+      },
+      "coverage": {
+        "status": "PASS",
+        "tokens": 30922,
+        "sourceSpans": 48170,
+        "modelSpans": 48170,
+        "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+      },
+      "textIntegrity": {
+        "status": "PASS",
+        "tokens": 30922,
+        "sha256": "95844f1862db6c86e9461f6713fcd271f8a87143f7ff1dfc7c43d579fc64ddd6"
+      },
+      "expected": {
+        "logicalTables": 1,
+        "rows": 278,
+        "cells": 556,
+        "merge": 95,
+        "keep": 11,
+        "tokens": 30922
+      }
+    }
+  ],
+  "comparison": "The inactive facade delegates to the validated spike core; no material output difference is possible until the inference core is physically moved."
+}

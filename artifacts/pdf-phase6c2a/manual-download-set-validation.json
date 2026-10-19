@@ -1,0 +1,20 @@
+{
+  "status": "SUPERSEDED_HISTORY",
+  "superseded_by": "final-manual-download-validation.json",
+  "captured_stage": "eight-of-nine complete-set gate before any registration",
+  "expected": 9,
+  "present": 8,
+  "missing": ["57353de3-1373-4be2-97f4-91f5d23c2225"],
+  "all_present_files_valid_pdf": true,
+  "byte_identical_groups": [],
+  "files": [
+    {"celex":"32009L0104","document_version_id":"2e18c2e0-515b-47e1-bcb1-37d74d4b8a5b","filename":"2e18c2e0-515b-47e1-bcb1-37d74d4b8a5b.pdf","valid_pdf":true,"byte_size":815459,"sha256":"8b0d891443d67a84894a35d683981d7c69a15db0c6120ada07c160b7aff42688"},
+    {"celex":"31990L0426","document_version_id":"4a17dc0e-6df1-4482-b18e-4ce4a6ca8e5c","filename":"4a17dc0e-6df1-4482-b18e-4ce4a6ca8e5c.pdf","valid_pdf":true,"byte_size":1324968,"sha256":"d5e1bc1317017bbc91e4ec2784dfc6fe88931c2154ce3902802e69bcc2cf07f2"},
+    {"celex":"31990L0427","document_version_id":"6cf79e70-cde6-46b3-bd56-4db597f06c06","filename":"6cf79e70-cde6-46b3-bd56-4db597f06c06.pdf","valid_pdf":true,"byte_size":420716,"sha256":"223b48effbf7a7acf016833a1a2b5fc912b199b5248ba4c73ec2f4921fad6f0a"},
+    {"celex":"32006L0114","document_version_id":"74a67935-d57f-428f-aa34-d8d603ddda1e","filename":"74a67935-d57f-428f-aa34-d8d603ddda1e.pdf","valid_pdf":true,"byte_size":77654,"sha256":"1b0fb08ec46c93b9df62675f2b898030511dfcf5df4832b15cde56681932008b"},
+    {"celex":"32025D1397","document_version_id":"a772e75b-2b68-42ee-8b0d-8c78746bca4b","filename":"a772e75b-2b68-42ee-8b0d-8c78746bca4b.pdf","valid_pdf":true,"byte_size":1384298,"sha256":"53b94b6b3cf0f52158c5ea94255eea1de761be505d3717c20ad5765e473a8808"},
+    {"celex":"31990L0426R(02)","document_version_id":"b2ed9292-c303-449d-8a13-14cf67062d88","filename":"b2ed9292-c303-449d-8a13-14cf67062d88.pdf","valid_pdf":true,"byte_size":705527,"sha256":"81a341b90d7c8aed1729c37ef839cc7b516d60317ad764b56016502a5d373c7c"},
+    {"celex":"32014L0035","document_version_id":"c2a95754-ccc4-41ff-b131-e566017e6352","filename":"c2a95754-ccc4-41ff-b131-e566017e6352.pdf","valid_pdf":true,"byte_size":842483,"sha256":"274e3f9fd2fec2ffe3bdd877d2be62df9a08024671046df6ece7898f5a321519"},
+    {"celex":"31990L0427R(01)","document_version_id":"e803725e-77db-463b-80fa-ef8e9b54e22b","filename":"e803725e-77db-463b-80fa-ef8e9b54e22b.pdf","valid_pdf":true,"byte_size":137370,"sha256":"ffc2f2380cb2fdd4294ce97fe76da7f205b3d49a08ee10ce9b4fa526777df1ce"}
+  ]
+}

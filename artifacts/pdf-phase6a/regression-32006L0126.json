@@ -1,0 +1,39 @@
+{
+  "celex": "32006L0126",
+  "sourcePdfSha256": "0E6E7DF9EF641AFEBECF692CE9E1AF7C8CA2F2AD2E4C82950AD6ECF81A3D55EE",
+  "status": "PASS",
+  "tables": 5,
+  "logicalTables": 3,
+  "rows": 128,
+  "cells": 264,
+  "spans": 27433,
+  "tokens": 18308,
+  "boundaryCounts": {
+    "RESOLVED-BY-RECITAL-BINDING": 3,
+    "KEEP_BOUNDARY": 1,
+    "MERGE": 28,
+    "ABSTAIN": 18
+  },
+  "coverage": {
+    "status": "PASS",
+    "tokens": 18308,
+    "sourceSpans": 27433,
+    "modelSpans": 26959,
+    "excludedSpans": 474,
+    "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+  },
+  "textIntegrity": {
+    "status": "PASS",
+    "tokens": 18308,
+    "sha256": "d4aac373236382a8de5a84a9374e072ee66f029ba1ed1651aacc43bc4881c8f9",
+    "footnotes": 10
+  },
+  "expected": {
+    "logicalTables": 3,
+    "rows": 128,
+    "cells": 264,
+    "merge": 28,
+    "keep": 1,
+    "tokens": 18308
+  }
+}

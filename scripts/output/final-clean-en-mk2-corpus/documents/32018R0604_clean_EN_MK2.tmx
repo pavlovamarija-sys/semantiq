@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210613T205238Z" creationid="LAPTOP-QMTJDJ92\ahhan">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32018R0604_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32018R0604</prop>
+    <prop type="x-SourceTMX">32018R0604_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">9c43d2d86d4df932d5bad905a643f5f9ddaa902bd08dc03761be57c9f748b19b</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">19</prop>
+  </header>
+  <body>
+    <tu creationdate="20210613T210807Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210613T210810Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145523Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING REGULATION (EU) 2018/604</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2018/604 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210613T210907Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210613T210909Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145523Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">7353582418551784268, 1901036649548470141</prop>
+      <prop type="x-ContextContent">COMMISSION IMPLEMENTING REGULATION (EU) 2018/604 |  | РЕГУЛАТИВА ЗА СПРОВЕДУВАЕ (ЕУ) 2018/604 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 18 April 2018</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 18 април 2018 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210613T211150Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210613T211152Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210613T211152Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">7207827341868711082, -3853975236068313683</prop>
+      <prop type="x-ContextContent">amending Implementing Regulation (EU) 2015/2447 as regards the procedural rules to facilitate the establishment in the Union of the preferential origin of goods, and repealing Regulations (EEC) No 3510/80 and (EC) No 209/2005 |  | за изменување на Регулативата за спроведување (ЕУ) 2015/2447 во однос на процедуралните правила за олеснување на воспоставувањето на повластено потекло на стоката во Унијата и за укинување на Регулативите (ЕЕЗ) бр. 3510/80 и (ЕЗ) бр. 209/2005 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>05 ЕВРОПСКАТА КОМИСИЈ</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210613T211208Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210613T211232Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145523Z" usagecount="2">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-ContextContent">THE EUROPEAN COMMISSION, |  | ЕВРОПСКАТА КОМИСИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>А, имајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210613T211250Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210613T211419Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145523Z" usagecount="2">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-1630537092630497703, -2439055183373607700</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, |  | имајќи го предвид Договорот за функционирање на Европската Унија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (<ph x="1" type="301" />), and in particular Article 66(a) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот од 9 октомври 2013 година за утврдување на Царинскиот законик на Унијата (), а особено член 66 (а) од истата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T205458Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T205507Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145524Z" usagecount="4">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">2195521920167072434, 6390977596846803549</prop>
+      <prop type="x-ContextContent">Additional contact details including telephone and fax number as well as email address where available (optional). |  | Дополнителни детали за контакт, вклучувајќи број на телефон и факс, како и адреса за е-пошта каде што е достапно (по избор). | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Specify whether the main activity is producing or trading.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Наведете дали главната активност е производство или трговија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">125</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T210241Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T210255Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145524Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-9148142878067550043, 981114801039739965</prop>
+      <prop type="x-ContextContent">undertakes to maintain appropriate commercial accounting records for production/supply of goods qualifying for preferential treatment and to keep them for at least three years from the end of the calendar year in which the statement on origin was made out; |  | се обврзува да води соодветна трговска сметководствена евиденција за производство / снабдување на стока што се квалификува за повластен третман и да ги чува најмалку три години од крајот на календарската година во која е изработена изјавата за потекло; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>undertakes to immediately notify the competent authority of changes as they arise to his registration data since acquiring the number of registered exporter;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>се обврзува веднаш да го извести надлежниот орган за промените што се појавуваат во неговите податоци за регистрација од стекнувањето на бројот на регистриран извозник;</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">133</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T210323Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T210409Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145524Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-1094541825359018335, -536942407676511405</prop>
+      <prop type="x-ContextContent">undertakes to immediately notify the competent authority of changes as they arise to his registration data since acquiring the number of registered exporter; |  | се обврзува веднаш да го извести надлежниот орган за промените што се појавуваат во неговите податоци за регистрација од стекнувањето на бројот на регистриран извозник; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>—	undertakes to cooperate with the competent authority;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>се обврзува да соработува со надлежниот органиот</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">134</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T210419Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T211139Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145524Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-4980014234757562367, 240661832142617942</prop>
+      <prop type="x-ContextContent">—	undertakes to cooperate with the competent authority; |  | се обврзува да соработува со надлежниот орган; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>undertakes to accept any checks on the accuracy of his statements on origin, including verification of accounting records and visits to his premises by the European Commission or Member States' authorities, as well as the authorities of Norway, Switzerland and Turkey;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>орган; се обврзува да прифати каква било проверка на точноста на неговите изјави за потекло, вклучително и проверка на сметководствената евиденцијата и посети на неговите простории од страна на Европската комисија или органите на земјите членки, како и властите органите на Норвешка, Швајцарија и Турција;</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">135</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T211202Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T211226Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145524Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-1902394976405692775, 612613445653864756</prop>
+      <prop type="x-ContextContent">undertakes to accept any checks on the accuracy of his statements on origin, including verification of accounting records and visits to his premises by the European Commission or Member States' authorities, as well as the authorities of Norway, Switzerland and Turkey; |  | се обврзува да прифати каква било проверка на точноста на неговите изјави за потекло, вклучително и проверка на сметководствена евиденцијата и посети на неговите простории од страна на Европската комисија или органите на земјите членки, како и властите на Норвешка, Швајцарија и Турција; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>undertakes to request the revocation of his registration in the system, should he no longer meet the conditions for exporting any goods under the scheme;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>се обврзува да побара одземање отповикување на неговата регистрација во системот, доколку веќе не ги исполнува условите за извоз на стоки од според оваа ше</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">136</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T211227Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T211340Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145524Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-4345531469807044873, 6422807082492684671</prop>
+      <prop type="x-ContextContent">undertakes to request the revocation of his registration in the system, should he no longer meet the conditions for exporting any goods under the scheme; |  | се обврзува да побара одземање на неговата регистрација во системот, доколку веќе не ги исполнува условите за извоз на стоки од оваа шема; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>undertakes to request the revocation of his registration in the system, should he no longer intend to export such goods under the scheme.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ма; се обврзува да побара отповикувањеодземање на неговата регистрација во системот, доколку веќе нема намера да извезува ваква стока според шемата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">137</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T211240Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T211415Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145524Z" usagecount="3">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">7036986463473449269, 4764896449218251394</prop>
+      <prop type="x-ContextContent">The undersigned may withdraw his consent to the publication of this information via the public website by sending a request to the competent authorities responsible for the registration. |  | Долупотпишаниот може да ја повлече својата согласност за објавување на оваа информација преку јавната веб-страница со испраќање на барање до надлежните органи одговорни за регистрацијата. | </prop>
+      <prop type="x-Context">6489121302421664893, -6276559398518808060</prop>
+      <prop type="x-ContextContent">undertakes to request the revocation of his registration in the system, should he no longer intend to export such goods under the scheme. |  | се обврзува да побара одземање на неговата регистрација во системот, доколку веќе нема намера да извезува ваква стока според шемата. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Place, date, signature of authorised signatory, name and job title (<bpt i="1" type="1192" x="1" />2<ept i="1" />)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>54610203835 Место, датум, потпис на овластен потписник, име и назив на работното место(2)</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">138</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T211431Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T211501Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145525Z" usagecount="3">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-303340462917986533, 3202033871570906919</prop>
+      <prop type="x-ContextContent">Place, date, signature of authorised signatory, name and job title (2) | AgJEAQEBAQQxMTkyAQECAQEEMTE5MgE= | Место, датум, потпис на овластен потписник, име и назив на работното место(2) | AgJLAQEBAQQxMTkyAQECAQEEMTE5MgE=</prop>
+      <prop type="x-Context">-303340462917986533, 3202033871570906919</prop>
+      <prop type="x-ContextContent">Place, date, signature of authorised signatory, name and job title (2) |  | Место, датум, потпис на овластен потписник, име и назив на работното место(2) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Prior specific and informed consent of exporter to the publication of his data on the public website</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претходна специфична Изречна и информирана претходна согласност на извозникот за објавување на неговите податоци на јавната веб-страница.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">139</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T211534Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T211604Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145525Z" usagecount="4">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-3186776971529481128, -453215297018787793</prop>
+      <prop type="x-ContextContent">Prior specific and informed consent of exporter to the publication of his data on the public website |  | Претходна специфична и информирана согласност на извозникот за објавување на неговите податоци на јавната веб-страница | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The undersigned is hereby informed that the information supplied in this declaration may be disclosed to the public via the public website.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Долупотпишаниот со ова се известува дека информациите дадени во оваа декларација изјава можат да бидат соопштени достапни на јавноста преку јавната веб</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">140</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T211636Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T220705Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145525Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-5867310386243404806, 3413183544890435633</prop>
+      <prop type="x-ContextContent">The undersigned is hereby informed that the information supplied in this declaration may be disclosed to the public via the public website. |  | Долупотпишаниот со ова се известува дека информациите дадени во оваа декларација можат да бидат соопштени на јавноста преку јавната веб-страница. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The undersigned accepts the publication of this information via the public website.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>-страница. Долупотпишаниот го прифаќа објавувањето на овие информации преку јавната веб-ст</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">141</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T211742Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T211806Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145525Z" usagecount="4">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">5450718426242512898, -5035765089268639190</prop>
+      <prop type="x-ContextContent">The undersigned accepts the publication of this information via the public website. |  | Долупотпишаниот го прифаќа објавувањето на овие онформации преку јавната веб-страница. | </prop>
+      <prop type="x-Context">5450718426242512898, 46142608907316720</prop>
+      <prop type="x-ContextContent">The undersigned accepts the publication of this information via the public website. |  | Долупотпишаниот го прифаќа објавувањето на овие информации преку јавната веб-страница. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The undersigned may withdraw his consent to the publication of this information via the public website by sending a request to the competent authorities responsible for the registration.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>раница. Долупотпишаниот може да ја повлече својата согласност за објавување на оваа информација преку јавната веб-страница со испраќање на барање до надлежните органи одговорни за регистрацијата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">142</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T212531Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T212755Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145524Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">3528086781530613844, 5013881832654234497</prop>
+      <prop type="x-ContextContent">concerning the protection and processing of personal data incorporated in the system |  | во врска со заштитата и обработката на личните податоци инкорпорирани во системот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where the European Commission processes personal data contained in this application to become a registered exporter, Regulation (EC) No 45/2001 of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data by the Union institutions and bodies and on the free movement of such data applies.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Кога Европската комисија обработува лични податоци содржани во овој ова поднесок барање за добивање статус на регистриран извозник, се применува Регулатива (ЕЗ) бр. 45/2001 на Европскиот парламент и на Советот за заштита на лицата во врска со обработката на личните податоци од институциите на Унијата и телата на Унијата и за слободно движење на таквите</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">151</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T212636Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T213254Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145524Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-3676508686137867232, -3880544124038350388</prop>
+      <prop type="x-ContextContent">Where the European Commission processes personal data contained in this application to become a registered exporter, Regulation (EC) No 45/2001 of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data by the Union institutions and bodies and on the free movement of such data applies. |  | Кога Европската комисија обработува лични податоци содржани во овој поднесок за регистриран извозник, се применува Регулатива (ЕЗ) бр. 45/2001 на Европскиот парламент и на Советот за заштита на лицата во врска со обработката на личните податоци од институциите на Унијата и телата и за слободно движење на таквите податоци. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where the competent authorities of a beneficiary country or a third country implementing Directive 95/46/EC of the European Parliament and of the Council on the protection of individuals with regard to the processing of personal data and on the free movement of such data process personal data contained in this application to become a registered exporter, the relevant national provisions implementing that Directive apply.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>податоци. Кога надлежните органи на земја корисник или трета земја што ја спроведуваат Директивата 95/46/ЕЗ на Европскиот парламент и на Советот за заштита на поединци во врска со обработка на лични податоци и за слободно движење на таквите податоци, ги обработуваат личните податоци содржани во ова барањеој поднесок за добивање статус на регистриран извозник, се применуваат соодветните национални одредби за спроведување на таа директива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">152</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210615T214055Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20210615T214136Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20210616T145524Z" usagecount="1">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">7552297950687747668, 4356996853327219639</prop>
+      <prop type="x-ContextContent">The list of competent authorities is published on the website of the Commission. |  | Списокот на надлежни органи е објавен на веб-страницата на Комисијата. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Access to all data of this application is granted through a user ID/password to users in the Commission, the competent authorities of beneficiary countries and the customs authorities in the Member States, Norway, Switzerland and Turkey.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а на Комисијата. Пристапот до сите податоци на во овој ова поднесок барање се дава преку корисничка корисничко лична картаиме/лозинка за корисниците во Комисијата, надлежните органи на земјите кориснички и царинските органи во земјите членки, Норвешка, Швајцарија и Турција.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R0604</prop>
+      <prop type="x-SourceTUIndex">157</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

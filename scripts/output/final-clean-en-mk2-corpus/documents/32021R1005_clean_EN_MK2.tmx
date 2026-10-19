@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210728T201841Z" creationid="HP\a">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32021D1005</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021R1005</prop>
+    <prop type="x-SourceTMX">32021R1005_MK1.tmx</prop>
+    <prop type="x-SourceTMXSHA256">d232382efee3c98f91a647307ff1df228d124f146facf22832a43f7b68a79a4b</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">7</prop>
+  </header>
+  <body>
+    <tu creationdate="20210728T202009Z" creationid="PC" changedate="20210728T202029Z" changeid="PC" lastusagedate="20210729T171650Z" usagecount="2">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL REGULATION (EU) 2021/1005</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) 2021/1005 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1005</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T202127Z" creationid="PC" changedate="20210728T202154Z" changeid="PC" lastusagedate="20210729T171650Z" usagecount="1">
+      <prop type="x-Context">1333417285834173202, -1562503264613108206</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="35" x="1" />
+          <bpt i="2" type="33" />H<ept i="2" />
+          <ept i="1" />
+          <bpt i="3" type="38" />aving regard to Council Decision (CFSP) 2015/1333 of 31 July 2015 concerning restrictive measures in view of the situation in Libya, and repealing Decision 2011/137/CFSP<ept i="3" />
+          <bpt i="4" type="42" x="2" /> (<ph x="3" type="85" />)<ept i="4" />
+          <bpt i="6" type="91" x="4" />,<ept i="6" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>н 215 од истиот, Имајќи имајќи ја предвид Одлуката (ЗНБП) 2015/1333 на Советот од 31 јули 2015 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на Одлуката 2011/137/ЗНБП (),</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1005</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T202155Z" creationid="PC" changedate="20210728T202228Z" changeid="PC" lastusagedate="20210729T171650Z" usagecount="1">
+      <prop type="x-Context">7864611915906308453, -1219898320707452961</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the joint proposal of the High Representative of the Union for Foreign Affairs and Security Policy and of the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид заедничкиот предлог на Високиот претставник на Унијата за надворешни работи и безбедносна политика и на Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1005</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210729T170235Z" creationid="PC" changedate="20210729T170409Z" changeid="PC" lastusagedate="20210729T171650Z" usagecount="1">
+      <prop type="x-Context">3520251291494, -1473885434305972833</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="103" x="1" />
+          <bpt i="2" type="101" x="2" />(<ept i="2" />
+          <ept i="1" />
+          <bpt i="3" type="106" x="3" />1)	Council Regulation (EU) 2016/44<ept i="3" />
+          <bpt i="4" type="116" x="4" /> (<ph x="5" type="123" />)<ept i="4" />
+          <bpt i="6" type="129" x="6" /> gives effect to the measures provided for by Decision (CFSP) 2015/1333.<ept i="6" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со оглед на тоа што: (1)Со Регулативата (ЕУ) 2016/44 на Советот () се спроведуваат мерките предвидени во Одлуката (ЗНБП) 2015/1333.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1005</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T202301Z" creationid="PC" changedate="20210729T171401Z" changeid="PC" lastusagedate="20210729T171650Z" usagecount="1">
+      <prop type="x-Context">1252036455382166190, -7304206951605851127</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘(d)	are engaged in or provide support for acts that threaten the peace, stability or security of Libya or obstruct or undermine the successful completion of Libya’s political transition, including by:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„(г)учествуваат или обезбедуваат поддршка на дејствија што го ги загрозуваат мирот, стабилноста или безбедноста на Либија или што го попречуваат или го поткопуваат успешното завршување на политичката транзиција на Либија, вклучувајќи</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1005</prop>
+      <prop type="x-SourceTUIndex">13</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T202305Z" creationid="PC" changedate="20210729T171418Z" changeid="PC" lastusagedate="20210729T171650Z" usagecount="1">
+      <prop type="x-Context">-8800483909897244517, -4469716425459394516</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(i)	planning, directing, or committing acts in Libya that violate applicable international human rights law or international humanitarian law, or acts that constitute human rights abuses, in Libya;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со: (i)планирање, насочување или извршување дејствија во Либија што го прекршуваат применливото меѓународно право за човекови права или меѓународното хуманитарно право, или дејствија што претставуваат прекршување на човековите права, во Либија</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1005</prop>
+      <prop type="x-SourceTUIndex">14</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210728T202308Z" creationid="PC" changedate="20210729T171428Z" changeid="PC" lastusagedate="20210729T171650Z" usagecount="1">
+      <prop type="x-Context">-6008097969720448699, -1212846510717342348</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(ii)	attacks against any air, land or sea port in Libya, or against a Libyan state institution or installation, or against any foreign mission in Libya;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (ii)напади врз кој било аеродром, копно или пристаниште во Либија или врз либиски државни институции или објекти, или врз која било странска мисија во Либија;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R1005</prop>
+      <prop type="x-SourceTUIndex">15</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

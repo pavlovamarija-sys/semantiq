@@ -1,0 +1,3480 @@
+{
+  "generatedAt": "2026-10-06T20:12:10.364Z",
+  "runId": "b807fa2d-ccb2-4e1d-87f9-dc24e1295434",
+  "analysis": {
+    "model": "gpt-5.6",
+    "promptVersion": "translation-report-terminology-v2",
+    "candidates": [
+      {
+        "kind": "term",
+        "en": "animal health conditions",
+        "variants": [
+          {
+            "mk": "условите за здравствена заштита на животните",
+            "segmentIndexes": [
+              0,
+              176
+            ]
+          },
+          {
+            "mk": "условите за здравјето на животните",
+            "segmentIndexes": [
+              44
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "movement of equidae",
+        "variants": [
+          {
+            "mk": "движењето на еквидите",
+            "segmentIndexes": [
+              13,
+              61
+            ]
+          },
+          {
+            "mk": "движењето на еквиди",
+            "segmentIndexes": [
+              62
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "import from third countries",
+        "variants": [
+          {
+            "mk": "увозот на еквиди од трети земји",
+            "segmentIndexes": [
+              0
+            ]
+          },
+          {
+            "mk": "нивниот увоз од трети земји",
+            "segmentIndexes": [
+              44
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "intra-Community trade",
+        "variants": [
+          {
+            "mk": "трговијата со еквиди во Заедницата",
+            "segmentIndexes": [
+              15
+            ]
+          },
+          {
+            "mk": "трговија во рамките на Заедницата",
+            "segmentIndexes": [
+              68,
+              143
+            ]
+          },
+          {
+            "mk": "трговијата во рамките на Заедницата",
+            "segmentIndexes": [
+              99
+            ]
+          },
+          {
+            "mk": "трговијата со живи животни во рамките на Заедницата",
+            "segmentIndexes": [
+              148
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "completion of the internal market",
+        "variants": [
+          {
+            "mk": "довршување на внатрешниот пазар",
+            "segmentIndexes": [
+              22,
+              148
+            ]
+          },
+          {
+            "mk": "завршувањето на внатрешниот пазар",
+            "segmentIndexes": [
+              37
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "animal health requirements",
+        "variants": [
+          {
+            "mk": "барања во однос на здравствената состојба на животните",
+            "segmentIndexes": [
+              18
+            ]
+          },
+          {
+            "mk": "барањата за здравствена заштита на животните",
+            "segmentIndexes": [
+              175,
+              199
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "health certificate",
+        "variants": [
+          {
+            "mk": "здравствен сертификат",
+            "segmentIndexes": [
+              21,
+              144,
+              146
+            ]
+          },
+          {
+            "mk": "здравствениот сертификат",
+            "segmentIndexes": [
+              137
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "identification document",
+        "variants": [
+          {
+            "mk": "документ за идентификација",
+            "segmentIndexes": [
+              17,
+              49,
+              72,
+              139,
+              145
+            ]
+          },
+          {
+            "mk": "документот за идентификација",
+            "segmentIndexes": [
+              114,
+              133,
+              142
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "registered equidae",
+        "variants": [
+          {
+            "mk": "регистрирани копитари",
+            "segmentIndexes": [
+              49,
+              204
+            ]
+          },
+          {
+            "mk": "регистрирани еквиди",
+            "segmentIndexes": [
+              68,
+              133,
+              146
+            ]
+          },
+          {
+            "mk": "регистрираните еквиди",
+            "segmentIndexes": [
+              142
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "equidae for slaughter",
+        "variants": [
+          {
+            "mk": "еквиди за колење",
+            "segmentIndexes": [
+              50,
+              138,
+              199
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "equidae for breeding and production",
+        "variants": [
+          {
+            "mk": "еквиди за одгледување и производство",
+            "segmentIndexes": [
+              51
+            ]
+          },
+          {
+            "mk": "копитари за одгледување и производство",
+            "segmentIndexes": [
+              73
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "compulsorily notifiable diseases",
+        "variants": [
+          {
+            "mk": "болести што задолжително се пријавуваат",
+            "segmentIndexes": [
+              55
+            ]
+          },
+          {
+            "mk": "болестите што задолжително се пријавуваат",
+            "segmentIndexes": [
+              69
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "official veterinarian",
+        "variants": [
+          {
+            "mk": "официјален ветеринар",
+            "segmentIndexes": [
+              56,
+              182
+            ]
+          },
+          {
+            "mk": "официјалниот ветеринар",
+            "segmentIndexes": [
+              69,
+              72,
+              139,
+              278
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "competent central authority",
+        "variants": [
+          {
+            "mk": "надлежниот централен орган",
+            "segmentIndexes": [
+              56,
+              116
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "competent national authorities",
+        "variants": [
+          {
+            "mk": "надлежните национални органи",
+            "segmentIndexes": [
+              23,
+              150
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "temporary admission",
+        "variants": [
+          {
+            "mk": "привремен прием",
+            "segmentIndexes": [
+              57
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "temporary entry",
+        "variants": [
+          {
+            "mk": "привремен влез",
+            "segmentIndexes": [
+              204
+            ]
+          },
+          {
+            "mk": "привремениот влез",
+            "segmentIndexes": [
+              206
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "holding of origin",
+        "variants": [
+          {
+            "mk": "одгледувалиштето на потекло",
+            "segmentIndexes": [
+              77
+            ]
+          },
+          {
+            "mk": "стопанството на потекло",
+            "segmentIndexes": [
+              136
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "approved marshalling centre",
+        "variants": [
+          {
+            "mk": "одобрен собирен центар",
+            "segmentIndexes": [
+              50
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "period of prohibition",
+        "variants": [
+          {
+            "mk": "периодот на забрана",
+            "segmentIndexes": [
+              77,
+              84
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "protection zone",
+        "variants": [
+          {
+            "mk": "заштитна зона",
+            "segmentIndexes": [
+              108
+            ]
+          },
+          {
+            "mk": "заштитната зона",
+            "segmentIndexes": [
+              110,
+              112
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "surveillance zone",
+        "variants": [
+          {
+            "mk": "зона на надзор",
+            "segmentIndexes": [
+              110
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "centre of infection",
+        "variants": [
+          {
+            "mk": "центар на инфекција",
+            "segmentIndexes": [
+              109
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "vector insects",
+        "variants": [
+          {
+            "mk": "инсектите-вектори",
+            "segmentIndexes": [
+              118
+            ]
+          },
+          {
+            "mk": "инсекти-вектори",
+            "segmentIndexes": [
+              124
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "quarantine station",
+        "variants": [
+          {
+            "mk": "карантинска станица",
+            "segmentIndexes": [
+              123
+            ]
+          },
+          {
+            "mk": "карантинската станица",
+            "segmentIndexes": [
+              124
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "complement fixation test",
+        "variants": [
+          {
+            "mk": "тест за фиксација на комплемент",
+            "segmentIndexes": [
+              120
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "Scientific Veterinary Committee",
+        "variants": [
+          {
+            "mk": "Научниот ветеринарен комитет",
+            "segmentIndexes": [
+              122,
+              180
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "Standing Veterinary Committee",
+        "variants": [
+          {
+            "mk": "Постојаниот ветеринарен комитет",
+            "segmentIndexes": [
+              39,
+              223,
+              234
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "African horse sickness",
+        "variants": [
+          {
+            "mk": "африканска чума кај коњите",
+            "segmentIndexes": [
+              52,
+              53,
+              102,
+              103,
+              105,
+              106,
+              107,
+              119,
+              120,
+              125,
+              163,
+              168,
+              275,
+              310,
+              311
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "dourine",
+        "variants": [
+          {
+            "mk": "дурина",
+            "segmentIndexes": [
+              78,
+              165
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "glanders",
+        "variants": [
+          {
+            "mk": "сакагија",
+            "segmentIndexes": [
+              79,
+              165
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "equine encephalomyelitis",
+        "variants": [
+          {
+            "mk": "енцефаломиелитис кај коњи",
+            "segmentIndexes": [
+              79
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "infectious anaemia",
+        "variants": [
+          {
+            "mk": "инфективна анемија",
+            "segmentIndexes": [
+              80
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "vesicular stomatitis",
+        "variants": [
+          {
+            "mk": "везикуларен стоматитис",
+            "segmentIndexes": [
+              81,
+              177,
+              178
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "viral arteritis",
+        "variants": [
+          {
+            "mk": "вирусен артеритис",
+            "segmentIndexes": [
+              177,
+              179
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "serological test",
+        "variants": [
+          {
+            "mk": "серолошки тест",
+            "segmentIndexes": [
+              178
+            ]
+          },
+          {
+            "mk": "серолошко испитување",
+            "segmentIndexes": [
+              179
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "virus isolation test",
+        "variants": [
+          {
+            "mk": "испитување за изолација на вирусот",
+            "segmentIndexes": [
+              179
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "animal health grounds",
+        "variants": [
+          {
+            "mk": "причини поврзани со здравјето на животните",
+            "segmentIndexes": [
+              200,
+              216
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "national programme of contagious or infectious disease eradication",
+        "variants": [
+          {
+            "mk": "национална програма за искоренување на заразна или инфективна болест",
+            "segmentIndexes": [
+              70
+            ]
+          },
+          {
+            "mk": "национална програма за искоренување на заразни или инфективни болести",
+            "segmentIndexes": [
+              274
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "clinical sign of disease",
+        "variants": [
+          {
+            "mk": "клинички знаци на болест",
+            "segmentIndexes": [
+              68,
+              273,
+              308
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "procedure laid down in Article 24",
+        "variants": [
+          {
+            "mk": "постапката утврдена во член 24",
+            "segmentIndexes": [
+              57,
+              72,
+              98,
+              112,
+              122,
+              152,
+              166,
+              175,
+              179,
+              180,
+              197,
+              200,
+              202,
+              216
+            ]
+          },
+          {
+            "mk": "постапката предвидена во член 24",
+            "segmentIndexes": [
+              191
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "qualified majority",
+        "variants": [
+          {
+            "mk": "квалификувано мнозинство",
+            "segmentIndexes": [
+              125,
+              131,
+              230,
+              240,
+              247
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "simple majority",
+        "variants": [
+          {
+            "mk": "просто мнозинство",
+            "segmentIndexes": [
+              241,
+              248
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "draft of the measures to be taken",
+        "variants": [
+          {
+            "mk": "нацрт на мерките што треба да се преземат",
+            "segmentIndexes": [
+              235,
+              244
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "The Committee shall deliver its opinion on the draft",
+        "variants": [
+          {
+            "mk": "Комитетот го дава своето мислење за нацртот",
+            "segmentIndexes": [
+              235,
+              244
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "The Council shall act by a qualified majority.",
+        "variants": [
+          {
+            "mk": "Советот одлучува со квалификувано мнозинство.",
+            "segmentIndexes": [
+              240,
+              247
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "the proposed measures shall be adopted by the Commission",
+        "variants": [
+          {
+            "mk": "предложените мерки ги донесува Комисијата",
+            "segmentIndexes": [
+              241,
+              248
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "laws, regulations and administrative provisions",
+        "variants": [
+          {
+            "mk": "законите, прописите и административните одредби",
+            "segmentIndexes": [
+              252
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "positive control serum",
+        "variants": [
+          {
+            "mk": "позитивен контролен серум",
+            "segmentIndexes": [
+              330
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "anticomplementary effects",
+        "variants": [
+          {
+            "mk": "антикомплементарни ефекти",
+            "segmentIndexes": [
+              331,
+              333
+            ]
+          }
+        ]
+      }
+    ],
+    "usage": {
+      "inputTokens": 26187,
+      "outputTokens": 5116
+    }
+  },
+  "verified": {
+    "terminology": [
+      {
+        "kind": "term",
+        "en": "African horse sickness",
+        "mk": [
+          "африканска чума кај коњите"
+        ],
+        "frequency": 12,
+        "segmentReferences": [
+          {
+            "id": "c9980203-6f52-4490-b831-07f956000b94",
+            "index": 52
+          },
+          {
+            "id": "b9cf7231-a09a-4086-80ea-801b0e9a0a9b",
+            "index": 53
+          },
+          {
+            "id": "c3566f57-c112-4b94-9a56-b7b8ea64cd90",
+            "index": 102
+          },
+          {
+            "id": "77e68de9-8b09-49be-a87a-ab49df970109",
+            "index": 103
+          },
+          {
+            "id": "4e2f26c4-206c-49ee-a31b-4e9d1c46ffbf",
+            "index": 106
+          },
+          {
+            "id": "179238c3-16a3-4b5b-a076-00fb187f66f4",
+            "index": 107
+          },
+          {
+            "id": "1d1aabf1-682e-486a-9a91-702e409d8587",
+            "index": 119
+          },
+          {
+            "id": "4fd44599-4a23-48b5-8591-b559c6ab3fa6",
+            "index": 120
+          },
+          {
+            "id": "5f0e6b96-99db-45ae-8af2-af016a9dda22",
+            "index": 163
+          },
+          {
+            "id": "dacfc577-796b-4eae-8494-78f1dc89fc41",
+            "index": 275
+          },
+          {
+            "id": "86bebbae-0413-4468-9d31-486e41d04229",
+            "index": 310
+          },
+          {
+            "id": "19ff7ec3-3cca-42b7-8ea0-ab3cbd4ced50",
+            "index": 311
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "африканска чума кај коњите",
+            "count": 12,
+            "segmentIndexes": [
+              52,
+              53,
+              102,
+              103,
+              106,
+              107,
+              119,
+              120,
+              163,
+              275,
+              310,
+              311
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "identification document",
+        "mk": [
+          "документ за идентификација",
+          "документот за идентификација"
+        ],
+        "frequency": 6,
+        "segmentReferences": [
+          {
+            "id": "e5161e2c-7a0e-4609-a3e9-bb3d6177c79c",
+            "index": 17
+          },
+          {
+            "id": "6b052326-9320-47a2-aa07-d2ec0a9d02ef",
+            "index": 49
+          },
+          {
+            "id": "4950302b-19fa-4525-abc3-1d880ee05a3f",
+            "index": 72
+          },
+          {
+            "id": "bc55f7e0-3c0f-4070-9a80-d0b20d0700c6",
+            "index": 114
+          },
+          {
+            "id": "92c16057-d777-4a9a-8308-818f30ff3bfb",
+            "index": 133
+          },
+          {
+            "id": "4ffbc5b7-280c-48e3-9ddf-2c0eb691a1ef",
+            "index": 145
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "документ за идентификација",
+            "count": 4,
+            "segmentIndexes": [
+              17,
+              49,
+              72,
+              145
+            ]
+          },
+          {
+            "mk": "документот за идентификација",
+            "count": 2,
+            "segmentIndexes": [
+              114,
+              133
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "registered equidae",
+        "mk": [
+          "регистрирани копитари",
+          "регистрирани еквиди",
+          "регистрираните еквиди"
+        ],
+        "frequency": 6,
+        "segmentReferences": [
+          {
+            "id": "6b052326-9320-47a2-aa07-d2ec0a9d02ef",
+            "index": 49
+          },
+          {
+            "id": "91d39c15-ad2e-410d-ad73-9919b1bedb24",
+            "index": 68
+          },
+          {
+            "id": "92c16057-d777-4a9a-8308-818f30ff3bfb",
+            "index": 133
+          },
+          {
+            "id": "30a215fe-a522-4626-948d-1f72fbedbb29",
+            "index": 142
+          },
+          {
+            "id": "4593c5da-4767-4120-a04e-931f6b36f98b",
+            "index": 146
+          },
+          {
+            "id": "705c6b17-ef21-4e46-9a55-2fa55f4cbf84",
+            "index": 204
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "регистрирани копитари",
+            "count": 2,
+            "segmentIndexes": [
+              49,
+              204
+            ]
+          },
+          {
+            "mk": "регистрирани еквиди",
+            "count": 3,
+            "segmentIndexes": [
+              68,
+              133,
+              146
+            ]
+          },
+          {
+            "mk": "регистрираните еквиди",
+            "count": 1,
+            "segmentIndexes": [
+              142
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "intra-Community trade",
+        "mk": [
+          "трговијата со еквиди во Заедницата",
+          "трговија во рамките на Заедницата",
+          "трговијата во рамките на Заедницата",
+          "трговијата со живи животни во рамките на Заедницата"
+        ],
+        "frequency": 5,
+        "segmentReferences": [
+          {
+            "id": "4cb1f49f-f765-4eea-8e86-03dd8fbaaa7a",
+            "index": 15
+          },
+          {
+            "id": "91d39c15-ad2e-410d-ad73-9919b1bedb24",
+            "index": 68
+          },
+          {
+            "id": "311d0f67-057e-4f9d-abe0-19320cf3721c",
+            "index": 99
+          },
+          {
+            "id": "3937de9a-1613-4179-bb9f-54644186e9fb",
+            "index": 143
+          },
+          {
+            "id": "56b11d63-2c13-4214-a6e6-e5c197964b9a",
+            "index": 148
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "трговијата со еквиди во Заедницата",
+            "count": 1,
+            "segmentIndexes": [
+              15
+            ]
+          },
+          {
+            "mk": "трговија во рамките на Заедницата",
+            "count": 2,
+            "segmentIndexes": [
+              68,
+              143
+            ]
+          },
+          {
+            "mk": "трговијата во рамките на Заедницата",
+            "count": 1,
+            "segmentIndexes": [
+              99
+            ]
+          },
+          {
+            "mk": "трговијата со живи животни во рамките на Заедницата",
+            "count": 1,
+            "segmentIndexes": [
+              148
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "official veterinarian",
+        "mk": [
+          "официјален ветеринар",
+          "официјалниот ветеринар"
+        ],
+        "frequency": 5,
+        "segmentReferences": [
+          {
+            "id": "b27b84be-7342-47d9-b2a9-c5aed4568443",
+            "index": 56
+          },
+          {
+            "id": "bf28cf6e-3387-4896-83bf-1c50e3a1d925",
+            "index": 69
+          },
+          {
+            "id": "c7b3729b-b50e-4542-9230-a86280ada852",
+            "index": 139
+          },
+          {
+            "id": "9c8b38f8-9cb4-4797-a2fa-c3a695cf5806",
+            "index": 182
+          },
+          {
+            "id": "f2efe521-8371-4af0-8dfd-41ae41b4c879",
+            "index": 278
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "официјален ветеринар",
+            "count": 2,
+            "segmentIndexes": [
+              56,
+              182
+            ]
+          },
+          {
+            "mk": "официјалниот ветеринар",
+            "count": 3,
+            "segmentIndexes": [
+              69,
+              139,
+              278
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "qualified majority",
+        "mk": [
+          "квалификувано мнозинство"
+        ],
+        "frequency": 5,
+        "segmentReferences": [
+          {
+            "id": "256b0afa-0078-4a70-81d5-02f18b1e6f62",
+            "index": 125
+          },
+          {
+            "id": "1198b5e4-966f-4486-b8b4-ae615371801c",
+            "index": 131
+          },
+          {
+            "id": "cafed536-5999-4de4-8d01-be92f24c0e5f",
+            "index": 230
+          },
+          {
+            "id": "cb0dceed-43b3-441a-89a8-4397495ced22",
+            "index": 240
+          },
+          {
+            "id": "7a8f2e9a-217a-4e4b-aec3-106f5bae8039",
+            "index": 247
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "квалификувано мнозинство",
+            "count": 5,
+            "segmentIndexes": [
+              125,
+              131,
+              230,
+              240,
+              247
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "health certificate",
+        "mk": [
+          "здравствен сертификат",
+          "здравствениот сертификат"
+        ],
+        "frequency": 4,
+        "segmentReferences": [
+          {
+            "id": "79970a4c-d35d-45c4-b8a2-abf6ddbb4d47",
+            "index": 21
+          },
+          {
+            "id": "cb5cc1af-f047-4168-8ff4-22b4c58c954f",
+            "index": 137
+          },
+          {
+            "id": "f2f9a387-5679-4fac-bebf-b69e3179da1e",
+            "index": 144
+          },
+          {
+            "id": "4593c5da-4767-4120-a04e-931f6b36f98b",
+            "index": 146
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "здравствен сертификат",
+            "count": 3,
+            "segmentIndexes": [
+              21,
+              144,
+              146
+            ]
+          },
+          {
+            "mk": "здравствениот сертификат",
+            "count": 1,
+            "segmentIndexes": [
+              137
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "completion of the internal market",
+        "mk": [
+          "довршување на внатрешниот пазар",
+          "завршувањето на внатрешниот пазар"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "d1e1e304-e838-4136-8bac-bd244adf078f",
+            "index": 22
+          },
+          {
+            "id": "acd2e1de-ea16-49fb-a906-d9ea97eed0cb",
+            "index": 37
+          },
+          {
+            "id": "56b11d63-2c13-4214-a6e6-e5c197964b9a",
+            "index": 148
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "довршување на внатрешниот пазар",
+            "count": 2,
+            "segmentIndexes": [
+              22,
+              148
+            ]
+          },
+          {
+            "mk": "завршувањето на внатрешниот пазар",
+            "count": 1,
+            "segmentIndexes": [
+              37
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "Standing Veterinary Committee",
+        "mk": [
+          "Постојаниот ветеринарен комитет"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "ed289377-95d4-4d4f-974b-d34abfeb879e",
+            "index": 39
+          },
+          {
+            "id": "d2d6234f-3495-48ae-99c7-de3a67e01221",
+            "index": 223
+          },
+          {
+            "id": "01239293-787f-4b25-af8a-5e815b87ff5e",
+            "index": 234
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "Постојаниот ветеринарен комитет",
+            "count": 3,
+            "segmentIndexes": [
+              39,
+              223,
+              234
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "animal health requirements",
+        "mk": [
+          "барања во однос на здравствената состојба на животните",
+          "барањата за здравствена заштита на животните"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "4423cf03-a7da-4f79-9ad4-980eef138832",
+            "index": 18
+          },
+          {
+            "id": "14d8778b-0424-445b-b56e-fb0a6972e1ec",
+            "index": 175
+          },
+          {
+            "id": "ec110b29-1659-409e-9579-09cf99729fb5",
+            "index": 199
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "барања во однос на здравствената состојба на животните",
+            "count": 1,
+            "segmentIndexes": [
+              18
+            ]
+          },
+          {
+            "mk": "барањата за здравствена заштита на животните",
+            "count": 2,
+            "segmentIndexes": [
+              175,
+              199
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "animal health conditions",
+        "mk": [
+          "условите за здравствена заштита на животните",
+          "условите за здравјето на животните"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "05605ab4-6e88-4e65-987b-119aa6fd37bf",
+            "index": 0
+          },
+          {
+            "id": "7e907353-c834-47d8-b33b-3f419d50ab99",
+            "index": 44
+          },
+          {
+            "id": "1e3571cf-5c6b-48f8-ae56-13a391864b42",
+            "index": 176
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "условите за здравствена заштита на животните",
+            "count": 2,
+            "segmentIndexes": [
+              0,
+              176
+            ]
+          },
+          {
+            "mk": "условите за здравјето на животните",
+            "count": 1,
+            "segmentIndexes": [
+              44
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "vesicular stomatitis",
+        "mk": [
+          "везикуларен стоматитис"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "3aef7ccc-9c91-469e-976e-cf69e7061300",
+            "index": 81
+          },
+          {
+            "id": "8bc3a602-d309-4d4e-b1a9-bd18730dcca1",
+            "index": 177
+          },
+          {
+            "id": "58757140-2481-4572-8da0-1e4a945bc89f",
+            "index": 178
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "везикуларен стоматитис",
+            "count": 3,
+            "segmentIndexes": [
+              81,
+              177,
+              178
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "movement of equidae",
+        "mk": [
+          "движењето на еквидите",
+          "движењето на еквиди"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "a6a842b0-2445-4676-933a-78d972a96a09",
+            "index": 13
+          },
+          {
+            "id": "00389f8b-58b1-421a-be0d-c7738bd9bc5e",
+            "index": 61
+          },
+          {
+            "id": "6815ee4d-a31b-403e-b9e3-cc412e269dcd",
+            "index": 62
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "движењето на еквидите",
+            "count": 2,
+            "segmentIndexes": [
+              13,
+              61
+            ]
+          },
+          {
+            "mk": "движењето на еквиди",
+            "count": 1,
+            "segmentIndexes": [
+              62
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "protection zone",
+        "mk": [
+          "заштитна зона",
+          "заштитната зона"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "8298a164-4cf1-4b6a-8dd4-fa066f015e94",
+            "index": 108
+          },
+          {
+            "id": "d06370a2-ddd8-42e4-a010-b08fe1e06de6",
+            "index": 110
+          },
+          {
+            "id": "8ef588fb-eb00-4108-bcb3-ca16700509b9",
+            "index": 112
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "заштитна зона",
+            "count": 1,
+            "segmentIndexes": [
+              108
+            ]
+          },
+          {
+            "mk": "заштитната зона",
+            "count": 2,
+            "segmentIndexes": [
+              110,
+              112
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "equidae for breeding and production",
+        "mk": [
+          "еквиди за одгледување и производство",
+          "копитари за одгледување и производство"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "ccb75772-26d5-4d46-8afc-089f554970e0",
+            "index": 51
+          },
+          {
+            "id": "62ab8d39-5359-4469-a4a0-690fda4134bf",
+            "index": 73
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "еквиди за одгледување и производство",
+            "count": 1,
+            "segmentIndexes": [
+              51
+            ]
+          },
+          {
+            "mk": "копитари за одгледување и производство",
+            "count": 1,
+            "segmentIndexes": [
+              73
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "compulsorily notifiable diseases",
+        "mk": [
+          "болести што задолжително се пријавуваат",
+          "болестите што задолжително се пријавуваат"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "d2d71a95-39a5-4aae-9758-108f68744e46",
+            "index": 55
+          },
+          {
+            "id": "bf28cf6e-3387-4896-83bf-1c50e3a1d925",
+            "index": 69
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "болести што задолжително се пријавуваат",
+            "count": 1,
+            "segmentIndexes": [
+              55
+            ]
+          },
+          {
+            "mk": "болестите што задолжително се пријавуваат",
+            "count": 1,
+            "segmentIndexes": [
+              69
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "Scientific Veterinary Committee",
+        "mk": [
+          "Научниот ветеринарен комитет"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "ed515a8e-2cf8-4a72-907b-2553df3fb409",
+            "index": 122
+          },
+          {
+            "id": "f89d961d-00cf-4432-9a53-ae8db3251a99",
+            "index": 180
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "Научниот ветеринарен комитет",
+            "count": 2,
+            "segmentIndexes": [
+              122,
+              180
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "import from third countries",
+        "mk": [
+          "увозот на еквиди од трети земји",
+          "нивниот увоз од трети земји"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "05605ab4-6e88-4e65-987b-119aa6fd37bf",
+            "index": 0
+          },
+          {
+            "id": "7e907353-c834-47d8-b33b-3f419d50ab99",
+            "index": 44
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "увозот на еквиди од трети земји",
+            "count": 1,
+            "segmentIndexes": [
+              0
+            ]
+          },
+          {
+            "mk": "нивниот увоз од трети земји",
+            "count": 1,
+            "segmentIndexes": [
+              44
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "competent central authority",
+        "mk": [
+          "надлежниот централен орган"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "b27b84be-7342-47d9-b2a9-c5aed4568443",
+            "index": 56
+          },
+          {
+            "id": "7ad4d47b-f7f0-4156-a8fb-f0b7b368cd0a",
+            "index": 116
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "надлежниот централен орган",
+            "count": 2,
+            "segmentIndexes": [
+              56,
+              116
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "anticomplementary effects",
+        "mk": [
+          "антикомплементарни ефекти"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "f102cc1c-21ee-415f-91ae-882cdc44f709",
+            "index": 331
+          },
+          {
+            "id": "9f329b12-16fd-4d53-83fb-5b8ad4459ab5",
+            "index": 333
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "антикомплементарни ефекти",
+            "count": 2,
+            "segmentIndexes": [
+              331,
+              333
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "period of prohibition",
+        "mk": [
+          "периодот на забрана"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "e1ff5721-9b43-41d2-93cb-bdeb92dd2343",
+            "index": 77
+          },
+          {
+            "id": "9906f378-a61b-4713-a2f5-7f0d02e52645",
+            "index": 84
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "периодот на забрана",
+            "count": 2,
+            "segmentIndexes": [
+              77,
+              84
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "animal health grounds",
+        "mk": [
+          "причини поврзани со здравјето на животните"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "778ffec3-98d7-4a93-9356-1f31c3e65c9b",
+            "index": 200
+          },
+          {
+            "id": "7a9155fe-8b53-45c5-96f5-4b21cd643e9e",
+            "index": 216
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "причини поврзани со здравјето на животните",
+            "count": 2,
+            "segmentIndexes": [
+              200,
+              216
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "quarantine station",
+        "mk": [
+          "карантинска станица",
+          "карантинската станица"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "22c26c89-1360-4dce-977c-4588bd6ca12b",
+            "index": 123
+          },
+          {
+            "id": "159fcb1e-1574-416f-a88d-42e94abb7c39",
+            "index": 124
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "карантинска станица",
+            "count": 1,
+            "segmentIndexes": [
+              123
+            ]
+          },
+          {
+            "mk": "карантинската станица",
+            "count": 1,
+            "segmentIndexes": [
+              124
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "holding of origin",
+        "mk": [
+          "одгледувалиштето на потекло",
+          "стопанството на потекло"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "e1ff5721-9b43-41d2-93cb-bdeb92dd2343",
+            "index": 77
+          },
+          {
+            "id": "d35209c3-5c39-4a18-ba81-ae1a4250bd05",
+            "index": 136
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "одгледувалиштето на потекло",
+            "count": 1,
+            "segmentIndexes": [
+              77
+            ]
+          },
+          {
+            "mk": "стопанството на потекло",
+            "count": 1,
+            "segmentIndexes": [
+              136
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "serological test",
+        "mk": [
+          "серолошки тест",
+          "серолошко испитување"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "58757140-2481-4572-8da0-1e4a945bc89f",
+            "index": 178
+          },
+          {
+            "id": "07f909ba-94db-44c5-bd5e-f135d90ee59f",
+            "index": 179
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "серолошки тест",
+            "count": 1,
+            "segmentIndexes": [
+              178
+            ]
+          },
+          {
+            "mk": "серолошко испитување",
+            "count": 1,
+            "segmentIndexes": [
+              179
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "temporary entry",
+        "mk": [
+          "привремен влез",
+          "привремениот влез"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "705c6b17-ef21-4e46-9a55-2fa55f4cbf84",
+            "index": 204
+          },
+          {
+            "id": "61bbf3e0-5545-46cc-bdb1-3d01f6a305d7",
+            "index": 206
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "привремен влез",
+            "count": 1,
+            "segmentIndexes": [
+              204
+            ]
+          },
+          {
+            "mk": "привремениот влез",
+            "count": 1,
+            "segmentIndexes": [
+              206
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "viral arteritis",
+        "mk": [
+          "вирусен артеритис"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "8bc3a602-d309-4d4e-b1a9-bd18730dcca1",
+            "index": 177
+          },
+          {
+            "id": "07f909ba-94db-44c5-bd5e-f135d90ee59f",
+            "index": 179
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "вирусен артеритис",
+            "count": 2,
+            "segmentIndexes": [
+              177,
+              179
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "simple majority",
+        "mk": [
+          "просто мнозинство"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "6aa157c6-2d81-46f3-9186-d4cca1559f22",
+            "index": 241
+          },
+          {
+            "id": "fecedfcc-7637-4e16-a360-923fdbfe9f77",
+            "index": 248
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "просто мнозинство",
+            "count": 2,
+            "segmentIndexes": [
+              241,
+              248
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "glanders",
+        "mk": [
+          "сакагија"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "b209600a-c910-42d3-bc42-462ce39dc87d",
+            "index": 79
+          },
+          {
+            "id": "cd33c2b7-73f3-4250-a058-d0d8e0582e40",
+            "index": 165
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "сакагија",
+            "count": 2,
+            "segmentIndexes": [
+              79,
+              165
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "dourine",
+        "mk": [
+          "дурина"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "e208c331-0fc8-44bf-946e-7d5c92655043",
+            "index": 78
+          },
+          {
+            "id": "cd33c2b7-73f3-4250-a058-d0d8e0582e40",
+            "index": 165
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "дурина",
+            "count": 2,
+            "segmentIndexes": [
+              78,
+              165
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "laws, regulations and administrative provisions",
+        "mk": [
+          "законите, прописите и административните одредби"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "4f840c05-28ad-4010-b7fd-583a55589be7",
+            "index": 252
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "законите, прописите и административните одредби",
+            "count": 1,
+            "segmentIndexes": [
+              252
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "competent national authorities",
+        "mk": [
+          "надлежните национални органи"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "a15f76e5-c517-4c39-ae41-2121b17cc6ec",
+            "index": 23
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "надлежните национални органи",
+            "count": 1,
+            "segmentIndexes": [
+              23
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "approved marshalling centre",
+        "mk": [
+          "одобрен собирен центар"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "78b57037-0add-4267-ac97-56745fb4da3e",
+            "index": 50
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "одобрен собирен центар",
+            "count": 1,
+            "segmentIndexes": [
+              50
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "complement fixation test",
+        "mk": [
+          "тест за фиксација на комплемент"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "4fd44599-4a23-48b5-8591-b559c6ab3fa6",
+            "index": 120
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "тест за фиксација на комплемент",
+            "count": 1,
+            "segmentIndexes": [
+              120
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "equine encephalomyelitis",
+        "mk": [
+          "енцефаломиелитис кај коњи"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "b209600a-c910-42d3-bc42-462ce39dc87d",
+            "index": 79
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "енцефаломиелитис кај коњи",
+            "count": 1,
+            "segmentIndexes": [
+              79
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "positive control serum",
+        "mk": [
+          "позитивен контролен серум"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "e03156a2-64fa-472e-806e-a34c019cfdc7",
+            "index": 330
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "позитивен контролен серум",
+            "count": 1,
+            "segmentIndexes": [
+              330
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "equidae for slaughter",
+        "mk": [
+          "еквиди за колење"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "78b57037-0add-4267-ac97-56745fb4da3e",
+            "index": 50
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "еквиди за колење",
+            "count": 1,
+            "segmentIndexes": [
+              50
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "virus isolation test",
+        "mk": [
+          "испитување за изолација на вирусот"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "07f909ba-94db-44c5-bd5e-f135d90ee59f",
+            "index": 179
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "испитување за изолација на вирусот",
+            "count": 1,
+            "segmentIndexes": [
+              179
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "temporary admission",
+        "mk": [
+          "привремен прием"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "52672e31-f998-4287-8cb0-9779b93c82e3",
+            "index": 57
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "привремен прием",
+            "count": 1,
+            "segmentIndexes": [
+              57
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "centre of infection",
+        "mk": [
+          "центар на инфекција"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "c14c0578-7e94-4ed8-9912-7812c31167f3",
+            "index": 109
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "центар на инфекција",
+            "count": 1,
+            "segmentIndexes": [
+              109
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "infectious anaemia",
+        "mk": [
+          "инфективна анемија"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "c53e4830-f053-41b1-b503-3040163c14bd",
+            "index": 80
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "инфективна анемија",
+            "count": 1,
+            "segmentIndexes": [
+              80
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "surveillance zone",
+        "mk": [
+          "зона на надзор"
+        ],
+        "frequency": 1,
+        "segmentReferences": [
+          {
+            "id": "d06370a2-ddd8-42e4-a010-b08fe1e06de6",
+            "index": 110
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "зона на надзор",
+            "count": 1,
+            "segmentIndexes": [
+              110
+            ]
+          }
+        ]
+      }
+    ],
+    "repeatedPhrases": [
+      {
+        "kind": "repeated_phrase",
+        "en": "procedure laid down in Article 24",
+        "mk": [
+          "постапката утврдена во член 24",
+          "постапката предвидена во член 24"
+        ],
+        "frequency": 15,
+        "segmentReferences": [
+          {
+            "id": "52672e31-f998-4287-8cb0-9779b93c82e3",
+            "index": 57
+          },
+          {
+            "id": "4950302b-19fa-4525-abc3-1d880ee05a3f",
+            "index": 72
+          },
+          {
+            "id": "865d51fa-80d9-4255-8fc6-f48b103be2c9",
+            "index": 98
+          },
+          {
+            "id": "8ef588fb-eb00-4108-bcb3-ca16700509b9",
+            "index": 112
+          },
+          {
+            "id": "ed515a8e-2cf8-4a72-907b-2553df3fb409",
+            "index": 122
+          },
+          {
+            "id": "6455a3fc-0bf4-4634-baf2-ad86d35fd9e6",
+            "index": 152
+          },
+          {
+            "id": "4156f549-3aef-43ac-8836-e51bda107632",
+            "index": 166
+          },
+          {
+            "id": "14d8778b-0424-445b-b56e-fb0a6972e1ec",
+            "index": 175
+          },
+          {
+            "id": "07f909ba-94db-44c5-bd5e-f135d90ee59f",
+            "index": 179
+          },
+          {
+            "id": "f89d961d-00cf-4432-9a53-ae8db3251a99",
+            "index": 180
+          },
+          {
+            "id": "d2c18d2f-c7b8-4cec-a71a-278cef002299",
+            "index": 191
+          },
+          {
+            "id": "8ab961f5-e06f-432b-827c-ed72b7da75b1",
+            "index": 197
+          },
+          {
+            "id": "778ffec3-98d7-4a93-9356-1f31c3e65c9b",
+            "index": 200
+          },
+          {
+            "id": "e8e6b611-2e12-4e9d-a5b8-a1d1fe01920d",
+            "index": 202
+          },
+          {
+            "id": "7a9155fe-8b53-45c5-96f5-4b21cd643e9e",
+            "index": 216
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "постапката утврдена во член 24",
+            "count": 14,
+            "segmentIndexes": [
+              57,
+              72,
+              98,
+              112,
+              122,
+              152,
+              166,
+              175,
+              179,
+              180,
+              197,
+              200,
+              202,
+              216
+            ]
+          },
+          {
+            "mk": "постапката предвидена во член 24",
+            "count": 1,
+            "segmentIndexes": [
+              191
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "clinical sign of disease",
+        "mk": [
+          "клинички знаци на болест"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "91d39c15-ad2e-410d-ad73-9919b1bedb24",
+            "index": 68
+          },
+          {
+            "id": "e136b58f-7af3-4242-9af7-03fa51d3ad24",
+            "index": 273
+          },
+          {
+            "id": "dc1481b9-98fc-4c3e-bc22-2b1adca92fff",
+            "index": 308
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "клинички знаци на болест",
+            "count": 3,
+            "segmentIndexes": [
+              68,
+              273,
+              308
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "national programme of contagious or infectious disease eradication",
+        "mk": [
+          "национална програма за искоренување на заразна или инфективна болест",
+          "национална програма за искоренување на заразни или инфективни болести"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "ded90c26-27c7-4847-bb74-769d75fb0c12",
+            "index": 70
+          },
+          {
+            "id": "75d0a904-422d-432a-8d59-9fe409693e32",
+            "index": 274
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "национална програма за искоренување на заразна или инфективна болест",
+            "count": 1,
+            "segmentIndexes": [
+              70
+            ]
+          },
+          {
+            "mk": "национална програма за искоренување на заразни или инфективни болести",
+            "count": 1,
+            "segmentIndexes": [
+              274
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "the proposed measures shall be adopted by the Commission",
+        "mk": [
+          "предложените мерки ги донесува Комисијата"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "6aa157c6-2d81-46f3-9186-d4cca1559f22",
+            "index": 241
+          },
+          {
+            "id": "fecedfcc-7637-4e16-a360-923fdbfe9f77",
+            "index": 248
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "предложените мерки ги донесува Комисијата",
+            "count": 2,
+            "segmentIndexes": [
+              241,
+              248
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "The Committee shall deliver its opinion on the draft",
+        "mk": [
+          "Комитетот го дава своето мислење за нацртот"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "e6b7ca3c-dfbc-46de-8522-81c6ea9e2108",
+            "index": 235
+          },
+          {
+            "id": "9cf344c5-d46b-45f7-8bd5-3ddb534e8a65",
+            "index": 244
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "Комитетот го дава своето мислење за нацртот",
+            "count": 2,
+            "segmentIndexes": [
+              235,
+              244
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "The Council shall act by a qualified majority.",
+        "mk": [
+          "Советот одлучува со квалификувано мнозинство."
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "cb0dceed-43b3-441a-89a8-4397495ced22",
+            "index": 240
+          },
+          {
+            "id": "7a8f2e9a-217a-4e4b-aec3-106f5bae8039",
+            "index": 247
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "Советот одлучува со квалификувано мнозинство.",
+            "count": 2,
+            "segmentIndexes": [
+              240,
+              247
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "draft of the measures to be taken",
+        "mk": [
+          "нацрт на мерките што треба да се преземат"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "e6b7ca3c-dfbc-46de-8522-81c6ea9e2108",
+            "index": 235
+          },
+          {
+            "id": "9cf344c5-d46b-45f7-8bd5-3ddb534e8a65",
+            "index": 244
+          }
+        ],
+        "status": "CONSISTENT",
+        "variants": [
+          {
+            "mk": "нацрт на мерките што треба да се преземат",
+            "count": 2,
+            "segmentIndexes": [
+              235,
+              244
+            ]
+          }
+        ]
+      }
+    ],
+    "inconsistencies": [
+      {
+        "kind": "repeated_phrase",
+        "en": "procedure laid down in Article 24",
+        "mk": [
+          "постапката утврдена во член 24",
+          "постапката предвидена во член 24"
+        ],
+        "frequency": 15,
+        "segmentReferences": [
+          {
+            "id": "52672e31-f998-4287-8cb0-9779b93c82e3",
+            "index": 57
+          },
+          {
+            "id": "4950302b-19fa-4525-abc3-1d880ee05a3f",
+            "index": 72
+          },
+          {
+            "id": "865d51fa-80d9-4255-8fc6-f48b103be2c9",
+            "index": 98
+          },
+          {
+            "id": "8ef588fb-eb00-4108-bcb3-ca16700509b9",
+            "index": 112
+          },
+          {
+            "id": "ed515a8e-2cf8-4a72-907b-2553df3fb409",
+            "index": 122
+          },
+          {
+            "id": "6455a3fc-0bf4-4634-baf2-ad86d35fd9e6",
+            "index": 152
+          },
+          {
+            "id": "4156f549-3aef-43ac-8836-e51bda107632",
+            "index": 166
+          },
+          {
+            "id": "14d8778b-0424-445b-b56e-fb0a6972e1ec",
+            "index": 175
+          },
+          {
+            "id": "07f909ba-94db-44c5-bd5e-f135d90ee59f",
+            "index": 179
+          },
+          {
+            "id": "f89d961d-00cf-4432-9a53-ae8db3251a99",
+            "index": 180
+          },
+          {
+            "id": "d2c18d2f-c7b8-4cec-a71a-278cef002299",
+            "index": 191
+          },
+          {
+            "id": "8ab961f5-e06f-432b-827c-ed72b7da75b1",
+            "index": 197
+          },
+          {
+            "id": "778ffec3-98d7-4a93-9356-1f31c3e65c9b",
+            "index": 200
+          },
+          {
+            "id": "e8e6b611-2e12-4e9d-a5b8-a1d1fe01920d",
+            "index": 202
+          },
+          {
+            "id": "7a9155fe-8b53-45c5-96f5-4b21cd643e9e",
+            "index": 216
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "постапката утврдена во член 24",
+            "count": 14,
+            "segmentIndexes": [
+              57,
+              72,
+              98,
+              112,
+              122,
+              152,
+              166,
+              175,
+              179,
+              180,
+              197,
+              200,
+              202,
+              216
+            ]
+          },
+          {
+            "mk": "постапката предвидена во член 24",
+            "count": 1,
+            "segmentIndexes": [
+              191
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "identification document",
+        "mk": [
+          "документ за идентификација",
+          "документот за идентификација"
+        ],
+        "frequency": 6,
+        "segmentReferences": [
+          {
+            "id": "e5161e2c-7a0e-4609-a3e9-bb3d6177c79c",
+            "index": 17
+          },
+          {
+            "id": "6b052326-9320-47a2-aa07-d2ec0a9d02ef",
+            "index": 49
+          },
+          {
+            "id": "4950302b-19fa-4525-abc3-1d880ee05a3f",
+            "index": 72
+          },
+          {
+            "id": "bc55f7e0-3c0f-4070-9a80-d0b20d0700c6",
+            "index": 114
+          },
+          {
+            "id": "92c16057-d777-4a9a-8308-818f30ff3bfb",
+            "index": 133
+          },
+          {
+            "id": "4ffbc5b7-280c-48e3-9ddf-2c0eb691a1ef",
+            "index": 145
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "документ за идентификација",
+            "count": 4,
+            "segmentIndexes": [
+              17,
+              49,
+              72,
+              145
+            ]
+          },
+          {
+            "mk": "документот за идентификација",
+            "count": 2,
+            "segmentIndexes": [
+              114,
+              133
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "registered equidae",
+        "mk": [
+          "регистрирани копитари",
+          "регистрирани еквиди",
+          "регистрираните еквиди"
+        ],
+        "frequency": 6,
+        "segmentReferences": [
+          {
+            "id": "6b052326-9320-47a2-aa07-d2ec0a9d02ef",
+            "index": 49
+          },
+          {
+            "id": "91d39c15-ad2e-410d-ad73-9919b1bedb24",
+            "index": 68
+          },
+          {
+            "id": "92c16057-d777-4a9a-8308-818f30ff3bfb",
+            "index": 133
+          },
+          {
+            "id": "30a215fe-a522-4626-948d-1f72fbedbb29",
+            "index": 142
+          },
+          {
+            "id": "4593c5da-4767-4120-a04e-931f6b36f98b",
+            "index": 146
+          },
+          {
+            "id": "705c6b17-ef21-4e46-9a55-2fa55f4cbf84",
+            "index": 204
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "регистрирани копитари",
+            "count": 2,
+            "segmentIndexes": [
+              49,
+              204
+            ]
+          },
+          {
+            "mk": "регистрирани еквиди",
+            "count": 3,
+            "segmentIndexes": [
+              68,
+              133,
+              146
+            ]
+          },
+          {
+            "mk": "регистрираните еквиди",
+            "count": 1,
+            "segmentIndexes": [
+              142
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "intra-Community trade",
+        "mk": [
+          "трговијата со еквиди во Заедницата",
+          "трговија во рамките на Заедницата",
+          "трговијата во рамките на Заедницата",
+          "трговијата со живи животни во рамките на Заедницата"
+        ],
+        "frequency": 5,
+        "segmentReferences": [
+          {
+            "id": "4cb1f49f-f765-4eea-8e86-03dd8fbaaa7a",
+            "index": 15
+          },
+          {
+            "id": "91d39c15-ad2e-410d-ad73-9919b1bedb24",
+            "index": 68
+          },
+          {
+            "id": "311d0f67-057e-4f9d-abe0-19320cf3721c",
+            "index": 99
+          },
+          {
+            "id": "3937de9a-1613-4179-bb9f-54644186e9fb",
+            "index": 143
+          },
+          {
+            "id": "56b11d63-2c13-4214-a6e6-e5c197964b9a",
+            "index": 148
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "трговијата со еквиди во Заедницата",
+            "count": 1,
+            "segmentIndexes": [
+              15
+            ]
+          },
+          {
+            "mk": "трговија во рамките на Заедницата",
+            "count": 2,
+            "segmentIndexes": [
+              68,
+              143
+            ]
+          },
+          {
+            "mk": "трговијата во рамките на Заедницата",
+            "count": 1,
+            "segmentIndexes": [
+              99
+            ]
+          },
+          {
+            "mk": "трговијата со живи животни во рамките на Заедницата",
+            "count": 1,
+            "segmentIndexes": [
+              148
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "official veterinarian",
+        "mk": [
+          "официјален ветеринар",
+          "официјалниот ветеринар"
+        ],
+        "frequency": 5,
+        "segmentReferences": [
+          {
+            "id": "b27b84be-7342-47d9-b2a9-c5aed4568443",
+            "index": 56
+          },
+          {
+            "id": "bf28cf6e-3387-4896-83bf-1c50e3a1d925",
+            "index": 69
+          },
+          {
+            "id": "c7b3729b-b50e-4542-9230-a86280ada852",
+            "index": 139
+          },
+          {
+            "id": "9c8b38f8-9cb4-4797-a2fa-c3a695cf5806",
+            "index": 182
+          },
+          {
+            "id": "f2efe521-8371-4af0-8dfd-41ae41b4c879",
+            "index": 278
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "официјален ветеринар",
+            "count": 2,
+            "segmentIndexes": [
+              56,
+              182
+            ]
+          },
+          {
+            "mk": "официјалниот ветеринар",
+            "count": 3,
+            "segmentIndexes": [
+              69,
+              139,
+              278
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "health certificate",
+        "mk": [
+          "здравствен сертификат",
+          "здравствениот сертификат"
+        ],
+        "frequency": 4,
+        "segmentReferences": [
+          {
+            "id": "79970a4c-d35d-45c4-b8a2-abf6ddbb4d47",
+            "index": 21
+          },
+          {
+            "id": "cb5cc1af-f047-4168-8ff4-22b4c58c954f",
+            "index": 137
+          },
+          {
+            "id": "f2f9a387-5679-4fac-bebf-b69e3179da1e",
+            "index": 144
+          },
+          {
+            "id": "4593c5da-4767-4120-a04e-931f6b36f98b",
+            "index": 146
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "здравствен сертификат",
+            "count": 3,
+            "segmentIndexes": [
+              21,
+              144,
+              146
+            ]
+          },
+          {
+            "mk": "здравствениот сертификат",
+            "count": 1,
+            "segmentIndexes": [
+              137
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "completion of the internal market",
+        "mk": [
+          "довршување на внатрешниот пазар",
+          "завршувањето на внатрешниот пазар"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "d1e1e304-e838-4136-8bac-bd244adf078f",
+            "index": 22
+          },
+          {
+            "id": "acd2e1de-ea16-49fb-a906-d9ea97eed0cb",
+            "index": 37
+          },
+          {
+            "id": "56b11d63-2c13-4214-a6e6-e5c197964b9a",
+            "index": 148
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "довршување на внатрешниот пазар",
+            "count": 2,
+            "segmentIndexes": [
+              22,
+              148
+            ]
+          },
+          {
+            "mk": "завршувањето на внатрешниот пазар",
+            "count": 1,
+            "segmentIndexes": [
+              37
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "animal health requirements",
+        "mk": [
+          "барања во однос на здравствената состојба на животните",
+          "барањата за здравствена заштита на животните"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "4423cf03-a7da-4f79-9ad4-980eef138832",
+            "index": 18
+          },
+          {
+            "id": "14d8778b-0424-445b-b56e-fb0a6972e1ec",
+            "index": 175
+          },
+          {
+            "id": "ec110b29-1659-409e-9579-09cf99729fb5",
+            "index": 199
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "барања во однос на здравствената состојба на животните",
+            "count": 1,
+            "segmentIndexes": [
+              18
+            ]
+          },
+          {
+            "mk": "барањата за здравствена заштита на животните",
+            "count": 2,
+            "segmentIndexes": [
+              175,
+              199
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "animal health conditions",
+        "mk": [
+          "условите за здравствена заштита на животните",
+          "условите за здравјето на животните"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "05605ab4-6e88-4e65-987b-119aa6fd37bf",
+            "index": 0
+          },
+          {
+            "id": "7e907353-c834-47d8-b33b-3f419d50ab99",
+            "index": 44
+          },
+          {
+            "id": "1e3571cf-5c6b-48f8-ae56-13a391864b42",
+            "index": 176
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "условите за здравствена заштита на животните",
+            "count": 2,
+            "segmentIndexes": [
+              0,
+              176
+            ]
+          },
+          {
+            "mk": "условите за здравјето на животните",
+            "count": 1,
+            "segmentIndexes": [
+              44
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "movement of equidae",
+        "mk": [
+          "движењето на еквидите",
+          "движењето на еквиди"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "a6a842b0-2445-4676-933a-78d972a96a09",
+            "index": 13
+          },
+          {
+            "id": "00389f8b-58b1-421a-be0d-c7738bd9bc5e",
+            "index": 61
+          },
+          {
+            "id": "6815ee4d-a31b-403e-b9e3-cc412e269dcd",
+            "index": 62
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "движењето на еквидите",
+            "count": 2,
+            "segmentIndexes": [
+              13,
+              61
+            ]
+          },
+          {
+            "mk": "движењето на еквиди",
+            "count": 1,
+            "segmentIndexes": [
+              62
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "protection zone",
+        "mk": [
+          "заштитна зона",
+          "заштитната зона"
+        ],
+        "frequency": 3,
+        "segmentReferences": [
+          {
+            "id": "8298a164-4cf1-4b6a-8dd4-fa066f015e94",
+            "index": 108
+          },
+          {
+            "id": "d06370a2-ddd8-42e4-a010-b08fe1e06de6",
+            "index": 110
+          },
+          {
+            "id": "8ef588fb-eb00-4108-bcb3-ca16700509b9",
+            "index": 112
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "заштитна зона",
+            "count": 1,
+            "segmentIndexes": [
+              108
+            ]
+          },
+          {
+            "mk": "заштитната зона",
+            "count": 2,
+            "segmentIndexes": [
+              110,
+              112
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "repeated_phrase",
+        "en": "national programme of contagious or infectious disease eradication",
+        "mk": [
+          "национална програма за искоренување на заразна или инфективна болест",
+          "национална програма за искоренување на заразни или инфективни болести"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "ded90c26-27c7-4847-bb74-769d75fb0c12",
+            "index": 70
+          },
+          {
+            "id": "75d0a904-422d-432a-8d59-9fe409693e32",
+            "index": 274
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "национална програма за искоренување на заразна или инфективна болест",
+            "count": 1,
+            "segmentIndexes": [
+              70
+            ]
+          },
+          {
+            "mk": "национална програма за искоренување на заразни или инфективни болести",
+            "count": 1,
+            "segmentIndexes": [
+              274
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "equidae for breeding and production",
+        "mk": [
+          "еквиди за одгледување и производство",
+          "копитари за одгледување и производство"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "ccb75772-26d5-4d46-8afc-089f554970e0",
+            "index": 51
+          },
+          {
+            "id": "62ab8d39-5359-4469-a4a0-690fda4134bf",
+            "index": 73
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "еквиди за одгледување и производство",
+            "count": 1,
+            "segmentIndexes": [
+              51
+            ]
+          },
+          {
+            "mk": "копитари за одгледување и производство",
+            "count": 1,
+            "segmentIndexes": [
+              73
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "compulsorily notifiable diseases",
+        "mk": [
+          "болести што задолжително се пријавуваат",
+          "болестите што задолжително се пријавуваат"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "d2d71a95-39a5-4aae-9758-108f68744e46",
+            "index": 55
+          },
+          {
+            "id": "bf28cf6e-3387-4896-83bf-1c50e3a1d925",
+            "index": 69
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "болести што задолжително се пријавуваат",
+            "count": 1,
+            "segmentIndexes": [
+              55
+            ]
+          },
+          {
+            "mk": "болестите што задолжително се пријавуваат",
+            "count": 1,
+            "segmentIndexes": [
+              69
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "import from third countries",
+        "mk": [
+          "увозот на еквиди од трети земји",
+          "нивниот увоз од трети земји"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "05605ab4-6e88-4e65-987b-119aa6fd37bf",
+            "index": 0
+          },
+          {
+            "id": "7e907353-c834-47d8-b33b-3f419d50ab99",
+            "index": 44
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "увозот на еквиди од трети земји",
+            "count": 1,
+            "segmentIndexes": [
+              0
+            ]
+          },
+          {
+            "mk": "нивниот увоз од трети земји",
+            "count": 1,
+            "segmentIndexes": [
+              44
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "quarantine station",
+        "mk": [
+          "карантинска станица",
+          "карантинската станица"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "22c26c89-1360-4dce-977c-4588bd6ca12b",
+            "index": 123
+          },
+          {
+            "id": "159fcb1e-1574-416f-a88d-42e94abb7c39",
+            "index": 124
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "карантинска станица",
+            "count": 1,
+            "segmentIndexes": [
+              123
+            ]
+          },
+          {
+            "mk": "карантинската станица",
+            "count": 1,
+            "segmentIndexes": [
+              124
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "holding of origin",
+        "mk": [
+          "одгледувалиштето на потекло",
+          "стопанството на потекло"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "e1ff5721-9b43-41d2-93cb-bdeb92dd2343",
+            "index": 77
+          },
+          {
+            "id": "d35209c3-5c39-4a18-ba81-ae1a4250bd05",
+            "index": 136
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "одгледувалиштето на потекло",
+            "count": 1,
+            "segmentIndexes": [
+              77
+            ]
+          },
+          {
+            "mk": "стопанството на потекло",
+            "count": 1,
+            "segmentIndexes": [
+              136
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "serological test",
+        "mk": [
+          "серолошки тест",
+          "серолошко испитување"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "58757140-2481-4572-8da0-1e4a945bc89f",
+            "index": 178
+          },
+          {
+            "id": "07f909ba-94db-44c5-bd5e-f135d90ee59f",
+            "index": 179
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "серолошки тест",
+            "count": 1,
+            "segmentIndexes": [
+              178
+            ]
+          },
+          {
+            "mk": "серолошко испитување",
+            "count": 1,
+            "segmentIndexes": [
+              179
+            ]
+          }
+        ]
+      },
+      {
+        "kind": "term",
+        "en": "temporary entry",
+        "mk": [
+          "привремен влез",
+          "привремениот влез"
+        ],
+        "frequency": 2,
+        "segmentReferences": [
+          {
+            "id": "705c6b17-ef21-4e46-9a55-2fa55f4cbf84",
+            "index": 204
+          },
+          {
+            "id": "61bbf3e0-5545-46cc-bdb1-3d01f6a305d7",
+            "index": 206
+          }
+        ],
+        "status": "VARIANT",
+        "variants": [
+          {
+            "mk": "привремен влез",
+            "count": 1,
+            "segmentIndexes": [
+              204
+            ]
+          },
+          {
+            "mk": "привремениот влез",
+            "count": 1,
+            "segmentIndexes": [
+              206
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "qaTotals": {
+    "PASS": 325,
+    "WARNING": 9,
+    "ERROR": 0
+  },
+  "contentHash": "87c04f5a89b8a60e6b2bef135851c957023da96f125609eac9255402708bbeaf"
+}

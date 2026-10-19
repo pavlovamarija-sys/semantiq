@@ -1,0 +1,20 @@
+{
+  "classification": "PARTIAL_BLOCKED_MAPPING",
+  "input": "artifacts/pdf-phase6c6/studio-input/validated-docx-corrected.sdlxliff",
+  "sdlxliffSha256": "588de15278fef72518c567f3c3e9a9ed279efece6b8733776a1375e794abe2a4",
+  "sdlxliffBytes": 242344,
+  "sourceLanguage": "en-GB",
+  "targetLanguage": null,
+  "embeddedDocxSha256": "2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971",
+  "embeddedDocxBytes": 44034,
+  "embeddedDocxMatchesAuthoritative": true,
+  "transUnits": 271,
+  "segments": 271,
+  "inlineCodes": 6,
+  "canonical": {"snapshotId": "9773853e-9f81-4796-b358-38a3f53e1d81", "translationUnits": 265, "nodes": 422, "inlineCodes": 3, "normalizedTokens": 3389},
+  "alignment": {"directMatches": 248, "missingCanonical": 17, "unmatchedStudio": 23, "ambiguousRepeatedText": 35, "sourceOrderPass": false, "oneToManyMappings": 0},
+  "replacementCharacterCorruption": true,
+  "diagnosis": {"structuralUnits": true, "footnoteOrCitationUnits": true, "emptyAndDashUnits": true, "repeatedTextNeedsContext": true, "replacementCharacterInSource": true, "actualSourceOmissionProven": false},
+  "persistence": "NOT_PERFORMED",
+  "previousInputAuditReused": false
+}

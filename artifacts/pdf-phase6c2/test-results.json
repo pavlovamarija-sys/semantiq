@@ -1,0 +1,13 @@
+{
+  "sourcePdfArtifactTests": {"passed":16,"failed":0},
+  "phase6c1ArtifactTests": {"passed":16,"failed":0},
+  "celexShadowOrchestration": {"passed":5,"failed":0},
+  "typescriptTypecheck": "PASS",
+  "workerTests": {"passed":38,"failed":0,"warnings":1},
+  "remoteMigrationVerification": "PASS",
+  "remoteIdempotencyRerun": "PASS"
+  ,"finalHistoricalSourceArtifacts":10
+  ,"finalBackfillPostcheck":"PASS"
+  ,"reconstructionFixtures":{"32006L0114":"PASS","32006L0126":"PASS","32006L0042":"PASS"}
+  ,"broadApplicationSuite":{"passed":87,"failed":2,"phase6c2RelatedFailures":0,"failures":"two known unrelated legacy-TM fixtures"}
+}

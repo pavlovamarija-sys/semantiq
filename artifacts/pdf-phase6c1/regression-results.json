@@ -1,0 +1,26 @@
+{
+  "classification": "PASS_WITH_UNRELATED_BASELINE_FAILURES",
+  "phase6c1Tests": { "passed": 16, "failed": 0 },
+  "celexShadowOrchestration": { "passed": 5, "failed": 0 },
+  "typescriptTypecheck": "PASS",
+  "workerPytest": { "passed": 38, "failed": 0, "warnings": 1 },
+  "reconstructionFixtures": {
+    "32006L0114": "PASS",
+    "32006L0126": "PASS",
+    "32006L0042": "PASS"
+  },
+  "applicationTests": {
+    "passed": 71,
+    "failed": 2,
+    "unrelatedFailures": [
+      "exact-approved-retrieval: known imported legacy TM fixture not returned",
+      "exact-approved-retrieval: whitespace-only legacy TM fixture not returned"
+    ],
+    "phase6c1RelatedFailures": 0
+  },
+  "nextBuild": {
+    "status": "BLOCKED_BY_PREEXISTING_FILESYSTEM_PERMISSION",
+    "detail": "Turbopack could not read .tmp/pytest-phase3a-2 (Windows access denied); typecheck passed."
+  },
+  "migrationRuntimeValidation": "NOT_AVAILABLE_NO_LOCAL_SUPABASE_CONFIG"
+}

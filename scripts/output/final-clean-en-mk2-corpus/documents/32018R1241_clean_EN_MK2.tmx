@@ -1,0 +1,421 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210825T135309Z" creationid="sasPC\Sash">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">TM_32018R1241</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">NoFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32018R1241</prop>
+    <prop type="x-SourceTMX">32018R1241_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">149837aa330e75dad18818d9dec2566d3ac8c5b1741d1dd24b992385617eaab4</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">26</prop>
+  </header>
+  <body>
+    <tu creationdate="20210825T135333Z" creationid="sasPC\Sash" changedate="20210829T122524Z" changeid="sasPC\Sash" lastusagedate="20210829T122524Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>REGULATION (EU) 2018/1241 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) 2018/1241 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210825T135354Z" creationid="sasPC\Sash" changedate="20210825T135403Z" changeid="sasPC\Sash" lastusagedate="20210825T135403Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 12 September 2018</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 12 септември 2018 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210825T135647Z" creationid="sasPC\Sash" changedate="20210825T135720Z" changeid="sasPC\Sash" lastusagedate="20210825T135720Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7124098552985558198, -4614663339850189355</prop>
+      <prop type="x-ContextContent">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, |  | ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty of the Functioning of the European Union, and in particular point (a) of Article 88(2) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>А УНИЈА, имајќи го предвид Договорот за функционирање на Европската Унија, а особено точка (а) од член 88(2) од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T181142Z" creationid="sasPC\Sash" changedate="20210825T135720Z" changeid="sasPC\Sash" lastusagedate="20210825T135720Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7287907992881226086, -378960493266232051</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty of the Functioning of the European Union, and in particular point (a) of Article 88(2) thereof, |  | Имајќи го предвид Договорот за функционирање на Европската унија, а особено точка (а) од член 88(2) од него, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Acting in accordance with the ordinary legislative procedure (<ph x="1" type="63" />),</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>постапувајќи во согласност со вообичаената законодавна постапка (),</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210828T104524Z" creationid="sasPC\Sash" changedate="20210828T104532Z" changeid="sasPC\Sash" lastusagedate="20210828T104532Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(1)	Article 4(1) is amended as follows:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(1)Член 4(1) се менува како што следува:</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210828T104534Z" creationid="sasPC\Sash" changedate="20210828T110229Z" changeid="sasPC\Sash" lastusagedate="20210828T110229Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-1483233645649298115, 4759170674751795729</prop>
+      <prop type="x-ContextContent">(1)	Article 4(1) is amended as follows: |  | (1)	Член 4(1) се менува како што следува: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the following points are added:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)се додаваат следните точки:</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210828T110230Z" creationid="sasPC\Sash" changedate="20210829T122526Z" changeid="sasPC\Sash" lastusagedate="20210829T122526Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-6655930562744105448, 16914204657007483</prop>
+      <prop type="x-ContextContent">(a)	the following points are added: |  | (а)	се додаваат следните точки: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘(n)	manage the ETIAS watchlist in accordance with Articles 34 and 35 of Regulation (EU) 2018/1240 of the European Parliament and of the Council (<bpt i="1" type="119" />*<ept i="1" />);</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„(љ)управува со листата за надзор на ЕТИАС во согласност со членовите 34 и 35 од Регулативата (ЕУ) 2018/1240 на Европскиот парламент и на Советот (*);</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210828T110351Z" creationid="sasPC\Sash" changedate="20210828T110526Z" changeid="sasPC\Sash" lastusagedate="20210828T110526Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(o)	enter data into the ETIAS watchlist related to terrorist offences or other serious criminal offences obtained by Europol, without prejudice to the conditions regulating Europol’s international cooperation;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(м)внесува податоци во листата за надзор на ЕТИАС во врска со терористички напади или други тешки кривични дела добиени од Европол, без да е во спротивност со условите со коишто се регулира меѓународната соработка на Европол;</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210828T110655Z" creationid="sasPC\Sash" changedate="20210829T122526Z" changeid="sasPC\Sash" lastusagedate="20210829T122526Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-3833151233929983567, -7002054291275091627</prop>
+      <prop type="x-ContextContent">(o)	enter data into the ETIAS watchlist related to terrorist offences or other serious criminal offences obtained by Europol, without prejudice to the conditions regulating Europol’s international cooperation; |  | (м)	внесува податоци во листата за надзор на ЕТИАС во врска со терористички напади или други тешки кривични дела добиени од Европол, без да е во спротивност со условите со коишто се регулира меѓународната соработка на Европол; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(p)	provide an opinion following a consultation request referred to in Article 29 of Regulation (EU) 2018/1240.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(н)дава мислење по барање за консултација споменато во член 29 од Регулативата (ЕУ) 2018/1240.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">24</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T115906Z" creationid="sasPC\Sash" changedate="20210829T115906Z" changeid="sasPC\Sash" lastusagedate="20210829T115906Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>______________________</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>______________________</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">25</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T115907Z" creationid="sasPC\Sash" changedate="20210829T122527Z" changeid="sasPC\Sash" lastusagedate="20210829T122527Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-481427766085890592, 6729182743335905184</prop>
+      <prop type="x-ContextContent">______________________ |  | ______________________ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(<bpt i="1" type="137" />*<ept i="1" />)	Regulation (EU) 2018/1240 of the European Parliament and of the Council of 12 September 2018 establishing a European Travel Information and Authorisation System (ETIAS) and amending Regulations (EU) No 1077/2011, (EU) No 515/2014, (EU) 2016/399, (EU) 2016/1624 and (EU) 2017/2226 (OJ L 236, 19.9.2018, p. 1).’;"</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(*) Регулативата (ЕУ) 2018/1240 на Европскиот парламент и на Советот од 12 септември 2018 година засо која се основаза формирање Европскиот систем за патни информации и одобренија (ЕТИАС) и се - изменуваат изменување на Регулативите (ЕУ) бр. 1077/2011, (ЕУ) бр. 515/2014, (ЕУ) 2016/399, (ЕУ) 2016/1624 и (EУ) 2017/2226 (Сл. весник L 236, 19 септември 2018 г</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">26</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T120104Z" creationid="sasPC\Sash" changedate="20210829T122527Z" changeid="sasPC\Sash" lastusagedate="20210829T122527Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">8038551425069288073, 5441600421658926507</prop>
+      <prop type="x-ContextContent">(b)	the following subparagraph is added: |  | (б)	се додава следниот потстав: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘For the purpose of carrying out the task referred to in point (n) of the first subparagraph of this paragraph, Europol’s Management Board shall, after consulting the EDPS, adopt the procedures referred to in Article 35 of Regulation (EU) 2018/1240’.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>едниот потстав: „Со цел спроведување на нашата задача од точка (љ) од првиот потстав на овој став, Управниот одбор на Европол, по консултации со ЕСЗП усвојува постапки наведени во член 35 од Регулативата (ЕУ) 2018/1240“.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">28</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T120253Z" creationid="sasPC\Sash" changedate="20210829T120306Z" changeid="sasPC\Sash" lastusagedate="20210829T120306Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(2)	Article 21 is amended as follows:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(2)Член 21 се менува како што следува:</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">29</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T120307Z" creationid="sasPC\Sash" changedate="20210829T120325Z" changeid="sasPC\Sash" lastusagedate="20210829T120325Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">6858293490026837743, -4859132458976056125</prop>
+      <prop type="x-ContextContent">(2)	Article 21 is amended as follows: |  | (2)	Член 21 се менува како што следува: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the title is replaced by the following:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а) насловот се заменува со следниот:</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">30</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T120325Z" creationid="sasPC\Sash" changedate="20210829T120327Z" changeid="sasPC\Sash" lastusagedate="20210829T120327Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3433999429348629697, 4463910556480955096</prop>
+      <prop type="x-ContextContent">(a)	the title is replaced by the following: |  | (а) 	насловот се заменува со следниот: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘Article 21</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„Член 21</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">31</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T120330Z" creationid="sasPC\Sash" changedate="20210829T120515Z" changeid="sasPC\Sash" lastusagedate="20210829T120515Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">‘Article 21 |  | „Член 21 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Access by Eurojust, OLAF and, only for purposes of ETIAS, by the European Border and Coast Guard Agency to information stored by Europol’;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Пристап од страна на Евројуст, ОЛАФ и, само за целите на ЕТИАС, од страна на Европската агенција за гранична и крајбрежна стража до информации што се чуваат во Европол“</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">32</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T120515Z" creationid="sasPC\Sash" changedate="20210829T120533Z" changeid="sasPC\Sash" lastusagedate="20210829T120533Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">947379186200014846, -7673050264072489106</prop>
+      <prop type="x-ContextContent">Access by Eurojust, OLAF and, only for purposes of ETIAS, by the European Border and Coast Guard Agency to information stored by Europol’; |  | Пристап од страна на Евројуст, ОЛАФ и само за целите на ЕТИАС, од страна на Европската агенција за гранична и крајбрежна стража до информации што ги чува Европол“; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the following paragraph is inserted:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (б)се вметнува следниот став:</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">33</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T120533Z" creationid="sasPC\Sash" changedate="20210829T120536Z" changeid="sasPC\Sash" lastusagedate="20210829T120536Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">2098218203519548713, -5567036017391642153</prop>
+      <prop type="x-ContextContent">(b)	the following paragraph is inserted: |  | (б)	се вметнува следниот став: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘1a.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„1a</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">34</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T120537Z" creationid="sasPC\Sash" changedate="20210829T122527Z" changeid="sasPC\Sash" lastusagedate="20210829T122527Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">2032205, 2032205</prop>
+      <prop type="x-ContextContent">‘1a. |  | „1a | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Europol shall take all appropriate measures to enable the European Border and Coast Guard Agency, within its mandate and for the purposes of Regulation (EU) 2018/1240, to have indirect access on the basis of a hit/no hit system to data provided for the purposes of point (j) of Article 20(2) of that Regulation, without prejudice to any restrictions indicated by the Member State, Union body, third country or international organisation providing the information in question, in accordance with Article 19(2) of this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Европол ги презема сите соодветни мерки за да овозможи Европската агенција за гранична и крајбрежна контрола, во рамките на својот мандат и за целите на Регулативата (ЕУ) 2018/1240, да има индиректен пристап врз основа на системот за позитивен/негативен одговор, до податоци обезбедени за целите на точка (ѕ) од член 20(2) на таа регулатива, без да е во спротивност со какви било ограничувања наведени од земјата членка, орган на Унијата, трета земја или меѓународна организација што ги обезбедува информациите за коишто станува збор-предметните информации, во согласност со член 19(2) од оваа регулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">35</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T121321Z" creationid="sasPC\Sash" changedate="20210829T122720Z" changeid="sasPC\Sash" lastusagedate="20210829T122720Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-1302589735701060266, 2645039943096983280</prop>
+      <prop type="x-ContextContent">Europol shall take all appropriate measures to enable the European Border and Coast Guard Agency, within its mandate and for the purposes of Regulation (EU) 2018/1240, to have indirect access on the basis of a hit/no hit system to data provided for the purposes of point (j) of Article 20(2) of that Regulation, without prejudice to any restrictions indicated by the Member State, Union body, third country or international organisation providing the information in question, in accordance with Article 19(2) of this Regulation. |  | Европол ги презема сите соодветни мерки за да овозможи Европската агенција за гранична и крајбрежна контрола, во рамки на својот мандат и за целите на Регулативата (ЕУ) 2018/1240, да има индиректен пристап врз основа на системот за позитивен/негативен одговор, за податоци обезбедени за целите на точка (ѕ) од член 20(2) на таа регулатива, без да е во спротивност со какви било ограничувања наведени од земјата членка, орган на Унијата, трета земја или меѓународна организација што ги обезбедува информациите за коишто станува збор, во согласност со член 19(2) од оваа регулатива. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In the case of a hit, Europol shall initiate the procedure by which the information that generated the hit may be shared, in accordance with the decision of the provider of the information to Europol, and only to the extent that the data generating the hit are necessary for the performance of the European Border and Coast Guard Agency tasks related to ETIAS.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во случај на позитивен одговор, Европол иницира започнува постапка со којашто информациите што довеле дого генерирале позитивниот одговор, може да се споделуваат во согласност со одлуката на давателот на информациите до Европол, и само до степен до којшто податоците коишто генерираат позитивен одговор, се неопходни за извршување на задачите на Европската агенција за гранична и крајбрежна контрола поврзани со ЕТИА</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">36</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T121547Z" creationid="sasPC\Sash" changedate="20210829T121711Z" changeid="sasPC\Sash" lastusagedate="20210829T121711Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Paragraphs 2 to 7 of this Article shall apply accordingly.’.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>С. Ставовите од 2 до7 на овој член соодветно се применуваат“.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">37</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210322T182809Z" creationid="sasPC\Sash" changedate="20210829T121718Z" changeid="sasPC\Sash" lastusagedate="20210829T121718Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">6925106992477796040, -3951420092898894517</prop>
+      <prop type="x-ContextContent">Entry into force and applicability |  | Влегување во сила и датум на примена | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation shall enter into force on the twentieth day following that of its publication in the <bpt i="1" type="182" />Official Journal of the European Union<ept i="1" />.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ена Оваа регулатива влегува во сила на дванаесеттиот дваесеттиот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">39</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T121720Z" creationid="sasPC\Sash" changedate="20210829T122527Z" changeid="sasPC\Sash" lastusagedate="20210829T122529Z" usagecount="5">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-5944317684166092984, -1216221898605254089</prop>
+      <prop type="x-ContextContent">This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. | AgJlAQEAAQMxODIBJgIBAQMxODIB | Оваа регулатива влегува во сила на дванаесеттиот ден од денот на нејзиното објавување во Службениот весник на Европската Унија. | AgJZAQEAAQZJdGFsaWMBJQIBAQZJdGFsaWMB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation shall apply from the date determined by the Commission in accordance with Article 88 of Regulation (EU) 2018/1240.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Оваа регулатива се применува од датумот утврден од Комисијата во согласност со член 88 од Регулативата (ЕУ) 2018/1240.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">40</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T121753Z" creationid="sasPC\Sash" changedate="20210829T121818Z" changeid="sasPC\Sash" lastusagedate="20210829T121818Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Оваа регулатива е целосно обврзувачка и директно применлива во земјите членки, во согласност со Договорите.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">41</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T121818Z" creationid="sasPC\Sash" changedate="20210829T121828Z" changeid="sasPC\Sash" lastusagedate="20210829T121828Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-8701771482271740268, -4195938290528647532</prop>
+      <prop type="x-ContextContent">This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties. |  | Оваа регулатива е целосно обврзувачка и директно применлива во земјите членки, во согласност со Договорите. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Strasbourg, 12 September 2018.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Стразбур, 12 септември 2018 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">42</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210322T221959Z" creationid="sasPC\Sash" changedate="20210829T121828Z" changeid="sasPC\Sash" lastusagedate="20210829T121828Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">723951414063347724, 4980122993406067524</prop>
+      <prop type="x-ContextContent">Done at Strasbourg, 12 September 2018. |  | Стразбур, 12 септември 2018 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the European Parliament</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Европскиот парламент</seg>
+      </tuv>
+      <prop type="x-CELEX">32018R1241</prop>
+      <prop type="x-SourceTUIndex">43</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

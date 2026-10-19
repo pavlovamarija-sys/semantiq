@@ -1,0 +1,26 @@
+{
+  "source": "final-summary.csv only",
+  "alignment_rerun": false,
+  "database_changes": false,
+  "documents_with_accepted_tus": 102,
+  "documents_skipped_zero_accepted": [
+    "32006L0112",
+    "32017D0369",
+    "32017R0110",
+    "32017R1182",
+    "32018R1912",
+    "32019L1833",
+    "32019R0758",
+    "32019R0841",
+    "32020D0701",
+    "32020R2191",
+    "32021R0405",
+    "32021R0963",
+    "32022D1530"
+  ],
+  "accepted_tus": 4029,
+  "expected_accepted_tus": 4029,
+  "clean_en_chars": 495697,
+  "clean_mk2_chars": 514315,
+  "combined_tmx": "D:\\EU Acquis AI App\\scripts\\output\\final-clean-en-mk2-corpus\\combined_clean_EN_MK2.tmx"
+}

@@ -1,0 +1,20 @@
+{
+  "status": "PASS",
+  "classification_effect": "PASS",
+  "reason": "Authenticated controlled invocation completed and exact downloaded bytes were independently verified.",
+  "controlled_input": {
+    "project_id": "ac1e24ca-b699-4863-ba99-f310fa220a8a",
+    "document_id": "6b8a3125-eda7-46a2-9066-9b6d619713dc",
+    "document_version_id": "74a67935-d57f-428f-aa34-d8d603ddda1e",
+    "model_artifact_id": "5c09e46f-aa23-40d1-91e3-b9044a305272",
+    "model_sha256": "63fb1a805d02484ca9aa5d951dd441b98a0e5155dd64f08fc5f25b623ac33520",
+    "model_byte_size": 3184355,
+    "generation_id": "0a7ca092-d639-4322-bbff-66dd5cf6725b",
+    "docx_artifact_id": "b0e8fec5-91c8-4755-87a4-ff8f6dd8d307",
+    "docx_sha256": "2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971",
+    "docx_byte_size": 44034,
+    "first_request_http": 201,
+    "retry_http": 200,
+    "retry_already_completed": true
+  }
+}

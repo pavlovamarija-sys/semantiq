@@ -1,0 +1,29 @@
+{
+  "classification": "PARTIAL",
+  "request": {"firstHttpStatus": 201, "retryHttpStatus": 200},
+  "generationId": "26276c49-8c0f-456e-8a3e-cce032f9b633",
+  "snapshotId": "41c043ad-a210-4e17-b6f4-5cf98872a602",
+  "validatedDocxArtifactId": "b0e8fec5-91c8-4755-87a4-ff8f6dd8d307",
+  "identity": {
+    "projectId": "ac1e24ca-b699-4863-ba99-f310fa220a8a",
+    "documentId": "6b8a3125-eda7-46a2-9066-9b6d619713dc",
+    "documentVersionId": "74a67935-d57f-428f-aa34-d8d603ddda1e"
+  },
+  "validatedDocx": {"sha256": "2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971", "byteSize": 44034},
+  "snapshotMetrics": {"nodes": 422, "translationUnits": 265, "inlineCodes": 3, "normalizedTokens": 3389},
+  "sourceIntegrity": {
+    "normalizedSha256": "6aa66d213e3db8004d2436a0010f7866eaf9939a44d5e61593e47d2ac132c9a3",
+    "sourceHashesValid": true,
+    "allPersistedTuSourceTextCovered": true,
+    "normalizedTokenCount": 3389
+  },
+  "structure": {"headings": 26, "paragraphs": 239, "pageBreaks": 6, "tables": 3, "rows": 48, "cells": 100},
+  "protectedCodes": {"count": 3, "type": "line_break"},
+  "idempotency": {"generationCount": 1, "snapshotCount": 1, "nodeCount": 422, "translationUnitCount": 265, "inlineCodeCount": 3},
+  "lineage": {"parentArtifactId": "5c09e46f-aa23-40d1-91e3-b9044a305272", "relationship": "rendered_from", "inputRole": "reconstruction_model"},
+  "blockingDefects": [
+    "Persisted translation-unit ordinals are not contiguous zero-based TU ordinals: 265 unique values span 0..421.",
+    "processing_generations.normalized_token_count is NULL despite PASS validation flags."
+  ],
+  "tests": {"typecheck": "PASS", "canonicalEndpoint": "3 passed", "canonicalGeneration": "3 passed"}
+}

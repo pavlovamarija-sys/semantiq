@@ -1,0 +1,1435 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20230401T182031Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32020D0569_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32020D0569</prop>
+    <prop type="x-SourceTMX">32020D0569_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">fb9814cef60f57a5872002d36441d16fbf84e94c0c280210b520db064807c5d0</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">76</prop>
+  </header>
+  <body>
+    <tu creationdate="20230401T182058Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230401T182121Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING DECISION (EU) 2020/569</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2020/569 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230401T182122Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230401T182125Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2025953009333593858, -3180939984022912543</prop>
+      <prop type="x-ContextContent">COMMISSION IMPLEMENTING DECISION (EU) 2020/569 |  | ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2020/569 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 16 April 2020</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 16 април 2020 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230401T182125Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230401T182215Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3657596318, -7068392848370078782</prop>
+      <prop type="x-ContextContent">of 16 April 2020 |  | од 16 април 2020 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>establishing a common format and information content for the submission of the information to be reported by Member States pursuant to Directive 2010/63/EU of the European Parliament and of the Council on the protection of animals used for scientific purposes and repealing Commission Implementing Decision 2012/707/EU</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за воспоставување заеднички формат и информативна содржина за доставување на информациите што треба да ги пријават земјите членки во согласност со Директивата 2010/63/ЕУ на Европскиот парламент и на Советот за заштита на животните што се користат за научни цели и за укинување на Одлуката за спроведување 2012/707/EУ на Комисијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230401T182232Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230401T182239Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3814941974690253763, -986352418249153228</prop>
+      <prop type="x-ContextContent">(notified under document C(2020) 2179) |  | (заведена според документот C(2020) 2179) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Text with EEA relevance)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>екст со важност за ЕЕО)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230401T182239Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230401T182740Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2094311973019752702, -693899598895376172</prop>
+      <prop type="x-ContextContent">(Text with EEA relevance) |  | (Текст со важност за ЕЕО) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230401T182740Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230401T182750Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-ContextContent">THE EUROPEAN COMMISSION, |  | ЕВРОПСКАТА КОМИСИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230401T182750Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230401T182805Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1630537092630497703, -2439055183373607700</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, |  | имајќи го предвид Договорот за функционирање на Европската Унија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Directive 2010/63/EU of the European Parliament and of the Council of 22 September 2010 on the protection of animals used for scientific purposes<ph x="1" type="92" />, and in particular Article 43(4) and Article 54(4) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Директивата 2010/63/ЕУ на Европскиот парламент и на Советот од 22 септември 2010 година за заштита на животните што се користат за научни цели, а особено член 43(4) и член 54(4) од истата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230401T184218Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074258Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3513850449128, 141882471210</prop>
+      <prop type="x-ContextContent">PART A |  | ДЕЛ А | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Template for the submission of non-technical project summaries referred to in article 43(1) of directive 2010/63/EU</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>поднесување нетехнички проектни резимеа наведени во член 43(1) од Директивата 2010/63/ЕУ</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">45</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074258Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074259Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8568970491139615340, 9179267704610663240</prop>
+      <prop type="x-ContextContent">Template for the submission of non-technical project summaries referred to in article 43(1) of directive 2010/63/EU |  | Образец за поднесување нетехнички проектни резимеа наведени во член 43(1) од Директивата 2010/63/ЕУ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Title of the project</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Наслов на проектот</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">46</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074300Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074300Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-9166509091366742560, -6809946608720422682</prop>
+      <prop type="x-ContextContent">Title of the project |  | Наслов на проектот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Duration of project</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Времетраење на проектот</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">47</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074301Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074301Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5555577501882317540, -9127663641279756703</prop>
+      <prop type="x-ContextContent">Duration of project |  | Времетраење на проектот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(in months)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(во месеци)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">48</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074302Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074334Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3371206371343287, 136275449471899</prop>
+      <prop type="x-ContextContent">(in months) |  | (во месеци) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="262" />
+          <bpt i="2" type="260" x="1" />K<ept i="2" />
+          <ept i="1" />
+          <bpt i="3" type="265" x="2" />ey Words (maximum of 5)<ept i="3" />
+          <bpt i="4" type="266" /> (<bpt i="5" type="272" x="3" />1<ept i="5" />)<ept i="4" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Клучни зборови (максимум 5)(1)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">49</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074334Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074348Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5457752473543321130, -1912854242777296484</prop>
+      <prop type="x-ContextContent">Key Words (maximum of 5) (1) | AgoAAQEAAQMyNjIAAAECAQEDMjYwAQECAgEDMjYwAQACAQEDMjYyAAABAwIBAzI2NQEXAgMBAzI2NQEAAQQAAQMyNjYAAgEFAwEDMjcyAQECBQEDMjcyAQECBAEDMjY2AA== | Клучни зборови (максимум 5)(1) | AgYAAQEBAQMyNjABBwIBAQMyNjABAAECAgEDMjY1ARQCAgEDMjY1AQEBAwMBAzI3MgEBAgMBAzI3MgE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="281" />
+          <bpt i="2" type="279" x="1" />P<ept i="2" />
+          <ept i="1" />
+          <bpt i="3" type="287" x="2" />
+          <bpt i="4" type="284" x="3" />urpose of project <ept i="4" />(<bpt i="5" type="290" x="4" />2<ept i="5" />)<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Цел на проектот (2)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">50</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074355Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074355Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="25">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1417663295549616022, 8509739520557315954</prop>
+      <prop type="x-ContextContent">Regulatory use and routine production: |  | Регулаторна употреба и рутинско производство: | </prop>
+      <prop type="x-Context">-6963017450864247961, -5261091654044929155</prop>
+      <prop type="x-ContextContent">Other efficacy and tolerance testing |  | Други испитувања за ефикасност и толеранција | </prop>
+      <prop type="x-Context">-2168120083481782108, -2151526892357924755</prop>
+      <prop type="x-ContextContent">Routine production |  | Рутинско производство | </prop>
+      <prop type="x-Context">-3389821537653799822, -9014955129866404777</prop>
+      <prop type="x-ContextContent">Higher education |  | Високо образование | </prop>
+      <prop type="x-Context">7646259110611283772, 2275819082042575935</prop>
+      <prop type="x-ContextContent">Quality control (including batch safety and potency testing) |  | Контрола на квалитет (опфаќајќи испитување на сигурноста на серијата и испитување на силата) | </prop>
+      <prop type="x-Context">3555699068, 3352242728</prop>
+      <prop type="x-Context">4973413067217707171, 1760841917503664103</prop>
+      <prop type="x-ContextContent">(multiple choices possible) |  | (можни се повеќе избори) | </prop>
+      <prop type="x-Context">3365881706022891934, -2791134549709608226</prop>
+      <prop type="x-ContextContent">Forensic enquiries |  | Форензички истраги | </prop>
+      <prop type="x-Context">8966134992615668409, 4761484892701508752</prop>
+      <prop type="x-ContextContent">Toxicity and other safety testing including pharmacology |  | Токсичност и други сигурносни испитувања, вклучително и фармаколошки | </prop>
+      <prop type="x-Context">-6529779667489159964, 1278563004868585403</prop>
+      <prop type="x-ContextContent">Translational and applied research (3) | AgYAAQEBAQMzMjEBIgIBAQMzMjEBAAECAAEDMzIyAAIBAwIBAzMyOAEBAgMBAzMyOAEBAgIBAzMyMgA= | Преведувачки и применети истражувања (3) | AgQAAQEBAQMzMjEBJQIBAQMzMjEBAQECAgEDMzI4AQECAgEDMzI4AQ==</prop>
+      <prop type="x-Context">8209053548881009343, 8047748722756235711</prop>
+      <prop type="x-ContextContent">Preservation of species |  | Зачувување на родовите | </prop>
+      <prop type="x-Context">-769665086946395507, -6519516536857782927</prop>
+      <prop type="x-ContextContent">Purpose of project (2) | AgoAAQEAAQMyODEAAAECAQEDMjc5AQECAgEDMjc5AQACAQEDMjgxAAABAwIBAzI4NwEAAQQDAQMyODQBEgIEAQMyODQBAQEFBAEDMjkwAQECBQEDMjkwAQECAwEDMjg3AQ== | Цел на проектот (2) | AggAAQEBAQMyNzkBBAIBAQMyNzkBAAECAgEDMjg3AQABAwMBAzI4NAEMAgMBAzI4NAEBAQQEAQMyOTABAQIEAQMyOTABAQICAQMyODcB</prop>
+      <prop type="x-Context">-4709613840333213975, 9046316556289422823</prop>
+      <prop type="x-ContextContent">Protection of the natural environment in the interests of the health or welfare of human beings or animals |  | Заштита на природната средина во интерес на здравјето или благосостојбата на луѓето или животните | </prop>
+      <prop type="x-Context">113479713520, 4586006390</prop>
+      <prop type="x-ContextContent">Training |  | Обука | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>—</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>—</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">51</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074356Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074416Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="302" x="1" />Basic research<ept i="1" />
+          <bpt i="2" type="303" /> (<bpt i="3" type="309" x="2" />3<ept i="3" />)<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Основно истражување (3)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">52</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074417Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074424Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8358361128201242903, 399348172702634358</prop>
+      <prop type="x-ContextContent">Basic research (3) | AgYAAQEBAQMzMDIBDgIBAQMzMDIBAAECAAEDMzAzAAIBAwIBAzMwOQEBAgMBAzMwOQEBAgIBAzMwMwA= | Основно истражување (3) | AgQAAQEBAQMzMDIBFAIBAQMzMDIBAQECAgEDMzA5AQECAgEDMzA5AQ==</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(multiple choices possible)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(можни се повеќе избори)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">53</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074457Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074515Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="321" x="1" />Translational and applied research<ept i="1" />
+          <bpt i="2" type="322" /> (<bpt i="3" type="328" x="2" />3<ept i="3" />)<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— Преведувачки и применети истражувања (3)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">54</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074516Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074520Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Regulatory use and routine production:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— Регулаторна употреба и рутинско производство:</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">55</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074521Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T145231Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">13.1. |  | 13.1. | </prop>
+      <prop type="x-Context">-1417663295549616022, 8509739520557315954</prop>
+      <prop type="x-ContextContent">Regulatory use and Routine production |  | Регулаторна употреба и рутинско производство | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Quality control (including batch safety and potency testing)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— Контрола на квалитет (вклучително и испитување на сигурноста на серијата и испитување на силата)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">56</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074755Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074814Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6963017450864247961, 7918651689470658567</prop>
+      <prop type="x-ContextContent">Other efficacy and tolerance testing |  | Други испитувања за силата и толеранцијата | </prop>
+      <prop type="x-Context">-6963017450864247961, -5261091654044929155</prop>
+      <prop type="x-ContextContent">Other efficacy and tolerance testing |  | Други испитувања за ефикасност и толеранција | </prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Toxicity and other safety testing including pharmacology</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— Токсичност и други сигурносни испитувања, вклучително и фармаколошки</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">58</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074814Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074815Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Routine production</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— Рутинско производство</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">59</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074816Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074819Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T152540Z" usagecount="8">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1762894424134897881, 8509739520557315954</prop>
+      <prop type="x-ContextContent">Regulator use and routine production |  | Регулаторна употреба и рутинско производство | </prop>
+      <prop type="x-Context">-1417663295549616022, 8509739520557315954</prop>
+      <prop type="x-ContextContent">Regulatory use and routine production |  | Регулаторна употреба и рутинско производство | </prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">13.1. |  | 13.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Protection of the natural environment in the interests of the health or welfare of human beings or animals</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— Заштита на природната средина во интерес на здравјето или благосостојбата на луѓето или животните</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">60</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074820Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074826Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T152540Z" usagecount="6">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Context">-4709613840333213975, 9046316556289422823</prop>
+      <prop type="x-ContextContent">Protection of the natural environment in the interests of the health or welfare of human beings or animals |  | Заштита на природната средина во интерес на здравјето или благосостојбата на луѓето или животните | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Preservation of species</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— Зачувување на родовите</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">61</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074826Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074828Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T152540Z" usagecount="8">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8209053548881009343, 8047748722756235711</prop>
+      <prop type="x-ContextContent">Preservation of species |  | Зачувување на родовите | </prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">13.1. |  | 13.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Higher education</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— Високо образование</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">62</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074829Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074829Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Training</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— Обука</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">63</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074830Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074831Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145232Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6078256141502317694, -5085626439454408970</prop>
+      <prop type="x-ContextContent">Training for the acquisition, maintenance or improvement of vocational skills |  | Обука за стекнување, одржување или подобрување на стручните вештини | </prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Forensic enquiries</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— Форензичкнки истраги</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">64</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074831Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074838Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Maintenance of colonies of genetically altered animals, not used in other procedures</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— Одржување на колонии на генетски изменети животни, кои не се користат во други постапки</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">65</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074839Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074842Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1027506410082851688, 4479235250428365751</prop>
+      <prop type="x-ContextContent">Maintenance of colonies of genetically altered animals, not used in other procedures |  | Одржување на колонии на генетски изменети животни, кои не се користат во други постапки | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Objectives and predicted benefits of the project</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Цели и предвидени придобивки од проектот</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">66</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074843Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074857Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-9103418359171549406, -1368567368248724644</prop>
+      <prop type="x-ContextContent">Objectives and predicted benefits of the project |  | Цели и предвидени придобивки од проектот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Describe the objectives of the project (for example, addressing certain scientific unknowns, or scientific or clinical needs).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Да се опишатОпиши ги целите на проектот (на пример, решавање на одредени научни непознати или научни или клинички потреби).</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">67</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074857Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074900Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6957428811064924954, -1970592946839915164</prop>
+      <prop type="x-ContextContent">Describe the objectives of the project (for example, addressing certain scientific unknowns, or scientific or clinical needs). |  | Опиши ги целите на проектот (на пример, решавање на одредени научни непознати или научни или клинички потреби). | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>What are the potential benefits likely to derive from this project?</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Кои се потенцијалните придобивки коишто веројатно ќе се извлечат од овој проект?</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">68</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074901Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074911Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6839355862369213832, 4505713580806399686</prop>
+      <prop type="x-ContextContent">What are the potential benefits likely to derive from this project? |  | Кои се потенцијалните придобивки кои веројатно ќе се извлечат од овој проект? | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Explain how science could be advanced, or humans, animals or environment may ultimately benefit from the project.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Објасни Да се објасни како науката може да биде напредната, или луѓето, животните или животната средина на крајот може да имаат корист од пр</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">69</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074911Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074937Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5450343000797420043, -1067067823459649708</prop>
+      <prop type="x-ContextContent">Explain how science could be advanced, or humans, animals or environment may ultimately benefit from the project. |  | Објасни како науката може да биде напредната, или луѓето, животните или животната средина на крајот може да имаат корист од проектот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where applicable, differentiate between short-term benefits (within the duration of the project) and long-term benefits (which may accrue after the project is finished).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>оектот. Онаму каде што е применливо, да се направи разлика меѓу краткорочните придобивки (во времетраењето на проектот) и долгорочните придобивки (штокои може да се акумулираат по завршувањето на проектот).</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">70</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074937Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074939Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8669682811351053253, 6611993901145261771</prop>
+      <prop type="x-ContextContent">Where applicable, differentiate between short-term benefits (within the duration of the project) and long-term benefits (which may accrue after the project is finished). |  | Онаму каде што е применливо, да се направи разлика меѓу краткорочните придобивки (во времетраењето на проектот) и долгорочните придобивки (кои може да се акумулираат по завршувањето на проектот). | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Predicted harms</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Предвидени штети</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">71</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074940Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074952Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1476309379887129129, -2916829668088933445</prop>
+      <prop type="x-ContextContent">Predicted harms |  | Предвидени штети | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In what procedures will the animals typically be used (for example, injections, surgical procedures)?</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во кои постапки обично ќе се користат животните (на пример, инјекции, хируршки постапки)? Да</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">72</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074952Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T074955Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1943097004349363552, 4993404187900931159</prop>
+      <prop type="x-ContextContent">In what procedures will the animals typically be used (for example, injections, surgical procedures)? |  | Во кои постапки обично ќе се користат животните (на пример, инјекции, хируршки постапки)? | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Indicate the number and duration of these procedures.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>се нНаведете го бројот и времетраењето на овие постап</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">73</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T074955Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075007Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">784708959731859686, -4098431167229899326</prop>
+      <prop type="x-ContextContent">Indicate the number and duration of these procedures. |  | Наведете го бројот и времетраењето на овие постапки. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>What are the expected impacts/ adverse effects on the animals, for example pain, weight loss, inactivity/ reduced mobility, stress, abnormal behaviour, and the duration of those effects?</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ки. Кои се очекуваните влијанија/негативни ефекти врз животните, на пример, болка, губење на тежината, неактивност/намалена подвижност, стрес, абнормално однесување и времетраење на тие ефекти?</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">74</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075008Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075014Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7492704832302235393, 4579813373351742417</prop>
+      <prop type="x-ContextContent">What are the expected impacts/ adverse effects on the animals, for example pain, weight loss, inactivity/ reduced mobility, stress, abnormal behaviour, and the duration of those effects? |  | Кои се очекуваните влијанија/негативни ефекти врз животните, на пример болка, губење на тежината, неактивност/намалена подвижност, стрес, абнормално однесување и времетраење на тие ефекти? | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>What species and numbers of animals are expected to be used?</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Кои родови и број на животни се очекува да се користат?</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">75</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075045Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075058Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5747245413014717240, -315130907859766261</prop>
+      <prop type="x-ContextContent">What species and numbers of animals are expected to be used? |  | Кои родови и број на животни се очекува да се користат? | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="490" />
+          <bpt i="2" type="488" />S<ept i="2" />
+          <ept i="1" />
+          <bpt i="3" type="493" x="1" />pecies<ept i="3" />
+          <bpt i="4" type="494" />
+          <bpt i="5" type="500" x="2" />
+          <bpt i="6" type="497" />
+          <ept i="6" />(<ept i="5" />
+          <bpt i="7" type="507" x="3" />
+          <bpt i="8" type="503" x="4" />4<ept i="8" />)<ept i="7" />
+          <ept i="4" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Родови (4)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">76</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075058Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075141Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3380109570400670, 4409287506474</prop>
+      <prop type="x-ContextContent">Species (4) | AhAAAQEAAQM0OTAAAAECAAEDNDg4AQECAgEDNDg4AQACAQEDNDkwAAABAwEBAzQ5MwEGAgMBAzQ5MwEAAQQAAQM0OTQAAAEFAgEDNTAwAQABBgABAzQ5NwEBAgYBAzQ5NwEBAgUBAzUwMAEAAQcDAQM1MDcBAAEIBAEDNTAzAQECCAEDNTAzAQECBwEDNTA3AQACBAEDNDk0AA== | Родови (4) | AggAAQEBAQM0OTMBBwIBAQM0OTMBAAECAgEDNTAwAQECAgEDNTAwAQABAwMBAzUwNwEAAQQEAQM1MDMBAQIEAQM1MDMBAQIDAQM1MDcB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Estimated total numbers</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Предвиден вкупен број</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">77</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075141Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075203Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">510669805269710605, 6138417600877345611</prop>
+      <prop type="x-ContextContent">Estimated total numbers |  | Предвиден вкупен број | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Estimated numbers per severity</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Предвиден број по сериозност тежина на постапките</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">78</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075244Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075249Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T152540Z" usagecount="9">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4342901290149047122, 9077921430322485020</prop>
+      <prop type="x-ContextContent">Mild (up to and including) |  | Лесна (до, и вклучително) | </prop>
+      <prop type="x-Context">3653913580, 4574280051</prop>
+      <prop type="x-ContextContent">Mild |  | Блага | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Moderate</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Умерена</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">82</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075249Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075252Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T152540Z" usagecount="10">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">108858836173206, 4590938428</prop>
+      <prop type="x-ContextContent">Moderate |  | Умерена | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Severe</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Тешка</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">83</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075253Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075305Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">113439700487, 4589824443</prop>
+      <prop type="x-ContextContent">Severe |  | Тешка | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="549" />
+          <bpt i="2" type="547" x="1" />W<ept i="2" />
+          <ept i="1" />
+          <bpt i="3" type="552" x="2" />hat will happen to the animals kept alive at the end of the procedure?<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Што ќе се случи со животните кои се одржуваат во живот на крајот од постапката?</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">84</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075305Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075327Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2843945471430902106, -5874693874172291934</prop>
+      <prop type="x-ContextContent">What will happen to the animals kept alive at the end of the procedure? | AgYAAQEAAQM1NDkAAAECAQEDNTQ3AQECAgEDNTQ3AQACAQEDNTQ5AAABAwIBAzU1MgFGAgMBAzU1MgE= | Што ќе се случи со животните кои се одржуваат во живот на крајот од постапката? | AgQAAQEBAQM1NDcBBAIBAQM1NDcBAAECAgEDNTUyAUsCAgEDNTUyAQ==</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="552" x="1" />(<bpt i="2" type="558" x="2" />5<ept i="2" />)<bpt i="3" type="564" />,<ept i="3" />
+          <ept i="1" />
+          <bpt i="4" type="565" /> (<bpt i="5" type="571" x="3" />6<ept i="5" />)<ept i="4" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(5) (6)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">85</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075324Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075343Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1954832224, 1954832224</prop>
+      <prop type="x-ContextContent">(5), (6) | AgoAAQEBAQM1NTIBAQECAgEDNTU4AQECAgEDNTU4AQEBAwABAzU2NAEBAgMBAzU2NAEAAgEBAzU1MgEAAQQAAQM1NjUAAgEFAwEDNTcxAQECBQEDNTcxAQECBAEDNTY1AA== | (5) (6) | AgYAAQEBAQM1NTIBAQECAgEDNTU4AQECAgEDNTU4AQMBAwMBAzU3MQEBAgMBAzU3MQEBAgEBAzU1MgE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Estimated number to be reused</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Предвиден број што ќе се користи повторно</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">86</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075343Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075511Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3807452904826610866, 3894368775567840753</prop>
+      <prop type="x-ContextContent">Estimated number to be reused |  | Предвиден број што ќе се користи повторно | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Estimated number to</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Предвиден број на животни</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">87</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075346Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075415Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T075415Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">-5349916514789902916, 7003327226021862188</prop>
+      <prop type="x-ContextContent">Estimated number to |  | Предвиден број на животни | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>be returned to habitat/</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>кКоишто ќе се вратат во живеалишт</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">88</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075415Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T143717Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3160341980362595929, 7611666922643229965</prop>
+      <prop type="x-ContextContent">be returned to habitat/ |  | Кои ќе се вратат во живеалиште/ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>husbandry system</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>е/ систем на одгледувањ</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">89</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075418Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075516Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T075516Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1892476452, 1659855107</prop>
+      <prop type="x-Context">7057098901315045623, -5970399807031476721</prop>
+      <prop type="x-ContextContent">husbandry system |  | систем на одгледување | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Estimated number to be rehomed</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>е Предвиден број на животни што повторно ќе се вдомати</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">90</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075528Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075643Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3676245752187410278, -8079770987671851910</prop>
+      <prop type="x-ContextContent">Please provide reasons for the planned fate of the animals after the procedure. |  | Наведи причини за планираната судбина на животните по постапката. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Application of the Three Rs</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тапката. Примена на начелата на замена, намалување и подобрување („три R“: replacement, reduction, refinement)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">92</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075645Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075708Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8418869753903422246, 4579505070</prop>
+      <prop type="x-ContextContent">Replacement |  | Замена | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>State which non-animal alternatives are available in this field and why they cannot be used for the purposes of the project.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ведиДа се наведе кои неживотински алтернативи се достапни на ова поле и зошто тие не можат да се користат за целите на проектот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">95</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T075710Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T075711Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="4">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">13.1. |  | 13.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Reduction</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2. Намалување</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">96</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080011Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080013Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6293395638785505184, -3749087177763529766</prop>
+      <prop type="x-ContextContent">Project selected for Retrospective Assessment (7) | AhAAAQEAAQM4NTYAAAECAQEDODU0AQECAgEDODU0AQACAQEDODU2AAABAwIBAzg1OQEsAgMBAzg1OQEAAQQAAQM4NjMAAAEFAwEDODY5AQABBgABAzg2NgEBAgYBAzg2NgEBAgUBAzg2OQEAAQcEAQM4NzYBAAEIBQEDODcyAQECCAEDODcyAQECBwEDODc2AQACBAEDODYzAA== | Проект избран за ретроспективна процена (7) | AgoAAQEBAQM4NTQBDgIBAQM4NTQBAAECAgEDODU5ARoBAwMBAzg2OQEBAgMBAzg2OQEAAQQEAQM4NzYBAAEFBQEDODcyAQECBQEDODcyAQECBAEDODc2AQACAgEDODU5AQ==</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Deadline</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Рок</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">106</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080013Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T145231Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">108602260627179, 148006524</prop>
+      <prop type="x-ContextContent">Deadline |  | Рок | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Contains severe procedures</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Содржи тешки постапки</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">107</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080021Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T145231Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7397665258861696411, -1443836001304683475</prop>
+      <prop type="x-ContextContent">Contains severe procedures |  | Содржи тешки постапки | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Uses non-human primates</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Користење на примати освен човекот</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">108</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080029Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080030Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T080030Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4433835159, 6403592071</prop>
+      <prop type="x-Context">7397665258861696411, -1443836001304683475</prop>
+      <prop type="x-ContextContent">Contains ‘severe’ procedures |  | Содржи „тешки“ постапки | </prop>
+      <prop type="x-Context">3923357552045954388, -4575065040103165571</prop>
+      <prop type="x-ContextContent">Uses non-human primates |  | Користење на примати освен човек | </prop>
+      <prop type="x-Context">5237255884, 7463669701</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Other reason</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Друга причина</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">109</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080037Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080042Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="11">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">741957235769772752, 131041861395055912</prop>
+      <prop type="x-ContextContent">Other reason |  | Друга причина | </prop>
+      <prop type="x-Context">-2672252552867660765, 3315420126927485344</prop>
+      <prop type="x-ContextContent">Species to be populated from the previous response to select from under the relevant category (proportions) |  | Наведете ги родовите од претходниот одговор во соодветните категории (скали). | </prop>
+      <prop type="x-Context">3649475847, 4416664726</prop>
+      <prop type="x-Context">-4440381737416129480, 6124713670493507996</prop>
+      <prop type="x-ContextContent">Including scientific terms which may consist of more than 5 individual words and excluding species and purposes entered elsewhere in the document |  | опфаќајќи научни термини кои може да се состојат од повеќе од 5 поединечни зборови и со исклучок на родови и цели внесени на друго место во документот | </prop>
+      <prop type="x-Context">-5338499159124677217, -6823767195039942719</prop>
+      <prop type="x-ContextContent">To be provided via a dropdown menu |  | Да се одбере во паѓачкото мени | </prop>
+      <prop type="x-Context">-4725850289988977610, 6347186104411635567</prop>
+      <prop type="x-ContextContent">Additional comments |  | Дополнителни коментари | </prop>
+      <prop type="x-Context">-1651046720464806395, 3181500343540865757</prop>
+      <prop type="x-ContextContent">Species in accordance with statistical reporting categories in Annex III to this Decision, with an additional option of ‘non-specified mammal’ to safeguard anonymity in exceptional cases |  | Родови во согласност со категориите за статистичко известување во Анекс III кон оваа одлука, со дополнителна опција „неспецифициран цицач“ за да се заштити анонимноста во исклучителни случаи | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="895" />
+          <bpt i="2" type="901" />
+          <bpt i="3" type="899" x="1" />(<ept i="3" />
+          <ept i="2" />
+          <bpt i="4" type="907" x="2" />
+          <bpt i="5" type="904" x="3" />1<ept i="5" />)<ept i="4" />
+          <ept i="1" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(1)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">110</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080043Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T145231Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">(1) | AgoAAQEAAQM4OTUAAAECAAEDOTAxAAABAwEBAzg5OQEBAgMBAzg5OQEAAgIBAzkwMQAAAQQCAQM5MDcBAAEFAwEDOTA0AQECBQEDOTA0AQECBAEDOTA3AQACAQEDODk1AA== | (1) | AgYAAQEBAQM4OTkBAQIBAQM4OTkBAAECAgEDOTA3AQABAwMBAzkwNAEBAgMBAzkwNAEBAgIBAzkwNwE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Including scientific terms which may consist of more than 5 individual words and excluding species and purposes entered elsewhere in the document</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>опфаќајќи Вклучително научни термини кои може да се состојат од повеќе од 5 поединечни зборови и со исклучок на родови и цели кои се внесени на друго место во документот</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">111</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080104Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080139Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">(1) | AgoAAQEAAQM4OTUAAAECAAEDOTAxAAABAwEBAzg5OQEBAgMBAzg5OQEAAgIBAzkwMQAAAQQCAQM5MDcBAAEFAwEDOTA0AQECBQEDOTA0AQECBAEDOTA3AQACAQEDODk1AA== | (1) | AgYAAQEBAQM4OTkBAQIBAQM4OTkBAAECAgEDOTA3AQABAwMBAzkwNAEBAgMBAzkwNAEBAgIBAzkwNwE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>To be provided via a dropdown menu</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(2) Да се одбере во паѓачкото мени</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">112</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080139Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080158Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">(1) | AgoAAQEAAQM4OTUAAAECAAEDOTAxAAABAwEBAzg5OQEBAgMBAzg5OQEAAgIBAzkwMQAAAQQCAQM5MDcBAAEFAwEDOTA0AQECBQEDOTA0AQECBAEDOTA3AQACAQEDODk1AA== | (1) | AgYAAQEBAQM4OTkBAQIBAQM4OTkBAAECAgEDOTA3AQABAwMBAzkwNAEBAgMBAzkwNAEBAgIBAzkwNwE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>List of purposes in accordance with statistical reporting categories and sub-categories in Annex III to this Decision</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(3) Список на намени цели во согласност со категориите и поткатегориите за статистичко известување во Анекс III кон оваа одлука</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">113</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080201Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080204Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="5">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">967968303448197568, -1727033968873133116</prop>
+      <prop type="x-ContextContent">Multiple choices per species possible |  | Можни се повеќе избори по вид | </prop>
+      <prop type="x-Context">4973413067217707171, 1760841917503664103</prop>
+      <prop type="x-ContextContent">Multiple choices possible |  | Можни се повеќе избори | </prop>
+      <prop type="x-Context">-5879797202114004848, 8476851078647592799</prop>
+      <prop type="x-ContextContent">List of purposes in accordance with statistical reporting categories and sub-categories in Annex III to this Decision |  | Список на намени во согласност со категориите и поткатегориите за статистичко известување во Анекс III кон оваа одлука | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="946" />(<bpt i="2" type="952" x="1" />4<ept i="2" />)<ept i="1" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(4)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">114</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080204Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080250Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="4">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">(4) | AgQAAQEAAQM5NDYAAQECAQEDOTUyAQECAgEDOTUyAQECAQEDOTQ2AA== | (4) | AgIBAQEBAQM5NTIBAQIBAQM5NTIB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Species in accordance with statistical reporting categories in Annex III to this Decision, with an additional option of ‘non-specified mammal’ to safeguard anonymity in exceptional cases</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Родови во согласност со категориите за статистичко известување во Анекс III кон оваа одлука, со дополнителна опција „неспецифициран цицач“ за да се заштити анонимноста во исклучителни случаи</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">115</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080351Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080357Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">(1) | AgoAAQEAAQM4OTUAAAECAAEDOTAxAAABAwEBAzg5OQEBAgMBAzg5OQEAAgIBAzkwMQAAAQQCAQM5MDcBAAEFAwEDOTA0AQECBQEDOTA0AQECBAEDOTA3AQACAQEDODk1AA== | (1) | AgYAAQEBAQM4OTkBAQIBAQM4OTkBAAECAgEDOTA3AQABAwMBAzkwNAEBAgMBAzkwNAEBAgIBAzkwNwE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Multiple choices per species possible</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(6) Можни се повеќе избори по видови</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">117</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080358Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080410Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">(4) | AgQAAQEAAQM5NDYAAQECAQEDOTUyAQECAgEDOTUyAQECAQEDOTQ2AA== | (4) | AgIBAQEBAQM5NTIBAQIBAQM5NTIB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Multiple choices possible; applicable to those MS where this information is required by the legislation</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(7) Можни се повеќе избори; применливи за оние земји членки каде што оваа информација се бара со законодавството</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">118</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080410Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080411Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145232Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4596563749024263634, 5106576708694748430</prop>
+      <prop type="x-ContextContent">Multiple choices possible; applicable to those MS where this information is required by the legislation |  | Можни се повеќе избори; применливи за оние земји членки каде што оваа информација се бара со законодавството | </prop>
+      <prop type="x-Context">6966640492305566616, -179565691563315942</prop>
+      <prop type="x-ContextContent">Flowchart of statistical data input categories under article 54(2) of directive 2010/63/EU |  | Дијаграм за текот на категории на внесени статистички податоци според член 54(2) од Директивата 2010/63/ЕУ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>PART B</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДЕЛ Б</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">119</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080412Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080440Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3513850449159, 141882471241</prop>
+      <prop type="x-ContextContent">PART B |  | ДЕЛ Б | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Template for the submission of an update to the non-technical project summary referred to in article 43(2) of directive 2010/63/EU</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Образец за поднесување ажурирање на нетехничкото проектно резиме наведено во член 43(2) од Директивата 2010/63/ЕУ</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">120</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080454Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080520Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2955733263667557475, -4544916950983745301</prop>
+      <prop type="x-ContextContent">Title (as per Non-technical Project Summary) |  | Наслов (според Нетехничкото проектно резиме) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1030" />
+          <bpt i="2" type="1028" x="1" />R<ept i="2" />
+          <ept i="1" />
+          <bpt i="3" type="1036" x="2" />
+          <bpt i="4" type="1033" x="3" />eason for Retrospective Assessment <ept i="4" />(<bpt i="5" type="1039" x="4" />1<ept i="5" />)<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>езиме) Причина за ретроспективна процена (1</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">122</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080507Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T145231Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3347540524912647927, 7282254089512481264</prop>
+      <prop type="x-ContextContent">Reason for Retrospective Assessment (1) | AgoAAQEAAQQxMDMwAAABAgEBBDEwMjgBAQICAQQxMDI4AQACAQEEMTAzMAAAAQMCAQQxMDM2AQABBAMBBDEwMzMBIwIEAQQxMDMzAQEBBQQBBDEwMzkBAQIFAQQxMDM5AQECAwEEMTAzNgE= | Причина за ретроспективна процена (1) | AggAAQEBAQQxMDI4AQgCAQEEMTAyOAEAAQICAQQxMDM2AQABAwMBBDEwMzMBGgIDAQQxMDMzAQEBBAQBBDEwMzkBAQIEAQQxMDM5AQECAgEEMTAzNgE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Using non-human primates</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>) Користење на примати освен човекот</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">123</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080521Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T145231Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7151322926116263441, -4575065040103165571</prop>
+      <prop type="x-ContextContent">Using non-human primates |  | Користење на примати освен човек | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Contains ‘severe’ procedures</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Содржи „тешки“ постапки</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">124</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080544Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080603Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">903755991587862436, 8089323193666753670</prop>
+      <prop type="x-ContextContent">Achievement of objectives |  | Постигнување на целите | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Explain briefly whether, and to what extent, the objectives set out in the authorised project have been achieved.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОбјасниДа се објасни накратко дали, и до кој степен, се постигнати целите наведени во одобрениот проект. Н</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">127</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080605Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080617Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3028007816684906681, -7968275811085709767</prop>
+      <prop type="x-ContextContent">Provide reasons if objectives have not been attained. |  | Навед причини доколку целите не се постигнати. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Have there been any other significant findings?</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>нати. Дали има некои други значајни наоди?</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">129</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080617Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080734Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6774715666217995176, 6259734682316057701</prop>
+      <prop type="x-ContextContent">Have there been any other significant findings? |  | Дали има некои други значајни наоди? | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>What benefits have resulted from the work to date, and are further benefits expected?</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Какви придобивки произлегоа од работата до денес и дали се очекуваат дополнителни придобивки?</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">130</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080734Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T143813Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7841589063703376083, 23503348874233212</prop>
+      <prop type="x-ContextContent">What benefits have resulted from the work to date, and are further benefits expected? |  | Какви придобивки произлегоа од работата до денес и дали се очекуваат дополнителни придобивки? | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Have the results of this project been disseminated, including where hypotheses are not proven?</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Дали резултатите од овој проект се пренесени, вклучително и онаму каде што хипотезите не се докажани? Ако да, опиш</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">131</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080758Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080800Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">9157547881947669312, 1955176134296463106</prop>
+      <prop type="x-ContextContent">If not, indicate how and when results are expected to be publicised. |  | Ако не, наведи како и кога се очекува да бидат објавени резултатите. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Harms</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Штети</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">134</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080817Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080832Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3649063692, 4595734841</prop>
+      <prop type="x-ContextContent">Harms |  | Штети | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1126" />
+          <bpt i="2" type="1124" />S<ept i="2" />
+          <ept i="1" />
+          <bpt i="3" type="1129" x="1" />pecies<ept i="3" />
+          <bpt i="4" type="1130" />
+          <bpt i="5" type="1133" x="2" />
+          <ept i="5" />(<bpt i="6" type="1139" x="3" />2<ept i="6" />)<ept i="4" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Родови (2)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">135</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230402T080832Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230402T080834Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230402T145231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3380109570400670, 4409287506474</prop>
+      <prop type="x-ContextContent">Species (2) | AgwAAQEAAQQxMTI2AAABAgABBDExMjQBAQICAQQxMTI0AQACAQEEMTEyNgAAAQMBAQQxMTI5AQYCAwEEMTEyOQEAAQQAAQQxMTMwAAABBQIBBDExMzMBAQIFAQQxMTMzAQEBBgMBBDExMzkBAQIGAQQxMTM5AQECBAEEMTEzMAA= | Родови (2) | AgYAAQEBAQQxMTI5AQYCAQEEMTEyOQEAAQICAQQxMTMzAQECAgEEMTEzMwEBAQMDAQQxMTM5AQECAwEEMTEzOQE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Total numbers of animals used</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Вкупен број на употребени животни</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D0569</prop>
+      <prop type="x-SourceTUIndex">136</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

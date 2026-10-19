@@ -1,0 +1,248 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210827T061525Z" creationid="RAPTUREDUX-PC\Lenovo">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32019R1240_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32019R1240</prop>
+    <prop type="x-SourceTMX">32019R1240_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">38636118a2b8812b475ee20623094b8876346c45f1ea5b2482c5a863610cdbfa</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">16</prop>
+  </header>
+  <body>
+    <tu creationdate="20210827T061644Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210827T061711Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170546Z" usagecount="1">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>REGULATION (EU) 2019/1240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) 2019/1240 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210827T061717Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210827T061742Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170546Z" usagecount="1">
+      <prop type="x-Context">4253238372150105122, -5787162811525255239</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 20 June 2019</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 20 јуни 2019 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210827T062416Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210827T062543Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170546Z" usagecount="3">
+      <prop type="x-Context">-7124098552985558198, -4614663339850189355</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Article 74 and Article 79(2) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија, а особено член 74 и член 79(2) од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T143446Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210902T143521Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170546Z" usagecount="1">
+      <prop type="x-Context">-981321255187278116, 7512739094565524149</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T143548Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210902T143626Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170546Z" usagecount="1">
+      <prop type="x-Context">-7799275716982960255, 363684144863454645</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>After transmission of the draft legislative act to the national parliaments,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>по доставување на нацрт-законодавниот акт до националните парламенти,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T143706Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210902T143755Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170546Z" usagecount="1">
+      <prop type="x-Context">-8428148328744422, -1269320548716298125</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Acting in accordance with the ordinary legislative procedure (<ph x="1" type="ph23" />),</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>постапувајќи во согласност со вообичаената законодавна постапка (),</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T144113Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210902T144130Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170546Z" usagecount="1">
+      <prop type="x-Context">3892981876385612729, -6455514454419781736</prop>
+      <prop type="x-Context">3892981876385612729, 7129344297811715947</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">9</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T150106Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210902T150620Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170546Z" usagecount="1">
+      <prop type="x-Context">3457497943260484189, -2137094575611899725</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The objective of Union policy in the field of migration is to replace irregular and uncontrolled migratory flows with safe and well-managed pathways, through a comprehensive approach aimed at ensuring, at all stages, the efficient management of migration flows in accordance with Chapter 2 of Title V of the Treaty on the Functioning of the European Union (TFEU).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Целта на политиката на Унијата во областа на миграција е неправилните и неконтролираните миграциски текови да се заменат со безбедни и добро контролирани патишта, преку сеопфатен пристап насочен кон тоа во сите фази да се обезбеди ефикасно управување со миграциските текови, во согласност со Поглавје 2 од Наслов V од Договорот за функционирање на Европската Унија (ДФЕУ).</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">15</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T165716Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210904T212200Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170549Z" usagecount="1">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Immigration liaison officers shall collect information, for use either at operational level, strategic level, or both.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>4.Офицерите за врска задолжени за имиграција собираат информации што се користат на оперативно или на стратегиско ниво, или и на двете. Инфор</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">89</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T212346Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210904T212432Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170549Z" usagecount="1">
+      <prop type="x-Context">9021249380593005780, 8059664665166646788</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Such information shall cover the following issues in particular:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>). Таквите информации особено ги опфаќаат следниве прашања:</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">91</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T212434Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210904T212559Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170549Z" usagecount="1">
+      <prop type="x-Context">-7133773180402903957, 7185748733312113906</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	European integrated border management at the external borders, with a view to managing migration effectively;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)европско интегрирано управување со надворешни граници, со цел ефективно управување со миграција;</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">92</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T212602Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210904T213020Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170549Z" usagecount="1">
+      <prop type="x-Context">-7534304516063714341, -4620367735032734839</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	migratory flows originating from or transiting through the third country, including where possible and relevant, the composition of migratory flows and migrants’ intended destination;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)миграциски текови што потекнуваат од трета земја или транзитираат низ неа, вклучително, ако е можно и релевантно, состав на миграциските текови и предвидената дестинација на мигрантите</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">93</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T213022Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210904T213216Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170549Z" usagecount="1">
+      <prop type="x-Context">-5416740567975067999, 7580125314013926709</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	routes used by migratory flows originating from or transiting through the third country in order to reach the territories of the Member States;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (в)патишта што ги користат миграциските текови што потекнуваат од трета земја или транзитираат низ неа, со цел да стигнат до териториите на земјите членки</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">94</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T213219Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210904T213326Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170549Z" usagecount="1">
+      <prop type="x-Context">-8812743955398414191, 2502210968136081668</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="pt215" x="1" />(d)	the existence, activities and <ept i="1" />
+          <bpt i="2" type="pt216" x="2" />modi operandi<ept i="2" />
+          <bpt i="3" type="pt217" x="3" /> of criminal organisations involved in smuggling of migrants and trafficking in human beings along the migratory routes;<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (г)постоење, активности и моди операнди на криминални организации вклучени во криумчарење на мигранти и трговија со луѓе долж миграциските патишта;</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">95</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T213906Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210904T214029Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170549Z" usagecount="1">
+      <prop type="x-Context">3355601699085279495, 6320286156451754737</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(j)	effective access to protection that the third country has put in place, including in favour of vulnerable persons;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ѕ)ефективен пристап до заштитата што ја воспоставила третата земја, вклучително во полза на ранливите лица</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">99</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T214052Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210904T215000Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210905T170549Z" usagecount="1">
+      <prop type="x-Context">2994034342756851172, 3312073097392577947</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(k)	existing and possible future legal immigration strategies and channels between the Union and third countries, taking into account skills and labour market needs in Member States, as well as resettlement and other protection tools;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (и)постојни и можни идни стратегии и канали за законска имиграција меѓу Унијата и третите земји, имајќи ги предвид потребите во областа на вештините и пазарот на труд во земјите членки, како и инструментите за преселување и другите заштитни инструменти;</seg>
+      </tuv>
+      <prop type="x-CELEX">32019R1240</prop>
+      <prop type="x-SourceTUIndex">100</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

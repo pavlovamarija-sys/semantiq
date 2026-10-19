@@ -1,0 +1,13 @@
+{
+  "classification": "PARTIAL_BLOCKED_MAPPING",
+  "celex": "32006L0114",
+  "sdlxliff": {"path": "artifacts/pdf-phase6c6/studio-input/validated-docx.sdlxliff", "sha256": "a8ec9e5642496413402259e8913ccfe975ea354b08c4ff8221cb20c7f80f3995", "bytes": 282433, "transUnits": 271, "segments": 313, "inlineCodes": 6},
+  "embeddedSource": {"archiveEntry": "f5re1f3c.54b.docx", "bytes": 44034, "sha256": "2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971", "matchesValidatedDocx": true},
+  "studioLanguages": {"source": "en-GB", "target": null, "expectedSource": "en-GB", "expectedTarget": "mk-MK", "status": "PARTIAL_TARGET_METADATA_MISSING"},
+  "canonical": {"snapshotId": "9773853e-9f81-4796-b358-38a3f53e1d81", "translationUnits": 265, "inlineCodes": 3, "nodes": 422},
+  "mapping": {"directMatches": 248, "missingCanonicalUnits": 17, "ambiguousRepeatedTextCandidates": 35, "unmatchedStudioUnits": 23, "sourceOrderPass": false},
+  "diagnosis": {"canonicalOrdinal26": "Studio unit 26 is the same logical source but later alignment is shifted by structural/footnote units", "canonicalOrdinal46": "Studio unit 46 is footnote marker (14); the logical source is at Studio unit 47 but contains replacement-character encoding for curly apostrophe", "canonicalOrdinals67to70": "Studio has heading/definition order shifted by intervening structural units", "dashUnits": "Studio emits dash/empty structural units absent from canonical translation units", "likelyCauses": ["structural and footnote units", "Studio source encoding replacement characters", "order shift", "repeated source text"], "actualOmissionProven": false},
+  "failClosedReasons": ["target-language metadata is absent", "canonical-to-Studio mapping is incomplete", "repeated source text creates unresolved candidates", "Studio source contains replacement-character corruption for some legal punctuation", "Studio projection contains extra structural/empty units"],
+  "persistence": "NOT_PERFORMED",
+  "earlierExperimentalProjectionUsed": false
+}

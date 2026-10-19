@@ -1,0 +1,769 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20230330T122534Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32016R1150_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32016R1150</prop>
+    <prop type="x-SourceTMX">32016R1150_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">0b55eff8856e432ff4872ad8e00012e22655ae76cc23d86351b8c4853aab07dd</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">46</prop>
+  </header>
+  <body>
+    <tu creationdate="20230330T122622Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T122637Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090148Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING REGULATION (EU) 2016/1150</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2016/1150 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T122637Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T122639Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090148Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7353582418551784268, 1901036649548470141</prop>
+      <prop type="x-ContextContent">COMMISSION IMPLEMENTING REGULATION (EU) 2016/1150 |  | РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2016/1150 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 15 April 2016</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 15 април 2016 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T122639Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230331T082532Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090148Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3657596318, -7068392848370078782</prop>
+      <prop type="x-ContextContent">of 15 April 2016 |  | од 15 април 2016 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the national support programmes in the wine sector</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за утврдување правила за примена на Регулативата (ЕУ) бр. 1308/2013 на Европскиот парламент и на Советот за националните програми за поддршка во винскиот сектор</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T122658Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T122659Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230330T122659Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1380607917616304950, -7898685035780166436</prop>
+      <prop type="x-ContextContent">laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the national support programmes in the wine sector |  | за утврдување правила за примена на Регулативата (ЕУ) бр. 1308/2013 на Европскиот парламент и на Советот за националните програми за поддршка во винскиот сектор | </prop>
+      <prop type="x-Context">2891095909, 6886757863</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T122700Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T122706Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090148Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-ContextContent">THE EUROPEAN COMMISSION, |  | ЕВРОПСКАТА КОМИСИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T122706Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T122742Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090148Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1630537092630497703, -2439055183373607700</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, |  | имајќи го предвид Договорот за функционирање на Европската Унија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Regulation (EU) No 1308/2013 of the European Parliament and of the Council of 17 December 2013 establishing a common organisation of the markets in agricultural products and repealing Council Regulations (EEC) No 922/72, (EEC) No 234/79, (EC) No 1037/2001 and (EC) No 1234/2007<ph x="1" type="564" />, and in particular Article 54 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Регулативата (ЕУ) бр. 1308/2013 на Европскиот парламент и на Советот од 17 декември 2013 година за воспоставување заедничка организација на пазарите на земјоделски производи и за укинување на Регулативите (ЕЕЗ) бр. 922/72 на Советот, (ЕЕЗ) бр. 234/79, (ЕЗ) бр. 1037/2001 и (ЕЗ) бр. 1234/2007 на Советот,( ), а особено член 54 од истата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T131547Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T134626Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090148Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the support referred to in point (a) of Article 45(1) of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure and the procedure for the possible extension of the support, as referred to in Article 4 of Delegated Regulation (EU) 2016/1149, which shall include rules on:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>барање 1.За поддршката наведена во точка (а) од член 45(1) од Регулативата (ЕУ) бр. 1308/2013, земјите членки утврдуваат правила за постапката за поднесување барање и постапката за можно продолжување на поддршката, како што е наведено во член 4 од Делегираната рРегулатива (ЕУ) 2016/1149, која опфаќа правила за:</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">107</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T131613Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T131618Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230330T131618Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5560077963653435492, -6990979830425930990</prop>
+      <prop type="x-ContextContent">For the support referred to in point (a) of Article 45(1) of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure and the procedure for the possible extension of the support, as referred to in Article 4 of Delegated Regulation (EU) 2016/1149, which shall include rules on: |  | За поддршката наведена во точка (а) од член 45(1) од Регулативата (ЕУ) бр. 1308/2013, земјите членки утврдуваат правила за постапката за поднесување барање и постапката за можно продолжување на поддршката, како што е наведено во член 4 од Делегираната регулатива (ЕУ) 2016/1149, која опфаќа правила за: | </prop>
+      <prop type="x-Context">4277997394, 3149591008</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the legal persons that may submit applications in accordance with Article 3 of Delegated Regulation (EU) 2016/1149;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)правните лица кои можат да поднесат барања во согласност со член 3 од Делегираната регулатива (ЕУ) 2016/1149;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">108</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T131619Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T134627Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="9">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3326669327004066246, -4353375306689344508</prop>
+      <prop type="x-ContextContent">(a)	the natural or legal persons that may submit applications in accordance with Article 3 of Delegated Regulation (EU) 2016/1149; |  | (а)	физичките или правните лица кои можат да поднесат барања во согласност со член 3 од Делегираната регулатива (ЕУ) 2016/1149; | </prop>
+      <prop type="x-Context">-4049998031238286556, 5617691408395748847</prop>
+      <prop type="x-ContextContent">(a)	the legal persons that may submit applications in accordance with Article 3 of Delegated Regulation (EU) 2016/1149; |  | (а)	правните лица кои можат да поднесат барања во согласност со член 3 од Делегираната регулатива (ЕУ) 2016/1149; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for their examination and for the notification of the results of the selection procedure to the operators;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)поднесување и избор од поднесените барања, кои ги опфаќаат барем роковите за поднесување на барањата, за нивно испитување и за известување за резултатите од постапката за избор на операторите;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">109</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T131649Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230331T084039Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090148Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">281461866652119105, 1165514478545425198</prop>
+      <prop type="x-ContextContent">(b)	the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for their examination and for the notification of the results of the selection procedure to the operators; |  | (б)	поднесување и избор од поднесените барања, кои ги опфаќаат барем роковите за поднесување на барањата, за нивно испитување и за известување за резултатите од постапката за избор на операторите; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	the verification of compliance with the provisions on eligible operations, eligibility criteria, priority criteria and other objective criteria set out in Subsection 2 of Section 1 of Chapter II of Delegated Regulation (EU) 2016/1149;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)проверка на усогласеноста со одредбите за подобни операции, критериуми за подобност, критериуми за одредување приоритет и други објективни критериуми утврдени во Пододдел 2 од Оддел 1 од Поглавје II од Делегираната рРегулатива (ЕУ) 2016/1149;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">110</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T131812Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230331T084045Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2039429472491059330, -4829898024042918923</prop>
+      <prop type="x-ContextContent">(c)	the verification of compliance with the provisions on eligible operations, eligibility criteria, priority criteria and other objective criteria set out in Subsection 2 of Section 1 of Chapter II of Delegated Regulation (EU) 2016/1149; |  | (в)	проверка на усогласеноста со одредбите за подобни операции, критериуми за подобност, критериуми за одредување приоритет и други објективни критериуми утврдени во Пододдел 2 од Оддел 1 од Поглавје II од Делегираната регулатива (ЕУ) 2016/1149; | </prop>
+      <prop type="x-Context">-7639733915310995991, -7334802409311473705</prop>
+      <prop type="x-ContextContent">(c)	the verification of compliance with the provisions on eligible actions and costs, eligibility criteria, priority criteria and other objective criteria set out in Section 6 of Chapter II of Delegated Regulation (EU) 2016/1149; |  | (в)	проверка на усогласеноста со одредбите за подобни дејства и трошоци, критериуми за подобност, критериуми за одредување приоритет и други објективни критериуми утврдени во Дел 6 од Поглавје II од Делегираната регулатива (ЕУ) 2016/1149; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	the selection of the applications, which shall at least include the weighting attributed to each priority criterion;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)изборот од поднесените барања, кој барем го опфаќа пондерирањето што му се припишува на секој критериум за одредување приоритет;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">111</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T131845Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T131852Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230330T131852Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5566132229, 2605144758</prop>
+      <prop type="x-Context">-7238651955231325220, 8943815273878714655</prop>
+      <prop type="x-ContextContent">(e)	the conclusion of contracts including possible standard forms; |  | (д)	склучувањето договори опфаќајќи можни стандардни обрасци; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(f)	arrangements for the payment of advances and the provision of securities;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>обрасци; (ѓ)аранжманите за исплата на аванси и обезбедување хартии од вред</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">113</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T131852Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T131904Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090148Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8758067231543852922, 997187665840592070</prop>
+      <prop type="x-ContextContent">(f)	arrangements for the payment of advances and the provision of securities; |  | (ѓ)	аранжманите за исплата на аванси и обезбедување хартии од вредност; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(g)	the evaluation of any given supported operation on the basis of appropriate indicators.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ност; (е)евалуацијата на која било дадена поддржана операција врз основа на соодветни индикатори.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">114</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T131905Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T131925Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090148Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In case of extension of the support in accordance with Article 4 of Delegated Regulation (EU) 2016/1149, the results of the supported operation shall be evaluated prior to the extension and be taken into account in the extension decision.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Во случај на продолжување на поддршката во согласност со член 4 од Делегираната Ррегулатива (ЕУ) 2016/1149, резултатите од поддржаната операција се евалуираат пред продолжувањето и се земаат предвид во одлуката за продолжување.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">115</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T131926Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230331T084130Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090148Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The beneficiaries who intend to produce certificates on the financial statements to accompany their payment claims in accordance with Article 41 shall communicate their intention to the competent authority at the moment of the submission of their application.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.Корисниците кои имаат намера да изготват сертификати за финансиските извештаи како придружувањево прилог на нивните барања за исплата во согласност со член 41, ја соопштуваат својата намера до надлежниот орган во моментот на поднесување на нивното барање.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">116</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T131953Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T134636Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090148Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the support referred to in point (b) of Article 45(1) of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure and the procedure for the possible extension of the support as referred to in Article 4 of Delegated Regulation (EU) 2016/1149, which shall include rules on:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 5 Постапка за поднесување барање 1.За поддршката наведена во точка (а) од член 45(1) од Регулативата (ЕУ) бр. 1308/2013, земјите членки утврдуваат правила за постапката за поднесување барање и постапката за можно продолжување на поддршката, како што е наведено во член 4 од Делегираната рРегулатива (ЕУ) 2016/1149, која опфаќа правила за:</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">118</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T132015Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T132024Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="18">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3544758891, 3893742874</prop>
+      <prop type="x-Context">6516509879137713855, 4354164041271764263</prop>
+      <prop type="x-ContextContent">For the support referred to in Article 46 of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure, which shall include rules on: |  | За поддршката наведена во член 46 од Регулативата (ЕУ) бр. 1308/2013, земјите членки утврдуваат правила за постапката за поднесување барања, кои опфаќаат правила за: | </prop>
+      <prop type="x-Context">5643579021108986525, -6990979830425930990</prop>
+      <prop type="x-ContextContent">For the support referred to in point (b) of Article 45(1) of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure and the procedure for the possible extension of the support as referred to in Article 4 of Delegated Regulation (EU) 2016/1149, which shall include rules on: |  | За поддршката наведена во точка (а) од член 45(1) од Регулативата (ЕУ) бр. 1308/2013, земјите членки утврдуваат правила за постапката за поднесување барање и постапката за можно продолжување на поддршката, како што е наведено во член 4 од Делегираната регулатива (ЕУ) 2016/1149, која опфаќа правила за: | </prop>
+      <prop type="x-Context">4267556088, 3149591008</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the natural or legal persons that may submit applications in accordance with Article 3 of Delegated Regulation (EU) 2016/1149;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)физичките или правните лица кои можат да поднесат барања во согласност со член 3 од Делегираната Ррегулатива (ЕУ) 2016/1149;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">119</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T204543Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T204546Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7819451383580430781, 1582330405719845232</prop>
+      <prop type="x-ContextContent">(a)	all eligibility criteria established by Union or national legislation or the national framework can be checked; |  | (а)	може да се проверат сите критериуми за подобност утврдени со законодавството на Унијата или националното законодавство или националната рамка; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	only operations that are verifiable and controllable are selected;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)се избираат само операции кои се проверливи и контролирани;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">488</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T204546Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T204553Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1422619121258002347, -4519682253437155412</prop>
+      <prop type="x-ContextContent">(b)	only operations that are verifiable and controllable are selected; |  | (б)	се избираат само операции кои се проверливи и контролирани; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	the competent authorities responsible for carrying out checks have a sufficient number of suitably qualified and experienced staff to carry out the checks effectively;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)надлежните органи одговорни за спроведување на проверките, имаат доволен број на соодветно квалификуван и искусен персонал за ефективно да ги спроведуваат проверките;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">489</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T204553Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T204620Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2809508603473861100, 5902415183455605994</prop>
+      <prop type="x-ContextContent">(c)	the competent authorities responsible for carrying out checks have a sufficient number of suitably qualified and experienced staff to carry out the checks effectively; |  | (в)	надлежните органи одговорни за спроведување на проверките имаат доволен број на соодветно квалификуван и искусен персонал за ефективно да ги спроведуваат проверките; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	provision is made for checks to avoid irregular duplicated financing of the measures under Section 4 of Chapter II of Title I of Part II of Regulation (EU) No 1308/2013 and other Union or national schemes;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)се предвидени проверки за да се избегне неправилно двојно финансирање на мерките според Оддел 4 од Поглавје II од Наслов I од Дел II од Регулативата (ЕУ) бр. 1308/2013 и други шеми на Унијата или националните шеми;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">490</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T204621Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T204635Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">418482743364784982, -9085606062132811880</prop>
+      <prop type="x-ContextContent">(d)	provision is made for checks to avoid irregular duplicated financing of the measures under Section 4 of Chapter II of Title I of Part II of Regulation (EU) No 1308/2013 and other Union or national schemes; |  | (г)	се предвидени проверки за да се избегне неправилно двојно финансирање на мерките според Оддел 4 од Поглавје II од Наслов I од Дел II од Регулативата (ЕУ) бр. 1308/2013 и други шеми на Унијата или националните шеми; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	the definition of methods and means for verification that are in line with the nature of the support measure concerned and specify who shall be subject to checks;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д)дефиниција на методи и средства за верификација, кои се во согласност со природата на односната мерка за поддршка и специфицираат кој ќе биде предмет на проверки;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">491</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T204636Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T204707Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4117692591378989045, 8234860145885935020</prop>
+      <prop type="x-ContextContent">(e)	the definition of methods and means for verification that are in line with the nature of the support measure concerned and specify who shall be subject to checks; |  | (д)	дефиниција на методи и средства за верификација кои се во согласност со природата на односната мерка за поддршка и специфицираат кој ќе биде предмет на проверки; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(f)	in the case of sampling, Member States shall ensure that, by their number, nature and frequency, on-the-spot checks are representative of the entirety of their territory and correspond, where applicable, to the volume of the wine products marketed or held with a view to their marketing.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ѓ)во случај на земање примероци, земјите членки обезбедуваат дека, по нивнитеот број, природа и зачестеност, проверките на самотолице место се репрезентативни за целата територија на нивната територија и одговараат, каде што е применливо, на обемот на винските производи кои се продаваат или се чуваат со цел нивен маркетингнивно ставање на пазарот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">492</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T204711Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230331T085733Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Administrative checks shall be carried out on all applications for support, payment claims or other declarations and requests of modification submitted by a beneficiary or a third party, and shall cover all elements that can be checked and are appropriate to be checked by means of administrative checks.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>роверки 1.Административни проверки се вршат на сите барања за поддршка, барања за исплата или други декларации и барања за измена, поднесени од корисник или од трето лице, и ги опфаќаат сите елементи што може да се проверат и се соодветни да се проверат со помош на административни проверки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">494</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T204737Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230331T085746Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1941228048271646048, 6520148183645667651</prop>
+      <prop type="x-ContextContent">Administrative checks shall be carried out on all applications for support, payment claims or other declarations and requests of modification submitted by a beneficiary or a third party, and shall cover all elements that can be checked and are appropriate to be checked by means of administrative checks. |  | Административни проверки се вршат на сите барања за поддршка, барања за исплата или други декларации и барања за измена поднесени од корисник или трето лице и ги опфаќаат сите елементи што може да се проверат и се соодветни да се проверат со помош на административни проверки. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where relevant, administrative checks shall include cross-checks with, inter alia, data from the integrated administration and control system provided for in Chapter 2 of Title V of Regulation (EU) No 1306/2013.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Онаму каде што е соодветно, административните проверки вклучуваат вкрстени проверки со, меѓу другото, податоци од интегрираниот систем за администрација и контрола, предвиден во Поглавје 2 од Наслов V од Регулативата (ЕУ) бр. 1306/2013.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">495</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T204836Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T204838Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2830372523788666314, -4482623741655993430</prop>
+      <prop type="x-ContextContent">Administrative checks on applications for support shall ensure the compliance of the operation with applicable obligations established by Union or national law or by the support programme. |  | Административните проверки на барањата за поддршка обезбедуваат усогласеност на работењето со важечките обврски утврдени со законодавството на Унијата или националното законодавство или со програмата за поддршка. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The checks shall include verification of:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ддршка. Проверките вклучуваат проверка на:</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">498</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T204838Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T204840Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8403220103270412312, -1891893190518711363</prop>
+      <prop type="x-ContextContent">The checks shall include verification of: |  | Проверките вклучуваат проверка на: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the eligibility of the beneficiary;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)подобноста на корисникот;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">499</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T204840Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T204847Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6491283955734676522, 8013898091979206074</prop>
+      <prop type="x-ContextContent">(a)	the eligibility of the beneficiary; |  | (а)	подобноста на корисникот; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the eligibility criteria, commitments and other obligations of the operation for which an application for support is submitted;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)критериумите за подобност, обврските и другите обврски на операцијата за која се поднесува барање за поддршка;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">500</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T204847Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205005Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">282612734929336126, -788600376959228369</prop>
+      <prop type="x-ContextContent">(b)	the eligibility criteria, commitments and other obligations of the operation for which an application for support is submitted; |  | (б)	критериумите за подобност, обврските и другите обврски на операцијата за која се поднесува барање за поддршка; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	the eligibility of the costs of the operation and compliance with the category of costs or calculation method to be used where support is paid on the basis of standard scales of unit costs or of supporting documents to be submitted by the beneficiary, as well as, where applicable, contributions in kind, personnel and administrative costs referred to in Articles 45, 46 and 47 of Delegated Regulation (EU) 2016/1149 respectively;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)прифатливоста на трошоците за операцијата и усогласеноста со категоријата на трошоци или методот на пресметка што треба да се користи кога поддршката се плаќа врз основа на стандардни скалила на единечниединични трошоци, или на придружни документи што треба да ги достави корисникот, како и, онаму каде е соодветно, придонеси во натура, персонални и административни трошоци наведени во членовите 45, 46 и 47 од Делегираната Ррегулатива (ЕУ) 2016/1149, соодветно;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">501</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205006Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205028Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-786804161174826414, 444311337001889795</prop>
+      <prop type="x-ContextContent">(c)	the eligibility of the costs of the operation and compliance with the category of costs or calculation method to be used where support is paid on the basis of standard scales of unit costs or of supporting documents to be submitted by the beneficiary, as well as, where applicable, contributions in kind, personnel and administrative costs referred to in Articles 45, 46 and 47 of Delegated Regulation (EU) 2016/1149 respectively; |  | (в)	прифатливоста на трошоците за операцијата и усогласеноста со категоријата на трошоци или методот на пресметка што треба да се користи кога поддршката се плаќа врз основа на стандардни скалила на единечни трошоци или на придружни документи што треба да ги достави корисникот, како и, онаму каде е соодветно, придонеси во натура, персонални и административни трошоци наведени во членовите 45, 46 и 47 од Делегираната регулатива (ЕУ) 2016/1149 соодветно; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	where support is paid on the basis of supporting documents to be submitted by the beneficiary, the reasonableness of the costs submitted, which shall be evaluated using at least one of the following evaluation systems:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)кога поддршката се плаќа врз основа на придружните документи што треба да ги достави корисникот, разумноста на поднесените трошоци, коикоја се проценуваатпроценува со користење на најмалку еден од следните системи за евалуација:</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">502</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205028Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205030Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5249047124848754467, 1456358164522217932</prop>
+      <prop type="x-ContextContent">(d)	where support is paid on the basis of supporting documents to be submitted by the beneficiary, the reasonableness of the costs submitted, which shall be evaluated using at least one of the following evaluation systems: |  | (г)	кога поддршката се плаќа врз основа на придружните документи што треба да ги достави корисникот, разумноста на поднесените трошоци, кои се проценуваат со користење на најмалку еден од следните системи за евалуација: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>reference costs;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>референтни трошоци;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">503</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205030Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205031Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7846185605531840599, -2900039272617375281</prop>
+      <prop type="x-ContextContent">reference costs; |  | референтни трошоци; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>a comparison of different offers;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>споредба на различни понуди;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">504</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205035Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230331T085758Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4415524049934594233, 131080966830595830</prop>
+      <prop type="x-ContextContent">an evaluation committee; |  | за оценување; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	where applicable, the compliance with the priority criteria and the attribution of weighting for the purposes of the selection procedure referred to in Article 23 of this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>увањеевалуација; (д) каде што е применливо, усогласеноста со критериумите за одредување приоритет и доделувањето на пондерирањето за целите на постапката за избор, наведенаи во член 23 од оваа регулативаРегула</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">506</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205108Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230331T085807Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Administrative checks on payment claims shall be systematic and include, where appropriate for the claim in question, verification of:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тива. 3.Административните проверки на барањата за исплата се системскисистематски и вклучуваат, онаму каде што е соодветно за предметното побарување, проверка на:</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">507</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205125Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205132Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230330T205132Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4160134805, 4488463723</prop>
+      <prop type="x-Context">4727432824630917927, 6574234890963937759</prop>
+      <prop type="x-ContextContent">Administrative checks on payment claims shall be systematic and include, where appropriate for the claim in question, verification of: |  | Административните проверки на барањата за исплата се системски и вклучуваат, онаму каде што е соодветно за предметното побарување, проверка на: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the completed operation compared with the operation for which the application for support was submitted and granted;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)завршената операција во споредба со операцијата за која е поднесено и одобрено барањето за поддршка;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">508</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205132Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205136Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-686645782366040702, -1053323258671046498</prop>
+      <prop type="x-ContextContent">(a)	the completed operation compared with the operation for which the application for support was submitted and granted; |  | (а)	завршената операција во споредба со операцијата за која е поднесено и одобрено барањето за поддршка; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the costs incurred and the payments made by the beneficiary.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)направените трошоци и плаќањата направени од корисникот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">509</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205136Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205154Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Administrative checks shall include procedures to avoid irregular double financing with other Union or national schemes.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>4.Административните проверки вклучуваат постапки за да се избегне нередовно двојно финансирање со други шеми на Унијата или од националнитенационални шеми.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">510</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205157Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205211Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall organise on-the-spot checks on selected operations using an appropriate sample basis where a sample based control is provided for in this Chapter.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>лице место 1.Земјите членки организираат проверки на самотосамотолице место на избраните операции, користејќи соодветна база на примерок каде што е предвидена контрола врз основа на примерок во ова Поглавјепоглавје.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">512</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205212Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205249Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5250402922408961069, -6613229303664970124</prop>
+      <prop type="x-ContextContent">Member States shall organise on-the-spot checks on selected operations using an appropriate sample basis where a sample based control is provided for in this Chapter. |  | Земјите членки организираат проверки на самото место на избраните операции користејќи соодветна база на примерок каде што е предвидена контрола врз основа на примерок во ова Поглавје. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Those checks shall be carried out before the final payment is made for an operation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Тие проверки се вршат пред да се изврши конечната исплата за операција.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">513</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205249Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205303Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>On-the-spot checks may be announced provided that the prior notice does not interfere with their purpose or effectiveness.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Проверки на самотолице место може да се објават под услов претходното известување да не се меша со нивната цел или со ефективноста. С</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">514</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205316Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205326Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where applicable, the on-the-spot checks provided for in this Regulation shall be carried out in conjunction with any other checks provided for by Union legislation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>4 дена. 3.Онаму каде што е применливо, проверките на самотолице место, предвидени во оваа Ррегулатива, се вршат заедно со сите други проверки предвидени со законодавството на Унијата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">516</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205416Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T213140Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>On-the-spot checks after the implementation of the operations shall be systematic for the measures referred to in Articles 46, 47, 50, 51 of Regulation (EU) No 1308/2013 respectively.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>е место 1.Проверките на самотолице место по спроведувањето на операциите, се системскисистематски за мерките наведени во членовите 46, 47, 50, 51 од Регулативата (ЕУ) бр. 1308/2013, соодветно.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">518</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205427Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205443Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230330T205443Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6114155346327969977, 4761146126898355054</prop>
+      <prop type="x-ContextContent">On-the-spot checks after the implementation of the operations shall be systematic for the measures referred to in Articles 46, 47, 50, 51 of Regulation (EU) No 1308/2013 respectively. |  | Проверките на лице место по спроведувањето на операциите се системски за мерките наведени во членовите 46, 47, 50, 51 од Регулативата (ЕУ) бр. 1308/2013, соодветно. | </prop>
+      <prop type="x-Context">1088420301, 5070073521</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>As regards the measures referred to in Articles 45, 48, 49 and 52 of Regulation (EU) No 1308/2013 respectively, a sample based control after the implementation of the operations is allowed.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во однос на мерките наведени во членовите 45, 48, 49 и 52 од Регулативата (ЕУ) бр. 1308/2013, соодветно, дозволена е контрола врз основа на примерок по спроведувањето на операциите.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">519</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205443Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205457Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6629420279057051283, -9153855548217775822</prop>
+      <prop type="x-ContextContent">As regards the measures referred to in Articles 45, 48, 49 and 52 of Regulation (EU) No 1308/2013 respectively, a sample based control after the implementation of the operations is allowed. |  | Во однос на мерките наведени во членовите 45, 48, 49 и 52 од Регулативата (ЕУ) бр. 1308/2013, соодветно, дозволена е контрола врз основа на примерок по спроведувањето на операциите. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The sample size shall be at least 5 % of the applications, selected in accordance with Article 34 of this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Големината на примерокот треба да биде најмалку 5 % од поднесените барања, избрани во согласност со член 34 од оваа Ррегулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">520</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205457Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205503Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6370140141033168123, 4391126189844917371</prop>
+      <prop type="x-ContextContent">The sample size shall be at least 5 % of the applications, selected in accordance with Article 34 of this Regulation. |  | Големината на примерокот треба да биде најмалку 5 % од поднесените барања, избрани во согласност со член 34 од оваа регулатива. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This sample shall also represent at least 5 % of the amounts covered by the support.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Овој примерок, исто така, претставува најмалку 5 % од износите опфатени со поддршката.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">521</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205609Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205643Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where on-the-spot checks reveal any significant non-compliance in the context of a given support measure at national level or in a region or part of a region, the competent authority shall appropriately increase the percentage of beneficiaries to be checked on-the-spot in the following year.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Кога проверките на самотосамотолице место откриваат значајна неусогласеност во контекст на дадена мерка за поддршка на национално ниво или во регион или во дел од регион, надлежниот орган соодветно го зголемува процентот на корисници што треба да се проверат на самотолице место во следната годи</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">523</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230330T205643Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20230330T205701Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20230331T090149Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1414612102478737973, 2272271966395236915</prop>
+      <prop type="x-ContextContent">Where on-the-spot checks reveal any significant non-compliance in the context of a given support measure at national level or in a region or part of a region, the competent authority shall appropriately increase the percentage of beneficiaries to be checked on-the-spot in the following year. |  | Кога проверките на самото место откриваат значајна неусогласеност во контекст на дадена мерка за поддршка на национално ниво или во регион или дел од регион, надлежниот орган соодветно го зголемува процентот на корисници што треба да се проверат на лице место во следната година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>However, Member States may decrease the minimum level of on-the-spot checks where the management and control systems function properly and the error rates remain at an acceptable level.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>на. Меѓутоа, земјите членки може да го намалат минималното ниво на проверки на самотолице место каде што системите за управување и за контрола функционираат правилно, а стапките на грешки остануваат на прифатливо ниво.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R1150</prop>
+      <prop type="x-SourceTUIndex">524</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

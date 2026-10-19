@@ -1,0 +1,7 @@
+{
+  "workerTests": {"status": "PASS", "passed": 35, "warnings": 1},
+  "productionContractTests": {"status": "PASS"},
+  "architecturalNoSpikeDependencyTest": {"status": "PASS"},
+  "fixtureRegression": {"status": "PASS"},
+  "typescriptTypecheck": {"status": "PASS"}
+}

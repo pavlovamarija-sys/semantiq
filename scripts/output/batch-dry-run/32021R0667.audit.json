@@ -1,0 +1,845 @@
+{
+  "celex": "32021R0667",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R0667\\TMX_MK1\\32021R0667_MK1.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R0667\\MK2\\32021R0667_MK2.docx",
+  "tmx_sha256": "d3068caf4dfb1aea5016297093e8d08b47a21baa28864dce89891110201e97ef",
+  "mk2_sha256": "fc94c797224f23ea84505856337a6b757dd3bf9c8a8b278baf6a0b5371870366",
+  "original_tus": 23,
+  "accepted_tus": 8,
+  "skipped_tus": 15,
+  "acceptance_percent": 34.78,
+  "mk1_coverage": 50.24,
+  "mk2_coverage": 53.88,
+  "accepted_clean_en_chars": 522,
+  "accepted_clean_mk2_chars": 509,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL IMPLEMENTING REGULATION (EU) 2021/667",
+      "mk1": "РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/667 НА СОВЕТОТ",
+      "mk2": "РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/667 НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        51
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 23 April 2021",
+      "mk1": "од 23 април 2021 година",
+      "mk2": "од 23 април 2021 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        52,
+        75
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "implementing Article 21(2) of Regulation (EU) 2016/44 concerning restrictive measures in view of the situation in Libya",
+      "mk1": "за спроведување на член 21(2) од Регулативата (ЕУ) за рестриктивни мерки во однос на состојбата во Либија",
+      "mk2": "за спроведување на член 21(2) од Регулативата (ЕУ) за рестриктивни мерки во однос на состојбата во Либија",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        2,
+        3
+      ],
+      "mk2_char_span": [
+        76,
+        181
+      ],
+      "evidence": {
+        "token_count": 18,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          3
+        ],
+        "atom_window": [
+          2,
+          3
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 4,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        3,
+        4
+      ],
+      "mk2_char_span": [
+        182,
+        210
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          4,
+          4
+        ],
+        "atom_window": [
+          3,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирањето на Европската Унија,",
+      "mk2": "имајќи го предвид Договорот за функционирањето на Европската Унија,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        4,
+        5
+      ],
+      "mk2_char_span": [
+        211,
+        278
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          5
+        ],
+        "atom_window": [
+          4,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "Having regard to Council Regulation (EU) 2016/44 of 18 January 2016 concerning restrictive measures in view of the situation in Libya and repealing Regulation (EU) No 204/2011 (), and in particular Article 21(2) thereof,",
+      "mk1": "имајќи ја предвид Регулативата 2016/44 на Советот од 18 јануари 2016 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на Регулативата (ЕУ) бр. 204/2011 (), а особено член 21(2) од истата,",
+      "mk2": "имајќи ја предвид Регулативата 2016/44 на Советот од 18 јануари 2016 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на Регулативата (ЕУ) бр. 204/2011 (), а особено член 21(2) од истата,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        279,
+        495
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          7
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "OJ L 12, 19.1.2016, p. 1.",
+      "mk1": "Сл. весник L 12, 19.1. 2016 година, стр. 1.",
+      "mk2": "Сл. весник L 12, 19.1. 2016 година, стр. 1.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        495,
+        538
+      ],
+      "evidence": {
+        "token_count": 46,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          7
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 8,
+      "en": "(1) On 18 January 2016, the Council adopted Regulation (EU) 2016/44.",
+      "mk1": "(1) На 18 јануари 2016 година, Советот ја донесе Регулативата (ЕУ) 2016/44.",
+      "mk2": "",
+      "score": 0.5207547169811321,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 9,
+      "en": "(3) Annex III to Regulation (EU) 2016/44 should therefore be amended accordingly,",
+      "mk1": "(3) Затоа, Анекс III кон Регулативата (ЕУ) бр. 2016/44 треба соодветно да се измени.",
+      "mk2": "",
+      "score": 0.47577092511013214,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 10,
+      "en": "HAS ADOPTED THIS REGULATION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "mk2": "",
+      "score": 0.425531914893617,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 11,
+      "en": "Annex III to Regulation (EU) 2016/44 is amended in accordance with the Annex to this Regulation.",
+      "mk1": "Анекс III кон Регулативата (ЕУ) 2016/44 се изменува во согласност со Анексот кон оваа регулатива.",
+      "mk2": "",
+      "score": 0.5271317829457365,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 12,
+      "en": "Article 2",
+      "mk1": "Член 2",
+      "mk2": "",
+      "score": 0.21621621621621623,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 13,
+      "en": "This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила на денот по нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "",
+      "score": 0.4051724137931034,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 14,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "",
+      "score": 0.35664335664335667,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 15,
+      "en": "In Regulation (EU) 2016/44, Annex III (List of natural and legal persons, entities or bodies referred to in Article 6(2)), Part A (Persons), entry 9 (concerning AL-GAOUD, Abdelmajid) is deleted.",
+      "mk1": "Во Регулативата (ЕУ) 2016/44, Анекс III (Список на физички и правни лица, субјекти или тела наведени во член 6(2)), Дел А (Лица), внес 9 (во однос на AL-GAOUD, Abdelmajid) се брише.",
+      "mk2": "",
+      "score": 0.3914209115281501,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 16,
+      "en": "Having regard to the proposal of the High Representative of the Union for Foreign Affairs and Security Policy,",
+      "mk1": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "mk2": "",
+      "score": 0.324582338902148,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 17,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "Оваа регулатива влегува во",
+      "score": 0.35555555555555557,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        15,
+        17
+      ],
+      "mk2_char_span": [
+        1030,
+        1057
+      ],
+      "evidence": {
+        "token_count": 35,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          15,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 18,
+      "en": "(2) The entry for one person should be deleted as he is deceased.",
+      "mk1": "(2) Внесот за едно лице треба да се избрише бидејќи е починато.",
+      "mk2": "сила на денот по нејзиното објавување во Службениот весник на Европската Унија. Оваа р",
+      "score": 0.2482758620689655,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        15,
+        17
+      ],
+      "mk2_char_span": [
+        1057,
+        1143
+      ],
+      "evidence": {
+        "token_count": 35,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          15,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 19,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "mk1": "Оваа регулатива е обврзувачка во целост и директно применвлива во сите земји- членки.",
+      "mk2": "егулатива е целосно обврзувачка во целост и директно применвлива во сите земји- членки. Брисел, 23 април 2021 година.",
+      "score": 0.7857142857142857,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        15,
+        17
+      ],
+      "mk2_char_span": [
+        1143,
+        1260
+      ],
+      "evidence": {
+        "token_count": 35,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          15,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 20,
+      "en": "Done at Brussels, 23 April 2021.",
+      "mk1": "Брисел, 23 април 2021 година.",
+      "mk2": "",
+      "score": 0.5287356321839081,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 21,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "Претседател",
+      "score": 0.2857142857142857,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        18,
+        21
+      ],
+      "mk2_char_span": [
+        1272,
+        1283
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          21,
+          23
+        ],
+        "atom_window": [
+          18,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 22,
+      "en": "A. P. ZACARIAS",
+      "mk1": "А. П. ЗАКАРИАС",
+      "mk2": "А. П. ЗАКАРИЈАС",
+      "score": 0.96,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        18,
+        21
+      ],
+      "mk2_char_span": [
+        1283,
+        1299
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          21,
+          23
+        ],
+        "atom_window": [
+          18,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 23,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "mk2": "АНЕКС",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        18,
+        21
+      ],
+      "mk2_char_span": [
+        1299,
+        1305
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          21,
+          23
+        ],
+        "atom_window": [
+          18,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 1,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021R0667",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Council Implementing Regulation (EU) 2021/667 of 23 April 2021 implementing Article 21(2) of Regulation (EU) 2016/44 concerning restrictive measures in view of the situation in Libya",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/667 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 23 април 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за спроведување на член 21(2) од Регулативата (ЕУ) за рестриктивни мерки во однос на состојбата во Либија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Common foreign and security policy",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ана Наќева",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translations@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "20.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор(АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Нема карактеристични термини во актот.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021R0667",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Council Implementing Regulation (EU) 2021/667 of 23 April 2021 implementing Article 21(2) of Regulation (EU) 2016/44 concerning restrictive measures in view of the situation in Libya",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/667 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 23 април 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за спроведување на член 21(2) од Регулативата (ЕУ) за рестриктивни мерки во однос на состојбата во Либија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Common foreign and security policy",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Павлова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translations@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "21.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Сл. весник L 12, 19.1. 2016 година, стр. 1.",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 5,
+        "text": "Сл. весник L 12, 19.1. 2016 година, стр. 1."
+      }
+    ]
+  },
+  "dry_run": true
+}

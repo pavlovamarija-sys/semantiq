@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "command": "npx supabase@2.115.0 start",
+  "linkedProject": "yswudlrbswpwifbgqldh",
+  "localEnvironment": "started_then_stopped",
+  "reason": "Local migration reset stopped at 20261007000000_approved_tm_fuzzy_retrieval.sql because approved_translation_memory_units.audit_status does not exist at that migration point.",
+  "productionModified": false,
+  "gpt56Calls": 0,
+  "authenticatedRlsTests": "PASS",
+  "effectiveUserIdentities": ["15fded86-af59-46bd-8472-8d824e93924f", "e7cf4279-efe8-47cc-a3cb-ffbbbfd3a6b5"],
+  "sameProject": "policy allowed; foreign-key rejection proved authorization passed",
+  "crossProject": "HTTP 403 / SQLSTATE 42501",
+  "migrationTarget": "local only",
+  "failureCode": null,
+  "requiredManualSetup": [
+    "Start Docker Desktop with the Linux engine.",
+    "Run supabase start in the repository.",
+    "Apply the local migrations with supabase db reset.",
+    "Create two local Auth users and isolated projects using local-only fixtures.",
+    "Obtain each user's local access token through the local Auth API.",
+    "Run SELECT and INSERT checks through the local Supabase REST/Data API using each user's Bearer token.",
+    "Delete or reset the local project after recording results."
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "classification": "PASS_AFTER_AUDIT_FIX",
+  "generationId": "e4549fac-1a6f-4d2a-b932-9299f76cb54a",
+  "snapshotId": "dd258d76-5d3c-4f33-b5b6-6cd33481c73f",
+  "extractorVersion": "docx-canonical-phase6c5-v2-unicode",
+  "metrics": {"nodes": 422, "translationUnits": 265, "inlineCodes": 3, "normalizedTokens": 3389, "firstTU": 0, "lastTU": 264},
+  "docxSha256": "2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971",
+  "persistedGenerationStatus": "completed",
+  "persistedValidationStatus": "PASS",
+  "unicode": {"correctApostropheUnits": 10, "mojibakeOrReplacementUnits": 0, "sourceHashMismatchUnits": 0, "serverEncoding": "UTF8", "clientEncoding": "UTF8"},
+  "historicalSnapshotsUnchanged": true,
+  "catProjection": "NOT_PERFORMED",
+  "rootCauseStatus": "Persistence was correct. Forensic Python opened UTF-8 canonical-tus.json with the Windows default code page, producing local mojibake and false hash mismatches.",
+  "failClosedGuard": "Migration 20261024000000_verify_canonical_persisted_hashes.sql verifies server-side UTF-8 SHA-256 before PASS."
+}

@@ -1,0 +1,18 @@
+{
+  "celex": "32006L0114",
+  "source_pdf": "workers/pdf-to-docx/tests/fixtures/32006L0114.pdf",
+  "pages": 7,
+  "exclusion_rule": "Exact recurring OJ header text plus top-margin geometry (y1 <= 70 points).",
+  "excluded_paragraphs": 28,
+  "excluded_fragments_by_page": {"1": 4, "2": 4, "3": 4, "4": 4, "5": 4, "6": 4, "7": 4},
+  "excluded_span_count": 28,
+  "source_span_count": 3362,
+  "represented_legal_span_count": 3334,
+  "audit_status": "All excluded spans remain represented in page-furniture diagnostics and decisions; none enter typed legal nodes or output text.",
+  "experimental_docx": "artifacts/pdf-phase6c8/32006L0114-no-page-furniture.docx",
+  "experimental_docx_sha256": "13a668e63336b778b0ef93763f58e047a67fa755444b21b1a899a3380bbb74a5",
+  "experimental_docx_size": 44300,
+  "text_integrity": {"status": "PASS", "normalized_tokens": 3319, "footnotes": 7},
+  "canonical_projection": {"nodes": 400, "translation_units": 243, "inline_codes": 10, "normalized_tokens": 3319},
+  "preserved": {"directive_title": true, "legal_text": true, "recital_numbers": true, "citations": true, "footnotes": 7, "tables": 3, "rows": 48, "cells": 100, "page_breaks": 6}
+}

@@ -1,0 +1,1489 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20220820T173022Z" creationid="LENOVOIDEAPADG3\bibga">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">02003R1560-20140209_МК1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">02003R1560</prop>
+    <prop type="x-SourceTMX">02003R1560-20140209.tmx</prop>
+    <prop type="x-SourceTMXSHA256">577d142544662265bd83a06291facc1914dcfe436552d2a53a03072182fdc3f1</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">81</prop>
+  </header>
+  <body>
+    <tu creationdate="20220820T173737Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T173812Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T224450Z" usagecount="9">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Овој документ е наменет чисто како алатка за документација и институциите не преземаат никаква одговорност за неговата содржина</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T173816Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T174529Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T224450Z" usagecount="3">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2038500968065122846, 4979535552361271989</prop>
+      <prop type="x-ContextContent">This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents |  | Овој документ е наменет чисто како алатка за документација и институциите не преземаат никаква одговорност за неговата содржина | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>►B</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>►Б</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T174329Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T174544Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T174544Z" usagecount="1">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">12978584, 13008809</prop>
+      <prop type="x-ContextContent">►B |  | ►Б | </prop>
+      <prop type="x-Context">12980506, 13010731</prop>
+      <prop type="x-ContextContent">▼B |  | ▼Б | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION REGULATION (EC) No 1560/2003</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕЗ) бр. 1560/2003 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T174557Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T174609Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T180217Z" usagecount="1">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-6352360153743472482, 7128097447027493401</prop>
+      <prop type="x-ContextContent">COMMISSION REGULATION (EC) No 1560/2003 |  | РЕГУЛАТИВА (ЕЗ) бр. 1560/2003 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 2 September 2003</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 2 септември 2003 година</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T174353Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T180438Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T180438Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">3657596318, -2974083973345206439</prop>
+      <prop type="x-ContextContent">of 2 September 2003 |  | од 2 септември 2003 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>laying down detailed rules for the application of Council Regulation (EC) No 343/2003 establishing the criteria and mechanisms for determining the Member State responsible for examining an asylum application lodged in one of the Member States by a third-country national</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за утврдување на деталните правила за примена на Регулативата (ЕЗ) бр. 343/2003 на Советот за востановување на критериумите и механизмите за утврдување на земјата членка одговорна за испитување на барање за азил поднесено во една од земјите членки од страна на државјанин на трета земја</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T175115Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220824T100257Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T100257Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-8862147390912227106, 7014265069755646036</prop>
+      <prop type="x-ContextContent">laying down detailed rules for the application of Council Regulation (EC) No 343/2003 establishing the criteria and mechanisms for determining the Member State responsible for examining an asylum application lodged in one of the Member States by a third-country national |  | за утврдување на деталните правила за примена на Регулативата (ЕЗ) бр. 343/2003 на Советот за востановување на критериумите и механизмите за утврдување на земјата членка одговорна за испитување на барање за азил поднесено во една од земјите членки од страна на државјанин на трета земја | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(OJ L 222, 5.9.2003, p.3)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Сл. весник L 222, 5.9.2003 година, стр. 3)</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T175401Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T175426Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T175426Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">5333360671, 1042886400</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Amended by:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Изменета со:</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T175430Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T175437Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T175437Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">3364335336715708, 131139780525738959</prop>
+      <prop type="x-ContextContent">Amended by: |  | Изменета со: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Official Journal</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Службен весник</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210217T202730Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T175459Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T175459Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">5047220045887176986, 131381314678143338</prop>
+      <prop type="x-ContextContent">Official Journal |  | Службен весник | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>бр.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">9</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T175509Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T175516Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T175516Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">117949730, 4589280207</prop>
+      <prop type="x-ContextContent">page |  | страна | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>date</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Датум</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">11</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T175523Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T175525Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T175525Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">117592641, 4576740707</prop>
+      <prop type="x-ContextContent">date |  | датум | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>►M1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>►М1</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">12</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T175525Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220824T100332Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T100332Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">402344474, 403281449</prop>
+      <prop type="x-ContextContent">►M1 |  | ►М1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Regulation (EU) No 604/2013 of the European Parliament and of the Council of 26 June 2013</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Регулатива (ЕУ) бр. 604/2013 на Европскиот парламент и на Советот од 26 јуни 2013 година</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">13</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T175627Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T175627Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T175627Z" usagecount="1">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">7297769792519079470, -4573495582033217880</prop>
+      <prop type="x-ContextContent">Commission Implementing Regulation (EU) No 118/2014 of 30 January 2014 |  | Регулатива за спроведување (ЕУ) бр. 118/2014 на Комисијата од 30 јануари 2014 година | </prop>
+      <prop type="x-Context">4401968417, 7032231644</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>L 180</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>L 180</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">14</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220728T154229Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T175627Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T180055Z" usagecount="3">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">119766206, 119766206</prop>
+      <prop type="x-ContextContent">L 180 |  | L 180 | </prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">) |  | ) | </prop>
+      <prop type="x-Context">1111675417968935401, -7813449616703239113</prop>
+      <prop type="x-ContextContent">Residence in another EU Member State (4) | AgQAAQEAAQQyMzg5ASUCAQEEMjM4OQEBAQIAAQQyMzk1AQECAgEEMjM5NQE= | Престој во друга земја членка на ЕУ | AgIAAQEAAQZJdGFsaWMBIwIBAQZJdGFsaWMB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>31</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>31</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">15</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T175638Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T175652Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T175652Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">31 |  | 31 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>29.6.2013</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>29.6.2013 година</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">16</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T175658Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T175659Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T175659Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">1954832224, 58177779998972</prop>
+      <prop type="x-ContextContent">8.2.2014 |  | 8.2.2014 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>►M2</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>►М2</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">17</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T175659Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T180051Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T180051Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">402344505, 403281480</prop>
+      <prop type="x-ContextContent">►M2 |  | ►М2 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Commission Implementing Regulation (EU) No 118/2014 of 30 January 2014</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Регулатива за спроведување (ЕУ) бр. 118/2014 на Комисијата од 30 јануари 2014 година</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">18</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T180115Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T180127Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T233432Z" usagecount="13">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">4754453152904034524, 8346262145982688840</prop>
+      <prop type="x-ContextContent">The deadlines set by Regulation (EU) No 604/2013 for sending a request or a reply shall not be suspended for the duration of the interruption of the operation of the National Access Point in question. |  | Роковите утврдени во Регулативата (ЕУ) бр. 604/2013 за испраќање на барање или одговор продолжуваат да важат за времетраење на прекинот со работењето на Националната пристапна точка за која станува збор. | </prop>
+      <prop type="x-Context">-8814868556748185265, -3911044811488323175</prop>
+      <prop type="x-ContextContent">The Commission shall inform the Member States of the technical standards required. |  | Комисијата ги известува земјите членки за потребните технички стандарди. | </prop>
+      <prop type="x-Context">4855666085722294545, -2432364912128450343</prop>
+      <prop type="x-ContextContent">This obligation is without prejudice to Article 34(5) of Regulation (EU) No 604/2013. |  | Оваа обврска не е во спротивност со член 34(5) од Регулативата (ЕУ) бр. 604/2013. | </prop>
+      <prop type="x-Context">4037931522, 525333078</prop>
+      <prop type="x-Context">4106227582, 1655397589</prop>
+      <prop type="x-Context">4297933460, 1926088873</prop>
+      <prop type="x-Context">4870361705, 2408927434</prop>
+      <prop type="x-Context">4923030562, 2816617113</prop>
+      <prop type="x-Context">-3883697783704414127, -900907121088855592</prop>
+      <prop type="x-ContextContent"> Regulation (EC) No 767/2008 of the European Parliament and of the Council of 9 July 2008 concerning the Visa Information System (VIS) and the exchange of data between Member States on short-stay visas (VIS Regulation) (OJ L 218, 13.8.2008, p. 60). | AgEAAwEBAQMxNDAA |  Регулатива (ЕЗ) бр. 767/2008 на Европскиот парламент и на Советот од 9 јули 2008 година за Визниот информациски систем (ВИС) и размената на податоци меѓу земјите членки за визи за краток престој (Регулатива за ВИС) (Сл. весник L 218, 13.8.2008 година, стр. 60). | AgEAAwEBAQMxNDAA</prop>
+      <prop type="x-Context">3068555157023129223, -558557510585063671</prop>
+      <prop type="x-ContextContent">(b)	the positive result (hit) transmitted by the Eurodac Central Unit, in accordance with Article 4(5) of Regulation (EC) No 2725/2000, after comparison of the applicant’s fingerprints with fingerprint data previously taken and sent to the Central Unit in accordance with Article 4(1) and (2) of that Regulation and checked in accordance with Article 4(6) of that Regulation. |  | (б)	позитивниот резултат (совпаѓање) испратен од страна на Централната единица на Евродак, во согласност со член 4(5) од Регулативата (ЕЗ) бр. 2725/2000, откако ќе се споредат отпечатоците од прсти на барателот со податоците за отпечатоците од прсти коишто се претходно земени и испратени до Централната единица во согласност со член 4(1) и (2) од таа Регулатива и проверени во согласност со член 4(6) од таа Регулатива. | </prop>
+      <prop type="x-Context">1954832224, 58177779998972</prop>
+      <prop type="x-ContextContent">8.2.2014 |  | 8.2.2014 година | </prop>
+      <prop type="x-Context">402404056, 403341031</prop>
+      <prop type="x-ContextContent">▼M1 |  | ▼М1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>▼B</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>▼Б</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T182403Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T225728Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T225728Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">1738783788011594102, -5914959807860695725</prop>
+      <prop type="x-ContextContent">Those arrangements must be clearly defined so as to facilitate cooperation between the authorities in the Member States competent for implementing that Regulation as regards the transmission and processing of requests for the purposes of taking charge and taking back, requests for information and the carrying out of transfers. |  | Тие аранжмани мора да бидат јасно дефинирани за да се олесни соработката помеѓу властите во земјите членки надлежни за спроведување на таа Регулатива во однос на преносот и обработката на барања за цели на преземање одговорност и нивно примање назад, барања за информации и извршување на трансфери. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(2)	To ensure the greatest possible continuity between the Convention determining the State responsible for examining applications for asylum lodged in one of the Member States of the European Communities (<ph x="1" type="284" />), signed in Dublin on 15 June 1990, and Regulation (EC) No 343/2003, which replaces that Convention, this Regulation should be based on the common principles, lists and forms adopted by the committee set up by Article 18 of that Convention, with the inclusion of amendments necessitated by the introduction of new criteria, the wording of certain provisions and of the lessons drawn from experience.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(2)За да се обезбеди најголем можен континуитет помеѓу Конвенцијата што ја одредува земјата одговорна за испитување на барањата за азил поднесени во една од земјите членки на Европските заедници (), потпишана во Даблин на 15 јуни 1990 година, и Регулативата (ЕЗ) бр. 343/2003 година, што ја заменува таа кКонвенција, оваа рРегулатива треба да се заснова на заедничките принципи, списоци и обрасци усвоени од Комитетот формиран со член 18 од таа кКонвенција, вклучените потребни измени со воведувањето на нови критериуми, формулацијата на одредени одредби и на лекциите научени од искуството.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">28</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T184619Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T193017Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T193017Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">775646861809360604, 1347273694478484357</prop>
+      <prop type="x-ContextContent"> OJ C 254, 19.8.1997, p. 1. | AgEAAwEBAQMxMjQA |  Сл. весник C 254, 19.8.1997 година, стр. 1. | AgEAAwEBAQMxMjQA</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(3)	The interaction between the procedures laid down in Regulation (EC) No 343/2003 and the application of Council Regulation (EC) No 2725/2000 of 11 December 2000 concerning the establishment of ‘Eurodac’ for the comparison of fingerprints for the effective application of the Dublin Convention (<ph x="1" type="303" />) must be taken into account.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>та помеѓу постапките утврдени во Регулативата (ЕЗ) бр. 343/2003 и примената на Регулативата (ЕЗ) бр. 2725/2000 на Советот од 11 декември 2000 година за воспоставување на „Евродак“ за споредба на отпечатоци од прсти за ефективната примена на Даблинската конвенција ().</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">30</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T184929Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T185038Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T104720Z" usagecount="1">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-9005880255565772177, -2741721310301657186</prop>
+      <prop type="x-ContextContent">(4)	It is desirable, both for the Member States and the asylum seekers concerned, that there should be a mechanism for finding a solution in cases where Member States differ over the application of the humanitarian clause in Article 15 of Regulation (EC) No 343/2003. |  | (4)	Пожелно е, и за земјите членки и за засегнатите баратели на азил, да постои механизам за изнаоѓање на решение во случаи кога земјите членки се разликуваат во однос на примената на хуманитарната клаузула во член 15 од Регулативата (ЕЗ) бр. 343/2003. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(5)	The establishment of an electronic transmission network to facilitate the implementation of Regulation (EC) No 343/2003 means that rules must be laid down relating to the technical standards applicable and the practical arrangements for using the network.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>на електронска преносна мрежа за да се олесни спроведувањето на Регулативата (ЕЗ) бр. 343/2003 значи дека мора да се утврдат правила во врска со важечките технички стандарди и практичните аранжмани за користење на мрежата.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">33</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T185056Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T185738Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T185738Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">1472160542879766902, 1931054967565584841</prop>
+      <prop type="x-ContextContent">(5)	The establishment of an electronic transmission network to facilitate the implementation of Regulation (EC) No 343/2003 means that rules must be laid down relating to the technical standards applicable and the practical arrangements for using the network. |  | (5)	Воспоставувањето на електронска преносна мрежа за да се олесни спроведувањето на Регулативата (ЕЗ) бр. 343/2003 значи дека мора да се утврдат правила во врска со важечките технички стандарди и практичните аранжмани за користење на мрежата. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(6)	Directive 95/46/EC of the European Parliament and of the Council of 24 October 1995 on the protection of individuals with regard to the processing of personal data and on the free movement of such data (<ph x="1" type="331" />) applies to processing carried out pursuant to the present Regulation in accordance with Article 21 of Regulation (EC) No 343/2003.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(6)Директивата 95/46/ЕЗ на Европскиот парламент и на Советот од 24 октомври 1995 година за заштита на поединците во поглед на обработката на личните податоци и на слободното движење на такви податоци () се применува при обработката извршена согласно оваа рРегулатива во согласност со член 21 од Регулативата (ЕЗ) бр. 343/2003.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">34</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T190707Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T191002Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T191002Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">6598878325, 5505278745</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(8)	In accordance with Article 4 of the Agreement of 19 January 2001 between the European Community and the Republic of Iceland and the Kingdom of Norway concerning the criteria and mechanisms for establishing the State responsible for examining an application for asylum lodged in a Member State or in Iceland or Norway (<ph x="1" type="350" />), this Regulation is to be applied by Iceland and Norway as it is applied by the Member States of the European Community.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(8)Во согласност со член 4 од Договорот од 19 јануари 2001 година помеѓу Европската заедница и Република Исланд и Кралството Норвешка за критериумите и механизмите за утврдување на земјата одговорна за испитување на барање за азил поднесено во земја членка или во Исланд или Норвешка (), оваа рРегулатива треба да ја применуваат Исланд и Норвешка како што ја применуваат земјите членки на Европската заедница. С</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">37</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T191300Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T191419Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T191419Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-7112240338917849608, -3321197299278849565</prop>
+      <prop type="x-ContextContent">(9)	It is necessary for the present Regulation to enter into force as quickly as possible to enable Regulation (EC) No 343/2003 to be applied. |  | (9)	Оваа Регулатива треба да влезе во сила што е можно поскоро за да се овозможи примена на Регулативата (ЕЗ) бр. 343/2003. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(10)	The measures set out in this Regulation are in accordance with the opinion of the Committee set up by Article 27 of Regulation (EC) No 343/2003,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ни во оваа рРегулатива се во согласност со мислењето на Комитетот основан со член 27 од Регулативата (ЕЗ) бр. 343/2003,</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">41</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210215T141713Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T191419Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T191419Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-8385886227332365261, -5598302341989311219</prop>
+      <prop type="x-ContextContent">(10)	The measures set out in this Regulation are in accordance with the opinion of the Committee set up by Article 27 of Regulation (EC) No 343/2003, |  | (10)	Мерките утврдени во оваа Регулатива се во согласност со мислењето на Комитетот основан со член 27 од Регулативата (ЕЗ) бр. 343/2003, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>HAS ADOPTED THIS REGULATION:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">42</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T191510Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T191549Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T191549Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">7400804989325722014, -183115735625904944</prop>
+      <prop type="x-ContextContent">HAS ADOPTED THIS REGULATION: |  | ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="371" x="1" />TITLE<ept i="1" /> I</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>НАСЛОВ I</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">43</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T191549Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T191826Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T191826Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">3517631106022, 4406234194086</prop>
+      <prop type="x-ContextContent">TITLE I | AgIAAQEBAQMzNzEBBQIBAQMzNzEB | НАСЛОВ I | AgIAAQEBAQMzNzEBCAIBAQMzNzEB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>PROCEDURES</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ПОСТАПКИ</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">44</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220723T104545Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T191826Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T191826Z" usagecount="1">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-5826510304823457716, -109818610775623142</prop>
+      <prop type="x-ContextContent">ESTABLISHMENT OF THE ‘DUBLINET’ NETWORK |  | ВОСПОСТАВУВАЊЕ НА МРЕЖАТА „DUBLINET“ | </prop>
+      <prop type="x-Context">3377274825690606, 4408411159569</prop>
+      <prop type="x-ContextContent">PROCEDURES |  | ПОСТАПКИ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>CHAPTER I</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ПОГЛАВЈЕ I</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">45</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T191830Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T191837Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T191837Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">108577421862795, 4236470498506314</prop>
+      <prop type="x-ContextContent">CHAPTER I |  | ПОГЛАВЈЕ I | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>PREPARATION OF REQUESTS</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ПОДГОТОВКА НА БАРАЊА</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">46</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T191837Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T191923Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T224502Z" usagecount="2">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Preparation of requests for taking charge</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 1 Подготовка на барања за преземање одговорност</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">47</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210323T150946Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T191924Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220821T140127Z" usagecount="102">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">2186591476458514364, -2399013648406575423</prop>
+      <prop type="x-ContextContent">District/region Country |  | Округ/регион Земја | </prop>
+      <prop type="x-Context">-5316402595484087804, 3540543442083710489</prop>
+      <prop type="x-ContextContent">failing this, and if necessary, a DNA or blood test. |  | во отсуство на претходно наведеното и доколку е потребно, ДНК-тест или тест на крвта. | </prop>
+      <prop type="x-Context">1287497434, 3352275732</prop>
+      <prop type="x-Context">1335145989, 5471804266</prop>
+      <prop type="x-Context">-8905398132219778897, 8832336158956233394</prop>
+      <prop type="x-ContextContent">The application of Article 15(2) of Regulation (EC) No 343/2003 shall, in any event, be subject to the assurance that the asylum seeker or relative will actually provide the assistance needed. |  | Примената на член 15(2) од Регулативата (ЕЗ) бр. 343/2003, во секој случај, подлежи на гаранција дека барателот на азил или роднината навистина ќе ја обезбеди потребната помош. | </prop>
+      <prop type="x-Context">-657278584242714103, -1926401571946539829</prop>
+      <prop type="x-ContextContent">Where such evidence is not available or cannot be supplied, humanitarian grounds shall be taken as proven only on the basis of convincing information supplied by the persons concerned. |  | Во случај кога таквите докази не се достапни или не можат да се достават, хуманитарните основи се сметаат за докажани само врз основа на убедливи информации доставени од засегнатите лица. | </prop>
+      <prop type="x-Context">1618151605, 3251983140</prop>
+      <prop type="x-Context">8313892049057879135, -3098779176252193628</prop>
+      <prop type="x-ContextContent">Name of mother |  | Име на мајка | </prop>
+      <prop type="x-Context">1690589933, 3256807156</prop>
+      <prop type="x-Context">-4310866386669263638, -2091003835138346298</prop>
+      <prop type="x-ContextContent">Information leaflets for applicants for international protection |  | Информативни летоци за барателите на меѓународна заштита | </prop>
+      <prop type="x-Context">-104890246844076864, -9030181376640938543</prop>
+      <prop type="x-ContextContent">The Member States shall take the necessary steps to ensure that their National Access Points operate without interruption. |  | Земјите членки ги преземаат неопходните чекори со цел да осигураат нивните национални пристапни точки да работат без прекин. | </prop>
+      <prop type="x-Context">-5737144127373623107, 9091494959359170976</prop>
+      <prop type="x-ContextContent">Options now available in the field of cooperation on judicial and civil matters shall be taken account of in this connection. |  | Во врска со ова се земаат предвид можностите што се сега достапни во областа на соработката за судски и граѓански прашања. | </prop>
+      <prop type="x-Context">8159211726310912090, 3352528432635123442</prop>
+      <prop type="x-ContextContent">When was the decision taken |  | Кога е донесена одлуката | </prop>
+      <prop type="x-Context">-7455864961609268631, -994846144426685710</prop>
+      <prop type="x-ContextContent">A specific leaflet for unaccompanied children applying for international protection is set out in Annex XI. | AgIlAQEAAQQxMjg4AQgCAQEEMTI4OAE= | Посебен леток за деца без придружба коишто поднесуваат барање за меѓународна заштита е даден во Анекс XI. | AgIRAQEAAQRCb2xkARICAQEEQm9sZAE=</prop>
+      <prop type="x-Context">1038221889718041146, 2542449087964088237</prop>
+      <prop type="x-ContextContent">I.	Process of determining the State responsible for examining an application for international protection |  | I.	Процес на утврдување на земјата членка одговорна за испитување на барање за меѓународна заштита | </prop>
+      <prop type="x-Context">2686749745, 5567060846</prop>
+      <prop type="x-Context">2690806491, 4242364593</prop>
+      <prop type="x-Context">2476401200188916366, -2917174374337787872</prop>
+      <prop type="x-ContextContent">The arguments in law and in fact set out in the request shall be examined in the light of the provisions of Regulation (EC) No 343/2003 and the lists of proof and circumstantial evidence which are set out in Annex II to the present Regulation. |  | Аргументите во законот и оние коишто се фактички наведени во барањето се испитуваат во однос на одредбите од Регулативата (ЕЗ) бр. 343/2003 и списоците на докази и посредни докази коишто се утврдени во Анекс II кон оваа Регулатива. | </prop>
+      <prop type="x-Context">5186280143506335130, -2976718383654831578</prop>
+      <prop type="x-ContextContent">Negative reply |  | Негативен одговор | </prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">(2) | AgIBAQEBAQQyMjA2AQECAQEEMjIwNgE= | (2) | AgIBAQEBAQQyMjA2AQECAQEEMjIwNgE=</prop>
+      <prop type="x-Context">-3049044457404105267, -5553515227126838165</prop>
+      <prop type="x-ContextContent">The National Access Points shall be responsible for processing incoming data and transmitting outgoing data. |  | Националните пристапни точки се одговорни за обработка на дојдовни податоци и за пренос на појдовни податоци. | </prop>
+      <prop type="x-Context">-4302480991102170985, 1752382307146843352</prop>
+      <prop type="x-ContextContent">Postponed and delayed transfers |  | Одложени и задоцнети трансфери | </prop>
+      <prop type="x-Context">687318084196925949, 7339764723776825865</prop>
+      <prop type="x-ContextContent">What are/were they? |  | Кои се/биле тие? | </prop>
+      <prop type="x-Context">3381092290, 2137034762</prop>
+      <prop type="x-Context">3451836728, 6293689697</prop>
+      <prop type="x-Context">3549072077, 7675017174</prop>
+      <prop type="x-Context">122419, 152644</prop>
+      <prop type="x-ContextContent">e) |  | д) | </prop>
+      <prop type="x-Context">873630081198895789, -408288671701189055</prop>
+      <prop type="x-ContextContent">Preparation of requests for taking charge |  | Подготовка на барања за преземање одговорност | </prop>
+      <prop type="x-Context">104428649269202371, 136465147263189</prop>
+      <prop type="x-ContextContent">Forename(s) |  | Име(-иња) | </prop>
+      <prop type="x-Context">-6354105185023178183, 798239534763732863</prop>
+      <prop type="x-ContextContent">□     Male                 □     Female | AggAAQEBAQQxODIwAQECAQEEMTgyMAEAAQICAQQxODIzARoCAgEEMTgyMwEAAQMDAQQxODMwAQECAwEEMTgzMAEAAQQEAQQxODMzAQsCBAEEMTgzMwE= | □     Машки                 □     Женски | AggAAQEBAQQxODIwAQECAQEEMTgyMAEAAQICAQQxODIzARsCAgEEMTgyMwEAAQMDAQQxODMwAQECAwEEMTgzMAEAAQQEAQQxODMzAQsCBAEEMTgzMwE=</prop>
+      <prop type="x-Context">3848394545, 5654835154</prop>
+      <prop type="x-Context">3874992881, 5117814115</prop>
+      <prop type="x-Context">3881986804, 5585343314</prop>
+      <prop type="x-Context">3928625129, 5275352331</prop>
+      <prop type="x-Context">8765468829062657713, 2894949323172910818</prop>
+      <prop type="x-ContextContent">reports/confirmation of the information by family members, travelling companions, etc.; |  | извештаи/потврда за информациите од страна на членови на семејството, сопатници, итн.; | </prop>
+      <prop type="x-Context">7451852130680817708, 1781358092825796263</prop>
+      <prop type="x-ContextContent">Information for third-country nationals or stateless persons apprehended in connection with irregular crossing of an external border is set out in Annex XII. | AgJJAQEAAQQxMzA5AQ0CAQEEMTMwOQE= | Информации за државјани на трети земји или лица без државјанство уапсени за нелегално преминување на надворешна граница се наведени во Анекс XII. | AgJJAQEAAQRCb2xkAQICAQEEQm9sZAE=</prop>
+      <prop type="x-Context">402647745007472855, 5126646230048664149</prop>
+      <prop type="x-ContextContent">In no case may a requirement be imposed that the escort accompany the asylum seeker beyond the point of arrival of the international means of transport used or that the Member State making the transfer meet the costs of transport beyond that point. |  | Во никој случај не може да се наметне барање придружбата да го придружува барателот на азил надвор од местото на пристигнување на меѓународните транспортни средства што се користат или земјата членка што го врши трансферот да ги подмирува трошоците за транспорт надвор од тоа место. | </prop>
+      <prop type="x-Context">4163803824, 5474859686</prop>
+      <prop type="x-Context">4244002274, 3117924436</prop>
+      <prop type="x-Context">1495088649101892935, 6379873514364275113</prop>
+      <prop type="x-ContextContent">Previous asylum procedures |  | Претходни постапки за барање азил | </prop>
+      <prop type="x-Context">4035683338474002313, 3501470190071005295</prop>
+      <prop type="x-ContextContent">Continuous operation |  | Континуирано работење | </prop>
+      <prop type="x-Context">8779219699603936777, 6122311584526401511</prop>
+      <prop type="x-ContextContent">Establishment of ‘DubliNet’ |  | Воспоставување на „DubliNet“ | </prop>
+      <prop type="x-Context">4426535240, 7556643283</prop>
+      <prop type="x-Context">4113419587547911972, -2865264592196941412</prop>
+      <prop type="x-ContextContent">c)	none/stateless |  | в) нема/без државјанство | </prop>
+      <prop type="x-Context">12980506, 13010731</prop>
+      <prop type="x-ContextContent">▼B |  | ▼Б | </prop>
+      <prop type="x-Context">4740362907, 6864793762</prop>
+      <prop type="x-Context">4753200812, 5734199889</prop>
+      <prop type="x-Context">-5196162254834928642, -6921535699687716751</prop>
+      <prop type="x-ContextContent">Cooperation on transfers |  | Соработка за трансфери | </prop>
+      <prop type="x-Context">5086623365, 5188849729</prop>
+      <prop type="x-Context">5122081341, 6504533756</prop>
+      <prop type="x-Context">-8394653951336611775, -7248583127561067383</prop>
+      <prop type="x-ContextContent">Date of birth |  | Датум на раѓање | </prop>
+      <prop type="x-Context">5320567360, 1387801465</prop>
+      <prop type="x-Context">8583882857053003102, -8158317504893359344</prop>
+      <prop type="x-ContextContent">(*) In block capitals. |  | (*) Големи печатни букви. | </prop>
+      <prop type="x-Context">-8458819619141810508, -6704186865383747975</prop>
+      <prop type="x-ContextContent">The time and place of transfer shall be agreed in advance by the Member States concerned in accordance with the procedure set out in Article 8. |  | Времето и местото на трансферот се однапред договорени од страна на засегнатите земји членки во согласност со постапката утврдена во член 8. | </prop>
+      <prop type="x-Context">-6607971423754848257, 662238302862372805</prop>
+      <prop type="x-ContextContent">Any request, reply or correspondence emanating from a National Access Point, as referred to in Article 19, shall be deemed to be authentic. |  | Секое барање, одговор или кореспонденција што потекнува од Национална пристапна точка, како што е наведено во член 19, се смета за автентично. | </prop>
+      <prop type="x-Context">5050404310989128615, 8982405383458647205</prop>
+      <prop type="x-ContextContent">National Access Points |  | Национални пристапни точки | </prop>
+      <prop type="x-Context">402404087, 403341062</prop>
+      <prop type="x-ContextContent">▼M2 |  | ▼М2 | </prop>
+      <prop type="x-Context">-6454314831084425346, 142279760616384818</prop>
+      <prop type="x-ContextContent">Each Member State shall have a single designated National Access Point. |  | Секоја земја членка има единствена одредена Национална пристапна точка. | </prop>
+      <prop type="x-Context">8751051902256409974, 7025486508151455301</prop>
+      <prop type="x-ContextContent">Practical arrangements for transfers |  | Практични аранжмани за трансфери | </prop>
+      <prop type="x-Context">8313892049050997414, -3098779176246673644</prop>
+      <prop type="x-ContextContent">Name of father |  | Име на татко | </prop>
+      <prop type="x-Context">5706626424, 2856420554</prop>
+      <prop type="x-Context">-6541287186361013578, 1811429318977902523</prop>
+      <prop type="x-ContextContent">Transmission of requests |  | Пренос на барања | </prop>
+      <prop type="x-Context">6103472771, 7474936104</prop>
+      <prop type="x-Context">1656202731749635225, -4230335316328134436</prop>
+      <prop type="x-ContextContent">Surname (*)   Maiden name |  | Презиме (*) моминско презиме | </prop>
+      <prop type="x-Context">370900567623322, 11965465840674</prop>
+      <prop type="x-ContextContent">□ Female | AgIAAQEBAQQzMzU4AQECAQEEMzM1OAE= | □ Женски | AgIAAQEBAQQzMzU4AQECAQEEMzM1OAE=</prop>
+      <prop type="x-Context">-3182057173107312611, 7174166591945092918</prop>
+      <prop type="x-ContextContent">other circumstantial evidence of the same kind. |  | други посредни докази од ист вид. | </prop>
+      <prop type="x-Context">-5770008818980691301, 476491124204975307</prop>
+      <prop type="x-ContextContent">Residence documents/visas |  | Документи за престој/визи | </prop>
+      <prop type="x-Context">6411319451, 8029327310</prop>
+      <prop type="x-Context">-5014730085850111284, 5210212068674713278</prop>
+      <prop type="x-ContextContent">Transfer following an acceptance by default |  | Трансфер по стандардно прифаќање | </prop>
+      <prop type="x-Context">-9219354135196553861, 3755724272978481967</prop>
+      <prop type="x-ContextContent">(b)	where necessary, a copy of any written declarations made by or statements taken from the applicant. |  | (б)	каде што е потребно, копија од какви било писмени изјави дадени од или изјави земени од барателот. | </prop>
+      <prop type="x-Context">6736548301, 6204850456</prop>
+      <prop type="x-Context">1656202731749635225, -4230335316328134436</prop>
+      <prop type="x-ContextContent">Surname (*) Maiden name |  | Презиме (*) моминско презиме | </prop>
+      <prop type="x-Context">7143145341, 3346351876</prop>
+      <prop type="x-Context">7258575890, 2059283196</prop>
+      <prop type="x-Context">7542814045, 5647388150</prop>
+      <prop type="x-Context">7991444500, 5061201900</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>1.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">48</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T191928Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T225802Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T225802Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Requests for taking charge shall be made on a standard form in accordance with the model in Annex I. The form shall include mandatory fields which must be duly filled in and other fields to be filled in if the information is available.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Барањата за преземање одговорност се поднесуваат на стандарден образец во согласност со моделот во Анекс I. Образецот треба да вклучува задолжителни полиња коишто мора да бидат соодветно пополнети и други полиња што треба да се пополнат доколку информациите се достапни.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">49</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T192045Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T192109Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T192109Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">6283104387, 567783381</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Additional information may be entered in the field set aside for the purpose.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Дополнителни информации може да се внесат во полето за таква намена.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">50</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T192109Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T192131Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T192131Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-7127603369174211223, 8945321134073685547</prop>
+      <prop type="x-ContextContent">Additional information may be entered in the field set aside for the purpose. |  | Дополнителни информации може да се внесат во полето за таква намена. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The request shall also include:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Барањето исто така вклучува:</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">51</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T192131Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220821T203930Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220821T203930Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">7932975928545183832, -8836006077591528633</prop>
+      <prop type="x-ContextContent">The request shall also include: |  | Барањето исто така вклучува: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	a copy of all the proof and circumstantial evidence showing that the requested Member State is responsible for examining the application for asylum, accompanied, where appropriate, by comments on the circumstances in which it was obtained and the probative value attached to it by the requesting Member State, with reference to the lists of proof and circumstantial evidence referred to in Article 18(3) of Regulation (EC) No 343/2003, which are set out in Annex II to the present Regulation;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)копија од сите докази и посредни докази коишто покажуваат дека земјата членка до којашто е поднесено барањето е одговорна за испитување на барањето за азил, придружено, онаму каде што е соодветно, со коментари за околностите во кои е добиено барањето и доказната вредност приложена кон истото од земјата членка којашто го поднесува барањето, во врска со списоците на докази и посредни докази наведени во член 18(3) од Регулативата (ЕЗ) бр. 343/2003, коишто се утврдени во Анекс II кон оваа рРегулатива;</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">52</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T192657Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T192759Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T192759Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">4769166526, 3854714221</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	where necessary, a copy of any written declarations made by or statements taken from the applicant.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)каде што е потребно, копија од какви било писмени изјави дадени од или изјави земени од барателот.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">53</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T192800Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T193454Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T195858Z" usagecount="1">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where the request is based on a positive result (hit) transmitted by the Eurodac Central Unit in accordance with Article 4(5) of Regulation (EC) No 2725/2000 after comparison of the asylum seeker's fingerprints with fingerprint data previously taken and sent to the Central Unit in accordance with Article 8 of that Regulation and checked in accordance with Article 4(6) of that Regulation, it shall also include the data supplied by the Central Unit.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Барањето коешто се заснова на позитивен резултат (совпаѓање) испратен од Централната единица на Евродак, во согласност со член 4(5) од Регулативата (ЕЗ) бр. 2725/2000, откако ќе се споредат отпечатоците од прсти на барателот на азил со податоците за отпечатоците од прсти коишто се претходно земени и испратени до Централната единица во согласност со член 4(6) од таа рРегулатива, ќе ги вклучува и податоците обезбедени од Централната единица.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">54</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T195904Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T214143Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T214143Z" usagecount="10">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-1954275869737184856, -1099391865406422844</prop>
+      <prop type="x-ContextContent">The language or languages of communication shall be chosen by agreement between the Member States concerned. |  | Јазикот или јазиците на кои ќе се одвива комуникација се избираат со договор меѓу засегнатите земји членки. | </prop>
+      <prop type="x-Context">2897067382281409486, -9184930155210281015</prop>
+      <prop type="x-ContextContent">If the operation of a National Access Point is interrupted for more than seven working hours the Member State shall notify the competent authorities designated pursuant to Article 22(1) of Regulation (EC) No 343/2003 and the Commission and shall take all the necessary steps to ensure that normal operation is resumed as soon as possible. |  | Во случај кога работата на Националната пристапна точка е прекината повеќе од седум работни часа, земјата членка ги известува надлежните органи назначени согласно член 22(1) од Регулативата (ЕЗ) бр. 343/2003 и Комисијата и ги презема сите потребни чекори за да осигура нејзино повторно нормално функционирање во најскоро можно време. | </prop>
+      <prop type="x-Context">-7846185605521509446, 4071844169139798578</prop>
+      <prop type="x-ContextContent">Reference number |  | Референтен број | </prop>
+      <prop type="x-Context">4004699062, 8384223726</prop>
+      <prop type="x-Context">1130222712176732314, 9153086164124741056</prop>
+      <prop type="x-ContextContent">(b)	the situation of the persons concerned as regards residence, preference being given to the bringing the asylum seeker together with his relative where the latter already has a valid residence permit and resources in the Member State in which he resides. |  | (б)	ситуацијата на засегнатите лица во однос на престојот, при што предност се дава на тоа да се доведе барателот на азил заедно со роднината кога тој веќе има важечка дозвола за престој и ресурси во земјата членка во која престојува. | </prop>
+      <prop type="x-Context">-8455302158539099713, 2698220131446931749</prop>
+      <prop type="x-ContextContent">The Member State responsible may require that three working days' notice be given. |  | Одговорната земја членка може да бара известување за три работни дена. | </prop>
+      <prop type="x-Context">-3387193181885272467, 3790736608293940943</prop>
+      <prop type="x-ContextContent">This code shall be followed by the number indicating the type of request, according to the classification set out in paragraph 1. |  | По оваа шифра следи бројот што го означува видот на барањето, според класификацијата наведена во став 1. | </prop>
+      <prop type="x-Context">7828998045411220719, 8007594061864218649</prop>
+      <prop type="x-ContextContent">The National Access Points shall be responsible for issuing an acknowledgement of receipt for every incoming transmission. |  | Националните пристапни точки се одговорни за издавање потврда за прием за секој дојдовен пренос. | </prop>
+      <prop type="x-Context">5637646482, 3562963985</prop>
+      <prop type="x-Context">-7815197273378375916, -6916467132929525021</prop>
+      <prop type="x-ContextContent">The acknowledgement issued by the system shall be taken as proof of transmission and of the date and time of receipt of the request or reply. |  | Потврдата издадена од системот служи како доказ за преносот и за датумот и времето на прием на барањето или одговорот. | </prop>
+      <prop type="x-Context">-1852699279025278382, -2596943150727711958</prop>
+      <prop type="x-ContextContent">The secure electronic means of transmission referred to in Article 22(2) of Regulation (EC) No 343/2003 shall be known as ‘DubliNet’. |  | Безбедното електронско средство за пренос наведено во член 22(2) од Регулативата (ЕЗ) бр. 343/2003 е познато како „DubliNet“. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>▼M2</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>▼М2</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">55</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T200109Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T200429Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T200429Z" usagecount="1">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032205, 2032422</prop>
+      <prop type="x-ContextContent">2a. |  | 2а. | </prop>
+      <prop type="x-Context">4449911406, 4449911406</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where the request is based on a positive result (hit) transmitted by the Visa Information System (VIS) in accordance with Article 21 of Regulation (EC) No 767/2008 of the European Parliament and of the Council (<ph x="1" type="453" />) after comparison of the fingerprints of the applicant for international protection with fingerprint data previously taken and sent to the VIS in accordance with Article 9 of that Regulation and checked in accordance with Article 21 of that Regulation, it shall also include the data supplied by the VIS.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Барањето коешто се заснова на позитивен резултат (совпаѓање) испратен од Визниот информациски систем (ВИС) во согласност со член 21 од Регулативата (ЕЗ) бр. 767/2008 на Европскиот парламент и на Советот (), откако ќе се споредат отпечатоците од прсти на барателот на меѓународна заштита со податоците за отпечатоци од прсти претходно земени и испратени до ВИС во согласност со член 9 од таа рРегулатива и проверени во согласност со член 21 од таа рРегулатива, ќе ги вклучува и податоците доставени од ВИС.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">57</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T200758Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220824T101943Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T101943Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2491985624, 7799451580</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Requests for taking back shall be made on a standard form in accordance with the model in Annex III, setting out the nature of the request, the reasons for it and the provisions of Regulation (EU) No 604/2013 of the European Parliament and of the Council (<ph x="1" type="484" />) on which it is based.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Подготовка на барања за примање назадповторен прием Барањето за примање назадповторен прием се составува на стандарден образец во согласност со моделот утврден во Анекс III и во него се наведува природата на барањето, причините за поднесување на истото и одредбите од Регулативата (ЕУ) бр. 604/2013 на Европскиот парламент и на Советот() на коишто се заснова таквото барање.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">61</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T201435Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T201518Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T201518Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">6790970739, 5619629542</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the positive result (hit) transmitted by the Eurodac Central Unit, in accordance with Article 4(5) of Regulation (EC) No 2725/2000, after comparison of the applicant’s fingerprints with fingerprint data previously taken and sent to the Central Unit in accordance with Article 4(1) and (2) of that Regulation and checked in accordance with Article 4(6) of that Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)позитивниот резултат (совпаѓање) испратен од страна на Централната единица на Евродак, во согласност со член 4(5) од Регулативата (ЕЗ) бр. 2725/2000, откако ќе се споредат отпечатоците од прсти на барателот со податоците за отпечатоците од прсти коишто се претходно земени и испратени до Централната единица во согласност со член 4(1) и член 4 (2) од таа рРегулатива и проверени во согласност со член 4(6) од таа рРегулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">66</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T201856Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220821T202444Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220821T202444Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whatever the criteria and provisions of Regulation (EC) No 343/2003 that are relied on, the requested Member State shall, within the time allowed by Article 18(1) and (6) of that Regulation, check exhaustively and objectively, on the basis of all information directly or indirectly available to it, whether its responsibility for examining the application for asylum is established.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Без оглед на критериумите и одредбите од Регулативата (ЕЗ) бр. 343/2003 на коишто се потпира, земјата членка до којашто се поднесува барањето, во рокот дозволен со член 18(1) и член 18(6) од таа рРегулатива, исцрпно и објективно проверува, врз основа на сите информации со кои директно или индиректно располага, дали е утврдена нејзината одговорност за испитување на барањето за ази</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">69</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T202201Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220821T202501Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220821T202501Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-5275555237352722412, 5436401700852817484</prop>
+      <prop type="x-ContextContent">Whatever the criteria and provisions of Regulation (EC) No 343/2003 that are relied on, the requested Member State shall, within the time allowed by Article 18(1) and (6) of that Regulation, check exhaustively and objectively, on the basis of all information directly or indirectly available to it, whether its responsibility for examining the application for asylum is established. |  | Без оглед на критериумите и одредбите од Регулативата (ЕЗ) бр. 343/2003 на коишто се потпира, земјата членка до којашто се поднесува барањето, во рокот дозволен со член 18(1) и (6) од таа Регулатива, исцрпно и објективно проверува, врз основа на сите информации со кои директно или индиректно располага, дали е утврдена нејзината одговорност за испитување на барањето за азил. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>If the checks by the requested Member State reveal that it is responsible under at least one of the criteria of that Regulation, it shall acknowledge its responsibility.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>л. Доколку проверките на земјата членка до којашто се поднесува барањето покажат дека таа е одговорна според барем еден од критериумите на таа рРегулатива, таа ќе ја признае својата одговорност.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">70</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220727T192235Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T211642Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T211642Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-3033389666766258163, -5842097236145183093</prop>
+      <prop type="x-ContextContent">Where the Member State accepts responsibility, the reply shall say so, specifying the provision of Regulation (EC) No 343/2003 that is taken as a basis, and shall include practical details regarding the subsequent transfer, such as contact particulars of the department or person to be contacted. |  | Во случај кога земјата членка прифаќа одговорност, истото се наведува во  одговорот, наведувајќи ја одредбата од Регулативата (ЕЗ) бр. 343/2003 што служи како основа, и вклучува практични детали во врска со последователниот трансфер, како што се податоци за контакт на одделот или контакт лице. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>CHAPTER III</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ПОГЛАВЈЕ III</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">84</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T211645Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T211648Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T211648Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">104342902410131115, 4071248149064552874</prop>
+      <prop type="x-ContextContent">CHAPTER III |  | ПОГЛАВЈЕ III | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>TRANSFERS</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ТРАНСФЕРИ</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">85</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T211714Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T212011Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T212011Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Transfers to the Member State responsible may be carried out in one of the following ways:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>фери 1.Трансферите до одговорната земја членка може да се направат на еден од следниве начини:</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">87</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T212025Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T212036Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T212036Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-8634844989090636361, 8892251912091050392</prop>
+      <prop type="x-ContextContent">Transfers to the Member State responsible may be carried out in one of the following ways: |  | Трансферите до одговорната земја членка може да се направат на еден од следниве начини: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	at the request of the asylum seeker, by a certain specified date;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)на барање на барателот на азил, до одреден наведен датум;</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">88</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T212109Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220824T102753Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T102753Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">232923431104333773, -2244749183799458513</prop>
+      <prop type="x-ContextContent">(a)	at the request of the asylum seeker, by a certain specified date; |  | (а)	на барање на барателот на азил, до одреден наведен датум; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	by supervised departure, with the asylum seeker being accompanied to the point of embarkation by an official of the requesting Member State, the responsible Member State being notified of the place, date and time of the asylum seeker's arrival within an agreed time limit;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)со надгледувано заминување под надзор, при што барателот на азил е придружуван до местото на заминување од службеник на земјата членка којашто го поднесува барањето, а одговорната земја членка е известена за местото, датумот и времето на пристигнувањето на барателот на азил во договорена временска р</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">89</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T212255Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220821T203508Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220821T203508Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">4641973159, 3540784709</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	under escort, the asylum seeker being accompanied by an official of the requesting Member State or by a representative of an agency empowered by the requesting Member State to act in that capacity and handed over to the authorities in the responsible Member State.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>амка; (в)под придружба, барателот на азил е придружуван од службеник на земјата членка којашто го поднесува барањето или од претставник на агенција овластена од земјата членка којашто го поднесува барањето да дејствува во тоа својство и да го предаде барателот на азил на властите во одговорната земја членка.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">90</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T213036Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220821T141126Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220821T141126Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-6968676333875983206, 8983429343612055468</prop>
+      <prop type="x-ContextContent">In the cases referred to in paragraph 1(a) and (b), the applicant shall be supplied with the laissez-passer referred to in Article 19(3) and Article 20(1)(e) of Regulation (EC) No 343/2003, a model of which is set out in Annex IV to the present Regulation, to allow him to enter the Member State responsible and to identify himself on his arrival at the place and time indicated to him at the time of notification of the decision on taking charge or taking back by the Member State responsible. |  | Во случаите наведени во став 1(а) и (б), подносителот на барањето треба да поседува пропусница наведена во член 19(3) и член 20(1)(д) од Регулативата (ЕЗ) бр. 343/2003, чијшто модел е наведен во Анекс IV кон оваа Регулатива, за да му се овозможи влез во одговорната земја членка и да се идентификува при неговото пристигнување на местото и во времето посочени во моментот на известувањето за одлуката за преземање одговорност или примање назад од страна на одговорната земја членка. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In the case referred to in paragraph 1(c), a laissez-passer shall be issued if the asylum seeker is not in possession of identity documents.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>енка. Во случајот наведен во став 1(в), се издава пропусница доколку барателот на азил не поседува документи за идентификаци</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">92</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T213121Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T213238Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T213238Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">8003291980, 6045943641</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The time and place of transfer shall be agreed in advance by the Member States concerned in accordance with the procedure set out in Article 8.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ја. Времето и местото на трансферот се однапред договорени од страна на засегнатите земји членки во согласност со постапката утврдена во член 8.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">93</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T213250Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T213432Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T213432Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Member State making the transfer shall ensure that all the asylum seeker's documents are returned to him before his departure, given into the safe keeping of members of the escort to be handed to the competent authorities of the Member State responsible, or sent by other appropriate means.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.Земјата членка што го врши трансферот осигурува сите документи на барателот на азил да му бидат вратени пред неговото заминување, дадени во безбедно чување на членовите на придружбата за да им ги предадат истите на надлежните органи во одговорната земја членка или истите се испраќаат преку други соодветни средства.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">94</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T213457Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T213622Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T213622Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>It is the obligation of the Member State responsible to allow the asylum seeker's transfer to take place as quickly as possible and to ensure that no obstacles are put in his way.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.Одговорната земја членка е обврзана да дозволи трансферот на барателот на азил да се изврши што е можно побрзо и да се погрижи да нема никакви пречки</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">96</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T213624Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T213757Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T213757Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-5097143951699386484, -6176477799592165504</prop>
+      <prop type="x-ContextContent">It is the obligation of the Member State responsible to allow the asylum seeker's transfer to take place as quickly as possible and to ensure that no obstacles are put in his way. |  | Одговорната земја членка е обврзана да дозволи трансферот на барателот на азил да се изврши што е можно побрзо и да се погрижи да нема никакви пречки. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>That Member State shall determine, where appropriate, the location on its territory to which the asylum seeker will be transferred or handed over to the competent authorities, taking account of geographical constraints and modes of transport available to the Member State making the transfer.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. Истата земја членка ја одредува, онаму каде што е соодветно, локацијата на нејзината територија каде барателот на азил ќе биде префрлен или предаден на надлежните органи, имајќи ги предвид географските ограничувања и начините на транспорт коишто ги има на располагање на земјата членка што го врши трансферот.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">97</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T213758Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T213950Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T213950Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-7601812472903728621, 2106504023021997209</prop>
+      <prop type="x-ContextContent">That Member State shall determine, where appropriate, the location on its territory to which the asylum seeker will be transferred or handed over to the competent authorities, taking account of geographical constraints and modes of transport available to the Member State making the transfer. |  | Истата земја членка ја одредува, онаму каде што е соодветно, локацијата на нејзината територија каде барателот на азил ќе биде префрлен или предаден на надлежните органи, имајќи ги предвид географските ограничувања и начините на транспорт коишто ги има на располагање на земјата членка што го врши трансферот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In no case may a requirement be imposed that the escort accompany the asylum seeker beyond the point of arrival of the international means of transport used or that the Member State making the transfer meet the costs of transport beyond that point.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во никој случај не може да се наметне барање придружбата да го придружува барателот на азил надвор од местото на пристигнување на меѓународните транспортни средства што се користат или земјата членка што го врши трансферот да ги подмирува трошоците за транспорт надвор од тоа место.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">98</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T214006Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T214108Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T214108Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Member State organising the transfer shall arrange the transport for the asylum seeker and his escort and decide, in consultation with the Member State responsible, on the time of arrival and, where necessary, on the details of the handover to the competent authorities.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Земјата членка којашто го организира трансферот го организира транспортот на барателот на азил и неговата придружба и одлучува, во консултација со одговорната земја членка, за времето на пристигнување и, каде што е потребно, за деталите за предавањето на барателот на азил на надлежните органи. Одговорната земја чл</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">99</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T214144Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T225834Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T225834Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-7590725510732383376, -5141239201319539517</prop>
+      <prop type="x-ContextContent">The standard form set out in Annex VI shall be used for the purpose of transmitting to the responsible Member State the data essential to safeguard the rights and immediate needs of the person to be transferred. |  | Стандардниот образец утврден во Анекс VI се користи за цели на пренесување на податоците коишто се потребни за заштита на правата и непосредните потреби на лицата коишто се предмет на трансфер до одговорната земја членка. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This standard form shall be considered a notice in the meaning of paragraph 2.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. Овој стандарден образец се смета за известување во смисла на став 2.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">102</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T214331Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220824T103148Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T103148Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Member State responsible shall be informed without delay of any postponement due either to an appeal or review procedure with suspensive effect, or physical reasons such as ill health of the asylum seeker, non-availability of transport or the fact that the asylum seeker has withdrawn from the transfer procedure.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.Одговорната земја членка веднаш се известува за какво било одложување поради жалбена постапка или постапка за повторно разгледување со одложено суспензивно дејство, или поради физички причини како што е лошото здравје на барателот на азил, недостапноста на транспорт или фактот дека барателот на азил се повлекол од постапката</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">104</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210215T200650Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220824T103243Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T103243Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032205, 2032422</prop>
+      <prop type="x-ContextContent">2a. |  | 2а. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where a transfer has been delayed at the request of the transferring Member State, the transferring and the responsible Member States must resume communication in order to allow for a new transfer to be organised as soon as possible, in accordance with Article 8, and no later than two weeks from the moment the authorities become aware of the cessation of the circumstances that caused the delay or postponement.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за трансфер. ▼М2 1а.Доколку трансферот се одложи на барање на земјата членка којашто го врши трансферот, земјата членка којашто го врши трансферот и одговорната земја членка мора повторно да воспостават комуникација со цел да се овозможи организирање на нов трансфер што е можно поскоро, во согласност со член 8, но најдоцна во рок од две недели откако властите се известени за престанокот на околностите коишто го предизвикале доцнењето или одложувањ</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">105</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T214601Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T225842Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T225842Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">684643774, 3956673424</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In such a case, an updated standard form for the transfer of the data before a transfer is carried out as set out in Annex VI shall be sent prior to the transfer.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ето. Во таков случај, пред трансферот се испраќа ажуриран стандарден образец за пренос на податоци пред трансферот, како што е утврдено во Анекс VI.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">106</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210215T201354Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220824T102039Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T102039Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>A Member State which, for one of the reasons set out in Article 29(2) of Regulation (EU) No 604/2013, cannot carry out the transfer within the normal time limit of six months from the date of acceptance of the request to take charge or take back the person concerned or of the final decision on an appeal or review where there is a suspensive effect, shall inform the Member State responsible before the end of that time limit.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Земјата членка којашто поради една од причините утврдени во член 29(2) од Регулативата (ЕУ) бр. 604/2013 не може да го изврши трансферот во вообичаениот рок од шест месеци од датумот на прифаќање на барањето за преземање одговорност или примање назадповторен прием на засегнатото лице или од конечната одлука за по жалба или преглед со одложено суспензивно дејство, ја известува одговорната земја членка пред истекот на тој</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">107</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T214708Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220821T203528Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220821T203528Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">3893456061, 4503595816</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Otherwise, the responsibility for processing the application for international protection and the other obligations under Regulation (EU) No 604/2013 falls to the requesting Member State, in accordance with Article 29(2) of that Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>временски рок. Во спротивно, одговорноста за обработка на барањето за меѓународна заштита и другите обврски од Регулативата (ЕУ) бр. 604/2013 ги сноси земјата членка којашто го поднесува барањето, во согласност со член 29(2) од таа рРегул</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">108</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T215240Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T215424Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T215424Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>When, for one of the reasons set out in Article 19(4) and Article 20(2) of Regulation (EC) No 343/2003, a Member State undertakes to carry out the transfer after the normal time limit of six months, it shall make the necessary arrangements in advance with the Member State responsible.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>атива. ▼Б 3.Во случај кога, поради една од причините наведени во член 19(4) и член 20(2) од Регулативата (ЕЗ) бр. 343/2003, земја членка се обврзува да го изврши трансферот по истекување на вообичаениот временски рок од шест месеци, треба да ги направи потребните аранжмани со одговорната земја членка.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">109</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T223155Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220824T103416Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T103416Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where, pursuant to Article 18(7) or Article 20(1)(c) of Regulation (EC) No 343/2003 as appropriate, the requested Member State is deemed to have accepted a request to take charge or to take back, the requesting Member State shall initiate the consultations needed to organise the transfer.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>о прифаќање 1.Во случај кога, во согласност со член 18(7) или член 20(1)(в) од Регулативата (ЕЗ) бр. 343/2003, како што е соодветново зависност од случајот, се смета дека земјата членка до којашто се поднесува барањето прифатила барање за преземање одговорност или за примање назадповторен прием, земјата членка којашто го поднесува барањето ќе отпочне консултации потребни за организирање на трансферот.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">112</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T223342Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220821T203624Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220821T203624Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>If asked to do so by the requesting Member State, the Member State responsible must confirm in writing, without delay, that it acknowledges its responsibility as a result of its failure to reply within the time limit.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Одговорната земја членка мора писмено да потврди, без одложување, дека ја признава својата одговорност поради тоа што не одговорила во временскиот рок, ако тоа од неа го побара земјата членка којашто го поднесува барањето. О</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">113</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T223553Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220824T125823Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T125823Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">1712338617622128817, 6318397415428476133</prop>
+      <prop type="x-ContextContent">If asked to do so by the requesting Member State, the Member State responsible must confirm in writing, without delay, that it acknowledges its responsibility as a result of its failure to reply within the time limit. |  | Одговорната земја членка мора писмено да потврди, без одложување, дека ја признава својата одговорност поради тоа што не одговорила во временскиот рок, ако тоа од неа го побара земјата членка којашто го поднесува барањето. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Member State responsible shall take the necessary steps to determine the asylum seeker's place of arrival as quickly as possible and, where applicable, agree with the requesting Member State the time of arrival and the practical details of the handover to the competent authorities.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>дговорната земја членка ги презема неопходните чекори за што е можно побрзо да го одреди местото на пристигнување на барателот на азил и, онаму каде што е применливо, сего договара со земјата членка којашто го поднесува барањето за времето на пристигнување и практичните детали за предавањето на барателот на азил на надлежните органи.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">114</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220727T192843Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T223744Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T223744Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">6629108046, 3333080366</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>CHAPTER IV</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ПОГЛАВЈЕ IV</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">115</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T223747Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T223753Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T223753Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">3365900077746583, 131330585453695672</prop>
+      <prop type="x-ContextContent">CHAPTER IV |  | ПОГЛАВЈЕ IV | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>HUMANITARIAN CLAUSE</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ХУМАНИТАРНА КЛАУЗУЛА</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">116</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T224735Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T224736Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T224736Z" usagecount="2">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">298314211107005798, -3164015113243712119</prop>
+      <prop type="x-ContextContent">Information for third-country nationals or stateless persons found illegally staying in a Member State, are set out in Annex XIII. |  | Информации за државјани на трети земји или лица без државјанство коишто нелегално престојуваат во земја членка се наведени во Анекс XIII. | </prop>
+      <prop type="x-Context">3450321070, 6575000723</prop>
+      <prop type="x-Context">4855666085722294545, -2432364912128450343</prop>
+      <prop type="x-ContextContent">This obligation is without prejudice to Article 34(5) of Regulation (EU) No 604/2013. |  | Оваа обврска не е во спротивност со член 34(5) од Регулативата (ЕУ) бр. 604/2013. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>▼M1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>▼М1</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">118</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T224752Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T234332Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T234332Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The situations of dependency referred to in Article 15(2) of Regulation (EC) No 343/2003 shall be assessed, as far as possible, on the basis of objective criteria such as medical certificates.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>▼Б 2.Состојбите на издржување наведени во член 15(2) од Регулативата (ЕЗ) бр. 343/2003 се проценуваат, колку што е можно, врз основа на објективни критериуми како што се медицинските потврд</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">119</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T224843Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T224910Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T224910Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">6921457422, 4952237880</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where such evidence is not available or cannot be supplied, humanitarian grounds shall be taken as proven only on the basis of convincing information supplied by the persons concerned.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и. Во случај кога таквите докази не се достапни или не можат да се достават, хуманитарните основи се сметаат за докажани само врз основа на убедливи информации доставени од засегнатите лица.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">120</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T224927Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T224949Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T224949Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The following points shall be taken into account in assessing the necessity and appropriateness of bringing together the persons concerned:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.Следниве точки се земаат предвид при оценувањето на неопходноста и соодветноста од здружување на засегнатите лица</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">121</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T225003Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T225021Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T225021Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-719955196186594373, -8580466467140726368</prop>
+      <prop type="x-ContextContent">The following points shall be taken into account in assessing the necessity and appropriateness of bringing together the persons concerned: |  | Следниве точки се земаат предвид при оценувањето на неопходноста и соодветноста од здружување на засегнатите лица: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the family situation which existed in the country of origin;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>: (а)семејната ситуација која постоела во земјата на потекло;</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">122</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T225026Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T225045Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T225045Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">8170071193751164769, -7130803955228048444</prop>
+      <prop type="x-ContextContent">(a)	the family situation which existed in the country of origin; |  | (а)	семејната ситуација која постоела во земјата на потекло; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the circumstances in which the persons concerned were separated;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)околностите во кои засегнатите лица биле разделени;</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">123</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T225049Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220824T103615Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T103615Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">5808888822184885852, -8867825366189982599</prop>
+      <prop type="x-ContextContent">(b)	the circumstances in which the persons concerned were separated; |  | (б)	околностите во кои засегнатите лица биле разделени; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	the status of the various asylum procedures or procedures under the legislation on aliens under way in the Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)статусот на различните постапки за азил или постапки според законодавството за странци коишто се во тек во земјите членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">124</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T225201Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T225235Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T225235Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The application of Article 15(2) of Regulation (EC) No 343/2003 shall, in any event, be subject to the assurance that the asylum seeker or relative will actually provide the assistance needed.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>4.Примената на член 15(2) од Регулативата (ЕЗ) бр. 343/2003, во секој случај, подлежи на гаранција дека барателот на азил или роднината навистина ќе ја обезбеди потребната помош.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">125</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T225246Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T225352Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T225352Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Member State in which the relatives will be reunited and the date of the transfer shall be agreed by the Member States concerned, taking account of:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>5.Земјата членка во која роднините повторно ќе бидат заедно и датумот на трансферот се договараат помеѓу засегнатите земји членки, притоа имајќи ја предвид</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">126</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T225359Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220824T103656Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220824T103656Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-7383843219920421646, -1890740099025822862</prop>
+      <prop type="x-ContextContent">The Member State in which the relatives will be reunited and the date of the transfer shall be agreed by the Member States concerned, taking account of: |  | Земјата членка во која роднините повторно ќе бидат заедно и датумот на трансферот се договараат помеѓу засегнатите земји членки, притоа имајќи ја предвид: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the ability of the dependent person to travel;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>: (а)способноста на издржуваното лице да патува;</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">127</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220820T225425Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220820T225526Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220820T225526Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">4116478805, 1541751950</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the situation of the persons concerned as regards residence, preference being given to the bringing the asylum seeker together with his relative where the latter already has a valid residence permit and resources in the Member State in which he resides.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)ситуацијата на засегнатите лица во однос на престојот, при што предност се дава на тоа да се доведе барателот на азил заедно сокај роднината кога ако тој веќе има важечка дозвола за престој и ресурси во земјата членка во која престојува.</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">128</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220821T140826Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220821T141224Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220821T141224Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">2912495683, 4229574462</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Reference No (*):</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Референтен број</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">406</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220821T202152Z" creationid="LENOVOIDEAPADG3\bibga" changedate="20220821T202153Z" changeid="LENOVOIDEAPADG3\bibga" lastusagedate="20220821T202153Z">
+      <prop type="x-LastUsedBy">LENOVOIDEAPADG3\bibga</prop>
+      <prop type="x-Context">-7953171746264510357, 356463105907008837</prop>
+      <prop type="x-ContextContent">□ Yes, which: |  | □ Да, каква: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>□</seg>
+      </tuv>
+      <prop type="x-CELEX">02003R1560</prop>
+      <prop type="x-SourceTUIndex">615</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

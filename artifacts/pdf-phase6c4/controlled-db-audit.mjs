@@ -1,0 +1,12 @@
+import { createRequire } from "node:module";
+import { readFile } from "node:fs/promises";
+const { Client } = createRequire(import.meta.url)(process.env.PG_CLIENT_DIR + "/node_modules/pg");
+const u = new URL((await readFile("supabase/.temp/pooler-url", "utf8")).trim());
+const db = new Client({ host:u.hostname, port:Number(u.port), database:u.pathname.slice(1), user:decodeURIComponent(u.username), password:process.env.SUPABASE_DB_PASSWORD, ssl:{rejectUnauthorized:false} });
+await db.connect();
+const generation = (await db.query("select id,project_id,document_id,document_version_id,generation_kind,generation_number,status,idempotency_key,validation_status,source_coverage_status,ordered_token_status,normalized_token_count,physical_table_count,row_count,cell_count from public.processing_generations where id='0a7ca092-d639-4322-bbff-66dd5cf6725b'")).rows;
+const artifacts = (await db.query("select id,artifact_type,status,processing_generation_id,project_id,document_id,document_version_id,storage_bucket,storage_path,sha256,byte_size,mime_type from public.document_artifacts where id in ('5c09e46f-aa23-40d1-91e3-b9044a305272','b0e8fec5-91c8-4755-87a4-ff8f6dd8d307')")).rows;
+const lineage = (await db.query("select parent_artifact_id,child_artifact_id,relationship_type,input_role,input_ordinal from public.artifact_relationships where child_artifact_id in ('5c09e46f-aa23-40d1-91e3-b9044a305272','b0e8fec5-91c8-4755-87a4-ff8f6dd8d307') or parent_artifact_id='5c09e46f-aa23-40d1-91e3-b9044a305272'")).rows;
+const counts = (await db.query("select (select count(*) from public.processing_generations where project_id='ac1e24ca-b699-4863-ba99-f310fa220a8a' and generation_kind='validated_docx_render' and idempotency_key=(select idempotency_key from public.processing_generations where id='0a7ca092-d639-4322-bbff-66dd5cf6725b'))::int generation_count,(select count(*) from public.document_artifacts where processing_generation_id='0a7ca092-d639-4322-bbff-66dd5cf6725b' and artifact_type='VALIDATED_DOCX')::int artifact_count,(select count(*) from public.artifact_relationships where child_artifact_id='b0e8fec5-91c8-4755-87a4-ff8f6dd8d307')::int lineage_count")).rows;
+console.log(JSON.stringify({generation,artifacts,lineage,counts},null,2));
+await db.end();

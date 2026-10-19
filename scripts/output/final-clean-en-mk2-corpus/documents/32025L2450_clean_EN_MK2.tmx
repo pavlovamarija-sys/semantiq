@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20260210T131110Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32025L2450_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32025L2450</prop>
+    <prop type="x-SourceTMX">32025L2450_ТМ.tmx</prop>
+    <prop type="x-SourceTMXSHA256">3beaabed7411854865ebb84e30e0385a7f683f07a4161ece661a48b865507a66</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">9</prop>
+  </header>
+  <body>
+    <tu creationdate="20220118T090053Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260210T131137Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260211T224753Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>DIRECTIVE (EU) 2025/2450 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВА (ЕУ) 2025/2450 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32025L2450</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221114T132545Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260210T131709Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260210T131709Z" usagecount="1">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">5831204038588664718, 5921746684029336589</prop>
+      <prop type="x-ContextContent"> OJ C, C/2024/4664, 9.8.2024, ELI: http://data.europa.eu/eli/C/2024/4664/oj. | AgMAAwEBAQI1NwAAAQIAAQI2MAFMAgIBAjYwAQ== | 	Сл. весник C, C/2024/4664, 9.8.2024 година, ELI: http://data.europa.eu/eli/C/2024/4664/oj. | AgEAAwEBAQI1NwA=</prop>
+      <prop type="x-Context">3752412090, 7751806851</prop>
+      <prop type="x-Context">4328745313, 7525975568</prop>
+      <prop type="x-Context">4428952335, 7159189816</prop>
+      <prop type="x-Context">5853505995, 3782406321</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>After consulting the Committee of the Regions,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>по консултации со Комитетот на регионите,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025L2450</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T171912Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260210T131729Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260211T224753Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7687143136116642891, -1249560142765415297</prop>
+      <prop type="x-ContextContent">After consulting the Committee of the Regions, |  | по консултации со Комитетот на регионите, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Acting in accordance with the ordinary legislative procedure (<ph x="1" type="398" />),</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>постапувајќи во согласност со вообичаената законодавна постапка (),</seg>
+      </tuv>
+      <prop type="x-CELEX">32025L2450</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260211T215702Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260211T215741Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260211T224755Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>When an adaptation procedure under this Article does not lead to an agreement within two years from the date of the request of employees or their representatives or from the date of initiation of the negotiations by the European Works Council or by central management on its own initiative, the subsidiary requirements set out in Annex I shall apply.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.Доколку, по постапката за прилагодувањеприспособување во согласност со овој член, не се постигне договор во рок од две години од датумот на барањето од страна на вработените или од нивните претставници или од датумот на кој Европскиот работнички совет или централното раководствоцентралната управа започнале преговори по сопствена иницијатива, се применуваат дополнителнитесупсидијарните барања утврд</seg>
+      </tuv>
+      <prop type="x-CELEX">32025L2450</prop>
+      <prop type="x-SourceTUIndex">253</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260211T215749Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260211T215805Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260211T224755Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Article shall not have the effect of exempting the parties to European Works Council agreements from respecting the applicable minimum requirements in this Directive.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ени во Анекс I. 4.Овој член не ги ослободува страните во договорите на Европскиот работнички совет од почитување на применливите минимални барања од оваа директива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025L2450</prop>
+      <prop type="x-SourceTUIndex">254</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220121T103119Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260211T215810Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260211T224755Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1702037086543140270, 629859524029932091</prop>
+      <prop type="x-ContextContent">This Article shall not have the effect of exempting the parties to European Works Council agreements from respecting the applicable minimum requirements in this Directive. |  | Овој член не ги ослободува страните во договорите на Европскиот работнички совет од почитување на применливите минимални барања од оваа директива. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 14b</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 14б</seg>
+      </tuv>
+      <prop type="x-CELEX">32025L2450</prop>
+      <prop type="x-SourceTUIndex">255</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260211T215820Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260211T215827Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260211T224755Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4065381465, 6832134809</prop>
+      <prop type="x-Context">3364486069729915, 142433667361</prop>
+      <prop type="x-ContextContent">Article 14b |  | Член 14б | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Formerly exempted undertakings</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претходно изземени претпријатијадруш</seg>
+      </tuv>
+      <prop type="x-CELEX">32025L2450</prop>
+      <prop type="x-SourceTUIndex">256</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260211T215905Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260211T215959Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260211T224755Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-205459252745010213, 1951511756419870030</prop>
+      <prop type="x-ContextContent">Formerly exempted undertakings |  | Претходно изземени претпријатија | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where negotiations pursuant to Article 5 of this Directive are initiated in order to conclude an agreement pursuant to this Directive in a Community-scale undertaking or Community-scale group of undertakings in which an agreement covering the entire workforce providing for the transnational information and consultation of employees was concluded prior to the date of application of Directive 94/45/EC and is still in force, the period referred to in Article 7(1), third indent, of this Directive shall be reduced to two years.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тва Кога се отвораат преговори во согласност со член 5 од оваа директива, со цел склучување договор во согласност со оваа директива во претпријатиедруштво на ниво на Заедница или група претпријатијагрупација на ниво на Заедница во која договорот, кој ја опфаќа целата работна сила и обезбедува транснационално информирање и советувањеинформирање и консултирање со на вработените, е склучен пред датумот на примена на Директивата 94/45/ЕЗ и сè уште е во сила, периодот наведен во третата алинеја од член 7(1) од оваа директива се намалува на дв</seg>
+      </tuv>
+      <prop type="x-CELEX">32025L2450</prop>
+      <prop type="x-SourceTUIndex">257</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260211T220018Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260211T220024Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260211T224755Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6015106130078904445, 4719237332083057333</prop>
+      <prop type="x-ContextContent">Where negotiations pursuant to Article 5 of this Directive are initiated in order to conclude an agreement pursuant to this Directive in a Community-scale undertaking or Community-scale group of undertakings in which an agreement covering the entire workforce providing for the transnational information and consultation of employees was concluded prior to the date of application of Directive 94/45/EC and is still in force, the period referred to in Article 7(1), third indent, of this Directive shall be reduced to two years. |  | Кога се отвораат преговори согласно член 5 од оваа директива со цел склучување договор согласно оваа директива во претпријатие на ниво на Заедница или група претпријатија на ниво на Заедница во која договорот, кој ја опфаќа целата работна сила и обезбедува транснационално информирање и советување со вработените, е склучен пред датумот на примена на Директивата 94/45/ЕЗ и сè уште е во сила, периодот наведен во третата алинеја од член 7(1) од оваа директива се намалува на две години. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The initiation of negotiations does not affect the terms of the existing agreements in force.’;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>е години. Започнувањето на преговорите нема да влијае на условите на постојните договори што се во сила.“;;</seg>
+      </tuv>
+      <prop type="x-CELEX">32025L2450</prop>
+      <prop type="x-SourceTUIndex">258</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

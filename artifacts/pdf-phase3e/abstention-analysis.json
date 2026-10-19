@@ -1,0 +1,378 @@
+{
+  "abstentionCount": 46,
+  "shouldMerge": 3,
+  "shouldKeepBoundary": 43,
+  "genuinelyUncertain": 0,
+  "expectedUnnecessaryCatFragmentation": 3,
+  "retainingBoundariesStructurallySafe": true,
+  "cases": [
+    {
+      "candidateId": "paragraphboundary-5bd487c968e14efe",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-3f29111acccd4565",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-ba6919db6f21541e",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-0e28db0929fff4a0",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-bf08d17c234142bf",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-72b9c79d0e51813f",
+      "referenceLabel": "MERGE",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should MERGE"
+    },
+    {
+      "candidateId": "paragraphboundary-12b790547598d62c",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-00392dedc54d2272",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-fe1f498b80790a76",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-48fa83ae63a2eaab",
+      "referenceLabel": "MERGE",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should MERGE"
+    },
+    {
+      "candidateId": "paragraphboundary-8dfa506a70df6404",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-0e52739c443b31f2",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-ff68fc46690f52df",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-3f164e289e0dcdbe",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-568354761569d897",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-26fb40260c73e426",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-7d97e2715a616850",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-ea2b34e7b01967d7",
+      "referenceLabel": "MERGE",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should MERGE"
+    },
+    {
+      "candidateId": "paragraphboundary-dac6c9541d01b863",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-2812c29b1d52e9cb",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-359ff061852c7b1d",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-4af42c73ddf110e8",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-a85338b4a125a63c",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-2501b8b5d972a3d5",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-c10552f4fa2b7e27",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-ae93c5c84ddd71cb",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-297092df0bc61309",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-953f6e170c1ac4f1",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-e217a6a103b5b6c1",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-5fa7f7fdc08b620d",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-553a8dd65a906fef",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-822b7591d1519a41",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-8fb7aa108f455098",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-0e201210cd3337de",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-be1131aa8843816a",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-8868276e9d415831",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-d407e17e8d2e2a60",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-44b32e8f86b61d26",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-840972aaf35ce482",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-94c3491398c977ef",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-8793ec3a316415f8",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-f6679a38cbcbc9cb",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-dc3ba8ba0cc9a553",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-10c9493f8c9a019f",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-87f74e46b5cd9815",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    },
+    {
+      "candidateId": "paragraphboundary-deb79f2914c4b5ab",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "deterministicDecision": "ABSTAIN",
+      "matchesExecutableDecision": false,
+      "isAbstention": true,
+      "classification": "should KEEP_BOUNDARY"
+    }
+  ]
+}

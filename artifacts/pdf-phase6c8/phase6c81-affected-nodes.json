@@ -1,0 +1,19 @@
+{
+  "celex": "32006L0114",
+  "source_pdf_sha256": "1b0fb08ec46c93b9df62675f2b898030511dfcf5df4832b15cde56681932008b",
+  "corrected_source_regions": [
+    {"node_id": "listitem-4000388ab09f133b", "source_page": 1, "before": "ListItem", "after": "FootnoteBody", "footnote_count": 4},
+    {"node_id": "footnote-3d51a1b5ae58b38d", "source_page": 2, "before": "Footnote", "after": "FootnoteBody", "footnote_count": 2},
+    {"node_id": "footnote-b579fbf534a42cda", "source_page": 3, "before": "Footnote", "after": "FootnoteBody", "footnote_count": 1}
+  ],
+  "anchors": [
+    {"marker": "1", "source_page": 1, "anchor_node_id": "paragraph-126be7601c51a9ff", "source_offset": 75},
+    {"marker": "2", "source_page": 1, "anchor_node_id": "paragraph-311d13ebc8d1187b", "source_offset": 79},
+    {"marker": "3", "source_page": 1, "anchor_node_id": "paragraph-8cf24a4b5f8fc914", "source_offset": 102},
+    {"marker": "4", "source_page": 1, "anchor_node_id": "paragraph-8cf24a4b5f8fc914", "source_offset": 151},
+    {"marker": "1", "source_page": 2, "anchor_node_id": "paragraph-06b1ce9da223e892", "source_offset": 264},
+    {"marker": "2", "source_page": 2, "anchor_node_id": "paragraph-9ba90442b08ad8bc", "source_offset": 139},
+    {"marker": "1", "source_page": 3, "anchor_node_id": "listitem-223454872c468b1c", "source_offset": 323}
+  ],
+  "unresolved_mappings": []
+}

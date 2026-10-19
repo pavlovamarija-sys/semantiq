@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20211015T121818Z" creationid="sasPC\Sash">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32020L0876_MK1_TM_Sashenka G Ljuben</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32020L0876</prop>
+    <prop type="x-SourceTMX">32020L0876_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">21a58c778819719a91248093d3d002d80e9d0dd3d6ab4e3777fa879d669561eb</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">1</prop>
+  </header>
+  <body>
+    <tu creationdate="20211015T121939Z" creationid="sasPC\Sash" changedate="20211015T121939Z" changeid="sasPC\Sash" lastusagedate="20211015T121939Z">
+      <prop type="x-Context">9107552971782311425, -3181002010347516320</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 24 June 2020</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 24 јуни 2020 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32020L0876</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

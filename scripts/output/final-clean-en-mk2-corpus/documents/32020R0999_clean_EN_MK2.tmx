@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210901T210529Z" creationid="LAPTOP-8H8SSI8N\marij">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32020R0999_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">BreakOnTag</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32020R0999</prop>
+    <prop type="x-SourceTMX">32020R0999_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">9315fd0496a43c7f84794552d53969941f452ba1eafd8338c9b3bfb77f9af386</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">21</prop>
+  </header>
+  <body>
+    <tu creationdate="20210904T111053Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T130130Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">3798368, 3798368</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the name of the centre veterinarian or team veterinarian appointed by the operator in accordance with Article 4(1)(a) of Delegated Regulation (EU) 2020/686;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тралниот или тимскиот ветеринар назначен од операторот во согласност со член 4(1)(а) одна Делегираната рРегулатива (ЕУ) 2020/686;</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">55</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T211048Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T130130Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="2">
+      <prop type="x-Context">-5767804972878858473, -1925622636686503180</prop>
+      <prop type="x-Context">5353651982451612993, 5875534383079762996</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(iii)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(iii)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">56</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T111213Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T130212Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">117748943, 117748943</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>which of the following types of activities are to be carried out at the germinal product establishment:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>кои од следниве видови активности треба даќе се изведуваат во објектот нза зародишнитезачетни производ</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">57</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T130701Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T130239Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the collection, processing and storage of semen,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>: — собирањето, обработката и складирањето на спермасеме,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">59</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T130818Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T130247Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the collection, processing and storage of embryos,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— собирањето, обработката и складирањето на ембриони,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">60</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T130939Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T130401Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the collection, processing and storage of oocytes and the production, processing and storage of embryos,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— собирањето, обработката и складирањето на ооцити и производството, обработката и складирањето на ембриони,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">61</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T131018Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T130438Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the processing and storage of fresh, chilled or frozen semen, oocytes or embryos,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— обработката и складирањето на свежоа, оладенао или смрзнатао спермасеме, ооцити или ембриони,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">62</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T131111Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T130451Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the storage of fresh, chilled or frozen semen, oocytes or embryos;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— складирањето на свежоа, оладенао или смрзнатао спермасеме, ооцити или ембриони;,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">63</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T211118Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T130453Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">-6980718717880443968, 4637244678332344622</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(iv)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(iv)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">64</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T111737Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T130849Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>a structural description and a blueprint of the germinal product establishment,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— структурален опис и нацрт на објектот нза зародишнизачетниот производи,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">68</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T111934Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T130941Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the standard operating procedures for the collection, production, processing, storage and transport of germinal products, as appropriate for the type of germinal product establishment,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— стандардните оперативни постапки за собирањето, производството, обработката, складирањето и транспортот на зародишни зачетни производи, како што е соодветно за видот на објектите нза зародишни зачетни производи,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">69</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T112045Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T131102Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the procedures and instructions from the centre veterinarian or team veterinarian for the implementation of animal health and biosecurity requirements at the germinal product establishment,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— постапките и упатствата од централниот или тимскиот ветеринар за спроведување на барањата за здравјето на животните и барањата за биосигурност во објектот нза зародишни зачетни производи,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">70</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T112208Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T131121Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>a rodent and insect control plan,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— план за контрола на глодари и инсекти,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">71</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T112252Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T131306Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>information on the format of records kept in accordance with Article 8 of Delegated Regulation (EU) 2020/686,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— информација за форматот на записи што се чуваат во согласност со член 8 од Делегираната рРегулатива (ЕУ) 2020/686,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">72</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T112342Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T131312Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the procedures for the cleaning and disinfection of the facilities and equipment,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— постапките за чистење и дезинфекција на просториите и опремата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">73</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T112430Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T131415Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>a contingency plan in case of clinical signs of listed diseases or a positive test result for animal pathogens causing listed diseases,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— кризен план во случај на клинички знаци на наведени болести или позитивен резултат одна тест за животински патогени што ги предизвикуваат наведените болести,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">74</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T112814Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T131517Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>an undertaking to notify the competent authority prior to the implementation of any significant changes relating to the biosecurity requirements for the operation of the germinal product establishment;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>— обврска за известување на надлежниот орган пред спроведување на какви било значајни промени во однос на барањата за биосигурност за работата на објектот нза зародишни зачетни производи;</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">75</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T211159Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T131518Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184759Z" usagecount="2">
+      <prop type="x-Context">-6824715208440811917, -5673934491577419045</prop>
+      <prop type="x-Context">224097198046288388, 3026774975393103281</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">76</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T113005Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T131603Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">122543, 122543</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the type of germinal products to be collected, produced, processed or stored, specifying if they are semen, oocytes or embryos;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>: (i) видот на зародишнитезачетни производи што треба да се соберат, произведат, обработат или складираат, со назнака дали станува збор засе спермасеме, ооцити или ембриони;</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">78</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T113105Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T131744Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">3798368, 3798368</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the species of donor animals, specifying if they are bovine, porcine, ovine, caprine or equine animals;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ii) видовите животини донори, со назнака дали се видови говеда, свињи, овци, кози или копитари;</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">79</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T113244Z" creationid="LAPTOP-8H8SSI8N\marij" changedate="20210905T131846Z" changeid="LAPTOP-8H8SSI8N\marij" lastusagedate="20210905T184758Z" usagecount="1">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The application referred to in paragraph 1 shall be in writing, either on paper or in electronic form.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>мрзнати. 2.Барањето наведено во став 1 се поднесува писмено, или на хартија или во електронска форма.</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0999</prop>
+      <prop type="x-SourceTUIndex">81</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

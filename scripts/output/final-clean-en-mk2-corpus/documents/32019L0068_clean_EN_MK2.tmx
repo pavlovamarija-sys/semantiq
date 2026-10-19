@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="TW4Win 2.0 Format" datatype="rtf" segtype="sentence" adminlang="EN-GB" srclang="EN-GB" creationdate="20210829T144756Z" creationid="Petreski-PC\Petreski">
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32019L0068</prop>
+    <prop type="x-SourceTMX">32019L0068_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">4d38dcc28f29c278a7af0839f8d759a12171e5d2732cc425802e33af3cdbbe78</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">3</prop>
+  </header>
+  <body>
+    <tu creationdate="20210829T144848Z" creationid="Petreski-PC\Petreski" changedate="20210829T144900Z" changeid="Petreski-PC\Petreski" lastusagedate="20210903T144252Z">
+      <tuv xml:lang="EN-GB">
+        <seg>of 16 January 2019</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ТА од 16 јануари 2019 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L0068</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210829T145146Z" creationid="Petreski-PC\Petreski" changedate="20210829T150838Z" changeid="Petreski-PC\Petreski" lastusagedate="20210903T144252Z">
+      <tuv xml:lang="EN-GB">
+        <seg>
+          <bpt i="1" type="pt18" />Having regard to Council Directive 91/477/EEC of 18 June 1991 on control of the acquisition and possession of weapons <ept i="1" />
+          <bpt i="2" type="pt19" />(<ph x="1" type="ph20" />)<ept i="2" />
+          <bpt i="4" type="pt21" />, and in particular Article 4(2a) thereof,<ept i="4" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Директивата 91/477/ЕЕЗ на Советот од 18 јуни 1991 година за контрола на набавка набавување и поседување оружје (), а особено член 4(2) од истата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L0068</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20191009T224424Z" creationid="Petreski-PC\Petreski" changedate="20210829T150901Z" changeid="Petreski-PC\Petreski" lastusagedate="20210903T144252Z">
+      <tuv xml:lang="EN-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32019L0068</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

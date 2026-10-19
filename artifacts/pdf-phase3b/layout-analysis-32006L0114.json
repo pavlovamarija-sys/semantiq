@@ -1,0 +1,200 @@
+{
+  "celex": "32006L0114",
+  "status": "PASS",
+  "algorithm": "phase3b-spike-frozen",
+  "pages": [
+    {
+      "page": 1,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.37550354003906,
+          "y1": 795.4551391601562,
+          "leftFragments": 28,
+          "rightFragments": 13,
+          "gutter": [
+            284.59,
+            309.86
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 2,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.37550354003906,
+          "y1": 795.427001953125,
+          "leftFragments": 18,
+          "rightFragments": 19,
+          "gutter": [
+            285.7,
+            310.93
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 3,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.37550354003906,
+          "y1": 795.5084228515625,
+          "leftFragments": 20,
+          "rightFragments": 19,
+          "gutter": [
+            284.57,
+            309.86
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 4,
+      "layout": "mixed",
+      "regions": [
+        {
+          "kind": "full-width-top",
+          "y0": 50.37550354003906,
+          "y1": 60.18852996826172,
+          "fragments": 1
+        },
+        {
+          "kind": "two-column",
+          "y0": 50.37550354003906,
+          "y1": 795.5101928710938,
+          "leftFragments": 18,
+          "rightFragments": 14,
+          "gutter": [
+            285.69,
+            310.93
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 5,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.37550354003906,
+          "y1": 365.0120544433594,
+          "leftFragments": 7,
+          "rightFragments": 13,
+          "gutter": [
+            284.49,
+            309.86
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 6,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.37550354003906,
+          "y1": 400.3750305175781,
+          "fragments": 10
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": [
+        {
+          "index": 0,
+          "y0": 187.92,
+          "y1": 294.45,
+          "columns": 2,
+          "anchors": [
+            93.53,
+            364.36
+          ],
+          "fragments": 7,
+          "confidence": 0.82,
+          "evidence": [
+            "Repeated alternating vertical rhythm identifies multi-fragment records in one column.",
+            "At least one distant aligned fragment establishes a second column."
+          ]
+        },
+        {
+          "index": 1,
+          "y0": 420.75,
+          "y1": 475.73,
+          "columns": 3,
+          "anchors": [
+            93.53,
+            233.39,
+            368.45
+          ],
+          "fragments": 12,
+          "confidence": 0.97,
+          "evidence": [
+            "At least three repeated row baselines share stable column anchors.",
+            "Region boundaries follow contiguous aligned rows; one geometrically compatible header row may precede them."
+          ]
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.37550354003906,
+          "y1": 119.9034194946289,
+          "fragments": 6
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": [
+        {
+          "index": 0,
+          "y0": 146.31,
+          "y1": 768.5,
+          "columns": 2,
+          "anchors": [
+            92.47,
+            301.9
+          ],
+          "fragments": 82,
+          "confidence": 0.97,
+          "evidence": [
+            "At least three repeated row baselines share stable column anchors.",
+            "Region boundaries follow contiguous aligned rows; one geometrically compatible header row may precede them."
+          ]
+        }
+      ]
+    }
+  ],
+  "crossPageTables": [],
+  "summary": {
+    "two-column": 4,
+    "mixed": 1,
+    "single-column": 2
+  }
+}

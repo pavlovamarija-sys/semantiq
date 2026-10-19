@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20240822T194736Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">52021DC0323_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">52021DC0323</prop>
+    <prop type="x-SourceTMX">52021DC0323_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">1067c2bf7f0309e40fb165b2d38fc5ad84cc279b54e90cde08ab4e89fb5ae664</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">1</prop>
+  </header>
+  <body>
+    <tu creationdate="20240822T195311Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240824T205309Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240824T205748Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3016559781736242787, 7544009123691858993</prop>
+      <prop type="x-ContextContent">COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT, THE COUNCIL, THE EUROPEAN ECONOMIC AND SOCIAL COMMITTEE AND THE COMMITTEE OF THE REGIONS |  | КОМУНИКАЦИЈА ОД КОМИСИЈАТА ДО ЕВРОПСКИОТ ПАРЛАМЕНТ, СОВЕТОТ, ЕВРОПСКИОТ ЕКОНОМСКИ И СОЦИЈАЛЕН КОМИТЕТ И КОМИТЕТОТ НА РЕГИОНИТЕ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>EU strategic framework on health and safety at work 2021-2027 
+Occupational safety and health in a changing world of work</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Стратешка рамка на ЕУ за здравје и безбедност напри работа 2021-2027 година Професионална бБезбедност и здравје при работа во светот на работата кој се менува</seg>
+      </tuv>
+      <prop type="x-CELEX">52021DC0323</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,3883 @@
+{
+  "celex": "32022R1955",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32022R1955\\TMX_MK1\\32022R1955_tmx.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32022R1955\\MK2\\32022R1955_MK2.docx",
+  "tmx_sha256": "9ed29879bb4c6549fc4cbd872c5813e6407ef1cd62aa58fb388f0c2fe9982f4c",
+  "mk2_sha256": "6da80efc2a553e87428e87ff7d81cd47d1f0629a6da32d09a591b3489ea3cd40",
+  "original_tus": 162,
+  "accepted_tus": 47,
+  "skipped_tus": 115,
+  "acceptance_percent": 29.01,
+  "mk1_coverage": 44.62,
+  "mk2_coverage": 37.52,
+  "accepted_clean_en_chars": 2645,
+  "accepted_clean_mk2_chars": 2807,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL IMPLEMENTING REGULATION (EU) 2022/1955",
+      "mk1": "РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2022/1955 НА СОВЕТОТ",
+      "mk2": "РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2022/1955 НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        52
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 17 October 2022",
+      "mk1": "од 17 октомври 2022 година",
+      "mk2": "од 17 октомври 2022 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        53,
+        79
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "implementing Regulation (EU) No 359/2011 concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Iran",
+      "mk1": "за спроведување на Регулативата (ЕУ) бр. 359/2011 за рестриктивни мерки насочени против одредени лица, субјекти и тела во однос на состојбата во Иран",
+      "mk2": "за спроведување на Регулативата (ЕУ) бр. 359/2011 за рестриктивни мерки насочени против одредени лица, субјекти и тела во однос на состојбата во Иран",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        2,
+        3
+      ],
+      "mk2_char_span": [
+        80,
+        229
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          3
+        ],
+        "atom_window": [
+          2,
+          3
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 4,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТOT НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "СОВЕТOT НА ЕВРОПСКАТА УНИЈА,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        3,
+        4
+      ],
+      "mk2_char_span": [
+        230,
+        258
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          4,
+          4
+        ],
+        "atom_window": [
+          3,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирањето на Европската Унија,",
+      "mk2": "имајќи го предвид Договорот за функционирањето на Европската Унија,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        4,
+        5
+      ],
+      "mk2_char_span": [
+        259,
+        326
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          5
+        ],
+        "atom_window": [
+          4,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "Having regard to Council Regulation (EU) No 359/2011 of 12 April 2011 concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Iran (), and in particular Article 12(1) thereof,",
+      "mk1": "имајќи ја предвид Регулативата (ЕУ) бр. 359/2011 на Советот од 12 април 2011 година за рестриктивни мерки насочени кон одредени лица, субјекти и тела во однос на состојбата во Иран(), а особено член 12(1) од истата,",
+      "mk2": "имајќи ја предвид Регулативата (ЕУ) бр. 359/2011 на Советот од 12 април 2011 година, за рестриктивни мерки насочени кон одредени лица, субјекти и тела во однос на состојбата во Иран(), а особено член 12(1) од истата,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        327,
+        544
+      ],
+      "evidence": {
+        "token_count": 47,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          7
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "OJ L 100, 14.4.2011, p. 1.",
+      "mk1": "Сл. весник L 100, 14.4. 2011 година, стр. 1.",
+      "mk2": "Сл. весник L 100, 14.4. 2011 година, стр. 1.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        544,
+        588
+      ],
+      "evidence": {
+        "token_count": 47,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          7
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 8,
+      "en": "Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,",
+      "mk1": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "mk2": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        6,
+        7
+      ],
+      "mk2_char_span": [
+        589,
+        696
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          8
+        ],
+        "atom_window": [
+          6,
+          7
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 9,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "со оглед на тоа што:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        7,
+        8
+      ],
+      "mk2_char_span": [
+        697,
+        717
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          9,
+          9
+        ],
+        "atom_window": [
+          7,
+          8
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 10,
+      "en": "(1) On 12 April 2011, the Council adopted Regulation (EU) No 359/2011.",
+      "mk1": "(1) На 12 април 2011 година, Советот ја донесе Регулативата (ЕУ) бр. 359/2011.",
+      "mk2": "(1)На 12 април 2011 година, Советот ја донесе Регулативата (ЕУ) бр. 359/2011.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        718,
+        795
+      ],
+      "evidence": {
+        "token_count": 13,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          10
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 11,
+      "en": "(2) On 25 September 2022, the High Representative of the Union for Foreign Affairs and Security Policy issued a declaration on behalf of the Union deploring the widespread and disproportionate use of force by the Iranian security forces against nonviolent protestors, which led to high numbers of deaths and injuries.",
+      "mk1": "(2) На 25 септември 2022 година, Високиот претставник на Унијата за надворешни работи и безбедносна политика издаде декларација во име на Унијата во која изразува жалење за широко распространетата и непропорционална употреба на сила од страна на иранските безбедносни сили врз ,ненасилните демонстранти, што доведе до голем број смртни случаи и повреди.",
+      "mk2": "(2)На 25 септември 2022 година, Високиот претставник на Унијата за надворешни работи и безбедносна политика издаде декларација во име на Унијата во која изразува жалење за широко распространетата и непропорционална несразмерна употреба на сила од страна на иранските безбедносни сили врз ненасилните демонстранти, што доведе до голем број смртни случаи и повреди. Во декларацијата, исто така, се наведува дека мора да се очекува одговорност од оние што",
+      "score": 0.8751576292559899,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        796,
+        1248
+      ],
+      "evidence": {
+        "token_count": 183,
+        "references_preserved": true,
+        "neighbor_window": [
+          11,
+          13
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 12,
+      "en": "The declaration also stated that those responsible for the killing of Mahsa Amini must be held accountable and called on the Iranian authorities to ensure transparent and credible investigations to clarify the number of deaths and arrested, release all non-violent protestors and provide due process to all detainees.",
+      "mk1": "Во декларацијата, исто така, се наведува дека мора да се очекува одговорност од оние што се одговорни за убиството на Mahsa Amini и се повикуваат иранските власти да гарантираат транспарентни и кредибилни истраги со цел да се разјасни бројот на смртни случаи и апсења, да се ослободат сите ненасилни демонстранти и да се обезбеди соодветна постапка за сите приведени лица.",
+      "mk2": "се одговорни за убиството на Mahsa AminiМаша Амини и се повикуваат иранските власти да гарантираат транспарентни и кредибилни истраги со цел да се разјасни бројот на смртни случаи и апсења, да се ослободат сите ненасилни демонстранти и да се обезбеди соодветна постапка за сите приведени лица. Понатаму, во декларацијата се нагласува дека одлуката на Иран строго да го ограничи пристапот до интернет и да ги блокира платформите за инстант пораки, очигледно ја нарушува слобода",
+      "score": 0.669047619047619,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        1248,
+        1725
+      ],
+      "evidence": {
+        "token_count": 183,
+        "references_preserved": true,
+        "neighbor_window": [
+          11,
+          13
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 13,
+      "en": "Furthermore, the declaration stressed that Iran’s decision to severely restrict internet access and block instant messaging platforms blatantly violates freedom of expression.",
+      "mk1": "Понатаму, во декларацијата се нагласува дека одлуката на Иран строго да го ограничи пристапот до интернет и да ги блокира платформите за инстант пораки, очигледно ја нарушува слободата на изразување.",
+      "mk2": "та на изразување. Конечно, во декларацијата се наведува дека Унијата ќе ги разгледа сите опции што ѝ се на располагање за да се справи со убиството на Mahsa AminiМаша Амини и начинот на кој иранските безбедносни сили реагираа на демонстрациите што следеа.",
+      "score": 0.25892857142857145,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        1725,
+        1980
+      ],
+      "evidence": {
+        "token_count": 183,
+        "references_preserved": true,
+        "neighbor_window": [
+          11,
+          13
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 14,
+      "en": "Finally, the declaration stated that the Union will consider all the options at its disposal to address the killing of Mahsa Amini and the way Iranian security forces have responded to the ensuing demonstrations.",
+      "mk1": "Конечно, во декларацијата се наведува дека Унијата ќе ги разгледа сите опции што ѝ се на располагање за да се справи со убиството на Mahsa Amini и начинот на кој иранските безбедносни сили реагираа на демонстрациите што следеа.",
+      "mk2": "(3)Во овој контекст, и во согласност со заложбата на Унијата за решавање на сите прашања што се однесуваат на Иран, вклучително и состојбата со човековит",
+      "score": 0.25066666666666665,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        10,
+        13
+      ],
+      "mk2_char_span": [
+        1981,
+        2134
+      ],
+      "evidence": {
+        "token_count": 75,
+        "references_preserved": false,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          10,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 15,
+      "en": "(3) In this context, and in line with the Union’s commitment to address all issues of concern with Iran, including the human rights situation, eleven persons and four entities should be included in the list of natural and legal persons, entities and bodies subject to restrictive measures set out in Annex I to Regulation (EU) No 359/2011.",
+      "mk1": "(3) Во овој контекст, и во согласност со заложбата на Унијата за решавање на сите прашања што се однесуваат на Иран, вклучително и состојбата со човековите права, единаесет лица и четири субјекти треба да бидат вклучени во списокот на физички и правни лица, субјекти и тела кои подлежат на рестриктивни мерки утврдени во Анекс I кон Регулативата (ЕУ) бр. 359/2011.",
+      "mk2": "е права, единаесет лица и четири субјекти треба да бидат вклучени во списокот на физички и правни лица, субјекти и тела кои подлежат на рестриктивните мерки утврдени во Анекс I кон Регулативата (ЕУ) бр. 359/2011. (4)Затоа, Регулативата (ЕУ) бр.",
+      "score": 0.6950596252129472,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        10,
+        13
+      ],
+      "mk2_char_span": [
+        2134,
+        2379
+      ],
+      "evidence": {
+        "token_count": 75,
+        "references_preserved": false,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          10,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 16,
+      "en": "(4) Regulation (EU) No 359/2011 should therefore be amended accordingly, HAS ADOPTED THIS REGULATION:",
+      "mk1": "(4) Затоа, Регулативата (ЕУ) бр. 359/2011 треба соодветно да се измени, ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "mk2": "359/2011 треба соодветно да се измени, ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "score": 0.8235294117647058,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        10,
+        13
+      ],
+      "mk2_char_span": [
+        2379,
+        2444
+      ],
+      "evidence": {
+        "token_count": 75,
+        "references_preserved": false,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          10,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 17,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "Член 1",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        13,
+        14
+      ],
+      "mk2_char_span": [
+        2445,
+        2451
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          17
+        ],
+        "atom_window": [
+          13,
+          14
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 18,
+      "en": "Annex I to Regulation (EU) No 359/2011 is amended as set out in the Annex to this Regulation.",
+      "mk1": "Анекс I кон Регулативата (ЕУ) бр. 359/2011 се изменува како што е утврдено во Анексот кон оваа регулатива.",
+      "mk2": "Анекс I кон Регулативата (ЕУ) бр. 359/2011 се изменува како што е утврдено во Анексот кон оваа регулатива.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        14,
+        15
+      ],
+      "mk2_char_span": [
+        2452,
+        2558
+      ],
+      "evidence": {
+        "token_count": 18,
+        "references_preserved": true,
+        "neighbor_window": [
+          18,
+          18
+        ],
+        "atom_window": [
+          14,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 19,
+      "en": "This Regulation shall enter into force on the date of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "Член 2 Оваа регулатива влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Униј",
+      "score": 0.9629629629629629,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        15,
+        18
+      ],
+      "mk2_char_span": [
+        2559,
+        2670
+      ],
+      "evidence": {
+        "token_count": 30,
+        "references_preserved": true,
+        "neighbor_window": [
+          19,
+          20
+        ],
+        "atom_window": [
+          15,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 20,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "mk1": "Оваа регулатива е целосно обврзувачка и директно применлива во сите земји членки.",
+      "mk2": "а. Оваа регулатива е целосно обврзувачка и директно применлива во сите земји членки.",
+      "score": 0.9876543209876543,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        15,
+        18
+      ],
+      "mk2_char_span": [
+        2670,
+        2754
+      ],
+      "evidence": {
+        "token_count": 30,
+        "references_preserved": true,
+        "neighbor_window": [
+          19,
+          20
+        ],
+        "atom_window": [
+          15,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 21,
+      "en": "Done at Luxembourg, 17 October 2022.",
+      "mk1": "Луксембург, 17 октомври 2022 година.",
+      "mk2": "Луксембург, 17 октомври 2022 година.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        18,
+        19
+      ],
+      "mk2_char_span": [
+        2755,
+        2791
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          21,
+          21
+        ],
+        "atom_window": [
+          18,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 22,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "За Советот",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        19,
+        20
+      ],
+      "mk2_char_span": [
+        2792,
+        2802
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          22
+        ],
+        "atom_window": [
+          19,
+          20
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 23,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "Претседател",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        20,
+        21
+      ],
+      "mk2_char_span": [
+        2803,
+        2814
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          23,
+          23
+        ],
+        "atom_window": [
+          20,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 24,
+      "en": "J. BORRELL FONTELLES",
+      "mk1": "Ж. БОРЕЉ ФОНТЕЉЕС",
+      "mk2": "Ж. БОРЕЉ ФОНТЕЉЕС",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        21,
+        22
+      ],
+      "mk2_char_span": [
+        2815,
+        2832
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          24,
+          24
+        ],
+        "atom_window": [
+          21,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 25,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "mk2": "АНЕКС",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        22,
+        23
+      ],
+      "mk2_char_span": [
+        2833,
+        2838
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          25,
+          25
+        ],
+        "atom_window": [
+          22,
+          23
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 26,
+      "en": "The following persons and entities are added to the list of natural and legal persons, entities and bodies set out in Annex I to Regulation (EU) No 359/2011:",
+      "mk1": "Следните лица и субјекти се додаваат во списокот на физички и правни лица, субјекти и тела утврден во Анекс I кон Регулативата (ЕУ) бр. 359/2011:",
+      "mk2": "Следните лица и субјекти се додаваат во списокот на физички и правни лица, субјекти и тела утврден во Анекс I кон Регулативата (ЕУ) бр. 359/2011:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        23,
+        24
+      ],
+      "mk2_char_span": [
+        2839,
+        2984
+      ],
+      "evidence": {
+        "token_count": 25,
+        "references_preserved": true,
+        "neighbor_window": [
+          26,
+          26
+        ],
+        "atom_window": [
+          23,
+          24
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 27,
+      "en": "Persons",
+      "mk1": "Лица",
+      "mk2": "Лица",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        24,
+        25
+      ],
+      "mk2_char_span": [
+        2985,
+        2989
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          27,
+          27
+        ],
+        "atom_window": [
+          24,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 28,
+      "en": "Name",
+      "mk1": "Име",
+      "mk2": "Име",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        25,
+        26
+      ],
+      "mk2_char_span": [
+        2990,
+        2993
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          28,
+          28
+        ],
+        "atom_window": [
+          25,
+          26
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 29,
+      "en": "Identifying information",
+      "mk1": "Информации за идентификација",
+      "mk2": "Информации за идентификација",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        26,
+        27
+      ],
+      "mk2_char_span": [
+        2994,
+        3022
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          29,
+          29
+        ],
+        "atom_window": [
+          26,
+          27
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 30,
+      "en": "Reasons",
+      "mk1": "Причини за внесување на список",
+      "mk2": "Причини за внесување на список",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        27,
+        28
+      ],
+      "mk2_char_span": [
+        3023,
+        3053
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          30,
+          30
+        ],
+        "atom_window": [
+          27,
+          28
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 31,
+      "en": "Date of listing",
+      "mk1": "Датум на внесување на список",
+      "mk2": "Датум на внесување на список",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        28,
+        29
+      ],
+      "mk2_char_span": [
+        3054,
+        3082
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          31
+        ],
+        "atom_window": [
+          28,
+          29
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 32,
+      "en": "‘96.",
+      "mk1": "„96.",
+      "mk2": "„96.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        29,
+        30
+      ],
+      "mk2_char_span": [
+        3083,
+        3087
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          32,
+          32
+        ],
+        "atom_window": [
+          29,
+          30
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 33,
+      "en": "ROSTAMI CHESHMEH GACHI Mohammed (a.k.a. ROSTAMI Mohammad)",
+      "mk1": "ROSTAMI CHESHMEH GACHI Mohammed (a.k.a. ROSTAMI Mohammad)",
+      "mk2": "ROSTAMI CHESHMEH GACHI Mohammed (познат како ROSTAMI Mohammad)",
+      "score": 0.8771929824561403,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        30,
+        32
+      ],
+      "mk2_char_span": [
+        3088,
+        3150
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          33,
+          34
+        ],
+        "atom_window": [
+          30,
+          32
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 34,
+      "en": "محمد گچی چشمه رستمی",
+      "mk1": "محمد گچی چشمه رستمی",
+      "mk2": "محمد گچی چشمه رستمی",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        30,
+        32
+      ],
+      "mk2_char_span": [
+        3150,
+        3170
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          33,
+          34
+        ],
+        "atom_window": [
+          30,
+          32
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 35,
+      "en": "(a.k.a. رستمی محمد)",
+      "mk1": "(a.k.a. رستمی محمد)",
+      "mk2": "(познат како رستمی محم",
+      "score": 0.5945945945945946,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        32,
+        34
+      ],
+      "mk2_char_span": [
+        3171,
+        3193
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          35,
+          37
+        ],
+        "atom_window": [
+          32,
+          34
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 36,
+      "en": "POB:",
+      "mk1": "Место на раѓање:",
+      "mk2": "د) Место на раѓање",
+      "score": 0.9375,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        32,
+        34
+      ],
+      "mk2_char_span": [
+        3193,
+        3211
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          35,
+          37
+        ],
+        "atom_window": [
+          32,
+          34
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 37,
+      "en": "Kermanshah (Iran)",
+      "mk1": "Kermanshah (Иран)",
+      "mk2": ": Kermanshah (Иран)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        32,
+        34
+      ],
+      "mk2_char_span": [
+        3211,
+        3230
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          35,
+          37
+        ],
+        "atom_window": [
+          32,
+          34
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 38,
+      "en": "DOB:",
+      "mk1": "Датум на раѓање:",
+      "mk2": "Датум на раѓање:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        34,
+        35
+      ],
+      "mk2_char_span": [
+        3231,
+        3247
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          38,
+          39
+        ],
+        "atom_window": [
+          34,
+          35
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 39,
+      "en": "1976 or 1977",
+      "mk1": "1976 или 1977 година",
+      "mk2": "1976 или 1977 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        34,
+        35
+      ],
+      "mk2_char_span": [
+        3247,
+        3268
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          38,
+          39
+        ],
+        "atom_window": [
+          34,
+          35
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 40,
+      "en": "Nationality:",
+      "mk1": "Државјанство:",
+      "mk2": "Државјанство:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        35,
+        36
+      ],
+      "mk2_char_span": [
+        3269,
+        3283
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          40,
+          41
+        ],
+        "atom_window": [
+          35,
+          36
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 41,
+      "en": "Iranian",
+      "mk1": "на Иран",
+      "mk2": "на Иран",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        35,
+        36
+      ],
+      "mk2_char_span": [
+        3283,
+        3290
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          40,
+          41
+        ],
+        "atom_window": [
+          35,
+          36
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 42,
+      "en": "Gender: male",
+      "mk1": "Пол: машки",
+      "mk2": "Пол: машки",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        36,
+        37
+      ],
+      "mk2_char_span": [
+        3291,
+        3301
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          42,
+          42
+        ],
+        "atom_window": [
+          36,
+          37
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "National ID No:",
+      "mk1": "Број на национална лична карта:",
+      "mk2": "Број на национална лична карта:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        37,
+        38
+      ],
+      "mk2_char_span": [
+        3302,
+        3334
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          43,
+          44
+        ],
+        "atom_window": [
+          37,
+          38
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "111936 (Iran)",
+      "mk1": "111936 (Иран)",
+      "mk2": "111936 (Иран)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        37,
+        38
+      ],
+      "mk2_char_span": [
+        3334,
+        3347
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          43,
+          44
+        ],
+        "atom_window": [
+          37,
+          38
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "Identification No:",
+      "mk1": "Број на идентификација:",
+      "mk2": "Број за идентификација: 1382",
+      "score": 0.8571428571428571,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        38,
+        40
+      ],
+      "mk2_char_span": [
+        3348,
+        3376
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          45,
+          47
+        ],
+        "atom_window": [
+          38,
+          40
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 46,
+      "en": "Position:",
+      "mk1": "Функција:",
+      "mk2": "1 (Иран) Фу",
+      "score": 0.23529411764705882,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        38,
+        40
+      ],
+      "mk2_char_span": [
+        3376,
+        3387
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          45,
+          47
+        ],
+        "atom_window": [
+          38,
+          40
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 47,
+      "en": "Head of Iran’s Morality Police",
+      "mk1": "Началник на Иранската полиција за морал",
+      "mk2": "нкција: Началник на Иранската полиција за морал",
+      "score": 0.9176470588235294,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        38,
+        40
+      ],
+      "mk2_char_span": [
+        3387,
+        3434
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          45,
+          47
+        ],
+        "atom_window": [
+          38,
+          40
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 48,
+      "en": "Mohammad Rostami Cheshmeh Gachi is the head of Iran’s Morality Police.",
+      "mk1": "Mohammad Rostami Cheshmeh Gachi е началник на Иранската полиција за морал.",
+      "mk2": "Mohammad Rostami Cheshmeh Gachi е началник на Иранската полиција за морал.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        40,
+        41
+      ],
+      "mk2_char_span": [
+        3435,
+        3510
+      ],
+      "evidence": {
+        "token_count": 39,
+        "references_preserved": true,
+        "neighbor_window": [
+          48,
+          49
+        ],
+        "atom_window": [
+          40,
+          41
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 49,
+      "en": "He was head of the Kermanshah Public Security Police from early 2014 until early 2019 and held senior positions in the Iranian intelligence police.",
+      "mk1": "Тој бил началник на полицијата за јавна безбедност во Керманшах од почетокот на 2014 година до почетокот на 2019 година и имал високи позиции во Иранската разузнавачка полиција.",
+      "mk2": "Тој бил началник на полицијата за јавна безбедност во Керманшах од почетокот на 2014 година, до почетокот на 2019 година и имал високи позиции во Иранската разузнавачка полиција.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        40,
+        41
+      ],
+      "mk2_char_span": [
+        3510,
+        3688
+      ],
+      "evidence": {
+        "token_count": 39,
+        "references_preserved": true,
+        "neighbor_window": [
+          48,
+          49
+        ],
+        "atom_window": [
+          40,
+          41
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 50,
+      "en": "The Morality Police is part of Iran’s Law Enforcement Forces (LEF) and is a special police unit which enforces the strict dress rules for women, including compulsory wearing of a headscarf.",
+      "mk1": "Полицијата за морал е дел од иранските сили за спроведување на законот (LEF) и е специјална полициска единица која ги спроведува строгите правила за облекување на жените, вклучително и задолжителното носење шамија.",
+      "mk2": "Полицијата за морал е дел од Иранските сили за спроведување на законот (LEF) и е специјална полициска единица која ги спроведува строгите правила за облекување на жените, вклучително и задолжителното носење шамија.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        41,
+        42
+      ],
+      "mk2_char_span": [
+        3689,
+        3904
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": true,
+        "neighbor_window": [
+          50,
+          51
+        ],
+        "atom_window": [
+          41,
+          42
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 51,
+      "en": "The Morality Police has used unlawful force against women for not complying with Iranian hijab laws, sexual and gender-based violence, arbitrary arrests and detentions, excessive violence and torture.",
+      "mk1": "Полицијата за морал употреби незаконска сила против жените поради непочитување на иранските закони за хиџаб, сексуално и родово насилство, произволни апсења и притворања, прекумерно насилство и тортура.",
+      "mk2": "Полицијата за морал употреби незаконска сила против жените поради непочитување на иранските закони за хиџаб, сексуално и родово насилство, произволни апсења и притворања, прекумерно насилство и тортура.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        41,
+        42
+      ],
+      "mk2_char_span": [
+        3904,
+        4106
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": true,
+        "neighbor_window": [
+          50,
+          51
+        ],
+        "atom_window": [
+          41,
+          42
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 52,
+      "en": "On 13 September 2022, the Morality Police arbitrarily arrested 22-year old Mahsa Amini in Tehran, allegedly for wearing a hijab improperly.",
+      "mk1": "На 13 септември 2022 година, полицијата за морал своеволно ја уапси 22-годишната Mahsa Amini во Техеран, наводно за неправилно носење хиџаб.",
+      "mk2": "На 13 септември 2022 година, пПолицијата за морал своеволно ја уапси 22-годишната Mahsa AminiМаша Амини во Техеран, наводно за неправилно носење хиџаб. Таа потоа била одведена во се",
+      "score": 0.8698412698412699,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        42,
+        43
+      ],
+      "mk2_char_span": [
+        4107,
+        4288
+      ],
+      "evidence": {
+        "token_count": 77,
+        "references_preserved": true,
+        "neighbor_window": [
+          52,
+          54
+        ],
+        "atom_window": [
+          42,
+          43
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 53,
+      "en": "She was subsequently taken to the Morality Police’s headquarters for an “educational and orientation class”.",
+      "mk1": "Таа потоа била одведена во седиштето на Полицијата за морал на „образовен и ориентационен час“.",
+      "mk2": "диштето на Полицијата за морал заради „подучување и насочување.“.. Според сигурни извештаи и сведоци, таа била брутално пре",
+      "score": 0.4784688995215311,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        42,
+        43
+      ],
+      "mk2_char_span": [
+        4288,
+        4411
+      ],
+      "evidence": {
+        "token_count": 77,
+        "references_preserved": true,
+        "neighbor_window": [
+          52,
+          54
+        ],
+        "atom_window": [
+          42,
+          43
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 54,
+      "en": "According to reliable reports and witnesses, she was brutally beaten and mistreated in custody, which led to her hospitalisation and to her death on 16 September 2022.",
+      "mk1": "Според сигурни извештаи и сведоци, таа била брутално претепана и малтретирана во притвор, што довело до нејзина хоспитализација и смрт на 16 септември 2022 година.",
+      "mk2": "тепана и малтретирана во притвор, што довело до нејзина хоспитализација и смрт на 16 септември 2022 година. Насилното однесување на Полицијата за морал не е ограничено на тој инцидент и е нашироко документирано.",
+      "score": 0.5706521739130435,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        42,
+        43
+      ],
+      "mk2_char_span": [
+        4411,
+        4622
+      ],
+      "evidence": {
+        "token_count": 77,
+        "references_preserved": true,
+        "neighbor_window": [
+          52,
+          54
+        ],
+        "atom_window": [
+          42,
+          43
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 55,
+      "en": "The Morality Police’s abusive behaviour is not confined to that incident and has been widely documented.",
+      "mk1": "Насилното однесување на Полицијата за морал не е ограничено на тој инцидент и е нашироко документирано.",
+      "mk2": "Како началник на Иранската полиција за морал, Rostami е одговорен",
+      "score": 0.40963855421686746,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        43,
+        44
+      ],
+      "mk2_char_span": [
+        4623,
+        4688
+      ],
+      "evidence": {
+        "token_count": 28,
+        "references_preserved": true,
+        "neighbor_window": [
+          55,
+          57
+        ],
+        "atom_window": [
+          43,
+          44
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 56,
+      "en": "As head of Iran’s Morality Police, Rostami is responsible for the Morality Police’s actions.",
+      "mk1": "Како началник на Иранската полиција за морал, Rostami е одговорен за дејствијата на Полицијата за морал.",
+      "mk2": "за дејствата на Полицијата за морал. Затоа тој сноси одговорност",
+      "score": 0.42424242424242425,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        43,
+        44
+      ],
+      "mk2_char_span": [
+        4688,
+        4754
+      ],
+      "evidence": {
+        "token_count": 28,
+        "references_preserved": true,
+        "neighbor_window": [
+          55,
+          57
+        ],
+        "atom_window": [
+          43,
+          44
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 57,
+      "en": "He therefore bears responsibility for serious human rights violations in Iran.",
+      "mk1": "Затоа тој сноси одговорност за сериозни повреди на човековите права во Иран.",
+      "mk2": "за сериозни повреди на човековите права во Иран.",
+      "score": 0.7704918032786885,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        43,
+        44
+      ],
+      "mk2_char_span": [
+        4754,
+        4802
+      ],
+      "evidence": {
+        "token_count": 28,
+        "references_preserved": true,
+        "neighbor_window": [
+          55,
+          57
+        ],
+        "atom_window": [
+          43,
+          44
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 58,
+      "en": "17.10.2022",
+      "mk1": "17.10.2022 година",
+      "mk2": "17.10.2022 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        44,
+        45
+      ],
+      "mk2_char_span": [
+        4803,
+        4820
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          58,
+          58
+        ],
+        "atom_window": [
+          44,
+          45
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 59,
+      "en": "97.",
+      "mk1": "97.",
+      "mk2": "97.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        45,
+        46
+      ],
+      "mk2_char_span": [
+        4821,
+        4824
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          59,
+          59
+        ],
+        "atom_window": [
+          45,
+          46
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 60,
+      "en": "RAHIMI Hossein",
+      "mk1": "RAHIMI Hossein",
+      "mk2": "RAHIMI Hossein",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        46,
+        47
+      ],
+      "mk2_char_span": [
+        4825,
+        4839
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          60,
+          60
+        ],
+        "atom_window": [
+          46,
+          47
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 61,
+      "en": "حسین رحیمی",
+      "mk1": "حسین رحیمی",
+      "mk2": "حسین رحیمی",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        47,
+        48
+      ],
+      "mk2_char_span": [
+        4840,
+        4850
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          61,
+          61
+        ],
+        "atom_window": [
+          47,
+          48
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 62,
+      "en": "Dodhak village, Mahalat, Central province (Iran)",
+      "mk1": "Село Dodhak, Mahalat, Централна провинција (Иран)",
+      "mk2": "Место на раѓање: Ссело Dodhak, Mahalat, Централна провинција (Иран)",
+      "score": 0.8411214953271028,
+      "status": "REVIEW",
+      "cardinality": "1:1",
+      "mk2_span": [
+        48,
+        49
+      ],
+      "mk2_char_span": [
+        4851,
+        4918
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          62,
+          62
+        ],
+        "atom_window": [
+          48,
+          49
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 63,
+      "en": "1964",
+      "mk1": "1964 година",
+      "mk2": "Датум на раѓање: 1964 година",
+      "score": 0.5789473684210527,
+      "status": "UNMATCHED",
+      "cardinality": "1:1",
+      "mk2_span": [
+        49,
+        50
+      ],
+      "mk2_char_span": [
+        4919,
+        4947
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          63,
+          63
+        ],
+        "atom_window": [
+          49,
+          50
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 64,
+      "en": "Rank:",
+      "mk1": "Чин:",
+      "mk2": "Државјанств",
+      "score": 0.14285714285714285,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        50,
+        53
+      ],
+      "mk2_char_span": [
+        4948,
+        4959
+      ],
+      "evidence": {
+        "token_count": 8,
+        "references_preserved": true,
+        "neighbor_window": [
+          64,
+          65
+        ],
+        "atom_window": [
+          50,
+          53
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 65,
+      "en": "Brigadier General",
+      "mk1": "Бригаден генерал",
+      "mk2": "о: на Иран Пол: машки Чин: Бригаден генерал",
+      "score": 0.5714285714285714,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        50,
+        53
+      ],
+      "mk2_char_span": [
+        4959,
+        5002
+      ],
+      "evidence": {
+        "token_count": 8,
+        "references_preserved": true,
+        "neighbor_window": [
+          64,
+          65
+        ],
+        "atom_window": [
+          50,
+          53
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 66,
+      "en": "Head of Iran’s Law Enforcement Forces (LEF) in Tehran",
+      "mk1": "Началник на Иранските сили за спроведување на законот (LEF) во Техеран",
+      "mk2": "Функција: Началник на Иранските сили за спроведување на законот (LEF) во Т",
+      "score": 0.8920863309352518,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        53,
+        55
+      ],
+      "mk2_char_span": [
+        5003,
+        5077
+      ],
+      "evidence": {
+        "token_count": 34,
+        "references_preserved": true,
+        "neighbor_window": [
+          66,
+          67
+        ],
+        "atom_window": [
+          53,
+          55
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 67,
+      "en": "Brigadier General Hossein Rahimi has been the head of Iran’s Law Enforcement Forces (LEF) in Tehran since 7 August 2017.",
+      "mk1": "Бригадниот генерал Hossein Rahimi е на чело на Иранските сили за спроведување на законот (LEF) во Техеран од 7 август 2017 година.",
+      "mk2": "ехеран Бригадниот генерал Hossein Rahimi е на чело на Иранските сили за спроведување на законот (LEF) во Техеран од 7 август 2017 година.",
+      "score": 0.9731800766283525,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        53,
+        55
+      ],
+      "mk2_char_span": [
+        5077,
+        5214
+      ],
+      "evidence": {
+        "token_count": 34,
+        "references_preserved": true,
+        "neighbor_window": [
+          66,
+          67
+        ],
+        "atom_window": [
+          53,
+          55
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 68,
+      "en": "The LEF’s response to the September 2022 protests in Tehran was particularly harsh.",
+      "mk1": "Одговорот на LEF на протестите во септември 2022 година во Техеран бил особено остар.",
+      "mk2": "Одговорот на LEF на протестите во септември 2022 година во Техеран бил особено остар.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        55,
+        56
+      ],
+      "mk2_char_span": [
+        5215,
+        5300
+      ],
+      "evidence": {
+        "token_count": 33,
+        "references_preserved": true,
+        "neighbor_window": [
+          68,
+          69
+        ],
+        "atom_window": [
+          55,
+          56
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 69,
+      "en": "The LEF’s excessive use of violence to repress those protests resulted in the deaths of multiple people.",
+      "mk1": "Прекумерната употреба на насилство од страна на LEF за потиснување на тие протести резултираше со смрт на повеќе луѓе.",
+      "mk2": "Прекумерната употреба на насилство од страна на LEF за потиснување на тие протести резултираше со смрт на повеќе луѓе.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        55,
+        56
+      ],
+      "mk2_char_span": [
+        5300,
+        5419
+      ],
+      "evidence": {
+        "token_count": 33,
+        "references_preserved": true,
+        "neighbor_window": [
+          68,
+          69
+        ],
+        "atom_window": [
+          55,
+          56
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 70,
+      "en": "As head of the LEF in Tehran, Rahimi is therefore responsible for serious human rights violations in Iran.",
+      "mk1": "Како началник на LEF во Техеран, Rahimi е одговорен за сериозни повреди на човековите права во Иран.",
+      "mk2": "Како началник на LEF во Техеран, Rahimi е одговорен за сериозни повреди на човековите права во Иран.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        56,
+        57
+      ],
+      "mk2_char_span": [
+        5420,
+        5520
+      ],
+      "evidence": {
+        "token_count": 17,
+        "references_preserved": true,
+        "neighbor_window": [
+          70,
+          70
+        ],
+        "atom_window": [
+          56,
+          57
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 71,
+      "en": "ABDI Abbas",
+      "mk1": "ABDI Abbas",
+      "mk2": "",
+      "score": 0.4878048780487805,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 72,
+      "en": "عبدی عباس",
+      "mk1": "عبدی عباس",
+      "mk2": "98. ABDI Abbas عبدی عباس",
+      "score": 0.5625,
+      "status": "UNMATCHED",
+      "cardinality": "1:N",
+      "mk2_span": [
+        58,
+        61
+      ],
+      "mk2_char_span": [
+        5539,
+        5563
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          72,
+          72
+        ],
+        "atom_window": [
+          58,
+          61
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 73,
+      "en": "Colonel",
+      "mk1": "Полковник",
+      "mk2": "",
+      "score": 0.33962264150943394,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 74,
+      "en": "Head of Iran’s Law Enforcement Forces (LEF) in Divandarreh",
+      "mk1": "Началник на Иранските сили за спроведување на законот (LEF) во Дивандарех (Divandarreh)",
+      "mk2": "Пол: машки Чин: Полковник Функција: Началник на Иранските сили за спроведување на законот (LEF) во Дивандарех (Divandarreh)",
+      "score": 0.8341708542713567,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        62,
+        65
+      ],
+      "mk2_char_span": [
+        5586,
+        5709
+      ],
+      "evidence": {
+        "token_count": 17,
+        "references_preserved": true,
+        "neighbor_window": [
+          74,
+          74
+        ],
+        "atom_window": [
+          62,
+          65
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 75,
+      "en": "Colonel Abbas Abdi is the head of Iran’s Law Enforcement Forces (LEF) in the district of Divandarreh.",
+      "mk1": "Полковник Abbas Abdi е началникот на Иранските сили за спроведување на законот (LEF) во округот на Дивандарех.",
+      "mk2": "Полковник Abbas Abdi е началникот на Иранските сили за спроведување на законот (LEF) во округот на Дивандарех.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        65,
+        66
+      ],
+      "mk2_char_span": [
+        5710,
+        5820
+      ],
+      "evidence": {
+        "token_count": 17,
+        "references_preserved": true,
+        "neighbor_window": [
+          75,
+          75
+        ],
+        "atom_window": [
+          65,
+          66
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 76,
+      "en": "The LEF’s response to the September 2022 protests in Divandarreh was particularly harsh.",
+      "mk1": "Одговорот на LEF на протестите во септември 2022 година во Дивандарех бил особено остар.",
+      "mk2": "Одговорот на LEF на протестите во септември 2022 година, во Дивандарех, бил особено остар. Прекумерната употреба на насилство од страна на LEF за",
+      "score": 0.759825327510917,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        66,
+        68
+      ],
+      "mk2_char_span": [
+        5821,
+        5966
+      ],
+      "evidence": {
+        "token_count": 50,
+        "references_preserved": true,
+        "neighbor_window": [
+          76,
+          77
+        ],
+        "atom_window": [
+          66,
+          68
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 77,
+      "en": "As head of the LEF in Divandarreh, Abdi is therefore responsible for serious human rights violations in Iran.",
+      "mk1": "Како началник на LEF во Дивандарех, Abdi е одговорен за сериозни повреди на човековите права во Иран.",
+      "mk2": "потиснување на тие протести резултираше со смрт на повеќе луѓе. Како началник на LEF во Дивандарех, Abdi е одговорен за сериозни повреди на човековите права во Иран.",
+      "score": 0.7586206896551724,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        66,
+        68
+      ],
+      "mk2_char_span": [
+        5966,
+        6132
+      ],
+      "evidence": {
+        "token_count": 50,
+        "references_preserved": true,
+        "neighbor_window": [
+          76,
+          77
+        ],
+        "atom_window": [
+          66,
+          68
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 78,
+      "en": "MIRZAEI Haj Ahmad (a.k.a. MIRZAEI Hajahmad; MIRZAYI Hajj Ahmad)",
+      "mk1": "MIRZAEI Haj Ahmad (a.k.a. MIRZAEI Hajahmad; MIRZAYI Hajj Ahmad)",
+      "mk2": "17.10.2022 година 99. MIRZAEI Haj Ahmad (познат како MIRZAEI Hajahmad; MIRZAYI Hajj Ahmad)",
+      "score": 0.7586206896551724,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        68,
+        71
+      ],
+      "mk2_char_span": [
+        6133,
+        6223
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          78,
+          78
+        ],
+        "atom_window": [
+          68,
+          71
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 79,
+      "en": "حاج احمد میرزایی",
+      "mk1": "حاج احمد میرزایی",
+      "mk2": "حاج احمد میرزایی",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        71,
+        72
+      ],
+      "mk2_char_span": [
+        6224,
+        6240
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          79,
+          79
+        ],
+        "atom_window": [
+          71,
+          72
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 80,
+      "en": "Tehran (Iran)",
+      "mk1": "Техеран (Иран)",
+      "mk2": "Место на раѓање: Техеран (Ир",
+      "score": 0.5263157894736842,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        72,
+        74
+      ],
+      "mk2_char_span": [
+        6241,
+        6269
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          80,
+          81
+        ],
+        "atom_window": [
+          72,
+          74
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 81,
+      "en": "9 February 1957",
+      "mk1": "9 февруари 1957 година",
+      "mk2": "ан) Датум на раѓање: 9 февруари 1957 година",
+      "score": 0.6984126984126984,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        72,
+        74
+      ],
+      "mk2_char_span": [
+        6269,
+        6312
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          80,
+          81
+        ],
+        "atom_window": [
+          72,
+          74
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 82,
+      "en": "Head of Iran’s Morality Police in Tehran",
+      "mk1": "Началник на Иранската полиција за морал во Техеран",
+      "mk2": "",
+      "score": 0.4,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 83,
+      "en": "Colonel Haj Ahmed Mirzaei has been the head of the Tehran branch of Iran’s Morality Police since 2018.",
+      "mk1": "Полковник Haj Ahmed Mirzaei бил началник на подружницата на Иранската полиција за морал во Техеран од 2018 година.",
+      "mk2": "",
+      "score": 0.10285714285714286,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 84,
+      "en": "As head of the Morality Police in Tehran, Mirzaei is responsible for the Morality Police’s actions in Tehran, including in its headquarters where Amini was beaten and mistreated.",
+      "mk1": "Како началник на Полицијата за морал во Техеран, Mirzae е одговорен за дејствијата на Полицијата за морал во Техеран, вклучително и нејзиното седиште каде што Amini била тепана и малтретирана.",
+      "mk2": "",
+      "score": 0.29900332225913623,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 85,
+      "en": "ZAREPOUR Issa",
+      "mk1": "ZAREPOUR Issa",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 86,
+      "en": "عیسی زارع پور",
+      "mk1": "عیسی زارع پور",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 87,
+      "en": "Eslamabad-e Gharb, Kermanshah Province (Iran)",
+      "mk1": "Eslamabad-e Gharb, Kermanshah провинција (Иран)",
+      "mk2": "",
+      "score": 0.30927835051546393,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 88,
+      "en": "Minister of Information and Communications Technology",
+      "mk1": "Министер за информатичка и комуникациска технологогија",
+      "mk2": "",
+      "score": 0.336283185840708,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 89,
+      "en": "Issa Zarepour has been the Iranian Minister of Information and Communications Technology since 25 August 2021.",
+      "mk1": "Issa Zarepour е ирански министер за информатичка и комуникациска технологија од 25 август 2021 година.",
+      "mk2": "",
+      "score": 0.3925233644859813,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 90,
+      "en": "In his position, he played a key role in the Iranian government’s decision to systematically violate the Iranian people’s freedom of opinion and expression by imposing restrictions on internet access during the protests that followed the death of 22-year old Mahsa Amini on 16 September 2022.",
+      "mk1": "Во својата позиција, тој одигра клучна улога во одлуката на иранската влада систематски да ја наруши слободата на мислење и изразување на иранскиот народ со воведување ограничувања на пристапот до интернет за време на протестите што следеа по смртта на 22-годишната Mahsa Amini на 16 септември 2022 година.",
+      "mk2": "",
+      "score": 0.28653295128939826,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 91,
+      "en": "That action further diminished the already very limited space for civil society actors in Iran, including human rights defenders, to gather objective information and communicate, both amongst themselves and with the outside world.",
+      "mk1": "Тоа дејство дополнително го намали и онака многу ограничениот простор за учесниците во граѓанското општество во Иран, вклучително и бранителите на човековите права, да собираат објективни информации и да комуницираат, како меѓу себе, така и со надворешниот свет.",
+      "mk2": "",
+      "score": 0.22900763358778625,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 92,
+      "en": "The internet blackout had negative consequences for the enjoyment of human rights in Iran, both directly (namely the impact on freedom of opinion and expression and availability of objective information) and indirectly (namely the increased chance of human rights violations not being documented thereby negatively impacting accountability for human rights violations).",
+      "mk1": "Блокирањето на интернетот имаше негативни последици за уживањето на човековите права во Иран, и директно (имено влијанието врз слободата на мислење и изразување и достапноста на објективни информации) и индиректно (имено зголемената шанса да не се документираат повредите на човековите права, што негативно ќе се одрази на одговорноста за повредите на човековите права).",
+      "mk2": "",
+      "score": 0.38633377135348224,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 93,
+      "en": "As Minister of Information and Communications Technology, Zarepour is therefore responsible for serious human rights violations in Iran.",
+      "mk1": "Како министер за информатичка и комуникациска технологогија, Zarepour е одговорен за сериозни повреди на човековите права во Иран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 94,
+      "en": "SEPEHR Mohammad-Hossein",
+      "mk1": "SEPEHR Mohammad-Hossein",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 95,
+      "en": "محمدحسین سپهر",
+      "mk1": "محمدحسین سپهر",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 96,
+      "en": "Commander of the Iranian Central Training Base of the General Staff of the Armed Forces",
+      "mk1": "Командант на иранската централна база за обука на Генералштабот на вооружените сили",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 97,
+      "en": "Mohammad-Hossein Sepehr is the Commander of the Central Training Base of the General Staff of the Armed Forces in Tehran.",
+      "mk1": "Mohammad-Hossein Sepehr е командант на централната база за обука на Генералштабот на вооружените сили во Техеран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 98,
+      "en": "He is a member of the Islamic Revolutionary Guard Corps (IRGC) and the Basij Resistance Force (a volunteer paramilitary organisation operating under the IRGC with branches throughout Iran).",
+      "mk1": "Тој е член на Корпусот на Исламската револуционерна гарда (ИРГЦ) и на Силите на отпорот Басиџ (доброволна паравоена организација која работи под ИРГЦ со подружници низ Иран).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 99,
+      "en": "Sepehr oversees anti-protest training for Iranian security forces and supports a repressive line towards protesters.",
+      "mk1": "Sepehr ја надгледува обуката против протестите на иранските безбедносни сили и го поддржува репресивното постапување кон демонстрантите.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 100,
+      "en": "He is therefore responsible for serious human rights violations in Iran.",
+      "mk1": "Затоа, тој е одговорен за сериозни повреди на човековите права во Иран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 101,
+      "en": "SAFARI Sayd Ali",
+      "mk1": "SAFARI Sayd Ali",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 102,
+      "en": "علیسیدصفری",
+      "mk1": "علیسیدصفری",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 103,
+      "en": "Head of Iran’s Law Enforcement Forces (LEF) in Saqqez",
+      "mk1": "Началник на Иранските сили за спроведување на законот (LEF) во Сакез (Saqqez)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 104,
+      "en": "Colonel Sayd Ali Safari is the head of Iran’s Law Enforcement Forces (LEF) in Saqqez.",
+      "mk1": "Полковникот Sayd Ali Safari е началник на Иранските сили за спроведување на законот (LEF) во Сакез.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 105,
+      "en": "The LEF’s response to the September 2022 protests in Saqqez was particularly harsh.",
+      "mk1": "Одговорот на LEF на протестите во септември 2022 година во Сакез бил особено остар.",
+      "mk2": "",
+      "score": 0.27350427350427353,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 106,
+      "en": "The LEF’s excessive use of violence to repress the protests resulted in the deaths of multiple people.",
+      "mk1": "Прекумерната употреба на насилство од страна на LEF за потиснување на протестите резултираше со смрт на повеќе луѓе.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 107,
+      "en": "As head of the LEF in Saqqez, Safari is therefore responsible for serious human rights violations in Iran.",
+      "mk1": "Како началник на LEF во Сакез, Safari е одговорен за сериозни повреди на човековите права во Иран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 108,
+      "en": "ADYANI Seyed Alireza (a.k.a. ADIANI Hojjat al-Islam Seyyed Alireza)",
+      "mk1": "ADYANI Seyed Alireza (a.k.a. ADIANI Hojjat al-Islam Seyyed Alireza)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 109,
+      "en": "علیرضایسادیانی",
+      "mk1": "علیرضایسادیانی",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 110,
+      "en": "Head of the ideological-political office of Iran’s Law Enforcement Forces (LEF)",
+      "mk1": "Началник на идеолошко-политичката канцеларија на Иранските сили за спроведување на законот (LEF)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 111,
+      "en": "Seyed Alireza Adyani is the head of the ideological-political office of Iran’s Law Enforcement Forces (LEF).",
+      "mk1": "Seyed Alireza Adyani е началник на идеолошко-политичката канцеларија на Иранските сили за спроведување на законот (LEF).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 112,
+      "en": "Adyani is responsible for defining and implementing rules of engagement for police forces.",
+      "mk1": "Adyani е одговорен за дефинирање и спроведување на правилата за ангажирање на полициските сили.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 113,
+      "en": "He stated that the LEF needs to be “practical” and “effective” when dealing with adversaries and cheered the Morality Police for doing its job “intensely”.",
+      "mk1": "Тој изјави дека LEF треба да биде „практичен“ и „ефективен“ кога се справува со противниците и ја поздрави Полицијата за морал што „интензивно ја врши својата работа“.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 114,
+      "en": "The LEF has used massive brutality against protesters, including those protesting after Mahsa Amini’s death.",
+      "mk1": "LEF употреби огромна бруталност против демонстрантите, вклучително и оние што протестираа по смртта на Mahsa Amini.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 115,
+      "en": "AZADI Ali",
+      "mk1": "AZADI Ali",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 116,
+      "en": "علیزادی",
+      "mk1": "علیزادی",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 117,
+      "en": "Second Brigadier General",
+      "mk1": "Втор бригаден генерал",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 118,
+      "en": "Function:",
+      "mk1": "Функција:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 119,
+      "en": "Head of Iran’s Law Enforcement Forces (LEF) in Kurdistan",
+      "mk1": "Началник на Иранските сили за спроведување на законот (LEF) во Курдистан",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 120,
+      "en": "Second Brigadier General Ali Azadi has been the head of Iran’s Law Enforcement Forces (LEF) in Kurdistan since 2019.",
+      "mk1": "Вториот бригаден генерал Ali Azadi е на чело на Иранските сили за спроведување на законот (LEF) во Курдистан од 2019 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 121,
+      "en": "During the repression of the September 2022 protests, forces under his command in Kurdistan shot protesters and killed and injured multiple people.",
+      "mk1": "За време на репресијата на протестите во септември 2022 година, силите под негова команда во Курдистан застрелале демонстранти и убиле и повредиле повеќе луѓе.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 122,
+      "en": "SHALIKAR Mohammed Zaman",
+      "mk1": "SHALIKAR Mohammed Zaman",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 123,
+      "en": "شالیکار محمد زمان",
+      "mk1": "شالیکار محمد زمان",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 124,
+      "en": "Head of Iran’s Law Enforcement Forces (LEF) in Babol, Mazandaran",
+      "mk1": "Началник на Иранските сили за спроведување на законот (LEF) во Бабол, Мазандаран (Babol, Mazandaran)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 125,
+      "en": "Colonel Mohammed Zaman Shalikar has been the head of Iran’s Law Enforcement Forces (LEF) in Babol, Mazandaran since 2021.",
+      "mk1": "Полковникот Mohammed Zaman Shalikar е на чело на Иранските сили за спроведување на законот (LEF) во Бабол, Мазандаран од 2021 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 126,
+      "en": "During demonstrations following the death of Mahsa Amini in September 2022, forces under his command shot, injured and killed protesters in Babol, Mazandaran.",
+      "mk1": "За време на демонстрациите по смртта на Mahsa Amini во септември 2022 година, силите под негова команда пукале, повредиле и убивале демонстранти во Бабол, Мазандаран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 127,
+      "en": "HEIDARI Salman",
+      "mk1": "HEIDARI Salman",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 128,
+      "en": "حیدری سلمان",
+      "mk1": "حیدری سلمان",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 129,
+      "en": "Head of Iran’s Law Enforcement Forces (LEF) in Bukan",
+      "mk1": "Началник на Иранските сили за спроведување на законот (LEF) во Букан (Bukan)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 130,
+      "en": "Colonel Salman Heidari is the head of Iran’s Law Enforcement Forces (LEF) in Bukan.",
+      "mk1": "Полковникот Salman Heidari е началник на Иранските сили за спроведување на законот (LEF) во Букан.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 131,
+      "en": "The LEF’s response to the September 2022 protests in Bukan was particularly harsh.",
+      "mk1": "Одговорот на LEF на протестите во септември 2022 година во Букан бил особено остар.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 132,
+      "en": "The LEF’s excessive use of violence to repress the protests resulted in the death of at least one child and in injuries to multiple people.",
+      "mk1": "Прекумерната употреба на насилство од страна на LEF за потиснување на протестите резултираше со смрт на најмалку едно дете и повреди на повеќе луѓе.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 133,
+      "en": "As head of the LEF in Bukan, Heidari is therefore responsible for serious human rights violations in Iran.",
+      "mk1": "Како началник на LEF во Букан, Heidari е одговорен за сериозни повреди на човековите права во Иран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 134,
+      "en": "17.10.2022’",
+      "mk1": "17.10.2022 година“",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 135,
+      "en": "Entities",
+      "mk1": "Субјекти",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 136,
+      "en": "Iran’s Morality Police",
+      "mk1": "Иранска полиција за морал (Iran’s Morality Police)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 137,
+      "en": "(a.k.a. Gasht-e-Ershad; Islamic Guidance Patrol; Guidance Patrols)",
+      "mk1": "(a.k.a. Gasht-e-Ershad; Islamic Guidance Patrol; Guidance Patrols)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 138,
+      "en": "غشتى إرشاد",
+      "mk1": "غشتى إرشاد",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 139,
+      "en": "Address:",
+      "mk1": "Адреса:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 140,
+      "en": "Vozara Street, corner of 25th Street, District 6, Tehran (Iran)",
+      "mk1": "Vozara Street, corner of 25th Street, District 6, Техеран (Иран)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 141,
+      "en": "The Morality Police is therefore responsible for serious human rights violations in Iran.",
+      "mk1": "Затоа, Полицијата за морал е одговорна за сериозни повреди на човековите права во Иран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 142,
+      "en": "Basij Resistance Force (a.k.a. Basij-e Mostazafan)",
+      "mk1": "Сили на отпорот Басиџ (Basij Resistance Force (a.k.a. Basij-e Mostazafan))",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 143,
+      "en": "بسیج مستضعفین",
+      "mk1": "بسیج مستضعفین",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 144,
+      "en": "The Basij Resistance Force is a volunteer paramilitary organisation operating under the Islamic Revolutionary Guard Corps (IRGC) with branches throughout Iran.",
+      "mk1": "Силите на отпорот Басиџ се доброволна паравоена организација која работи под Исламската револуционерна гарда (ИРГЦ) со подружници низ Иран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 145,
+      "en": "The security forces’ response to the September 2022 protests in Iran was particularly harsh, resulting in the deaths of multiple people.",
+      "mk1": "Одговорот на безбедносните сили на протестите во Иран во септември 2022 година беше особено остар, што резултираше со смрт на повеќе луѓе.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 146,
+      "en": "The Basij Resistance Force was one of the forces ordered by the government to quell those protests.",
+      "mk1": "Силите на отпорот Басиџ беа една од силите наредени од владата да ги задушат тие протести.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 147,
+      "en": "It injured and killed several protesters.",
+      "mk1": "Во него беа повредени и убиени неколку демонстранти.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 148,
+      "en": "The Basij Resistance Force is directly responsible for serious human rights violations in Iran.",
+      "mk1": "Затоа, Силите на отпорот Басиџ се одговорни за сериозни повреди на човековите права во Иран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 149,
+      "en": "Cyber Defence Command of the Islamic Revolutionary Guard Corps (CDC)",
+      "mk1": "Команда за сајбер одбрана на Корпусот на Исламската револуционерна гарда (ЦДЦ) (Cyber Defence Command of the Islamic Revolutionary Guard Corps (CDC))",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 150,
+      "en": "سایبریرارگاه دفاع",
+      "mk1": "سایبریرارگاه دفاع",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 151,
+      "en": "Tehran (Iran) Telephone:",
+      "mk1": "Техеран (Иран) Телефон:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 152,
+      "en": "+98 26 3448 9826",
+      "mk1": "+98 26 3448 9826",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 153,
+      "en": "The Cyber Defence Command of the Islamic Revolutionary Guard Corps (CDC) monitors websites, e-mails and online activities of individuals deemed to be political opponents.",
+      "mk1": "Командата за сајбер одбрана на Корпусот на Исламската револуционерна гарда (ЦДЦ) ги следи веб-страниците, е-поштата и онлајн активностите на поединци за кои се смета дека се политички противници.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 154,
+      "en": "During the September 2022 protests in Iran, the CDC took an active role in the Iranian government’s repressive policies, including by identifying and arresting protesters.",
+      "mk1": "За време на протестите во септември 2022 година во Иран, ЦДЦ презеде активна улога во репресивните политики на иранската влада, вклучително и со идентификување и апсење на демонстрантите.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 155,
+      "en": "The CDC is directly responsible for serious human rights violations in Iran.",
+      "mk1": "Затоа, ЦДЦ се одговорни за сериозни повреди на човековите права во Иран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 156,
+      "en": "Law Enforcement Forces of the Islamic Republic of Iran (LEF) (a.k.a. NAJA; FARAJA)",
+      "mk1": "Сили за спроведување на законот на Исламската Република Иран (LEF) (Law Enforcement Forces of the Islamic Republic of Iran (LEF) (a.k.a. NAJA; FARAJA))",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 157,
+      "en": "جمهوری اسلامی ایرانفرماندهی انتظامی",
+      "mk1": "جمهوری اسلامی ایرانفرماندهی انتظامی",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 158,
+      "en": "The Law Enforcement Forces of the Islamic Republic of Iran (LEF) is a uniformed police force.",
+      "mk1": "Силите за спроведување на законот на Исламската Република Иран (LEF) се униформирани полициски сили.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 159,
+      "en": "The LEF’s blatant and severe human rights violations, such as the indiscriminate shooting with live ammunition at peaceful protesters, including children, have been widely documented since protests surrounding the death of Mahsa Amini started in mid-September 2022.",
+      "mk1": "Очигледните и тешки повреди на човековите права од страна на LEF, како што е неселективно пукање со боева муниција врз мирни демонстранти, вклучително и деца, се широко документирани откако започнаа протестите околу смртта на Mahsa Amini во средината на септември 2022 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 160,
+      "en": "Over 70 protesters have died and hundreds were seriously injured, including children.",
+      "mk1": "Над 70 демонстранти загинаа, а стотици беа сериозно повредени, вклучително и деца.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 161,
+      "en": "Since the beginning of the demonstrations, police forces have also arbitrarily detained numerous human rights defenders and journalists.",
+      "mk1": "Од почетокот на демонстрациите, полициските сили своеволно приведоа и бројни бранители на човекови права и новинари.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 162,
+      "en": "The LEF is therefore responsible for serious human rights violations in Iran.",
+      "mk1": "Затоа, LEF е одговорен за сериозни повреди на човековите права.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 1,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32022D1955",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Council Implementing Regulation (EU) 2022/1955 of 17 October 2022 implementing Regulation (EU) No 359/2011 concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Iran",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2022/1955 НА СОВЕТОТ од 17 октомври 2022 година за спроведување на Регулативата (ЕУ) бр. 359/2011 за рестриктивни мерки насочени против одредени лица, субјекти и тела во однос на состојбата во Иран",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "18.00.00.00 Заедничка надворешна и безбедносна политика",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ана Наќева",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "12.11.2022",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс, точка 6",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Basij Resistance Force",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Силите на отпорот Басиџ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://ufr.gov.mk/wp-content/uploads/2020/05/29.0920201007092349757-1.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс, точка 6",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "IRGC",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ИРГЦ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://ufr.gov.mk/wp-content/uploads/2020/05/20210812133826279.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс, точка 96",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "head",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "началник",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://slvesnik.com.mk/Issues/3d475e3587fa43c289beae4fb52f7437.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32022D1955",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Council Implementing Regulation (EU) 2022/1955 of 17 October 2022 implementing Regulation (EU) No 359/2011 concerning restrictive measures directed against certain persons, entities and bodies in view of the situation in Iran",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2022/1955 НА СОВЕТОТ од 17 октомври 2022 година за спроведување на Регулативата (ЕУ) бр. 359/2011 за рестриктивни мерки насочени против одредени лица, субјекти и тела во однос на состојбата во Иран",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "18.00.00.00 Заедничка надворешна и безбедносна политика",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Павлова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "26.11.2022 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Internet blackout",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Блокирање на интернет",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Исклучување на интернет",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Во согласност со значењето на зборот blackout",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Сл. весник L 100, 14.4. 2011 година, стр. 1.",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 5,
+        "text": "Сл. весник L 100, 14.4. 2011 година, стр. 1."
+      }
+    ]
+  },
+  "dry_run": true
+}

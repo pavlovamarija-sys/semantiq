@@ -1,0 +1,30 @@
+{
+  "status": "PERSISTED_PARTIAL",
+  "validatedDocxArtifactId": "b0e8fec5-91c8-4755-87a4-ff8f6dd8d307",
+  "validatedDocxSha256": "2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971",
+  "schemaVersion": "eu-acquis.canonical-document.v1",
+  "extractorVersion": "docx-canonical-phase6c5-v1",
+  "normalizedSourceSha256": "6aa66d213e3db8004d2436a0010f7866eaf9939a44d5e61593e47d2ac132c9a3",
+  "metrics": {"nodeCount": 422, "translationUnitCount": 265, "inlineCodeCount": 3, "normalizedTokens": 3389},
+  "nodeTypes": {"heading": 26, "page_break": 6, "paragraph": 239, "table": 3, "table_row": 48, "table_cell": 100},
+  "unitTypes": {"heading": 26, "paragraph": 239},
+  "tables": {"count": 3, "rows": 48, "cells": 100, "multiParagraphCells": 0},
+  "sourceIntegrity": {"missing": 0, "added": 0, "duplicated": 0, "reordered": 0},
+  "persistence": {
+    "status": "VERIFIED_WITH_DEFECTS",
+    "snapshotId": "41c043ad-a210-4e17-b6f4-5cf98872a602",
+    "generationId": "26276c49-8c0f-456e-8a3e-cce032f9b633",
+    "snapshotStatus": "available",
+    "generationStatus": "completed",
+    "validationStatus": "PASS",
+    "sourceCoverageStatus": "PASS",
+    "orderedTokenStatus": "PASS",
+    "persistedNormalizedTokens": 3389,
+    "persistedNormalizedSourceSha256": "6aa66d213e3db8004d2436a0010f7866eaf9939a44d5e61593e47d2ac132c9a3",
+    "sourceHashesValid": true,
+    "tuOrdinals": {"count": 265, "first": 0, "last": 421, "contiguousZeroBased": false},
+    "generationNormalizedTokenCount": null,
+    "duplicateCounts": {"generations": 1, "snapshots": 1, "nodes": 422, "translationUnits": 265, "inlineCodes": 3}
+  },
+  "studio": "NOT_GENERATED"
+}

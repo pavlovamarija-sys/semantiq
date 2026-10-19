@@ -1,0 +1,33 @@
+{
+  "celex": "32006L0114",
+  "experimental_docx": "artifacts/pdf-phase6c8/32006L0114-footnote-experimental-v2.docx",
+  "sha256": "b17e810f6e386821d7ab32869274f08349c268192a645bc0378a3e50a364371d",
+  "byte_size": 44605,
+  "root_cause": "The custom mark was emitted in a separate run and the footnote body also contained w:footnoteRef plus literal text. Word-authored custom footnotes instead place w:footnoteReference and the literal custom mark in the same run, and use only literal marker text in the footnote body.",
+  "word_authored_contract": {
+    "main_text": "one run containing w:footnoteReference customMarkFollows=1 followed by one w:t custom marker",
+    "footnote_body": "one styled w:t custom marker; no w:footnoteRef"
+  },
+  "numbering": {"scheme": "page-local-explicit", "pages": {"1": ["1", "2", "3", "4"], "2": ["1", "2"], "3": ["1"]}},
+  "validation": {
+    "word_footnote_count": 7,
+    "word_footnote_story_visible_markers": 7,
+    "ooxml_references": 7,
+    "ooxml_custom_references": 7,
+    "ooxml_footnote_bodies": 7,
+    "ooxml_body_automatic_reference_marks": 0,
+    "normalized_tokens": 3389,
+    "text_integrity": "PASS",
+    "page_breaks": 6,
+    "canonical_nodes": 426,
+    "canonical_translation_units": 269,
+    "canonical_inline_codes": 10,
+    "tests_passed": 29,
+    "typecheck": "PASS"
+  },
+  "remaining_layout_limitations": [
+    "The generic experimental serializer renders 15 Word pages versus 7 source PDF pages.",
+    "Native footnotes follow their anchors to the bottom of the rendered Word page, but source-exact pagination is outside the footnote-only scope.",
+    "Final interactive Word inspection is still required before using this experimental file downstream."
+  ]
+}

@@ -1,0 +1,5144 @@
+{
+  "celex": "32020R0772",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020R0772\\TMX_MK1\\32020R0772_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32020R0772\\MK2\\32020R0772_МК2.docx",
+  "tmx_sha256": "df54e4b052d1d2e57e83f6ba35b3d4dc6b9eb7f4f9b3c5764918eaf46e94f4a7",
+  "mk2_sha256": "73d0f7776598d77aac2eabe125760ff313129f1554d7e9b82bca869f92b87739",
+  "original_tus": 188,
+  "accepted_tus": 65,
+  "skipped_tus": 123,
+  "acceptance_percent": 34.57,
+  "mk1_coverage": 64.63,
+  "mk2_coverage": 65.92,
+  "accepted_clean_en_chars": 7543,
+  "accepted_clean_mk2_chars": 7865,
+  "results": [
+    {
+      "index": 1,
+      "en": "COMMISSION REGULATION (EU) 2020/772",
+      "mk1": "РЕГУЛАТИВА (ЕУ) 2020/772 НА КОМИСИЈАТА",
+      "mk2": "РЕГУЛАТИВА (ЕУ) 2020/772 НА КОМИСИЈАТА",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        38
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 11 June 2020",
+      "mk1": "од 11 јуни 2020 година",
+      "mk2": "од 11 јуни 2020 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        39,
+        61
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "amending Annexes I, VII and VIII to Regulation (EC) No 999/2001 of the European Parliament and of the Council as regards eradication measures for transmissible spongiform encephalopathies in goats and endangered breeds",
+      "mk1": "за изменување и дополнување на Анексите I, VII и VIII на Регулативата (ЕЗ) бр. 999/2001 на Европскиот парламент и на Советот во врска со мерките за искоренување на преносливите спонгиформни енцефалопатии кај козите и загрозените раси",
+      "mk2": "за изменување на Анексите I, VII и VIII конна Регулативата (ЕЗ) бр. 999/2001 на Европскиот парламент и на Советот во врска соза мерките за искоренување на преносливите спонгиформни енцефалопатии кај козите и загрозените раси (Т",
+      "score": 0.9534368070953437,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        62,
+        289
+      ],
+      "evidence": {
+        "token_count": 41,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 4,
+      "en": "(Text with EEA relevance)",
+      "mk1": "(Текст со важност за ЕЕО)",
+      "mk2": "екст со важност за ЕЕО)",
+      "score": 0.9777777777777777,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        289,
+        313
+      ],
+      "evidence": {
+        "token_count": 41,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 5,
+      "en": "THE EUROPEAN COMMISSION,",
+      "mk1": "ЕВРОПСКАТА КОМИСИЈА,",
+      "mk2": "ЕВРОПСКАТА КОМИСИЈА,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        313,
+        333
+      ],
+      "evidence": {
+        "token_count": 41,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "mk2": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        334,
+        399
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          6
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "Having regard to Regulation (EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001 laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies (), and in particular the first paragraph of Article 23 and Article 23a(m) thereof,",
+      "mk1": "имајќи ја предвид Регулативата (ЕЗ) бр. 999/2001 на Европскиот парламент и на Советот, од 22 мај 2001 година, за утврдување правила за превенција, контрола и искоренување на одредени преносливи спонгиформни енцефалопатии (), а особено првиот став од член 23 и член 23а (м) од истата,",
+      "mk2": "имајќи ја предвид Регулативата (ЕЗ) бр. 999/2001 на Европскиот парламент и на Советот, од 22 мај 2001 година, за утврдување правила за превенција, контрола и искоренување на одредени преносливи спонгиформни енцефалопатии (), а особено првиот став од член 23 и член 23а(к) од истата, Сл.",
+      "score": 0.990791896869245,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        400,
+        687
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": false,
+        "neighbor_window": [
+          7,
+          9
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 8,
+      "en": "OJ L 147, 31.5.2001, p. 1.",
+      "mk1": "Сл. весник L 147, 31.5.2001 год., стр.1",
+      "mk2": "весник L 147, 31.5.2001 година., стр.1.",
+      "score": 0.9142857142857143,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        687,
+        727
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": false,
+        "neighbor_window": [
+          7,
+          9
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 9,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "со оглед на тоа што:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        727,
+        747
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": false,
+        "neighbor_window": [
+          7,
+          9
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 10,
+      "en": "Regulation (EC) No 999/2001 lays down rules for the prevention, control and eradication of transmissible spongiform encephalopathies (TSEs) in animals.",
+      "mk1": "Регулативата (ЕЗ) бр. 999/2001 утврдува правила за превенција, контрола и искоренување на преносливи спонгиформни енцефалопатии (TSE) кај животните.",
+      "mk2": "Со Регулативата (ЕЗ) бр. 999/2001 се утврдуваат правила за превенција, контрола и искоренување на преносливи трансмисивни спонгиформни енцефалопатии (ПСЕТСЕ) кај ж",
+      "score": 0.87248322147651,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        8,
+        10
+      ],
+      "mk2_char_span": [
+        748,
+        911
+      ],
+      "evidence": {
+        "token_count": 90,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 11,
+      "en": "Chapter B of Annex VII to that Regulation lays down the measures to be undertaken following the confirmation of the presence of a case of TSE in bovine, ovine and caprine animals.",
+      "mk1": "Поглавје Б од Анекс VII на таа регулатива ги утврдува мерките што треба да се преземат по потврдувањето на присуството на случај на TSE кај говеда, овци и кози.",
+      "mk2": "ивотните. Во Поглавје Б од Анекс VII на кон таа регулатива ги се утврдуваат мерките што треба да се преземат по потврдувањето на присуството на случај на ПСЕ ТСЕ кај говеда, ов",
+      "score": 0.8795180722891566,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        8,
+        10
+      ],
+      "mk2_char_span": [
+        911,
+        1087
+      ],
+      "evidence": {
+        "token_count": 90,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 12,
+      "en": "When a classical scrapie case is confirmed in an ovine or caprine animal, the holding is to be subject to the conditions set out in one of the three options provided in point 2.2.2 of Chapter B of Annex VII.",
+      "mk1": "Кога се потврдува класичен случај на скрепи кај овци или кози, стопанството треба да подлежи на условите утврдени во една од трите опции дадени во точка 2.2.2 од Поглавје Б од Анекс VII.",
+      "mk2": "ци и кози. Кога се потврдува класичен случај на скрепи кај овци или кози, стопанството треба да подлежи подложи на условите утврдени во една од трите опции дадени во точка 2.2.2 од Поглавје Б од Анекс VII.",
+      "score": 0.9533678756476683,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        8,
+        10
+      ],
+      "mk2_char_span": [
+        1087,
+        1292
+      ],
+      "evidence": {
+        "token_count": 90,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 13,
+      "en": "Option 2 requires the killing and complete destruction of all ovine and caprine animals of the holding except those ovine animals having a prion protein genotype that is resistant to classical scrapie.",
+      "mk1": "Опцијата 2 бара убивање и целосно уништување на сите овци и кози од стопанството, освен оние овци кои имаат генотип на прионски протеин, кој е отпорен на класичен скрепи.",
+      "mk2": "Опцијата 2 бара убивање и целосно уништување на сите овци и кози од стопанството, освен оние овци штокои имаат прион-протеински генотип, кој е отпорен на класичен скрепи.",
+      "score": 0.8802395209580839,
+      "status": "REVIEW",
+      "cardinality": "1:1",
+      "mk2_span": [
+        10,
+        11
+      ],
+      "mk2_char_span": [
+        1293,
+        1463
+      ],
+      "evidence": {
+        "token_count": 27,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          13
+        ],
+        "atom_window": [
+          10,
+          11
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 14,
+      "en": "On 5 July 2017, the European Food Safety Authority (EFSA) adopted a scientific opinion () on the genetic resistance to TSE in goats.",
+      "mk1": "На 5 јули 2017 година, Европскиот орган за безбедност на храна (ЕФСА) усвои научно мислење () за генетската отпорност на ПСЕ кај козите.",
+      "mk2": "На 5 јули 2017 година, Европскатаиот агенцијаорган за безбедност на храната (ЕФСА) донесе научно мислење () за генетската отпорност на ПСЕ ТСЕ кај кози",
+      "score": 0.8978102189781022,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        1464,
+        1615
+      ],
+      "evidence": {
+        "token_count": 115,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 15,
+      "en": "According to the EFSA opinion, field and experimental data are robust enough to conclude that the K222, D146 and S146 alleles confer genetic resistance against classical scrapie strains known to occur naturally in the EU goat population.",
+      "mk1": "Според мислењето на ЕФСА, теренските и експерименталните податоци се доволно обемни за да се заклучи дека алелите К222, Д146 и С146 пренесуваат генетска отпорност против класичните соеви на скрепи, за кои се знае дека природно се јавуваат кај популацијата на кози во ЕУ.",
+      "mk2": "те. Според мислењето на ЕФСА, теренските и експерименталните податоци се доволно обемни за да се заклучи дека алелите КK222, ДD146 и СS146 пренесуваат генетска отпорност против класичните соеви на скрепи, за кои се знае дека природно се јавуваат кај популацијата на кози во ЕУ. Во Ммислењето на ЕФСА",
+      "score": 0.95,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        1615,
+        1915
+      ],
+      "evidence": {
+        "token_count": 115,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 16,
+      "en": "The EFSA opinion concludes that outbreak management for classical scrapie in goat herds could be based on the selection of genetically resistant animals, in a similar way as currently laid down in Regulation (EC) No 999/2001 for ovine animals.",
+      "mk1": "Мислењето на ЕФСА заклучува дека управувањето со епидемии кај класични скрепи кај стадата кози може да се заснова на избор на генетски отпорни животни, на сличен начин како што е моментално утврдено со Регулативата (ЕЗ) бр. 999/2001 за овци.",
+      "mk2": "се заклучува дека управувањето со епидемиите накај класичени скрепи кај стадата кози може да се заснова на врз избор на генетски отпорни животни, на сличен начин како што е моментално утврдено со Регулативата (ЕЗ) бр. 999/2001 за овци. Весник на ЕФСА 2017; 15(8): 4962.",
+      "score": 0.8911290322580645,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        11,
+        12
+      ],
+      "mk2_char_span": [
+        1915,
+        2184
+      ],
+      "evidence": {
+        "token_count": 115,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          16
+        ],
+        "atom_window": [
+          11,
+          12
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 17,
+      "en": "EFSA Journal 2017;15(8):4962.",
+      "mk1": "EFSA Journal 2017;15(8):4962.",
+      "mk2": "Затоа, соодветно е да се изм",
+      "score": 0.18518518518518517,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        2185,
+        2213
+      ],
+      "evidence": {
+        "token_count": 67,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 18,
+      "en": "It is therefore appropriate to amend Chapter B of Annex VII to Regulation (EC) No 999/2001 in order to introduce the possibility to restrict the killing and destruction of caprine animals to only those which are susceptible to classical scrapie.",
+      "mk1": "Затоа, соодветно е да се измени Поглавје Б од Анекс VII на Регулативата (ЕЗ) бр. 999/2001, со цел да се воведе можноста да се ограничи убивањето и уништувањето на козите само на оние кои се подложни на класичен скрепи.",
+      "mk2": "ени Поглавје Б од Анекс VII на кон Регулативата (ЕЗ) бр. 999/2001, со цел да се воведе можноста да се ограничи убивањето и уништувањето на козите само на оние штокои се подложни на класичен скрепи. Земјите -членк",
+      "score": 0.8851674641148325,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        2213,
+        2425
+      ],
+      "evidence": {
+        "token_count": 67,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 19,
+      "en": "The Member States should determine in each case which animals should be exempted from killing and destruction in accordance with their genetic resistance to the disease.",
+      "mk1": "Земјите-членки треба да одредат во секој случај кои животни треба да бидат ослободени од убивање и уништување во согласност со нивната генетска отпорност на болеста.",
+      "mk2": "и треба да одредат во секој случај кои животни треба да бидат ослободени изземени од убивање и уништување во согласност со нивната генетска отпорност на болеста.",
+      "score": 0.9320987654320988,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        2425,
+        2586
+      ],
+      "evidence": {
+        "token_count": 67,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 20,
+      "en": "The EFSA opinion highlights that while breeding for resistance can be an effective tool for controlling classical scrapie in goats, given the low frequencies of presence of these alleles in most breeds, high selection pressure would likely have an adverse effect on genetic diversity.",
+      "mk1": "Мислењето на ЕФСА нагласува дека додека размножувањето за отпорност може да биде ефикасна алатка за контрола на класичниот скрепи кај козите, со оглед на ниските фреквенции на присуство на овие алели кај повеќето раси, високиот притисок на селекција најверојатно ќе има негативно влијание врз генетската разновидност.",
+      "mk2": "Во Ммислењето на ЕФСА се нагласува дека додека приплодот за отпорност може да биде ефикасна алатка за контрола на класичниот скрепи кај козите, со оглед на слабатаниските фреквенции зачестеност на присуство на овие алели кај повеќето раси, високиот притисок на селекција најверојатно ќе би имал негативно влијание врз генетската разновидност. Затоа, во мис",
+      "score": 0.9099099099099099,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        13,
+        14
+      ],
+      "mk2_char_span": [
+        2587,
+        2943
+      ],
+      "evidence": {
+        "token_count": 124,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          22
+        ],
+        "atom_window": [
+          13,
+          14
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 21,
+      "en": "The opinion therefore recommends that measures to build up genetic resistance in a caprine population be adopted at Member State level depending on the breed concerned ().",
+      "mk1": "Затоа, мислењето препорачува мерките за градење генетска отпорност кај популацијата на козите да се донесат на ниво на земја -членка во зависност од засегнатата раса ().",
+      "mk2": "лењето се препорачува мерките за градење генетска отпорност кај популацијата на козите да се донесат на ниво на земја -членка во зависност од засегнатата раса (). Затоа, земјите -членки треб",
+      "score": 0.8901734104046243,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        13,
+        14
+      ],
+      "mk2_char_span": [
+        2943,
+        3133
+      ],
+      "evidence": {
+        "token_count": 124,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          22
+        ],
+        "atom_window": [
+          13,
+          14
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 22,
+      "en": "The Member States should therefore be able to design their breeding strategy based on the frequency of presence of alleles conferring genetic resistance against classical scrapie in their goat population.",
+      "mk1": "Затоа, земјите -членки треба да бидат способни да ја креираат својата стратегија за размножување врз основа на фреквенцијата на присуство на алели што дава генетска отпорност против класичната болест на скрепи кај нивната популација на кози.",
+      "mk2": "а да бидат способни да ја креираат својата стратегија за приплод врз основа на фреквенцијата зачестеноста на присуство на алели кои даваат генетска отпорност против класичната болест на скрепи кај нивната популација на кози. Весник на ЕФСА 2017; 15(8): 4962, стр. 4.962.",
+      "score": 0.8023952095808383,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        13,
+        14
+      ],
+      "mk2_char_span": [
+        3133,
+        3403
+      ],
+      "evidence": {
+        "token_count": 124,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          22
+        ],
+        "atom_window": [
+          13,
+          14
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 23,
+      "en": "EFSA Journal 2017;15(8):4962, p. 4.",
+      "mk1": "Весник на ЕФСА 2017;15(8): 4962, 4962.",
+      "mk2": "По препорака на ЕФСА, во случај на",
+      "score": 0.3880597014925373,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        14,
+        15
+      ],
+      "mk2_char_span": [
+        3404,
+        3439
+      ],
+      "evidence": {
+        "token_count": 48,
+        "references_preserved": true,
+        "neighbor_window": [
+          23,
+          24
+        ],
+        "atom_window": [
+          14,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 24,
+      "en": "Following EFSA recommendation, in the event of a scrapie outbreak in a holding keeping goats, the Member States should decide, based on the breeding strategy, the particular measures which should be implemented in order to build up the genetic resistance in the caprine population of that holding.",
+      "mk1": "По препорака на ЕФСА, во случај на појава на скрепи во стопанство што чува кози, земјите -членки треба да одлучат, врз основа на стратегијата за размножување, посебните мерки што треба да се спроведат со цел да се изгради генетската отпорност кај козите од тоа стопанство.",
+      "mk2": "појава на скрепи во стопанство што чува кози, земјите -членки треба да одлучат, врз основа на стратегијата за приплод, за посебните мерки што треба да се спроведат со цел да се изгради генетската отпорност кај популацијата на козите од тоа стопанство.",
+      "score": 0.8671875,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        14,
+        15
+      ],
+      "mk2_char_span": [
+        3439,
+        3690
+      ],
+      "evidence": {
+        "token_count": 48,
+        "references_preserved": true,
+        "neighbor_window": [
+          23,
+          24
+        ],
+        "atom_window": [
+          14,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 25,
+      "en": "That Regulation, in its Article 2(24), lays down a definition for ‘endangered breed’, which means a local breed, recognised by a Member State to be endangered, genetically adapted to one or more traditional production systems or environments in that Member State and where the endangered status is scientifically established by a body possessing the necessary skills and knowledge in the area of endangered breeds.",
+      "mk1": "Таа регулатива, во својот член 2 (24), поставува дефиниција за „загрозена раса“, што значи локална раса, признаена од земја -членка како загрозена, генетски прилагодена на една или повеќе традиционални производствени системи или средини во таа земја -членка и каде статусот на загрозеност е научно утврден од тело кое ги поседува потребните вештини и знаења во областа на загрозените раси.",
+      "mk2": "Директивата 89/361/ЕЕЗ на Советот () се укинува со Регулативата (ЕУ) 2016/1012 на Европскиот парламент и на Советот () од 1 ноември 2018 година. Во Таа таа регулатива, во својот член 2(24), се поставува утврдува дефиниција за „загрозена раса“, што значи локална раса, признаена од земја- членка како загрозена, генетски приспособенаприлагодена на еденедна или повеќе традиционални производствени системи или средини во таа земја -членка, и каде статусот на загрозеност е научно утврден од тело штокое ги поседува потребните вештини и знаења во областа на загрозените раси. Директива 89/361/ЕЕЗ на Советот од 30 мај 1989 год., ина, за чистокрвни раси на овци и кози за приплод. (Сл. весник L 153, 6.6.1989 год.година, стр. 30). Регулатива (ЕУ) 2016/1012 на Европскиот парламент и на Советот од 8 јуни 2016 год.година, за зоо-технички и генеалошки услови за приплод, трговија и влез во Унијата на чистокрвни животни за припл",
+      "score": 0.5969912905779889,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        15,
+        16
+      ],
+      "mk2_char_span": [
+        3691,
+        4613
+      ],
+      "evidence": {
+        "token_count": 198,
+        "references_preserved": false,
+        "neighbor_window": [
+          25,
+          27
+        ],
+        "atom_window": [
+          15,
+          16
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 26,
+      "en": "Council Directive 89/361/EEC of 30 May 1989 concerning pure-bred breeding sheep and goats",
+      "mk1": "Директива 89/361/ЕЕЗ на Советот од 30 мај 1989 год., за чистокрвни раси на овци и кози за приплод.",
+      "mk2": "од, свињи за хибриден приплод и зачетни производи од истата и за изменување на Регулативата (ЕУ) бр. 652/2014, Директивата Директивите 89/608/ЕЕЗ на Советот и 90/425/ЕЕЗ на Советот и за укинување на одредени акти во областа на одгле",
+      "score": 0.33540372670807456,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        15,
+        16
+      ],
+      "mk2_char_span": [
+        4613,
+        4845
+      ],
+      "evidence": {
+        "token_count": 198,
+        "references_preserved": false,
+        "neighbor_window": [
+          25,
+          27
+        ],
+        "atom_window": [
+          15,
+          16
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 27,
+      "en": "(OJ L 153, 6.6.1989, p. 30).",
+      "mk1": "(Сл. весник L 153, 6.6.1989 год., стр. 30).",
+      "mk2": "дување на животни (Регулатива за одгледување животни\") (Сл. весник L 171, 29.6.2016 година., стр. 66).",
+      "score": 0.4126984126984127,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        15,
+        16
+      ],
+      "mk2_char_span": [
+        4845,
+        4947
+      ],
+      "evidence": {
+        "token_count": 198,
+        "references_preserved": false,
+        "neighbor_window": [
+          25,
+          27
+        ],
+        "atom_window": [
+          15,
+          16
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 28,
+      "en": "Regulation (EU) 2016/1012 of the European Parliament and of the Council of 8 June 2016 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof and amending Regulation (EU) No 652/2014, Council Directives 89/608/EEC and 90/425/EEC and repealing certain acts in the area of animal breeding (‘Animal Breeding Regulation’) (OJ L 171, 29.6.2016, p. 66).",
+      "mk1": "Регулатива (ЕУ) 2016/1012 на Европскиот парламент и на Советот од 8 јуни 2016 год., за зоотехнички и генеалошки услови за приплод, трговија и влез во Унијата на чистокрвни животни за приплод, свињи за хибриден приплод и герминативни производи од истата и за изменување на Регулативата (ЕУ) бр 652/2014, Директивата 89/608 / ЕЕЗ на Советот и 90/425 / ЕЕЗ и за укинување на одредени акти во областа на одгледување на животни (Регулатива за одгледување жигвотни\") (Сл. весник L 171, 29.6.2016 год., стр. 66).",
+      "mk2": "Затоа е соодветно да се измени точката 1 од Анекс I конна Регулативата (ЕЗ) бр. 999/2001 и да се заменат, во Поглавје Б од Анекс VII и Глава Поглавје А од Анекс VIII конна таа регулатива, упатувањата на Директивата 89/361/ЕЕЗ со повикување на Регулативата (ЕУ) 2016/1012 и изразот „локалната раса во опасност да се изгуби од земјоде",
+      "score": 0.22111801242236026,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        16,
+        17
+      ],
+      "mk2_char_span": [
+        4948,
+        5280
+      ],
+      "evidence": {
+        "token_count": 152,
+        "references_preserved": false,
+        "neighbor_window": [
+          28,
+          30
+        ],
+        "atom_window": [
+          16,
+          17
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 29,
+      "en": "It is therefore appropriate to amend point 1 of Annex I to Regulation (EC) No 999/2001 accordingly and to replace, in Chapter B of Annex VII and Chapter A of Annex VIII to that Regulation, the references to Directive 89/361/EEC with references to Regulation (EU) 2016/1012 and the expression ‘local breed in danger of being lost to farming’ as laid down in Article 7(2) and (3) of Commission Delegated Regulation (EU) No 807/2014 () with the expression ‘endangered breed’ as defined in Article 2(24) of Regulation (EU) 2016/1012.",
+      "mk1": "Затоа е соодветно соодветно да се измени точката 1 од Анекс I на Регулативата (ЕЗ) бр. 999/2001 и да се заменат, во Поглавје Б од Анекс VII и Глава А од Анекс VIII на таа регулатива, упатувањата на Директивата 89/ 361/ЕЕЗ со повикување на Регулативата (ЕУ) 2016/1012 и изразот „локалната раса во опасност да се изгуби од земјоделството“ како што е утврдено во член 7(2) и (3) од Делегираната Регулатива (ЕУ) бр. 807/2014 на Комисијата () со изразот „загрозена раса“ како што е дефинирано во член 2(24) од Регулативата (ЕУ) 2016/1012.",
+      "mk2": "лството“ како што е утврдено во член 7(2) и (3) од Делегираната Ррегулатива (ЕУ) бр. 807/2014 на Комисијата () да се замени со изразот „загрозена раса“ како што е дефинирано во член 2(24) од Регулативата (ЕУ) 2016/1012. Делегирана рРегулатива (ЕУ) бр. 807/2014 на Комисијата од 11 март 2014 година за., со која се дополнување на Регулативата (ЕУ) бр.",
+      "score": 0.45323741007194246,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        16,
+        17
+      ],
+      "mk2_char_span": [
+        5280,
+        5631
+      ],
+      "evidence": {
+        "token_count": 152,
+        "references_preserved": false,
+        "neighbor_window": [
+          28,
+          30
+        ],
+        "atom_window": [
+          16,
+          17
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 30,
+      "en": "Commission Delegated Regulation (EU) No 807/2014 of 11 March 2014 supplementing Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and introducing transitional provisions (OJ L 227, 31.7.2014, p. 1).",
+      "mk1": "Делегирана Регулатива (ЕУ) бр. 807/2014 на Комисијата од 11 март 2014 год., со која се дополнува Регулативата (ЕУ) бр. 1305/2013 на Европскиот парламент и на Советот за поддршка на руралниот развој од страна на Европскиот земјоделски фонд за рурален развој (ЕАФРД) и за воведување преодни одредби (Сл. весник L 227, 31.7.2014 год., стр. 1).",
+      "mk2": "1305/2013 на Европскиот парламент и на Советот за поддршка на руралниот развој од страна на Европскиот земјоделски фонд за рурален развој (ЕАФРД) и за воведување преодни одредби (Сл. весник L 227, 31.7.2014 година., стр. 1).",
+      "score": 0.7873134328358209,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        16,
+        17
+      ],
+      "mk2_char_span": [
+        5631,
+        5855
+      ],
+      "evidence": {
+        "token_count": 152,
+        "references_preserved": false,
+        "neighbor_window": [
+          28,
+          30
+        ],
+        "atom_window": [
+          16,
+          17
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 31,
+      "en": "Annexes I, VII and VIII to Regulation (EC) No 999/2001 should therefore be amended accordingly.",
+      "mk1": "Анексите I, VII и VIII на Регулативата (ЕЗ) бр. 999/2001 треба соодветно да се изменат.",
+      "mk2": "Анексите I, VII и VIII на кон Регулативата (ЕЗ) бр. 999/2001 треба соодветно да се измена",
+      "score": 0.9700598802395209,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        17,
+        20
+      ],
+      "mk2_char_span": [
+        5856,
+        5945
+      ],
+      "evidence": {
+        "token_count": 40,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          33
+        ],
+        "atom_window": [
+          17,
+          20
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 32,
+      "en": "The measures provided for in this Regulation are in accordance with the opinion of the Standing Committee on Plants, Animals, Food and Feed,",
+      "mk1": "Мерките предвидени со оваа регулатива се во согласност со мислењето на Постојаниот комитет за растенија, животни, храна и сточна храна.",
+      "mk2": "т. Мерките предвидени со оваа регулатива се во согласност со мислењето на Постојаниот комитет за растенија, животни, храна и сточна храна.",
+      "score": 0.9924812030075187,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        17,
+        20
+      ],
+      "mk2_char_span": [
+        5945,
+        6083
+      ],
+      "evidence": {
+        "token_count": 40,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          33
+        ],
+        "atom_window": [
+          17,
+          20
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 33,
+      "en": "HAS ADOPTED THIS REGULATION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "mk2": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        17,
+        20
+      ],
+      "mk2_char_span": [
+        6083,
+        6110
+      ],
+      "evidence": {
+        "token_count": 40,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          33
+        ],
+        "atom_window": [
+          17,
+          20
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 34,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "Член 1",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        20,
+        21
+      ],
+      "mk2_char_span": [
+        6111,
+        6117
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          34,
+          34
+        ],
+        "atom_window": [
+          20,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 35,
+      "en": "Annexes I, VII and VIII to Regulation (EC) No 999/2001 are amended in accordance with the Annex to this Regulation.",
+      "mk1": "Анексите I, VII и VIII на Регулативата (ЕЗ) бр. 999/2001 се изменуваат во согласност со Анексот на оваа регулатива.",
+      "mk2": "Анексите I, VII и VIII на кон Регулативата (ЕЗ) бр. 999/2001 се изменуваат во согласност со Анексот конна оваа регулатива.",
+      "score": 0.9691629955947136,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        21,
+        22
+      ],
+      "mk2_char_span": [
+        6118,
+        6240
+      ],
+      "evidence": {
+        "token_count": 20,
+        "references_preserved": true,
+        "neighbor_window": [
+          35,
+          35
+        ],
+        "atom_window": [
+          21,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 36,
+      "en": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила дваесеттиот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "Член 2 Оваа регулатива влегува во сила на дваесеттиот ден од денот на нејзиното објавување во Службениот весник на Европската Уни",
+      "score": 0.952,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        22,
+        25
+      ],
+      "mk2_char_span": [
+        6241,
+        6370
+      ],
+      "evidence": {
+        "token_count": 33,
+        "references_preserved": true,
+        "neighbor_window": [
+          36,
+          37
+        ],
+        "atom_window": [
+          22,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 37,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "mk1": "Оваа Регулатива е целосно обврзувачка и директно применлива во сите земји -членки.",
+      "mk2": "ја. Оваа регулатива е целосно обврзувачка и директно применлива во сите земји- членки.",
+      "score": 0.9815950920245399,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        22,
+        25
+      ],
+      "mk2_char_span": [
+        6370,
+        6456
+      ],
+      "evidence": {
+        "token_count": 33,
+        "references_preserved": true,
+        "neighbor_window": [
+          36,
+          37
+        ],
+        "atom_window": [
+          22,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 38,
+      "en": "Done at Brussels, 11 June 2020.",
+      "mk1": "Брисел, 11 јуни 2020 година.",
+      "mk2": "Брисел, 11 јуни 2020 година.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        25,
+        26
+      ],
+      "mk2_char_span": [
+        6457,
+        6485
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          38,
+          38
+        ],
+        "atom_window": [
+          25,
+          26
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 39,
+      "en": "For the Commission",
+      "mk1": "За Комисијата",
+      "mk2": "За Комисијата",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        26,
+        27
+      ],
+      "mk2_char_span": [
+        6486,
+        6499
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          39,
+          39
+        ],
+        "atom_window": [
+          26,
+          27
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 40,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "Претседател",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        27,
+        28
+      ],
+      "mk2_char_span": [
+        6500,
+        6511
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          40,
+          40
+        ],
+        "atom_window": [
+          27,
+          28
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 41,
+      "en": "Ursula VON DER LEYEN",
+      "mk1": "Урсула ФОН ДЕР ЛАЈН",
+      "mk2": "Урсула ФОН ДЕР ЛАЈЕН",
+      "score": 0.9743589743589743,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        28,
+        30
+      ],
+      "mk2_char_span": [
+        6512,
+        6533
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          41,
+          42
+        ],
+        "atom_window": [
+          28,
+          30
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 42,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "mk2": "АНЕКС",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        28,
+        30
+      ],
+      "mk2_char_span": [
+        6533,
+        6538
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          41,
+          42
+        ],
+        "atom_window": [
+          28,
+          30
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "Annexes I, VII and VIII to Regulation (EC) No 999/2001 are amended as follows:",
+      "mk1": "Анексите I, VII и VIII на Регулативата (ЕЗ) бр. 999/2001 се изменуваат како што следува:",
+      "mk2": "Анексите I, VII и VIII на кон Регулативата (ЕЗ) бр. 999/2001 се изменуваат како што следува:",
+      "score": 0.9764705882352941,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        30,
+        33
+      ],
+      "mk2_char_span": [
+        6539,
+        6631
+      ],
+      "evidence": {
+        "token_count": 27,
+        "references_preserved": true,
+        "neighbor_window": [
+          43,
+          45
+        ],
+        "atom_window": [
+          30,
+          33
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "(1)",
+      "mk1": "(1)",
+      "mk2": "(",
+      "score": 0.0,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        30,
+        33
+      ],
+      "mk2_char_span": [
+        6631,
+        6634
+      ],
+      "evidence": {
+        "token_count": 27,
+        "references_preserved": true,
+        "neighbor_window": [
+          43,
+          45
+        ],
+        "atom_window": [
+          30,
+          33
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "in Annex I, point 1 is amended as follows:",
+      "mk1": "во Анекс I, точка 1 се менува како што следува:",
+      "mk2": "1) во Анекс I, точка 1 се менува како што следува:",
+      "score": 0.9782608695652174,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        30,
+        33
+      ],
+      "mk2_char_span": [
+        6634,
+        6684
+      ],
+      "evidence": {
+        "token_count": 27,
+        "references_preserved": true,
+        "neighbor_window": [
+          43,
+          45
+        ],
+        "atom_window": [
+          30,
+          33
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 46,
+      "en": "(a)",
+      "mk1": "(а)",
+      "mk2": "(а)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        33,
+        34
+      ],
+      "mk2_char_span": [
+        6685,
+        6688
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          46,
+          46
+        ],
+        "atom_window": [
+          33,
+          34
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 47,
+      "en": "‘1.",
+      "mk1": "‘1.",
+      "mk2": "вов",
+      "score": 0.0,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        34,
+        35
+      ],
+      "mk2_char_span": [
+        6689,
+        6692
+      ],
+      "evidence": {
+        "token_count": 6,
+        "references_preserved": true,
+        "neighbor_window": [
+          47,
+          48
+        ],
+        "atom_window": [
+          34,
+          35
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 48,
+      "en": "the introductory sentence is replaced by the following:",
+      "mk1": "Воведната реченица се заменува со следното:",
+      "mk2": "едната реченица се заменува со следното:",
+      "score": 0.9629629629629629,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        34,
+        35
+      ],
+      "mk2_char_span": [
+        6692,
+        6732
+      ],
+      "evidence": {
+        "token_count": 6,
+        "references_preserved": true,
+        "neighbor_window": [
+          47,
+          48
+        ],
+        "atom_window": [
+          34,
+          35
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 49,
+      "en": "For the purpose of this Regulation, the following definitions set out in Regulation (EC) No 1069/2009 of the European Parliament and of the Council (*1), Commission Regulation (EU) No 142/2011 (*2), Regulation (EC) No 178/2002 of the European Parliament and of the Council (*3), Regulation (EC) No 767/2009 of the European Parliament and of the Council (*4), Council Directive 2006/88/EC (*5) and Regulation (EU) 2016/1012 of the European Parliament and of the Council (*6) shall apply:",
+      "mk1": "За целите на оваа регулатива, следните дефиниции дадени во Регулативата (ЕЗ) бр. 1069/2009 на Европскиот парламент и на Советот ( *1 ) , Регулатива (ЕУ) бр. 142/2011 на Комисијата ( *2 ) , Регулатива ( ЕЗ) бр. 178/2002 на Европскиот парламент и на Советот ( *3 ) , Регулатива (ЕЗ) бр. 767/2009 на Европскиот парламент и на Советот ( *4 ) , Директива 2006/88/ЕЗ на Советот ( *5 ) и Регулативата (ЕУ) 2016/1012 на Европскиот парламент и на Советот ( *6 ) се применуваат:",
+      "mk2": "„1. За целите на оваа регулатива, се применуваат следните дефиниции дадени во Регулативата (ЕЗ) бр. 1069/2009 на Европскиот парламент и на Советот (*1), Регулативата (ЕУ) бр. 142/2011 на Комисијата (**2) , Регулативата ( ЕЗ) бр. 178/2002 на Европскиот парламент и на Советот (***3) , Регулативата (ЕЗ) бр. 767/2009 на Европскиот парламент и на Советот (****4) , Директивата 2006/88/ЕЗ на Советот HYPERLINK \"%20https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0772&qid=1629839398381\" \\l \"ntr*5-L_2020184EN.01004501-E0005\"(*****5)HYPERLINK \"%20https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0772&qid=1629839398381\" \\l \"ntr*5-L_2020184EN.01004501-E0005\" и Регулативата (ЕУ) 2016/1012 на Европскиот парламент и на Советот (******6) се применуваат:",
+      "score": 0.7421383647798742,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        35,
+        37
+      ],
+      "mk2_char_span": [
+        6733,
+        7508
+      ],
+      "evidence": {
+        "token_count": 98,
+        "references_preserved": true,
+        "neighbor_window": [
+          49,
+          49
+        ],
+        "atom_window": [
+          35,
+          37
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 50,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0772&qid=1629839398381",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32020R0772&qid=1629839398381",
+      "mk2": "_______________________ (*) Регулатива (ЕЗ) бр. 1069/2009 на Европскиот пар",
+      "score": 0.11920529801324503,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        37,
+        39
+      ],
+      "mk2_char_span": [
+        7509,
+        7584
+      ],
+      "evidence": {
+        "token_count": 67,
+        "references_preserved": true,
+        "neighbor_window": [
+          50,
+          52
+        ],
+        "atom_window": [
+          37,
+          39
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 51,
+      "en": "_______________________",
+      "mk1": "_______________________",
+      "mk2": "ламент и на Советот,",
+      "score": 0.0,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        37,
+        39
+      ],
+      "mk2_char_span": [
+        7584,
+        7604
+      ],
+      "evidence": {
+        "token_count": 67,
+        "references_preserved": true,
+        "neighbor_window": [
+          50,
+          52
+        ],
+        "atom_window": [
+          37,
+          39
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 52,
+      "en": "(**) Regulation (EC) No 1069/2009 of the European Parliament and of the Council of 21 October 2009 laying down health rules as regards animal by-products and derived products not intended for human consumption and repealing Regulation (EC) No 1774/2002 (Animal by-products Regulation) (OJ L 300, 14.11.2009, p. 1).\"",
+      "mk1": "(**) Регулатива (ЕЗ) бр. 1069/2009 на Европскиот парламент и на Советот, од 21 октомври 2009 год., со која се утврдуваат здравствени правила што се однесуваат на нуспроизводи од животинско потекло и производи што не се наменети за човечка исхрана и за укинување на Регулативата (ЕЗ) бр. 1774 /2002 (Регулатива за нуспроизводи од животинско потекло) ( Сл. весник L 300, 14.11.2009 год., стр. 1 ). \"",
+      "mk2": "од 21 октомври 2009 година за, со која се утврдувањеат на здравствените правила што се однесуваат на нуспроизводи од животинско потекло и производи што не се наменети за човечка човекова исхрана и за укинување на Регулативата (ЕЗ) бр. 1774 /2002 (Регулатива за нуспроизводи од животинско потекло) ( Сл. весник L 300, 14.11.2009 година., стр. 1). \"",
+      "score": 0.8723098995695839,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        37,
+        39
+      ],
+      "mk2_char_span": [
+        7604,
+        7952
+      ],
+      "evidence": {
+        "token_count": 67,
+        "references_preserved": true,
+        "neighbor_window": [
+          50,
+          52
+        ],
+        "atom_window": [
+          37,
+          39
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 53,
+      "en": "(**) Commission Regulation (EU) No 142/2011 of 25 February 2011 implementing Regulation (EC) No 1069/2009 of the European Parliament and of the Council laying down health rules as regards animal by-products and derived products not intended for human consumption and implementing Council Directive 97/78/EC as regards certain samples and items exempt from veterinary checks at the border under that Directive (OJ L 54, 26.2.2011, p. 1).\"",
+      "mk1": "( * * ) Регулатива (ЕУ) бр. 142/2011 на Комисијата од 25 февруари 2011 година за спроведување на Регулативата (ЕЗ) бр. 1069/2009 на Европскиот парламент и на Советот за утврдување здравствени правила во однос на нуспроизводите од животинско потекло и дериватните производи кои не се наменети за потрошувачка од луѓе и имплементација на Директивата 97/78/ЕЗ нс Советот во однос на одредени примероци и предмети ослободени од ветеринарни проверки на граница според таа директива ( Сл. весник L 54, 26.2.2011 год., стр. 1 ). \"",
+      "mk2": "(**) Регулатива (ЕУ) бр. 142/2011 на Комисијата од 25 февруари 2011 година за спроведување на Регулативата (ЕЗ) бр. 1069/2009 на Европскиот парламент и на Советот за утврдување здравствени правила во однос на нус-производите од животинско потекло и дериватните производи штокои не се наменети за човечка човекова исхрана и за спроведување на Директивата 97/78/ЕЗ на Советот во однос наза одредени примероци и предмети ослободени изземени од ветеринарни проверки на граница според таа директива (Сл. весник L 54, 26.2.2011 година., стр.",
+      "score": 0.9280788177339901,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        39,
+        42
+      ],
+      "mk2_char_span": [
+        7953,
+        8489
+      ],
+      "evidence": {
+        "token_count": 210,
+        "references_preserved": true,
+        "neighbor_window": [
+          53,
+          55
+        ],
+        "atom_window": [
+          39,
+          42
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 54,
+      "en": "(***) Regulation (EC) No 178/2002 of the European Parliament and of the Council of 28 January 2002 laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety (OJ L 31, 1.2.2002, p. 1).\"",
+      "mk1": "( * ** ) Регулатива (ЕЗ) бр. 178/2002 на Европскиот парламент и на Советот од 28 јануари 2002 година за утврдување на општите принципи и барања на законот за храна, воспоставување на Европски орган за безбедност на храната и утврдување процедури во врска со безбедност на храната (Сл. весник L 31, 1.2.2002 год., стр. 1 ) “.",
+      "mk2": "1 ).\" (***) Регулатива (ЕЗ) бр. 178/2002 на Европскиот парламент и на Советот од 28 јануари 2002 година за утврдување на општите принципи и барања на законот за храна, воспоставување на Европската агенцијаиот орган за безбедност на храната и утврдување процедури во врска со безбедноста на храната (Сл. весник L 31, 1.2.2002 година.",
+      "score": 0.9576547231270358,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        39,
+        42
+      ],
+      "mk2_char_span": [
+        8489,
+        8821
+      ],
+      "evidence": {
+        "token_count": 210,
+        "references_preserved": true,
+        "neighbor_window": [
+          53,
+          55
+        ],
+        "atom_window": [
+          39,
+          42
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 55,
+      "en": "(****) Regulation (EC) No 767/2009 of the European Parliament and of the Council of 13 July 2009 on the placing on the market and use of feed, amending European Parliament and Council Regulation (EC) No 1831/2003 and repealing Council Directive 79/373/EEC, Commission Directive 80/511/EEC, Council Directives 82/471/EEC, 83/228/EEC, 93/74/EEC, 93/113/EC and 96/25/EC and Commission Decision 2004/217/EC (OJ L 229, 1.9.2009, p. 1).\"",
+      "mk1": "(****) Регулатива (ЕЗ) бр. 767/2009 на Европскиот парламент и на Советот од 13 јули 2009 година за пуштање во промет и употреба на добиточна храна, за изменување и дополнување на Регулативата (ЕЗ) бр. 1831/2003 на Европскиот парламент и на Советот и за укинување на Директивата 79/373/ЕЕЗ на Советот, Директива 80/511/ЕЕЗ на Комисијата, Директиви 82/471/ЕЕЗ, 83/228/ЕЕЗ, 93/74/ЕЕЗ, 93/113/ЕЗ и 96/25/ЕЗ на Советот и Одлука 2004/217/ЕЗ на Комисијата( Сл. весник L 229, 1.9.2009 год., стр. 1 ). \"",
+      "mk2": ", стр. 1) “. (****) Регулатива (ЕЗ) бр. 767/2009 на Европскиот парламент и на Советот од 13 јули 2009 година за пуштање во промет и употреба на сточна храна, за изменување и дополнување на Регулативата (ЕЗ) бр. 1831/2003 на Европскиот парламент и на Советот и за укинување на Директивата 79/373/ЕЕЗ на Советот, Директива 80/511/ЕЕЗ на Комисијата, Директиви 82/471/ЕЕЗ, 83/228/ЕЕЗ, 93/74/ЕЕЗ, 93/113/ЕЗ и 96/25/ЕЗ на Советот и Одлука 2004/217/ЕЗ на Комисијата (Сл. весник L 229, 1.9.2009 година., стр. 1). “",
+      "score": 0.9850107066381156,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        39,
+        42
+      ],
+      "mk2_char_span": [
+        8821,
+        9327
+      ],
+      "evidence": {
+        "token_count": 210,
+        "references_preserved": true,
+        "neighbor_window": [
+          53,
+          55
+        ],
+        "atom_window": [
+          39,
+          42
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 56,
+      "en": "(*****) Council Directive 2006/88/EC of 24 October 2006 on animal health requirements for aquaculture animals and products thereof, and on the prevention and control of certain diseases in aquatic animals (OJ L 328, 24.11.2006, p. 14).\"",
+      "mk1": "( * **** ) Директивата 2006/88/ЕЗ на Советот од 24 октомври 2006 година за здравствената состојба на животните услови за водни животни и производи од нив, како и за спречување и контрола на одредени болести кај водните животни ( Сл. весник L 328, 24.11.2006 год., стр. 14 ). \"",
+      "mk2": "(*****) Директивата 2006/88/ЕЗ на Советот од 24 октомври 2006 година за здравствената состојба на животните услови за водни животни и производи од нив, како и за спречување и контрола на одредени болести кај водните животни (Сл. весник L 328, 24.11.2006 година., стр. 14). “",
+      "score": 0.9940828402366864,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        42,
+        43
+      ],
+      "mk2_char_span": [
+        9328,
+        9602
+      ],
+      "evidence": {
+        "token_count": 44,
+        "references_preserved": true,
+        "neighbor_window": [
+          56,
+          56
+        ],
+        "atom_window": [
+          42,
+          43
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 57,
+      "en": "(******) Regulation (EU) 2016/1012 of the European Parliament and of the Council of 8 June 2016 on zootechnical and genealogical conditions for the breeding, trade in and entry into the Union of purebred breeding animals, hybrid breeding pigs and the germinal products thereof and amending Regulation (EU) No 652/2014, Council Directives 89/608/EEC and 90/425/EEC and repealing certain acts in the area of animal breeding (‘Animal Breeding Regulation’) (OJ L 171, 29.6.2016, p. 66).’;\"",
+      "mk1": "Регулатива (ЕУ) 2016/1012 на Европскиот парламент и на Советот од 8 јуни 2016 година, за зоотехнички и генеалошки услови за приплод, трговија и влез во Унијата на чистокрвни животни за приплод, свињи за хибриден приплод и герминативни производи од истата и за изменување на Регулативата (ЕУ) бр 652/2014, Директивата 89/608/ЕЕЗ на Советот и 90/425/ЕЕЗ и за укинување на одредени акти во областа на одгледување на животни (Регулатива за одгледување жигвотни\") (Сл. весник L 171, 29.6.2016 год., стр. 66).",
+      "mk2": "(******) Регулатива (ЕУ) 2016/1012 на Европскиот парламент и на Советот од 8 јуни 2016 година, за зоо-технички и генеалошки услови за приплод, трговија и влез во Унијата на чистокрвни животни за приплод, свињи за хибриден приплод и зачетни производи од истата и за изменување на Регулативата (ЕУ) бр. 652/2014, Директивитеата 89/608/ЕЕЗ на Советот и 90/425/ЕЕЗ на Советот и за укинување на одредени акти во областа на приплод на животни (Регулатива за приплод на животни\") (Сл. весник L 171, 29.6.2016 година., стр. 66).“",
+      "score": 0.9394871794871795,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        43,
+        46
+      ],
+      "mk2_char_span": [
+        9603,
+        10125
+      ],
+      "evidence": {
+        "token_count": 89,
+        "references_preserved": true,
+        "neighbor_window": [
+          57,
+          59
+        ],
+        "atom_window": [
+          43,
+          46
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 58,
+      "en": "(b)",
+      "mk1": "(б)",
+      "mk2": "(б)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        43,
+        46
+      ],
+      "mk2_char_span": [
+        10125,
+        10128
+      ],
+      "evidence": {
+        "token_count": 89,
+        "references_preserved": true,
+        "neighbor_window": [
+          57,
+          59
+        ],
+        "atom_window": [
+          43,
+          46
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 59,
+      "en": "the following point (f) is added:",
+      "mk1": "се додава следната точка (ѓ):",
+      "mk2": "се додава следната точка (ѓ):",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        43,
+        46
+      ],
+      "mk2_char_span": [
+        10128,
+        10158
+      ],
+      "evidence": {
+        "token_count": 89,
+        "references_preserved": true,
+        "neighbor_window": [
+          57,
+          59
+        ],
+        "atom_window": [
+          43,
+          46
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 60,
+      "en": "‘(f)",
+      "mk1": "‘(ѓ)",
+      "mk2": "„(ѓ)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        46,
+        47
+      ],
+      "mk2_char_span": [
+        10159,
+        10163
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          60,
+          60
+        ],
+        "atom_window": [
+          46,
+          47
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 61,
+      "en": "the definition of “endangered breed” in Article 2(24) of Regulation (EU) 2016/1012.’;",
+      "mk1": "дефиницијата за „загрозена раса“ во член 2 (24) од Регулативата (ЕУ) 2016/1012. ';",
+      "mk2": "дефиницијата за „загрозена раса“ во чЧлен 2 (24) од Регулативата (ЕУ) 2016/1012.“;",
+      "score": 0.993103448275862,
+      "status": "REVIEW",
+      "cardinality": "1:1",
+      "mk2_span": [
+        47,
+        48
+      ],
+      "mk2_char_span": [
+        10164,
+        10246
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": false,
+        "neighbor_window": [
+          61,
+          61
+        ],
+        "atom_window": [
+          47,
+          48
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 62,
+      "en": "in Annex VII, Chapter B is amended as follows:",
+      "mk1": "во Анекс VII, Поглавје Б се менува како што следува:",
+      "mk2": "( 2) во Анекс VII, Поглавје Б се менува како што следува:",
+      "score": 0.9803921568627451,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        48,
+        50
+      ],
+      "mk2_char_span": [
+        10247,
+        10304
+      ],
+      "evidence": {
+        "token_count": 11,
+        "references_preserved": true,
+        "neighbor_window": [
+          62,
+          62
+        ],
+        "atom_window": [
+          48,
+          50
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 63,
+      "en": "in point 2.2.2, the introductory paragraph is replaced by the following:",
+      "mk1": "Во точка 2.2.2, воведниот став се заменува со следното:",
+      "mk2": "(а) во точка 2.2.2, воведниот став се заменува со следното:",
+      "score": 0.9814814814814815,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        50,
+        52
+      ],
+      "mk2_char_span": [
+        10305,
+        10364
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          63,
+          63
+        ],
+        "atom_window": [
+          50,
+          52
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 64,
+      "en": "‘If BSE and atypical scrapie are excluded in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2, the holding shall be subject to the conditions set out in point (a).",
+      "mk1": "„Ако БСЕ и атипичен скрепи се исклучени во согласност со лабораториските методи и протоколи утврдени во Анекс X, Поглавје В, Дел 3, точка 3.2, стопанството е предмет на условите наведени во точка (а).",
+      "mk2": "„Ако БСЕ и атипичен скрепи се исклучени во согласност со лабораториските методи и протоколи утврдени во Анекс X, Поглавје В, Дел 3, точка 3.2, стопанството подлоежи на условите наведени во точка (а). Д",
+      "score": 0.9558441558441558,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        52,
+        53
+      ],
+      "mk2_char_span": [
+        10365,
+        10566
+      ],
+      "evidence": {
+        "token_count": 106,
+        "references_preserved": true,
+        "neighbor_window": [
+          64,
+          66
+        ],
+        "atom_window": [
+          52,
+          53
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 65,
+      "en": "In addition, pursuant to the decision of the Member State responsible for the holding, the holding shall be subject to the conditions of either option 1 set out in point (b), or option 2 set out in point (c), or option 3 set out in point (d).",
+      "mk1": "Дополнително, во согласност со одлуката на земјата -членка одговорна за стопанството, стопанството подлежи на условите на опцијата 1, утврдена во точка (б), или опција 2, утврдена во точка (в), или опција 3 утврдено во точка (г).",
+      "mk2": "ополнително, во согласност со одлуката на земјата -членка одговорна за стопанството, стопанството подлоежи на условите на опцијата 1, утврдена во точка (б), или опција 2, утврдена во точка (в), или опција 3 утврденао во точка (г).",
+      "score": 0.9930394431554525,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        52,
+        53
+      ],
+      "mk2_char_span": [
+        10566,
+        10796
+      ],
+      "evidence": {
+        "token_count": 106,
+        "references_preserved": true,
+        "neighbor_window": [
+          64,
+          66
+        ],
+        "atom_window": [
+          52,
+          53
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 66,
+      "en": "In case of a holding with a mixed ovine and caprine flock, the Member State responsible for the holding may decide to apply the conditions of one of the options to the ovine animals of the holding and a different option to the caprine animals of the holding:’;",
+      "mk1": "Во случај на стопанство со мешано стадо овци и кози, земјата -членка одговорна за стопанството може да одлучи да ги примени условите на една од опциите за овците од стопанството и различна опција за козите од стопанството: '",
+      "mk2": "Во случај на стопанство со мешано стадо овци и кози, земјата- членка одговорна за стопанството може да одлучи да ги примени условите на една од опциите за овците од стопанството и различна опција за козите од стопанството:“",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        52,
+        53
+      ],
+      "mk2_char_span": [
+        10796,
+        11020
+      ],
+      "evidence": {
+        "token_count": 106,
+        "references_preserved": true,
+        "neighbor_window": [
+          64,
+          66
+        ],
+        "atom_window": [
+          52,
+          53
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 67,
+      "en": "in point 2.2.2, the penultimate paragraph of point (b) is replaced by the following:",
+      "mk1": "во точка 2.2.2, претпоследниот став од точка (б) се заменува со следново:",
+      "mk2": "(б) во точка 2.2.2, претпоследниот став од точка (б) се заменува со следново:",
+      "score": 0.9857142857142858,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        53,
+        55
+      ],
+      "mk2_char_span": [
+        11021,
+        11098
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          67,
+          67
+        ],
+        "atom_window": [
+          53,
+          55
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 68,
+      "en": "‘Movement of animals mentioned in points (i) and (ii) from the holding to the slaughterhouse shall be allowed.’;",
+      "mk1": "„ Дозволено е движење на животни споменати во точките ( i ) и (ii) од стопанството до кланицата.“;",
+      "mk2": "„ Се дДозволуваено е преместување на животни споменати во точките (i) и (ii) од стопанството до кланицата.",
+      "score": 0.8924731182795699,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        55,
+        58
+      ],
+      "mk2_char_span": [
+        11099,
+        11205
+      ],
+      "evidence": {
+        "token_count": 28,
+        "references_preserved": true,
+        "neighbor_window": [
+          68,
+          70
+        ],
+        "atom_window": [
+          55,
+          58
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 69,
+      "en": "(c)",
+      "mk1": "(в)",
+      "mk2": "“;",
+      "score": 0.0,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        55,
+        58
+      ],
+      "mk2_char_span": [
+        11205,
+        11208
+      ],
+      "evidence": {
+        "token_count": 28,
+        "references_preserved": true,
+        "neighbor_window": [
+          68,
+          70
+        ],
+        "atom_window": [
+          55,
+          58
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 70,
+      "en": "in point 2.2.2, point (c) is replaced by the following:",
+      "mk1": "Во точка 2.2.2, точка (в) се заменува со следното:",
+      "mk2": "(в) во точка 2.2.2, точка (в) се заменува со следното:",
+      "score": 0.9787234042553191,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        55,
+        58
+      ],
+      "mk2_char_span": [
+        11208,
+        11262
+      ],
+      "evidence": {
+        "token_count": 28,
+        "references_preserved": true,
+        "neighbor_window": [
+          68,
+          70
+        ],
+        "atom_window": [
+          55,
+          58
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 71,
+      "en": "‘(c)",
+      "mk1": "‘(в)",
+      "mk2": "„(в)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        58,
+        59
+      ],
+      "mk2_char_span": [
+        11263,
+        11267
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          71,
+          71
+        ],
+        "atom_window": [
+          58,
+          59
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 72,
+      "en": "Option 2 – killing and complete destruction of the susceptible animals only",
+      "mk1": "Опција 2 - убивање и целосно уништување само на подложните животни",
+      "mk2": "Опција 2 - убивање и целосно уништување само на чувствителниподложнит",
+      "score": 0.8396946564885496,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        59,
+        62
+      ],
+      "mk2_char_span": [
+        11268,
+        11337
+      ],
+      "evidence": {
+        "token_count": 76,
+        "references_preserved": true,
+        "neighbor_window": [
+          72,
+          74
+        ],
+        "atom_window": [
+          59,
+          62
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 73,
+      "en": "The prion protein genotyping of all ovine and caprine animals present in the holding, except lambs and kids less than three months old provided that they are slaughtered for human consumption not later than when they are three months of age.",
+      "mk1": "Генотипизацијата на прионскиот протеин на сите овци и кози присутни во стопанството, освен јагнињата и јарињата помали од три месеци, под услов тие да бидат заклани за човечка исхрана не подоцна од кога ќр наполнат три месеци.",
+      "mk2": "е животни Прион-протеинското генотипизирање на сите овци и кози присутни во стопанството, освен јагнињата и јарињата помаладили од три месеци, под услов тие да бидат заклани за човечка човекова исхрана не подоцна отд кога ќе наполнат три",
+      "score": 0.8209606986899564,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        59,
+        62
+      ],
+      "mk2_char_span": [
+        11337,
+        11574
+      ],
+      "evidence": {
+        "token_count": 76,
+        "references_preserved": true,
+        "neighbor_window": [
+          72,
+          74
+        ],
+        "atom_window": [
+          59,
+          62
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 74,
+      "en": "Killing and complete destruction, without delay, of all ovine and/or caprine animals, embryos and ova identified by the inquiry referred to in the second and third indents of point 1(b), with the exception of:",
+      "mk1": "Убивање и целосно уништување, без одлагање, на сите овци и/или кози, ембриони и јајца, идентификувани со истрагата наведена во втората и третата алинеја од точка 1 (б), со исклучок на:",
+      "mk2": "месеци. Убивање и целосно уништување, без одлагање, на сите овци и/или кози, ембриони и јајца, идентификувани со истрагата наведена во втората и третата алинеја од точка 1 (б), со исклучок на:",
+      "score": 0.9805013927576601,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        59,
+        62
+      ],
+      "mk2_char_span": [
+        11574,
+        11767
+      ],
+      "evidence": {
+        "token_count": 76,
+        "references_preserved": true,
+        "neighbor_window": [
+          72,
+          74
+        ],
+        "atom_window": [
+          59,
+          62
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 75,
+      "en": "—",
+      "mk1": "—",
+      "mk2": "—",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        62,
+        63
+      ],
+      "mk2_char_span": [
+        11768,
+        11769
+      ],
+      "evidence": {
+        "token_count": 0,
+        "references_preserved": true,
+        "neighbor_window": [
+          75,
+          75
+        ],
+        "atom_window": [
+          62,
+          63
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 76,
+      "en": "breeding rams of the ARR/ARR genotype,",
+      "mk1": "Овнови за приплод на генотипот ARR/ARR.",
+      "mk2": "оОвнови за приплод на гено-типот ARR/ARR,.",
+      "score": 0.9743589743589743,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        63,
+        64
+      ],
+      "mk2_char_span": [
+        11770,
+        11812
+      ],
+      "evidence": {
+        "token_count": 6,
+        "references_preserved": true,
+        "neighbor_window": [
+          76,
+          76
+        ],
+        "atom_window": [
+          63,
+          64
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 77,
+      "en": "breeding ewes carrying at least one ARR allele and no VRQ allele and, where such breeding ewes are pregnant at the time of the inquiry, the lambs subsequently born, if their genotype meets the requirements of this subparagraph,",
+      "mk1": "овци за приплод кои носат барем еден ARL алел и VRQ алел и, кога таквите овци за приплод се бремени во времето на истрагата, јагнињата потоа се родени, доколку нивниот генотип ги исполнува барањата од овој потстав,",
+      "mk2": "— овци за приплод штокои носат барем еден алел ARRL и ниту еден алел VRQ и, кога таквите овци за приплод се бремени во времето на истрагата, јагнињата што се ојагнети потоа се родени, доколку нивниот генотип ги исполнува барањата од овој потстав,",
+      "score": 0.9022222222222223,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        64,
+        66
+      ],
+      "mk2_char_span": [
+        11813,
+        12059
+      ],
+      "evidence": {
+        "token_count": 42,
+        "references_preserved": true,
+        "neighbor_window": [
+          77,
+          77
+        ],
+        "atom_window": [
+          64,
+          66
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 78,
+      "en": "ovine animals carrying at least one ARR allele which are intended solely for human consumption,",
+      "mk1": "овци кои носат барем еден ARL алел наменети исклучиво за човечка исхрана,",
+      "mk2": "— овци штокои носат барем еден алел ARRL наменети исклучиво за човечка човекова исхрана,",
+      "score": 0.8662420382165605,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        66,
+        68
+      ],
+      "mk2_char_span": [
+        12060,
+        12148
+      ],
+      "evidence": {
+        "token_count": 13,
+        "references_preserved": true,
+        "neighbor_window": [
+          78,
+          78
+        ],
+        "atom_window": [
+          66,
+          68
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 79,
+      "en": "K222, D146 and S146,",
+      "mk1": "K222, D146 и S146",
+      "mk2": "— кози штокои носат",
+      "score": 0.12121212121212122,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        68,
+        70
+      ],
+      "mk2_char_span": [
+        12149,
+        12168
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          79,
+          80
+        ],
+        "atom_window": [
+          68,
+          70
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 80,
+      "en": "caprine animals carrying at least one of the following alleles:",
+      "mk1": "кози кои носат барем еден од следниве алели:",
+      "mk2": "барем еден од следниве алели: K222, D146 и S146,",
+      "score": 0.6363636363636364,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        68,
+        70
+      ],
+      "mk2_char_span": [
+        12168,
+        12217
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          79,
+          80
+        ],
+        "atom_window": [
+          68,
+          70
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 81,
+      "en": "if the Member State responsible for the holding so decides, lambs and kids less than three months old provided that they are slaughtered for human consumption not later than when they are three months of age.",
+      "mk1": "доколку одлучи земјата -членка одговорна за стопанството, јагнињата и јарињата помали од три месеци под услов да бидат заклани за човечка исхрана не подоцна од кога ќе наполнат три месеци.",
+      "mk2": "— доколку така одлучи земјата -членка одговорна за стопанството, јагнињата и јарињата помлади од три месеци под услов да бидат заклани за човечка човекова исхрана не подоцна отд кога ќе наполнат т",
+      "score": 0.9283819628647215,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        70,
+        73
+      ],
+      "mk2_char_span": [
+        12218,
+        12414
+      ],
+      "evidence": {
+        "token_count": 77,
+        "references_preserved": true,
+        "neighbor_window": [
+          81,
+          82
+        ],
+        "atom_window": [
+          70,
+          73
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 82,
+      "en": "The animals over 18 months of age killed for destruction, shall be tested for the presence of TSE in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2, as laid down in Annex III, Chapter A, Part II, point 5.",
+      "mk1": "Животните постари од 18 месеци убиени заради уништување, се тестираат за присуство на ТСЕ во согласност со лабораториските методи и протоколи утврдени во Анекс X, Поглавје В, Дел 3, точка 3.2, како што е утврдено во Анекс III, Поглавје А, Дел II, точка 5.",
+      "mk2": "ри месеци. Животните постари од 18 месеци убиени заради уништување, се тестираат за присуство на ТСЕ во согласност со лабораториските методи и протоколи утврдени во Анекс X, Поглавје В, Дел 3, точка 3.2, како што е утврдено во Анекс III, Поглавје А, Дел II, точка 5.",
+      "score": 0.9800796812749004,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        70,
+        73
+      ],
+      "mk2_char_span": [
+        12414,
+        12680
+      ],
+      "evidence": {
+        "token_count": 77,
+        "references_preserved": true,
+        "neighbor_window": [
+          81,
+          82
+        ],
+        "atom_window": [
+          70,
+          73
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 83,
+      "en": "By way of derogation from the conditions set out in the first and second paragraph of option 2, Member States may decide instead to carry out the measures listed in (i), (ii) or (iii):",
+      "mk1": "По исклучок од условите наведени во првиот и вториот став од опцијата 2, земјите -членки можат наместо тоа да одлучат да ги спроведат мерките наведени во ( i ), (ii) или (iii):",
+      "mk2": "По пат на отстапување од условите наведени во првиот и вториот став од опцијата 2, земјите -членки можат наместо тоа да одлучат да ги спроведат мерките наведени во (i), (ii) или (iii): (i)",
+      "score": 0.9294117647058824,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        73,
+        76
+      ],
+      "mk2_char_span": [
+        12681,
+        12869
+      ],
+      "evidence": {
+        "token_count": 58,
+        "references_preserved": true,
+        "neighbor_window": [
+          83,
+          85
+        ],
+        "atom_window": [
+          73,
+          76
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 84,
+      "en": "(i)",
+      "mk1": "(з)",
+      "mk2": "да",
+      "score": 0.0,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        73,
+        76
+      ],
+      "mk2_char_span": [
+        12869,
+        12872
+      ],
+      "evidence": {
+        "token_count": 58,
+        "references_preserved": true,
+        "neighbor_window": [
+          83,
+          85
+        ],
+        "atom_window": [
+          73,
+          76
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 85,
+      "en": "to replace the killing and complete destruction of the animals referred to in the second paragraph of option 2 by their slaughtering for human consumption, provided that:",
+      "mk1": "да го замени убивањето и целосно уништување на животните наведени во вториот став од опцијата 2 со нивно колење за човечка исхрана, под услов:",
+      "mk2": "се замени убивањето и целосното уништување на животните наведени во вториот став од опцијата 2 со нивно колење за човечка човекова исхрана, под услов:",
+      "score": 0.9375,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        73,
+        76
+      ],
+      "mk2_char_span": [
+        12872,
+        13023
+      ],
+      "evidence": {
+        "token_count": 58,
+        "references_preserved": true,
+        "neighbor_window": [
+          83,
+          85
+        ],
+        "atom_window": [
+          73,
+          76
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 86,
+      "en": "the animals are slaughtered for human consumption within the territory of the Member State responsible for the holding,",
+      "mk1": "животните се заклани за човечка исхрана на територијата на земјата -членка одговорна за стопанството,",
+      "mk2": "— животните да бидат заклани за човечка човекова исхрана на територијата на земјата -членка одговорна за стопанството,",
+      "score": 0.9107981220657277,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        76,
+        78
+      ],
+      "mk2_char_span": [
+        13024,
+        13142
+      ],
+      "evidence": {
+        "token_count": 16,
+        "references_preserved": true,
+        "neighbor_window": [
+          86,
+          86
+        ],
+        "atom_window": [
+          76,
+          78
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 87,
+      "en": "all animals over 18 months of age slaughtered for human consumption shall be tested for the presence of TSE in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2;",
+      "mk1": "сите животни постари од 18 месеци убиени заради човечка исхрана, се тестираат за присуство на ТСЕ во согласност со лабораториските методи и протоколи утврдени во Анекс X, Поглавје В, Дел 3 точка 3.2",
+      "mk2": "— сите животни постари од 18 месеци убиени заради човечка човекова исхрана, се тестираат за присуство на ТСЕ во согласност со лабораториските методи и протоколи утврдени во Анекс X, Поглавје В, Дел 3, точка 3.2;",
+      "score": 0.9774436090225563,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        78,
+        81
+      ],
+      "mk2_char_span": [
+        13143,
+        13355
+      ],
+      "evidence": {
+        "token_count": 36,
+        "references_preserved": true,
+        "neighbor_window": [
+          87,
+          88
+        ],
+        "atom_window": [
+          78,
+          81
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 88,
+      "en": "(ii)",
+      "mk1": "(ii)",
+      "mk2": "(ii)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        78,
+        81
+      ],
+      "mk2_char_span": [
+        13355,
+        13359
+      ],
+      "evidence": {
+        "token_count": 36,
+        "references_preserved": true,
+        "neighbor_window": [
+          87,
+          88
+        ],
+        "atom_window": [
+          78,
+          81
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 89,
+      "en": "to delay the genotyping and subsequent killing and complete destruction or slaughtering for human consumption of the animals referred to in the second paragraph of option 2, for a period not exceeding three months.",
+      "mk1": "да се одложи генотипизацијата и последователното убивање и целосно уништување или колење за човечка исхрана на животните наведени во вториот став од опцијата 2, за период не подолг од три месеци.",
+      "mk2": "да се одложи генотипизирањето и последователното убивање и целосно уништување или колење за човековачка исхрана на животните наведени во вториот став од опцијата 2, за период не подолг од три месеци. Ова отстапувањ",
+      "score": 0.928395061728395,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        81,
+        83
+      ],
+      "mk2_char_span": [
+        13360,
+        13574
+      ],
+      "evidence": {
+        "token_count": 77,
+        "references_preserved": true,
+        "neighbor_window": [
+          89,
+          91
+        ],
+        "atom_window": [
+          81,
+          83
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 90,
+      "en": "This derogation can be applied in situations where the index case is confirmed close to the commencement of the lambing and/or kidding season, provided that the ewes and/or goats and their new-born are kept isolated from ovine and/or caprine animals of other holdings during the whole period;",
+      "mk1": "Ова отстапување може да се примени во ситуации кога случајот се потврдува близу почетокот на сезоната на раѓање јагниња и јариња и/или , под услов овците и/или козите и нивните новородени да се чуваат изолирани од овци и/или кози од други стопанства во текот на целиот период;",
+      "mk2": "е може да се примени во ситуации кога случајот се потврдува близу почетокот на сезоната на раѓање јагнињаојагнување и/или јарињаојарување, под услов овците и/или козите и нивните новоојагнети/новоојарениродени да се чуваат изолирани од овците и/или козите од други стопанства во текот на целиот период;",
+      "score": 0.8830715532286213,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        81,
+        83
+      ],
+      "mk2_char_span": [
+        13574,
+        13877
+      ],
+      "evidence": {
+        "token_count": 77,
+        "references_preserved": true,
+        "neighbor_window": [
+          89,
+          91
+        ],
+        "atom_window": [
+          81,
+          83
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 91,
+      "en": "(iii)",
+      "mk1": "(iii)",
+      "mk2": "(iii)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        81,
+        83
+      ],
+      "mk2_char_span": [
+        13877,
+        13882
+      ],
+      "evidence": {
+        "token_count": 77,
+        "references_preserved": true,
+        "neighbor_window": [
+          89,
+          91
+        ],
+        "atom_window": [
+          81,
+          83
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 92,
+      "en": "to delay the killing and complete destruction or slaughtering for human consumption of the animals referred to in the second paragraph of option 2 for a maximum period of three years from the date of confirmation of the index case, in ovine or caprine flocks and holdings where ovine and caprine animals are kept together.",
+      "mk1": "да се одложи убивањето и целосното уништување или колење за човечка исхрана на животните наведени во вториот став од опцијата 2, за најмногу три години од датумот на потврдување на случајот, во стада овци или кози и стопанства каде што овците и козите се чуваат заедно.",
+      "mk2": "да се одложи убивањето и целосното уништување или колење за човечка човекова исхрана на животните наведени во вториот став од опцијата 2, за најмногу три години од датумот на потврдување на индекс-случајот, во стада овци или кози и стопанства каде што овците и козите се чуваат заедно. Примената на отстапувањето утврдено во овој став се ограничува на случаи кога земјата -членка одговорна за стопанството смета дека со епидемиолошката состојба не може да се постапува без убивање на соодветните животни, но дека тоа не може да се спроведе веднаш поради ниското ниво на отпорн",
+      "score": 0.6356033452807647,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        83,
+        84
+      ],
+      "mk2_char_span": [
+        13883,
+        14459
+      ],
+      "evidence": {
+        "token_count": 255,
+        "references_preserved": true,
+        "neighbor_window": [
+          92,
+          94
+        ],
+        "atom_window": [
+          83,
+          84
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 93,
+      "en": "The application of the derogation set out in the present paragraph shall be limited to cases where the Member State responsible for the holding considers that the epidemiological situation cannot be handled without killing the relevant animals, but that this cannot be carried out immediately due to the low level of resistance in the ovine and caprine population of the holding, coupled with other considerations, including economic factors.",
+      "mk1": "Примената на отстапувањето утврдено во овој став се ограничува на случаи кога земјата -членка одговорна за стопанството смета дека со епидемиолошката состојба не може да се постапува без убивање на соодветните животни, но дека тоа не може да се спроведе веднаш поради ниското ниво на отпорност кај популацијата овци и кози на стопанството, заедно со други размислувања, вклучително и економски фактори.",
+      "mk2": "ост кај популацијата на овци и кози на стопанството, заедно со други размислувања, вклучително и економски фактори. Овновите за приплод освен оние од генотипот ARR/ARR се убиваат или кастрираат без одлагање. Се спроведуваат сите можни мерки за брзо зајакнување на генетската отпорност кај популацијата на овци и/или кози на стопанството, вклучително и разумен приплод и уништување овци за да се зголеми фреквенцијата зачестеноста на алелот ARRL и да се елиминира алелот VRQ, како и одгледување на прчови штокои ги носат алелите К222K222, Д146 D146 или СS146. Земјата--членка одговорна за стопанството осигурува дека бројот на животни што треба да бидат убиени на крајот на периодот на одложување да не е поголем отколку веднаш по потврдувањето на индекс-случајот. Во случај на примена на отстапувањето утврдено во овој став, мерките наведени во точка 4 се прим",
+      "score": 0.17495987158908508,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        83,
+        84
+      ],
+      "mk2_char_span": [
+        14459,
+        15319
+      ],
+      "evidence": {
+        "token_count": 255,
+        "references_preserved": true,
+        "neighbor_window": [
+          92,
+          94
+        ],
+        "atom_window": [
+          83,
+          84
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 94,
+      "en": "Breeding rams other than those of the ARR/ARR genotype shall be killed or castrated without delay.",
+      "mk1": "Овновите за приплод освен оние од генотипот ARR/ARR се убиваат или кастрираат без одлагање.",
+      "mk2": "енуваат на стопанството до целосно уништување или колење за човечка човекова исхрана на животните наведени во вториот став од опцијата 2, по што се применуваат ограничувањата утврдени во точка 3.",
+      "score": 0.19081272084805653,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        83,
+        84
+      ],
+      "mk2_char_span": [
+        15319,
+        15514
+      ],
+      "evidence": {
+        "token_count": 255,
+        "references_preserved": true,
+        "neighbor_window": [
+          92,
+          94
+        ],
+        "atom_window": [
+          83,
+          84
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 95,
+      "en": "All possible measures to quickly build up genetic resistance in the ovine and/or caprine population of the holding shall be implemented, including reasoned breeding and culling of ewes to increase the frequency of the ARR allele and eliminate the VRQ allele, and the breeding of bucks carrying the K222, D146 or S146 alleles.",
+      "mk1": "Се спроведуваат сите можни мерки за брзо зајакнување на генетската отпорност кај популацијата на овци и/или кози на стопанството, вклучително и разумен приплод и уништување овци за да се зголеми фреквенцијата на ARL -алелот и да се елиминира VRQ -алелот, како и одгледување .на прчови кои ги носат алелите К222, Д146 или С146.",
+      "mk2": "",
+      "score": 0.30685920577617326,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 96,
+      "en": "The Member State responsible for the holding shall ensure that the number of animals to be killed at the end of the period of delay is not greater than immediately after the index case was confirmed.",
+      "mk1": "Земјата -членка одговорна за стопанството осигурува дека бројот на животни што треба да бидат убиени на крајот на периодот на одложување не е поголем отколку веднаш по потврдувањето на случајот .",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 97,
+      "en": "In the case of the application of the derogation set out in the present paragraph, the measures set out in point 4 shall apply to the holding until the complete destruction or slaughtering for human consumption of the animals referred to in the second paragraph of option 2, after which the restrictions laid down in point 3 shall be applicable.",
+      "mk1": "Во случај на примена на отстапувањето утврдено во овој став, мерките наведени во точка 4 се применуваат на стопанството до целосно уништување или колење за човечка исхрана на животните наведени во вториот став од опцијата 2, по што ќе се применуваат ограничувањата утврдени во точка 3",
+      "mk2": "",
+      "score": 0.1607843137254902,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 98,
+      "en": "Following the killing and complete destruction or slaughtering for human consumption of the animals referred to in the second paragraph of option 2, the conditions set out in point 3 shall apply to the holding.’;",
+      "mk1": "По убиството и целосно уништување или колење за човечка исхрана на животните наведени во вториот став од опцијата 2, условите утврдени во точка 3 се применуваат за стопанството. '",
+      "mk2": "",
+      "score": 0.34074074074074073,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 99,
+      "en": "(d)",
+      "mk1": "(г)",
+      "mk2": "„(г)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        87,
+        88
+      ],
+      "mk2_char_span": [
+        15762,
+        15766
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          99,
+          99
+        ],
+        "atom_window": [
+          87,
+          88
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 100,
+      "en": "in point 2.2.2, point (d) is replaced by the following:",
+      "mk1": "Во точка 2.2.2, точка (г) се заменува со следното:",
+      "mk2": "Опција 3 -– нема задолжително",
+      "score": 0.3333333333333333,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        88,
+        89
+      ],
+      "mk2_char_span": [
+        15767,
+        15796
+      ],
+      "evidence": {
+        "token_count": 10,
+        "references_preserved": false,
+        "neighbor_window": [
+          100,
+          102
+        ],
+        "atom_window": [
+          88,
+          89
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 101,
+      "en": "‘(d)",
+      "mk1": "‘(г)",
+      "mk2": "у",
+      "score": 0.0,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        88,
+        89
+      ],
+      "mk2_char_span": [
+        15796,
+        15798
+      ],
+      "evidence": {
+        "token_count": 10,
+        "references_preserved": false,
+        "neighbor_window": [
+          100,
+          102
+        ],
+        "atom_window": [
+          88,
+          89
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 102,
+      "en": "Option 3 – no mandatory killing and complete destruction of animals",
+      "mk1": "Опција 3 - нема задолжително убивање и целосно уништување на животните",
+      "mk2": "бивање и целосно уништување на животните",
+      "score": 0.7407407407407407,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        88,
+        89
+      ],
+      "mk2_char_span": [
+        15798,
+        15838
+      ],
+      "evidence": {
+        "token_count": 10,
+        "references_preserved": false,
+        "neighbor_window": [
+          100,
+          102
+        ],
+        "atom_window": [
+          88,
+          89
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 103,
+      "en": "A Member State may decide not to kill and completely destroy the animals identified by the inquiry referred to in the second and third indents of point 1(b) where the criteria laid down in at least one of the following four indents are met:",
+      "mk1": "Земја -членка може да одлучи да не ги убие и целосно уништи животните идентификувани со истрагата наведена во втората и третата алинеја од точка 1 (б), кога се исполнети критериумите утврдени во најмалку една од следниве четири алинеи",
+      "mk2": "Земја- членка може да одлучи да не ги убие и целосно уништи животните идентификувани со истрагата наведена во втората и третата алинеја од точка 1(б), кога се исполнети критериумите утврдени во најмалку една од следниве четири алинеи:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        89,
+        90
+      ],
+      "mk2_char_span": [
+        15839,
+        16073
+      ],
+      "evidence": {
+        "token_count": 38,
+        "references_preserved": true,
+        "neighbor_window": [
+          103,
+          103
+        ],
+        "atom_window": [
+          89,
+          90
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 104,
+      "en": "it is difficult to obtain replacement male ovine animals of the ARR/ARR genotype and female ovine animals carrying at least one ARR allele and no VRQ allele, or caprine animals carrying at least one of the following alleles:",
+      "mk1": "тешко е да се добијат заменски машки овци од генотипот ARR/ARR и женски овци кои носат барем еден ARL алел и без VRQ алел, или кози кои носат барем еден од следниве алели: K222, D146 и S146",
+      "mk2": "— тешко е да се добијат заменски овнови од генотипот ARR/ARR и овци штокои носат барем еден алел ARRL и ниту еден алел VRQ, или кози штокои носат барем еден од следниве алели: K222, D146 и S146 K222, D146 и S146,",
+      "score": 0.8235294117647058,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        90,
+        92
+      ],
+      "mk2_char_span": [
+        16074,
+        16286
+      ],
+      "evidence": {
+        "token_count": 40,
+        "references_preserved": true,
+        "neighbor_window": [
+          104,
+          104
+        ],
+        "atom_window": [
+          90,
+          92
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 105,
+      "en": "the frequency of the ARR allele within the ovine breed or holding or the K222, D146 or S146 alleles within the caprine breed or holding is low,",
+      "mk1": "фреквенцијата на АРЛ -алелот во расата или стопанството на овци или алелите К222, Д146 или С146 во расата или стопанството на козите е ниска,",
+      "mk2": "— зачестеностафреквенцијата на алелот ARRLАРЛ во расата овци или во стопанството на овци или на алелите КK222, DД146 или СS146 во расата кози или во стопанството на козите е ниска,",
+      "score": 0.8535031847133758,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        92,
+        94
+      ],
+      "mk2_char_span": [
+        16287,
+        16467
+      ],
+      "evidence": {
+        "token_count": 29,
+        "references_preserved": true,
+        "neighbor_window": [
+          105,
+          105
+        ],
+        "atom_window": [
+          92,
+          94
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 106,
+      "en": "it is deemed necessary in order to avoid inbreeding,",
+      "mk1": "се смета дека е потребно со цел да се избегне приплод од крвно сродство",
+      "mk2": "— се смета дека е потребно за да се избегне приплод од крвно сродство,",
+      "score": 0.9420289855072463,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        94,
+        96
+      ],
+      "mk2_char_span": [
+        16468,
+        16538
+      ],
+      "evidence": {
+        "token_count": 13,
+        "references_preserved": true,
+        "neighbor_window": [
+          106,
+          106
+        ],
+        "atom_window": [
+          94,
+          96
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 107,
+      "en": "it is deemed necessary by the Member State based on a reasoned consideration of all the epidemiological factors.",
+      "mk1": "се смета дека е потребно од страна на земјата -членка врз основа на образложено разгледување на сите епидемиолошки фактори",
+      "mk2": "— земјата членка се смета дека е потребно, од страна на земјата -членка врз основа на образложено разгледување на сите епидемиолошки фактори.",
+      "score": 0.9416342412451362,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        96,
+        98
+      ],
+      "mk2_char_span": [
+        16539,
+        16680
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          107,
+          107
+        ],
+        "atom_window": [
+          96,
+          98
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 108,
+      "en": "The prion protein genotype of all ovine and caprine animals, up to a maximum of 50 of each species, shall be determined within a period of three months from the date of confirmation of the index case of classical scrapie.",
+      "mk1": "Генотипот на приомскиот протеинот на сите овци и кози, најмногу до 50 од секој вид, се определува во период од три месеци од датумот на потврдување на случајот на класичен скрепи",
+      "mk2": "Прион-протеинскиот генотип на сите овци и кози, најмногу до 50 од секој вид, се определува во период од три месеци од датумот на потврдување на случајот на класичен скрепи. Кога ќе се откријат д",
+      "score": 0.8174386920980926,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        98,
+        100
+      ],
+      "mk2_char_span": [
+        16681,
+        16875
+      ],
+      "evidence": {
+        "token_count": 121,
+        "references_preserved": true,
+        "neighbor_window": [
+          108,
+          110
+        ],
+        "atom_window": [
+          98,
+          100
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 109,
+      "en": "When additional classical scrapie cases are detected in a holding where option 3 is being applied, the relevance of the reasons and criteria founding the decision to apply option 3 to this holding shall be reassessed by the Member State.",
+      "mk1": "Кога ќе се откријат дополнителни класични случаи на скрепи во стопанство каде што се применува опцијата 3, соодветноста на причините и критериумите за основање на одлуката за примена на опцијата 3 за ова стопанство, повторно се оценува од страна на земјата -членка.",
+      "mk2": "ополнителни случаи на класичени случаи на скрепи во стопанство каде што се применува опцијата 3, земјата членка повторно ја оценува соодветноста на причините и критериумите за основањеврз кои се заснова на одлуката за примена на опцијата 3 за ова стопанство, повторно се оценува од страна",
+      "score": 0.8117001828153565,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        98,
+        100
+      ],
+      "mk2_char_span": [
+        16875,
+        17164
+      ],
+      "evidence": {
+        "token_count": 121,
+        "references_preserved": true,
+        "neighbor_window": [
+          108,
+          110
+        ],
+        "atom_window": [
+          98,
+          100
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 110,
+      "en": "If it is concluded that applying option 3 does not ensure a proper control of the outbreak, the Member State shall switch the management of this holding from option 3 to either option 1 or option 2 as laid down in points (b) and (c).",
+      "mk1": "Доколку се заклучи дека примената на опцијата 3 не обезбедува соодветна контрола на појавата, земјата -членка го променува управувањето со ова стопанство од опција 3 во опција 1 или опција 2, како што е утврдено во точките (б) и (в)",
+      "mk2": "на земјата -членка. Доколку се заклучи дека примената на опцијата 3 не обезбедува соодветна контрола на појавата, земјата -членка го променува управувањето со ова стопанство од опција 3 во опција 1 или опција 2, како што е утврдено во точките (б) и (в).",
+      "score": 0.9615384615384616,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        98,
+        100
+      ],
+      "mk2_char_span": [
+        17164,
+        17417
+      ],
+      "evidence": {
+        "token_count": 121,
+        "references_preserved": true,
+        "neighbor_window": [
+          108,
+          110
+        ],
+        "atom_window": [
+          98,
+          100
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 111,
+      "en": "The conditions set out in point 4 shall immediately apply to a holding where it has been decided to apply option 3.",
+      "mk1": "Условите утврдени во точка 4 веднаш се применуваат за стопанство каде што е одлучено да се примени опцијата 3.",
+      "mk2": "Условите утврдени во точка 4 веднаш се применуваат за стопанство каде што е одлучено да се примени опцијата 3.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        100,
+        101
+      ],
+      "mk2_char_span": [
+        17418,
+        17528
+      ],
+      "evidence": {
+        "token_count": 19,
+        "references_preserved": true,
+        "neighbor_window": [
+          111,
+          111
+        ],
+        "atom_window": [
+          100,
+          101
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 112,
+      "en": "The Member States allowing recourse to option 3 in the management of classical scrapie outbreaks shall keep records of the reasons and criteria founding each individual application decision.’;",
+      "mk1": "Земјите -членки што дозволуваат прибегнување кон опцијата 3 во управувањето со класични епидемии на скрепи, водат евиденција за причините и критериумите за основање на секоја индивидуална одлука за апликација. ';",
+      "mk2": "Земјите -членки што дозволуваат прибегнување кон опцијата 3 во управувањето со појави на класичени појави на скрепи, водат евиденција за причините и критериумите за основање на секоја индивидуална одлука за апликација.“;",
+      "score": 0.9501187648456056,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        101,
+        104
+      ],
+      "mk2_char_span": [
+        17529,
+        17750
+      ],
+      "evidence": {
+        "token_count": 38,
+        "references_preserved": true,
+        "neighbor_window": [
+          112,
+          114
+        ],
+        "atom_window": [
+          101,
+          104
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 113,
+      "en": "(e)",
+      "mk1": "(д)",
+      "mk2": "(д)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        101,
+        104
+      ],
+      "mk2_char_span": [
+        17750,
+        17753
+      ],
+      "evidence": {
+        "token_count": 38,
+        "references_preserved": true,
+        "neighbor_window": [
+          112,
+          114
+        ],
+        "atom_window": [
+          101,
+          104
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 114,
+      "en": "point 3 is replaced by the following:",
+      "mk1": "точка 3 се заменува со следното:",
+      "mk2": "точка 3 се заменува со следното:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        101,
+        104
+      ],
+      "mk2_char_span": [
+        17753,
+        17786
+      ],
+      "evidence": {
+        "token_count": 38,
+        "references_preserved": true,
+        "neighbor_window": [
+          112,
+          114
+        ],
+        "atom_window": [
+          101,
+          104
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 115,
+      "en": "Following the killing and complete destruction or slaughtering for human consumption of all animals identified in a holding in accordance with point 2.2.1, point 2.2.2(b) or point 2.2.2(c), the following restrictions shall apply:",
+      "mk1": "По убиството и целосното уништување или колење за човечка исхрана на сите животни идентификувани во стопанство во согласност со точка 2.2.1, точка 2.2.2 (б) или точка 2.2.2 (в), се применуваат следниве ограничувања",
+      "mk2": "„3. По убивањето и целосното уништување или колење за човечка човекова исхрана на сите животни идентификувани во стопанство во согласност со точка 2.2.1, точка 2.2.2 (б) или точка 2.2.2 (в), се применуваат следниве ограничувања:",
+      "score": 0.9601873536299765,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        104,
+        107
+      ],
+      "mk2_char_span": [
+        17787,
+        18016
+      ],
+      "evidence": {
+        "token_count": 42,
+        "references_preserved": true,
+        "neighbor_window": [
+          115,
+          116
+        ],
+        "atom_window": [
+          104,
+          107
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 116,
+      "en": "3.1.",
+      "mk1": "‘3,1.",
+      "mk2": "3.,1.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        104,
+        107
+      ],
+      "mk2_char_span": [
+        18016,
+        18021
+      ],
+      "evidence": {
+        "token_count": 42,
+        "references_preserved": true,
+        "neighbor_window": [
+          115,
+          116
+        ],
+        "atom_window": [
+          104,
+          107
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 117,
+      "en": "The holding shall be subject to an intensified TSE monitoring protocol.",
+      "mk1": "Стопанството подлежи на засилен протокол за мониторинг на ТСЕ.",
+      "mk2": "Стопанството подлежи на засилен протокол за следење на ТСЕ. Ова вклучува тестирање за",
+      "score": 0.7034482758620689,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        107,
+        108
+      ],
+      "mk2_char_span": [
+        18022,
+        18108
+      ],
+      "evidence": {
+        "token_count": 78,
+        "references_preserved": true,
+        "neighbor_window": [
+          117,
+          119
+        ],
+        "atom_window": [
+          107,
+          108
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 118,
+      "en": "This shall include the testing for the presence of TSE in animals over the age of 18 months, which have died or have been killed in the holding but not in the framework of a disease eradication campaign.",
+      "mk1": "Ова вклучува тестирање за присуство на ТСЕ кај животни постари од 18 месеци, кои умреле или биле убиени во стопанството, но не во рамките на кампања за искоренување на болеста.",
+      "mk2": "присуство на ТСЕ кај животни постари од 18 месеци, кои умреле или биле убиени во стопанството, но не во рамките на кампања за искоренување на болеста. Овците од генотипот ARR/ARR и козите штокои носат барем еден од алелите K222, D146 или S146 се",
+      "score": 0.7101449275362319,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        107,
+        108
+      ],
+      "mk2_char_span": [
+        18108,
+        18353
+      ],
+      "evidence": {
+        "token_count": 78,
+        "references_preserved": true,
+        "neighbor_window": [
+          117,
+          119
+        ],
+        "atom_window": [
+          107,
+          108
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 119,
+      "en": "Ovine animals of the ARR/ARR genotype and caprine animals carrying at least one of the K222, D146 or S146 alleles are exempt.",
+      "mk1": "Овците од генотипот ARR/ARR и козите кои носат барем еден од алелите К222, Д146 или С146 се ослободени.",
+      "mk2": "ослободениизземени. Тестирањето се врши во согласност со лабораториските методи и протоколи утврдени во Анекс X, Поглавје В, Дел 3, точка 3.2.",
+      "score": 0.08403361344537816,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        107,
+        108
+      ],
+      "mk2_char_span": [
+        18353,
+        18496
+      ],
+      "evidence": {
+        "token_count": 78,
+        "references_preserved": true,
+        "neighbor_window": [
+          117,
+          119
+        ],
+        "atom_window": [
+          107,
+          108
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 120,
+      "en": "Testing shall be carried out in accordance with the laboratory methods and protocols set out in Annex X, Chapter C, Part 3, point 3.2.",
+      "mk1": "Тестирањето се врши во согласност со лабораториските методи и протоколи утврдени во Анекс X, Поглавје В, Дел 3, точка 3.2.",
+      "mk2": "",
+      "score": 0.5147679324894515,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 121,
+      "en": "Only the following animals may be introduced to the holding:",
+      "mk1": "Само следниве животни можат да се воведат во стопанството",
+      "mk2": "Само следниве животни можат да се воведат во стопанството:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        109,
+        110
+      ],
+      "mk2_char_span": [
+        18503,
+        18561
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          121,
+          121
+        ],
+        "atom_window": [
+          109,
+          110
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 122,
+      "en": "male ovine animals of the ARR/ARR genotype,",
+      "mk1": "Овнови од генотипот ARR/ARR.",
+      "mk2": "— оОвнови од генотипот ARR/ARR.",
+      "score": 0.9818181818181818,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        110,
+        112
+      ],
+      "mk2_char_span": [
+        18562,
+        18593
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          122,
+          122
+        ],
+        "atom_window": [
+          110,
+          112
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 123,
+      "en": "female ovine animals carrying at least one ARR allele and no VRQ allele,",
+      "mk1": "женски овци кои носат барем еден ARL алел и нема VRQ алел",
+      "mk2": "— овци штокои носат барем еден алел ARRL и ниту еден алел VRQ.",
+      "score": 0.6551724137931034,
+      "status": "UNMATCHED",
+      "cardinality": "1:N",
+      "mk2_span": [
+        112,
+        114
+      ],
+      "mk2_char_span": [
+        18594,
+        18656
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          123,
+          123
+        ],
+        "atom_window": [
+          112,
+          114
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 124,
+      "en": "caprine animals provided that a cleaning and disinfection of all animal housing on the premises has been carried out following destocking.",
+      "mk1": "кози под услов да се изврши чистење и дезинфекција на сите живеалишта на животни во просториите",
+      "mk2": "— кози под услов да се изврши чистење и дезинфекција на сите живеалишта на животни во просториите.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        114,
+        116
+      ],
+      "mk2_char_span": [
+        18657,
+        18755
+      ],
+      "evidence": {
+        "token_count": 16,
+        "references_preserved": true,
+        "neighbor_window": [
+          124,
+          124
+        ],
+        "atom_window": [
+          114,
+          116
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 125,
+      "en": "Only the following breeding rams, breeding bucks and ovine and caprine germinal products may be used in the holding:",
+      "mk1": "Може да се користат само следните овни за приплод, прчови за приплод и герминативни производи од овци и кози",
+      "mk2": "3.3. Може да се користат само следните овнови за приплод, прчови за приплод и зачетни производи од овци и кози:",
+      "score": 0.9209302325581395,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        116,
+        118
+      ],
+      "mk2_char_span": [
+        18756,
+        18867
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          125,
+          125
+        ],
+        "atom_window": [
+          116,
+          118
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 126,
+      "en": "semen from rams of the ARR/ARR genotype,",
+      "mk1": "Семе од овнови на генотипот ARR/ARR.",
+      "mk2": "— оОвнови од генотипот ARR/ARR.",
+      "score": 0.8253968253968254,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        118,
+        120
+      ],
+      "mk2_char_span": [
+        18868,
+        18899
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          126,
+          126
+        ],
+        "atom_window": [
+          118,
+          120
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 127,
+      "en": "embryos carrying at least one ARR allele and no VRQ allele,",
+      "mk1": "Ембриони кои носат барем еден ARL алел и немаат VRQ алел",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 128,
+      "en": "breeding bucks and caprine germinal products as defined in the measures decided by the Member State to build up genetic resistance in the caprine population of the holding.",
+      "mk1": "Прчови за приплод и герминативни производи од кози како што е дефинирано во мерките што ги одлучи земјата -членка за да се изгради генетска отпорност кај популацијата на козите на стопанството.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 129,
+      "en": "Movements of animals from the holding shall either be allowed for the purposes of destruction or shall be subject to the following conditions:",
+      "mk1": "Преместувањето на животните од стопанството или е дозволено заради уништување или подлежи на следниве услови:",
+      "mk2": "",
+      "score": 0.2916666666666667,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 130,
+      "en": "the following animals may be moved from the holding for all purposes, including breeding:",
+      "mk1": "следните животни може да се преместат од стопанството за сите намени, вклучително и за приплод:",
+      "mk2": "",
+      "score": 0.4225352112676056,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 131,
+      "en": "ARR/ARR ovine animals,",
+      "mk1": "ARR/ARR овци,",
+      "mk2": "",
+      "score": 0.22857142857142856,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 132,
+      "en": "ewes carrying one ARR allele and no VRQ allele, provided that they are moved to other holdings which are restricted following the application of measures in accordance with points 2.2.2(b) (option 1), 2.2.2(c) (option 2), or 2.2.2(d) (option 3),",
+      "mk1": "овци кои носат еден ARL алел и VRQ алел, под услов да се преместат во други стопанства кои се ограничени по примена на мерки во согласност со точките 2.2.2 (б) (опција 1), 2.2.2 (в) (опција 2 ), или 2.2.2 (г) (опција 3),",
+      "mk2": "",
+      "score": 0.31105047748976805,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 133,
+      "en": "caprine animals provided that they are moved to other holdings which are restricted following the application of measures in accordance with points 2.2.2(b) (option 1), 2.2.2(c) (option 2) or 2.2.2(d) (option 3);",
+      "mk1": "кози, под услов да се преместуваат во други стопанства кои се ограничени по примена на мерките во согласност со точките 2.2.2 (б) (опција 1), 2.2.2 (в) (опција 2 ) 2.2.2 (г) (опција 3),",
+      "mk2": "",
+      "score": 0.28205128205128205,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 134,
+      "en": "the following animals may be moved from the holding to go directly for slaughter for human consumption:",
+      "mk1": "следните животни може да се преместат од стопанството за сите намени, вклучително и за човечка исхрана:",
+      "mk2": "",
+      "score": 0.2953020134228188,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 135,
+      "en": "ovine animals carrying at least one ARR allele,",
+      "mk1": "овци кои носат барем еден ARL алел,",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 136,
+      "en": "caprine animals,",
+      "mk1": "кози",
+      "mk2": "",
+      "score": 0.26046511627906976,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 137,
+      "en": "if the Member State so decides, lambs and kids less than three months old on the date of slaughter,",
+      "mk1": "ако така одлучи земјата -членка, јагниња и јариња помали од три месеци на денот на колењето,",
+      "mk2": "",
+      "score": 0.3228915662650602,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 138,
+      "en": "all animals when the Member State has decided to apply the derogations laid down in points 2.2.2(b)(i) and 2.2.2(c)(i);",
+      "mk1": "сите животни кога земјата -членка одлучила да ги примени отстапувањата утврдени во точките 2.2.2 (б) ( i ) и 2.2.2 (в) ( i );",
+      "mk2": "",
+      "score": 0.357487922705314,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 139,
+      "en": "if the Member State so decides, lambs and kids may be moved to one other holding located within its territory solely for the purposes of fattening prior to slaughter subject to compliance with the following conditions:",
+      "mk1": "ако така одлучи земјата -членка, јагнињата и јарињата може да се преместат во друго стопанство лоцирано на нејзина територија исклучиво заради гоење пред колење, под услов да се почитуваат следниве услови:",
+      "mk2": "",
+      "score": 0.44155844155844154,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 140,
+      "en": "the holding of destination does not contain any ovine or caprine animals other than those being fattened prior to slaughter,",
+      "mk1": "Дестинациското топанство не содржи овци или кози, освен оние што се здебелени пред колење,",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 141,
+      "en": "at the end of the fattening period, the lambs and kids originating from the holdings subject to the eradication measures shall be transported directly to a slaughterhouse located within the territory of the same Member State to be slaughtered not later than when they are 12 months of age.",
+      "mk1": "на крајот на периодот на гоење, јагнињата и јарињата кои потекнуваат од стопанствата на кои се применуваат мерки за искоренување се транспортираат директно во кланица лоцирана на територијата на истата земја -членка за да бидат заклани не подоцна од кога наполниле 12 месеци.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 142,
+      "en": "The restrictions set out in points 3.1 to 3.4 shall continue to apply to the holding:",
+      "mk1": "Ограничувањата утврдени во точките 3.1 до 3.4 продолжуваат да важат за стопанството:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 143,
+      "en": "until the date of attainment of ARR/ARR status by all ovine animals in the holding, provided that no caprine animals are kept on the holding; or",
+      "mk1": "до датумот на постигнување статус ARR/ARR од сите овци во стопанството, под услов да не се чуваат кози на стопанството; или",
+      "mk2": "",
+      "score": 0.18045112781954886,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 144,
+      "en": "until the date all caprine animals on the holding carry at least one of the K222, D146 or S146 alleles, provided that no ovine animals are kept on the holding; or",
+      "mk1": "до датумот кога сите кози на стопанството носат барем еден од алелите К222, Д146 или С146, под услов да не се чуваат овци на стопанството; или",
+      "mk2": "",
+      "score": 0.3557951482479784,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 145,
+      "en": "until the date of attainment of ARR/ARR status by all ovine animals on the holding and all caprine animals on the holding carry at least one of the K222, D146 or S146 alleles; or",
+      "mk1": "до датумот на постигнување на статус ARR/ARR од сите овци на стопанството и сите кози на стопанството носат барем еден од алелите К222, Д146 или С146; или",
+      "mk2": "",
+      "score": 0.2803234501347709,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 146,
+      "en": "for a period of two years from the date when all the measures referred to in point 2.2.1, point 2.2.2(b), or point 2.2.2(c) have been completed, provided that no TSE case other than atypical scrapie is detected during this two-year period.",
+      "mk1": "за период од две години од датумот кога се завршени сите мерки наведени во точка 2.2.1, точка 2.2.2 (б), или точка 2.2.2 (в), под услов да нема друг случај на ТСЕ, освен атипичен трауг е откриен во текот на овој двегодишен период.",
+      "mk2": "",
+      "score": 0.2975778546712803,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 147,
+      "en": "If a case of atypical scrapie is confirmed during this two-year period the holding shall also be subject to the measures referred to in point 2.2.3.’;",
+      "mk1": "Доколку во овој двегодишен период се потврди случај на нетипичен скрепи, стопанството исто така подлежи на мерките наведени во точка 2.2.3.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 148,
+      "en": "(f)",
+      "mk1": "(ѓ)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 149,
+      "en": "Following the decision to implement option 3 laid down in point 2.2.2(d) or the derogation provided for in point 2.2.2(c)(iii) the following measures shall immediately apply to the holding:",
+      "mk1": "По одлуката за спроведување на опцијата 3 утврдена во точка 2.2.2 (г) или отстапувањето предвидено во точка 2.2.2 (в) (iii), следните мерки веднаш се применуваат за стопанството:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 150,
+      "en": "This shall include the testing for the presence of TSE in animals over the age of 18 months which:",
+      "mk1": "Ова вклучува тестирање за присуство на ТСЕ кај животни постари од 18 месеци кои:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 151,
+      "en": "have been slaughtered for human consumption,",
+      "mk1": "Биле заклани за човечка исхрана",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 152,
+      "en": "have died or been killed on the holding but not in the framework of a disease eradication campaign.",
+      "mk1": "умреле или биле убиени на стопанството, но не во рамките на кампања за искоренување на болести.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 153,
+      "en": "The conditions set out in points 3.2 and 3.3 shall apply.",
+      "mk1": "Се применуваат условите утврдени во точките 3.2 и 3.3.",
+      "mk2": "",
+      "score": 0.25862068965517243,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 154,
+      "en": "However, by way of derogation from points 3.2 and 3.3, a Member State may allow the introduction and use in the holding of",
+      "mk1": "Меѓутоа, по пат на отстапување од точките 3.2 и 3.3, земја -членка може да дозволи воведување и употреба во стопанството на",
+      "mk2": "",
+      "score": 0.2857142857142857,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 155,
+      "en": "male ovine animals and their semen carrying at least one ARR allele and no VRQ allele including for breeding,",
+      "mk1": "Овнови и нивното семе што носат барем еден ARL алел и ни еден VRQ алел, вклучително и за приплод,",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 156,
+      "en": "female ovine animals carrying no VRQ allele,",
+      "mk1": "овци кои немаат ниту еден алел VRQ,",
+      "mk2": "",
+      "score": 0.2698961937716263,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 157,
+      "en": "embryos carrying no VRQ allele,",
+      "mk1": "ембриони кои немаат ниту еден алел VRQ,",
+      "mk2": "",
+      "score": 0.3385579937304075,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 158,
+      "en": "subject to compliance with the following conditions:",
+      "mk1": "под услов да се почитуваат следниве услови",
+      "mk2": "",
+      "score": 0.35294117647058826,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 159,
+      "en": "the breed of the animal kept on the holding is an endangered breed,",
+      "mk1": "расата на животното што се чува на стопанството е загрозена раса,",
+      "mk2": "",
+      "score": 0.43523316062176165,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 160,
+      "en": "the breed of the animal kept on the holding is subject to a breeding programme aiming at the preservation of the breed carried out by a breed society as defined in Article 2(5) of Regulation (EU) 2016/1012 or a competent authority in accordance with Article 38 of that Regulation, and",
+      "mk1": "расата на животното што се чува на стопанството подлежи на програма за приплод чија цел е зачувување на расата што ја спроведува здружение за приплод, како што е дефинирано во член 2 (5) од Регулативата (ЕУ) 2016/1012 или надлежен орган во согласност со член 38 од таа регулатива, и",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 161,
+      "en": "the frequency of the ARR allele within that breed is low.",
+      "mk1": "фреквенцијата на ARL алелот во таа раса е ниска.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 162,
+      "en": "Movement of animals from the holding shall be allowed for the purposes of destruction or to go directly for slaughter for human consumption or shall be subject to the following conditions:",
+      "mk1": "Преместувањето на животните од стопанството е дозволено заради уништување или директно се оди на колење за човечка исхрана или подлежи на следниве услови:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 163,
+      "en": "rams and ewes of the ARR/ARR genotype and caprine animals carrying at least one of the K222, D146 or S146 alleles, may be moved from the holding for all purposes, including breeding, provided that they are moved to other holdings which are subject to the application of measures in accordance with points 2.2.2(c) (option 2) or 2.2.2(d) (option 3);",
+      "mk1": "Овнови и овците од генотипот ARR/ARR и кози кои носат барем еден од алелите К222, Д146 или С146, може да се преместат од стопанството за сите намени, вклучително и за приплод, под услов да се преместат во други стопанства кои подлежат на примена на мерките во согласност со точките 2.2.2 (в) (опција 2) или 2.2.2 (г) (опција 3);",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 164,
+      "en": "at the end of the fattening period, the lambs and kids shall be transported directly to a slaughterhouse located within the territory of the same Member State to be slaughtered not later than when they are 12 months of age.",
+      "mk1": "на крајот на периодот на гоење, јагнињата и јарињата се транспортираат директно во кланица лоцирана на територијата на истата земја -членка за да бидат заклани не подоцна од кога наполниле 12 месеци.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 165,
+      "en": "The Member State shall ensure that no semen, embryo and ova are dispatched from the holding.",
+      "mk1": "Земјата -членка осигурува дека семе, ембрион и јајца не се испраќаат од стопанството.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 166,
+      "en": "Common grazing of all ovine and caprine animals in the holding with ovine and caprine animals of other holdings shall be prohibited during the lambing and/or kidding period.",
+      "mk1": "Забрането е заедничко пасење на сите овци и кози во стопанството со овци и овци од други стопанства за време на периодот на раѓање јагниња или јариња.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 167,
+      "en": "Outside of the lambing and/or kidding period, common grazing shall be subject to restrictions to be determined by the Member State, based on a reasoned consideration of all the epidemiological factors.",
+      "mk1": "Надвор од периодот на раѓање јагниња или јариња, заедничкото пасење подлежи на ограничувања што треба да ги определи земјата -членка, врз основа на образложено разгледување на сите епидемиолошки фактори.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 168,
+      "en": "The restrictions set out in points 4.1 to 4.5 shall apply for a period of two years following the detection of the last TSE case, other than atypical scrapie, on the holdings where option 3 laid down in point 2.2.2(d) has been implemented.",
+      "mk1": "Ограничувањата утврдени во точките 4.1 до 4.5 се применуваат за период од две години по откривање на последниот случај на ТСЕ, различен од атипичен скрепи, на стопанствата каде што е имплементирана опцијата 3 утврдена во точка 2.2.2 (г)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 169,
+      "en": "in Annex VIII, point 4.1 of Section A of Chapter A is amended as follows:",
+      "mk1": "во Анекс VIII, точка 4,1 од Дел А од Поглавје А се менува како што следува:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 170,
+      "en": "in point (a), point (iii) is replaced by the following:",
+      "mk1": "во точка (а), точка (iii) се заменува со следново",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 171,
+      "en": "‘(iii)",
+      "mk1": "‘(iii)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 172,
+      "en": "in point (b), point (iii) is replaced by the following:",
+      "mk1": "во точка (б), точка (iii) се заменува со следново",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 173,
+      "en": "in the case of ovine animals, be of the ARR/ARR prion protein genotype and in the case of caprine animals, carry at least one of the K222, D146 or S146 alleles, provided they do not come from a holding subject to the restrictions set out in Annex VII, Chapter B, points 3 and 4.’;",
+      "mk1": "во случајот на овци, тие мора да бидат од прион-протеинскиот генотип ARR/ARR и во случајот на кози, да носат барем еден од алелите К222, Д146 или С146, под услов да не потекнуваат од стопанство кое подлежи на ограничувањата утврдени во Анекс VII, Поглавје Б, точки 3 и 4. ';",
+      "mk2": "",
+      "score": 0.2052980132450331,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 174,
+      "en": "in point (d), points (i), (ii) and (iii) are replaced by the following:",
+      "mk1": "во точка (г), точка (i), (ii) и (iii) се заменуваат со следново",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 175,
+      "en": "‘(i)",
+      "mk1": "'(i)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 176,
+      "en": "the breed of the animals is an endangered breed;",
+      "mk1": "расата на животните е загрозена раса;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 177,
+      "en": "the animals are entered in a breeding book for that breed in the Member State of dispatch.",
+      "mk1": "животните се внесуваат во книга за приплод за таа раса во земјата -членка на испраќање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 178,
+      "en": "This breeding book is established and maintained by a breed society, recognised in accordance with Article 4(3) of Regulation (EU) 2016/1012, or by a competent authority of that Member State, in accordance with Article 38 of that Regulation.",
+      "mk1": "Оваа книга за приплод е воспоставена и одржувана од здружението за приплод, признато во согласност со член 4 (3) од Регулативата (ЕУ) 2016/1012, или од надлежен орган на таа земја -членка, во согласност со член 38 од таа Регулатива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 179,
+      "en": "The animals are also to be entered in a breeding book for that breed in the Member State of destination.",
+      "mk1": "Животните се внесуваат во книга за приплод за таа раса во дестинациската земја-членка.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 180,
+      "en": "This breeding book is also established and maintained by a breed society, recognised in accordance with Article 4(3) of Regulation (EU) 2016/1012, or by a competent authority of that Member State in accordance with Article 38 of that Regulation;",
+      "mk1": "Оваа книга за приплод е воспоставена и одржувана од здружението за приплод, признато во согласност со член 4 (3) од Регулативата (ЕУ) 2016/1012, или од надлежен орган на таа земја -членка, во согласност со член 38 од таа Регулатива;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 181,
+      "en": "in the Member State of dispatch and in the Member State of destination, the breed societies or competent authorities referred to in point (ii) carry out a breeding programme aimed at the preservation of that breed;’;",
+      "mk1": "Во испраќачката земја членка ,и во дестинациската земја-членка, здруженијата за приплод или надлежните органи наведени во точка (ii) спроведуваат програма за приплод насочена кон зачувување на таа раса; ';",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 182,
+      "en": "in point (d), the first and second paragraphs of point (v) are replaced by the following:",
+      "mk1": "во точка (г), првиот и вториот став од точката (v) се заменуваат со следново:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 183,
+      "en": "‘following the entry of the animals not fulfilling the requirements set out in points (a) or (b) into the recipient holding in the Member State of destination, the movement of all ovine and caprine animals in that holding shall be restricted in accordance with point 3.4 of Chapter B of Annex VII, for a period of three years.",
+      "mk1": "„ по влегувањето на животните кои не ги исполнуваат условите наведени во точките (а) или (б) во стопанството во дестинациската земја -членка, преместувањето на сите овци и кози во тоа стопанство е ограничено во согласност со точка 3.4 од Поглавје Б од Анекс VII, за период од три години.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 184,
+      "en": "When the Member State of destination has negligible risk of classical scrapie or has an approved national scrapie control programme this restriction shall be maintained for a period of seven years.",
+      "mk1": "Кога дестинациската земја-членка има занемарлив ризик од класична инфекција или има одобрена национална програма за контрола на скрепи, ова ограничување се одржува во период од седум години",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 185,
+      "en": "The breed shall be subject to a breeding programme aiming at the preservation of the breed and carried out by a breed society as defined in Article 2(5) of Regulation (EU) 2016/1012 or a competent authority in accordance with Article 38 of that Regulation.’.",
+      "mk1": "Расата на животното што се чува на стопанството подлежи на програма за приплод чија цел е зачувување на расата што ја спроведува здружение за приплод, како што е дефинирано во член 2 (5) од Регулативата (ЕУ) 2016/1012 или надлежен орган во согласност со член 38 од таа регулатива,",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 186,
+      "en": "By way of derogation from the first paragraph of this point, such restriction on intra-Union trade or to movements of animals within the Member State shall not apply to animals belonging to an endangered breed, which are destined for a holding where this endangered breed is bred.",
+      "mk1": "По исклучок од првиот став од оваа точка, таквото ограничување на трговијата внатре во Унијата или движењата на животните во земјата-членка не се применуваат за животни кои припаѓаат на загрозена раса, а кои се наменети за стопанство каде што е оваа загрозена раса одгледани.'.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 187,
+      "en": "The holding shall be subject to an intensified TSE monitoring protocol.",
+      "mk1": "Стопанството подлежи на засилен протокол за мониторинг на ТСЕ",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 188,
+      "en": "If a case of atypical scrapie is confirmed during this two-year period the holding shall also be subject to the measures referred to in point 2.2.3.’;",
+      "mk1": "Доколку во овој двегодишен период се потврди случај на нетипичен скрепи, стопанството исто така подлежи на мерките наведени во точка 2.2.3. ';",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 7,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32020R0772",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COMMISSION REGULATION (EU) 2020/772",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 11 June 2020",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "amending Annexes I, VII and VIII to Regulation (EC) No 999/2001 of the European Parliament and of the Council as regards eradication measures for transmissible spongiform encephalopathies in goats and endangered breeds",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА (ЕУ) 2020/772НА КОМИСИЈАТА",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 11 јуни 2020 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување и дополнување на Анексите I, VII и VIII на Регулативата (ЕЗ) бр. 999/2001 на Европскиот парламент и на Советот во врска со мерките за искоренување на преносливите спонгиформни енцефалопатии кај козите и загрозените раси",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ветеринарна медицина",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ангела Николова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "28.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор(АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "scrapie",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "скрепи",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Microsoft PowerPoint - Naletoski [Compatibility Mode] (seerural.org)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "breeding",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "приплод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Хрватска верзија eur-lex",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Spongiform encephalopathies",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Спонгиформни енцефалопатии",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Microsoft PowerPoint - Naletoski [Compatibility Mode] (seerur",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Allel",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Алел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Хрватска верзија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Анекс, точка 1(а)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Germinal products",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Зачетни производи",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Glosbe.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEXброј",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32020R0772",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COMMISSION REGULATION (EU) 2020/772",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 11 June 2020",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "amending Annexes I, VII and VIII to Regulation (EC) No 999/2001 of the European Parliament and of the Council as regards eradication measures for transmissible spongiform encephalopathies in goats and endangered breeds",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА (ЕУ) 2020/772НА КОМИСИЈАТА",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 11 јуни 2020 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување и дополнување на Анексите I, VII и VIII на Регулативата (ЕЗ) бр. 999/2001 на Европскиот парламент и на Советот во врска со мерките за искоренување на преносливите спонгиформни енцефалопатии кај козите и загрозените раси",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ветеринарна медицина",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Мирјана Вељковиќ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "15.9.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула (4)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "European Food Safety Authority",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Европски орган за безбедност на храната",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Европск агенција за безбедност на храна",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Се наоѓаат различни преводи во референтните документи, па дури и европски авторите... усогласено е со другите преведувачи",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Сл. весник L 147, 31.5.2001 година., стр.1.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Весник на ЕФСА 2017; 15(8): 4962.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Весник на ЕФСА 2017; 15(8): 4962, стр. 4.962.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Директива 89/361/ЕЕЗ на Советот од 30 мај 1989 год., ина, за чистокрвни раси на овци и кози за приплод.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "(Сл. весник L 153, 6.6.1989 год.година, стр. 30).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Регулатива (ЕУ) 2016/1012 на Европскиот парламент и на Советот од 8 јуни 2016 год.година, за зоо-технички и генеалошки услови за приплод, трговија и влез во Унијата на чистокрвни животни за приплод, свињи за хибриден приплод и зачетни производи од истата и за изменување на Регулативата (ЕУ) бр. 652/2014, Директивата Директивите 89/608/ЕЕЗ на Советот и 90/425/ЕЕЗ на Советот и за укинување на одредени акти во областа на одгледување на животни (Регулатива за одгледување животни\") (Сл. весник L 171, 29.6.2016 година., стр. 66).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Делегирана рРегулатива (ЕУ) бр. 807/2014 на Комисијата од 11 март 2014 година за., со која се дополнување на Регулативата (ЕУ) бр. 1305/2013 на Европскиот парламент и на Советот за поддршка на руралниот развој од страна на Европскиот земјоделски фонд за рурален развој (ЕАФРД) и за воведување преодни одредби (Сл. весник L 227, 31.7.2014 година., стр. 1).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 6,
+        "text": "Сл. весник L 147, 31.5.2001 година., стр.1."
+      },
+      {
+        "ref": "2",
+        "body_index": 11,
+        "text": "Весник на ЕФСА 2017; 15(8): 4962."
+      },
+      {
+        "ref": "3",
+        "body_index": 13,
+        "text": "Весник на ЕФСА 2017; 15(8): 4962, стр. 4.962."
+      },
+      {
+        "ref": "4",
+        "body_index": 15,
+        "text": "Директива 89/361/ЕЕЗ на Советот од 30 мај 1989 год., ина, за чистокрвни раси на овци и кози за приплод. (Сл. весник L 153, 6.6.1989 год.година, стр. 30)."
+      },
+      {
+        "ref": "5",
+        "body_index": 15,
+        "text": "Регулатива (ЕУ) 2016/1012 на Европскиот парламент и на Советот од 8 јуни 2016 год.година, за зоо-технички и генеалошки услови за приплод, трговија и влез во Унијата на чистокрвни животни за приплод, свињи за хибриден приплод и зачетни производи од истата и за изменување на Регулативата (ЕУ) бр. 652/2014, Директивата Директивите 89/608/ЕЕЗ на Советот и 90/425/ЕЕЗ на Советот и за укинување на одредени акти во областа на одгледување на животни (Регулатива за одгледување животни\") (Сл. весник L 171, 29.6.2016 година., стр. 66)."
+      },
+      {
+        "ref": "6",
+        "body_index": 16,
+        "text": "Делегирана рРегулатива (ЕУ) бр. 807/2014 на Комисијата од 11 март 2014 година за., со која се дополнување на Регулативата (ЕУ) бр. 1305/2013 на Европскиот парламент и на Советот за поддршка на руралниот развој од страна на Европскиот земјоделски фонд за рурален развој (ЕАФРД) и за воведување преодни одредби (Сл. весник L 227, 31.7.2014 година., стр. 1)."
+      }
+    ]
+  },
+  "dry_run": true
+}

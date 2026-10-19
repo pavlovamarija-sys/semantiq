@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "fixtures": ["32006L0114", "32006L0126", "32006L0042"],
+  "invariants": "unchanged and passing through production reconstruction regressions",
+  "activeOutputChanged": false
+}

@@ -1,0 +1,5 @@
+{
+  "fields": ["runId", "sourceSha256", "workerVersion", "status", "pages", "blocks", "lines", "spans", "tokens", "physicalTables", "logicalTables", "rows", "cells", "MERGE", "KEEP_BOUNDARY", "ABSTAIN", "validationStatus", "durationMs", "errorCategory"],
+  "fullSourceTextLogged": false,
+  "correlation": "runId plus document transformation context"
+}

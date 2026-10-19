@@ -1,0 +1,1738 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20240326T202143Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32011L0076_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32011L0076</prop>
+    <prop type="x-SourceTMX">32011L0076_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">7e0b91da866d89cbd2e70b89cb409ba67dc90a168fb8d0b752d8f1cc693c7947</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">105</prop>
+  </header>
+  <body>
+    <tu creationdate="20240326T202242Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240326T202318Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220743Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>DIRECTIVE 2011/76/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВА 2011/76/ЕУ НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240326T202318Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240326T202337Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220743Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2628877623958060794, 7064924233083586906</prop>
+      <prop type="x-ContextContent">DIRECTIVE 2011/76/EU OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL |  | ДИРЕКТИВА 2011/76/ЕУ НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 27 September 2011</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 27 септември 2011 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240326T202337Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T204943Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220743Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3657596318, -2974083973345206439</prop>
+      <prop type="x-ContextContent">of 27 September 2011 |  | од 27 септември 2011 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>amending Directive 1999/62/EC on the charging of heavy goods vehicles for the use of certain infrastructures</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за изменување на Директивата 1999/62/EЗ за наплатување давачки за тешки товарни возила за употреба на одредени инфраструктури</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240206T114921Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240326T202517Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220743Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1084855810185321387, 4057607570274938834</prop>
+      <prop type="x-ContextContent">amending Directive 1999/62/EC on the charging of heavy goods vehicles for the use of certain infrastructures |  | за изменување на Директивата 1999/62/EЗ за наплатување давачки за тешки товарни возила за употреба на одредени инфраструктури | </prop>
+      <prop type="x-Context">5863551301, 6783988846</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Text with EEA relevance)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Текст со важност за ЕЕО)</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210209T145351Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240326T202519Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220743Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2094311973019752702, -693899598895376172</prop>
+      <prop type="x-ContextContent">(Text with EEA relevance) |  | (Текст со важност за ЕЕО) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240326T202522Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240326T202536Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220743Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7124098552985558198, -4614663339850189355</prop>
+      <prop type="x-ContextContent">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, |  | ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Article 91(1) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирањето на Европската Унија, а особено член 91(1) од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231207T164536Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T204952Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220743Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8229639682514783868, -3562062928975399014</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 91(1) thereof, |  | имајќи го предвид Договорот за функционирањето на Европската Унија, а особено член 91(1) од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240326T202821Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240326T202826Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240326T202826Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7799275716982960255, 363684144863454645</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the European Commission, |  | имајќи го предвид предлогот на Европската комисија, | </prop>
+      <prop type="x-Context">4299941085, 5206965070</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Opinion of the European Economic and Social Committee<ph x="1" type="293" />,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид мислењето на Европскиот економско-социјален комитет,</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240401T203021Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240401T203035Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240401T203035Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2569003191, 4578814109</prop>
+      <prop type="x-Context">7513793921852712560, 4044633538491158480</prop>
+      <prop type="x-ContextContent">In particular, where a Member State collects tolls or user charges exclusively by means of a system that requires the use of a vehicle on-board unit, it shall ensure that appropriate on-board units compliant with the requirements of Directive 2004/52/EC of the European Parliament and of the Council of 29 April 2004 on the interoperability of electronic road toll systems in the Community can be obtained by all users under reasonable administrative and economic arrangements. | AQEAAACFAQAAAwEAAAABAAAAAQQxOTY5AA== | Особено, кога една земја членка наплатува патарини или давачки за корисници исклучиво со систем кој бара користење на уред монтиран внатре во возилото, таа обезбедува дека сите корисници можат, под разумни административни и економски аранжмани, да добијат соодветни уреди кои се монтираат внатре во возилата, кои се во согланост со барањата на Директивите 2004/52/ЕЗ на Европскиот парламент и на Советот од 29 април 2004 година за интероперабилноста на електронските системи за патарина во Заедницата. | AQEAAAD0AQAAAwEAAAABAAAAAQQxOTY5AA==</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>OJ L 166, 30.4.2004, p. 124<bpt i="1" type="230" />.’;<ept i="1" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(***) Сл. весник L 134, 30.4.2004 година, стр. 114.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">234</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T192627Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T192908Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032205, 2032205</prop>
+      <prop type="x-ContextContent">‘1a. |  | „1a. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Directive shall not prevent the non-discriminatory application by Member States of regulatory charges specifically designed to reduce traffic congestion or combat environmental impacts, including poor air quality, on any roads located in an urban area, including trans-European network roads crossing urban areas.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„1a.Оваа директива не ја попречува недискриминаторската примена на регулаторните давачки, од страна на земјите членки, кои се специјално проектирани за намалување на сообраќајниот метеж или борбата против влијанијата врз животната средина, вклучувајќи го и лошиот квалитет на воздухот, на сите патишта што поминуваат низ урбана област, вклучувајќи ги и трансевропските мрежни патишта што ги преминуваат пресекуваат урбаните области.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">248</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T195657Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T214158Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3115731936499227603, -7194275047077550041</prop>
+      <prop type="x-ContextContent">(b)	reducing road transport pollution at source; |  | (б)	намалување на загадувањето на патниот сообраќај на изворот; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	mitigating the effects of road transport pollution at source;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)намалување на ефектите од загадувањето на патниот сообраќај на изворот;</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">255</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T195759Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T195807Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8710287445244289927, 8272595735592326014</prop>
+      <prop type="x-ContextContent">(f)	supporting the trans-European transport network; |  | (ѓ)	поддршка на трансевропската транспортна мрежа; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(g)	optimising logistics;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(е)оптимизација на логистиката;</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">259</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T195807Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T195817Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6377519330779162640, -3898236234192634187</prop>
+      <prop type="x-ContextContent">(g)	optimising logistics; |  | (е)	оптимизација на логистиката; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(h)	improving road safety; and</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ж)подобрување на безбедноста на патиштата; и</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">260</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T195817Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T195829Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4870940259922905454, 4223198122320327230</prop>
+      <prop type="x-ContextContent">(h)	improving road safety; and |  | (ж)	подобрување на безбедноста на патиштата; и | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(i)	providing secure parking places.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(з)овозможување на безбедни места за паркирање.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">261</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T195830Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T195901Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5750079718599507907, 6537531485479444115</prop>
+      <prop type="x-ContextContent">(i)	providing secure parking places. |  | (з)	овозможување на безбедни места за паркирање. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This paragraph shall be deemed to be applied by Member States, if they have in place and implement fiscal and financial support policies which leverage financial support to the trans-European network and which have an equivalent value of at least 15 % of the revenues generated from infrastructure and external cost charges in each Member State.’;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Овој став се смета дека го применуваат земјите членки,; доколку тие имаат во сила и спроведуваат политики за фискална и финансиска поддршка кои ја користат финансиската поддршка на трансевропската мрежа и кои имаат еквивалентна вредност од најмалку 15 % од приходите генерирани од инфраструктурни и надворешни трошоци во секоја земја членка.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">262</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T200009Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T200050Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3364486069729915, 142433667361</prop>
+      <prop type="x-ContextContent">‘Article 9b |  | „Член 9б | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Commission shall facilitate dialogue and the exchange of technical know-how between Member States in relation to the implementation of this Directive and in particular the Annexes.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„Член 9б Комисијата го овозможува дијалогот и размената на техничко знаење меѓу земјите членки во однос на спроведувањето на оваа директива, а особено на анексите.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">265</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T200051Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T200057Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2700250922231307490, 1719690433026776961</prop>
+      <prop type="x-ContextContent">The Commission shall facilitate dialogue and the exchange of technical know-how between Member States in relation to the implementation of this Directive and in particular the Annexes. |  | Комисијата го овозможува дијалогот и размената на техничко знаење меѓу земјите членки во однос на спроведувањето на оваа директива, а особено на анексите. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 9c</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 9в</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">266</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T200058Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T200101Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Commission shall be assisted by a committee.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.На Комисијата ѝ помага комитет</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">267</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T200105Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T200310Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4192143552342401080, 3374539742463145711</prop>
+      <prop type="x-ContextContent">The Commission shall be assisted by a committee. |  | На Комисијата ѝ помага комитет. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>That committee shall be a committee within the meaning of Regulation (EU) No 182/2011of the European Parliament and of the Council of 16 February 2011 laying down the rules and general principles concerning mechanisms for control by Member States of the Commission’s exercise of implementing powers<ph x="1" type="2225" />.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. Тој комитет е комитет во рамките на значењето на Регулативата (ЕУ) бр. 182/2011 на Европскиот парламент и на Советот од 16 февруари 2011 година за утврдување на правилата и општите принципи во врска со механизмите за контрола од страна на земјите членки над спроведувањето на овластувањата на Комисијата(*).</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">268</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T200431Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T203213Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3364486069729915, 142433667361</prop>
+      <prop type="x-ContextContent">Article 9f |  | Член 9ѓ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Commission shall adopt delegated acts in accordance with Article 290 of the Treaty on the Functioning of the European Union as regards:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Комисијата усвојувадонесува делегирани акти во согласност со член 290 од Договорот за функционирање на Европската Унија во однос н</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">272</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T200536Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T214359Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-365572018196095072, -4535887036737560427</prop>
+      <prop type="x-ContextContent">The Commission shall adopt delegated acts in accordance with Article 290 of the Treaty on the Functioning of the European Union as regards: |  | Комисијата усвојува делегирани акти во согласност со член 290 од Договорот за функционирање на Европската Унија во однос на: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>—	the adaptation of Annex 0 to the Union <bpt i="1" type="2255" x="1" />acquis<ept i="1" />,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а: —прилагодувањето на Анекс 0 кон acquis на Унијата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">273</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T200642Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T214408Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5888648392705190229, -3771280438098893585</prop>
+      <prop type="x-ContextContent">—	the adaptation of Annex 0 to the Union acquis, | AgIpAQEBAQQyMjU1AQYCAQEEMjI1NQE= | —	прилагодувањето на Анекс 0 кон acquis на Унијата, | AgIhAQEBAQQyMjU1AQYCAQEEMjI1NQE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>—	the adaptation of the formulas of sections 4.1 and 4.2 of Annex IIIa to scientific and technical progress.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>—прилагодувањето на формулите од Одделите одделите 4.1 и 4.2 од Анекс IIIа кон научниот и техничкиот напред</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">274</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T200718Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T200739Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240402T200739Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4946717357, 1746976646</prop>
+      <prop type="x-Context">-4061749776503489493, -6441010462577941118</prop>
+      <prop type="x-ContextContent">—	the adaptation of the formulas of sections 4.1 and 4.2 of Annex IIIa to scientific and technical progress. |  | —	прилагодувањето на формулите од Одделите 4.1 и 4.2 од Анекс IIIа кон научниот и техничкиот напредок. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The procedures set out in Articles 9e, 9f and 9g shall apply to the delegated acts referred to in this Article.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ок. Постапките утврдени во членовите 9д, 9ѓ и 9е се однесуваат на делегираните акти наведени во овој член.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">275</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T200740Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T200744Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-256900101443224698, -4327234419940445890</prop>
+      <prop type="x-ContextContent">The procedures set out in Articles 9e, 9f and 9g shall apply to the delegated acts referred to in this Article. |  | Постапките утврдени во членовите 9д, 9ѓ и 9е се однесуваат на делегираните акти наведени во овој член. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 9e</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 9д</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">276</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T200805Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T203214Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The power to adopt the delegated acts referred to in Article 9d shall be conferred on the Commission for an indeterminate period of time.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.Овластувањето за усвојувадонесување на делегирани акти наведено во член 9г ѝ се доделува на Комисијата за неодреден временски пери</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">277</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T200916Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T200942Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>As soon as it adopts a delegated act, the Commission shall notify it simultaneously to the European Parliament and the Council.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од. 2.Веднаш штом ќе донесе делегиран акт, Комисијата за тоа истовремено гои известува Европскиот парламент и Советот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">278</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201013Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T203214Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The power to adopt delegated acts is conferred on the Commission subject to the conditions laid down in Articles 9f and 9g.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.Овластувањето за усвојувадонесување на делегирани акти ѝ се доделува на Комисијата и подлежи на условите утврдени во членовите 9ѓ и</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">279</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201058Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T201117Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The delegation of power referred to in Article 9d may be revoked by the European Parliament or by the Council.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>н 9ѓ 1.Делегирањето на овластувањето наведено во член 9г може да биде отповикано во од страна на Европскиот парламент или од Советот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">281</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201119Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T201354Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The institution which has commenced an internal procedure for deciding whether to revoke the delegation of power shall endeavour to inform the other institution and the Commission within a reasonable time before the final decision is taken, indicating the delegated power which could be subject to revocation and possible reasons for a revocation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Институцијата која започнала интерна процедура за одлучување дали да го отповика делегирањето на овластувањето гија информира другата институција и Комисијата во разумен рок пред да се донесе конечната одлука, наведувајќи го делегираното овластување кое може да биде предмет на отповикување и можните причини за отповикување.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">282</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201356Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T201436Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The decision of revocation shall put an end to the delegation of the power specified in that decision and shall take effect immediately or at a later date specified therein.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.Одлуката за отповикување го завршува делегирањето на овластувањето наведено во таа одлука и стапува навлегува во сила веднаш или на подоцнежен датум наведен во</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">283</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201437Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T201456Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5701283210622379733, 1364224819590548309</prop>
+      <prop type="x-ContextContent">The decision of revocation shall put an end to the delegation of the power specified in that decision and shall take effect immediately or at a later date specified therein. |  | Одлуката за отповикување го завршува делегирањето на овластувањето наведено во таа одлука и стапува на сила веднаш или на подоцнежен датум наведен во неа. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>It shall not affect the validity of the delegated acts already in force.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>неа. Таа не влијае на важноста на сите делегирани акти кои веќе се во сил</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">284</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201448Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T201513Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7920459778556588961, -8409671667607430589</prop>
+      <prop type="x-ContextContent">It shall not affect the validity of the delegated acts already in force. |  | Таа не влијае на важноста на сите делегирани акти кои веќе се во сила. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>It shall be published in the <bpt i="1" type="2348" x="1" />Official Journal of the European Union<ept i="1" />.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а. Таа се објавува во Службениот весник на Европската Унија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">285</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201513Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T201526Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5291747805524637537, 2536495732089193656</prop>
+      <prop type="x-ContextContent">It shall be published in the Official Journal of the European Union. | AgIdAQEBAQQyMzQ4ASYCAQEEMjM0OAE= | Таа се објавува во Службениот весник на Европската Унија. | AgITAQEBAQQyMzQ4ASUCAQEEMjM0OAE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 9g</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 9е</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">286</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201535Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T201552Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6155858507675218770, -8763426278262445617</prop>
+      <prop type="x-ContextContent">The European Parliament or the Council may object to a delegated act within a period of two months from the date of notification. |  | Европскиот парламент или Советот можат да се спротивстават на делегиран акт во рок од два месеци од датумот на известувањето. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>At the initiative of the European Parliament or the Council this period shall be extended by two months.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>стувањето. На иницијатива на Европскиот парламент или на Советот овој период се продолжува за два месециа.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">288</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201553Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T201646Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>If, on expiry of that period, neither the European Parliament nor the Council has objected to the delegated act, it shall be published in the <bpt i="1" type="2378" x="1" />Official Journal of the European Union<ept i="1" /> and shall enter into force at the date stated therein.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Доколку, по истекот на тој период, ниту Европскиот парламент, ниту Советот не му се спротивставатподнесат приговор за на делегираниот акт, истиот се објавува во Службениот весник на Европската Унија и стапувавлегува во сила на денот наведен во</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">289</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201647Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T201736Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3092783360229612087, 5002902000755335870</prop>
+      <prop type="x-ContextContent">If, on expiry of that period, neither the European Parliament nor the Council has objected to the delegated act, it shall be published in the Official Journal of the European Union and shall enter into force at the date stated therein. | AgKOAQEBAQQyMzc4ASYCAQEEMjM3OAE= | Доколку, по истекот на тој период, ниту Европскиот парламент, ниту Советот не се спротивстават на делегираниот акт, истиот се објавува во Службениот весник на Европската Унија и стапува во сила на денот наведен во него. | AgaKAQEAAQZJdGFsaWMBCgIBAQZJdGFsaWMBAAECAQEEMjM3OAEAAQMAAQZJdGFsaWMBGwIDAQZJdGFsaWMBAAICAQQyMzc4AQ==</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The delegated act may be published in the <bpt i="1" type="2387" x="1" />Official Journal of the European Union<ept i="1" /> and enter into force before the expiry of that period if the European Parliament and the Council have both informed the Commission of their intention not to raise objections.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>него. Делегираниот акт може да се објави во Службениот весник на Европската Унија и да стапи навлезе во сила пред истекот на тој период, ако Европскиот парламент и Советот ја информирале Комисијата за нивната намера да не покренуваат поднесуваат приговори.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">290</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201838Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T201842Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5412700852892754065, 8636316769498760201</prop>
+      <prop type="x-ContextContent">(7)	after Article 10, the following Article is inserted: |  | (7)	по членот 10 се вметнува следниот член: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘Article 10a</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„Член 10a</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">295</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T201900Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T202159Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The amounts in euro as laid down in Annex II and the amounts in cent as laid down in Tables 1 and 2 in Annex IIIb shall be reviewed every two years starting on 1 January 2013, in order to take account of changes in the EU-wide Harmonised Index of Consumer Prices excluding energy and unprocessed food (as published by the Commission (Eurostat)).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.Сумите во евро евра како што е утврдено во Анекс II и сумите во центи како што е утврдено во табелите 1 и 2 во Анекс IIIб се ревидираат на секои две години почнувајќи од 1 јануари 2013 година, со цел да се земат предвид промените во Усогласениот индекс на потрошувачките цени на ниво на ЕУ, освен енергијата и непреработената храна (објавен од Комисијата (Евростат</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">296</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T202200Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T202223Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6588409925515789747, -5579562426017265986</prop>
+      <prop type="x-ContextContent">The amounts in euro as laid down in Annex II and the amounts in cent as laid down in Tables 1 and 2 in Annex IIIb shall be reviewed every two years starting on 1 January 2013, in order to take account of changes in the EU-wide Harmonised Index of Consumer Prices excluding energy and unprocessed food (as published by the Commission (Eurostat)). |  | Сумите во евро како што е утврдено во Анекс II и сумите во центи како што е утврдено во табелите 1 и 2 во Анекс IIIб се ревидираат на секои две години почнувајќи од 1 јануари 2013 година, со цел да се земат предвид промените во Усогласениот индекс на потрошувачките цени на ниво на ЕУ, освен енергијата и непреработената храна (објавен од Комисијата (Евростат)). | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The amounts shall be adapted automatically, by increasing the base amount in euro or cent by the percentage change in that index.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>)). Сумите автоматски се прилагодуваат, со зголемување на основната сума во евра или пценти за процентуалната промена во тој индек</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">297</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T202217Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T202343Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3447853665376555381, -8022314359212573385</prop>
+      <prop type="x-ContextContent">The amounts shall be adapted automatically, by increasing the base amount in euro or cent by the percentage change in that index. |  | Сумите автоматски се прилагодуваат, со зголемување на основната сума во евра или пценти за процентуалната промена во тој индекс. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The resulting amounts shall be rounded up to the nearest euro with regard to Annex II, rounded up to the nearest tenth of a cent with regard to Table 1 in Annex IIIb and rounded up to the nearest hundredth of a cent with regard to Table 2 in Annex IIIb.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>с. Добиените износи се заокружени вредности до најблиското евро во однос на Анекс II, заокружени вредности до најблиската десетина од еден цент во однос на Табела 1 во Анекс IIIб и заокружени вредности до најблиската стотинка од еден цент во однос на Табела 2 во Анекс IIIб.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">298</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T202344Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T214610Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Commission shall publish in the <bpt i="1" type="2477" />Official Journal of the European Union<ept i="1" /> the adapted amounts referred to in paragraph 1.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Комисијата во Службениот весник на Европската Унија ги објавува прилагодените износи наведени во став 1. Ти</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">299</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T202455Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T202537Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240402T202537Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8574300241914271622, -9070569271982428448</prop>
+      <prop type="x-ContextContent">The Commission shall publish in the Official Journal of the European Union the adapted amounts referred to in paragraph 1. | AgIkAQEAAQQyNDc3ASYCAQEEMjQ3NwE= | Комисијата во Службениот весник на Европската Унија ги објавува прилагодените извоси наведени во став 1. | AgIOAQEAAQZJdGFsaWMBJQIBAQZJdGFsaWMB</prop>
+      <prop type="x-Context">7809605574, 6816851576</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Those adapted amounts shall enter into force on the first day of the month following publication.’;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>е прилагодени износи стапувавлегуваат во сила на првиот ден од месецот по објавувањето.“</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">300</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T202538Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T202547Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6400484968206522013, -1396213679709834245</prop>
+      <prop type="x-ContextContent">Those adapted amounts shall enter into force on the first day of the month following publication.’; |  | Тие прилагодени износи стапуваат во сила на првиот ден од месецот по објавувањето.“; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(8)	Article 11 is replaced by the following:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (8)член 11 се заменува со следното:</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">301</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T202734Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T202821Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7596968648303963945, 2690849165005266661</prop>
+      <prop type="x-ContextContent">By 16 October 2014, and every four years thereafter, Member States which levy an external-cost charge and/or an infrastructure charge shall draw up a report on tolls, including concession tolls, levied on their territory and shall forward it to the Commission which shall make it available to the other Member States. |  | Од 16 октомври 2014 година, и на секои четири години потоа, земјите членки кои наметнуваат давачки за надворешни трошоци и/или давачки за инфраструктура изготвуваат извештај за патарините, вклучувајќи ги и патарините под концесија, наметнати на нивната територија и истиот го доставуваат до Комисијата која истиот го прави достапен за другите земји членки. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>That report may exclude tolling arrangements that were already in place on 10 June 2008 and which do not include external-cost charges, as long as those arrangements remain in force and provided that they are not substantially amended.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ји членки. Овој извештај може да ги исклучи аранжманите за патарина кои веќе билееа во сила на 10 јуни 2008 година и кои не вклучуваат давачки за надворешни трошоци, сеè додека тие аранжмани остануваат во сила и под услов тие да не се значително изменети.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">303</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T202821Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T202826Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6589153761769966912, -7413365792443042388</prop>
+      <prop type="x-ContextContent">That report may exclude tolling arrangements that were already in place on 10 June 2008 and which do not include external-cost charges, as long as those arrangements remain in force and provided that they are not substantially amended. |  | Овој извештај може да ги исклучи аранжманите за патарина кои веќе беа во сила на 10 јуни 2008 година и кои не вклучуваат давачки за надворешни трошоци, се додека тие аранжмани остануваат во сила и под услов тие да не се значително изменети. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>That report shall comprise information on:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Извештајот содржи информации за:</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">304</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T202826Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T202905Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3068259545925790721, 9014657648212711345</prop>
+      <prop type="x-ContextContent">That report shall comprise information on: |  | Извештајот содржи информации за: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the weighted average external-cost charge and the specific amounts levied for each combination of class of vehicle, type of road and period of time;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(a)пондерирана просечна давачка за надворешни трошоци и специфични износи наметнативоведени за секоја комбинација на класа на возило, тип на пат и временски пери</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">305</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T202905Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T202948Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8980026629993306961, 950847469189412934</prop>
+      <prop type="x-ContextContent">(a)	the weighted average external-cost charge and the specific amounts levied for each combination of class of vehicle, type of road and period of time; |  | (a)	пондерирана просечна давачка за надворешни трошоци и специфични износи наметнати за секоја комбинација на класа на возило, тип на пат и временски период; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the variation of infrastructure charges according to the type of vehicles and time;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од; (б)менувањето на давачките за инфраструктура во зависност од типот на возилата и времето</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">306</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T202934Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T203044Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2296261359024776408, -1977558350374345072</prop>
+      <prop type="x-ContextContent">(b)	the variation of infrastructure charges according to the type of vehicles and time; |  | (б)	менувањето на давачките за инфраструктура во зависност од типот на возилата и времето; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	the weighted average infrastructure cost charge and total revenue raised through the infrastructure charge;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (в)пондерирана просечна давачка за трошок за инфратструктура и вкупен приход зголемен преку давачката за инфраструктура;</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">307</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203045Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T203104Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8216292226751300676, 1658682945946559907</prop>
+      <prop type="x-ContextContent">(c)	the weighted average infrastructure cost charge and total revenue raised through the infrastructure charge; |  | (в)	пондерирана просечна давачка за трошок за инфратсрукура и вкупен приход зголемен преку давачката за инфраструктура; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	the total revenue raised through external cost charges; and</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)вкупниот приход остварен преку давачките за надворешни трошоци; и</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">308</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203105Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204509Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1041647228484529300, -2752782556276238378</prop>
+      <prop type="x-ContextContent">(d)	the total revenue raised through external cost charges; and |  | (г)	вкупниот приход остварен преку давачките за надворешни трошоци; и | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	the actions taken pursuant to Article 9(2).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д)дејствата преземени во согласност со член 9(2).</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">309</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203127Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T203252Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>By 16 October 2015, the Commission, assisted by the Committee referred to in Article 9c, shall present a report to the European Parliament and the Council on the implementation and effects of this Directive, in particular as regards the effectiveness of the provisions on the recovery of the costs related to traffic-based pollution, and on the inclusion of vehicles of more than 3,5 and less than 12 tonnes.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.До 16 октомври 2015 година, Комисијата, помогната од Комитетот наведен во член 9в, поднесува извештај до Европскиот парламент и до Советот за спроведувањето и ефектите од оваа директива, особено во однос на ефективноста на одредбите за наплата на трошоците поврзани со загадувањето од сообраќајот, како и за вклучување на возила од повеќе од 3,5 тони и помалку од 12 тони.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">310</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203252Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T203309Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8056962068237747250, 5841140092769929283</prop>
+      <prop type="x-ContextContent">By 16 October 2015, the Commission, assisted by the Committee referred to in Article 9c, shall present a report to the European Parliament and the Council on the implementation and effects of this Directive, in particular as regards the effectiveness of the provisions on the recovery of the costs related to traffic-based pollution, and on the inclusion of vehicles of more than 3,5 and less than 12 tonnes. |  | До 16 октомври 2015 година, Комисијата, помогната од Комитетот наведен во член 9в, поднесува извештај до Европскиот парламент и до Советот за спроведувањето и ефектите од оваа директива, особено во однос на ефективноста на одредбите за наплата на трошоците поврзани со загадувањето од сообраќајот, како и за вклучување на возила од повеќе од 3,5 тони и помалку од 12 тони. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The report shall also analyse, based on continuous monitoring, and assess, amongst others:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Извештајот, исто така, врши анализаира, врз основа на континуирано следење и оценување, меѓу другото на</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">311</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203309Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T220716Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1200038038702183201, 1529248363219044906</prop>
+      <prop type="x-ContextContent">The report shall also analyse, based on continuous monitoring, and assess, amongst others: |  | Извештајот, исто така, врши анализира, врз основа на континуирано следење и оценување, меѓу другото на: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the effectiveness of the measures foreseen in this Directive in order to tackle negative impacts caused by road transport taking also into account, in particular, the impact on geographically isolated and peripheral Member States;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>: (а)ефективноста на мерките предвидени во оваа директива за справување со негативните влијанија предизвикани од патниот транспорт, земајќи го предвид, особено, влијанието врз географски изолираните и периферните земји членки;</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">312</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203341Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T203423Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240402T203423Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5848379524, 2322196977</prop>
+      <prop type="x-Context">5361866995838109978, 6564454550386663569</prop>
+      <prop type="x-ContextContent">(a)	the effectiveness of the measures foreseen in this Directive in order to tackle negative impacts caused by road transport taking also into account, in particular, the impact on geographically isolated and peripheral Member States; |  | (а)	ефективноста на мерките предвидени во оваа директива за справување со негативните влијанија предизвикани од патниот транспорт, земајќи го предвид, особено, влијанието врз географски изолираните и периферните земји членки; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the effect of the implementation of this Directive to direct users toward the most environmentally friendly and efficient transport solutions and shall include information on the introduction of distance-based charges;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б) влијанието на спроведувањето на оваа директива врз насочувањето на корисниците кон еколошки и ефикасни транспортни решенија и вклучува информации за воведување давачки базирани засновани на растој</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">313</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203423Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T203522Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8037642844234253631, -1696791808200600179</prop>
+      <prop type="x-ContextContent">(b)	the effect of the implementation of this Directive to direct users toward the most environmentally friendly and efficient transport solutions and shall include information on the introduction of distance-based charges; |  | (б)	 влијанието на спроведувањето на оваа директива врз насочувањето на корисниците кон еколошки и ефикасни транспортни решенија и вклучува информации за воведување давачки базирани на растојание; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	the implementation and effect of the variation of infrastructure charges as referred to in Article 7g on the reduction of local air pollution and congestion.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ание; (в)спроведувањето и влијанието на менувањето на давачките за инфраструктура како што е наведено во член 7е за намалување на локалното загадување на воздухот и метежот</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">314</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203523Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T203555Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7645220836937318444, 4618235661103787004</prop>
+      <prop type="x-ContextContent">(c)	the implementation and effect of the variation of infrastructure charges as referred to in Article 7g on the reduction of local air pollution and congestion. |  | (в)	спроведувањето и влијанието на менувањето на давачките за инфраструктура како што е наведено во член 7е за намалување на локалното загадување на воздухот и метежот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The report shall also evaluate whether the maximum variation and peak period as referred to in Article 7g are sufficient to enable a proper functioning of the variation mechanism;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. Извештајот, исто така, оценува дали максималното менување и максималниот период како што е наведено во член 7е се доволни за да се овозможи правилно функционирање на механизмот за менување;</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">315</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203555Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T203608Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8625423935320892713, 5251632011894024999</prop>
+      <prop type="x-ContextContent">The report shall also evaluate whether the maximum variation and peak period as referred to in Article 7g are sufficient to enable a proper functioning of the variation mechanism; |  | Извештајот исто така оценува дали максималното менување и максималниот период како што е наведено во член 7е се доволни за да се овозможи правилно функционирање на механизмот за менување; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	scientific progress in estimating external costs of transport for the purpose of internalising them; and</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)научниотен напредок во проценката на надворешните трошоци за транспорт со цел нивно интернализирање;</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">316</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203609Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T203646Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8063343576640178505, 1090381997779989663</prop>
+      <prop type="x-ContextContent">(d)	scientific progress in estimating external costs of transport for the purpose of internalising them; and |  | (г)	научен напредок во проценката на надворешните трошоци за транспорт со цел нивно интернализирање; и | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	progress towards applying charges to road users and ways of gradually harmonising the charging systems that are applied to commercial vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и (д)напредокот кон примена на давачките за корисниците на патиштата и начините за постепено усогласување на системите за наплата на давачки кои се применуваат на комерцијалните возила.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">317</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203646Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T220724Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8640285144915403390, -3426406114536283520</prop>
+      <prop type="x-ContextContent">(e)	progress towards applying charges to road users and ways of gradually harmonising the charging systems that are applied to commercial vehicles. |  | (д)	напредок кон примена на давачките за корисниците на патиштата и начините за постепено усогласување на системите за наплата на давачки кои се применуваат на комерцијалните возила. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The report shall also evaluate the use of electronic systems to levy and collect infrastructure and external-cost charges and their degree of interoperability pursuant to Directive 2004/52/EC.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Извештајот, исто така, ја оценува употребата на електронски системи за наметнувавоведување и наплата на давачки за инфраструктурни трошоци и надворешни трошоци и нивниот степен на интероперабилност според Директивата 2004/52/</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">318</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203731Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T203754Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The report shall be accompanied, if appropriate, by a proposal to the European Parliament and the Council for further revision of this Directive.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>EЗ. 3.Извештајот се проследува, доколку е соодветно, со предлог до Европскиот парламент и до Советот за понатамошна ревизија на оваа директи</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">319</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203756Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T203840Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>By 16 October 2012, the Commission shall present a report that summarises the other measures, such as regulatory policies, taken to internalise or reduce the external costs related to environment, noise and health from all transport modes, including the legal basis and maximum values used.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ва. 4.До 16 октомври 2012 година, Комисијата претставува извештај кој ги сумира другите мерки, како што се регулаторните политики, преземени за интернализирање или намалување на надворешните трошоци поврзани со животната средина, бучавата и здравјето од сите начини на транспорт, вклучувајќи гија и правната основа и максималните вредности што се користат.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">320</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T203840Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204209Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2517196648748536698, -4619781081279514655</prop>
+      <prop type="x-ContextContent">By 16 October 2012, the Commission shall present a report that summarises the other measures, such as regulatory policies, taken to internalise or reduce the external costs related to environment, noise and health from all transport modes, including the legal basis and maximum values used. |  | До 16 октомври 2012 година, Комисијата претставува извештај кој ги сумира другите мерки, како што се регулаторните политики, преземени за интернализирање или намалување на надворешните трошоци поврзани со животната средина, бучавата и здравјето од сите начини на транспорт, вклучувајќи ја и правната основа и максималните вредности што се користат. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In order to ensure fair intermodal competition while gradually charging the external costs of all transport modes, it shall include a timetable of the measures which remain to be taken to address other modes or vehicles and/or the external-cost elements not taken into account yet, taking into account progress in revising Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity<ph x="1" type="2667" />.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Со цел да се обезбеди фер конкуренција за сите начини на транспорт, а постепено да се наплаќаат надворешните трошоци на сите начини на транспорт, тојаа вклучува распоред на мерките што остануваат да се преземат за да се разгледаат други начини или возила и/или елементите на надворешните трошоци што сè уште не се земени предвид, имајќи го предвид напредокот во ревидирањето на Директивата 2003/96/ЕЗ на Советот од 27 октомври 2003 година за реструктуирање на рамката на Заедницата за оданочување на енергетските производи и електричната енергија(*). (*)</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">321</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T204210Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204234Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">9123021579200244183, -7749777815839498832</prop>
+      <prop type="x-ContextContent">In order to ensure fair intermodal competition while gradually charging the external costs of all transport modes, it shall include a timetable of the measures which remain to be taken to address other modes or vehicles and/or the external-cost elements not taken into account yet, taking into account progress in revising Council Directive 2003/96/EC of 27 October 2003 restructuring the Community framework for the taxation of energy products and electricity. | AQEAAADMAQAAAwEAAAABAAAAAQQyNjY3AA== | Со цел да се обезбеди фер конкуренција за сите начини на транспорт, а постепено да се наплаќаат надворешните трошоци на сите начини на транспорт, таа вклучува распоред на мерките што остануваат да се преземат за да се разгледаат други начини или возила и/или елементите на надворешните трошоци што сè уште не се земени предвид, имајќи го предвид напредокот во ревидирањето на Директивата 2003/96/ЕЗ на Советот од 27 октомври 2003 година за реструктуирање на рамката на Заедницата за оданочување на енергетските производи и електричната енергија. | AQEAAAAgAgAAAwEAAAABAAAAAQQyNjY3AA==</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>OJ L 283, 31.10.2003, p. 51<bpt i="1" type="256" />.’;<ept i="1" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Сл. весник L 283, 31.10.2003 година, стр. 51.“;</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">322</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T204235Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204240Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7864611915906308453, 4631006620855767438</prop>
+      <prop type="x-ContextContent">OJ L 283, 31.10.2003, p. 51.’; | AgIbAQEAAQMyNTYBAwIBAQMyNTYB | Сл. весник L 283, 31.10.2003 година, стр. 51.“; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(9)	Annex III is amended as follows:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(9)Анекс III се изменува како што следува:</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">323</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T204241Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204254Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3019510736034641253, 6396217470165901106</prop>
+      <prop type="x-ContextContent">(9)	Annex III is amended as follows: |  | (9)	Анекс III се изменува како што следува: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the first paragraph is replaced by the following:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(a)првиот став се заменува со следното:</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">324</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T204254Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204358Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5583203847621560720, -3044508718192673174</prop>
+      <prop type="x-ContextContent">(a)	the first paragraph is replaced by the following: |  | (a)	првиот став се заменува со следното: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘This Annex stipulates the core principles for the calculation of weighted average infrastructure charge to reflect Article 7b(1).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„Овој анекс ги предвидува основните принципи за пресметка на пондериран просек на давачката за ианфраструктура во согласност со член 7б(1).</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">325</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T204359Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T215053Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6540425212079034240, -6965009610036427813</prop>
+      <prop type="x-ContextContent">‘This Annex stipulates the core principles for the calculation of weighted average infrastructure charge to reflect Article 7b(1). |  | „Овој анекс ги предвидува основните принципи за пресметка на пондериран просек на давачката за ианфраструктура во согласност со член 7б(1). | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The obligation to relate infrastructure charges to costs shall be without prejudice to the freedom of Member States to choose, in accordance with Article 7b(2), not to recover the costs in full through infrastructure charges revenue, or to the freedom, in accordance with Article 7f, to vary the amounts of specific infrastructure charges away from the average.’;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Обврската за поврзување на давачките за инфраструктура со трошоците не е во спротивност на слободата на земјите членки да изберат, во согласност со член 7б (2), да не ги надоместуваат трошоците целосно преку приходите од давачките за инфраструктура, или, во согласност со член 7ѓ, да се разликуваат сумите на специфични давачки за инфраструктура далеку од просекот.“</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">326</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T204535Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204608Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240402T204608Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5463717517, 2423716237</prop>
+      <prop type="x-Context">-2216662710694925345, 6378198113291555370</prop>
+      <prop type="x-ContextContent">The obligation to relate infrastructure charges to costs shall be without prejudice to the freedom of Member States to choose, in accordance with Article 7b(2), not to recover the costs in full through infrastructure charges revenue, or to the freedom, in accordance with Article 7f, to vary the amounts of specific infrastructure charges away from the average.’; |  | Обврската за поврзување на давачките за инфраструктура со трошоците не е во спротивност на слободата на земјите членки да изберат, во согласност со член 7 (2), да не ги надоместуваат трошоците целосно преку приходите од давачките за инфраструктура, или, во согласност со член 7ѓ, да се разликуваат сумите на специфични давачки за инфраструктура далеку од просекот.“; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	in the second paragraph, the word ‘Community’ is replaced by the word ‘Union’;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (б)во вториот став, зборот „Заедница“ се заменува со зборот „Унија“;</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">327</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T204600Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204629Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3840332102173857560, 1162303602889980078</prop>
+      <prop type="x-ContextContent">(b)	in the second paragraph, the word ‘Community’ is replaced by the word ‘Union’; |  | (б)	во вториот став, зборот „Заедница“ се заменува со зборот „Унија“; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	in point (1), second indent, the words ‘Article 7a(1)’ are replaced by the words ‘Article 7b(2)’;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)во точката (1), втората алинеја, зборовите „член 7a(1)“ се заменуваат со зборовите „член 7б(2)“;</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">328</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T204629Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204724Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2070602298936908619, 1076899459281383155</prop>
+      <prop type="x-ContextContent">(c)	in point (1), second indent, the words ‘Article 7a(1)’ are replaced by the words ‘Article 7b(2)’; |  | (в)	во точката (1), втората алинеја, зборовите „член 7a(1)“ се заменуваат со зборовите „член 7б(2)“; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(10)	after Annex III, the text set out in the Annex to this Directive is inserted.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(10)по Анекс III се вметнува текстот од анексот кон оваа директива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">329</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T204727Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204816Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 16 October 2013.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 2 1.Земјите членки ги ставаат во силадонесуваат законите, прописите и другите административни одредби неопходни за усогласување со оваа директива, најдоцна до 16 октомври 2013 год</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">330</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T204803Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204921Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2293332151686652529, 795751134505136199</prop>
+      <prop type="x-ContextContent">Member States shall bring into force the laws, regulations and administrative provisions necessary to comply with this Directive by 16 October 2013. |  | Земјите членки ги ставаат во сила законите, прописите и другите административни одредби неопходни за усогласување со оваа директива, најдоцна до 16 октомври 2013 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>They shall forthwith communicate to the Commission the text of those provisions.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ина. Тие веднаш го доставуваат до Комисијата текстот на тие одредби.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">331</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210209T145051Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T203214Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7619758583707291269, -582229889667719323</prop>
+      <prop type="x-ContextContent">They shall forthwith communicate to the Commission the text of those provisions. |  | Тие веднаш го доставуваат до Комисијата текстот на тие одредби. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Кога земјите членки ги усвојуваатдонесуваат тие одредби, тие содржат упатување кон оваа директива или се придружени со такво упатување при нивното официјално објаву</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">332</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210209T145056Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T204931Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240402T204935Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-R6F8DM9\Angel</prop>
+      <prop type="x-Context">1690302773, 3262898432</prop>
+      <prop type="x-Context">-7994379849154279760, 4406662988441331534</prop>
+      <prop type="x-ContextContent">When Member States adopt those provisions, they shall contain a reference to this Directive or be accompanied by such a reference on the occasion of their official publication. |  | Кога земјите членки ги усвојуваат тие одредби, тие содржат упатување кон оваа директива или се придружени со такво упатување при нивното официјално објавување. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall determine how such reference is to be made.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>вање. Земјите членки одредуваат како ќе се изготви тоа упатув</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">333</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T204935Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T205001Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5759266512045740712, -8230726614799579412</prop>
+      <prop type="x-ContextContent">Member States shall determine how such reference is to be made. |  | Земјите членки одредуваат како ќе се изготви тоа упатување. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The obligations for transposition and implementation of this Directive shall not apply to Member States as long as neither tolls nor user charges are implemented within their territory.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ање. Обврските за транспонирање и спроведување на оваа директива нема да важат за земјите членки сеè додека патарините и трошоците за корисниците не се спроведуваат на нивната територија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">334</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T205005Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T203215Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Земјите членки го доставуваат до Комисијата текстот на главните одредби од националното законодавство кои ги усвојуваатдонесуваат во областа опфатена со оваа директива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">335</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T205048Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T205147Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Directive shall enter into force on the day following its publication in the <bpt i="1" type="2787" x="1" />Official Journal of the European Union<ept i="1" />.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 3 Оваа директива влегува во сила на денот по нејзиното објавување во Службениот весник на Европската Унија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">336</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T205157Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T205211Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5800359031863567567, -4621658694773416348</prop>
+      <prop type="x-ContextContent">This Directive is addressed to the Member States. |  | Оваа директива се однесува на земјите членки. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Strasbourg, 27 September 2011.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и. Стразбур, 27 септември 2011 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">338</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210209T132958Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T205211Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">723951414063347724, 4980122993406067524</prop>
+      <prop type="x-ContextContent">Done at Strasbourg, 27 September 2011. |  | Стразбур, 27 септември 2011 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the European Parliament</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Европскиот парламент</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">339</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201020T074405Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T205217Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">526997215619293256, -1534408266053922068</prop>
+      <prop type="x-ContextContent">For the European Parliament |  | За Европскиот парламент | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Council</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Советот</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">340</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201020T074414Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T205218Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="4">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-3648910944734109195, 136400592362229</prop>
+      <prop type="x-ContextContent">For the Council |  | За Советот | </prop>
+      <prop type="x-Context">6451808141391308451, 4236527515880034</prop>
+      <prop type="x-ContextContent">The President |  | Претседател | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The President</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претседател</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">341</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240127T233435Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T205242Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3282370934894196548, 4043355285830374174</prop>
+      <prop type="x-ContextContent">M. DOWGIELEWICZ |  | М. ДОВГИЕЛЕВИЧ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">344</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T205245Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T205250Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">112932449316, 4573421134</prop>
+      <prop type="x-ContextContent">ANNEX |  | АНЕКС | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">345</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T205250Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T205259Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">‘ |  | „ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX IIIa</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>‘АНЕКС IIIa</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">346</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T205259Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T215243Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">104295488527993975, 4223650462325153</prop>
+      <prop type="x-ContextContent">ANNEX IIIa |  | АНЕКС IIIa | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>MINIMUM REQUIREMENTS FOR LEVYING AN EXTERNAL-COST CHARGE</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>МИНИМАЛНИ БАРАЊА ЗА НАМЕТНУВАВОВЕДУВАЊЕ НА ДАВАЧКИА ЗА НАДВОРЕШНИ ТРОШО</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">347</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T205330Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T215304Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-711205299423480786, -5057677432415294438</prop>
+      <prop type="x-ContextContent">MINIMUM REQUIREMENTS FOR LEVYING AN EXTERNAL-COST CHARGE |  | МИНИМАЛНИ БАРАЊА ЗА НАМЕТНУВАЊЕ НА ДАВАЧКИ ЗА НАДВОРЕШНИ ТРОШОЦИ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Annex sets out the minimum requirements for levying an external-cost charge and for calculating the maximum weighted average external-cost charge.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЦИ Овој анекс ги утврдува минималните барања за наметнувавоведување давачки давачка за надворешни трошоци и за пресметување на максималната пондерирана давачка за надворешни трошоци</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">348</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T205435Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240402T205502Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The parts of the road network concerned</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. 1.Деловите од засегната патна мрежа</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">349</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240402T205539Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T215337Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6183615141161425928, 7264709496498256157</prop>
+      <prop type="x-ContextContent">The Member State shall specify precisely the part or parts of their road network which are to be subject to an external-cost charge. |  | Земјата членка го определува токму делот или деловите од нејзината патна мрежа кои ќе бидат предмет на давачки за надворешни трошоци. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where a Member State chooses to levy an external-cost charge on only a part or parts of the road network falling within the scope of this Directive, the part or parts shall be chosen after an assessment establishing that:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>орешни трошоци. Кога една земја членка ќе одлучи да им наметневоведе давачки давачка за надворешни трошоци само на дел или делови од патната мрежа што спаѓаат во опсегот на оваа директива, делот или деловите се избираат по проценката која утвр</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">351</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T054923Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T055055Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T055055Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8293540420273289707, 6375538136671644011</prop>
+      <prop type="x-ContextContent">Where a Member State chooses to levy an external-cost charge on only a part or parts of the road network falling within the scope of this Directive, the part or parts shall be chosen after an assessment establishing that: |  | Кога една земја членка ќе одлучи да наметне давачки за надворешни трошоци само на дел или делови од патната мрежа што спаѓаат во опсегот на оваа директива, делот или деловите се бираат по проценката која утврдува дека: | </prop>
+      <prop type="x-Context">4213991714, 4737068192</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>—	vehicles’ use of the roads where the external-cost charge is applied generates environmental damage higher than that generated on average on other parts of the road network falling within the scope of this Directive that are not subject to an external-cost charge, or</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>дува дека: —употребата на патиштата од страна на возилата каде што се применува давачката за надворешните трошоци прави еколошка штета повисока од онаа што се прави во просек на други делови од патната мрежа што спаѓаат во опсегот на оваа директива, која не е предмет на каде што не се наплаќа давачка за надворешни трошоци или</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">352</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T055056Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T215419Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6872515940821699963, 6830051518205628679</prop>
+      <prop type="x-ContextContent">—	vehicles’ use of the roads where the external-cost charge is applied generates environmental damage higher than that generated on average on other parts of the road network falling within the scope of this Directive that are not subject to an external-cost charge, or |  | —	употребата на патиштата од страна на возилата каде што се применува давачката за надворешните трошоци прави еколошка штета повисока од онаа што се прави во просек на други делови од патната мрежа што спаѓаат во опсегот на оваа директива, која не е предмет на давачка за надворешни трошоци или | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>—	the imposition of an external-cost charge on other parts of the road network falling within the scope of this Directive might have adverse effects on the environment or road safety, or levying and collecting an external-cost charge on them would entail disproportionate cost.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>—наметнувањетововедувањето на давачка за надворешни трошоци на други делови од патната мрежа што спаѓаат во опсегот на оваа директива може да има негативни ефекти врз животната средина или безбедноста на патиштата, или наметнувањетововедувањето и наплатувањето на давачката за надворешни трошоци врз нив би значело непропорционален трошок</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">353</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T191637Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T191647Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The vehicles, roads and time period covered</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. 2.Возилата, патиштата и временскиот период кои се опфатени</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">354</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T191648Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T191840Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-9091124226920272681, 48728572101756741</prop>
+      <prop type="x-ContextContent">The vehicles, roads and time period covered |  | Возилата, патиштата и временскиот период кои се опфатени | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Member State shall notify the Commission of the classification of vehicles according to which the toll shall vary.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Земјата членка ја известува Комисијата за класификацијата на возилата според која ќе се разликува патарината. Таа, ис</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">355</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T191824Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T192042Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6526438218335530673, 338331665213810944</prop>
+      <prop type="x-ContextContent">The Member State shall notify the Commission of the classification of vehicles according to which the toll shall vary. |  | Земјата членка ја известува Комисијата за класификацијата на возилата според која ќе се разликува патарината. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>It shall also notify the Commission of the location of roads subject to higher external-cost charges (called hereafter “suburban roads (including motorways)”), and of roads subject to lower external-cost charges (called hereafter “interurban roads (including motorways)”).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>то така, ја известува Комисијата за локацијата на патиштата кои се предмет накаде што се наплаќаат повисоки давачки за надворешни трошоци (во понатамошниот текст „приградски патишта (вклучувајќи автопати)“) и за патиштата кои се предмет накаде што се наплаќаат пониски давачки за надворешни трошоци (во понатамошниот текст „меѓуградски патишта (вклучувајќи ав</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">356</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T192042Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T192300Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-527534661096063288, -8847616382850696015</prop>
+      <prop type="x-ContextContent">It shall also notify the Commission of the location of roads subject to higher external-cost charges (called hereafter “suburban roads (including motorways)”), and of roads subject to lower external-cost charges (called hereafter “interurban roads (including motorways)”). |  | Таа, исто така, ја известува Комисијата за локацијата на патиштата кои се предмет на повисоки давачки за надворешни трошоци (во понатамошниот текст „приградски патишта (вклучувајќи автопати)“) и за патиштата кои се предмет на пониски давачки за надворешни трошоци (во понатамошниот текст „меѓуградски патишта (вклучувајќи автопати)“). | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where applicable, it shall also notify the Commission of the exact time periods corresponding to the night period during which a higher external noise-cost charge may be imposed to reflect greater noise nuisances.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>топати)“). Доколку е применливо, таа исто така ја известува Комисијата за точните временски периоди што му соодветствуваат на ноќниот период во кој може да се наметневоведе повисока давачка за надворешен трошок за бучава што одразува поголемо нарушување предизвикано од бучава.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">357</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T192300Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T192459Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8878317604332008110, 2507764512717012870</prop>
+      <prop type="x-ContextContent">Where applicable, it shall also notify the Commission of the exact time periods corresponding to the night period during which a higher external noise-cost charge may be imposed to reflect greater noise nuisances. |  | Доколку е применливо, таа исто така ја известува Комисијата за точните временски периоди што соодветствуваат на ноќниот период во кој може да се наметне повисока давачка за надворешен трошок за бучава што одразува поголемо нарушување предизвикано од бучава. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The classification of roads as suburban roads (including motorways) and interurban roads (including motorways), and the definition of time periods shall be based on objective criteria related to the level of exposure of the roads and their vicinities to pollution such as population density, and the yearly number of pollution peaks measured in accordance with this Directive.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Класификацијата на патиштата како приградски патишта (вклучувајќи автопати) и меѓуградски патишта (вклучувајќи автопати), и дефиницијата на временски периоди се базира заснова на објективни критериуми поврзани со нивото на изложеност на патиштата и нивното индиректно влијание врз загадувањето, како што е густината на населението, и годишниот број на периоди со најголемо загадување мерено во согласност со оваа директива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">358</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T192459Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T192515Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-950795489756109376, -7057815729396586611</prop>
+      <prop type="x-ContextContent">The classification of roads as suburban roads (including motorways) and interurban roads (including motorways), and the definition of time periods shall be based on objective criteria related to the level of exposure of the roads and their vicinities to pollution such as population density, and the yearly number of pollution peaks measured in accordance with this Directive. |  | Класификацијата на патиштата како приградски патишта (вклучувајќи автопати) и меѓуградски патишта (вклучувајќи автопати), и дефиницијата на временски периоди се базира на објективни критериуми поврзани со нивото на изложеност на патиштата и нивното индиректно влијание врз загадувањето, како што е густината на населението, и годишниот број на периоди со најголемо загадување мерено во согласност со оваа директива. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The criteria used shall be included in the notification.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Критериумите што се користат се опфатени во известувањето.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">359</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T192516Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T192528Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Amount of the charge</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3.Висина на давачката</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">360</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T193318Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T193348Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6387054178716123317, -9132134516226931363</prop>
+      <prop type="x-ContextContent">The charge shall also be set after having considered the risk of traffic diversion together with any adverse effects on road safety, the environment and congestion, and any solutions to mitigate these risks. |  | Давачката исто така се утврдува откако ќе се земе предвид ризикот од пренасочување на сообраќајот, заедно со какви било негативни ефекти врз безбедноста на патиштата, животната средина и метежот, и какви било решенија за ублажување на овие ризици. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Member State or, if appropriate, an independent authority, shall monitor the effectiveness of the charging scheme in reducing environmental damage arising from road transport.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Земјата членка или, доколку е соодветно, независниотен орган, ја следи ефективноста на шемата за наплатување на давачката во намалувањето на штетата врз животната средина што произлегува од патниот транспор</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">367</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T193348Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T193531Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1760867746428809507, -6273941173866708950</prop>
+      <prop type="x-ContextContent">The Member State or, if appropriate, an independent authority, shall monitor the effectiveness of the charging scheme in reducing environmental damage arising from road transport. |  | Земјата членка или, доколку е соодветно, независен орган, ја следи ефективноста на шемата за наплатување на давачката во намалувањето на штетата врз животната средина што произлегува од патниот транспорт. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>It shall every two years adjust, if appropriate, the charging structure and the specific amount of the charge set for a given class of vehicle, type of road and period of time to the changes in transport supply and demand.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>т. Таа на секои две години ја прилагодува, доколку е потребно, структурата за наплатување на давачката и специфичниот износ на давачката утврден за дадена класа на возило, видот на патот и временскиот период на промените во понудата и побарувачката на транспорт.</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">368</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T193543Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T215726Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">4.1. |  | 4.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>External-cost elements</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>4.Елементи на надворешни трошоци</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">369</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T193627Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T193840Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1676567658555382557, -9049531002611986732</prop>
+      <prop type="x-ContextContent">Cost of traffic-based air pollution |  | Трошоци за загадување на воздухот од сообраќајот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>When a Member State chooses to include all or part of the cost of traffic-based air pollution in the external-cost charge, the Member State or, if appropriate, an independent authority shall calculate the chargeable cost of traffic–based air pollution by applying the following formula or by taking the unit values in Table 1 of Annex IIIb if the latter are lower:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>обраќајот Кога една земја членка одлучува да ги вклучи сите или дел од трошоците запоради загадување на воздухот од сообраќајот во давачка за надворешни трошоци, земјата членка или, доколку е соодветно, независниотен орган ја пресметува цената за загадување на воздухот од сообраќајот со примена на следната формула или со преземање на вредностите на единиците во Табела 1 од Анекс IIIб ако тие се пониски:</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">371</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T193840Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T193847Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="4">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1641439125455926064, 4301422221192058426</prop>
+      <prop type="x-ContextContent">When a Member State chooses to include all or part of the cost of traffic-based air pollution in the external-cost charge, the Member State or, if appropriate, an independent authority shall calculate the chargeable cost of traffic–based air pollution by applying the following formula or by taking the unit values in Table 1 of Annex IIIb if the latter are lower: |  | Кога една земја членка одлучува да ги вклучи сите или дел од трошоците за загадување на воздухот од сообраќајот во давачка за надворешни трошоци, земјата членка или, доколку е соодветно, независен орган ја пресметува цената за загадување на воздухот од сообраќајот со примена на следната формула или со преземање на вредностите на единиците во Табела 1 од Анекс IIIб ако тие се пониски: | </prop>
+      <prop type="x-Context">-8451633486974825089, -1900235366395239228</prop>
+      <prop type="x-ContextContent">When a Member State chooses to include all or part of the cost of traffic-based noise pollution in the external-cost charge, the Member State or, if appropriate, an independent authority shall calculate the chargeable cost of traffic–based noise pollution by applying the following formulae or by taking the unit values in Table 2 of Annex IIIb if the latter are lower: |  | Кога една земја членка одлучува да ги вклучи сите или дел од трошоците за загадување со бучава од сообраќајот во давачка за надворешни трошоци, земјата членка или, доколку е соодветно, независен орган ја пресметува цената за загадувањето со бучава од сообраќајот со примена на следната формула или со преземање на вредностите на единиците во Табела 2 од Анекс IIIб ако тие се пониски: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>where:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>при што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">372</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231129T181216Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T193847Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="20">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-745333166023635652, 7034611747782553471</prop>
+      <prop type="x-ContextContent">noise cost per person exposed on road type j to noise level k (euro/person) |  | трошоци за бучава по лице изложено на патот од тип j на ниво на бучава k (евро/лице) | </prop>
+      <prop type="x-Context">8692534648467931568, 5941513835388451540</prop>
+      <prop type="x-ContextContent">noise cost of one heavy goods vehicle on road type j (euro/vehicle.kilometre) |  | трошоци за бучава на едно тешко товарно возило на патот од тип j (евро/возило.километар) | </prop>
+      <prop type="x-Context">6220714871151122441, 1254777359960162759</prop>
+      <prop type="x-ContextContent">emission factor of pollutant k and vehicle class i (gram/vehicle.kilometre) |  | емисиски фактор на загадувач k и класа на возила i (грам/возило.километар) | </prop>
+      <prop type="x-Context">-2163410641738695475, -1540724502693262850</prop>
+      <prop type="x-ContextContent">weighted average daily traffic (passenger car equivalent) |  | пондериран просечен дневен сообраќај (еквивалент на патнички автомобили) | </prop>
+      <prop type="x-Context">113556493297, 136661371918169</prop>
+      <prop type="x-ContextContent">where: |  | при што: | </prop>
+      <prop type="x-Context">1251765974968010720, -1730537459683822093</prop>
+      <prop type="x-ContextContent">population exposed to daily noise level k per kilometre (person/kilometre) |  | население изложено на дневно ниво на бучава k по километар (лице/километар) | </prop>
+      <prop type="x-Context">1020063689543818909, 4197860999502345665</prop>
+      <prop type="x-ContextContent">air pollution cost of vehicle class i on road type j (euro/vehicle.kilometre) |  | загадување на воздухот од класа i на патот тип j (евро/возило.километар) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>—</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>—</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">373</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T193848Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T193850Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="12">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">60543371504, 60543371504</prop>
+      <prop type="x-ContextContent">PCjk | AgICAQEBAQQzMDI1AQICAQEEMzAyNQE= | PCjk | AgICAQEBAQQzMDI1AQICAQEEMzAyNQE=</prop>
+      <prop type="x-Context">60543370512, 60543370512</prop>
+      <prop type="x-ContextContent">PCVij | AgIDAQEBAQQyOTY1AQICAQEEMjk2NQE= | PCVij | AgIDAQEBAQQyOTY1AQICAQEEMjk2NQE=</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">— |  | — | </prop>
+      <prop type="x-Context">60543370543, 60543370543</prop>
+      <prop type="x-ContextContent">EFik | AgICAQEBAQQyOTk1AQICAQEEMjk5NQE= | EFik | AgICAQEBAQQyOTk1AQICAQEEMjk5NQE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>=</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>=</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">374</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240403T193850Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240403T193851Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240403T220744Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">= |  | = | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>PCV<bpt i="1" type="2965" x="1" />ij<ept i="1" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>PCVij</seg>
+      </tuv>
+      <prop type="x-CELEX">32011L0076</prop>
+      <prop type="x-SourceTUIndex">375</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

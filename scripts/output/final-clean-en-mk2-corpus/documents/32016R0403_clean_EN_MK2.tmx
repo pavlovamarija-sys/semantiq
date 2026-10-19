@@ -1,0 +1,1194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20240321T091112Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32016R0403_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32016R0403</prop>
+    <prop type="x-SourceTMX">32016R0403_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">ad3973391fa7ce407e389d172735b4d8c2e8fe8a9d08ef17f176fc0ce91e343e</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">54</prop>
+  </header>
+  <body>
+    <tu creationdate="20240321T091140Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T091512Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION REGULATION (EU) 2016/403</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) 2016/403 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T091513Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T091533Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6472958620270552595, 514976314266711368</prop>
+      <prop type="x-ContextContent">COMMISSION REGULATION (EU) 2016/403 |  | РЕГУЛАТИВА (ЕУ) 2016/403 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 18 March 2016</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 18 март 2016 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T091534Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T080410Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3657596318, -813603397828149041</prop>
+      <prop type="x-ContextContent">of 18 March 2016 |  | од 18 март 2016 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>supplementing Regulation (EC) No 1071/2009 of the European Parliament and of the Council with regard to the classification of serious infringements of the Union rules, which may lead to the loss of good repute by the road transport operator, and amending Annex III to Directive 2006/22/EC of the European Parliament and of the Council</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за дополнување на Регулативата (ЕЗ) бр. 1071/2009 на Европскиот парламент и на Советот за класификацијата на сериозните прекршоци на правилата на Унијата, што може да доведе до губење на добриот углед на операторот за патен превоз, и за изменување на Анекс III кон Директивата 2006/22/ЕЗ на Европскиот парламент и на Советот</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240206T114921Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T091724Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240321T091747Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2087278533917435278, -4477993857631655674</prop>
+      <prop type="x-ContextContent">supplementing Regulation (EC) No 1071/2009 of the European Parliament and of the Council with regard to the classification of serious infringements of the Union rules, which may lead to the loss of good repute by the road transport operator, and amending Annex III to Directive 2006/22/EC of the European Parliament and of the Council |  | за дополнување на Регулативата (ЕЗ) бр. 1071/2009 на Европскиот парламент и на Советот за класификацијата на сериозните прекршоци на правилата на Унијата, што може да доведе до губење на добриот углед на операторот за патен превоз, и за изменување на Анекс III кон Директивата 2006/22/ЕЗ на Европскиот парламент и на Советот | </prop>
+      <prop type="x-Context">4426554688, 5556499873</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Text with EEA relevance)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Текст со важност за ЕЕО)</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231130T173026Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T091747Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2094311973019752702, -693899598895376172</prop>
+      <prop type="x-ContextContent">(Text with EEA relevance) |  | (Текст со важност за ЕЕО) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231130T173048Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T091750Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-ContextContent">THE EUROPEAN COMMISSION, |  | ЕВРОПСКАТА КОМИСИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T091753Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T080446Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1630537092630497703, -2439055183373607700</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, |  | имајќи го предвид Договорот за функционирање на Европската Унија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Regulation (EC) No 1071/2009 of the European Parliament and of the Council of 21 October 2009 establishing common rules concerning the conditions to be complied with to pursue the occupation of road transport operator and repealing Council Directive 96/26/EC<ph x="1" type="406" />, and in particular Article 6(2) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Регулативата (ЕЗ) бр. 1071/2009 на Европскиот парламент и на Советот од 21 октомври 2009 година, за воспоставување на заеднички правила во врска со условите кои треба да се почитуваат за да се продолжи со вршење на дејноста на операторот за патен превоз и за укинување на Директивата 96/26/ЕЗ на Советот, особено член 6(2) од истата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T203949Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T072711Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T072711Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-82042100002425539, 1450874809193477465</prop>
+      <prop type="x-ContextContent">(1)	The Commission is required by Article 6(2)(b) of Regulation (EC) No 1071/2009 to draw up a list of categories, types and degrees of seriousness of serious infringements of Union rules, which in addition to those set out in Annex IV to that Regulation, may lead to the loss of good repute of the road transport undertaking or the transport manager. |  | (1)	Со член 6(2)(б) од Регулативата (ЕЗ) бр. 1071/2009 се наложува на Комисијата да подготви листа на категории, видови и степени на сериозност на сериозни прекршоци на правилата на Унијата кои, покрај оние наведени во Анекс IV кон таа регулатива, може да доведат до губење на добриот углед на претпријатието за патен превоз или управителот на превозот. | </prop>
+      <prop type="x-Context">4764176739, 5153274401</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(2)	To this end, the Commission should define the degree of seriousness of infringements by reference to the risk of fatalities or serious injuries and should provide the frequency of occurrence beyond which repeated infringements shall be regarded as more serious.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(2)За таа цел, Комисијата треба да го дефинира степенот на сериозност на прекршоците во однос на ризикот од смртни случаи или сериозни повреди и треба да ја утврди зачестеноста за на тоа колку максимално пати еден прекршок треба да се повтори пред за да се смета за посерио</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">13</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T204419Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T204509Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">9090396208849144025, -4157300420558120208</prop>
+      <prop type="x-ContextContent">(3)	The list of categories, types and degrees of seriousness of serious infringements to be established should contain infringements of the Union rules relating to the areas outlined in Article 6(1)(b) of Regulation (EC) No 1071/2009. |  | (3)	Листата на категории, видови и степени на сериозност на сериозни прекршоци што треба да се утврди треба да содржи прекршоци на правилата на Унијата во врска со областите наведени во член 6(1)(б) од Регулативата (ЕЗ) бр. 1071/2009. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(4)	Member States should take into account information on those infringements when setting priorities for the checks targeting undertakings which are classified as posing increased risk, as required by Article 12(1) of Regulation (EC) No 1071/2009.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1/2009. (4)Земјите членки треба да ги земат предвид информациите за овие прекршоци кога поставуваат приоритети за проверките за таргетирање на претпријатија кои се класифицирани како претпријатија кои претставуваат зголемен ризик, како што се бара со член 12(1) од Регулативата (ЕЗ) бр. 1071/2009.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">15</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T204509Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T213339Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8448244309800049228, 8947003826283721541</prop>
+      <prop type="x-ContextContent">(4)	Member States should take into account information on those infringements when setting priorities for the checks targeting undertakings which are classified as posing increased risk, as required by Article 12(1) of Regulation (EC) No 1071/2009. |  | (4)	Земјите членки треба да ги земат предвид информациите за овие прекршоци кога поставуваат приоритети за проверките за таргетирање на претпријатија кои се класифицирани како претпријатија кои претставуваат зголемен ризик, како што се бара со член 12(1) од Регулативата (ЕЗ) бр. 1071/2009. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(5)	The measures to be adopted are necessary to ensure transparency, fairness and legal certainty in appraising the seriousness of infringements and their implications for good repute of the transport undertaking or the transport manager.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(5)Мерките што треба да се донесат се неопходни за да се обезбеди транспарентност, правичност и правна сигурност во проценувањето на сериозноста на прекршоците и нивните импликации за добар углед на претпријатието за превоз или управителот на превозот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">16</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T205507Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T080853Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5369894658255053915, -5835183796700762021</prop>
+      <prop type="x-ContextContent">(5)	The measures to be adopted are necessary to ensure transparency, fairness and legal certainty in appraising the seriousness of infringements and their implications for good repute of the transport undertaking or the transport manager. |  | (5)	Мерките што треба да се донесат се неопходни за да се обезбеди транспарентност, правичност и правна сигурност во проценувањето на сериозноста на прекршоците и нивните импликации за добар углед на претпријатието за превоз или управителот на превозот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(6)	However, it is the responsibility of the Member State's competent authority to carry out a complete national administrative procedure to determine whether a loss of good repute would constitute a proportionate response in an individual case.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(6)Сепак одговорноста е кај надлежниот орган на земјата членка да спроведе целосна национална административна постапка за да утврди дали губењето на добриот углед ќе претставува пропорционален одговор во индивидуален случај.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">17</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T205914Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T205943Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240321T205943Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2006636028, 2739023817</prop>
+      <prop type="x-Context">8991966488476830159, -931519064312498665</prop>
+      <prop type="x-ContextContent">(6)	However, it is the responsibility of the Member State's competent authority to carry out a complete national administrative procedure to determine whether a loss of good repute would constitute a proportionate response in an individual case. |  | (6)	Сепак одговорноста е кај надлежниот орган на земјата членка да спроведе целосна национална административна постапка за да утврди дали губењето на добриот углед ќе претставува пропорционален одговор во индивидуален случај. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Such a national examination procedure should include, where appropriate, checks at the premises of the undertaking concerned.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Таквата национална постапка за испитување треба да вклучува, каде што е соодветно, проверки во просториите на засегнатото претпријатие.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">18</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T205943Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T213339Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">9222316798668378326, -1672191983614342537</prop>
+      <prop type="x-ContextContent">Such a national examination procedure should include, where appropriate, checks at the premises of the undertaking concerned. |  | Таквата национална постапка за испитување треба да вклучува, каде што е соодветно, проверки во просториите на засегнатото претпријатие. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In assessing the good repute Member States should consider the conduct of the undertaking, of its managers and of any other relevant person.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>При оценувањето на добриот углед, земјите членки треба да го земат предвид поведението на претпријатието, на неговите управители и на кое било друго релевантно лице.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T210031Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T073219Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2452314867693111121, 7536699889711032169</prop>
+      <prop type="x-ContextContent">In assessing the good repute Member States should consider the conduct of the undertaking, of its managers and of any other relevant person. |  | При оценувањето на добриот углед, земјите членки треба да го земат предвид поведението на претпријатието, на неговите управители и на кое било друго релевантно лице. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(7)	The harmonised categorisation of serious infringements should provide the basis for extending the national risk rating system established by each Member State pursuant to Article 9 of Directive 2006/22/EC, in order to cover all serious infringements of the Union road transport rules, indicated in Article 6(1)(b) of Regulation (EC) No 1071/2009, which may affect the good repute of the transport undertaking or the transport manager.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(7)Усогласената категоризација на сериозни прекршоци треба да обезбеди основа за проширување на националниот систем за рангирање на ризик, воспоставен од секоја земја членка во согласност со член 9 од Директивата 2006/22/EЗ, со цел да се опфатат сите сериозни прекршоци на правилата за патен превоз на Унијата, наведени во член 6(1)(б) од Регулативата (ЕЗ) бр. 1071/2009, што може да влијаат на добриот углед на претпријатието за превоз или на управителот на превозот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T210232Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T212214Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240321T212214Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5992513875, 2725462173</prop>
+      <prop type="x-Context">4396635700212687382, 1748938523651118730</prop>
+      <prop type="x-ContextContent">(7)	The harmonised categorisation of serious infringements should provide the basis for extending the national risk rating system established by each Member State pursuant to Article 9 of Directive 2006/22/EC, in order to cover all serious infringements of the Union road transport rules, indicated in Article 6(1)(b) of Regulation (EC) No 1071/2009, which may affect the good repute of the transport undertaking or the transport manager. |  | (7)	Усогласената категоризација на сериозни прекршоци треба да обезбеди основа за проширување на националниот систем за рангирање на ризик воспоставен од секоја земја членка во согласност со член 9 од Директивата 2006/22/EЗ, со цел да се опфатат сите сериозни прекршоци на правилата за патен превоз на Унијата, наведени во член 6(1)(б) од Регулативата (ЕЗ) бр. 1071/2009, што може да влијаат на добриот углед на претпријатието за превоз или на управителот на превозот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(8)	Article 16(2) of Regulation (EC) No 1071/2009 also provides that Member States should include those serious infringements in the national electronic register of road transport undertakings on 1 January 2016 at the latest.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(8)Член 16(2) од Регулативата (ЕЗ) бр. 1071/2009, исто така, предвидува дека земјите членки треба да ги вклучат овие сериозни прекршоци во националниот електронски регистар на претпријатија за патен превоз најдоцна до 1 јануари 2016 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T211610Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T081000Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5549099002896107676, 1198508902571607570</prop>
+      <prop type="x-ContextContent">(8)	Article 16(2) of Regulation (EC) No 1071/2009 also provides that Member States should include those serious infringements in the national electronic register of road transport undertakings on 1 January 2016 at the latest. |  | (8)	Член 16(2) од Регулативата (ЕЗ) бр. 1071/2009, исто така, предвидува дека земјите членки треба да ги вклучат овие сериозни прекршоци во националниот електронски регистар на претпријатија за патен превоз најдоцна до 1 јануари 2016 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The harmonised categorisation of infringements is thus an important step forward ensuring fair competition between undertakings, more harmonised enforcement and an effective functioning of the European Register of Road Transport Undertaking system of exchange of information.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Затоа усогласената категоризација на прекршоците е важен чекор напред кој обезбедува фер конкуренција меѓу претпријатијата, поусогласено спроведување и ефикасно функционирање на системот за размена на информации на Европскиот регистар на претпријатија за патен превоз.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T211910Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T072641Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T072641Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5141595306038225609, 2191147118886862042</prop>
+      <prop type="x-ContextContent">The harmonised categorisation of infringements is thus an important step forward ensuring fair competition between undertakings, more harmonised enforcement and an effective functioning of the European Register of Road Transport Undertaking system of exchange of information. |  | Затоа усогласената категоризација на прекршоците е важен чекор напред кој обезбедува фер конкуренција меѓу претпријатијата, поусогласено спроведување и ефикасно функционирање на системот за размена на информации на Европскиот регистар на претпријатија за патен превоз. | </prop>
+      <prop type="x-Context">3475688288, 6717446769</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(9)	In the interest of transparency and fair competition a common method should be established for the calculation of a frequency of occurrence beyond which repeated infringements shall be regarded as more serious by the competent authority of the Member State of establishment.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(9)Заради транспарентност и фер конкуренција, треба да се воспостави заеднички метод за пресметување на зачестеноста за на тоа колку максимално пати еден прекршок треба да се повтори, пред за да се смета за посериозен од страна на надлежниот орган на земјата членка на основање.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T212606Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T073220Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-301206358968151777, -2783172859753048372</prop>
+      <prop type="x-ContextContent">(9)	In the interest of transparency and fair competition a common method should be established for the calculation of a frequency of occurrence beyond which repeated infringements shall be regarded as more serious by the competent authority of the Member State of establishment. |  | (9)	Заради транспарентност и фер конкуренција треба да се воспостави заеднички метод за пресметување на зачестеноста за тоа колку максимално еден прекршок треба да се повтори пред да се смета за посериозен од страна на надлежниот орган на земјата членка на основање. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Such repeated infringements may lead to launching the national administrative procedure, which, subject to the discretion of the competent authority, may result in the loss of good repute by a transport operator.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Таквите прекршоци може да доведат до започнување на национална административна постапка, која, според дискрецијата проценка на надлежниот орган, може да резултира со губење на добриот углед од страна на операторот за превоз.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">24</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T213100Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T213123Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240321T213123Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6854350188, 3649712579</prop>
+      <prop type="x-Context">-1117849806222825723, 76828831449370881</prop>
+      <prop type="x-ContextContent">Such repeated infringements may lead to launching the national administrative procedure, which, subject to the discretion of the competent authority, may result in the loss of good repute by a transport operator. |  | Таквите прекршоци може да доведат до започнување на национална административна постапка, која, според дискрецијата на надлежниот орган, може да резултира со губење на добриот углед од страна на операторот за превоз. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(10)	As a general rule, the frequency should be determined by taking into account the seriousness of the infringement, the time and the average number of drivers.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(10)По правило, зачестеноста треба да се утврди со оглед на сериозноста на прекршокот, времето и просечниот број на возачи.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">25</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T213123Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T081212Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1453866956661028225, 2091063931397517405</prop>
+      <prop type="x-ContextContent">(10)	As a general rule, the frequency should be determined by taking into account the seriousness of the infringement, the time and the average number of drivers. |  | (10)	По правило, зачестеноста треба да се утврди со оглед на сериозноста на прекршокот, времето и просечниот број на возачи. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>It shall be seen as the maximum threshold, whilst leaving Member States a possibility to apply lower thresholds, as envisaged in their national administrative procedure for assessing good repute.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Тоа се смета за максимален праг, при што земјите членки ќе имаат можност да применат пониски прагови, како што е предвидено во нивната национална административна постапка за оценување на добриот углед.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">26</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T213512Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T213556Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240321T213556Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1526000977, 1083886356</prop>
+      <prop type="x-Context">-3988993352108256281, -5424001590560464353</prop>
+      <prop type="x-ContextContent">It shall be seen as the maximum threshold, whilst leaving Member States a possibility to apply lower thresholds, as envisaged in their national administrative procedure for assessing good repute. |  | Тоа се смета за максимален праг, при што земјите членки ќе имаат можност да применат пониски прагови, како што е предвидено во нивната национална административна постапка за оценување на добриот углед. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(11)	To ensure the legal consistency and transparency it is also necessary to amend Annex III to Directive 2006/22/EC by changing the level of seriousness of certain infringements set out therein in accordance with the list of most serious infringements set out in Annex IV to Regulation (EC) No 1071/2009.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(11)За да се обезбеди правна конзистентност и транспарентност, исто така, неопходно е да се измени Анекс III кон Директивата 2006/22/ЕЗ со промена на нивото на сериозност на одредени прекршоци утврдени во него во согласност со листатасписокот на најсериозни прекршоци утврдени во Анекс IV кон Регулативата (ЕЗ) бр. 1071/2009</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">27</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T213730Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T073221Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-955419488722060419, -4153585617830376901</prop>
+      <prop type="x-ContextContent">(12)	The list of categories, types and degrees of seriousness of serious infringements has been determined in consultation with Member States and the Union stakeholders, where the assessment of the level of seriousness has been based on best practice and experience in the enforcement of the relevant legislative provisions in Member States. |  | (12)	Листата на категории, видови и степени на сериозност на сериозни прекршоци е утврдена во консултација со земјите членки и засегнатите страни на Унијата, онаму каде што проценката на нивото на сериозност се базира на најдобрите практики и искуства во спроведувањето на релевантните законски одредби во земјите членки. | </prop>
+      <prop type="x-Context">7583241942, 3699491758</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The most serious infringements established in Annex IV to Regulation (EC) No 1071/2009 constituted the reference upper threshold for the assessment of the level of seriousness of other relevant infringements.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ки. Најсериозните прекршоци утврдени во Анекс IV кон Регулативата (ЕЗ) бр. 1071/2009 го сочинуваат горниот референтен праг за проценка на нивото на сериозност на другите релевантни прекршоци.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">29</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T214007Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214053Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240321T214053Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4491504044431718260, -4324405311140695784</prop>
+      <prop type="x-ContextContent">The most serious infringements established in Annex IV to Regulation (EC) No 1071/2009 constituted the reference upper threshold for the assessment of the level of seriousness of other relevant infringements. |  | Најсериозните прекршоци утврдени во Анекс IV кон Регулативата (ЕЗ) бр. 1071/2009 го сочинуваат горниот референтен праг за проценка на нивото на сериозност на другите релевантни прекршоци. | </prop>
+      <prop type="x-Context">2414393783, 6488307437</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(13)	The measures provided for in this Regulation are in accordance with the opinion of the Committee on Road Transport set up by Article 18(1) of Council Regulation (EEC) No 3821/85<ph x="1" type="519" />,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(13)Мерките предвидени во оваа регулатива се во согласност со мислењето на Комитетот за патен превоз формиран со член 18(1) од Регулативата (ЕЕЗ) бр. 3821/85 на Советот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">30</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T214222Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T073221Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation establishes a common list of categories, types and degrees of serious infringements of the Union rules in the commercial road transport, as laid down in Annex I to this Regulation, which, in addition to those set out in Annex IV to Regulation (EC) No 1071/2009, may lead to the loss of good repute of a road transport operator.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>латива утврдува заедничкиа листасписок на категории, видови и степени на сериозни прекршоци на правилата на Унијата во комерцијалниот патен превоз, како што е утврдено во Анекс I кон оваа регулатива, кои, покрај оние наведени во Анекс IV кон Регулативата (EЗ) бр. 1071/2009, може да доведат до губење на добриот углед на еден оператор за патен превоз.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">35</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T214324Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T072610Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation provides for the maximum frequency of occurrence beyond which repeated serious infringements shall be regarded as more serious, by taking into account the number of drivers used for the transport activities managed by the transport manager, as laid down in Annex II.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2.Оваа регулатива ја утврдува зачестеноста за тоа колку максимално пати еден прекршок треба да се повтори пред за да се смета за посериозен, земајќи го предвид бројот на возачи кои се користат за превозните активности управувани од управителот за превоз, како што е утврдено во Анекс</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">36</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T214411Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T073222Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall take into account information on the serious infringements referred to in paragraphs 1 and 2 when carrying out the national administrative procedure on assessing good repute.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>II 3.Земјите членки ги земаат предвид информациите за сериозните прекршоци наведени во ставовите 1 и 2 при извршувањето на националната административна постапка за оценување на добриот углед.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">37</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T214616Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214644Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 32.1 |  | Член 32.1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Annex III to Directive 2006/22/EC is amended as set out in Annex III to this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 2 Анекс III кон Директивата 2006/22/EЗ се изменува како што е наведено во Анекс III кон оваа регулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">38</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210209T143423Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214650Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 32.1 |  | Член 32.1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation shall enter into force on the twentieth day following that of its publication in the <bpt i="1" type="564" x="1" />Official Journal of the European Union<ept i="1" />.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 3 Оваа регулатива влегува во сила на дваесеттиот ден од денот на нејзиното објавување во Службениот весник на Европската Унија</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">39</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T214656Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214719Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5944317684166092984, 3857083919918683480</prop>
+      <prop type="x-ContextContent">This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. | AgJlAQEBAQM1NjQBJgIBAQM1NjQB | Оваа регулатива влегува во сила на дваесеттиот ден од денот на нејзиното објавувањево Службениот весник на Европската Унија. | AgJWAQEBAQM1NjQBJgIBAQM1NjQB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>It shall apply from 1 January 2017.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. Се применува од 1 јануари 2017 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">40</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T214720Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214742Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8772670875476911692, 2076221276392002226</prop>
+      <prop type="x-ContextContent">It shall apply from 1 January 2017. |  | Се применува од 1 јануари 2017 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation shall be binding in its entirety and directly applicable in Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Оваа регулатива е целосно обврзувачка и директно применлива во земјите членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">41</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T214742Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214757Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6193778476132095238, -3760721980683978398</prop>
+      <prop type="x-ContextContent">This Regulation shall be binding in its entirety and directly applicable in Member States. |  | Оваа регулатива е целосно обврзувачка и директно применлива во земјите членки. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Brussels, 18 March 2016.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Брисел, 18 март 2016 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">42</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210902T112957Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214758Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6303317180498091632, -6128950553297531887</prop>
+      <prop type="x-ContextContent">Done at Brussels, 18 March 2016. |  | Брисел, 18 март 2016 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Commission</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Комисијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">43</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201020T074414Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214759Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1956864951517053623, 131080963057861854</prop>
+      <prop type="x-ContextContent">For the Commission |  | За Комисијата | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The President</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претседател</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">44</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231202T154105Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214807Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6451808141391308451, 4236527515880034</prop>
+      <prop type="x-ContextContent">The President |  | Претседател | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Jean-Claude JUNCKER</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Жан-Клод ЈУНКЕР</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">45</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231202T154110Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214809Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5441698860600404350, 131080112715026211</prop>
+      <prop type="x-ContextContent">Jean-Claude JUNCKER |  | Жан-Клод ЈУНКЕР | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX I</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС I</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">46</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T214811Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214813Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">108528083796055, 4395057713153</prop>
+      <prop type="x-ContextContent">ANNEX I |  | АНЕКС I | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Categorisation of serious infringements</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Категоризација на сериозни прекршоци</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">47</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20231129T130946Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214825Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1594175895995067954, 7434949558025754341</prop>
+      <prop type="x-ContextContent">Categorisation of serious infringements |  | Категоризација на сериозни прекршоци | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(referred to in Article 1)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(наведена во член 1)</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">48</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T214825Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T214857Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4626527639851743301, -4537136242496813772</prop>
+      <prop type="x-ContextContent">(referred to in Article 1) |  | (наведена во член 1) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The following tables contain categories and types of serious infringements against the Union rules in commercial road transport, divided into three categories of seriousness according to their potential to create a risk of fatalities or serious injuries.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Следните табели содржат категории и видови на сериозни прекршоци на правилата на Унијата во комерцијалниот патен превоз, поделени во три категории на сериозност според нивниот потенцијал да создадат ризик од смртни случаи или сериозни повреди.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">49</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T214859Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T215027Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="606" />Groups of infringements against Regulation (EC) No 561/2006 of the European Parliament and of the Council<ept i="1" />
+          <ph type="613" />
+          <bpt i="3" type="619" />(Driving and resting time)<ept i="3" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>1.Групи на прекршоци на Регулативата (ЕЗ) бр. 561/2006 на Европскиот парламент и на Советот() (време на возење и време за одмор)</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">50</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215312Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T215341Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240321T221048Z" usagecount="27">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">-7971310197331334345, -1595585978666939709</prop>
+      <prop type="x-ContextContent">Groups of infringements against Regulation (EC) no 561/2006 |  | Групи на прекршоци на Регулативата (ЕЗ) бр. 561/2006 | </prop>
+      <prop type="x-Context">-8138340810484132490, -134648882544470122</prop>
+      <prop type="x-ContextContent">Council Directive 92/6/EEC of 10 February 1992 on the installation and use of speed limitation devices for certain categories of motor vehicles in the Community (OJ L57, 2.3.1992, p.27). | AgQAAQEBAQMyMTgBogIBAQMyMTgBFgECAgEDMjI0AQICAgEDMjI0AQ== | Директива 92/6/EEЗ на Советот од 10 февруари 1992 година за инсталација и употреба на уреди за ограничување на брзината за одредени категории на моторни возила во Заедницата (Сл. весник L 57, 2.3.1992 година, стр.27). | AgQAAQEBAQMyMTgBrwIBAQMyMTgBKAECAgEDMjI0AQICAgEDMjI0AQ==</prop>
+      <prop type="x-Context">-594955174291711566, 6112986291947011718</prop>
+      <prop type="x-ContextContent">The Directive has been amended by Directive (EU) 2015/719 of the European Parliament and of the Council (OJL115, 6.5.2015, p.1), which shall be transposed by Member States by 7 May 2017. | AgQAAQEBAQMxNjEBaQIBAQMxNjEBFQECAgEDMTY3ATwCAgEDMTY3AQ== | Директивата е изменета со Директивата (ЕУ) 2015/719 на Европскиот парламент и на Советот (Сл. веснк L 115, 6.5.2015 година, стр. 1), која ja транспонирaат земјите членки до 7 мај 2017 година. | AgQAAQEBAQMxNjEBWgIBAQMxNjEBKAECAgEDMTY3AT0CAgEDMTY3AQ==</prop>
+      <prop type="x-Context">5535031672942370377, 335322143126349152</prop>
+      <prop type="x-ContextContent">Directive 2002/15/EC of the European Parliament and of the Council of 11 March 2002 on the organisation of the working time of persons performing mobile road transport activities (OJ L80, 23.3.2002, p.35). | AgQAAQEBAQMxMzYBtAIBAQMxMzYBFwECAgEDMTQyAQICAgEDMTQyAQ== | Директива 2002/15/ЕЗ на Европскиот парламент и на Советот од 11 март 2002 година за организација на работното време на лицата кои вршат активности за патен превоз (Сл. весник L 80, 23.3.2002 година, стр. 35) | AgQAAQEBAQMxMzYBpAIBAQMxMzYBKgECAgEDMTQyAQECAgEDMTQyAQ==</prop>
+      <prop type="x-Context">1246210444646671158, 5681483375123098365</prop>
+      <prop type="x-ContextContent">Directive 2006/126/EC of the European Parliament and of the Council of 20 December 2006 on driving licences (OJ L403, 30.12.2006, p.18). | AgQAAQEBAQMyNTYBbQIBAQMyNTYBGQECAgEDMjYyAQICAgEDMjYyAQ== | Директива 2006/126/EЗ на Европскиот парламент и на Советот од 20 декември 2006 година за возачки дозволи (Сл. весник L 403, 30.12.2006 година, стр. 18). | AgQAAQEBAQMyNTYBagIBAQMyNTYBLAECAgEDMjYyAQICAgEDMjYyAQ==</prop>
+      <prop type="x-Context">1902377003765254851, 2289557097002521464</prop>
+      <prop type="x-ContextContent">Directive 2014/47/EU of the European Parliament and of the Council of 3 April 2014 on the technical roadside inspection of the roadworthiness of commercial vehicles circulating in the Union and repealing Directive 2000/30/EC (OJ L127, 29.4.2014, p.134). | AgQAAQEBAQMxOTkB4gIBAQMxOTkBGQECAgEDMjA1AQICAgEDMjA1AQ== | Директива 2014/47/ЕУ на Европскиот парламент и на Советот од 3 април 2014 година за преглед на техничката исправност на патот на комерцијалните возила кои циркулираат во Унијата и за укинување на Директивата 2000/30/EЗ (Сл. весник L 127, 29.4.2014 година, стр.134). | AgQAAQEBAQMxOTkB3AIBAQMxOTkBKwECAgEDMjA1AQICAgEDMjA1AQ==</prop>
+      <prop type="x-Context">1141793528437619532, -4334725837868110225</prop>
+      <prop type="x-ContextContent">Regulation (EU) No 165/2014 of the European Parliament and of the Council of 4 February 2014 on tachographs in road transport, repealing Council Regulation (EEC) No 3821/85 on recording equipment in road transport and amending Regulation (EC) No 561/2006 of the European Parliament and of the Council on the harmonisation of certain social legislation relating to road transport (OJ L60, 28.2.2014, p.1). | AQQAAAAAAAAAAQEAAAAAAAAAAQMzOTkBfAEAAAIBAAAAAQMzOTkBFgAAAAECAAAAAAAAAAEDNDA1AQIAAAACAgAAAAEDNDA1AQ== | Регулатива (ЕУ) бр. 165/2014 на Европскиот парламент и на Советот од 4 февруари 2014 година за тахографи во патниот превоз, со која се укинува Регулативата (ЕЕЗ) бр. 3821/85 на Советот за опрема за снимање во патниот превоз и за изменување на Регулативата (ЕЗ) бр. 561/2006 на Европскиот парламент и на Советот за усогласување на одредено социјално законодавство во врска со патниот превоз (Сл. весник L 60, 28.2.2014 година, стр.1). | </prop>
+      <prop type="x-Context">-9141112814265940564, 7160862922577188139</prop>
+      <prop type="x-ContextContent">Directive 2008/68/EC of the European Parliament and of the Council of 24 September 2008 on the inland transport of dangerous goods (OJ L260, 30.9.2008, p.13). | AgQAAQEBAQMyNzUBhAIBAQMyNzUBGAECAgEDMjgxAQICAgEDMjgxAQ== | Директива 2008/68/EЗ на Европскиот парламент и на Советот од 24 септември 2008 година за внатрешен превоз на опасни материи (Сл. весник L 260, 30.9.2008 година, стр. 13). | AgQAAQEBAQMyNzUBfQIBAQMyNzUBKwECAgEDMjgxAQICAgEDMjgxAQ==</prop>
+      <prop type="x-Context">-4006261446274546456, -4006261446274546456</prop>
+      <prop type="x-ContextContent">https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:060:TOC |  | https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2014:060:TOC | </prop>
+      <prop type="x-Context">3833034678, 2131159586</prop>
+      <prop type="x-Context">3069942204545741505, -3932214990188952566</prop>
+      <prop type="x-ContextContent">Regulation (EC) No 561/2006 of the European Parliament and of the Council of 15 March 2006 on the harmonisation of certain social legislation relating to road transport and amending Council Regulations (EEC) No 3821/85 and (EC) No 2135/98 and repealing Council Regulation (EEC) No 3820/85 (OJ L102, 11.4.2006, p.1). | AQQAAAAAAAAAAQEAAAABAAAAAQI4NAEiAQAAAgEAAAABAjg0ARcAAAABAgAAAAAAAAABAjkwAQIAAAACAgAAAAECOTAB | Регулатива (ЕУ) бр. 561/2006 на Европскиот парламент и на Советот од 15 март 2006 година за усогласување на дел од социјалното законодавство во врска со патниот превоз и за изменување на Регулативите (ЕЕЗ) бр. 3821/85 и (ЕЗ) бр. 2135/98 и за укинување на Регулативата (ЕЕЗ) бр. 3820/85 на Советот (Сл. весник L 102, 11.4.2006 година, стр. 1). | AQIAAAAAAAAAAQEAAAABAAAAAQI4NAEqAQAAAgEAAAABAjg0AQ==</prop>
+      <prop type="x-Context">1931230072970693218, -437646570527223357</prop>
+      <prop type="x-ContextContent">Regulation (EC) No 1072/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international road haulage market (OJ L300, 14.11.2009, p.72). | AgQAAQEBAQMzMzIBowIBAQMzMzIBGQECAgEDMzM4AQICAgEDMzM4AQ== | Регулатива (ЕЗ) бр. 1072/2009 на Европскиот парламент и на Советот од 21 октомври 2009 година за заеднички правила за пристап на пазарот на меѓународен патен превоз на товар (Сл. весник L 300, 14.11.2009 година, стр. 72). | AgQUAQEBAQMzMzIBmwIBAQMzMzIBLAECAgEDMzM4AQICAgEDMzM4AQ==</prop>
+      <prop type="x-Context">-8712125225735499423, 6449059663271493468</prop>
+      <prop type="x-ContextContent">Directive 2003/59/EC of the European Parliament and of the Council of 15 July 2003 on the initial qualification and periodic training of drivers of certain road vehicles for the carriage of goods or passengers, amending Council Regulation (EEC) No 3820/85 and Council Directive 91/439/EEC and repealing Council Directive 76/914/EEC (OJ L226, 10.9.2003, p.4). | AQQAAAAAAAAAAQEAAAABAAAAAQMyMzcBTQEAAAIBAAAAAQMyMzcBFwAAAAECAAAAAgAAAAEDMjQzAQIAAAACAgAAAAEDMjQzAQ== | Директива 2003/59/ЕЗ на Европскиот парламент и на Советот од 15 јули 2003 година за почетна квалификација и периодична обука на возачи на одредени патни возила за превоз на стоки и на патници, за изменување на Регулативата (ЕЕЗ) бр. 3820/85 на Советот и Директивата 91/439/ЕЕЗ на Советот и за укинување на Директивата 76/914/ЕЕЗ на Советот (Сл. весник L 226, 10.9.2003 година, стр.4). | AQQAAAAAAAAAAQEAAAABAAAAAQMyMzcBVQEAAAIBAAAAAQMyMzcBKQAAAAECAAAAAgAAAAEDMjQzAQIAAAACAgAAAAEDMjQzAQ==</prop>
+      <prop type="x-Context">8543114997385896232, 1825385987505274405</prop>
+      <prop type="x-ContextContent">Regulation (EC) No 1073/2009 of the European Parliament and of the Council of 21 October 2009 on common rules for access to the international market for coach and bus services, and amending Regulation (EC) No 561/2006 (OJ L300, 14.11.2009, p.88). | AgQAAQEBAQMzNTEB2wIBAQMzNTEBGQECAgEDMzU3AQICAgEDMzU3AQ== | Регулатива (ЕЗ) бр. 1073/2009 на Европскиот парламент и на Советот од 21 октомври 2009 година за заеднички правила за пристап на меѓународниот пазар на обични и туристички автобуси и за изменување на Регулативата (ЕЗ) бр. 561/2006 (Сл. весник L 300, 14.11.2009 година, стр. 88). | AgQUAQEBAQMzNTEB1AIBAQMzNTEBLAECAgEDMzU3AQICAgEDMzU3AQ==</prop>
+      <prop type="x-Context">-2271058355960337562, 5595291440399064951</prop>
+      <prop type="x-ContextContent">Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations and amending Directives 64/432/EEC and 93/119/EC and Regulation (EC) No 1255/97 (OJ L3, 5.1.2005, p.1). | AgQAAQEBAQMzNzABzAIBAQMzNzABFAECAgEDMzc2AQICAgEDMzc2AQ== | Регулатива (EЗ) бр. 1/2005 на Советот од 22 декември 2004 година за заштита на животните за време на превозот и поврзаните операции и изменување на Директивите 64/432/EEЗ и 93/119/EЗ и Регулативата (EЗ) бр. 1255/97 (Сл. весник L 3, 5.1.2005 година, стр.1). | AgQmAQEBAQMzNzABsQIBAQMzNzABJwECAgEDMzc2AQICAgEDMzc2AQ==</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Бр.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">52</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215341Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T215342Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230527Z" usagecount="28">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3803359, 4759089</prop>
+      <prop type="x-ContextContent">No |  | Бр. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>LEGAL BASIS</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ПРАВНА ОСНОВА</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">53</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215344Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T215354Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230526Z" usagecount="9">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3241932007980699464, 131332173610762299</prop>
+      <prop type="x-ContextContent">LEGAL BASIS |  | ПРАВНА ОСНОВА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>TYPE OF INFRINGEMENT</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ВИД НА ПРЕКРШОК</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">54</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215354Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T215400Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230526Z" usagecount="4">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8196918103532892370, 8338366758634053519</prop>
+      <prop type="x-ContextContent">TYPE OF INFRINGEMENT |  | ВИД НА ПРЕКРШОК | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>LEVEL OF SERIOUSNESS<ph x="1" type="635" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>НИВО НА СЕРИОЗНОСТ(1)</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">55</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215518Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T215518Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230527Z" usagecount="448">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">-5600597213556097148, 5415370651641447083</prop>
+      <prop type="x-ContextContent">Use dirty or damaged record sheets or drivers card and data not legible |  | Користи валкани или оштетени листови за евиденција или картичка за возачи и податоци што не се читливи | </prop>
+      <prop type="x-Context">9040903447750442730, 1453792880134720424</prop>
+      <prop type="x-ContextContent">There are no instructions in writing conforming to the ADR, or the instructions in writing are not relevant to the goods carried |  | Не постојат инструкции во писмена форма кои се во согласност со ADR, или инструкциите во писмена форма не се релевантни за стоката која се превезува | </prop>
+      <prop type="x-Context">-3219384767721396587, -132301072504423152</prop>
+      <prop type="x-ContextContent">The vehicle does not carry the equipment required in the ADR or in the instructions in writing |  | Возилото не ја носи потребната опрема пропишана во ADR (Европската спогодба за меѓународниот патен превоз на опасни материи) или во инструкциите во писмена форма. | </prop>
+      <prop type="x-Context">1781725766128438470, 2792413360471113111</prop>
+      <prop type="x-ContextContent">Transporting dangerous goods without identifying them on the vehicle as dangerous goods, thus endangering lives or the environment to such extent that it leads to a decision to immobilise the vehicle |  | Превоз на опасни материи без истите да се наведат како опасни материи, со што се загрозуваат животи или животната средина до тој степен што доведува до одлука за исклучување на возилото од сообраќај | </prop>
+      <prop type="x-Context">-8703062030571266099, 4495468170824491793</prop>
+      <prop type="x-ContextContent">Driver not marking all required information for the periods of time which are no longer recorded while tachograph is unserviceable or malfunctioning |  | Возачот не ги означува сите потребни информации за периодите кои повеќе не се забележани, додека тахографот не може да се поправи или е нефункционален | </prop>
+      <prop type="x-Context">-6907092491960949650, -1691135340731919089</prop>
+      <prop type="x-ContextContent">Incorrect use of switch mechanism |  | Неправилна употреба на преклопниот механизам | </prop>
+      <prop type="x-Context">-4645638907484238039, -6671684006676102365</prop>
+      <prop type="x-ContextContent">Using lifting platforms or upper floors that do not have safety barriers preventing animals from falling or escaping during loading and unloading operations |  | Користење на платформи кои се дигаат или погорните катови кои немаат безбедносни бариери кои би ги спречиле животните да паднат или да избегаат за време на операциите за натовар и истовар | </prop>
+      <prop type="x-Context">1584743949939244028, -1151590557116726</prop>
+      <prop type="x-ContextContent">Unable to produce manual records and printouts made during the current day and the previous 28 days |  | Неможност за генерирање рачни записи и исписи направени во текот на тековниот ден и претходните 28 дена | </prop>
+      <prop type="x-Context">8580434573058783202, -1298895201079570211</prop>
+      <prop type="x-ContextContent">Using a fraudulent device able to modify the records of the tachograph |  | Користење на лажен уред кој може да ги модифицира записите на тахографот | </prop>
+      <prop type="x-Context">-6909904258372187367, -8303999012136736794</prop>
+      <prop type="x-ContextContent">Driving with a driver card of which the driver is not the holder (considered as driving without driver card) | AgJCAQEBAQQxNjI5ASkCAQEEMTYyOQE= | Возење со картичка за возач на која возачот не е носител (се смета за возење без картичка за возач) | AgI6AQEBAQQxNjI5ASgCAQEEMTYyOQE=</prop>
+      <prop type="x-Context">1954862046, 1954862046</prop>
+      <prop type="x-ContextContent">5 % ≤ … &lt; 10 % |  | 5 % ≤ … &lt; 10 % | </prop>
+      <prop type="x-Context">1954832472, 1805328644025924</prop>
+      <prop type="x-ContextContent">65 ≤ … &lt; 70h |  | 65 ≤ … &lt; 70 часа | </prop>
+      <prop type="x-Context">-6947100114467441521, -6085640033859353497</prop>
+      <prop type="x-ContextContent">Carrying passengers without holding a valid Community licence (i.e.: a licence is non-existent, falsified, withdrawn, expired, etc.) | AgI/AQEBAQQzNjkwAUQCAQEEMzY5MAE= | Превоз на патници без да се поседува валидна лиценца на Заедницата (т.е.: Лиценца не постои, или истата е фалсификувана, повлечена, истечена, итн.)) | AgJEAQEBAQQzNjkwAU8CAQEEMzY5MAE=</prop>
+      <prop type="x-Context">2181375197964996886, 1752196073382424419</prop>
+      <prop type="x-ContextContent">Unauthorised withdrawal of record sheets or driver card which has an impact on the record of relevant data |  | Неовластено повлекување на листови за евиденција или картичка за возачот што има влијание врз забележувањето на релевантни податоци | </prop>
+      <prop type="x-Context">-4249486572490476703, 3684175191215034004</prop>
+      <prop type="x-ContextContent">Transporting dangerous goods that are prohibited for transport |  | Превоз на опасни материи кои се забранети за превоз | </prop>
+      <prop type="x-Context">-3203522134527611097, -1646268816974544550</prop>
+      <prop type="x-ContextContent">Not using correct record sheet or driver card not in the correct slot (multi-manning) |  | Не се користат точни листови за евиденција или картичка за возачот во точниот слот (повеќечлен екипаж) | </prop>
+      <prop type="x-Context">1097914262155898675, 5799381529172762617</prop>
+      <prop type="x-ContextContent">Refusing to be checked |  | Одбивање на преглед | </prop>
+      <prop type="x-Context">1954832255, 1805328643705787</prop>
+      <prop type="x-ContextContent">20 &lt; … ≤ 30min |  | 20 &lt; … ≤ 30 мин | </prop>
+      <prop type="x-Context">1878824952058, -637545707953654850</prop>
+      <prop type="x-ContextContent">3h + [8h ≤ … &lt; 9h] |  | 3 часа + [8 часа ≤ … &lt; 9 часа] | </prop>
+      <prop type="x-Context">4951182713271987480, 7970718952147143330</prop>
+      <prop type="x-ContextContent">Not having type-approved tachograph installed and used (e.g.: not having a tachograph installed by fitters, workshops or vehicle manufacturers approved by the competent authorities of the Member States, using a tachograph without the necessary seals placed or replaced by an approved fitter, workshop or vehicle manufacturer or using a tachograph without the installation plaque) | AQIAAAA4AAAAAQEAAAABAAAAAQQxNTQ4AUIBAAACAQAAAAEEMTU0OAE= | Не е инсталиран хомологиран тахограф (на пр.: тахограф инсталиран од страна на инсталатори, работилници или производители на возила одобрени од надлежните органи на земјите членки, со користење на тахограф без потребните заптивки поставени или заменети од страна на одобрен инсталатор, работилница или производител на возила или со користење на тахограф без плочата за инсталација) | AQIAAAAmAAAAAQEAAAABAAAAAQQxNTQ4AVYBAAACAQAAAAEEMTU0OAE=</prop>
+      <prop type="x-Context">8862425354079361494, 1522971582712315416</prop>
+      <prop type="x-ContextContent">Carriage of packaged goods in a container which is not structurally serviceable |  | Превоз на пакувата стока во контејнер кој не е структурно употреблив | </prop>
+      <prop type="x-Context">2032205, 1876788729737</prop>
+      <prop type="x-ContextContent">… ≤ 20 min |  | … ≤ 20 мин | </prop>
+      <prop type="x-Context">3714612925432815866, -3398616504008967660</prop>
+      <prop type="x-ContextContent">Speed limitation device not satisfying the applicable technical requirements |  | Уредот за ограничување на брзината не ги задоволува применливите технички барања | </prop>
+      <prop type="x-Context">-2751363976130721767, -1598675602114457846</prop>
+      <prop type="x-ContextContent">Carrying passengers or goods without holding a valid driving licence |  | Превоз на патници и стока без поседување на возачка дозвола | </prop>
+      <prop type="x-Context">-451151468080532806, 9089696848114239890</prop>
+      <prop type="x-ContextContent">Link between wage and distance travelled or amount of goods carried |  | Поврзаност помеѓу платата и поминатото растојание или количината на превезените материи | </prop>
+      <prop type="x-Context">-451151468080532806, 9089696848114239890</prop>
+      <prop type="x-ContextContent">Link between wage and distance travelled or amount of goods carried |  | Поврзаност помеѓу платата и поминато растојание или количината на превезените материи | </prop>
+      <prop type="x-Context">4951182713271987480, 7970718952147143330</prop>
+      <prop type="x-ContextContent">Not having type-approved tachograph installed and used (e.g.: not having a tachograph installed by fitters, workshops or vehicle manufacturers approved by the competent authorities of the Member States, using a tachograph without the necessary seals placed or replaced by an approved fitter, workshop or vehicle manufacturer or using a tachograph without the installation plaque) | AQIAAAA3AAAAAQEAAAABAAAAAQQ1MzE2AUQBAAACAQAAAAEENTMxNgE= | Не е инсталиран хомологиран тахограф (на пр.: тахограф инсталиран од страна на инсталатори, работилници или производители на возила одобрени од надлежните органи на земјите членки, со користење на тахограф без потребните заптивки поставени или заменети од страна на одобрен инсталатор, работилница или производител на возила или со користење на тахограф без плочата за инсталација) | AQIAAAAmAAAAAQEAAAABAAAAAQQ1MzE2AVYBAAACAQAAAAEENTMxNgE=</prop>
+      <prop type="x-Context">4211449255299203776, 2868792829144573061</prop>
+      <prop type="x-ContextContent">Not keeping a vehicle in a safe and roadworthy condition resulting in a very serious deficiency of the braking system, the steering linkages, the wheels/tires, the suspension or chassis or other equipment that would create such an immediate risk to road safety that it leads to a decision to immobilise the vehicle |  | Неодржувањето на возилото во безбедна и добра состојба на патиштата што резултира со многу сериозен недостаток на системот за сопирање, управувачките врски, тркалата/гумите, суспензијата или шасијата или друга опрема што ќе создадат сериозен непосреден ризик за безбедноста на патот што доведува до одлука за исклучување на возилото од сообраќај | </prop>
+      <prop type="x-Context">8248898619909839016, -8278636970436947659</prop>
+      <prop type="x-ContextContent">The rules governing mixed loading of packages have not been complied with |  | Правилата со кои се регулира мешаното натовар на пакети не се исполнети | </prop>
+      <prop type="x-Context">7945958015929260616, -4462968476810490082</prop>
+      <prop type="x-ContextContent">Driving without holding a required journey form (i.e. journey form is non-existent, falsified, not containing the required information, etc.) | AgIxAQEBAQQzODEwAVsCAQEEMzgxMAE= | Возење без поседување на потребниот формулар за патување (т.е. формулар за патување не постои, фалсификуван е, не ги содржи потребните информации, итн) | AgI6AQEBAQQzODEwAV0CAQEEMzgxMAE=</prop>
+      <prop type="x-Context">2562979671115266022, 6503362145651895361</prop>
+      <prop type="x-ContextContent">The driver or the haulage undertaking unable to present a valid driver attestation or a valid certified true copy of the driver attestation to the inspecting officer (i.e. driver attestation or certified true copy of the driver attestation lost, forgotten, damaged, etc.) | AgKnAQEBAQQzNjE3AWcCAQEEMzYxNwE= | Возачот или претпријатието за товар не можат да му приложат валиден атест на возачот или валидна заверена копија од атестот на возачот на службеникот за инспекција (т.е. Атестот на возачот или заверената копија од атестот на возачот е изгубена, заборавена, оштетена итн.) | AgKlAQEBAQQzNjE3AWoCAQEEMzYxNwE=</prop>
+      <prop type="x-Context">-4512518145935536525, 7655924569199105955</prop>
+      <prop type="x-ContextContent">Carrying goods or passengers without a compulsory initial qualification and/or compulsory periodic training |  | Превоз на стока или патници без задолжителна почетна квалификација и/или задолжителна периодична обука | </prop>
+      <prop type="x-Context">8775155677299087860, -1626887709614672637</prop>
+      <prop type="x-ContextContent">Tachograph not correctly functioning (e.g.: tachograph not properly inspected, calibrated and sealed) | AgIlAQEBAQQ1NDY2AUACAQEENTQ2NgE= | Тахографот не функционира правилно (на пример: тахографот не е правилно прегледан, калибриран и запечатен) | AgIkAQEBAQQ1NDY2AUUCAQEENTQ2NgE=</prop>
+      <prop type="x-Context">7373234464698636973, -107789211084307419</prop>
+      <prop type="x-ContextContent">The vehicle is not carrying operational fire extinguishers as required |  | Возилото нема апарати за гаснење пожар како што се бара | </prop>
+      <prop type="x-Context">1954862046, 1954862046</prop>
+      <prop type="x-ContextContent">2 % &lt; … &lt; 20 % |  | 2 %&lt; … &lt; 20 % | </prop>
+      <prop type="x-Context">-5402717232332349327, -3795586579786989668</prop>
+      <prop type="x-ContextContent">Tachograph improperly used (e.g.: deliberate, voluntary or imposed misuse, lack of instructions on correct use, etc.) | AgIcAQEBAQQxNzAxAVgCAQEEMTcwMQE= | Тахографот неправилно се користи (на пример: намерна, доброволна или наметната злоупотреба, недостаток на инструкции за правилна употреба итн.) | AgIiAQEBAQQxNzAxAW0CAQEEMTcwMQE=</prop>
+      <prop type="x-Context">-3602405231963569149, -420201156496994651</prop>
+      <prop type="x-ContextContent">The provisions limiting the quantities carried in one transport unit have not been complied with, including permissible degrees of filling tanks or packages; |  | Одредбите со кои се ограничуваат количините кои се превезуваат во една транспортна единица не се исполнети, вклучувајќи ги и дозволените степени на полнење на резервоарите или пакетите; | </prop>
+      <prop type="x-Context">3409756952687352260, 994418379420852221</prop>
+      <prop type="x-ContextContent">No or improper organisation of driver's work, no or improper instructions given to driver enabling him to comply with the law |  | Нема организација на работата на возачот или истата е несоодветна, нема или на возачот му се дадени несоодветни инструкции кои треба му овозможат да го почитува законот | </prop>
+      <prop type="x-Context">-5402717232332349327, -3795586579786989668</prop>
+      <prop type="x-ContextContent">Tachograph improperly used (e.g.: deliberate, voluntary or imposed misuse, lack of instructions on correct use, etc.) | AgIbAQEBAQQ1NDkzAVoCAQEENTQ5MwE= | Тахографот неправилно се користи (на пример: намерна, доброволна или наметната злоупотреба, недостаток на инструкции за правилна употреба итн.) | AgIiAQEBAQQ1NDkzAW0CAQEENTQ5MwE=</prop>
+      <prop type="x-Context">2032205, 2032205</prop>
+      <prop type="x-ContextContent">20 % ≤ … |  | 20 % ≤ … | </prop>
+      <prop type="x-Context">1955070800, 5450225356546534184</prop>
+      <prop type="x-ContextContent">3h + [… &lt; 7h] |  | 3 часа + [… &lt; 7 часа] | </prop>
+      <prop type="x-Context">-7608329039603879966, 4991132118252129513</prop>
+      <prop type="x-ContextContent">Employed/self-employed drivers falsifying records or refusing to provide records to inspection officer |  | Вработени/самовработени возачи фалсификуваат записи или одбиваат да му обезбедат записи на инспекторот | </prop>
+      <prop type="x-Context">2032422, 1876789049874</prop>
+      <prop type="x-ContextContent">… ≤ 65h |  | … ≤ 65 часа | </prop>
+      <prop type="x-Context">330124640544404709, 4189147274540900627</prop>
+      <prop type="x-ContextContent">Driver does not hold a valid vocational training certificate |  | Возачот нема валиден сертификат за стручно образование | </prop>
+      <prop type="x-Context">3816827120, 2041807328</prop>
+      <prop type="x-Context">-988401559877932323, 9136890835445129452</prop>
+      <prop type="x-ContextContent">Falsifying, concealing, supressing or destroying data recorded on the record sheets or stored and downloaded from the tachograph and/or the driver card |  | Фалсификување, прикривање, потиснување или уништување на податоци забележани на листовите за евиденција или зачувани и преземени од тахографот и/или картичката за  возачот | </prop>
+      <prop type="x-Context">-988401559877932323, 9136890835445129452</prop>
+      <prop type="x-ContextContent">Falsifying, concealing, supressing or destroying data recorded on the record sheets or stored and downloaded from the tachograph and/or the driver card |  | Фалсификување, прикривање, потиснување или уништување на податоци забележани на листовите за евиденција или зачувани и преземени од тахографот и/или картичката за возачот | </prop>
+      <prop type="x-Context">-5366371507672957746, -6697928907005587518</prop>
+      <prop type="x-ContextContent">Not respecting minimum ages for conductors |  | Не се почитуваат минималните стандарди за возачи | </prop>
+      <prop type="x-Context">1955070800, -1208747557926211110</prop>
+      <prop type="x-ContextContent">8h30 ≤ … &lt; 10h |  | 8 часа 30 ≤ … &lt; 10 часа | </prop>
+      <prop type="x-Context">1955070800, -1208749292291395110</prop>
+      <prop type="x-ContextContent">105h ≤ … &lt; 112h30 |  | 105 часа ≤ … &lt; 112 часа 30 | </prop>
+      <prop type="x-Context">1955070800, 5450225356546534184</prop>
+      <prop type="x-ContextContent">42h ≤ … &lt; 45h |  | 42 часа ≤ … &lt; 45 часа | </prop>
+      <prop type="x-Context">3884793044, 6437006907</prop>
+      <prop type="x-Context">4010348725936021799, -3235922404592823609</prop>
+      <prop type="x-ContextContent">Driving with a driver card that has been falsified (considered as driving without driver card) | AgI0AQEBAQQxNjA4ASkCAQEEMTYwOAE= | Возење со картичка за возач која е фалсификувана (се смета за возење без картичка за возач) | AgIyAQEBAQQxNjA4ASgCAQEEMTYwOAE=</prop>
+      <prop type="x-Context">654549486573286999, -5155052990871172559</prop>
+      <prop type="x-ContextContent">Transporting without valid required documentation, journey log or transporter authorisation or certificate of competence |  | Превоз без валидна потребна документација, дневник од патувањето или одобрение на превозникот или сертификат за компетентност | </prop>
+      <prop type="x-Context">-1217888147905680286, -5645912075678437415</prop>
+      <prop type="x-ContextContent">Leakage of dangerous substances |  | Истекување на опасни материи | </prop>
+      <prop type="x-Context">-1977547076060301774, -8930627697532374019</prop>
+      <prop type="x-ContextContent">Tachograph not repaired by an approved fitter or workshop |  | Тахографот не е поправен од одобрен инсталатор или работилница | </prop>
+      <prop type="x-Context">1955070800, 5450225356546534184</prop>
+      <prop type="x-ContextContent">65h &lt; … ≤ 67h |  | 65 часа &lt; … ≤ 67 часа | </prop>
+      <prop type="x-Context">2032422, 1803594278841924</prop>
+      <prop type="x-ContextContent">… &lt; 8h30 |  | … &lt; 8 часа 30 | </prop>
+      <prop type="x-Context">2032422, 1876789049874</prop>
+      <prop type="x-ContextContent">… &lt; 3h |  | … &lt; 3 часа | </prop>
+      <prop type="x-Context">-7693102803625805418, 1990565483327589942</prop>
+      <prop type="x-ContextContent">Incorrect use of record sheets/driver card |  | Погрешна употреба на листови за евиденција/картичка за возачот | </prop>
+      <prop type="x-Context">-2522713232024638096, -6852681593644227367</prop>
+      <prop type="x-ContextContent">Carriage in bulk in a container which is not structurally serviceable |  | Превоз на рефус товар во контејнер кој не е структурно употреблив | </prop>
+      <prop type="x-Context">-5939382308966764078, -5061111149330403035</prop>
+      <prop type="x-ContextContent">Driving without a valid proof of roadworthiness tests passed, as required by the EU law |  | Возење без валиден доказ за поминати тестови за преглед на техничката исправност на патот, како што се бара со законот на ЕУ | </prop>
+      <prop type="x-Context">-5191353857255086547, 8403743746114391037</prop>
+      <prop type="x-ContextContent">Undertaking not keeping record sheets, printouts and downloaded data |  | Не се чуваат листови за евиденција, исписи и преземени податоци | </prop>
+      <prop type="x-Context">-5191353857255086547, -7640411606650208497</prop>
+      <prop type="x-ContextContent">Undertaking not keeping record sheets, printouts and downloaded data |  | Не се водат листови за евиденција, исписи и преземање податоци | </prop>
+      <prop type="x-Context">643930807878349850, -4985674071446351646</prop>
+      <prop type="x-ContextContent">Employers falsifying working time records or refusing to provide records to inspection officer |  | Работодавците фалсификуваат записи за работното време или одбиваат да му обезбедат записи на инспекторот | </prop>
+      <prop type="x-Context">-8314988280477242536, 5738670878854984212</prop>
+      <prop type="x-ContextContent">The ban on smoking is not being observed. |  | Забраната за пушење не се почитува. | </prop>
+      <prop type="x-Context">2011456710195159436, 339889590298143866</prop>
+      <prop type="x-ContextContent">Speed limitation device not fitted by an approved workshop |  | Уредот за ограничување на брзината не е монтиран од страна на одобрена работилница | </prop>
+      <prop type="x-Context">-600939560963940613, -5485048826801112042</prop>
+      <prop type="x-ContextContent">Fire or an unprotected light is being used |  | Се користи оган или незаштитена светлина | </prop>
+      <prop type="x-Context">4396500454705155144, -2677245327203237455</prop>
+      <prop type="x-ContextContent">Transporting dangerous goods in a prohibited or non-approved means of containment, thus endangering lives or the environment to such extent that it leads to a decision to immobilise the vehicle |  | Превоз на опасни материи во забранети или неодобрени контејнери, со што се загрозуваат животи или животната средина до тој степен што доведува до одлука за исклучување на возилото од сообраќај | </prop>
+      <prop type="x-Context">4124905453568454361, 3970431433535173617</prop>
+      <prop type="x-ContextContent">Stops of regular services in a Member State do not correspond to the issued authorisation |  | Запирањето на редовните услуги во една земја членка не одговара на издаденото одобрение | </prop>
+      <prop type="x-Context">-2723317229004189388, -6087604034316536633</prop>
+      <prop type="x-ContextContent">Vehicle no longer complies with the approval standards and presents an immediate danger |  | Возилото повеќе не е во согласност со стандардите за одобрување и претставува непосредна опасност | </prop>
+      <prop type="x-Context">58179520092088, 58180450567287</prop>
+      <prop type="x-ContextContent">3,10 metres ≤ … |  | 3,10 метри ≤ ... | </prop>
+      <prop type="x-Context">1955070552, 1803594278841924</prop>
+      <prop type="x-ContextContent">65h ≤ … &lt; 70 |  | 65 часа ≤ … &lt; 70 | </prop>
+      <prop type="x-Context">1955070800, 5450225356546534184</prop>
+      <prop type="x-ContextContent">56h ≤ … 60h |  | 56 часа ≤ … 60 часа | </prop>
+      <prop type="x-Context">2032422, 1803594278841924</prop>
+      <prop type="x-ContextContent">112h30 ≤ … |  | 112 часа 30 ≤ … | </prop>
+      <prop type="x-Context">2032422, 1876789049874</prop>
+      <prop type="x-ContextContent">13h ≤ … |  | 13 часа ≤ … | </prop>
+      <prop type="x-Context">2386501564555811478, 7733910640432113534</prop>
+      <prop type="x-ContextContent">Using loading or unloading ramps that has slippery surfaces, that lack lateral protections or that are too steep |  | Користење на рампи за натоварање и истоварање кои имаат лизгави површини, кои немаат странични заштити или кои се премногу стрмни | </prop>
+      <prop type="x-Context">1878822803820, 5450225356546534184</prop>
+      <prop type="x-ContextContent">3h &lt; … &lt; 4,5 h |  | 3 часа &lt; … &lt; 4,5 часа | </prop>
+      <prop type="x-Context">7011448131395764301, -4687619432976523550</prop>
+      <prop type="x-ContextContent">Partitions are not strong enough to withstand the weight of animals |  | Преградите не се доволно силни за да ја издржат тежината на животните | </prop>
+      <prop type="x-Context">5700629978890652432, -5352222586734626989</prop>
+      <prop type="x-ContextContent">The vehicle is not properly supervised or parked |  | Возилото не е соодветно паркирано или контролирано | </prop>
+      <prop type="x-Context">5579533246117227877, 730039995604348011</prop>
+      <prop type="x-ContextContent">Carriage in a vehicle without an appropriate certificate of approval |  | Превоз во возило без соодветен сертификат за одобрување | </prop>
+      <prop type="x-Context">-8498815082833632785, 3596046876016280508</prop>
+      <prop type="x-ContextContent">Tanks/tank containers (including ones that are empty and uncleaned) have not been closed properly |  | Резервоарите/контејнерите резервоари (вклучувајќи ги и оние што се празни и неисчистени) не се соодветно затворени | </prop>
+      <prop type="x-Context">2032422, 1803594278841924</prop>
+      <prop type="x-ContextContent">112h30≤ … |  | 112 часа 30≤ … | </prop>
+      <prop type="x-Context">3439525210402930819, -3370216673164852273</prop>
+      <prop type="x-ContextContent">The driver unable to present the authorisation to the inspecting officer (i.e. authorisation is lost, forgotten, damaged, etc.) | AgJKAQEBAQQzNzY1ATQCAQEEMzc2NQE= | Возачот не може да му го приложи одобрението на службеникот за инспекција (т.е. одобрението е изгубено, заборавено, оштетено, итн.) | AgJLAQEBAQQzNzY1ATcCAQEEMzc2NQE=</prop>
+      <prop type="x-Context">-8158967136921562919, -8292288411448478238</prop>
+      <prop type="x-ContextContent">Information relevant to the substance being carried enabling determination of level of seriousness of offence is missing (e.g. UN number, proper shipping name, packing group) | AgJ6AQEBAQQzMjI3ATMCAQEEMzIyNwE= | Недостасуваат информации релевантни за супстанцијата што се превезува, овозможувајќи утврдување на ниво на сериозност на прекршок (на пример, UN број, соодветно име на пратката, група за пакување) | AgKDAQEBAQQzMjI3AUACAQEEMzIyNwE=</prop>
+      <prop type="x-Context">8228104172076485851, -4502434387486176808</prop>
+      <prop type="x-ContextContent">Driver unable to present the valid qualification card or the driving licence with the marking, as required by the national law (e.g.: lost, forgotten, damaged, unreadable) | AgKAAQEBAQQyOTE2ASoCAQEEMjkxNgE= | Возачот не може да приложи валидна квалификациска картичка или возачка дозвола со ознака, како што наложува националното законодавство (на пример: изгубена, заборавена, оштетена, нечитлива) | AgKHAQEBAQQyOTE2ATUCAQEEMjkxNgE=</prop>
+      <prop type="x-Context">1868002964290026408, -157333025420256620</prop>
+      <prop type="x-ContextContent">Using a tachograph not inspected by an approved workshop |  | Користење на тахограф кој не е проверен од одобрена работилница | </prop>
+      <prop type="x-Context">6632024342005837788, 387975799951078401</prop>
+      <prop type="x-ContextContent">Community licence or certified true copy of the Community licence lost, forgotten, damaged, etc.) | AgIAAQEBAQQzNTY2AWACAQEEMzU2NgE= | лиценца на Заедницата или заверена копија од лиценцата на Заедницата е изгубена, заборавена, оштетена, итн.) | AgIAAQEBAQQzNTY2AWsCAQEEMzU2NgE=</prop>
+      <prop type="x-Context">-8438471852980843851, 598859169881389050</prop>
+      <prop type="x-ContextContent">Regular services without a valid authorisation (i.e.: authorisation is non-existent, falsified, withdrawn, expired, misused, etc.) | AgIwAQEBAQQzNzQxAVECAQEEMzc0MQE= | Редовни услуги без валидно одобрение (т.е. одобрението не постои, е фалсификувано, повлечено, истечено, злоупотребено итн) | AgImAQEBAQQzNzQxAVMCAQEEMzc0MQE=</prop>
+      <prop type="x-Context">-4291092603774068395, 7321044769397726021</prop>
+      <prop type="x-ContextContent">Using a fraudulent device able to falsify data of speed limitation device or using a fraudulent speed limitation device |  | Користење на лажен уред способен да фалсификува податоци за уред за ограничување на брзината или да користи лажен уред за ограничување на брзината | </prop>
+      <prop type="x-Context">1470101100832349801, -9062273812687825337</prop>
+      <prop type="x-ContextContent">Recorded and stored data not available for at least a year |  | Податоците кои се забележани и се чуваат не се достапни најмалку една година. | </prop>
+      <prop type="x-Context">55965187024349638, 55965187954824837</prop>
+      <prop type="x-ContextContent">2,65 ≤ … &lt; 3,10 metres |  | 2,65 ≤ ... &lt; 3,10 метри | </prop>
+      <prop type="x-Context">1955070800, 5450225356546534184</prop>
+      <prop type="x-ContextContent">90h &lt; … &lt; 100h |  | 90 часа &lt; … &lt; 100 часа | </prop>
+      <prop type="x-Context">1955070800, 1734922781376922862</prop>
+      <prop type="x-ContextContent">4h30 &lt; … &lt; 5h |  | 4 часа30 &lt; … &lt; 5 часа | </prop>
+      <prop type="x-Context">1952634255309943769, 221319708433480525</prop>
+      <prop type="x-ContextContent">Packages with damaged packaging, IBCs or large packaging or damaged uncleaned empty packaging are being carried |  | Се превезуваат пакети со оштетена амбалажа, оштетен контејнер за рефус товар (IBC) или големо пакување или оштетена празна амбалажа | </prop>
+      <prop type="x-Context">-1858824727560716231, 993335343944949292</prop>
+      <prop type="x-ContextContent">Carrying goods without holding a valid Community licence (i.e.: a licence is non-existent, falsified, withdrawn, expired, etc.) | AgI6AQEBAQQzNTQyAUQCAQEEMzU0MgE= | Превоз на материи без да се поседува валидна лиценца на Заедницата (т.е.: Лиценца не постои, или истата е фалсификувана, повлечена, истечена, итн.)) | AgJEAQEBAQQzNTQyAU8CAQEEMzU0MgE=</prop>
+      <prop type="x-Context">-5049777697224856319, 2754622763365297635</prop>
+      <prop type="x-ContextContent">Incorrect labelling, marking or placarding on the vehicle and/or containment |  | Погрешно означување, обележување или поставување таблички на возилото и/или чување во контејнер | </prop>
+      <prop type="x-Context">1952922562, 1876789049874</prop>
+      <prop type="x-ContextContent">4,5 h ≤ … |  | 4,5 часа ≤ ... | </prop>
+      <prop type="x-Context">-5433689515023662089, -819416804145956301</prop>
+      <prop type="x-ContextContent">The transport unit comprises more than one trailer/semi-trailer |  | Транспортната единица се состои од повеќе од еден приколка или полуприколка | </prop>
+      <prop type="x-Context">8243260251639547505, -2264409770103773252</prop>
+      <prop type="x-ContextContent">and no break/rest |  | и без одмор/пауза | </prop>
+      <prop type="x-Context">8243260251639547505, 618011594645094840</prop>
+      <prop type="x-ContextContent">and no break/rest |  | и без одмор и пауза | </prop>
+      <prop type="x-Context">2966312977967050047, 2667602011522197229</prop>
+      <prop type="x-ContextContent">Driver holding and/or using more than one own driver card |  | Возач кој поседува и/или користи повеќе од една картичка | </prop>
+      <prop type="x-Context">1698557544757525240, 1177103224285803194</prop>
+      <prop type="x-ContextContent">Carrying goods without holding a valid driver attestation (i.e. driver's attestation is non-existent, falsified; withdrawn, expired, etc.) | AgI7AQEBAQQzNTk2AU4CAQEEMzU5NgE= | Превоз на материи без поседување на валиден атест на возачот (т.е. не постои атест на возачот или истиот е фалискивуан, повлечен, истечен итн.) | AgI+AQEBAQQzNTk2AVECAQEEMzU5NgE=</prop>
+      <prop type="x-Context">7172710911364659470, 6674654274286435042</prop>
+      <prop type="x-ContextContent">Vehicle no longer complies with the approval standards but does not present an immediate danger |  | Возилото повеќе не е во согласност со стандардите за одобрување, но не претставува непосредна опасност | </prop>
+      <prop type="x-Context">-5404814023602471161, 9081396971825121622</prop>
+      <prop type="x-ContextContent">Record sheet or driver card used to cover a period longer than that for which it is intended and data is lost |  | Лист за евиденција или картичка за возачот што се користат во текот на период подолг од оној за кои се наменети и податоците се изгубени | </prop>
+      <prop type="x-Context">4912104884728683721, 4853742345825637677</prop>
+      <prop type="x-ContextContent">The carrier or the driver unable to present a valid Community licence or a valid certified true copy of the Community licence to the inspecting officer (i.e. licence or certified true copy lost, forgotten, damaged, etc.) | AgKZAQEBAQQzNzE0AUICAQEEMzcxNAE= | Превозникот или возачот не можат да му приложат валидна лиценца или валидна заверена копија од лиценцата на Заедницата на службеникот за инспекција (т.е. Лиценцата или заверената копија е изгубена, заборавена, оштетена итн.) | AgKVAQEBAQQzNzE0AUsCAQEEMzcxNAE=</prop>
+      <prop type="x-Context">-2131680718274092233, -5158410613945510798</prop>
+      <prop type="x-ContextContent">Driving with a driver card which has been obtained on the basis of false declarations and/or forged documents (considered as driving without driver card) | AgJvAQEBAQQxNjUwASkCAQEEMTY1MAE= | Возење со картичка за возач, која е добиена врз основа на лажни изјави и/или фалсификувани документи (се смета за возење без картичка за возач) | AgJmAQEBAQQxNjUwASgCAQEEMTY1MAE=</prop>
+      <prop type="x-Context">-8752612116009247601, 7066185432850234818</prop>
+      <prop type="x-ContextContent">The rules governing the securing and stowage of the load have not been complied with |  | Правилата за обезбедување и чување на товарот не се исполнети | </prop>
+      <prop type="x-Context">6942703147, 2128666264</prop>
+      <prop type="x-Context">7617982930197789329, 3169761979522066515</prop>
+      <prop type="x-ContextContent">Speed limitation device not fitted |  | Уредот за ограничување на брзината не е монтиран | </prop>
+      <prop type="x-Context">-8568236701359682960, -423467069485603418</prop>
+      <prop type="x-ContextContent">Unable to produce records of the driver card if the driver holds one |  | Неможност за генерирање записи за картичката на возачот ако возачот поседува картичка | </prop>
+      <prop type="x-Context">98019409528442843, -4553168295992606174</prop>
+      <prop type="x-ContextContent">Unable to produce records of current day and the previous 28 days |  | Неможност за генерирање записи од тековниот ден и претходните 28 дена | </prop>
+      <prop type="x-Context">3225318139103733242, 7724363412697687118</prop>
+      <prop type="x-ContextContent">Unable to produce a driver card, if the driver holds one |  | Неможност за изработка на картичка за возачот, ако возачот поседува картичка | </prop>
+      <prop type="x-Context">-8004439233711729785, -7761099446653681826</prop>
+      <prop type="x-ContextContent">Means of transport not approved for long journeys, or not approved for the type of animals being transported. |  | Превозните средства не се одобрени за долги патувања или не се одобрени за видот на животни што се превезуваат. | </prop>
+      <prop type="x-Context">8775155677299087860, -1626887709614672637</prop>
+      <prop type="x-ContextContent">Tachograph not correctly functioning (e.g.: tachograph not properly inspected, calibrated and sealed) | AgImAQEBAQQxNjc0AT4CAQEEMTY3NAE= | Тахографот не функционира правилно (на пример: тахографот не е правилно прегледан, калибриран и запечатен) | AgIkAQEBAQQxNjc0AUUCAQEEMTY3NAE=</prop>
+      <prop type="x-Context">-6651757630969798677, -3259936323078934121</prop>
+      <prop type="x-ContextContent">Not using manual input when required to do so |  | Не се користи рачен внес кога тоа е потребно | </prop>
+      <prop type="x-Context">4176676891829834884, -5063728889385320751</prop>
+      <prop type="x-ContextContent">Using a driving licence which is damaged or unreadable or not in line with common model |  | Користење на возачка дозвола која е оштетена или нечитлива или не е во согласност со заеднички модел | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>X</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>X</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">62</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215519Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T215523Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="4">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">123008, 123008</prop>
+      <prop type="x-ContextContent">X |  | X | </prop>
+      <prop type="x-Context">122326, 152551</prop>
+      <prop type="x-ContextContent">B |  | Б | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Driving periods</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Периоди на возење</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">63</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215526Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T081902Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230526Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 32.1 |  | Член 32.1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Exceed daily driving time of 9h if possibilities to extend to 10h not allowed</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2. Член 6.1 Надминување на дневното време на возење од 9 часа доколку не е дозволено продолжување на периодот до 10 часа</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">64</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215627Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T081658Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230527Z" usagecount="5">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032422, 2032422</prop>
+      <prop type="x-ContextContent">A1 |  | A1 | </prop>
+      <prop type="x-Context">-6739516657819252806, -1875670357410554759</prop>
+      <prop type="x-ContextContent">Insufficient daily rest period of less than 11h if reduced daily rest period not allowed |  | Недоволен дневен период за одмор помал од 11 часа, ако не е дозволен намален дневен период за одмор | </prop>
+      <prop type="x-Context">-9175232674318775466, 933089049344996498</prop>
+      <prop type="x-ContextContent">Exceed daily driving time of 9h if possibilities to extend to 10h not allowed |  | Надминување на дневното време на возење од 9 часа доколку не е дозволено продолжување на периодот до 10 часа | </prop>
+      <prop type="x-Context">6677421376, 3575124625</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>10h ≤ … &lt; 11h</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>10 часа ≤ … &lt; 11 часа</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">65</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215757Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T081736Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230526Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032422, 2032422</prop>
+      <prop type="x-ContextContent">A1 |  | A1 | </prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Exceed daily driving time of 9h by 50 % or more without taking a break or without any rest of at least 4,5 hours</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>X 4. Надминување на дневното време на возење од 9 часа до 50% или повеќе без пауза или без одмор од најмалку 4,5 часа</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">67</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215838Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T081723Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032422, 1803594278841924</prop>
+      <prop type="x-ContextContent">112h30 ≤ … |  | 112 часа 30 ≤ … | </prop>
+      <prop type="x-Context">2032422, 1876789049874</prop>
+      <prop type="x-ContextContent">13h ≤ … |  | 13 часа ≤ … | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>and no break/rest</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>≤ … и без одмор/пауза</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">69</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215848Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T215857Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">2032422, 2032422</prop>
+      <prop type="x-ContextContent">A1 |  | A1 | </prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Exceed extended daily driving time of 10h if extension allowed</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>X 5. Надминување на продолженото дневно време на возење од 10 часа ако е дозволено продолжување</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">70</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215858Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T215913Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230525Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">2032422, 2032422</prop>
+      <prop type="x-ContextContent">A1 |  | A1 | </prop>
+      <prop type="x-Context">-1720186005069005589, 7005224033925857473</prop>
+      <prop type="x-ContextContent">Exceed extended daily driving time of 10h if extension allowed |  | Надминување на продолженото дневно време на возење од 10 часа ако е дозволено продолжување | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>11h ≤ … &lt; 12h</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>11 часа ≤ … &lt; 12 часа</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">71</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T215926Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T081808Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230526Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032422, 2032422</prop>
+      <prop type="x-ContextContent">A1 |  | A1 | </prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">1. |  | 1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Exceed daily driving time of 10h by 50 % or more without taking a break of or without any rest of at least 4,5 hours</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>X 7. Надминување на дневното време на возење од 10 часа до 50% или повеќе без пауза или без одмор од најмалку 4,5 часа</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">73</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240321T220008Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240321T220008Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230526Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">-244664187566866411, -6287808132930243927</prop>
+      <prop type="x-ContextContent">Exceed daily driving time of 10h by 50 % or more without taking a break of or without any rest of at least 4,5 hours |  | Надминување на дневното време на возење од 10 часа до 50% или повеќе без пауза или без одмор од најмалку 4,5 часа | </prop>
+      <prop type="x-Context">2956169322, 4886581932</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>15h ≤ …</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>15 часа ≤ …</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">74</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20240325T074450Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20240325T074453Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20240325T230527Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8703062030571266099, 4495468170824491793</prop>
+      <prop type="x-ContextContent">Driver not marking all required information for the periods of time, which are no longer recorded while tachograph is unserviceable or malfunctioning |  | Возачот не ги означува сите потребни информации за периодите кои повеќе не се забележани, додека тахографот не може да се поправи или е нефункционален | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>X’</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>X</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R0403</prop>
+      <prop type="x-SourceTUIndex">416</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

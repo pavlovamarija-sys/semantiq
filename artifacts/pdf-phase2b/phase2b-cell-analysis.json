@@ -1,0 +1,327 @@
+{
+  "celex": "32006L0114",
+  "result": "All three cells are category A and are eligible for line-break serialization without changing text or the typed model.",
+  "affectedCells": [
+    {
+      "table": {
+        "index": 0,
+        "label": "Annex I Part A"
+      },
+      "row": 0,
+      "column": 0,
+      "typedModelNodeId": "tablecell-e795a50cb0cdd25f",
+      "pdfPage": 6,
+      "sourceText": "Council Directive 84/450/EEC\n(OJ L 250, 19.9.1984, p. 17)",
+      "sourceProvenance": [
+        {
+          "inlineSpanNodeId": "inlinespan-22bcd659b33a6562",
+          "text": "Council Directive 84/450/EEC",
+          "page": 6,
+          "sourceBlockIndex": 3,
+          "lineIds": [
+            "p6-b3-l0"
+          ],
+          "spanIds": [
+            "p6-b3-l0-s0"
+          ],
+          "boundingBoxes": [
+            {
+              "page": 6,
+              "x0": 93.53199768066406,
+              "y0": 187.9203338623047,
+              "x1": 195.2816162109375,
+              "y1": 196.64305114746094
+            }
+          ],
+          "readingOrderStart": 177,
+          "readingOrderEnd": 177,
+          "fontEvidence": {
+            "font_families": [
+              "EUAlbertina-Regular"
+            ],
+            "font_sizes": [
+              8.526599884033203
+            ],
+            "bold": false,
+            "italic": false,
+            "alignment": null,
+            "indentation": 93.53
+          }
+        },
+        {
+          "inlineSpanNodeId": "inlinespan-9a023372c60949f5",
+          "text": "(OJ L 250, 19.9.1984, p. 17)",
+          "page": 6,
+          "sourceBlockIndex": 4,
+          "lineIds": [
+            "p6-b4-l0"
+          ],
+          "spanIds": [
+            "p6-b4-l0-s0"
+          ],
+          "boundingBoxes": [
+            {
+              "page": 6,
+              "x0": 93.53199768066406,
+              "y0": 210.3026580810547,
+              "x1": 191.52732849121094,
+              "y1": 219.02537536621094
+            }
+          ],
+          "readingOrderStart": 178,
+          "readingOrderEnd": 178,
+          "fontEvidence": {
+            "font_families": [
+              "EUAlbertina-Regular"
+            ],
+            "font_sizes": [
+              8.526599884033203
+            ],
+            "bold": false,
+            "italic": false,
+            "alignment": null,
+            "indentation": 93.53
+          }
+        }
+      ],
+      "v1DocxParagraphs": [
+        "Council Directive 84/450/EEC",
+        "(OJ L 250, 19.9.1984, p. 17)"
+      ],
+      "v1StudioProjection": {
+        "transUnits": 2,
+        "catSegments": 2
+      },
+      "v2DocxParagraphs": [
+        "Council Directive 84/450/EEC\n(OJ L 250, 19.9.1984, p. 17)"
+      ],
+      "v2ControlledLineBreaks": 1,
+      "category": "A",
+      "classification": "one logical cell paragraph with visual citation separation",
+      "evidence": {
+        "sameLeftEdge": true,
+        "sameFontFamily": true,
+        "sameFontSize": true,
+        "sameBoldItalicState": true,
+        "verticalGapPoints": 13.6596,
+        "semanticRole": "parenthetical Official Journal citation subordinate to the instrument title in the same cell"
+      },
+      "v1SplitReason": "The V1 experimental renderer split TableCell.exact_text on newline and emitted every later fragment with target_cell.add_paragraph(part).",
+      "v2Serialization": "One w:p; source fragments remain separate runs with one w:br between them."
+    },
+    {
+      "table": {
+        "index": 0,
+        "label": "Annex I Part A"
+      },
+      "row": 1,
+      "column": 0,
+      "typedModelNodeId": "tablecell-1170670854759090",
+      "pdfPage": 6,
+      "sourceText": "Directive 97/55/EC of the European Parliament and of the Council\n(OJ L 290, 23.10.1997, p. 18)",
+      "sourceProvenance": [
+        {
+          "inlineSpanNodeId": "inlinespan-b6e595331328e7ca",
+          "text": "Directive 97/55/EC of the European Parliament and of the Council",
+          "page": 6,
+          "sourceBlockIndex": 5,
+          "lineIds": [
+            "p6-b5-l0"
+          ],
+          "spanIds": [
+            "p6-b5-l0-s0"
+          ],
+          "boundingBoxes": [
+            {
+              "page": 6,
+              "x0": 93.53199768066406,
+              "y0": 225.6326141357422,
+              "x1": 318.70587158203125,
+              "y1": 234.35533142089844
+            }
+          ],
+          "readingOrderStart": 179,
+          "readingOrderEnd": 179,
+          "fontEvidence": {
+            "font_families": [
+              "EUAlbertina-Regular"
+            ],
+            "font_sizes": [
+              8.526599884033203
+            ],
+            "bold": false,
+            "italic": false,
+            "alignment": null,
+            "indentation": 93.53
+          }
+        },
+        {
+          "inlineSpanNodeId": "inlinespan-22cf5c6aa5e940ee",
+          "text": "(OJ L 290, 23.10.1997, p. 18)",
+          "page": 6,
+          "sourceBlockIndex": 6,
+          "lineIds": [
+            "p6-b6-l0"
+          ],
+          "spanIds": [
+            "p6-b6-l0-s0"
+          ],
+          "boundingBoxes": [
+            {
+              "page": 6,
+              "x0": 93.53199768066406,
+              "y0": 248.0149383544922,
+              "x1": 196.07200622558594,
+              "y1": 256.7376403808594
+            }
+          ],
+          "readingOrderStart": 180,
+          "readingOrderEnd": 180,
+          "fontEvidence": {
+            "font_families": [
+              "EUAlbertina-Regular"
+            ],
+            "font_sizes": [
+              8.526599884033203
+            ],
+            "bold": false,
+            "italic": false,
+            "alignment": null,
+            "indentation": 93.53
+          }
+        }
+      ],
+      "v1DocxParagraphs": [
+        "Directive 97/55/EC of the European Parliament and of the Council",
+        "(OJ L 290, 23.10.1997, p. 18)"
+      ],
+      "v1StudioProjection": {
+        "transUnits": 2,
+        "catSegments": 2
+      },
+      "v2DocxParagraphs": [
+        "Directive 97/55/EC of the European Parliament and of the Council\n(OJ L 290, 23.10.1997, p. 18)"
+      ],
+      "v2ControlledLineBreaks": 1,
+      "category": "A",
+      "classification": "one logical cell paragraph with visual citation separation",
+      "evidence": {
+        "sameLeftEdge": true,
+        "sameFontFamily": true,
+        "sameFontSize": true,
+        "sameBoldItalicState": true,
+        "verticalGapPoints": 13.6596,
+        "semanticRole": "parenthetical Official Journal citation subordinate to the instrument title in the same cell"
+      },
+      "v1SplitReason": "The V1 experimental renderer split TableCell.exact_text on newline and emitted every later fragment with target_cell.add_paragraph(part).",
+      "v2Serialization": "One w:p; source fragments remain separate runs with one w:br between them."
+    },
+    {
+      "table": {
+        "index": 0,
+        "label": "Annex I Part A"
+      },
+      "row": 2,
+      "column": 0,
+      "typedModelNodeId": "tablecell-dcc19ff200192bde",
+      "pdfPage": 6,
+      "sourceText": "Directive 2005/29/EC of the European Parliament and of the Council\n(OJ L 149, 11.6.2005, p. 22)",
+      "sourceProvenance": [
+        {
+          "inlineSpanNodeId": "inlinespan-62f6b37293cf60db",
+          "text": "Directive 2005/29/EC of the European Parliament and of the Council",
+          "page": 6,
+          "sourceBlockIndex": 7,
+          "lineIds": [
+            "p6-b7-l0"
+          ],
+          "spanIds": [
+            "p6-b7-l0-s0"
+          ],
+          "boundingBoxes": [
+            {
+              "page": 6,
+              "x0": 93.53199768066406,
+              "y0": 263.3448791503906,
+              "x1": 327.7951965332031,
+              "y1": 272.0675964355469
+            }
+          ],
+          "readingOrderStart": 181,
+          "readingOrderEnd": 181,
+          "fontEvidence": {
+            "font_families": [
+              "EUAlbertina-Regular"
+            ],
+            "font_sizes": [
+              8.526599884033203
+            ],
+            "bold": false,
+            "italic": false,
+            "alignment": null,
+            "indentation": 93.53
+          }
+        },
+        {
+          "inlineSpanNodeId": "inlinespan-2f824b72723af60d",
+          "text": "(OJ L 149, 11.6.2005, p. 22)",
+          "page": 6,
+          "sourceBlockIndex": 8,
+          "lineIds": [
+            "p6-b8-l0"
+          ],
+          "spanIds": [
+            "p6-b8-l0-s0"
+          ],
+          "boundingBoxes": [
+            {
+              "page": 6,
+              "x0": 93.53199768066406,
+              "y0": 285.7272033691406,
+              "x1": 191.52732849121094,
+              "y1": 294.4499206542969
+            }
+          ],
+          "readingOrderStart": 183,
+          "readingOrderEnd": 183,
+          "fontEvidence": {
+            "font_families": [
+              "EUAlbertina-Regular"
+            ],
+            "font_sizes": [
+              8.526599884033203
+            ],
+            "bold": false,
+            "italic": false,
+            "alignment": null,
+            "indentation": 93.53
+          }
+        }
+      ],
+      "v1DocxParagraphs": [
+        "Directive 2005/29/EC of the European Parliament and of the Council",
+        "(OJ L 149, 11.6.2005, p. 22)"
+      ],
+      "v1StudioProjection": {
+        "transUnits": 2,
+        "catSegments": 2
+      },
+      "v2DocxParagraphs": [
+        "Directive 2005/29/EC of the European Parliament and of the Council\n(OJ L 149, 11.6.2005, p. 22)"
+      ],
+      "v2ControlledLineBreaks": 1,
+      "category": "A",
+      "classification": "one logical cell paragraph with visual citation separation",
+      "evidence": {
+        "sameLeftEdge": true,
+        "sameFontFamily": true,
+        "sameFontSize": true,
+        "sameBoldItalicState": true,
+        "verticalGapPoints": 13.6596,
+        "semanticRole": "parenthetical Official Journal citation subordinate to the instrument title in the same cell"
+      },
+      "v1SplitReason": "The V1 experimental renderer split TableCell.exact_text on newline and emitted every later fragment with target_cell.add_paragraph(part).",
+      "v2Serialization": "One w:p; source fragments remain separate runs with one w:br between them."
+    }
+  ]
+}

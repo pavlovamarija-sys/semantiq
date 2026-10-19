@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20211015T225630Z" creationid="RAPTUREDUX-PC\Lenovo">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32017D2170_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32017D2170</prop>
+    <prop type="x-SourceTMX">32017D2170_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">3ee5a7380ef15819ef3e7c4c2e5467e3abe74f7abf1ff3e8069db05b0aa1877e</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">5</prop>
+  </header>
+  <body>
+    <tu creationdate="20211015T230154Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20211015T230219Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20211018T050407Z" usagecount="2">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL IMPLEMENTING DECISION (EU) 2017/2170</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА ЗА СПРОВЕДУВАЊЕ (EУ) 2017/2170 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32017D2170</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211015T230223Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20211015T230233Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20211018T050407Z" usagecount="3">
+      <prop type="x-Context">205418278737191424, 7560219234391827688</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 15 November 2017</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 15 ноември 2017 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32017D2170</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211017T104838Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20211017T111046Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20211018T050407Z" usagecount="1">
+      <prop type="x-Context">3520251291494, -1473885434305972833</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(1)	A risk-assessment report on the new psychoactive substance N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]furan-2-carboxamide (furanylfentanyl) was drawn up in accordance with Decision 2005/387/JHA by a special session of the extended Scientific Committee of the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA), and was subsequently submitted to the Commission and to the Council on 24 May 2017.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид мислењето на Европскиот парламент (), со оглед на тоа што: (1)Известувањето за процена на ризикот за новата психоактивна супстанција N-фенил-N-[1-(2-фенилетил)пиперидин-4-ил]фуран-2-карбоксамид (фуранилфентанил) е составено во согласност со Одлуката 2005/387/ПВР на посебна сесија седница на Научниот одбор на Европскиот центар за следење на на дроги и зависности од дроги (ЕМЦДДА), а подоцна на 24 мај 2017 година беше поднесено до Комисијата и до Советот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017D2170</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211017T184459Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20211017T184631Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20211018T050407Z" usagecount="1">
+      <prop type="x-Context">-933359801213660041, -2968678226453940176</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(13)	Ireland is bound by Decision 2005/387/JHA and is therefore taking part in the adoption and application of this Decision, which implements Decision 2005/387/JHA.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(12)Данска е обврзана со Одлуката 2005/387/ПВР и според тоа учествува во донесувањето и во примената на оваа одлука, со која се спроведува Одлуката 2005/387/ПВР.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017D2170</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211017T184816Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20211017T184915Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20211018T050407Z" usagecount="1">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The new psychoactive substance N-phenyl-N-[1-(2-phenylethyl)piperidin-4-yl]furan-2-carboxamide (furanylfentanyl) shall be subject to control measures across the Union.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЈА ДОНЕСЕ ОВАА ОДЛУКА: Член 1 Новата психоактивна супстанција N-фенил-N-[1-(2-фенилетил)пиперидин-4-ил]фуран-2-карбоксамид (фуранилфентанил) подложи на контролни мерки во рамките на Унијата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32017D2170</prop>
+      <prop type="x-SourceTUIndex">24</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

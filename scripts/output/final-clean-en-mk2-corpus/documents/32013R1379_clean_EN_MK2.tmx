@@ -1,0 +1,1512 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210623T171036Z" creationid="sasPC\Sash">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">TM_32013R1379_Sashenka Gramatova Ljuben_MK1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32013R1379</prop>
+    <prop type="x-SourceTMX">32013R1379_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">7685e9fde7b30ab032ca7c989b7b132a3ddb1016d77cec454bd93665bc7b251b</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">94</prop>
+  </header>
+  <body>
+    <tu creationdate="20210623T171302Z" creationid="sasPC\Sash" changedate="20210623T171328Z" changeid="sasPC\Sash" lastusagedate="20210624T174547Z" usagecount="1">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>REGULATION (EU) No 1379/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) бр. 1379/2013 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T171328Z" creationid="sasPC\Sash" changedate="20210623T171333Z" changeid="sasPC\Sash" lastusagedate="20210624T175517Z" usagecount="2">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-1836507622456451695, -6259834632304551044</prop>
+      <prop type="x-ContextContent">REGULATION (EU) No 1379/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL |  | РЕГУЛАТИВА (ЕУ) бр. 1379/2013 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 11 December 2013</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 11 декември 2013 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T171334Z" creationid="sasPC\Sash" changedate="20210624T174849Z" changeid="sasPC\Sash" lastusagedate="20210624T174849Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3657596318, -6945057590836406931</prop>
+      <prop type="x-ContextContent">of 11 December 2013 |  | од 11 декември 2013 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>on the common organisation of the markets in fishery and aquaculture products, amending Council Regulations (EC) No 1184/2006 and (EC) No 1224/2009 and repealing Council Regulation (EC) No 104/2000</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за заедничката организација на пазарите на производи од рибарство и аквакултура, со која се изменуваат за изменување на Регулативите на Советот (ЕЗ) бр. 1184/2006 и (ЕЗ) бр. 1224/2009 на Советот и се за укинување на Регулативата на Советот (ЕЗ) бр. 104/2000</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T171820Z" creationid="sasPC\Sash" changedate="20210623T171850Z" changeid="sasPC\Sash" lastusagedate="20210625T160401Z" usagecount="2">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7124098552985558198, -4614663339850189355</prop>
+      <prop type="x-ContextContent">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, |  | ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 42 and 43(2) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>А, Имајќи имајќи го предвид Договорот за функционирање на Европската Уунија, а особено членовите 42 и 43(2) од негоистиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T171900Z" creationid="sasPC\Sash" changedate="20210623T171959Z" changeid="sasPC\Sash" lastusagedate="20210623T171959Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">1246045921828431099, 7507415331251785263</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, and in particular Articles 42 and 43(2) thereof, |  | Имајќи го предвид Договорот за функционирање на Европската унија, а особено членовите 42 и 43(2) од него, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Имајќи имајќи го предвид предлогот од Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T172231Z" creationid="sasPC\Sash" changedate="20210623T181020Z" changeid="sasPC\Sash" lastusagedate="20210623T181020Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the opinion of the European Economic and Social Committee (<ph x="1" type="758" />),</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>менти, Имајќи имајќи го предвид мислењето на Европскиот економско-социјален комитет (),</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210625T161358Z" creationid="sasPC\Sash" changedate="20210625T161424Z" changeid="sasPC\Sash" lastusagedate="20210625T161424Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3913219503254484508, 4587363136</prop>
+      <prop type="x-ContextContent">Subject matter |  | Предмет | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>A common organisation of the markets in fishery and aquaculture products (CMO) is hereby established.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>воспоставува заедничка организација на пазарите на производи од рибарство и аквакултура (ЗОП).</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">74</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210625T161425Z" creationid="sasPC\Sash" changedate="20210625T161437Z" changeid="sasPC\Sash" lastusagedate="20210625T161437Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">2730464346426761695, 8859333310068289831</prop>
+      <prop type="x-ContextContent">A common organisation of the markets in fishery and aquaculture products (CMO) is hereby established. |  | Со ова се воспоставува заедничка организација на пазарите на производи од рибарство и аквакултура (ЗОП). | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The CMO shall be comprised of the following elements:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЗОП ги опфаќа следните елементи:</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">75</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210625T161445Z" creationid="sasPC\Sash" changedate="20210625T164237Z" changeid="sasPC\Sash" lastusagedate="20210625T164237Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">6944233814753347645, -717398098514631262</prop>
+      <prop type="x-ContextContent">The CMO shall be comprised of the following elements: |  | ЗОП ги опфаќа следните елементи: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	professional organisations;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а) професионални организации;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">76</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210625T161538Z" creationid="sasPC\Sash" changedate="20210625T161610Z" changeid="sasPC\Sash" lastusagedate="20210625T161610Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">1625519989272272196, -5269747210517834932</prop>
+      <prop type="x-ContextContent">(d)	competition rules; |  | (г) правила за конкурентност; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	market intelligence.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д) истражување на пазарот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">80</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210625T161611Z" creationid="sasPC\Sash" changedate="20210625T161741Z" changeid="sasPC\Sash" lastusagedate="20210625T161741Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-78367493314713213, -7305160432667306107</prop>
+      <prop type="x-ContextContent">(e)	market intelligence. |  | (д) истражување на пазарот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The CMO shall be supplemented, as regards external aspects, by Council Regulation (EU) No 1220/2012 (<ph x="1" type="1028" />) and by Regulation (EU) No 1026/2012 of the European Parliament and of the Council (<ph x="2" type="1053" />).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЗОП, во однос на надворешните аспекти, ќе биде надополнета со Регулативата на Советот (ЕУ) бр. 1220/2012 на Советот () и Регулативата на Советот (ЕУ) бр. 1026/2012 на Европскиот парламент и на Советот ().</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">81</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210625T162726Z" creationid="sasPC\Sash" changedate="20210625T162807Z" changeid="sasPC\Sash" lastusagedate="20210625T162807Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3375977351184996, 148176652</prop>
+      <prop type="x-ContextContent">Objectives |  | Цели | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The objectives of the CMO are those laid down in Article 35 of Regulation (EU) No 1380/2013 of the European Parliament and of the Council (<ph x="1" type="1087" />).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>3 Цели Целите на ЗОП се оние што се утврдени во член 35 од Регулативата (ЕУ) бр. 1380/2013 на Европскиот парламент и на Советот ().</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">88</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210625T163042Z" creationid="sasPC\Sash" changedate="20210625T163043Z" changeid="sasPC\Sash" lastusagedate="20210625T163043Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Principles</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Начела</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">90</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210625T163044Z" creationid="sasPC\Sash" changedate="20210625T164153Z" changeid="sasPC\Sash" lastusagedate="20210625T164153Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3377269813886103, 4585056767</prop>
+      <prop type="x-ContextContent">Principles |  | Начела | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The CMO shall be guided by the principles of good governance laid down in Article 3 of Regulation (EU) No 1380/2013.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЗОП ќе се раководи според начелата на доброто раководење утврдено во член 3 од Регулативата (ЕУ) бр. 1380/2013.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">91</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210625T163157Z" creationid="sasPC\Sash" changedate="20210625T163510Z" changeid="sasPC\Sash" lastusagedate="20210625T163510Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3235374350142640013, 4398393441648</prop>
+      <prop type="x-ContextContent">Definitions |  | Дефиниции | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the purposes of this Regulation, the definitions referred to in Article 4 of Regulation (EU) No 1380/2013, as well as those referred to in Article 4 of Council Regulation (EC) No 1224/2009 (<ph x="1" type="1124" />), in Article 2 of Regulation (EU) No 1169/2011 of the European Parliament and of the Council (<ph x="2" type="1143" />), in Articles 2 and 3 of Regulation (EC) No 178/2002 of the European Parliament and of the Council (<ph x="3" type="1162" />), and in Article 3 of Regulation (EC) No 1333/2008 of the European Parliament and of the Council (<ph x="4" type="1181" />), shall apply.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>иниции За целите на оваа регулатива, се применуваат дефинициите наведени во член 4 од Регулативата (ЕУ) бр. 1380/2013, како и оние наведени во член 4 од Регулативата на Советот (ЕЗ) бр. 1224/2009 на Советот (), во член 2 од Регулативата (ЕУ) бр. 1169/2011 на Европскиот парламент и на Советот (), во членовите 2 и 3 од Регулативата (ЕЗ) бр. 178/2002 на Европскиот парламент и на Советот () и во член 3 од Регулативата (ЕЗ) бр. 1333/2008 на Европскиот парламент и на Советот (). Исто та</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">93</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T084649Z" creationid="sasPC\Sash" changedate="20210626T084724Z" changeid="sasPC\Sash" lastusagedate="20210626T084724Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Establishment of fishery producer organisations and aquaculture producer organisations</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 6 Основање организации на производители во секторот рибарство и организации на производители во секторот аквакулту</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">111</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T084727Z" creationid="sasPC\Sash" changedate="20210626T084843Z" changeid="sasPC\Sash" lastusagedate="20210626T084843Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-745261174851758728, 8190037941845151664</prop>
+      <prop type="x-ContextContent">Establishment of fishery producer organisations and aquaculture producer organisations |  | Основање организации на производители во секторот рибарство и организации на производители во секторот аквакултура | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Fishery producer organisations and aquaculture producer organisations ("producer organisations") may be established on the initiative of producers of fishery or aquaculture products in one or more Member States and recognised in accordance with Section II.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ра Организациите на производители во секторот рибарство и организациите на производители во секторот аквакултура („организации на производители“) може да се основаат на иницијатива на производителите на производи од рибарство и аквакултура, во една или во повеќе земји членки и да бидат признаени во согласност со Дел Оддел II.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">112</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T084847Z" creationid="sasPC\Sash" changedate="20210626T085023Z" changeid="sasPC\Sash" lastusagedate="20210626T085023Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">825559169684231737, -3920226990230942072</prop>
+      <prop type="x-ContextContent">Fishery producer organisations and aquaculture producer organisations ("producer organisations") may be established on the initiative of producers of fishery or aquaculture products in one or more Member States and recognised in accordance with Section II. |  | Организациите на производители во секторот рибарство и организациите на производители во секторот аквакултура („организации на производители“) може да се основаат на иницијатива на производителите на производи од рибарство и аквакултура, во една или повеќе земји членки и да бидат признаени во согласност со Дел II. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where relevant, the specific situation of small-scale producers shall be taken into account when establishing producer organisations.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>При основањето организации на производители, таму каде што е релевантно, ќе се земе предвид посебната ситуација на малите производители.,</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">113</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T085039Z" creationid="sasPC\Sash" changedate="20210626T085138Z" changeid="sasPC\Sash" lastusagedate="20210626T085138Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-1682832955842264405, 891814363397843738</prop>
+      <prop type="x-ContextContent">Where relevant, the specific situation of small-scale producers shall be taken into account when establishing producer organisations. |  | При основањето организации на производители, таму каде што е релевантно, ќе се земе предвид посебната ситуација на малите производители, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>A producer organisation that is representative of both fishery and aquaculture activities may be established as a joint fishery and aquaculture producer organisation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Организација на производители којашто е репрезентативна и за дејноста рибарство и за дејноста аквакултура, може да се основа како заедничка организацијаи на производители во секторите рибарство и аквакултура.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">114</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T085140Z" creationid="sasPC\Sash" changedate="20210626T085149Z" changeid="sasPC\Sash" lastusagedate="20210626T085149Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Objectives of producer organisations</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 7 Цели на организациите на производители</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">115</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T085155Z" creationid="sasPC\Sash" changedate="20210626T085229Z" changeid="sasPC\Sash" lastusagedate="20210626T085229Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-8783405473959699092, -6034068372699353463</prop>
+      <prop type="x-ContextContent">Objectives of producer organisations |  | Цели на организациите на производители | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Fishery producer organisations shall pursue the following objectives:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Организациите на производители во секторот рибарство тежнеат ги следат кон следните</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">116</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T085231Z" creationid="sasPC\Sash" changedate="20210626T085727Z" changeid="sasPC\Sash" lastusagedate="20210626T085727Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-3304901466757476308, -8071341365212052609</prop>
+      <prop type="x-ContextContent">Fishery producer organisations shall pursue the following objectives: |  | Организациите на производители во секторот рибарство тежнеат кон следните цели: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	promoting the viable and sustainable fishing activities of their members in full compliance with the conservation policy, as laid down, in particular, in Regulation (EU) No 1380/2013 and in environmental law, while respecting social policy and, where the Member State concerned so provides, participating in the management of marine biological resources;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>следниве цели: (а)промовирање остварливи и одржливи риболовни активности на нивните членови, целосно усогласени со политиката за зачувување, како што е утврдено во Регулативата (ЕУ) бр. 1380/2013 и во законодавството за животна средина, истовремено почитувајќи ја социјалната политика, и кога соодветната засегнатата земја членка ќе го овозможи тоа, учество во управувањето со морските биол</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">117</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T085730Z" creationid="sasPC\Sash" changedate="20210626T090238Z" changeid="sasPC\Sash" lastusagedate="20210626T090238Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7267097580833189418, -8002769317910485211</prop>
+      <prop type="x-ContextContent">(a)	promoting the viable and sustainable fishing activities of their members in full compliance with the conservation policy, as laid down, in particular, in Regulation (EU) No 1380/2013 and in environmental law, while respecting social policy and, where the Member State concerned so provides, participating in the management of marine biological resources; |  | (а)	промовирање остварливи и одржливи риболовни активности на нивните членови, целосно усогласени со политиката за зачувување, како што е утврдено во Регулативата (ЕУ) бр. 1380/2013 и законодавството за животна средина, истовремено почитувајќи ја социјалната политика, и кога соодветната земја членка ќе го овозможи тоа, учество во управувањето со морските биолошки ресурси; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	avoiding and reducing as far as possible unwanted catches of commercial stocks and, where necessary, making the best use of such catches, without creating a market for those that are below the minimum conservation reference size, in accordance with Article 15 of Regulation (EU) No 1380/2013;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ошки ресурси; (б)избегнување и намалување, што е можно повеќе, на несаканиот лов во комерцијалните резерви, како и најдобро искористување на таквиот лов според потребите, без да се создаде пазар за оние кои се под минималната референтна величина за зачувување, во согласност со член 15 од Регулативата (ЕУ) бр. 1380/2013;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">118</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T090240Z" creationid="sasPC\Sash" changedate="20210626T090331Z" changeid="sasPC\Sash" lastusagedate="20210626T090331Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7800537962102320485, -512122449513868</prop>
+      <prop type="x-ContextContent">(b)	avoiding and reducing as far as possible unwanted catches of commercial stocks and, where necessary, making the best use of such catches, without creating a market for those that are below the minimum conservation reference size, in accordance with Article 15 of Regulation (EU) No 1380/2013; |  | (б)	избегнување и намалување, што е можно повеќе, на несаканиот лов во комерцијалните резерви, како и најдобро искористување на таквиот лов според потребите, без да се создаде пазар за оние кои се под минималната референтна величина за зачувување, во согласност со член 15 од Регулативата (ЕУ) бр. 1380/2013; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	contributing to the traceability of fishery products and access to clear and comprehensive information for consumers;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)придонесување за следливост на производите од рибарство и пристап до јасни и сеопфатни информации за потрошувачите;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">119</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T090334Z" creationid="sasPC\Sash" changedate="20210626T090412Z" changeid="sasPC\Sash" lastusagedate="20210626T090412Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-1027767656563779918, -447722658379521517</prop>
+      <prop type="x-ContextContent">(c)	contributing to the traceability of fishery products and access to clear and comprehensive information for consumers; |  | (в)	придонесување за следливост на производите од рибарство и пристап до јасни и сеопфатни информации за потрошувачите; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	contributing to the elimination of illegal, unreported and unregulated fishing.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)придонесување за елиминирање на незаконски, непријавен и нерегулиран риболов.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">120</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T090435Z" creationid="sasPC\Sash" changedate="20210626T094656Z" changeid="sasPC\Sash" lastusagedate="20210626T094656Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">4670057549460381653, 8319478566042346911</prop>
+      <prop type="x-ContextContent">Aquaculture producer organisations shall pursue the following objectives: |  | Организациите на производители во секторот аквакултура тежнеат кон следните цели: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	promoting the sustainable aquaculture activities of their members through providing opportunities for their development in full compliance with, in particular, Regulation (EU) No 1380/2013 and with environmental law, while respecting social policy;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>е следниве цели: (а)промовирање одржливи активности на аквакултура на нивните членови преку обезбедување можности за нивен развој, целосно усогласен особено со Регулативата (ЕУ) бр. 1380/2013 и со законодавството за животна средина, истовремено почитувајќи ја социјалната поли</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">122</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T094704Z" creationid="sasPC\Sash" changedate="20210626T094812Z" changeid="sasPC\Sash" lastusagedate="20210626T094812Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">6436645209488648692, 3698577380681163971</prop>
+      <prop type="x-ContextContent">(a)	promoting the sustainable aquaculture activities of their members through providing opportunities for their development in full compliance with, in particular, Regulation (EU) No 1380/2013 and with environmental law, while respecting social policy; |  | (а)	промовирање одржливи активности на аквакултура на нивните членови преку обезбедување можности за нивен развој, целосно усогласен особено со Регулативата (ЕУ) бр. 1380/2013 и со законодавството за животна средина, истовремено почитувајќи ја социјалната политика; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	ascertaining that the activities of their members are consistent with the national strategic plans referred to in Article 34 of Regulation (EU) No 1380/2013;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тика; (б)обезбедување одредени активности на нивните членови да бидат конзистентни со националните стратешки планови од член 34 на Регулативата (ЕУ) бр. 1380/2013;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">123</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T094814Z" creationid="sasPC\Sash" changedate="20210626T095126Z" changeid="sasPC\Sash" lastusagedate="20210626T095126Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">5350913829359224161, -1816237127126797944</prop>
+      <prop type="x-ContextContent">(b)	ascertaining that the activities of their members are consistent with the national strategic plans referred to in Article 34 of Regulation (EU) No 1380/2013; |  | (б)	обезбедува одредени активности на нивните членови да бидат конзистентни со националните стратешки планови од член 34 на Регулативата (ЕУ) бр. 1380/2013; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	endeavouring to ensure that aquaculture feed products of fishery origin come from fisheries that are sustainably managed.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)настојување да се обезбеди производите од рибно потекло со коишто се хранат производите од аквакултура да потекнуваат од рибарство со коешто се управува на одржлив начин.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">124</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T094958Z" creationid="sasPC\Sash" changedate="20210626T095128Z" changeid="sasPC\Sash" lastusagedate="20210626T095128Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-6850851221411827149, -3376489338796799840</prop>
+      <prop type="x-ContextContent">(c)	endeavouring to ensure that aquaculture feed products of fishery origin come from fisheries that are sustainably managed. |  | (в)	настојување да се обезбеди производите од рибно потекло со коишто се хранат производите од аквакултура да потекнуваат од рибарство со коешто се управува на одржлив начин. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Producer organisations shall, in addition to the objectives laid down in paragraphs 1 and 2, pursue two or more of the following objectives:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Организациите на производители, покрај целите утврдени во ставовите 1 и 2, се стремат да постигнат следат две или или повеќе од следните с</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">125</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T095137Z" creationid="sasPC\Sash" changedate="20210626T095203Z" changeid="sasPC\Sash" lastusagedate="20210626T095203Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3761010003831050093, 3098319818079453312</prop>
+      <prop type="x-ContextContent">(a)	improving the conditions for the placing on the market of their members' fishery and aquaculture products; |  | (а)	унапредување на условите за пласман на пазарот на производите од рибарство и аквакултура на нивните членови; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	improving economic returns;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ви; (б)подобрување на економската добивка;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">127</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T095206Z" creationid="sasPC\Sash" changedate="20210626T095219Z" changeid="sasPC\Sash" lastusagedate="20210626T095219Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">4039584352073705278, -4629914504172211835</prop>
+      <prop type="x-ContextContent">(b)	improving economic returns; |  | (б)	подобрување на економската добивка; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	stabilising the markets;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)стабилизирање на пазарите;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">128</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T095216Z" creationid="sasPC\Sash" changedate="20210626T095343Z" changeid="sasPC\Sash" lastusagedate="20210626T095343Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-3190059615952007427, -5846253065998276869</prop>
+      <prop type="x-ContextContent">(c)	stabilising the markets; |  | (в)	стабилизирање на пазарите; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	contributing to food supply and promoting high food quality and safety standards, whilst contributing to employment in coastal and rural areas;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)придонес кон снабдувањето со храна и промовирање храна со висок квалитет и безбедносни стандардни, истовремено придонесувајќи кон вработувањето во крајбрежните и руралните области;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">129</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T095347Z" creationid="sasPC\Sash" changedate="20210626T095523Z" changeid="sasPC\Sash" lastusagedate="20210626T095523Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-6345037356725971109, 3653777001708967292</prop>
+      <prop type="x-ContextContent">(d)	contributing to food supply and promoting high food quality and safety standards, whilst contributing to employment in coastal and rural areas; |  | (г)	придонес кон снабдувањето со храна и промовирање храна со висок квалитет и безбедносни стандардни, истовремено придонесувајќи кон вработувањето во крајбрежните и руралните области; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	reducing the environmental impact of fishing, including through measures to improve the selectivity of fishing gears.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д)намалување на влијанието на риболовот врз животната средина, преку мерки за подобрување на селективноста на риболовната опрема.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">130</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T095450Z" creationid="sasPC\Sash" changedate="20210626T095603Z" changeid="sasPC\Sash" lastusagedate="20210626T095603Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-8095461615137776125, 7578494607792761968</prop>
+      <prop type="x-ContextContent">(e)	reducing the environmental impact of fishing, including through measures to improve the selectivity of fishing gears. |  | (д)	намалување на влијанието на риболовот врз животната средина, преку мерки за подобрување на селективноста на риболовната опрема. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Producer organisations may pursue other complementary objectives.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Организациите на производители може тежнеат кон постигнување да следат други комплементарни цели.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">131</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T095604Z" creationid="sasPC\Sash" changedate="20210626T095612Z" changeid="sasPC\Sash" lastusagedate="20210626T095612Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures deployable by producer organisations</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 8 Мерки што ги преземаат организациите на производите</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">132</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T095616Z" creationid="sasPC\Sash" changedate="20210626T095644Z" changeid="sasPC\Sash" lastusagedate="20210626T095644Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-181210558077360737, -1305775358049753978</prop>
+      <prop type="x-ContextContent">Measures deployable by producer organisations |  | Мерки што ги преземаат организациите на производители | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In order to achieve the objectives set out in Article 7, producer organisations may, inter alia, make use of the following measures:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ли Заради постигнување на целите утврдени во член 7, организациите на производители можеат, меѓу другото, да ги користат следните следниве мерки:</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">133</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T095713Z" creationid="sasPC\Sash" changedate="20210626T095726Z" changeid="sasPC\Sash" lastusagedate="20210626T095726Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-4979023451184647797, 8224834472524166559</prop>
+      <prop type="x-ContextContent">In order to achieve the objectives set out in Article 7, producer organisations may, inter alia, make use of the following measures: |  | Заради постигнување на целите утврдени во член 7, организациите на производители можат, меѓу другото, да ги користат следните мерки: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	adjusting production to market requirements;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(a)приспособување на производството на пазарните барања;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">134</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T095750Z" creationid="sasPC\Sash" changedate="20210626T102242Z" changeid="sasPC\Sash" lastusagedate="20210626T102242Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-2066291025697214581, -3339274590979507613</prop>
+      <prop type="x-ContextContent">(b)	channelling the supply and marketing of their members' products; |  | (б)	насочување на снабдувањето и продажбата на производите на нивните членови; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	promoting the Union fishery and aquaculture products of their members in a non-discriminatory manner by using, for example, certification, and in particular designations of origin, quality seals, geographical designations, traditional specialities guaranteed, and sustainability merits;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а нивните членови; (в)промовирање на производите од рибарство и аквакултура на нивните членови од Унијата на недискриминирачки начин, преку користење, на пример, сертификати, особено ознаки за потекло, квалитет, географско потекло, гарантирани традиционални специјалитети, како и вредноста којашто ја имаат производите поради нивните одржливи начини на производство;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">136</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T100114Z" creationid="sasPC\Sash" changedate="20210626T100324Z" changeid="sasPC\Sash" lastusagedate="20210626T100324Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	controlling and taking measures to ensure that their members' activities comply with the rules established by the producer organisation concerned;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)контролирање и преземање мерки за обезбедување усогласеност на нивните членови со правилата на односната засегнатата организација на произво</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">137</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T100326Z" creationid="sasPC\Sash" changedate="20210626T100407Z" changeid="sasPC\Sash" lastusagedate="20210626T100407Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">2916362049830337000, -7059001209203244611</prop>
+      <prop type="x-ContextContent">(d)	controlling and taking measures to ensure that their members' activities comply with the rules established by the producer organisation concerned; |  | (г)	контролирање и преземање мерки за обезбедување усогласеност на нивните членови со правилата на односната организација на производители; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	promoting vocational training and cooperation programmes to encourage young people to enter the sector;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>дители; (д)промовирање стручна обука и програми за соработка со цел да ги поттикне младите луѓе да влезат во овој сек</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">138</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T100409Z" creationid="sasPC\Sash" changedate="20210626T100439Z" changeid="sasPC\Sash" lastusagedate="20210626T100439Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7865588240958752035, 1473185611675163678</prop>
+      <prop type="x-ContextContent">(e)	promoting vocational training and cooperation programmes to encourage young people to enter the sector; |  | (д)	промовирање стручна обука и програми за соработка со цел да ги поттикне младите луѓе да влезат во овој сектор; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(f)	reducing the environmental impact of fishing, including through measures to improve the selectivity of fishing gears;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тор; (ѓ)намалување на влијанието на риболовот, вклучително и преку мерки за подобрување на селективноста на риболовната опрема;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">139</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T100538Z" creationid="sasPC\Sash" changedate="20210626T102109Z" changeid="sasPC\Sash" lastusagedate="20210626T102109Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">4756427688707965602, -4567964915038218333</prop>
+      <prop type="x-ContextContent">(f)	reducing the environmental impact of fishing, including through measures to improve the selectivity of fishing gears; |  | (ѓ)	намалување на влијанието на риболовот, вклучително и преку мерки за подобрување на селективноста на риболовната опрема; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(g)	promoting the use of information and communication technology to improve marketing and prices;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(е)промовирање на употребата на информатичката и комуникациската технологија со цел подобрување на продажбата пласирањето на пазарот</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">140</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T100616Z" creationid="sasPC\Sash" changedate="20210626T100648Z" changeid="sasPC\Sash" lastusagedate="20210626T100648Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(h)	facilitating consumer access to information on fishery and aquaculture products.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и цените; (ж)олеснување на пристапот на потрошувачите до информации за производи од рибарство и аквакултура.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">141</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T100651Z" creationid="sasPC\Sash" changedate="20210626T100748Z" changeid="sasPC\Sash" lastusagedate="20210626T100748Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-2453480246151429344, 8796798986226810660</prop>
+      <prop type="x-ContextContent">(h)	facilitating consumer access to information on fishery and aquaculture products. |  | (ж)	олеснување на пристапот на потрошувачите до информации за производи од рибарство и аквакултура. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Fishery producer organisations may also make use of the following measures:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Организациите на производители од секторот рибарство можеат исто така да ги користат следните следниве мерки:</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">142</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T101637Z" creationid="sasPC\Sash" changedate="20210626T101809Z" changeid="sasPC\Sash" lastusagedate="20210626T101809Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">2207830462162445361, 2891059342967578936</prop>
+      <prop type="x-ContextContent">Fishery producer organisations may also make use of the following measures: |  | Организациите на производители од секторот рибарство можат исто така да ги користат следните мерки: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	collectively planning and managing the fishing activities of their members, subject to the organisation, by Member States, of the management of marine biological resources, including developing and implementing measures to improve the selectivity of fishing activities and advising competent authorities;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(a)заедничко планирање и управување со риболовните активности на нивните членови, што подлежи на организирање на управувањето со морските биолошки ресурси од страна на земјите членки и спроведување мерки за подобрување на селективноста на риболовните активности и давање совети на надлежните телаоргани;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">143</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T101813Z" creationid="sasPC\Sash" changedate="20210626T102101Z" changeid="sasPC\Sash" lastusagedate="20210626T102101Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-952550877442063924, 4087291500952656057</prop>
+      <prop type="x-ContextContent">(a)	collectively planning and managing the fishing activities of their members, subject to the organisation, by Member States, of the management of marine biological resources, including developing and implementing measures to improve the selectivity of fishing activities and advising competent authorities; |  | (a)	заедничко планирање и управување со риболовните активности на нивните членови, што подлежи на организирање на управувањето со морските биолошки ресурси од страна на земјите членки и спроведување мерки за подобрување на селективноста на риболовните активности и давање совети на надлежните тела; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	avoiding and minimising unwanted catches through involvement in the development and application of technical measures, and making the best use of unwanted catches of commercial stocks without creating a market for those catches that are below the minimum conservation reference size, in accordance with Article 15(11) of Regulation (EU) No 1380/2013 and Article 34(2) of this Regulation, as appropriate;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)избегнување и намалување на несаканиот лов преку вклучувањето во развој и примена на технички мерки, и искористување на најдобар можен начин на комерцијалните резерви на несакан лов, со цел да не се создаде пазар за таквиот лов којшто е под референтната големина за зачувување, во согласност со член 15(11) од Регулативата (ЕУ) бр. 1380/2013 и член 34(2) од оваа регулатива, според потребните:како е соодве</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">144</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T102245Z" creationid="sasPC\Sash" changedate="20210626T102316Z" changeid="sasPC\Sash" lastusagedate="20210626T102316Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">5364672210264401004, -7299057809615965340</prop>
+      <prop type="x-ContextContent">(b)	avoiding and minimising unwanted catches through involvement in the development and application of technical measures, and making the best use of unwanted catches of commercial stocks without creating a market for those catches that are below the minimum conservation reference size, in accordance with Article 15(11) of Regulation (EU) No 1380/2013 and Article 34(2) of this Regulation, as appropriate; |  | (б)	избегнување и намалување на несаканиот лов преку вклучувањето во развој и примена на технички мерки, и искористување на најдобар можен начин на комерцијалните резерви на несакан лов, со цел да не се создаде пазар за таквиот лов којшто е под референтната големина за зачувување, во согласност со член 15(11) од Регулативата (ЕУ) бр. 1380/2013 и член 34(2) од оваа регулатива, според потребните: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	managing temporary storage for fishery products in accordance with Articles 30 and 31 of this Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тно; (в)управување со привременото складирање на производи од рибарство во согласност со членовите 30 и 31 од оваа регулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">145</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T102317Z" creationid="sasPC\Sash" changedate="20210626T102336Z" changeid="sasPC\Sash" lastusagedate="20210626T102336Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3576075068246815674, 6833122407383401919</prop>
+      <prop type="x-ContextContent">(c)	managing temporary storage for fishery products in accordance with Articles 30 and 31 of this Regulation. |  | (в)	управување со привременото складирање на производи од рибарство во согласност со членовите 30 и 31 од оваа регулатива. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Aquaculture producer organisations may also make use of the following measures:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Организациите на производители од секторот аквакултура можеат исто така да ги користат следните следниве</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">146</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T102339Z" creationid="sasPC\Sash" changedate="20210626T102438Z" changeid="sasPC\Sash" lastusagedate="20210626T102438Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">2938427139476115738, -4711609708655436328</prop>
+      <prop type="x-ContextContent">Aquaculture producer organisations may also make use of the following measures: |  | Организациите на производители од секторот аквакултура можат исто така да ги користат следните мерки: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	promoting sustainable aquaculture activities, notably in terms of environmental protection, animal health and animal welfare;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>мерки: (а)промовирање одржливи активности на аквакултура, особено во смисла на заштита на животната средина, здравјето и добросостојбата на животни</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">147</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T102440Z" creationid="sasPC\Sash" changedate="20210626T102558Z" changeid="sasPC\Sash" lastusagedate="20210626T102558Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7292523268295110412, 3445439972213274749</prop>
+      <prop type="x-ContextContent">(a)	promoting sustainable aquaculture activities, notably in terms of environmental protection, animal health and animal welfare; |  | (а)	промовирање одржливи активности на аквакултура, особено во смисла на заштита на животната средина, здравјето и добросостојбата на животните; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	collecting information on the marketed products, including economic information on first sales, and on production forecasts;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>те; (б)прибирање информации за пласираните производи, вклучително и економски информации за прва продажба и прогнози за продажбата;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">148</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T102601Z" creationid="sasPC\Sash" changedate="20210626T102625Z" changeid="sasPC\Sash" lastusagedate="20210626T102625Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7492436586104202940, 8527473594203333754</prop>
+      <prop type="x-ContextContent">(b)	collecting information on the marketed products, including economic information on first sales, and on production forecasts; |  | (б)	прибирање информации за пласираните производи, вклучително и економски информации за прва продажба и прогнози за продажбата; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	collecting environmental information;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)прибирање информации за животната средина;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">149</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T102627Z" creationid="sasPC\Sash" changedate="20210626T102707Z" changeid="sasPC\Sash" lastusagedate="20210626T102707Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">6053045676716663125, 2662586131558225249</prop>
+      <prop type="x-ContextContent">(c)	collecting environmental information; |  | (в)	прибирање информации за животната средина; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	planning the management of the aquaculture activities of their members;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)планирање на управувањето со активностите на аквакултура на нивните членови;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">150</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T102712Z" creationid="sasPC\Sash" changedate="20210626T102756Z" changeid="sasPC\Sash" lastusagedate="20210626T102756Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">6702090038100487225, -3819531702594923701</prop>
+      <prop type="x-ContextContent">(d)	planning the management of the aquaculture activities of their members; |  | (г)	планирање на управувањето со активностите на аквакултура на нивните членови; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	supporting programmes for professionals to promote sustainable aquaculture products.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д)поддршка на програми за стручњаци за промовирање одржливи производи од аквакултура.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">151</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T103014Z" creationid="sasPC\Sash" changedate="20210626T103056Z" changeid="sasPC\Sash" lastusagedate="20210626T103056Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-2561264452901787087, 4216319691265494037</prop>
+      <prop type="x-ContextContent">Establishment of associations of producer organisations |  | Основање здруженија на организации на производители | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>An association of producer organisations may be established at the initiative of producer organisations recognised in one or more Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тели Здружение на организации на производители може да се основа на иницијатива на организации на производители признаени во една или во повеќе земји членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">153</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T105935Z" creationid="sasPC\Sash" changedate="20210626T110110Z" changeid="sasPC\Sash" lastusagedate="20210626T110110Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-3979012237505555612, -7684631435994422185</prop>
+      <prop type="x-ContextContent">An association of producer organisations may be established at the initiative of producer organisations recognised in one or more Member States. |  | Здружение на организации на производители може да се основа на иницијатива на организации на производители признаени во една или повеќе земји членки. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The provisions of this Regulation applicable to producer organisations shall also apply to associations of producer organisations unless stated otherwise.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Одредбите од оваа регулатива коишто се однесуваат на организациите на производители, исто така се однесуваат и на здруженијата на организации на производители, освен ако не е наведено поинаку.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">154</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T110054Z" creationid="sasPC\Sash" changedate="20210626T110115Z" changeid="sasPC\Sash" lastusagedate="20210626T110115Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Objectives of associations of producer organisations</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 10 Цели на здруженијата на организации на производители</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">155</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T110116Z" creationid="sasPC\Sash" changedate="20210626T110129Z" changeid="sasPC\Sash" lastusagedate="20210626T110129Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">4284387988902642068, -1943746398113471461</prop>
+      <prop type="x-ContextContent">Objectives of associations of producer organisations |  | Цели на здруженијата на организации на производители | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Associations of producer organisations shall pursue the following objectives:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Здруженијата на организации на производители тежнеат кон следните следниве цели:</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">156</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T110133Z" creationid="sasPC\Sash" changedate="20210626T110339Z" changeid="sasPC\Sash" lastusagedate="20210626T110339Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">7389396815491871574, -2059621384908057489</prop>
+      <prop type="x-ContextContent">Associations of producer organisations shall pursue the following objectives: |  | Здруженијата на организации на производители тежнеат кон следните цели: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	performing in a more efficient and sustainable manner any of the objectives of the member producer organisations laid down in Article 7;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)реализирање на поефикасен и поодржлив начин на целите на која било членка организација на производители утврдени во член 7;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">157</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T110342Z" creationid="sasPC\Sash" changedate="20210626T110416Z" changeid="sasPC\Sash" lastusagedate="20210626T110416Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">5987707646445016366, 3848328273298051948</prop>
+      <prop type="x-ContextContent">(a)	performing in a more efficient and sustainable manner any of the objectives of the member producer organisations laid down in Article 7; |  | (а)	реализирање на поефикасен и поодржлив начин на целите на која било членка организација на производители утврдени во член 7; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	coordinating and developing activities of common interest for the member producer organisations.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)координирање и развивање активности од заеднички интерес на членките организации на производители.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">158</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T110531Z" creationid="sasPC\Sash" changedate="20210626T110636Z" changeid="sasPC\Sash" lastusagedate="20210626T110636Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Inter-branch organisations may be established at the initiative of operators of fishery and aquaculture products in one or more Member States and recognised in accordance with Section II.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>зации Меѓу-гранковните организации може да се основаат на иницијатива на оператори на производи од рибарство и аквакултура во една или во повеќе земји членки и признаени во согласност со Дел Одел II.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">161</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T111216Z" creationid="sasPC\Sash" changedate="20210626T111344Z" changeid="sasPC\Sash" lastusagedate="20210626T111344Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-8480120501830671978, 2386884122373380643</prop>
+      <prop type="x-ContextContent">Objectives of inter-branch organisations |  | Цели на меѓу-гранковите организации | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Inter-branch organisations shall improve the coordination of, and the conditions for, making fishery and aquaculture products available on the Union market.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>изации Меѓу-гранковите организации ја унапредуваат координацијата за достапност на производите од рибарство и аквакултура на пазарот на Унијата и потребните услови за тоа.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">163</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T111346Z" creationid="sasPC\Sash" changedate="20210626T111416Z" changeid="sasPC\Sash" lastusagedate="20210626T111416Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures deployable by inter-branch organisations</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 13 Мерки што може да ги преземаат меѓу-гранковите организац</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">164</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T111358Z" creationid="sasPC\Sash" changedate="20210626T111439Z" changeid="sasPC\Sash" lastusagedate="20210626T111439Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">5921262241960777801, 8367794808045081236</prop>
+      <prop type="x-ContextContent">Measures deployable by inter-branch organisations |  | Мерки што може да ги преземаат меѓу-гранковите организации | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In order to achieve the objectives referred to in Article 12, inter-branch organisations may make use of the following measures:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ии Заради постигнување на целите утврдени во член 12, меѓу-гранковите организации можеат да ги користат следните следниве мерки:</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">165</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T111454Z" creationid="sasPC\Sash" changedate="20210626T111513Z" changeid="sasPC\Sash" lastusagedate="20210626T111513Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-3551302166143204835, 3013372560818226473</prop>
+      <prop type="x-ContextContent">In order to achieve the objectives referred to in Article 12, inter-branch organisations may make use of the following measures: |  | Заради постигнување на целите утврдени во член 12, меѓу-гранковите организации можат да ги користат следните мерки: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	drawing up standard contracts which are compatible with Union legislation;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(a)изготвување стандардни договори коишто се во согласност со законодавството на Унијата;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">166</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T111651Z" creationid="sasPC\Sash" changedate="20210626T111735Z" changeid="sasPC\Sash" lastusagedate="20210626T111735Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-2789036541116617471, -4610885650708057288</prop>
+      <prop type="x-ContextContent">(a)	drawing up standard contracts which are compatible with Union legislation; |  | (a)	изготвување стандардни договори коишто се во согласност со законодавството на Унијата; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	promoting Union fishery and aquaculture products in a non-discriminatory manner by using, for example, certification, and in particular designations of origin, quality seals, geographical designations, traditional specialities guaranteed, and sustainability merits;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)промовирање на производите од рибарство и аквакултура на Унијата на недискриминирачки начин, преку користење, на пример, сертификати, особено ознаки за потекло, квалитет, географско потекло, гарантирани традиционални специјалитети, како и вредноста којашто ја имаат производите поради нивните одржливи начини на производство;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">167</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T111827Z" creationid="sasPC\Sash" changedate="20210626T112120Z" changeid="sasPC\Sash" lastusagedate="20210626T112120Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">1578657118001101344, 1030899241436839504</prop>
+      <prop type="x-ContextContent">(c)	laying down rules on the production and marketing of fishery and aquaculture products which are stricter than those laid down in Union or national legislation; |  | (в)	утврдување правила за производство и продажба на производи од рибарство и аквакултура коишто се построги од оние утврдени во Унијата или во националното законодавство; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	improving quality, knowledge of, and the transparency of, production and the market, as well as carrying out professional and vocational training activities, for example, on quality and traceability matters, on food safety and in order to encourage research initiatives;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>законодавство; (г)подобрување на квалитетот, знаењето за производството и пазарот, како и транспарентноста на производството и пазарот, а исто така и реализирање професионални и стручни обуки, на пример, за прашања поврзани со квалитет и следливост, безбедност на храната и со цел поттикнување истражувачки иници</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">169</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T112123Z" creationid="sasPC\Sash" changedate="20210627T085404Z" changeid="sasPC\Sash" lastusagedate="20210627T085404Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">5149801336308609869, -8296009948860200737</prop>
+      <prop type="x-ContextContent">(d)	improving quality, knowledge of, and the transparency of, production and the market, as well as carrying out professional and vocational training activities, for example, on quality and traceability matters, on food safety and in order to encourage research initiatives; |  | (г)	подобрување на квалитетот, знаењето за производството и пазарот, како и транспарентноста на производството и пазарот, а исто така и реализирање професионални и стручни обуки, на пример, за прашања поврзани со квалитет и следливост, безбедност на храната и со цел поттикнување истражувачки иницијативи; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	performing research and market studies, and developing techniques to optimise the operation of the market, including through the use of information and communication technology, as well as collecting socio-economic data;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>јативи; (д)спроведување истражувачки студии и студии за истражување на пазарот, и развивање техники за постигнување на најдобри резултати од работењето на пазарот, вклучително и преку употреба на информатичка и комуникациска технологија, како и прибирање социо-економски податоци;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">170</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T112242Z" creationid="sasPC\Sash" changedate="20210626T112445Z" changeid="sasPC\Sash" lastusagedate="20210626T112445Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(f)	providing the information and carrying out the research needed to deliver sustainable supplies at the quantity, quality and price corresponding to market requirements and consumer expectations;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ѓ)обезбедување информации и спроведување истражувања потребни за испорака на одржливо снабдување, кое според количината, квалитетот и цената одговара на барањата на пазарот и очекувањата на потрошувачите;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">171</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T112448Z" creationid="sasPC\Sash" changedate="20210626T112626Z" changeid="sasPC\Sash" lastusagedate="20210626T112626Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">4721361809664703570, 9016525633252983277</prop>
+      <prop type="x-ContextContent">(f)	providing the information and carrying out the research needed to deliver sustainable supplies at the quantity, quality and price corresponding to market requirements and consumer expectations; |  | (ѓ)	обезбедување информации и спроведување истражувања потребни за испорака на одржливо снабдување, кое според количината, квалитетот и цената одговара на барањата на пазарот и очекувањата на потрошувачите; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(g)	promoting, among consumers, species obtained from fish stocks that are in a sustainable state, that have appreciable nutritional value and that are not widely consumed;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(е)промовирање меѓу потрошувачите, видови добиени од рибни резерви во одржлива состојба, коишто имаат значителна хранлива вредност и коишто не се консумираат во голема мерка;.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">172</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T112627Z" creationid="sasPC\Sash" changedate="20210626T112915Z" changeid="sasPC\Sash" lastusagedate="20210626T112915Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">1267157146137861128, 803952710995461571</prop>
+      <prop type="x-ContextContent">(g)	promoting, among consumers, species obtained from fish stocks that are in a sustainable state, that have appreciable nutritional value and that are not widely consumed; |  | (е)	промовирање меѓу потрошувачите, видови добиени од рибни резерви во одржлива состојба, коишто имаат значителна хранлива вредност и коишто не се консумираат во голема мерка. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(h)	controlling and taking measures for compliance of their members' activities with the rules established by the inter-branch organisation concerned.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(гж)контролирање и преземање мерки за обезбедување усогласеност на активностите на нивните членови со правилата на односната засегнатата меѓу-гранкова организација.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">173</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T112709Z" creationid="sasPC\Sash" changedate="20210626T112713Z" changeid="sasPC\Sash" lastusagedate="20210626T112713Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3247666514142270409, 4398355677758</prop>
+      <prop type="x-ContextContent">SECTION II |  | ДЕЛ II | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Recognition</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>I Признавање</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">175</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T112917Z" creationid="sasPC\Sash" changedate="20210626T114250Z" changeid="sasPC\Sash" lastusagedate="20210626T114250Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7605484198668591857, 2010866698302865642</prop>
+      <prop type="x-ContextContent">Recognition of producer organisations |  | Признавање на организациите на производители | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States may recognise as producer organisations all groups set up on the initiative of fishery or aquaculture producers which apply for such recognition, provided that they:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ители Земјите членки можеат да ги признаат знакако организации на производители сите групи основани на иницијатива на производители од секторот рибарство или аквакултура кои поднесуваат барање за такво признавање, под услов тие да:</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">177</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T113035Z" creationid="sasPC\Sash" changedate="20210626T113137Z" changeid="sasPC\Sash" lastusagedate="20210626T113137Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">5179005788362790673, 3020520131775893830</prop>
+      <prop type="x-ContextContent">(a)	comply with the principles set out in Article 17 and with the rules adopted for their application; |  | (a)	ги почитуваа начелата утврдени во член 17 и правилата донесени за нивна примена; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	are sufficiently economically active in the territory of the Member State concerned or a part thereof, in particular as regards the number of members or the volume of marketable production;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а примена; (б)се доволно економски активни на територијата на односната засегнатата земја членка во дел од неа, особено во поглед на бројот на членови или на обемот на пазарното произв</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">179</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T113226Z" creationid="sasPC\Sash" changedate="20210626T114044Z" changeid="sasPC\Sash" lastusagedate="20210626T114044Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">6793906867712764218, 8808298585429778564</prop>
+      <prop type="x-ContextContent">(b)	are sufficiently economically active in the territory of the Member State concerned or a part thereof, in particular as regards the number of members or the volume of marketable production; |  | (б)	се доволно економски активни на територијата на односната земја членка во дел од неа, особено во поглед на бројот на членови или обемот на пазарното производство; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	have legal personality under the national law of the Member State concerned, are established there and have their official headquarters in its territory;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>одство; (в)бидат правни лица согласно националното законодавство на односната засегнатата земја членка, да бидат основани таму и да имаат свое официјално седиште на нејзината територија;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">180</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T114047Z" creationid="sasPC\Sash" changedate="20210626T130206Z" changeid="sasPC\Sash" lastusagedate="20210626T130206Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">3796469036661950221, -828520037359058683</prop>
+      <prop type="x-ContextContent">(c)	have legal personality under the national law of the Member State concerned, are established there and have their official headquarters in its territory; |  | (в)	бидат правни лица согласно националното законодавство на односната земја членка, да бидат основани таму и да имаат свое официјално седиште на нејзината територија; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	are capable of pursuing the objectives laid down in Article 7;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)се способни да ги исполнат целите утврдени во член 7;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">181</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T114116Z" creationid="sasPC\Sash" changedate="20210626T114237Z" changeid="sasPC\Sash" lastusagedate="20210626T114237Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	comply with the competition rules referred to in Chapter V;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д)ги почитуваат правилата за конкурентност наведено во Поглавје V;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">182</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T114143Z" creationid="sasPC\Sash" changedate="20210626T114237Z" changeid="sasPC\Sash" lastusagedate="20210626T114237Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">4372793185745642878, -2948788325156181672</prop>
+      <prop type="x-ContextContent">(e)	comply with the competition rules referred to in Chapter V; |  | (д)	ги почитуваат правилата за конкурентност наведено во Поглавје V; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(f)	do not abuse a dominant position on a given market; and</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ѓ)не ја злоупотребуваат доминантната положба на дадениот пазар; и</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">183</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T114204Z" creationid="sasPC\Sash" changedate="20210626T114234Z" changeid="sasPC\Sash" lastusagedate="20210626T114234Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(g)	provide relevant details of their membership, governance and sources of funding.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(е)обезбедат релевантни податоци за нивното членство, управување и извори на финансирање.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">184</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T114255Z" creationid="sasPC\Sash" changedate="20210626T114402Z" changeid="sasPC\Sash" lastusagedate="20210626T114402Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-2052363473198071788, -5047071691099452380</prop>
+      <prop type="x-ContextContent">(g)	provide relevant details of their membership, governance and sources of funding. |  | (е)	обезбедат релевантни податоци за нивното членство, управување и извори на финансирање. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Producer organisations recognised before 29 December 2013 shall be considered to be producer organisations for the purposes of this Regulation, and to be bound by its provisions.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Организациите на производители признаени пред 29 декември 2013 година се сметаат за организации на производители за потребните на оваа регулатива и се обврзани со нејзините одредби.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">185</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T114337Z" creationid="sasPC\Sash" changedate="20210626T114403Z" changeid="sasPC\Sash" lastusagedate="20210626T114403Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Financial support to producer organisations or associations of producer organisations</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 15 Финансиска поддршка на организациите на производители или здруженија на организации на производители</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">186</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T205737Z" creationid="sasPC\Sash" changedate="20210626T210252Z" changeid="sasPC\Sash" lastusagedate="20210626T210251Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-6688482524802092447, -6362065365164678081</prop>
+      <prop type="x-ContextContent">(a)	in the case of fishery products caught at sea, the name in writing of the sub-area or division listed in the FAO fishing areas, as well as the name of such zone expressed in terms understandable to the consumer, or a map or pictogram showing that zone, or, by way of derogation from this requirement, for fishery products caught in waters other than the Northeast Atlantic (FAO Fishing Area 27) and the Mediterranean and Black Sea (FAO Fishing Area 37), the indication of the name of the FAO fishing area; |  | (а)	во случај на производи уловени на море, напишан назив на под-областа или дивизијата наведена во риболовните области на ФАО, како и називот на таквата зона напишано на начин разбирлив за потрошувачот, или мапа или пиктограм кој ја покажува таа зона, или преку отстапување од ова барање, за производи од рибарство уловени во води кои не се Североисточен Атлантик (Риболовна област 27 на ФАО) или Медитеран и Црно Море (Риболовна област 37 на ФАО), ознаката на називот на риболовната област на ФАО; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	in the case of fishery products caught in freshwater, a reference to the body of water of origin in the Member State or third country of provenance of the product;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)во случај на производи од рибарство уловени во слатка вода, упатување до водната површина од каде што потекнува во земјата членка или трета земја на потекло на производот;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">394</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T205956Z" creationid="sasPC\Sash" changedate="20210627T085651Z" changeid="sasPC\Sash" lastusagedate="20210627T085651Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	In the case of aquaculture products, a reference to the Member State or third country in which the product reached more than half of its final weight or stayed for more than half of the rearing period or, in the case of shellfish, underwent a final rearing or cultivation stage of at least six months.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)Во случај на производи од аквакултура, упатување до земјата членка или до трета земја во која производот достигнал повеќе од половина од својата крајна тежина или во која останал подолго од половина од периодот на одгледување, или во случај на школкари, каде што ја поминале последната фаза на одгледување или раст најмалку шест месеци.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">395</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T210255Z" creationid="sasPC\Sash" changedate="20210626T210321Z" changeid="sasPC\Sash" lastusagedate="20210626T210321Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In addition to the information referred to in paragraph 1, operators may indicate a more precise catch or production area.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Покрај информациите од став 1, операторите може да назначат попрецизна област на лов или производство.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">396</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T210434Z" creationid="sasPC\Sash" changedate="20210626T210601Z" changeid="sasPC\Sash" lastusagedate="20210626T210601Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-5658879391561925231, 2343782674655212859</prop>
+      <prop type="x-ContextContent">In addition to the mandatory information required pursuant to Article 35, the following information may be provided on a voluntary basis, provided that it is clear and unambiguous: |  | Покрај задолжителните информации кои се бараат согласно со член 35, на доброволна основа може да се обезбедат и следните информации, под услов тие да се јасни и недвосмислени: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the date of catch of fishery products or the date of harvest of aquaculture products;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)датумот на лов на производи од рибарство или датумот на собирање на производи од аквакултура;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">398</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T210504Z" creationid="sasPC\Sash" changedate="20210626T210602Z" changeid="sasPC\Sash" lastusagedate="20210626T210602Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-5772294626698872647, 8571552703928762936</prop>
+      <prop type="x-ContextContent">(a)	the date of catch of fishery products or the date of harvest of aquaculture products; |  | (а)	датумот на лов на производи од рибарство или датумот на собирање на производи од аквакултура; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the date of landing of fishery products or information on the port at which the products were landed;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)датумот на истовар на производите од рибарство или информации за пристаништето на кое производите биле истоварени;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">399</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T210605Z" creationid="sasPC\Sash" changedate="20210626T210628Z" changeid="sasPC\Sash" lastusagedate="20210626T210628Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7186654244907384382, 7355298725896760954</prop>
+      <prop type="x-ContextContent">(b)	the date of landing of fishery products or information on the port at which the products were landed; |  | (б)	датумот на истовар на производите од рибарство или информации за пристаништето на кое производите биле истоварени; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	more detailed information on the type of fishing gear, as listed in the second column of Annex III;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)подетални податоци за типот на риболовна опрема, како што е наведена во втората колона во Анекс III;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">400</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T210648Z" creationid="sasPC\Sash" changedate="20210626T210803Z" changeid="sasPC\Sash" lastusagedate="20210626T210803Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-2546014597950242290, 3224150435179377488</prop>
+      <prop type="x-ContextContent">(c)	more detailed information on the type of fishing gear, as listed in the second column of Annex III; |  | (в)	подетални податоци за типот на риболовна опрема, како што е наведена во втората колона во Анекс III; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	in the case of fishery products caught at sea, details of the flag State of the vessel that caught those products;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)во случај на производи од рибарство уловени на море, податоци за државата на знамето под кое пловел бродот со кој се уловени тие производи;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">401</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T210811Z" creationid="sasPC\Sash" changedate="20210626T210821Z" changeid="sasPC\Sash" lastusagedate="20210626T210821Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-8913879210567101835, -5644938501124320147</prop>
+      <prop type="x-ContextContent">(d)	in the case of fishery products caught at sea, details of the flag State of the vessel that caught those products; |  | (г)	во случај на производи од рибарство уловени на море, податоци за државата на знамето под кое пловел бродот со кој се уловени тие производи; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	environmental information;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д)информации за животната средина;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">402</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T210824Z" creationid="sasPC\Sash" changedate="20210626T210905Z" changeid="sasPC\Sash" lastusagedate="20210626T210905Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-3851226325126061311, -2485169293153682735</prop>
+      <prop type="x-ContextContent">(e)	environmental information; |  | (д)	информации за животната средина; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(f)	information of an ethical or social nature;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ѓ)информации од етичка или социјална природа;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">403</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T210840Z" creationid="sasPC\Sash" changedate="20210626T210858Z" changeid="sasPC\Sash" lastusagedate="20210626T210858Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(g)	information on production techniques and practices;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(е)информации за производствените техники и практики;</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">404</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T210908Z" creationid="sasPC\Sash" changedate="20210626T210926Z" changeid="sasPC\Sash" lastusagedate="20210626T210948Z" usagecount="1">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-8784964985810648105, -4668783687435975891</prop>
+      <prop type="x-ContextContent">(g)	information on production techniques and practices; |  | (е)	информации за производствените техники и практики; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(h)	information on the nutritional content of the product.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ж)информации за хранливата вредност на производот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">405</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T210949Z" creationid="sasPC\Sash" changedate="20210626T211128Z" changeid="sasPC\Sash" lastusagedate="20210626T211128Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-7893925232928431591, -5047426101485358568</prop>
+      <prop type="x-ContextContent">(h)	information on the nutritional content of the product. |  | (ж)	информации за хранливата вредност на производот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>A Quick Response (QR) code may be used outlining part or all of the information listed in Article 35(1).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Може да се користи код за брз одговор (Кју-Ар) код, кој дава делумни или целосни податоци наведени во член 35(а).</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">406</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T211133Z" creationid="sasPC\Sash" changedate="20210626T211307Z" changeid="sasPC\Sash" lastusagedate="20210626T211307Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-195922527333489778, -6137675965441320498</prop>
+      <prop type="x-ContextContent">A Quick Response (QR) code may be used outlining part or all of the information listed in Article 35(1). |  | Може да се користи код за брз одговор (Кју-Ар) код, кој дава делумни или целосни податоци наведени во член 35(а). | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Voluntary information shall not be displayed to the detriment of the space available for mandatory information on the marking or labelling.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Доброволните информации не се прикажуваат на ознаката или на етикетата ако тоа би го зафатило просторот за задолжителните информации на ознаката или на етикетата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">407</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210626T211320Z" creationid="sasPC\Sash" changedate="20210626T211352Z" changeid="sasPC\Sash" lastusagedate="20210626T211352Z">
+      <prop type="x-LastUsedBy">sasPC\Sash</prop>
+      <prop type="x-Context">-140744609624290851, 5426167307278660797</prop>
+      <prop type="x-ContextContent">Voluntary information shall not be displayed to the detriment of the space available for mandatory information on the marking or labelling. |  | Доброволните информации не се прикажуваат на ознаката или етикетата ако тоа би го зафатило просторот за задолжителните информации на ознаката или етикетата. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>No voluntary information shall be included that cannot be verified.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Не се вклучуваат доброволни податоци што не можеат да се проверат.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1379</prop>
+      <prop type="x-SourceTUIndex">408</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

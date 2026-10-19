@@ -1,0 +1,49 @@
+{
+  "phase": "6B",
+  "rollbackClassification": "PASS",
+  "verifiedAt": "2026-10-10T19:39:51Z",
+  "nextJsHealth": {
+    "url": "http://127.0.0.1:3000/",
+    "httpStatus": 200,
+    "status": "PASS"
+  },
+  "workerHealth": {
+    "url": "http://127.0.0.1:8000/health",
+    "httpStatus": 200,
+    "body": {"status": "ok"},
+    "status": "PASS"
+  },
+  "featureFlag": {
+    "name": "PDF_TO_DOCX_SHADOW_RECONSTRUCTION",
+    "owner": "Next.js server process",
+    "safeDefault": "OFF",
+    "enabledOnlyWhen": "value is exactly the case-sensitive string true",
+    "explicitFalseInterpretation": "disabled",
+    "implementation": "if (process.env.PDF_TO_DOCX_SHADOW_RECONSTRUCTION !== 'true') return null",
+    "liveProcessEnvironmentDirectlyInspected": false,
+    "liveConfigurationEvidence": "User explicitly stopped both processes and freshly restarted Next.js after assigning false; implementation and tests verify that false is disabled."
+  },
+  "orchestrationVerification": {
+    "command": "npm.cmd run test:celex-shadow",
+    "status": "PASS",
+    "passed": 5,
+    "failed": 0,
+    "offCase": {
+      "activePathAvailable": true,
+      "shadowHelperRequestMade": false,
+      "shadowEndpointCalled": false,
+      "shadowEvidenceCreated": false
+    },
+    "authoritativePersistenceSemanticsChangedByFlag": false
+  },
+  "historicalEvidence": {
+    "preserved": true,
+    "file": "D:\\EU Acquis AI App\\artifacts\\shadow-runs\\13c13a7c-ef87-47f7-8844-58be5e8de75e.json",
+    "sha256": "957a8a2e4ae7696b62ba8375cfc4492cbb44fa9e067045bb2dce5f1e74b748be",
+    "treatedAsCurrentEnablementEvidence": false
+  },
+  "realImportPerformed": false,
+  "shadowEndpointInvoked": false,
+  "featureFlagModifiedByAudit": false,
+  "phase6CStarted": false
+}

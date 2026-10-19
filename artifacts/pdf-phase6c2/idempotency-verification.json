@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "historical_first_stage": { "registered": 1, "artifact_id": "0ad2dfd5-069c-4854-89c0-18311c99175d" },
+  "final_registration_run": { "registered": 9, "total_available": 10 },
+  "final_rerun": { "registered": 0, "already_registered": 10 },
+  "changed_hashes": 0,
+  "changed_paths": 0,
+  "overwritten_objects": 0,
+  "changed_sizes": 0,
+  "unintended_duplicates": 0,
+  "concurrency_guard": "transaction advisory lock plus database uniqueness"
+}

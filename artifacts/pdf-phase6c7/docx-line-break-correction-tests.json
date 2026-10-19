@@ -1,0 +1,13 @@
+{
+  "classification":"PASS_IMPLEMENTATION_READINESS",
+  "paid_model_calls":0,
+  "focused_tests":{"passed":46,"failed":0},
+  "typescript":"PASS",
+  "next_build_webpack":"PASS",
+  "local_migration_replay":"PASS",
+  "linked_migration":"20261031000000_complete_mk1_docx_correction.sql",
+  "linked_migration_status":"APPLIED",
+  "synthetic_preflight":{"translation_units":265,"protected_codes":3,"paragraphs":273,"tables":3,"rows":48,"cells":100,"page_breaks":6,"sections":1,"status":"PASS"},
+  "real_data_offline_preflight":{"translation_units":265,"protected_codes":3,"paragraphs":273,"tables":3,"rows":48,"cells":100,"page_breaks":6,"sections":1,"sha256":"e87ccb54bfa3878a107889e9bdc071c6977a4f213c11da88a8639018f536c088","byte_size":887530,"status":"PASS"},
+  "controlled_persistence":"NOT_EXECUTED_BY_INSTRUCTION"
+}

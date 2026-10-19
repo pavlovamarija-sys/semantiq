@@ -1,0 +1,8 @@
+{
+  "endpoint": "/shadow/reconstruct",
+  "result": ["runId", "sourceSha256", "workerVersion", "status", "typedModelSummary", "reconstructionSummary", "validationSummary", "docxSha256", "durationMs", "error"],
+  "authoritative": false,
+  "returnsDocxToCaller": false,
+  "defaultEnabled": false,
+  "sourceTextReturned": false
+}

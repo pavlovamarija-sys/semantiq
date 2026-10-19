@@ -1,0 +1,60 @@
+{
+  "phase": "6C.8",
+  "audit_status": "COMPLETE",
+  "implementation_status": "NOT_STARTED",
+  "controlled_document": "32006L0114",
+  "inputs": {
+    "source_pdf": {"path":"workers/pdf-to-docx/tests/fixtures/32006L0114.pdf","sha256":"1b0fb08ec46c93b9df62675f2b898030511dfcf5df4832b15cde56681932008b","pages":7},
+    "validated_docx": {"artifact_id":"b0e8fec5-91c8-4755-87a4-ff8f6dd8d307","sha256":"2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971"},
+    "canonical_snapshot": "d57fdd35-3b79-4f3a-b20a-3cfaf9941225",
+    "mk1_docx": {"artifact_id":"15e2967c-6cd6-42e4-b3d1-e93cf9f28890","sha256":"220155a219b20a735b7f8ec999fc1dbbfc1862e5c65319303f2229121b9fa25b"},
+    "mk1_sdlxliff": {"artifact_id":"45d9ddca-a58b-46c7-9cf9-549560aa9037","sha256":"2c00162dd6545a51f23fcbf1fe2df8c60a11ac0d4c95abd67614703517ad5639"}
+  },
+  "defects": [
+    {
+      "id":"F01","priority":1,"name":"Footnotes flattened into body paragraphs","systemic":true,
+      "origin":"PDF reconstruction/model-to-DOCX serialization, compounded by canonical extraction",
+      "evidence":{"typed_model_footnote_nodes":["footnote-3d51a1b5ae58b38d","footnote-b579fbf534a42cda"],"misclassified_first_block":"listitem-4000388ab09f133b","canonical_footnote_nodes":0,"docx_footnotes_part":false,"docx_footnote_references":0,"flattened_tus":[{"ordinal":24,"id":"tu-b9afa62aab2ecdb2bff13265","location":"body/p:24"},{"ordinal":54,"id":"tu-083fe833113c0699d92efccd","location":"body/p:55"},{"ordinal":87,"id":"tu-13b434972185427652633d96","location":"body/p:89"}]},
+      "cat_effect":"Studio receives ordinary body trans-units, not anchored footnote content."
+    },
+    {
+      "id":"F02","priority":2,"name":"Recital markers detached from recital bodies","systemic":true,
+      "origin":"PDF structural classification and typed-model hierarchy",
+      "evidence":{"recital_count":21,"marker_tu_ordinals":[15,17,19,21,23,27,29,31,33,35,37,41,43,45,47,49,51,53,57,59,61],"marker_node_type":"paragraph","marker_parent":"document","association_field_present":false,"page_break_interruption":{"marker_ordinal":37,"body_after_header_furniture":true}},
+      "cat_effect":"Each marker is an independent TU; numbering can detach visually and contextually from its recital."
+    },
+    {
+      "id":"F03","priority":3,"name":"Running headers, language labels and page furniture modeled as body content","systemic":true,
+      "origin":"PDF layout classification and frozen DOCX serializer",
+      "evidence":{"pdf_header_y_range":"approximately 50-60 points on all 7 pages","canonical_node_type":"paragraph","header_footer_ooxml_parts":0,"language_label_tu_ordinals":[2,39,73,105,134,154,180],"untranslated_en_tus":[{"ordinal":134,"id":"tu-e226442dfc1c0648ee38db47"},{"ordinal":180,"id":"tu-519106e558babf740e944c3c"}],"other_furniture":"dates, OJ title and L 376/page identifiers are also body TUs"},
+      "cat_effect":"Furniture consumes translation units, can remain English, and cannot repeat through real Word headers."
+    },
+    {
+      "id":"F04","priority":4,"name":"Layout fidelity is structural but not typographic/paginated","systemic":true,
+      "origin":"Frozen DOCX serializer",
+      "evidence":{"source_pdf_pages":7,"docx_explicit_page_breaks":6,"docx_sections":1,"word_columns":1,"header_parts":0,"footer_parts":0,"serializer_behavior":"new blank Document, Heading 2/body paragraphs, Table Grid","pagination_guarantee":false},
+      "cat_effect":"Text order is stable, but page composition, two-column OJ layout and repeating furniture are not preserved."
+    },
+    {
+      "id":"F05","priority":4,"name":"Tables retain logical cells but lose source table geometry/style","systemic":true,
+      "origin":"Frozen DOCX serializer",
+      "evidence":{"tables":3,"rows":48,"cells":100,"grid_columns":[2,3,2],"native_docx_tables":true,"serializer_style":"Table Grid","source_geometry_retained_in_typed_model":true,"source_geometry_used_by_serializer":false},
+      "cat_effect":"Cell identity survives, but widths, borders, alignment, spacing and continuation semantics are not fidelity-controlled."
+    },
+    {
+      "id":"F06","priority":5,"name":"Macedonian legal terminology is inconsistent","systemic":true,
+      "origin":"Translation generation/context retrieval and terminology QA",
+      "evidence":{"examples":[{"source":"Member States","targets":["земјите-членки","земјите членки","Државите членки"],"sample_ordinals":[16,42,93]},{"source":"comparative advertising","targets":["компаративно рекламирање","споредбено рекламирање"],"sample_ordinals":[18,44]},{"source":"misleading advertising","targets":["измамничко рекламирање","заведувачко рекламирање","рекламирање што доведува во заблуда"],"sample_ordinals":[16,48,28]},{"source":"Official Journal/OJ","targets":["Службен весник","Сл. весник","Сл. весник на ЕУ"],"sample_ordinals":[1,24,87]},{"source":"Directive","targets":["директива","Директива"],"case_consistency":false}]},
+      "cat_effect":"Source mapping is correct, but no approved-term constraint enforces one institutional equivalent."
+    }
+  ],
+  "stage_assessment": {
+    "pdf_extraction":"Text and provenance are complete, but furniture/recital/footnote relationships are incompletely classified.",
+    "typed_reconstruction":"Tables are strong; footnote body classification is inconsistent and anchors/recital containers/furniture roles are absent.",
+    "validated_docx":"First irreversible flattening point for footnotes, recital hierarchy, furniture and page layout.",
+    "canonical_model":"Faithfully extracts the already-flattened DOCX; schema cannot represent footnote anchors, recital associations or furniture roles.",
+    "translation":"Introduces terminology inconsistency and leaves two EN furniture labels untranslated.",
+    "cat_projection":"Preserves the canonical error model; it is not the origin of the structural losses.",
+    "mk1_reconstruction":"Preserves source DOCX structure exactly, so it cannot restore structures absent from the validated DOCX."
+  }
+}

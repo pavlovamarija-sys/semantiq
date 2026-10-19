@@ -1,0 +1,219 @@
+{
+  "labelsHiddenFromClassifierInput": true,
+  "counts": {
+    "KEEP_BOUNDARY": 4,
+    "MERGE": 26
+  },
+  "cases": [
+    {
+      "ambiguityId": "32006L0126-boundary-01",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "basis": "The left fragment is the recurring top-margin publication date; the right is body text.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-02",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "basis": "The recital marker precedes six body lines; the right fragment is the body's final line, so these two are not directly mergeable.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-03",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-04",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-05",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-06",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-07",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-08",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-09",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-10",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-11",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-12",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "basis": "The left fragment is the recurring top-margin publication date; the right is body text.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-13",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-14",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-15",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-16",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-17",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-18",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-19",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-20",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-21",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-22",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-23",
+      "referenceLabel": "KEEP_BOUNDARY",
+      "basis": "The left fragment is the recurring top-margin publication date; the right continues the preceding body paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-24",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-25",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-26",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-27",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-28",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-29",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    },
+    {
+      "ambiguityId": "32006L0126-boundary-30",
+      "referenceLabel": "MERGE",
+      "basis": "Geometry, typography, source-line continuity, and legal-list context show one logical paragraph.",
+      "reviewConfidence": "HIGH",
+      "establishedBeforeClassifierRun": true
+    }
+  ]
+}

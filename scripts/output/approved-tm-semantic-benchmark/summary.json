@@ -1,0 +1,21 @@
+{
+  "queries": 50,
+  "semantic_results": 250,
+  "precision_at_1": {
+    "relevant": 0,
+    "precision": 0
+  },
+  "precision_at_3": {
+    "relevant": 0,
+    "precision": 0
+  },
+  "precision_at_5": {
+    "relevant": 0,
+    "precision": 0
+  },
+  "relevant": 0,
+  "partial": 81,
+  "irrelevant": 169,
+  "average_latency_ms": 613.94,
+  "semantic_added_after_exact_or_fuzzy": 49
+}

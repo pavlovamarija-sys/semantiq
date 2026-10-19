@@ -1,0 +1,10 @@
+import { createRequire } from "node:module";
+import { readFile } from "node:fs/promises";
+const { Client } = createRequire(import.meta.url)(process.env.PG_CLIENT_DIR + "/node_modules/pg");
+const u = new URL((await readFile("supabase/.temp/pooler-url", "utf8")).trim());
+const db = new Client({ host:u.hostname, port:Number(u.port), database:u.pathname.slice(1), user:decodeURIComponent(u.username), password:process.env.SUPABASE_DB_PASSWORD, ssl:{rejectUnauthorized:false} });
+await db.connect();
+const generations = (await db.query("select id,status,validation_status,normalized_token_count,generation_number from public.processing_generations where id = any($1::uuid[]) order by generation_number", [["26276c49-8c0f-456e-8a3e-cce032f9b633","a53b41bf-6118-43ba-b2f9-b7e4417fea4c"]])).rows;
+const snapshots = (await db.query("select id,status,node_count,translation_unit_count,inline_code_count,validated_docx_sha256,normalized_source_sha256,processing_generation_id from public.canonical_snapshots where id = any($1::uuid[]) order by snapshot_generation", [["41c043ad-a210-4e17-b6f4-5cf98872a602","9773853e-9f81-4796-b358-38a3f53e1d81"]])).rows;
+console.log(JSON.stringify({generations,snapshots},null,2));
+await db.end();

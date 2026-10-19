@@ -1,0 +1,395 @@
+{
+  "celex": "32015L0565",
+  "dry_run": true,
+  "source_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32015L0565\\TMX_MK1\\32015L0565_TM.tmx"
+  ],
+  "mk2_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32015L0565\\MK2\\32015L0565_MK2.docx"
+  ],
+  "original_tmx_sha256": "73201736e56fd93a3070536e06451c73d0f20d1d8dd9078f0a54507d078f9211",
+  "mk2_sha256": "ee18d233f5c544625361ffea6cf0adeb31898aefe870c3c7b7d28c271bc9a70c",
+  "extraction": {
+    "format": "DOCX",
+    "paragraphs": 460,
+    "table cells": 231,
+    "characters": 30978,
+    "extraction method": "OOXML body traversal",
+    "error": ""
+  },
+  "results": [
+    {
+      "index": 1,
+      "en": "DIRECTIVES",
+      "mk1": "ДИРЕКТИВИ",
+      "status": "HIGH",
+      "target": "ДИРЕКТИВИ",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "COMMISSION DIRECTIVE (EU) 2015/565",
+      "mk1": "ДИРЕКТИВА (ЕУ) Бр. 2015/565 НА КОМИСИЈАТА",
+      "status": "HIGH",
+      "target": "ДИРЕКТИВА (ЕУ) 2015/565 НА КОМИСИЈАТА о",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 3,
+      "en": "of 8 April 2015",
+      "mk1": "од 8 април 2015 година",
+      "status": "HIGH",
+      "target": "д 8 април 2015 година",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "COMMISSION DIRECTIVE (EU) 2015/565",
+      "mk1": "ДИРЕКТИВА (ЕУ) Бр. 2015/565 НА КОМИСИЈАТА",
+      "status": "UNMATCHED",
+      "target": "за изменување на Директива",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 3,
+      "en": "of 8 April 2015",
+      "mk1": "од 8 април 2015 година",
+      "status": "UNMATCHED",
+      "target": "та 2006/86/ЕЗ",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 4,
+      "en": "amending Directive 2006/86/EC as regards certain technical requirements for the coding of human tissues and cells",
+      "mk1": "за изменување на Директивата 2006/86/ЕЗ во однос на одредени технички услови за кодирање на човечки ткива и клетки",
+      "status": "REVIEW",
+      "target": "во однос на одредени технички услови за кодирање на човечки ткива и клетки",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 3,
+      "en": "of 8 April 2015",
+      "mk1": "од 8 април 2015 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 4,
+      "en": "amending Directive 2006/86/EC as regards certain technical requirements for the coding of human tissues and cells",
+      "mk1": "за изменување на Директивата 2006/86/ЕЗ во однос на одредени технички услови за кодирање на човечки ткива и клетки",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 5,
+      "en": "(Text with EEA relevance)",
+      "mk1": "(Текст со важност за ЕЕО)",
+      "status": "UNMATCHED",
+      "target": "имајќи го предв",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "THE EUROPEAN COMMISSION,",
+      "mk1": "ЕВРОПСКАТА КОМИСИЈА,",
+      "status": "UNMATCHED",
+      "target": "ид Договорот",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 7,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "status": "REVIEW",
+      "target": "за функционирање на Европската Унија,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 6,
+      "en": "THE EUROPEAN COMMISSION,",
+      "mk1": "ЕВРОПСКАТА КОМИСИЈА,",
+      "status": "UNMATCHED",
+      "target": "имајќи ја предвид",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 7,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "status": "UNMATCHED",
+      "target": "Директивата 2004/23/ЕЗ на Европскиот парламент и на С",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 8,
+      "en": "Having regard to Directive 2004/23/EC of the European Parliament and of the Council of 31 March 2004 () on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells, and in particular Article 28 thereof,",
+      "mk1": "имајќи ја предвид Директивата 2004/23/ЕЗ на Европскиот парламент и на Советот од 31 март 2004 година () за утврдување на стандарди за квалитет и безбедност при донирање, набавка, тестирање, обработка, зачувување, складирање и дистрибуција на човечки ткива и клетки, а особено член 28 од истата,",
+      "status": "REVIEW",
+      "target": "оветот од 31 март 2004 година () за утврдување на стандарди за квалитет и безбедност при донирање, набавка, тестирање, обработка, зачувување, складирање и дистрибуција на човечки ткива и клетки, а особено член 28 од истата, со оглед на тоа што:",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 7,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 8,
+      "en": "Having regard to Directive 2004/23/EC of the European Parliament and of the Council of 31 March 2004 () on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells, and in particular Article 28 thereof,",
+      "mk1": "имајќи ја предвид Директивата 2004/23/ЕЗ на Европскиот парламент и на Советот од 31 март 2004 година () за утврдување на стандарди за квалитет и безбедност при донирање, набавка, тестирање, обработка, зачувување, складирање и дистрибуција на човечки ткива и клетки, а особено член 28 од истата,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 9,
+      "en": " OJ L 102, 7.4.2004, p. 48.",
+      "mk1": " Сл. весник L 102, 7 април 2004 година., стр. 48",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 10,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 11,
+      "en": "Directive 2004/23/EC requires that Member States ensure the traceability of human tissues and cells from the donor to the recipient and vice versa.",
+      "mk1": "Директивата 2004/23/ЕЗ бара од земјите членки да обезбедат следливост на човечките ткива и клетки од донаторот до примателот и обратно.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 12,
+      "en": "In order to facilitate traceability it is necessary to establish a unique identifier applied to tissues and cells distributed in the Union (Single European Code) providing information on the main characteristics and properties of those tissues and cells.",
+      "mk1": "Со цел да се олесни следливоста, потребно е да се воспостави единствен идентификатор применлив на ткивата и клетките дистрибуирани во Унијата (единствен европски код), што обезбедува информации за главните карактеристики и својства на тие ткива и клетки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 13,
+      "en": "In order to ensure a uniform implementation of the Single European Code throughout the Union, obligations of the Member States competent authorities and of the tissue establishments for the application of the Single European Code should be set out.",
+      "mk1": "За да се обезбеди еднообразна примена на Единствениот европски код низ целата Унија, треба да се утврдат обврските на надлежните органи на земјите членки и на банките за ткива за примената на единствениот европски код.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 14,
+      "en": "Only this approach will guarantee a consistent and coherent application of the code in the Union.",
+      "mk1": "Само овој пристап ќе гарантира постојана и усогласена примена на кодот во Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 15,
+      "en": "Traceability from donor to recipient and vice versa should be ensured through coding of tissues and cells and through accompanying documentation.",
+      "mk1": "Следливоста од донатор до примател и обратно треба да се осигури со кодирање на ткивата и клетките и со придружната документација.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 16,
+      "en": "At the recipient end, the Single European Code provides information on the donation and on the tissue establishment responsible for the procurement of tissues and cells.",
+      "mk1": "Од гледна точка на примателот единствениот европски код обезбедува  информации за донацијата и за банката на ткива што е одговорна за набавка на ткива и клетки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 17,
+      "en": "At the donor end, the tissue establishment responsible for the procurement of tissues and cells may track the tissues and cells distributed for human application by requesting the next operators in the chain to provide data related to the use of the tissues and cells based on the donation identification elements of the Single European Code as contained in the accompanying documentation.",
+      "mk1": "Од гледна точка на донаторот банката на ткива што е одговорна за собирање ткива и клетки може да ги следи дистрибуираните ткива и клетки за човечка употреба барајќи од другите оператори во ланецот да обезбедат податоци за употребата на ткивата и клетките врз основа на елементите за идентификација на донирањето од Единствениот европски код, што го содржи придружната документација.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 18,
+      "en": "The format of the Single European Code should be harmonised in order to facilitate its application by small and large establishments, whilst allowing some flexibility for establishments to continue using existing codes.",
+      "mk1": "Форматот на единствениот европски код треба да се усогласи со цел да се олесни неговата примена кај малите и големите банки, а воедно да им се овозможи и одредена флексибилност да продолжат да ги користат постојните ознаки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 19,
+      "en": "A Single European Code allowing for donation and product identification should be allocated to all tissues and cells distributed for human application, including those imported from third countries.",
+      "mk1": "Единствен европски код што овозможува донирање и идентификацијата на производот треба да се додели на сите ткива и клетки дистрибуирани за човечка употреба, вклучително и на оние увезени од трети земји.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 20,
+      "en": "Member States may allow certain exemptions from the application of the code.",
+      "mk1": "Земјите членки можат да дозволат одредени исклучоци за примената на кодот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 21,
+      "en": "Where tissues and cells are excluded or exempted from the application of the Single European Code, the Member States should ensure that appropriate traceability of these tissues and cells is guaranteed throughout the entire chain from donation and procurement to human application.",
+      "mk1": "Кога ткивата и клетките се исклучени или изземени од примената на единствениот европски код, земјите членки треба да обезбедат соодветна следливост на овие ткива и клетки низ целиот ланец, од донирањето и набавката до примената кај луѓето.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 22,
+      "en": "In situations where tissues and cells are released for circulation, other than for distribution (such as transfer to another operator for further processing with or without return), as a minimum the donation identification sequence should be applied at least in the accompanying documentation.",
+      "mk1": "Во ситуации кога ткивата и клетките се пуштени во промет, освен за дистрибуција (како што е пренесување на друг оператор за понатамошна обработка со или без враќање), треба да се примени минимална следливост за идентификација на донирањето барем во придружната документација.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 23,
+      "en": "Where tissues and cells are transferred from a tissue establishment to another operator just for storage and/or for further distribution, the tissue establishment may already apply the Single European Code on their final label in addition to the donation identification sequence which should be applied at least in the accompanying documentation.",
+      "mk1": "Кога ткивата и клетките се пренесуваат од една банка на ткива до друг оператор само за складирање и/или за понатамошна дистрибуција, банката на ткива може да го постави единствениот европски код на нивната последна етикета во прилог на следливоста за идентификација на донирањето што треба да се содржи барем во придружната документација.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 24,
+      "en": "In the case of tissues and cells retrieved from a deceased donor by procurement teams operating for two or more tissue establishments, Member States shall ensure an appropriate traceability system across procurements.",
+      "mk1": "Во случај на ткива и клетки од починат донатор набавени од тимови кои работат за две или повеќе банки за ткива, земјите членки обезбедуваат соодветен систем за следливост на набавките.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 25,
+      "en": "This may be ensured by developing a central system for the allocation of the unique donation numbers for each donation event recorded at national level, or by requiring all tissue establishments to ensure robust traceability links between the donation identification numbers allocated by each tissue establishment procuring or receiving tissue and cells originating from the same deceased donor.",
+      "mk1": "Ова може да се обезбеди со развој на централен систем за доделување единствени броеви за донации за секој поединечен случај на донирање забележан на национално ниво, или со барање за сите банки на ткива да обезбедат силни врски за следливост помеѓу идентификациските броеви за донирања доделени од секоја банка на ткива при набавка или прием на ткива и клетки кои потекнуваат од ист починат донатор.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 26,
+      "en": "The Commission should ensure the implementation of the Single European Code by providing the appropriate tools to the Member States competent authorities and tissue establishments.",
+      "mk1": "Комисијата треба да ја гарантира имплементацијата на единствениот европски код со обезбедување соодветни алатки за надлежните органи на земјите членки и банки за ткива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 27,
+      "en": "The Member States competent authorities should update the register for tissue establishments, reflecting any changes in tissue establishment accreditations, designations, authorisations, or licences and the Commission should ensure the update of the register of the tissues and cells whenever new products need to be included.",
+      "mk1": "Надлежните органи на земјите членки треба да го ажурираат регистарот на банки за ткива, при што ќе ги бележат сите промени во акредитациите на банките за ткива, назначувањата, овластувањата или лиценците, а Комисијата треба да обезбеди ажурирање на регистарот на ткива и клетки секогаш кога треба да бидат вклучени нови производи.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 28,
+      "en": "For this the Commission should consult a group of experts, in particular experts nominated by the Member States competent authorities.",
+      "mk1": "За оваа цел, Комисијата треба да се консултира со група експерти, особено експерти назначени од надлежните органи на земјите членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 29,
+      "en": "For the donation identification sequence in the Single European Code, the importing tissue establishment should use the tissue establishment code allocated to it in the EU Tissue Establishment Compendium and should allocate a unique donation number if the donation number on the imported product is not globally unique.",
+      "mk1": "За секвенцата за идентификација на донирањето во единствениот европски код, банката на увозни ткива треба да го користи кодот што и е доделен во Компендиумот на банки за ткива на ЕУ и треба да одреди единствен број на донирање доколку бројот на донирање на увезениот производ не е единствен во светски рамки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 30,
+      "en": "Pooling of tissues or cells is allowed in some Member States.",
+      "mk1": "Соединување на ткива или клетки е дозволено во некои земји членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 31,
+      "en": "Therefore, the application of the Single European Code in case of pooling is also addressed by this Directive.",
+      "mk1": "Затоа, со оваа директива се утврдува и примената на единствениот европски во случај на соединување.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 32,
+      "en": "A transitional regime for tissues and cells already in storage at the end of the transposition period should be introduced.",
+      "mk1": "Потребно е да се воведе преоден метод за ткива и клетки што се веќе складирани на крајот на преодниот период.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 33,
+      "en": "This Directive does not prevent Member States from maintaining or introducing more stringent measures relating to coding of tissues and cells, provided that the provisions of the Treaty are met.",
+      "mk1": "Оваа директива не ги спречува земјите членки да имаат или воведуваат построги мерки за кодирање на ткива и клетки, под услов да се исполнети одредбите од Договорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 34,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 35,
+      "en": "In Article 2, the following points (k) to (y) are added:",
+      "mk1": "Во член 2, се додаваат следните точки од (и) до (y):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 36,
+      "en": "HAS ADOPTED THIS DIRECTIVE:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ДИРЕКТИВА:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 37,
+      "en": "Commission Directive 2006/86/EC () is hereby amended as follows:",
+      "mk1": "Директивата 2006/86/ЕЗ на Комисијата () се менува како што следи:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 38,
+      "en": " Commission Directive 2006/86/EC of 24 October 2006 implementing Directive 2004/23/EC of the European Parliament and of the Council as regards traceability requirements, notification of serious adverse reactions and events and certain technical requirements for the coding, processing, preservation, storage and distribution of human tissues and cells (OJ L 294, 25.10.2006, p. 32).",
+      "mk1": " Директива 2006/86/ЕЗ на Комисијата од 24 октомври 2006 година за спроведување на Директивата 2004/23/ЕЗ на Европскиот парламент и на Советот во врска со барањата за следливост, известување за сериозни несакани реакции и настани и одредени технички барања за кодирање, обработка, зачувување, складирање и дистрибуција на човечки ткива и клетки (Сл.весник L 294, 25 октомври.2006 год., стр. 32).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    }
+  ],
+  "accepted_indices": [
+    1,
+    2,
+    3
+  ]
+}

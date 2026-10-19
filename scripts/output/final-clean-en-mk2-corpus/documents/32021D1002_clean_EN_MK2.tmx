@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210731T142547Z" creationid="HP\a">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32021D1002</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021D1002</prop>
+    <prop type="x-SourceTMX">32021D1002_MK1.tmx</prop>
+    <prop type="x-SourceTMXSHA256">6a15c764c3eae2cd2a72b4534b6ac06843841d67a1b8e6c1610db5157d1ff178</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">5</prop>
+  </header>
+  <body>
+    <tu creationdate="20210731T143058Z" creationid="PC" changedate="20210731T143058Z" changeid="PC" lastusagedate="20210731T143058Z">
+      <prop type="x-Context">-8837398720546538036, 4924245662121975495</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Наталля Мiхайлаўна БУГУК</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Наталля Мiхайлаўна БУГУК</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1002</prop>
+      <prop type="x-SourceTUIndex">534</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210731T143058Z" creationid="PC" changedate="20210731T143058Z" changeid="PC" lastusagedate="20210731T143058Z">
+      <prop type="x-Context">-1366999299785125536, -4963759812887598351</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Наталья Михайловна БУГУК</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Наталья Михайловна БУГУК</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1002</prop>
+      <prop type="x-SourceTUIndex">535</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210731T143136Z" creationid="PC" changedate="20210731T143136Z" changeid="PC" lastusagedate="20210731T143136Z">
+      <prop type="x-Context">-8377133236485163910, -1314001800465031245</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Alina Sergeevna KASYANCHYK</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Alina Sergeevna KASYANCHYK</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1002</prop>
+      <prop type="x-SourceTUIndex">542</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210731T143136Z" creationid="PC" changedate="20210731T143136Z" changeid="PC" lastusagedate="20210731T143136Z">
+      <prop type="x-Context">-1314093365205852324, 6928158706811426644</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Алiна Сяргееўна КАСЬЯНЧЫК</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Алiна Сяргееўна КАСЬЯНЧЫК</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1002</prop>
+      <prop type="x-SourceTUIndex">543</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210731T143136Z" creationid="PC" changedate="20210731T143136Z" changeid="PC" lastusagedate="20210731T143136Z">
+      <prop type="x-Context">8254584459784807869, -6702840588765276901</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Алина Сергеевна КАСЬЯНЧИК</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Алина Сергеевна КАСЬЯНЧИК</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D1002</prop>
+      <prop type="x-SourceTUIndex">544</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

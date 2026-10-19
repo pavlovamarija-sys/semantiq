@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210713T195011Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32016R2031_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32016R2031</prop>
+    <prop type="x-SourceTMX">32016R2031_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">f58c00cb38e89d04174ebce67df4e944621f1d8bc75dd35b0d2cb485ed7352a8</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">14</prop>
+  </header>
+  <body>
+    <tu creationdate="20210621T160930Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T160930Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T160930Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">-2709737200135108697, 7318543754853097691</prop>
+      <prop type="x-ContextContent">(d)	tubers, corms, bulbs, rhizomes, roots, rootstocks, stolons; |  | (г)	кртоли, грутчести луковици, луковици, ризоми, корени, подлоги, столони; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	shoots, stems, runners;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>даноци, стебла, стебленца; (</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">297</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T161024Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T161024Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T161024Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">-6899873098624206122, -791317254384551710</prop>
+      <prop type="x-ContextContent">(e)	shoots, stems, runners; |  | (д)	изданоци, стебла, стебленца; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(f)	cut flowers;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ѓ)режени цветови;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">298</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T161059Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T161304Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T161304Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">3237619495360690370, -4011561263374857056</prop>
+      <prop type="x-ContextContent">(f)	cut flowers; |  | (ѓ)	режени цветови; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(g)	branches with or without foliage;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(е)гранки со или без зеленило;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">299</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T161129Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T161304Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T161304Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">8730478366818158928, 5500055241728079513</prop>
+      <prop type="x-ContextContent">(g)	branches with or without foliage; |  | (е)	гранки со или без зеленило; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(h)	cut trees retaining foliage;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ж)режени стебла што го задржале зеленилото;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">300</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T161319Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T161319Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T161319Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">5744795851899420888, 7993370382985167084</prop>
+      <prop type="x-ContextContent">(h)	cut trees retaining foliage; |  | (ж)	режени стебла што го задржале зеленилото; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(i)	leaves, foliage;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(з)листови, зеленило;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">301</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T161641Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T161641Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T161641Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">-6421670816427731743, 5571320533876684780</prop>
+      <prop type="x-ContextContent">(i)	leaves, foliage; |  | (з)	листови, зеленило; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(j)	plant tissue cultures, including cell cultures, germplasm, meristems, chimaeric clones, micro-propagated material;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ѕ)култури од растително ткиво, вклучителноувајќи и клеточни култури, гермаплазма, меристеми, химерички клонови, микропропагиран материја</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">302</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T161656Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T161656Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T161656Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">760823595916006838, -8132728140923264957</prop>
+      <prop type="x-ContextContent">(j)	plant tissue cultures, including cell cultures, germplasm, meristems, chimaeric clones, micro-propagated material; |  | (ѕ)	култури од растително ткиво, вклучувајќи и клеточни култури, гермаплазма, меристеми, химерички клонови, микропропагиран материјал; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(k)	live pollen and spores;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>л; (и)жив полен и спори</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">303</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T162202Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T162202Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T162202Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">-6213389390239588726, -3855749779400319647</prop>
+      <prop type="x-ContextContent">(k)	live pollen and spores; |  | (и)	жив полен и спори; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(l)	buds, budwood, cuttings, scions, grafts;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; (ј)пупки, родни гранки, резанки, племки, чепови;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">304</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T162327Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T162327Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T162327Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">2107457762780649277, -643137415585393894</prop>
+      <prop type="x-ContextContent">(l)	buds, budwood, cuttings, scions, grafts; |  | (ј)	пупки, родни гранки, резанки, племки, чепови; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘plant products’ means unmanufactured material of plant origin and those manufactured products that, by their nature or that of their processing, may create a risk of the spread of quarantine pests.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„растителни производи“ се непроизведени материјали од растително потекло и оние произведени производи штокои, според нивната природа или нивното преработување, може да создадат ризик од распространување на карантинските штетни организми.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">305</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T162425Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T162425Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T162425Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">5436365340053502739, -8108609985816499127</prop>
+      <prop type="x-ContextContent">‘plant products’ means unmanufactured material of plant origin and those manufactured products that, by their nature or that of their processing, may create a risk of the spread of quarantine pests. |  | „растителни производи“ се непроизведени материјали од растително потекло и оние произведени производи кои, според нивната природа или нивното преработување, може да создадат ризик од распространување на карантинските штетни организми. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Except where otherwise provided in the implementing acts adopted pursuant to Articles 28, 30 and 41, wood shall only be considered as a plant product if it fulfils one or more of the following criteria:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Освен ако не е поинаку предвидено со актите за спроведување донесени во согласност со членовите 28, 30 и 41, дрвото се смета за растение или растителен производ само ако исполни еден или повеќе од следниве критериуми: (</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">306</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T162609Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T162615Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T162615Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">-4159470363061891491, -2140760058785431911</prop>
+      <prop type="x-ContextContent">Except where otherwise provided in the implementing acts adopted pursuant to Articles 28, 30 and 41, wood shall only be considered as a plant product if it fulfils one or more of the following criteria: |  | Освен доколку не е поинаку предвидено со актите за спроведување донесени во согласност со членовите 28, 30 и 41, дрвото се смета за растение или растителен производ само ако исполни еден или повеќе од следниве критериуми: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	it retains all or part of its natural round surface, with or without bark;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а)целосно или делумно ја задржува својата кружна површина со или без кора;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">307</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T162716Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T162716Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T162716Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">-8958271997907360997, 4723837491745839794</prop>
+      <prop type="x-ContextContent">(a)	it retains all or part of its natural round surface, with or without bark; |  | (а)	целосно или делумно ја задржува својата кружна површина со или без кора; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	it has not retained its natural round surface due to sawing, cutting or cleaving;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)не ја задржало својата природна кружна површина поради сечење со пила, сечење или расцепување;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">308</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T163521Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210621T163521Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210621T163521Z">
+      <prop type="x-LastUsedBy">DESKTOP-GJ0OETJ\Natasa</prop>
+      <prop type="x-Context">-6079684169108221112, -239642846515455077</prop>
+      <prop type="x-ContextContent">(b)	it has not retained its natural round surface due to sawing, cutting or cleaving; |  | (б)	не ја задржало својата природна кружна површина поради сечење со пила, сечење или расцепување; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	it is in the form of chips, particles, sawdust, wood waste, shavings or scrap, and has not undergone processing involving the use of glue, heat or pressure or a combination thereof to produce pellet, briquettes, plywood or particle board;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)е воима облик на парчиња, делови, струготини, дрвен отпад, пилевина или остатоци што не подлоеожеле на обработка која што вклучува употреба на лепило, топлина или притисок или комбинација од нив за производство на пелети, брикети, фурнир или штици од иверка;</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">309</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210623T160333Z" creationid="RAPTUREDUX-PC\Lenovo" changedate="20210625T082344Z" changeid="RAPTUREDUX-PC\Lenovo" lastusagedate="20210625T124010Z" usagecount="1">
+      <prop type="x-LastUsedBy">RAPTUREDUX-PC\Lenovo</prop>
+      <prop type="x-Context">7798788638079940913, 546610197820590284</prop>
+      <prop type="x-ContextContent">(e)	its presence on those plants for planting has an unacceptable economic impact, as regards the intended use of those plants for planting, in accordance with point (3) of Section 4 of Annex I; |  | (д)	неговото присуство на тие растенија за засадување има неприфатливо економско влијание во однос на предвидената употреба на тие растенија за засадување, во согласност со точка (3) од Оддел 4 од Анекс I; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(f)	feasible and effective measures are available to prevent its presence on the plants for planting concerned.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ѓ)достапни се изводливи и ефективни мерки за спречување на неговото присуство на предметните растенија за засадување.</seg>
+      </tuv>
+      <prop type="x-CELEX">32016R2031</prop>
+      <prop type="x-SourceTUIndex">712</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

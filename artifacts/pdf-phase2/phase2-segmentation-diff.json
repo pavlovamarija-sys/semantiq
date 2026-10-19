@@ -1,0 +1,4144 @@
+{
+  "knownRepairedBoundaries": [
+    {
+      "kind": "Annex I Part A multi-line cell",
+      "nodeId": "tablecell-e795a50cb0cdd25f",
+      "newTransUnits": 2,
+      "newCatSegments": 2,
+      "result": "REAPPEARED",
+      "oldTransUnits": 2,
+      "oldCatSegments": 2,
+      "oldUnitsContiguous": true,
+      "classification": "UNCHANGED"
+    },
+    {
+      "kind": "Annex I Part A multi-line cell",
+      "nodeId": "tablecell-1170670854759090",
+      "newTransUnits": 2,
+      "newCatSegments": 2,
+      "result": "REAPPEARED",
+      "oldTransUnits": 2,
+      "oldCatSegments": 2,
+      "oldUnitsContiguous": false,
+      "classification": "IMPROVED_STRUCTURE_UNCHANGED_SEGMENT_COUNT"
+    },
+    {
+      "kind": "Annex I Part A multi-line cell",
+      "nodeId": "tablecell-dcc19ff200192bde",
+      "newTransUnits": 2,
+      "newCatSegments": 2,
+      "result": "REAPPEARED",
+      "oldTransUnits": 2,
+      "oldCatSegments": 2,
+      "oldUnitsContiguous": false,
+      "classification": "IMPROVED_STRUCTURE_UNCHANGED_SEGMENT_COUNT"
+    },
+    {
+      "kind": "page-1 citation/footnote continuation",
+      "nodeId": "listitem-4000388ab09f133b",
+      "newTransUnits": 1,
+      "newCatSegments": 1,
+      "result": "REPAIRED",
+      "oldTransUnits": 2,
+      "oldCatSegments": 2,
+      "oldUnitsContiguous": true,
+      "classification": "IMPROVED"
+    }
+  ],
+  "typedNodeToNewStudio": [
+    {
+      "nodeId": "paragraph-72a3e66371c89f15",
+      "type": "Paragraph",
+      "text": "27.12.2006",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        0
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-3e4c06359179d700",
+      "type": "Paragraph",
+      "text": "Official Journal of the European Union",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        1
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-f076a2f50f1c6df9",
+      "type": "Paragraph",
+      "text": "EN",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        2
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-44152913dec272fc",
+      "type": "Heading",
+      "text": "DIRECTIVE 2006/114/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        3
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "heading-e006c3e8bbc60156",
+      "type": "Heading",
+      "text": "of 12 December 2006",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        4
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "heading-df72b9c04fa9e9a8",
+      "type": "Heading",
+      "text": "concerning misleading and comparative advertising",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        5
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "heading-815524a092f4aa2f",
+      "type": "Heading",
+      "text": "(codified version)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        6
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "heading-1eaf6c4bcf0e0082",
+      "type": "Heading",
+      "text": "(Text with EEA relevance)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        7
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-808b7707bfc2f2d6",
+      "type": "Paragraph",
+      "text": "THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EURO- PEAN UNION,",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        8
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-f38b70ebf36630cd",
+      "type": "Paragraph",
+      "text": "Having regard to the Treaty establishing the European Commu- nity, and in particular Article 95 thereof,",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        9
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-4f6688f72f41981f",
+      "type": "Paragraph",
+      "text": "Having regard to the proposal from the Commission,",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        10
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-126be7601c51a9ff",
+      "type": "Paragraph",
+      "text": "Having regard to the opinion of the European Economic and Social Committee (1),",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        11
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-311d13ebc8d1187b",
+      "type": "Paragraph",
+      "text": "Acting in accordance with the procedure laid down in Article 251 of the Treaty (2),",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        12
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-b7fc9acfe1141960",
+      "type": "Heading",
+      "text": "Whereas:",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        13
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-8cf24a4b5f8fc914",
+      "type": "Paragraph",
+      "text": "Council Directive 84/450/EEC of 10 September 1984 con- cerning misleading and comparative advertising (3) has been substantially amended several times (4). In the inter- ests of clarity and rationality the said Directive should be codified.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        14
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-2545ff59a3ad6823",
+      "type": "Paragraph",
+      "text": "(1)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        15
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-dcc726a5111efa4a",
+      "type": "Paragraph",
+      "text": "The laws against misleading advertising in force in the Member States differ widely. Since advertising reaches beyond the frontiers of individual Member States, it has a direct effect on the smooth functioning of the internal market.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        16
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-a1c50fcd599be159",
+      "type": "Paragraph",
+      "text": "(2)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        17
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-881c5bfa9b6f69e6",
+      "type": "Paragraph",
+      "text": "Misleading and unlawful comparative advertising can lead to distortion of competition within the internal market.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        18
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-d3788e22907c7c0b",
+      "type": "Paragraph",
+      "text": "(3)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        19
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-56ba7d7b36a02055",
+      "type": "Paragraph",
+      "text": "Advertising, whether or not it induces a contract, affects the economic welfare of consumers and traders.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        20
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-79d5c7564cd67d9b",
+      "type": "Paragraph",
+      "text": "(4)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        21
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-3455a10d5bb83aa9",
+      "type": "Paragraph",
+      "text": "The differences between the laws of the Member States on advertising which misleads business hinder the execution of advertising campaigns beyond national boundaries and thus affect the free circulation of goods and provision of services.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        22
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-0477c142e260c306",
+      "type": "Paragraph",
+      "text": "(5)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        23
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-4000388ab09f133b",
+      "type": "ListItem",
+      "text": "(1) Opinion of 26 October 2006 (not yet published in the Official Jour- nal). (2) Opinion of the European Parliament of 12 October 2006 (not yet published in the Official Journal) and Council Decision of 30 Novem- ber 2006. (3) OJ L 250, 19.9.1984, p. 17. Directive as last amended by Directive 2005/29/EC of the European Parliament and of the Council (OJ L 149, 11.6.2005, p. 22). (4) See Annex I, Part A.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        24
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-fd5c7c80814b6326",
+      "type": "Paragraph",
+      "text": "L 376/21",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        25
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-52a9b4f81d00ad8b",
+      "type": "Paragraph",
+      "text": "The completion of the internal market means a wide range of choice. Given that consumers and traders can and must make the best possible use of the internal market, and that advertising is a very important means of creating genuine outlets for all goods and services throughout the Commu- nity, the basic provisions governing the form and content of comparative advertising should be uniform and the conditions of the use of comparative advertising in the Member States should be harmonised. If these conditions are met, this will help demonstrate objectively the merits of the various comparable products. Comparative adver- tising can also stimulate competition between suppliers of goods and services to the consumer’s advantage.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        26
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-bf2d0469e18c34c9",
+      "type": "Paragraph",
+      "text": "(6)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        27
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-066482bc6e3fdfa3",
+      "type": "Paragraph",
+      "text": "Minimum and objective criteria for determining whether advertising is misleading should be established.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        28
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-eab75b900b597b98",
+      "type": "Paragraph",
+      "text": "(7)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        29
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-bb8f460537e73b88",
+      "type": "Paragraph",
+      "text": "Comparative advertising, when it compares material, relevant, verifiable and representative features and is not misleading, may be a legitimate means of informing con- sumers of their advantage. It is desirable to provide a broad concept of comparative advertising to cover all modes of comparative advertising.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        30
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-539e245c435dc77f",
+      "type": "Paragraph",
+      "text": "(8)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        31
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-7e62c41815d30d4c",
+      "type": "Paragraph",
+      "text": "Conditions of permitted comparative advertising, as far as the comparison is concerned, should be established in order to determine which practices relating to compara- tive advertising may distort competition, be detrimental to competitors and have an adverse effect on consumer choice. Such conditions of permitted advertising should include criteria of objective comparison of the features of goods and services.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        32
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-488dd17484a1e899",
+      "type": "Paragraph",
+      "text": "(9)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        33
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-219688fd2acecbdd",
+      "type": "Paragraph",
+      "text": "The international conventions on copyright as well as the national provisions on contractual and non-contractual liability should apply when the results of comparative tests carried out by third parties are referred to or reproduced in comparative advertising.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        34
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-75510cd4e3fdaff1",
+      "type": "Paragraph",
+      "text": "(10)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        35
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-0da9a6b881d32421",
+      "type": "Paragraph",
+      "text": "The conditions of comparative advertising should be cumulative and respected in their entirety. In accordance with the Treaty, the choice of forms and methods for the implementation of these conditions should be left to the Member States, insofar as those forms and methods are not already determined by this Directive.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        36
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-f713c9d656a01eaf",
+      "type": "Paragraph",
+      "text": "(11)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        37
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-d64166e66e0d1376",
+      "type": "Paragraph",
+      "text": "L 376/22",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        39
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-1c8264cab831f86c",
+      "type": "Paragraph",
+      "text": "EN",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        40
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-06b1ce9da223e892",
+      "type": "Paragraph",
+      "text": "These conditions should include, in particular, consider- ation of the provisions resulting from Council Regulation (EC) No 510/2006 of 20 March 2006 on the protection of geographical indications and designations of origin for agricultural products and foodstuffs (1), and in particular Article 13 thereof, and of the other Community provi- sions adopted in the agricultural sphere.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        41
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-a98bb84fbf7b4aab",
+      "type": "Paragraph",
+      "text": "(12)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        42
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-9ba90442b08ad8bc",
+      "type": "Paragraph",
+      "text": "Article 5 of First Council Directive 89/104/EEC of 21 December 1988 to approximate the laws of the Mem- ber States relating to trade marks (2) confers exclusive rights on the proprietor of a registered trade mark, includ- ing the right to prevent all third parties from using, in the course of trade, any sign which is identical to, or similar to, the trade mark in relation to identical goods or ser- vices or even, where appropriate, other goods.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        43
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-cacdd0d700bb19ea",
+      "type": "Paragraph",
+      "text": "(13)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        44
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-e4b8a98183b2ae2e",
+      "type": "Paragraph",
+      "text": "It may, however, be indispensable, in order to make com- parative advertising effective, to identify the goods or ser- vices of a competitor, making reference to a trade mark or trade name of which the latter is the proprietor.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        45
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-ef92e3341767eb06",
+      "type": "Paragraph",
+      "text": "(14)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        46
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-6feb0b12309f7355",
+      "type": "Paragraph",
+      "text": "Such use of another’s trade mark, trade name or other dis- tinguishing marks does not breach this exclusive right in cases where it complies with the conditions laid down by this Directive, the intended target being solely to distin- guish between them and thus to highlight differences objectively.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        47
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-bb1560b154efba36",
+      "type": "Paragraph",
+      "text": "(15)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        48
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-c93b48ff38364081",
+      "type": "Paragraph",
+      "text": "Persons or organisations regarded under national law as having a legitimate interest in the matter should have facilities for initiating proceedings against misleading and unlawful comparative advertising, either before a court or before an administrative authority which is competent to decide upon complaints or to initiate appropriate legal proceedings.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        49
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-44c706de113cb072",
+      "type": "Paragraph",
+      "text": "(16)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        50
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-4ac65620c8f2d96b",
+      "type": "Paragraph",
+      "text": "The courts or administrative authorities should have pow- ers enabling them to order or obtain the cessation of mis- leading and unlawful comparative advertising. In certain cases it may be desirable to prohibit misleading and unlawful comparative advertising even before it is pub- lished. However, this in no way implies that Member States are under an obligation to introduce rules requir- ing the systematic prior vetting of advertising.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        51
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-c00d87bf40f5034a",
+      "type": "Paragraph",
+      "text": "(17)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        52
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-22d8a4a3dc821b8d",
+      "type": "Paragraph",
+      "text": "The voluntary control exercised by self-regulatory bodies to eliminate misleading or unlawful comparative advertis- ing may avoid recourse to administrative or judicial action and ought therefore to be encouraged.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        53
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-ea5711487f78be79",
+      "type": "Paragraph",
+      "text": "(18)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        54
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "footnote-3d51a1b5ae58b38d",
+      "type": "Footnote",
+      "text": "(1) OJ L 93, 31.3.2006, p. 12. (2) OJ L 40, 11.2.1989, p. 1. Directive as amended by Decision 92/10/EEC (OJ L 6, 11.1.1992, p. 35).",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        55
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-c18c6002de892f78",
+      "type": "Paragraph",
+      "text": "Official Journal of the European Union",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        56
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-867e78b2dc060017",
+      "type": "Paragraph",
+      "text": "27.12.2006",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        57
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-88829f4b98f5aa2c",
+      "type": "Paragraph",
+      "text": "While it is for national law to determine the burden of proof, it is appropriate to enable courts and administra- tive authorities to require traders to produce evidence as to the accuracy of factual claims they have made.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        58
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-6633db46cb60c76d",
+      "type": "Paragraph",
+      "text": "(19)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        59
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-038417b3f482f5a9",
+      "type": "Paragraph",
+      "text": "Regulating comparative advertising is necessary for the smooth functioning of the internal market. Action at Community level is therefore required. The adoption of a Directive is the appropriate instrument because it lays down uniform general principles while allowing the Mem- ber States to choose the form and appropriate method by which to attain these objectives. It is in accordance with the principle of subsidiarity.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        60
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-2d19c1cd58b668a8",
+      "type": "Paragraph",
+      "text": "(20)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        61
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-91549819640e944c",
+      "type": "Paragraph",
+      "text": "This Directive should be without prejudice to the obliga- tions of the Member States relating to the time-limits for transposition into national law and application of the Directives as set out in Part B of Annex I,",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        62
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-fdce17599536a211",
+      "type": "Paragraph",
+      "text": "(21)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        63
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-86de7baed74bf513",
+      "type": "Heading",
+      "text": "HAVE ADOPTED THIS DIRECTIVE:",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        64
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "heading-a1cce04a75012a7e",
+      "type": "Heading",
+      "text": "Article 1",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        65
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-1fa30c362b13d5ab",
+      "type": "Paragraph",
+      "text": "The purpose of this Directive is to protect traders against mis- leading advertising and the unfair consequences thereof and to lay down the conditions under which comparative advertising is permitted.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        66
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-a936df08a31e1a13",
+      "type": "Heading",
+      "text": "Article 2",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        67
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-4c638a4cfa26119c",
+      "type": "Paragraph",
+      "text": "For the purposes of this Directive:",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        68
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-c2beb3da0bb20bd4",
+      "type": "ListItem",
+      "text": "(a) ‘advertising’ means the making of a representation in any form in connection with a trade, business, craft or profes- sion in order to promote the supply of goods or services, including immovable property, rights and obligations;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        69
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-60bc1754c0076210",
+      "type": "ListItem",
+      "text": "(b) ‘misleading advertising’ means any advertising which in any way, including its presentation, deceives or is likely to deceive the persons to whom it is addressed or whom it reaches and which, by reason of its deceptive nature, is likely to affect their economic behaviour or which, for those rea- sons, injures or is likely to injure a competitor;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        70
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-1ffc30736249899f",
+      "type": "ListItem",
+      "text": "(c) ‘comparative advertising’ means any advertising which explicitly or by implication identifies a competitor or goods or services offered by a competitor;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        71
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-f088bdba5a2cc8e7",
+      "type": "ListItem",
+      "text": "(d) ‘trader’ means any natural or legal person who is acting for purposes relating to his trade, craft, business or profession and anyone acting in the name of or on behalf of a trader;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        72
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-b924e8fafb636000",
+      "type": "Paragraph",
+      "text": "27.12.2006",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        74
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-2664037c7c9b4d42",
+      "type": "Paragraph",
+      "text": "Official Journal of the European Union",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        75
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-6b122fefe3fdc28c",
+      "type": "Paragraph",
+      "text": "EN",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        76
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-a0d52737fc8227bb",
+      "type": "ListItem",
+      "text": "(e) ‘code owner’ means any entity, including a trader or group of traders, which is responsible for the formulation and revi- sion of a code of conduct and/or for monitoring compli- ance with the code by those who have undertaken to be bound by it.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        77
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-4e815d7930be42bc",
+      "type": "Heading",
+      "text": "Article 3",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        78
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-92d3030068c26e42",
+      "type": "Paragraph",
+      "text": "In determining whether advertising is misleading, account shall be taken of all its features, and in particular of any information it contains concerning:",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        79
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-592efe22480107aa",
+      "type": "ListItem",
+      "text": "(a) the characteristics of goods or services, such as their avail- ability, nature, execution, composition, method and date of manufacture or provision, fitness for purpose, uses, quan- tity, specification, geographical or commercial origin or the results to be expected from their use, or the results and mate- rial features of tests or checks carried out on the goods or services;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        80
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-cf3e81b5657f691f",
+      "type": "ListItem",
+      "text": "(b) the price or the manner in which the price is calculated, and the conditions on which the goods are supplied or the ser- vices provided;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        81
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-e1d5d750fb524789",
+      "type": "ListItem",
+      "text": "(c) the nature, attributes and rights of the advertiser, such as his identity and assets, his qualifications and ownership of indus- trial, commercial or intellectual property rights or his awards and distinctions.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        82
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-88d4894af900635a",
+      "type": "Heading",
+      "text": "Article 4",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        83
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-fa2edb1126b2f4a4",
+      "type": "Paragraph",
+      "text": "Comparative advertising shall, as far as the comparison is con- cerned, be permitted when the following conditions are met:",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        84
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-223454872c468b1c",
+      "type": "ListItem",
+      "text": "(a) it is not misleading within the meaning of Articles 2(b), 3 and 8(1) of this Directive or Articles 6 and 7 of Directive 2005/29/EC of the European Parliament and of the Council of 11 May 2005 concerning unfair business-to-consumer commercial practices in the internal market (‘Unfair Com- mercial Practices Directive’) (1);",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        85
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-ff730798946fd5b3",
+      "type": "ListItem",
+      "text": "(b) it compares goods or services meeting the same needs or intended for the same purpose;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        86
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-8a6254627ae8888f",
+      "type": "ListItem",
+      "text": "(c) it objectively compares one or more material, relevant, veri- fiable and representative features of those goods and ser- vices, which may include price;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        87
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-41d7f1b1517f0d5f",
+      "type": "ListItem",
+      "text": "(d) it does not discredit or denigrate the trade marks, trade names, other distinguishing marks, goods, services, activi- ties or circumstances of a competitor;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        88
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-1702cdddd13bb56e",
+      "type": "ListItem",
+      "text": "(e) for products with designation of origin, it relates in each case to products with the same designation;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        89
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "footnote-b579fbf534a42cda",
+      "type": "Footnote",
+      "text": "(1) OJ L 149, 11.6.2005, p. 22.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        90
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-cf6a5c21381b9267",
+      "type": "Paragraph",
+      "text": "L 376/23",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        91
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-2309a6fb020f1e77",
+      "type": "ListItem",
+      "text": "(f) it does not take unfair advantage of the reputation of a trade mark, trade name or other distinguishing marks of a com- petitor or of the designation of origin of competing products;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        92
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-5369b1e651cc70a4",
+      "type": "ListItem",
+      "text": "(g) it does not present goods or services as imitations or repli- cas of goods or services bearing a protected trade mark or trade name;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        93
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-eb178adceef565a2",
+      "type": "ListItem",
+      "text": "(h) it does not create confusion among traders, between the advertiser and a competitor or between the advertiser’s trade marks, trade names, other distinguishing marks, goods or services and those of a competitor.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        94
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-885447b5e68ae7c8",
+      "type": "Heading",
+      "text": "Article 5",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        95
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "listitem-5ab44c429ae549bf",
+      "type": "ListItem",
+      "text": "1. Member States shall ensure that adequate and effective means exist to combat misleading advertising and enforce com- pliance with the provisions on comparative advertising in the interests of traders and competitors.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        96
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-6dc9746f8f3dbe82",
+      "type": "Paragraph",
+      "text": "Such means shall include legal provisions under which persons or organisations regarded under national law as having a legiti- mate interest in combating misleading advertising or regulating comparative advertising may:",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        97
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-2c71d131c03b7648",
+      "type": "ListItem",
+      "text": "(a) take legal action against such advertising;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        98
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-fcd707220c04ab5a",
+      "type": "Paragraph",
+      "text": "or",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        99
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-7b2b60f612c33e06",
+      "type": "ListItem",
+      "text": "(b) bring such advertising before an administrative authority competent either to decide on complaints or to initiate appropriate legal proceedings.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        100
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-957c81660cf023d1",
+      "type": "ListItem",
+      "text": "2. It shall be for each Member State to decide which of the facilities referred to in the second subparagraph of paragraph 1 shall be available and whether to enable the courts or adminis- trative authorities to require prior recourse to other established means of dealing with complaints, including those referred to in Article 6.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        101
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-7a4b8ca428811bf3",
+      "type": "Paragraph",
+      "text": "It shall be for each Member State to decide:",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        102
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-247e71959529ea04",
+      "type": "ListItem",
+      "text": "(a) whether these legal facilities may be directed separately or jointly against a number of traders from the same economic sector;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        103
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-aec5ad3b9c04c70e",
+      "type": "Paragraph",
+      "text": "and",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        104
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-59435416c2e0a7df",
+      "type": "ListItem",
+      "text": "(b) whether these legal facilities may be directed against a code owner where the relevant code promotes non-compliance with legal requirements.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        105
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-56667c19b1c3e0ef",
+      "type": "Paragraph",
+      "text": "L 376/24",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        107
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-bdcbc82084c10997",
+      "type": "Paragraph",
+      "text": "EN",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        108
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-95c35d9b54e81fb1",
+      "type": "ListItem",
+      "text": "3. Under the provisions referred to in paragraphs 1 and 2, Member States shall confer upon the courts or administrative authorities powers enabling them, in cases where they deem such measures to be necessary taking into account all the interests involved and in particular the public interest:",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        109
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-62b66fa450069887",
+      "type": "ListItem",
+      "text": "(a) to order the cessation of, or to institute appropriate legal proceedings for an order for the cessation of, misleading advertising or unlawful comparative advertising;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        110
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-b8a9af225a55a147",
+      "type": "Paragraph",
+      "text": "or",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        111
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-d9ef90113c55e458",
+      "type": "ListItem",
+      "text": "(b) if the misleading advertising or unlawful comparative adver- tising has not yet been published but publication is immi- nent, to order the prohibition of, or to institute appropriate legal proceedings for an order for the prohibition of, such publication.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        112
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-c33417d22370e6a3",
+      "type": "Paragraph",
+      "text": "The first subparagraph shall apply even where there is no proof of actual loss or damage or of intention or negligence on the part of the advertiser.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        113
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-be81bf2dfeb8c38b",
+      "type": "Paragraph",
+      "text": "Member States shall make provision for the measures referred to in the first subparagraph to be taken under an accelerated pro- cedure either with interim effect or with definitive effect, at the Member States’ discretion.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        114
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-04608a9f4a51b403",
+      "type": "ListItem",
+      "text": "4. Member States may confer upon the courts or administra- tive authorities powers enabling them, with a view to eliminat- ing the continuing effects of misleading advertising or unlawful comparative advertising, the cessation of which has been ordered by a final decision:",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        115
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-af1963217e7b139f",
+      "type": "ListItem",
+      "text": "(a) to require publication of that decision in full or in part and in such form as they deem adequate;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        116
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-2995ec5f65c8fd55",
+      "type": "ListItem",
+      "text": "(b) to require in addition the publication of a corrective statement.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        117
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-14f2f37e2c2894be",
+      "type": "ListItem",
+      "text": "5. The administrative authorities referred to in point (b) of the second subparagraph of paragraph 1 must:",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        118
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-c30409a24dcaa21c",
+      "type": "ListItem",
+      "text": "(a) be composed so as not to cast doubt on their impartiality;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        119
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-1e56b49b3e3b2ddc",
+      "type": "ListItem",
+      "text": "(b) have adequate powers, where they decide on complaints, to monitor and enforce the observance of their decisions effectively;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        120
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-ed6457d32a72d296",
+      "type": "ListItem",
+      "text": "(c) normally give reasons for their decisions.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        121
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-45b9d2b3e94c375d",
+      "type": "Paragraph",
+      "text": "Official Journal of the European Union",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        122
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-9bb826342d040459",
+      "type": "Paragraph",
+      "text": "27.12.2006",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        123
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-2d843beb9f54989a",
+      "type": "ListItem",
+      "text": "6. Where the powers referred to in paragraphs 3 and 4 are exercised exclusively by an administrative authority, reasons for its decisions shall always be given. In this case, provision must be made for procedures whereby improper or unreasonable exer- cise of its powers by the administrative authority or improper or unreasonable failure to exercise the said powers can be the sub- ject of judicial review.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        124
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-e007703dfcea0f35",
+      "type": "Heading",
+      "text": "Article 6",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        125
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-35aae71f6a8e6647",
+      "type": "Paragraph",
+      "text": "This Directive does not exclude the voluntary control, which Member States may encourage, of misleading or comparative advertising by self-regulatory bodies and recourse to such bodies by the persons or organisations referred to in the second sub- paragraph of Article 5(1) on condition that proceedings before such bodies are additional to the court or administrative proceed- ings referred to in that Article.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        126
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-9f166dafd0fddd93",
+      "type": "Heading",
+      "text": "Article 7",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        127
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-e60b314ca73958de",
+      "type": "Paragraph",
+      "text": "Member States shall confer upon the courts or administrative authorities powers enabling them in the civil or administrative proceedings referred to in Article 5:",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        128
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-8fb010eca97c41fc",
+      "type": "ListItem",
+      "text": "(a) to require the advertiser to furnish evidence as to the accu- racy of factual claims in advertising if, taking into account the legitimate interest of the advertiser and any other party to the proceedings, such a requirement appears appropriate on the basis of the circumstances of the particular case and in the case of comparative advertising to require the advertiser to furnish such evidence in a short period of time;",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        129
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-0ad82c47fa789d49",
+      "type": "Paragraph",
+      "text": "and",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        130
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-313b4e63a75ac385",
+      "type": "ListItem",
+      "text": "(b) to consider factual claims as inaccurate if the evidence demanded in accordance with point (a) is not furnished or is deemed insufficient by the court or administrative authority.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        131
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-6fbcf867751d559f",
+      "type": "Heading",
+      "text": "Article 8",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        132
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "listitem-95e70d4687343d0b",
+      "type": "ListItem",
+      "text": "1. This Directive shall not preclude Member States from retaining or adopting provisions with a view to ensuring more extensive protection, with regard to misleading advertising, for traders and competitors.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        133
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-8cfafaa1b071eaa0",
+      "type": "Paragraph",
+      "text": "The first subparagraph shall not apply to comparative advertis- ing as far as the comparison is concerned.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        134
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-1491a26efa4e7805",
+      "type": "ListItem",
+      "text": "2. The provisions of this Directive shall apply without preju- dice to Community provisions on advertising for specific prod- ucts and/or services or to restrictions or prohibitions on advertising in particular media.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        135
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-1267a03e942e8dad",
+      "type": "Paragraph",
+      "text": "27.12.2006",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        137
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-66b65f4648f2c274",
+      "type": "Paragraph",
+      "text": "Official Journal of the European Union",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        138
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-4f3760774c24c2c5",
+      "type": "Paragraph",
+      "text": "EN",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        139
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-ac6d6e2d92cc8d18",
+      "type": "ListItem",
+      "text": "3. The provisions of this Directive concerning comparative advertising shall not oblige Member States which, in compliance with the provisions of the Treaty, maintain or introduce adver- tising bans regarding certain goods or services, whether imposed directly or by a body or organisation responsible, under the law of the Member States, for regulating the exercise of a commer- cial, industrial, craft or professional activity, to permit compara- tive advertising regarding those goods or services. Where these bans are limited to particular media, this Directive shall apply to the media not covered by these bans.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        140
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "listitem-de70914e7f2a78c4",
+      "type": "ListItem",
+      "text": "4. Nothing in this Directive shall prevent Member States, in compliance with the provisions of the Treaty, from maintaining or introducing bans or limitations on the use of comparisons in the advertising of professional services, whether imposed directly or by a body or organisation responsible, under the law of the Member States, for regulating the exercise of a professional activity.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        141
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-c130c471910fb976",
+      "type": "Heading",
+      "text": "Article 9",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        142
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-635bb8240ba398f8",
+      "type": "Paragraph",
+      "text": "Member States shall communicate to the Commission the text of the main provisions of national law which they adopt in the field covered by this Directive.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        143
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-79abe0346b49f2fa",
+      "type": "Paragraph",
+      "text": "L 376/25",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        144
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-cb86dd4f18f13353",
+      "type": "Heading",
+      "text": "Article 10",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        145
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-dc82cba6d8648295",
+      "type": "Paragraph",
+      "text": "Directive 84/450/EEC is hereby repealed, without prejudice to the obligations of the Member States relating to the time-limits for transposition into national law and application of the Direc- tives, as set out in Part B of Annex I.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        146
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-3fdc273b219d1b93",
+      "type": "Paragraph",
+      "text": "References made to the repealed Directive shall be construed as being made to this Directive and should be read in accordance with the correlation table set out in Annex II.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        147
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-a82286dffdc548f4",
+      "type": "Heading",
+      "text": "Article 11",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        148
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-087e8ce5e8583dcc",
+      "type": "Paragraph",
+      "text": "This Directive shall enter into force on 12 December 2007.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        149
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-fb477c5ae979fa5a",
+      "type": "Heading",
+      "text": "Article 12",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        150
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-e0f94b1b1af84640",
+      "type": "Paragraph",
+      "text": "This Directive is addressed to the Member States.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        151
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-e6564206f573625b",
+      "type": "Paragraph",
+      "text": "Done at Strasbourg, 12 December 2006.",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        152
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-49ec13d2de7e3723",
+      "type": "Paragraph",
+      "text": "For the Council",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        153
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-ec5cdc71212e6970",
+      "type": "Paragraph",
+      "text": "For the European Parliament",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        154
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-ef84e394a2c819f4",
+      "type": "Paragraph",
+      "text": "The President M. PEKKARINEN",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        155
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-cd9511da97076108",
+      "type": "Paragraph",
+      "text": "The President J. BORRELL FONTELLES",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        156
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-9ea939b8b3653340",
+      "type": "Paragraph",
+      "text": "L 376/26",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        158
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-5193093e56b045fa",
+      "type": "Paragraph",
+      "text": "Official Journal of the European Union",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        159
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-d96e3664b96c7264",
+      "type": "Paragraph",
+      "text": "27.12.2006",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        160
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-5dcabb43b9a04cd9",
+      "type": "Paragraph",
+      "text": "EN",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        161
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-2f068b2b3e1c01d2",
+      "type": "Heading",
+      "text": "ANNEX I",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        162
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "heading-596430d98de65ea5",
+      "type": "Heading",
+      "text": "PART A",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        163
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "heading-432afdcb5eb2b5cb",
+      "type": "Heading",
+      "text": "Repealed Directive with its successive amendments",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        164
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "tablecell-e795a50cb0cdd25f",
+      "type": "TableCell",
+      "text": "Council Directive 84/450/EEC\n(OJ L 250, 19.9.1984, p. 17)",
+      "table": "Annex I Part A",
+      "row": 0,
+      "cell": 0,
+      "studioTransUnits": [
+        165,
+        166
+      ],
+      "transUnitCount": 2,
+      "catSegmentCount": 2,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-1170670854759090",
+      "type": "TableCell",
+      "text": "Directive 97/55/EC of the European Parliament and of the Council\n(OJ L 290, 23.10.1997, p. 18)",
+      "table": "Annex I Part A",
+      "row": 1,
+      "cell": 0,
+      "studioTransUnits": [
+        167,
+        168
+      ],
+      "transUnitCount": 2,
+      "catSegmentCount": 2,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-dcc19ff200192bde",
+      "type": "TableCell",
+      "text": "Directive 2005/29/EC of the European Parliament and of the Council\n(OJ L 149, 11.6.2005, p. 22)",
+      "table": "Annex I Part A",
+      "row": 2,
+      "cell": 0,
+      "studioTransUnits": [
+        169,
+        170
+      ],
+      "transUnitCount": 2,
+      "catSegmentCount": 2,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-405cca6deb505b17",
+      "type": "TableCell",
+      "text": "only Article 14",
+      "table": "Annex I Part A",
+      "row": 2,
+      "cell": 1,
+      "studioTransUnits": [
+        171
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-a49e228f715d68dd",
+      "type": "Heading",
+      "text": "PART B",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        172
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "heading-ca28378b7f1c47ee",
+      "type": "Heading",
+      "text": "List of time-limits for transposition into national law and application",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        173
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "paragraph-19804a9a7188692d",
+      "type": "Paragraph",
+      "text": "(referred to in Article 10)",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        174
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-75329e2db7ddf0f6",
+      "type": "TableCell",
+      "text": "Directive",
+      "table": "Annex I Part B",
+      "row": 0,
+      "cell": 0,
+      "studioTransUnits": [
+        175
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-46cc23fcdbeb5397",
+      "type": "TableCell",
+      "text": "Time-limit for transposition",
+      "table": "Annex I Part B",
+      "row": 0,
+      "cell": 1,
+      "studioTransUnits": [
+        176
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-c0bcf2c1bc84ce1d",
+      "type": "TableCell",
+      "text": "Date of application",
+      "table": "Annex I Part B",
+      "row": 0,
+      "cell": 2,
+      "studioTransUnits": [
+        177
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-9e3bdb070a28be38",
+      "type": "TableCell",
+      "text": "84/450/EEC",
+      "table": "Annex I Part B",
+      "row": 1,
+      "cell": 0,
+      "studioTransUnits": [
+        178
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-b12b74440822da3d",
+      "type": "TableCell",
+      "text": "1 October 1986",
+      "table": "Annex I Part B",
+      "row": 1,
+      "cell": 1,
+      "studioTransUnits": [
+        179
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-d955759c35ae706d",
+      "type": "TableCell",
+      "text": "—",
+      "table": "Annex I Part B",
+      "row": 1,
+      "cell": 2,
+      "studioTransUnits": [
+        180
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-446d352bf1c36e7e",
+      "type": "TableCell",
+      "text": "97/55/EC",
+      "table": "Annex I Part B",
+      "row": 2,
+      "cell": 0,
+      "studioTransUnits": [
+        181
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-5092585d7283d7ce",
+      "type": "TableCell",
+      "text": "23 April 2000",
+      "table": "Annex I Part B",
+      "row": 2,
+      "cell": 1,
+      "studioTransUnits": [
+        182
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-617ac83cb0f0bc46",
+      "type": "TableCell",
+      "text": "—",
+      "table": "Annex I Part B",
+      "row": 2,
+      "cell": 2,
+      "studioTransUnits": [
+        183
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-cbcbb8bd82ba8ca8",
+      "type": "TableCell",
+      "text": "2005/29/EC",
+      "table": "Annex I Part B",
+      "row": 3,
+      "cell": 0,
+      "studioTransUnits": [
+        184
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-35d0908692cba1ed",
+      "type": "TableCell",
+      "text": "12 June 2007",
+      "table": "Annex I Part B",
+      "row": 3,
+      "cell": 1,
+      "studioTransUnits": [
+        185
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-1f9d297599cae7f9",
+      "type": "TableCell",
+      "text": "12 December 2007",
+      "table": "Annex I Part B",
+      "row": 3,
+      "cell": 2,
+      "studioTransUnits": [
+        186
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-c7653f96d2157c59",
+      "type": "Paragraph",
+      "text": "27.12.2006",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        188
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-d06b8cf628a118a2",
+      "type": "Paragraph",
+      "text": "Official Journal of the European Union",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        189
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-380d8beea62bb7b9",
+      "type": "Paragraph",
+      "text": "L 376/27",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        190
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "paragraph-921ca56f6dcb0e83",
+      "type": "Paragraph",
+      "text": "EN",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        191
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "heading-8a397b0f9ce6462a",
+      "type": "Heading",
+      "text": "ANNEX II",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        192
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "heading-f4fe936bdcf81a5e",
+      "type": "Heading",
+      "text": "CORRELATION TABLE",
+      "table": null,
+      "row": null,
+      "cell": null,
+      "studioTransUnits": [
+        193
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": false,
+      "studioHeadingContext": true
+    },
+    {
+      "nodeId": "tablecell-4c9608cbf0c594ce",
+      "type": "TableCell",
+      "text": "Directive 84/450/EEC",
+      "table": "Annex II correlation table",
+      "row": 0,
+      "cell": 0,
+      "studioTransUnits": [
+        194
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-000acf98c813ff26",
+      "type": "TableCell",
+      "text": "This Directive",
+      "table": "Annex II correlation table",
+      "row": 0,
+      "cell": 1,
+      "studioTransUnits": [
+        195
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-d688fb713b47d508",
+      "type": "TableCell",
+      "text": "Article 1",
+      "table": "Annex II correlation table",
+      "row": 1,
+      "cell": 0,
+      "studioTransUnits": [
+        196
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-5c16b871e6195a26",
+      "type": "TableCell",
+      "text": "Article 1",
+      "table": "Annex II correlation table",
+      "row": 1,
+      "cell": 1,
+      "studioTransUnits": [
+        197
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-06502d209146a8f2",
+      "type": "TableCell",
+      "text": "Article 2, introductory words",
+      "table": "Annex II correlation table",
+      "row": 2,
+      "cell": 0,
+      "studioTransUnits": [
+        198
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-d8aa51428b23d372",
+      "type": "TableCell",
+      "text": "Article 2, introductory words",
+      "table": "Annex II correlation table",
+      "row": 2,
+      "cell": 1,
+      "studioTransUnits": [
+        199
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-79b7c78b5c9dc2d4",
+      "type": "TableCell",
+      "text": "Article 2, point 1",
+      "table": "Annex II correlation table",
+      "row": 3,
+      "cell": 0,
+      "studioTransUnits": [
+        200
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-68ee0f98f2ab001f",
+      "type": "TableCell",
+      "text": "Article 2(a)",
+      "table": "Annex II correlation table",
+      "row": 3,
+      "cell": 1,
+      "studioTransUnits": [
+        201
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-85a21d09abf43901",
+      "type": "TableCell",
+      "text": "Article 2, point 2",
+      "table": "Annex II correlation table",
+      "row": 4,
+      "cell": 0,
+      "studioTransUnits": [
+        202
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-7066616e9ba928f4",
+      "type": "TableCell",
+      "text": "Article 2(b)",
+      "table": "Annex II correlation table",
+      "row": 4,
+      "cell": 1,
+      "studioTransUnits": [
+        203
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-0af1a370ad17e6fb",
+      "type": "TableCell",
+      "text": "Article 2, point 2a",
+      "table": "Annex II correlation table",
+      "row": 5,
+      "cell": 0,
+      "studioTransUnits": [
+        204
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-15750c2265ef9b37",
+      "type": "TableCell",
+      "text": "Article 2(c)",
+      "table": "Annex II correlation table",
+      "row": 5,
+      "cell": 1,
+      "studioTransUnits": [
+        205
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-5e2cb7c83dfdf4ad",
+      "type": "TableCell",
+      "text": "Article 2, point 3",
+      "table": "Annex II correlation table",
+      "row": 6,
+      "cell": 0,
+      "studioTransUnits": [
+        206
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-1c5378259464316e",
+      "type": "TableCell",
+      "text": "Article 2(d)",
+      "table": "Annex II correlation table",
+      "row": 6,
+      "cell": 1,
+      "studioTransUnits": [
+        207
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-fb9cf73d62f2ca53",
+      "type": "TableCell",
+      "text": "Article 2, point 4",
+      "table": "Annex II correlation table",
+      "row": 7,
+      "cell": 0,
+      "studioTransUnits": [
+        208
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-fbe9e79824b71f65",
+      "type": "TableCell",
+      "text": "Article 2(e)",
+      "table": "Annex II correlation table",
+      "row": 7,
+      "cell": 1,
+      "studioTransUnits": [
+        209
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-e729e85fd8f67b60",
+      "type": "TableCell",
+      "text": "Article 3",
+      "table": "Annex II correlation table",
+      "row": 8,
+      "cell": 0,
+      "studioTransUnits": [
+        210
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-23b56a798d0f1636",
+      "type": "TableCell",
+      "text": "Article 3",
+      "table": "Annex II correlation table",
+      "row": 8,
+      "cell": 1,
+      "studioTransUnits": [
+        211
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-efc53ff23400820f",
+      "type": "TableCell",
+      "text": "Article 3a(1)",
+      "table": "Annex II correlation table",
+      "row": 9,
+      "cell": 0,
+      "studioTransUnits": [
+        212
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-e7297e0f9932d2df",
+      "type": "TableCell",
+      "text": "Article 4",
+      "table": "Annex II correlation table",
+      "row": 9,
+      "cell": 1,
+      "studioTransUnits": [
+        213
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-9ac63326b8daa0ce",
+      "type": "TableCell",
+      "text": "Article 4(1), first subparagraph, first sentence",
+      "table": "Annex II correlation table",
+      "row": 10,
+      "cell": 0,
+      "studioTransUnits": [
+        214
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-6f2f556b9c628c79",
+      "type": "TableCell",
+      "text": "Article 5(1), first subparagraph",
+      "table": "Annex II correlation table",
+      "row": 10,
+      "cell": 1,
+      "studioTransUnits": [
+        215
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-79263a95fcb01146",
+      "type": "TableCell",
+      "text": "Article 4(1), first subparagraph, second sentence",
+      "table": "Annex II correlation table",
+      "row": 11,
+      "cell": 0,
+      "studioTransUnits": [
+        216
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-41f4f3f1e83d8d0b",
+      "type": "TableCell",
+      "text": "Article 5(1), second subparagraph",
+      "table": "Annex II correlation table",
+      "row": 11,
+      "cell": 1,
+      "studioTransUnits": [
+        217
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-42efa6be7604c3a9",
+      "type": "TableCell",
+      "text": "Article 4(1), second subparagraph",
+      "table": "Annex II correlation table",
+      "row": 12,
+      "cell": 0,
+      "studioTransUnits": [
+        218
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-42d7ab9cb186fb9c",
+      "type": "TableCell",
+      "text": "Article 5(2), first subparagraph",
+      "table": "Annex II correlation table",
+      "row": 12,
+      "cell": 1,
+      "studioTransUnits": [
+        219
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-a0a3bcfe0b5cbb40",
+      "type": "TableCell",
+      "text": "Article 4(1), third subparagraph",
+      "table": "Annex II correlation table",
+      "row": 13,
+      "cell": 0,
+      "studioTransUnits": [
+        220
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-e6f861f7f901b857",
+      "type": "TableCell",
+      "text": "Article 5(2), second subparagraph",
+      "table": "Annex II correlation table",
+      "row": 13,
+      "cell": 1,
+      "studioTransUnits": [
+        221
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-dfe271ddd244cfc0",
+      "type": "TableCell",
+      "text": "Article 4(2), first subparagraph, introductory words",
+      "table": "Annex II correlation table",
+      "row": 14,
+      "cell": 0,
+      "studioTransUnits": [
+        222
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-9e9c6d1003e46e73",
+      "type": "TableCell",
+      "text": "Article 5(3), first subparagraph, introductory words",
+      "table": "Annex II correlation table",
+      "row": 14,
+      "cell": 1,
+      "studioTransUnits": [
+        223
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-e5314b50174267da",
+      "type": "TableCell",
+      "text": "Article 4(2), first subparagraph, first indent",
+      "table": "Annex II correlation table",
+      "row": 15,
+      "cell": 0,
+      "studioTransUnits": [
+        224
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-7ca6199341d12df0",
+      "type": "TableCell",
+      "text": "Article 5(3), first subparagraph, point (a)",
+      "table": "Annex II correlation table",
+      "row": 15,
+      "cell": 1,
+      "studioTransUnits": [
+        225
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-d2c3300126d94f67",
+      "type": "TableCell",
+      "text": "Article 4(2), first subparagraph, second indent",
+      "table": "Annex II correlation table",
+      "row": 16,
+      "cell": 0,
+      "studioTransUnits": [
+        226
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-5cd5b7ca74891cad",
+      "type": "TableCell",
+      "text": "Article 5(3), first subparagraph, point (b)",
+      "table": "Annex II correlation table",
+      "row": 16,
+      "cell": 1,
+      "studioTransUnits": [
+        227
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-30ad199ed172eb9a",
+      "type": "TableCell",
+      "text": "Article 4(2), first subparagraph, final words",
+      "table": "Annex II correlation table",
+      "row": 17,
+      "cell": 0,
+      "studioTransUnits": [
+        228
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-535b5e8ff7f85437",
+      "type": "TableCell",
+      "text": "Article 5(3), second subparagraph",
+      "table": "Annex II correlation table",
+      "row": 17,
+      "cell": 1,
+      "studioTransUnits": [
+        229
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-b1d24ae2446abcd2",
+      "type": "TableCell",
+      "text": "Article 4(2), second subparagraph, introductory words",
+      "table": "Annex II correlation table",
+      "row": 18,
+      "cell": 0,
+      "studioTransUnits": [
+        230
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-47a8c28816c9e62a",
+      "type": "TableCell",
+      "text": "Article 5(3), third subparagraph",
+      "table": "Annex II correlation table",
+      "row": 18,
+      "cell": 1,
+      "studioTransUnits": [
+        231
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-c540c0ed31096fc7",
+      "type": "TableCell",
+      "text": "Article 4(2), second subparagraph, first indent",
+      "table": "Annex II correlation table",
+      "row": 19,
+      "cell": 0,
+      "studioTransUnits": [
+        232
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-f984f7bb855dce24",
+      "type": "TableCell",
+      "text": "Article 5(3), third subparagraph",
+      "table": "Annex II correlation table",
+      "row": 19,
+      "cell": 1,
+      "studioTransUnits": [
+        233
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-3f56643cb9b7549f",
+      "type": "TableCell",
+      "text": "Article 4(2), second subparagraph, second indent",
+      "table": "Annex II correlation table",
+      "row": 20,
+      "cell": 0,
+      "studioTransUnits": [
+        234
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-32c78dbb138bf07a",
+      "type": "TableCell",
+      "text": "Article 5(3), third subparagraph",
+      "table": "Annex II correlation table",
+      "row": 20,
+      "cell": 1,
+      "studioTransUnits": [
+        235
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-70acaabb8d9a218c",
+      "type": "TableCell",
+      "text": "Article 4(2), second subparagraph, final words",
+      "table": "Annex II correlation table",
+      "row": 21,
+      "cell": 0,
+      "studioTransUnits": [
+        236
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-4d96e0e33cf2e6dc",
+      "type": "TableCell",
+      "text": "Article 5(3), third subparagraph",
+      "table": "Annex II correlation table",
+      "row": 21,
+      "cell": 1,
+      "studioTransUnits": [
+        237
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-592051a71fb7ecf4",
+      "type": "TableCell",
+      "text": "Article 4(2), third subparagraph, introductory words",
+      "table": "Annex II correlation table",
+      "row": 22,
+      "cell": 0,
+      "studioTransUnits": [
+        238
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-2642e9aaf5cb97c1",
+      "type": "TableCell",
+      "text": "Article 5(4), introductory words",
+      "table": "Annex II correlation table",
+      "row": 22,
+      "cell": 1,
+      "studioTransUnits": [
+        239
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-a1588ca59cb39e8a",
+      "type": "TableCell",
+      "text": "Article 4(2), third subparagraph, first indent",
+      "table": "Annex II correlation table",
+      "row": 23,
+      "cell": 0,
+      "studioTransUnits": [
+        240
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-3515d0fea707f132",
+      "type": "TableCell",
+      "text": "Article 5(4), point (a)",
+      "table": "Annex II correlation table",
+      "row": 23,
+      "cell": 1,
+      "studioTransUnits": [
+        241
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-fd5a039286c79e28",
+      "type": "TableCell",
+      "text": "Article 4(2), third subparagraph, second indent",
+      "table": "Annex II correlation table",
+      "row": 24,
+      "cell": 0,
+      "studioTransUnits": [
+        242
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-e1fd7dfb2840688c",
+      "type": "TableCell",
+      "text": "Article 5(4), point (b)",
+      "table": "Annex II correlation table",
+      "row": 24,
+      "cell": 1,
+      "studioTransUnits": [
+        243
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-e24cd9e9d85ed419",
+      "type": "TableCell",
+      "text": "Article 4(3), first subparagraph",
+      "table": "Annex II correlation table",
+      "row": 25,
+      "cell": 0,
+      "studioTransUnits": [
+        244
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-54d7b44d99fa1c29",
+      "type": "TableCell",
+      "text": "Article 5(5)",
+      "table": "Annex II correlation table",
+      "row": 25,
+      "cell": 1,
+      "studioTransUnits": [
+        245
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-83d865fd6a4e2a81",
+      "type": "TableCell",
+      "text": "Article 4(3), second subparagraph",
+      "table": "Annex II correlation table",
+      "row": 26,
+      "cell": 0,
+      "studioTransUnits": [
+        246
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-21f2d54e405530d5",
+      "type": "TableCell",
+      "text": "Article 5(6)",
+      "table": "Annex II correlation table",
+      "row": 26,
+      "cell": 1,
+      "studioTransUnits": [
+        247
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-175d82fda0923cf4",
+      "type": "TableCell",
+      "text": "Article 5",
+      "table": "Annex II correlation table",
+      "row": 27,
+      "cell": 0,
+      "studioTransUnits": [
+        248
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-151ee3c213c18d4a",
+      "type": "TableCell",
+      "text": "Article 6",
+      "table": "Annex II correlation table",
+      "row": 27,
+      "cell": 1,
+      "studioTransUnits": [
+        249
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-98f48c7bcc4be10d",
+      "type": "TableCell",
+      "text": "Article 6",
+      "table": "Annex II correlation table",
+      "row": 28,
+      "cell": 0,
+      "studioTransUnits": [
+        250
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-7c14f99089f85d86",
+      "type": "TableCell",
+      "text": "Article 7",
+      "table": "Annex II correlation table",
+      "row": 28,
+      "cell": 1,
+      "studioTransUnits": [
+        251
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-f5131a2f069c655e",
+      "type": "TableCell",
+      "text": "Article 7(1)",
+      "table": "Annex II correlation table",
+      "row": 29,
+      "cell": 0,
+      "studioTransUnits": [
+        252
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-f835636cb4b9abcc",
+      "type": "TableCell",
+      "text": "Article 8(1), first subparagraph",
+      "table": "Annex II correlation table",
+      "row": 29,
+      "cell": 1,
+      "studioTransUnits": [
+        253
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-72f4fce97dffb012",
+      "type": "TableCell",
+      "text": "Article 7(2)",
+      "table": "Annex II correlation table",
+      "row": 30,
+      "cell": 0,
+      "studioTransUnits": [
+        254
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-a13d4780e96c6607",
+      "type": "TableCell",
+      "text": "Article 8(1), second subparagraph",
+      "table": "Annex II correlation table",
+      "row": 30,
+      "cell": 1,
+      "studioTransUnits": [
+        255
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-43653a3ef92455aa",
+      "type": "TableCell",
+      "text": "Article 7(3)",
+      "table": "Annex II correlation table",
+      "row": 31,
+      "cell": 0,
+      "studioTransUnits": [
+        256
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-9e11ab5509571fef",
+      "type": "TableCell",
+      "text": "Article 8(2)",
+      "table": "Annex II correlation table",
+      "row": 31,
+      "cell": 1,
+      "studioTransUnits": [
+        257
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-e01188d2bf4ea761",
+      "type": "TableCell",
+      "text": "Article 7(4)",
+      "table": "Annex II correlation table",
+      "row": 32,
+      "cell": 0,
+      "studioTransUnits": [
+        258
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-ae17de894bb36cb1",
+      "type": "TableCell",
+      "text": "Article 8(3)",
+      "table": "Annex II correlation table",
+      "row": 32,
+      "cell": 1,
+      "studioTransUnits": [
+        259
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-198a8c811d6c6c70",
+      "type": "TableCell",
+      "text": "Article 7(5)",
+      "table": "Annex II correlation table",
+      "row": 33,
+      "cell": 0,
+      "studioTransUnits": [
+        260
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-0291e39402f43bcb",
+      "type": "TableCell",
+      "text": "Article 8(4)",
+      "table": "Annex II correlation table",
+      "row": 33,
+      "cell": 1,
+      "studioTransUnits": [
+        261
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-94a255503dc9858d",
+      "type": "TableCell",
+      "text": "Article 8, first subparagraph",
+      "table": "Annex II correlation table",
+      "row": 34,
+      "cell": 0,
+      "studioTransUnits": [
+        262
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-843b7f9ef6c41416",
+      "type": "TableCell",
+      "text": "—",
+      "table": "Annex II correlation table",
+      "row": 34,
+      "cell": 1,
+      "studioTransUnits": [
+        263
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-892e1f5cc7116e12",
+      "type": "TableCell",
+      "text": "Article 8, second subparagraph",
+      "table": "Annex II correlation table",
+      "row": 35,
+      "cell": 0,
+      "studioTransUnits": [
+        264
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-28e68a32eea752b7",
+      "type": "TableCell",
+      "text": "Article 9",
+      "table": "Annex II correlation table",
+      "row": 35,
+      "cell": 1,
+      "studioTransUnits": [
+        265
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-daf5142e1ecc3400",
+      "type": "TableCell",
+      "text": "—",
+      "table": "Annex II correlation table",
+      "row": 36,
+      "cell": 0,
+      "studioTransUnits": [
+        266
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-51c04236d6f7df6e",
+      "type": "TableCell",
+      "text": "Article 10",
+      "table": "Annex II correlation table",
+      "row": 36,
+      "cell": 1,
+      "studioTransUnits": [
+        267
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-1538e6e487aa2849",
+      "type": "TableCell",
+      "text": "—",
+      "table": "Annex II correlation table",
+      "row": 37,
+      "cell": 0,
+      "studioTransUnits": [
+        268
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-2778f2c59fcb138a",
+      "type": "TableCell",
+      "text": "Article 11",
+      "table": "Annex II correlation table",
+      "row": 37,
+      "cell": 1,
+      "studioTransUnits": [
+        269
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-ae996e41a056b2ba",
+      "type": "TableCell",
+      "text": "Article 9",
+      "table": "Annex II correlation table",
+      "row": 38,
+      "cell": 0,
+      "studioTransUnits": [
+        270
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-d7031ba5ac146b0e",
+      "type": "TableCell",
+      "text": "Article 12",
+      "table": "Annex II correlation table",
+      "row": 38,
+      "cell": 1,
+      "studioTransUnits": [
+        271
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-270963a5d4ecbff8",
+      "type": "TableCell",
+      "text": "—",
+      "table": "Annex II correlation table",
+      "row": 39,
+      "cell": 0,
+      "studioTransUnits": [
+        272
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-d6072f6e323e2442",
+      "type": "TableCell",
+      "text": "Annex I",
+      "table": "Annex II correlation table",
+      "row": 39,
+      "cell": 1,
+      "studioTransUnits": [
+        273
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-23d755d57df773d1",
+      "type": "TableCell",
+      "text": "—",
+      "table": "Annex II correlation table",
+      "row": 40,
+      "cell": 0,
+      "studioTransUnits": [
+        274
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    },
+    {
+      "nodeId": "tablecell-309c501d98ab411e",
+      "type": "TableCell",
+      "text": "Annex II",
+      "table": "Annex II correlation table",
+      "row": 40,
+      "cell": 1,
+      "studioTransUnits": [
+        275
+      ],
+      "transUnitCount": 1,
+      "catSegmentCount": 1,
+      "studioTableContext": true,
+      "studioHeadingContext": false
+    }
+  ],
+  "ambiguities": [
+    {
+      "nodeId": "heading-44152913dec272fc",
+      "text": "DIRECTIVE 2006/114/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+      "page": 1,
+      "studioTransUnits": [
+        3
+      ],
+      "catSegments": 1,
+      "headingContext": true,
+      "assessment": "NO_MEANINGFUL_CAT_EFFECT"
+    },
+    {
+      "nodeId": "heading-e006c3e8bbc60156",
+      "text": "of 12 December 2006",
+      "page": 1,
+      "studioTransUnits": [
+        4
+      ],
+      "catSegments": 1,
+      "headingContext": true,
+      "assessment": "NO_MEANINGFUL_CAT_EFFECT"
+    },
+    {
+      "nodeId": "heading-df72b9c04fa9e9a8",
+      "text": "concerning misleading and comparative advertising",
+      "page": 1,
+      "studioTransUnits": [
+        5
+      ],
+      "catSegments": 1,
+      "headingContext": true,
+      "assessment": "NO_MEANINGFUL_CAT_EFFECT"
+    },
+    {
+      "nodeId": "heading-815524a092f4aa2f",
+      "text": "(codified version)",
+      "page": 1,
+      "studioTransUnits": [
+        6
+      ],
+      "catSegments": 1,
+      "headingContext": true,
+      "assessment": "NO_MEANINGFUL_CAT_EFFECT"
+    },
+    {
+      "nodeId": "heading-1eaf6c4bcf0e0082",
+      "text": "(Text with EEA relevance)",
+      "page": 1,
+      "studioTransUnits": [
+        7
+      ],
+      "catSegments": 1,
+      "headingContext": true,
+      "assessment": "NO_MEANINGFUL_CAT_EFFECT"
+    },
+    {
+      "nodeId": "heading-432afdcb5eb2b5cb",
+      "text": "Repealed Directive with its successive amendments",
+      "page": 6,
+      "studioTransUnits": [
+        164
+      ],
+      "catSegments": 1,
+      "headingContext": true,
+      "assessment": "NO_MEANINGFUL_CAT_EFFECT"
+    },
+    {
+      "nodeId": "heading-ca28378b7f1c47ee",
+      "text": "List of time-limits for transposition into national law and application",
+      "page": 6,
+      "studioTransUnits": [
+        173
+      ],
+      "catSegments": 1,
+      "headingContext": true,
+      "assessment": "NO_MEANINGFUL_CAT_EFFECT"
+    }
+  ],
+  "summary": {
+    "knownBoundariesTotal": 4,
+    "remainRepaired": 1,
+    "reappeared": 3,
+    "typedNodesSplitAcrossMultipleStudioUnits": 3,
+    "typedNodesSplitAcrossMultipleCatSegments": 3
+  }
+}

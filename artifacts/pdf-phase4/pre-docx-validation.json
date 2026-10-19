@@ -1,0 +1,126 @@
+{
+  "status": "PASS",
+  "sourcePdfSha256": "3100C4CF8A7BF243A62D7000D9B07A8FA4F0042688A312DEC3D285E76E46B966",
+  "extraction": {
+    "pages": 63,
+    "blocks": 1791,
+    "lines": 3917,
+    "spans": 48170
+  },
+  "sourceCoverage": {
+    "status": "PASS",
+    "tokens": 30922,
+    "sourceSpans": 48170,
+    "modelSpans": 48170,
+    "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+  },
+  "provenance": {
+    "sourceSpans": 48170,
+    "representedSpanRefs": 48170,
+    "uniqueRepresentedSpans": 48170,
+    "everySourceSpanExactlyOnce": true
+  },
+  "normalizedOrderedTokens": 30922,
+  "readingOrder": {
+    "status": "PASS",
+    "articles": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "annexes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "issues": []
+  },
+  "tables": {
+    "physicalTables": 8,
+    "logicalTables": 1,
+    "rows": 278,
+    "cells": 556,
+    "shapes": [
+      [
+        34,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        37,
+        2
+      ],
+      [
+        22,
+        2
+      ]
+    ]
+  },
+  "boundaryCounts": {
+    "ABSTAIN": 54,
+    "MERGE": 95,
+    "KEEP_BOUNDARY": 11
+  },
+  "gates": {
+    "sourceSpanCoverage": true,
+    "normalizedSourceIntegrity": true,
+    "readingOrderValidation": true,
+    "noUnsafeExecutableDecision": true
+  },
+  "aiUsed": false,
+  "documentSpecificRulesUsed": false
+}

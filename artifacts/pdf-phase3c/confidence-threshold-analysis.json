@@ -1,0 +1,88 @@
+{
+  "policy": "Act only on non-ABSTAIN decisions at or above the chosen confidence threshold; prefer abstention.",
+  "thresholds": [
+    {
+      "threshold": 0.7,
+      "automaticActions": 30,
+      "merges": 26,
+      "keeps": 4,
+      "falseMerges": 0,
+      "falseBoundaryRetention": 0,
+      "lowConfidenceOrAbstained": 0
+    },
+    {
+      "threshold": 0.8,
+      "automaticActions": 30,
+      "merges": 26,
+      "keeps": 4,
+      "falseMerges": 0,
+      "falseBoundaryRetention": 0,
+      "lowConfidenceOrAbstained": 0
+    },
+    {
+      "threshold": 0.85,
+      "automaticActions": 30,
+      "merges": 26,
+      "keeps": 4,
+      "falseMerges": 0,
+      "falseBoundaryRetention": 0,
+      "lowConfidenceOrAbstained": 0
+    },
+    {
+      "threshold": 0.9,
+      "automaticActions": 30,
+      "merges": 26,
+      "keeps": 4,
+      "falseMerges": 0,
+      "falseBoundaryRetention": 0,
+      "lowConfidenceOrAbstained": 0
+    },
+    {
+      "threshold": 0.95,
+      "automaticActions": 30,
+      "merges": 26,
+      "keeps": 4,
+      "falseMerges": 0,
+      "falseBoundaryRetention": 0,
+      "lowConfidenceOrAbstained": 0
+    },
+    {
+      "threshold": 0.98,
+      "automaticActions": 30,
+      "merges": 26,
+      "keeps": 4,
+      "falseMerges": 0,
+      "falseBoundaryRetention": 0,
+      "lowConfidenceOrAbstained": 0
+    },
+    {
+      "threshold": 0.99,
+      "automaticActions": 30,
+      "merges": 26,
+      "keeps": 4,
+      "falseMerges": 0,
+      "falseBoundaryRetention": 0,
+      "lowConfidenceOrAbstained": 0
+    },
+    {
+      "threshold": 0.995,
+      "automaticActions": 16,
+      "merges": 14,
+      "keeps": 2,
+      "falseMerges": 0,
+      "falseBoundaryRetention": 0,
+      "lowConfidenceOrAbstained": 14
+    },
+    {
+      "threshold": 0.999,
+      "automaticActions": 15,
+      "merges": 13,
+      "keeps": 2,
+      "falseMerges": 0,
+      "falseBoundaryRetention": 0,
+      "lowConfidenceOrAbstained": 15
+    }
+  ],
+  "chosenThreshold": 0.999,
+  "selectionReason": "Highest tested threshold with zero observed false MERGE and zero false KEEP_BOUNDARY, deliberately preferring abstention over coverage."
+}

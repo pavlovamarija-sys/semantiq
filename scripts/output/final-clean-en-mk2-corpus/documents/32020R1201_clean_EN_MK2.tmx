@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210713T195508Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32020R1201_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32020R1201</prop>
+    <prop type="x-SourceTMX">32020R1201_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">152f8ea58ffd2af0bcb2ac4db7ffd939a13a5526490dc3f616faec8c8f5a8324</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">3</prop>
+  </header>
+  <body>
+    <tu creationdate="20210618T103832Z" creationid="NORSHA\marij" changedate="20210618T103929Z" changeid="NORSHA\marij" lastusagedate="20210623T233959Z" usagecount="2">
+      <prop type="x-LastUsedBy">NORSHA\marij</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING REGULATION (EU) 2020/1201</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2020/1201 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1201</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210618T103931Z" creationid="NORSHA\marij" changedate="20210618T103943Z" changeid="NORSHA\marij" lastusagedate="20210623T233959Z" usagecount="2">
+      <prop type="x-LastUsedBy">NORSHA\marij</prop>
+      <prop type="x-Context">7353582418551784268, 1901036649548470141</prop>
+      <prop type="x-ContextContent">COMMISSION IMPLEMENTING REGULATION (EU) 2020/1201 |  | РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2020/1201 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 14 August 2020</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 14 август 2020 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1201</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210618T105440Z" creationid="NORSHA\marij" changedate="20210618T110505Z" changeid="NORSHA\marij" lastusagedate="20210623T233959Z" usagecount="2">
+      <prop type="x-LastUsedBy">NORSHA\marij</prop>
+      <prop type="x-Context">-1630537092630497703, 452261040054540310</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, |  | имајќи го предвид Договорот за функционирањето на Европската Унија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Regulation (EU) 2016/2031 of the European Parliament and of the Council of 26 October 2016 on protective measures against pests of plants, amending Regulations (EU) No 228/2013, (EU) No 652/2014 and (EU) No 1143/2014 of the European Parliament and of the Council and repealing Council Directives 69/464/EEC, 74/647/EEC, 93/85/EEC, 98/57/EC, 2000/29/EC, 2006/91/EC and 2007/33/EC (<ph x="1" type="ph21" />), and in particular Article 28(1) and (2) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Регулативата (ЕУ) 2016/2031 на Европскиот парламент и на Советот од 26 октомври 2016 година за заштитните мерки против штетници на растенија, за изменување на Регулативите (ЕУ) бр. 228/2013, (EУ) бр. 652/2014 и (ЕУ) бр. 1143/2014 на Европскиот парламент и на Советот и за укинување на Директивите 69/464/EEЗ, 74/647/EEЗ, 93/85/EEЗ, 98/57/EЗ, 2000/29/EЗ, 2006/91/EЗ и 2007/33/EЗ на Советот (), а особено член 28(1) и (2) од истата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1201</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

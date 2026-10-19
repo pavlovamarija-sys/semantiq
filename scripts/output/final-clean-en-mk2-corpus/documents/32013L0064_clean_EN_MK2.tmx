@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210604T004859Z" creationid="DESKTOP-T3LIEA4\user">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32013L0064_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">BreakOnTag</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32013L0064</prop>
+    <prop type="x-SourceTMX">32013L0064_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">98f2f6d0a72c958d91e8e8b82d053df7aa8ce3ae43daea35f4f24ce42fd74a98</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">6</prop>
+  </header>
+  <body>
+    <tu creationdate="20210604T005005Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210604T005100Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210605T224933Z" usagecount="1">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL DIRECTIVE 2013/64/EU</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДИРЕКТИВА 2013/64/ЕУ НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32013L0064</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210604T005241Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210604T005305Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210605T224933Z" usagecount="1">
+      <prop type="x-Context">9107607701682732985, 1066705979167927774</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 17 December 2013</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 17 декември 2013 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32013L0064</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210604T014708Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210604T014848Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210605T224933Z" usagecount="1">
+      <prop type="x-Context">-7687143136116642891, -1249560142765415297</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Acting in accordance with a special legislative procedure,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>регионите, во согласност со посебна законодавна постапка,</seg>
+      </tuv>
+      <prop type="x-CELEX">32013L0064</prop>
+      <prop type="x-SourceTUIndex">11</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210604T014917Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210604T014930Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210607T005248Z" usagecount="8">
+      <prop type="x-Context">-2496049632754253185, 9107585863566684231</prop>
+      <prop type="x-Context">-422654254840687790, -7858520659037574789</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32013L0064</prop>
+      <prop type="x-SourceTUIndex">12</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210605T145753Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210605T145832Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210605T224934Z" usagecount="1">
+      <prop type="x-Context">-9219651873871658717, 2883692891584948205</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Directive 91/271/EEC is amended as follows:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Директивата 91/271/ЕЕЗ се изменува како што следува:</seg>
+      </tuv>
+      <prop type="x-CELEX">32013L0064</prop>
+      <prop type="x-SourceTUIndex">25</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210605T145834Z" creationid="DESKTOP-T3LIEA4\user" changedate="20210605T145931Z" changeid="DESKTOP-T3LIEA4\user" lastusagedate="20210605T224934Z" usagecount="2">
+      <prop type="x-Context">-3640267473556854109, -6114323553168245397</prop>
+      <prop type="x-Context">9179074511021773519, 1701918046125466791</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In Article 3, the following paragraph is inserted:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во член 3, се вметнува следниов став:</seg>
+      </tuv>
+      <prop type="x-CELEX">32013L0064</prop>
+      <prop type="x-SourceTUIndex">26</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

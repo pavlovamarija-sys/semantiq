@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "non_authoritative": true,
+  "required": ["shadow_run_id", "timestamp_started", "timestamp_completed", "source_sha256", "shadow_status"],
+  "optional": ["document_id", "import_id", "celex", "active_docx_sha256", "shadow_docx_sha256", "shadow_validation_status", "page_count", "block_count", "line_count", "span_count", "normalized_token_count", "physical_table_count", "logical_table_count", "row_count", "cell_count", "merge_count", "keep_boundary_count", "abstain_count", "worker_version", "reconstruction_version", "duration_ms", "error_category", "error_summary"],
+  "forbidden": ["source_text", "pdf_bytes", "docx_bytes", "credentials", "tokens"]
+}

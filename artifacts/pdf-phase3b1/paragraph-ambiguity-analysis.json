@@ -1,0 +1,850 @@
+{
+  "celex": "32006L0126",
+  "phase3aCases": 33,
+  "classificationCounts": {
+    "genuinely ambiguous": 30,
+    "false alarm removed by structural reconstruction": 3
+  },
+  "cases": [
+    {
+      "previousNode": "paragraph-488dd17484a1e899",
+      "nextNode": "paragraph-239d34f587c360cc",
+      "page": 1,
+      "previousTail": "30.12.2006",
+      "nextHead": "needed to be harmonised more fully, in order to contri- bute to the implementation of Community poli",
+      "geometry": {
+        "previousBox": {
+          "page": 1,
+          "x0": 508.5317687988281,
+          "y0": 50.286773681640625,
+          "x1": 553.2852172851562,
+          "y1": 59.88227462768555
+        },
+        "nextBox": {
+          "page": 1,
+          "x0": 335.8428649902344,
+          "y0": 161.68740844726562,
+          "x1": 553.1138305664062,
+          "y1": 181.88404846191406
+        },
+        "verticalGap": 101.805,
+        "leftEdgeDelta": 172.689
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-46851eb928afbabf",
+      "nextNode": "paragraph-10019a4418a0ea51",
+      "page": 2,
+      "previousTail": "(21)",
+      "nextHead": "in",
+      "geometry": {
+        "previousBox": {
+          "page": 2,
+          "x0": 310.2767028808594,
+          "y0": 692.2832641601562,
+          "x1": 323.7702331542969,
+          "y1": 700.8126220703125
+        },
+        "nextBox": {
+          "page": 2,
+          "x0": 545.8524780273438,
+          "y0": 744.2626953125,
+          "x1": 553.135498046875,
+          "y1": 753.8582153320312
+        },
+        "verticalGap": 43.45,
+        "leftEdgeDelta": 235.576
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-5336a9cba04107e7",
+      "nextNode": "paragraph-18286f47dc5da149",
+      "page": 4,
+      "previousTail": "— ‘motorcycle’ means two-wheel vehicles with or without a sidecar,",
+      "nextHead": "as defined",
+      "geometry": {
+        "previousBox": {
+          "page": 4,
+          "x0": 55.613929748535156,
+          "y0": 284.4262390136719,
+          "x1": 82.5868911743164,
+          "y1": 294.021728515625
+        },
+        "nextBox": {
+          "page": 4,
+          "x0": 92.48944854736328,
+          "y0": 284.4262390136719,
+          "x1": 137.05091857910156,
+          "y1": 294.021728515625
+        },
+        "verticalGap": -9.595,
+        "leftEdgeDelta": 36.876
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-18286f47dc5da149",
+      "nextNode": "paragraph-a535c4b8e72f8fda",
+      "page": 4,
+      "previousTail": "as defined",
+      "nextHead": "in Article",
+      "geometry": {
+        "previousBox": {
+          "page": 4,
+          "x0": 92.48944854736328,
+          "y0": 284.4262390136719,
+          "x1": 137.05091857910156,
+          "y1": 294.021728515625
+        },
+        "nextBox": {
+          "page": 4,
+          "x0": 146.9246826171875,
+          "y0": 284.4262390136719,
+          "x1": 189.10647583007812,
+          "y1": 294.021728515625
+        },
+        "verticalGap": -9.595,
+        "leftEdgeDelta": 54.435
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-ec153558717e469d",
+      "nextNode": "paragraph-18c858857b8ea3f5",
+      "page": 4,
+      "previousTail": "1(2)(b)",
+      "nextHead": "of Directive",
+      "geometry": {
+        "previousBox": {
+          "page": 4,
+          "x0": 199.02822875976562,
+          "y0": 284.4262390136719,
+          "x1": 223.99571228027344,
+          "y1": 294.021728515625
+        },
+        "nextBox": {
+          "page": 4,
+          "x0": 233.92706298828125,
+          "y0": 284.4262390136719,
+          "x1": 284.4762268066406,
+          "y1": 294.021728515625
+        },
+        "verticalGap": -9.595,
+        "leftEdgeDelta": 34.899
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-cb404df3dded2955",
+      "nextNode": "paragraph-4714ee3d7aa8c94d",
+      "page": 4,
+      "previousTail": "The minimum age for category A is fixed at 20 years. However, access to the driving of motor- cycles",
+      "nextHead": "of this",
+      "geometry": {
+        "previousBox": {
+          "page": 4,
+          "x0": 84.86677551269531,
+          "y0": 641.869140625,
+          "x1": 284.4531555175781,
+          "y1": 662.0092163085938
+        },
+        "nextBox": {
+          "page": 4,
+          "x0": 114.1522445678711,
+          "y0": 652.4136962890625,
+          "x1": 143.16903686523438,
+          "y1": 662.0092163085938
+        },
+        "verticalGap": -9.596,
+        "leftEdgeDelta": 29.285
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-4714ee3d7aa8c94d",
+      "nextNode": "paragraph-f37f06d79889414d",
+      "page": 4,
+      "previousTail": "of this",
+      "nextHead": "category",
+      "geometry": {
+        "previousBox": {
+          "page": 4,
+          "x0": 114.1522445678711,
+          "y0": 652.4136962890625,
+          "x1": 143.16903686523438,
+          "y1": 662.0092163085938
+        },
+        "nextBox": {
+          "page": 4,
+          "x0": 150.97018432617188,
+          "y0": 652.4136962890625,
+          "x1": 182.44342041015625,
+          "y1": 662.0092163085938
+        },
+        "verticalGap": -9.596,
+        "leftEdgeDelta": 36.818
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-f37f06d79889414d",
+      "nextNode": "paragraph-6472306f5651f4bf",
+      "page": 4,
+      "previousTail": "category",
+      "nextHead": "shall be",
+      "geometry": {
+        "previousBox": {
+          "page": 4,
+          "x0": 150.97018432617188,
+          "y0": 652.4136962890625,
+          "x1": 182.44342041015625,
+          "y1": 662.0092163085938
+        },
+        "nextBox": {
+          "page": 4,
+          "x0": 190.27334594726562,
+          "y0": 652.4136962890625,
+          "x1": 223.65606689453125,
+          "y1": 662.0092163085938
+        },
+        "verticalGap": -9.596,
+        "leftEdgeDelta": 39.303
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-6472306f5651f4bf",
+      "nextNode": "paragraph-2374e69e43bb3996",
+      "page": 4,
+      "previousTail": "shall be",
+      "nextHead": "subject",
+      "geometry": {
+        "previousBox": {
+          "page": 4,
+          "x0": 190.27334594726562,
+          "y0": 652.4136962890625,
+          "x1": 223.65606689453125,
+          "y1": 662.0092163085938
+        },
+        "nextBox": {
+          "page": 4,
+          "x0": 231.45721435546875,
+          "y0": 652.4136962890625,
+          "x1": 257.23077392578125,
+          "y1": 662.0092163085938
+        },
+        "verticalGap": -9.596,
+        "leftEdgeDelta": 41.184
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-2374e69e43bb3996",
+      "nextNode": "paragraph-2d334df36bb6f50e",
+      "page": 4,
+      "previousTail": "subject",
+      "nextHead": "to a",
+      "geometry": {
+        "previousBox": {
+          "page": 4,
+          "x0": 231.45721435546875,
+          "y0": 652.4136962890625,
+          "x1": 257.23077392578125,
+          "y1": 662.0092163085938
+        },
+        "nextBox": {
+          "page": 4,
+          "x0": 265.0606994628906,
+          "y0": 652.4136962890625,
+          "x1": 284.51080322265625,
+          "y1": 662.0092163085938
+        },
+        "verticalGap": -9.596,
+        "leftEdgeDelta": 33.603
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-2d334df36bb6f50e",
+      "nextNode": "paragraph-dedec6f4d288c501",
+      "page": 4,
+      "previousTail": "to a",
+      "nextHead": "minimum of two years' experience on motorcycles under an A2 licence. This requirement as to previous",
+      "geometry": {
+        "previousBox": {
+          "page": 4,
+          "x0": 265.0606994628906,
+          "y0": 652.4136962890625,
+          "x1": 284.51080322265625,
+          "y1": 662.0092163085938
+        },
+        "nextBox": {
+          "page": 4,
+          "x0": 84.86677551269531,
+          "y0": 662.9581298828125,
+          "x1": 284.44354248046875,
+          "y1": 704.1871948242188
+        },
+        "verticalGap": 0.949,
+        "leftEdgeDelta": 180.194
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-17324d59dd098d99",
+      "nextNode": "paragraph-664501b698666680",
+      "page": 4,
+      "previousTail": "— quadricycles, as defined in Article 1(3)(b) of Directive",
+      "nextHead": "introduce this category of driving licence, a driving licence for category B shall be required to dr",
+      "classification": "false alarm removed by structural reconstruction",
+      "reason": "The boundary no longer occurs between ordinary paragraph/list/footnote nodes after corrected table ownership."
+    },
+    {
+      "previousNode": "paragraph-89612d8e0a044d13",
+      "nextNode": "paragraph-99d5b616f0d2a0db",
+      "page": 5,
+      "previousTail": "30.12.2006",
+      "nextHead": "motor vehicles other than those in categories D1 or D, whose maximum authorised mass is over 3 500 k",
+      "geometry": {
+        "previousBox": {
+          "page": 5,
+          "x0": 508.5317687988281,
+          "y0": 50.286773681640625,
+          "x1": 553.2852172851562,
+          "y1": 59.88227462768555
+        },
+        "nextBox": {
+          "page": 5,
+          "x0": 325.0719299316406,
+          "y0": 75.91616821289062,
+          "x1": 553.147216796875,
+          "y1": 148.8352813720703
+        },
+        "verticalGap": 16.034,
+        "leftEdgeDelta": 183.46
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "listitem-e733f7b7de5eff16",
+      "nextNode": "paragraph-d286b375066f0b14",
+      "page": 7,
+      "previousTail": "ce for category B which was obtained at least two years earlier provided that the vehicles are being",
+      "nextHead": "used by",
+      "geometry": {
+        "previousBox": {
+          "page": 7,
+          "x0": 56.29194641113281,
+          "y0": 304.2656555175781,
+          "x1": 284.50164794921875,
+          "y1": 356.09576416015625
+        },
+        "nextBox": {
+          "page": 7,
+          "x0": 103.2523422241211,
+          "y0": 346.5002746582031,
+          "x1": 136.87493896484375,
+          "y1": 356.09576416015625
+        },
+        "verticalGap": -9.595,
+        "leftEdgeDelta": 46.96
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-d286b375066f0b14",
+      "nextNode": "paragraph-5beef1ae87ab714b",
+      "page": 7,
+      "previousTail": "used by",
+      "nextHead": "non-commercial",
+      "geometry": {
+        "previousBox": {
+          "page": 7,
+          "x0": 103.2523422241211,
+          "y0": 346.5002746582031,
+          "x1": 136.87493896484375,
+          "y1": 356.09576416015625
+        },
+        "nextBox": {
+          "page": 7,
+          "x0": 144.5513458251953,
+          "y0": 346.5002746582031,
+          "x1": 205.85696411132812,
+          "y1": 356.09576416015625
+        },
+        "verticalGap": -9.595,
+        "leftEdgeDelta": 41.299
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-5beef1ae87ab714b",
+      "nextNode": "paragraph-3871b82f7413d88a",
+      "page": 7,
+      "previousTail": "non-commercial",
+      "nextHead": "bodies",
+      "geometry": {
+        "previousBox": {
+          "page": 7,
+          "x0": 144.5513458251953,
+          "y0": 346.5002746582031,
+          "x1": 205.85696411132812,
+          "y1": 356.09576416015625
+        },
+        "nextBox": {
+          "page": 7,
+          "x0": 213.6485137939453,
+          "y0": 346.5002746582031,
+          "x1": 237.6180877685547,
+          "y1": 356.09576416015625
+        },
+        "verticalGap": -9.595,
+        "leftEdgeDelta": 69.097
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-3871b82f7413d88a",
+      "nextNode": "paragraph-53319b3c2a731977",
+      "page": 7,
+      "previousTail": "bodies",
+      "nextHead": "for social",
+      "geometry": {
+        "previousBox": {
+          "page": 7,
+          "x0": 213.6485137939453,
+          "y0": 346.5002746582031,
+          "x1": 237.6180877685547,
+          "y1": 356.09576416015625
+        },
+        "nextBox": {
+          "page": 7,
+          "x0": 245.37127685546875,
+          "y0": 346.5002746582031,
+          "x1": 284.43463134765625,
+          "y1": 356.09576416015625
+        },
+        "verticalGap": -9.595,
+        "leftEdgeDelta": 31.723
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-53319b3c2a731977",
+      "nextNode": "paragraph-f0cb12562d75717c",
+      "page": 7,
+      "previousTail": "for social",
+      "nextHead": "purposes and that the driver provides his services on a voluntary basis;",
+      "geometry": {
+        "previousBox": {
+          "page": 7,
+          "x0": 245.37127685546875,
+          "y0": 346.5002746582031,
+          "x1": 284.43463134765625,
+          "y1": 356.09576416015625
+        },
+        "nextBox": {
+          "page": 7,
+          "x0": 56.29194641113281,
+          "y0": 357.0447692871094,
+          "x1": 284.4250183105469,
+          "y1": 377.18475341796875
+        },
+        "verticalGap": 0.949,
+        "leftEdgeDelta": 189.079
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-917656166912cb8a",
+      "nextNode": "paragraph-879417017e3d432c",
+      "page": 8,
+      "previousTail": "States",
+      "nextHead": "shall",
+      "geometry": {
+        "previousBox": {
+          "page": 8,
+          "x0": 107.6058120727539,
+          "y0": 584.9456787109375,
+          "x1": 128.84066772460938,
+          "y1": 594.5411376953125
+        },
+        "nextBox": {
+          "page": 8,
+          "x0": 137.39984130859375,
+          "y0": 584.9456787109375,
+          "x1": 154.2687225341797,
+          "y1": 594.5411376953125
+        },
+        "verticalGap": -9.595,
+        "leftEdgeDelta": 29.794
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-879417017e3d432c",
+      "nextNode": "paragraph-2918fb5b3fac3b8b",
+      "page": 8,
+      "previousTail": "shall",
+      "nextHead": "take the",
+      "geometry": {
+        "previousBox": {
+          "page": 8,
+          "x0": 137.39984130859375,
+          "y0": 584.9456787109375,
+          "x1": 154.2687225341797,
+          "y1": 594.5411376953125
+        },
+        "nextBox": {
+          "page": 8,
+          "x0": 162.7703399658203,
+          "y0": 584.9456787109375,
+          "x1": 198.08177185058594,
+          "y1": 594.5411376953125
+        },
+        "verticalGap": -9.595,
+        "leftEdgeDelta": 25.37
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-2918fb5b3fac3b8b",
+      "nextNode": "paragraph-b89b9d6f2c1ab855",
+      "page": 8,
+      "previousTail": "take the",
+      "nextHead": "necessary",
+      "geometry": {
+        "previousBox": {
+          "page": 8,
+          "x0": 162.7703399658203,
+          "y0": 584.9456787109375,
+          "x1": 198.08177185058594,
+          "y1": 594.5411376953125
+        },
+        "nextBox": {
+          "page": 8,
+          "x0": 206.61216735839844,
+          "y0": 584.9456787109375,
+          "x1": 241.77005004882812,
+          "y1": 594.5411376953125
+        },
+        "verticalGap": -9.595,
+        "leftEdgeDelta": 43.842
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-b89b9d6f2c1ab855",
+      "nextNode": "paragraph-281e1b1fa2d7fd4e",
+      "page": 8,
+      "previousTail": "necessary",
+      "nextHead": "measures",
+      "geometry": {
+        "previousBox": {
+          "page": 8,
+          "x0": 206.61216735839844,
+          "y0": 584.9456787109375,
+          "x1": 241.77005004882812,
+          "y1": 594.5411376953125
+        },
+        "nextBox": {
+          "page": 8,
+          "x0": 250.28125,
+          "y0": 584.9456787109375,
+          "x1": 284.4412841796875,
+          "y1": 594.5411376953125
+        },
+        "verticalGap": -9.595,
+        "leftEdgeDelta": 43.669
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-281e1b1fa2d7fd4e",
+      "nextNode": "paragraph-1c58d8220e31f22a",
+      "page": 8,
+      "previousTail": "measures",
+      "nextHead": "pursuant to point (b). The necessary measures as regards the issue, replacement, renewal or exchange",
+      "geometry": {
+        "previousBox": {
+          "page": 8,
+          "x0": 250.28125,
+          "y0": 584.9456787109375,
+          "x1": 284.4412841796875,
+          "y1": 594.5411376953125
+        },
+        "nextBox": {
+          "page": 8,
+          "x0": 68.31031036376953,
+          "y0": 595.4901123046875,
+          "x1": 284.5162353515625,
+          "y1": 647.3202514648438
+        },
+        "verticalGap": 0.949,
+        "leftEdgeDelta": 181.971
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-d9b1ad4341fde173",
+      "nextNode": "paragraph-e4ee4d1426d2b0be",
+      "page": 9,
+      "previousTail": "30.12.2006",
+      "nextHead": "tion. Attendance at a university or school shall not imply transfer of normal residence.",
+      "geometry": {
+        "previousBox": {
+          "page": 9,
+          "x0": 508.5317687988281,
+          "y0": 50.286773681640625,
+          "x1": 553.2852172851562,
+          "y1": 59.88227462768555
+        },
+        "nextBox": {
+          "page": 9,
+          "x0": 310.2732849121094,
+          "y0": 75.89962768554688,
+          "x1": 553.0203857421875,
+          "y1": 96.03961944580078
+        },
+        "verticalGap": 16.017,
+        "leftEdgeDelta": 198.258
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "listitem-038499f7576f0625",
+      "nextNode": "paragraph-3084fd2f9ab2bb76",
+      "page": 9,
+      "previousTail": "1. With the agreement of the Commission, Member States shall establish",
+      "nextHead": "equivalences",
+      "geometry": {
+        "previousBox": {
+          "page": 9,
+          "x0": 310.2733154296875,
+          "y0": 189.11306762695312,
+          "x1": 553.0779418945312,
+          "y1": 209.25306701660156
+        },
+        "nextBox": {
+          "page": 9,
+          "x0": 374.5537109375,
+          "y0": 199.65756225585938,
+          "x1": 420.784912109375,
+          "y1": 209.25306701660156
+        },
+        "verticalGap": -9.596,
+        "leftEdgeDelta": 64.28
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-3084fd2f9ab2bb76",
+      "nextNode": "paragraph-423e44606f631efb",
+      "page": 9,
+      "previousTail": "equivalences",
+      "nextHead": "between",
+      "geometry": {
+        "previousBox": {
+          "page": 9,
+          "x0": 374.5537109375,
+          "y0": 199.65756225585938,
+          "x1": 420.784912109375,
+          "y1": 209.25306701660156
+        },
+        "nextBox": {
+          "page": 9,
+          "x0": 428.5860595703125,
+          "y0": 199.65756225585938,
+          "x1": 459.4452209472656,
+          "y1": 209.25306701660156
+        },
+        "verticalGap": -9.596,
+        "leftEdgeDelta": 54.032
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-423e44606f631efb",
+      "nextNode": "paragraph-9e2ce1de2d553ef9",
+      "page": 9,
+      "previousTail": "between",
+      "nextHead": "entitlements",
+      "geometry": {
+        "previousBox": {
+          "page": 9,
+          "x0": 428.5860595703125,
+          "y0": 199.65756225585938,
+          "x1": 459.4452209472656,
+          "y1": 209.25306701660156
+        },
+        "nextBox": {
+          "page": 9,
+          "x0": 467.275146484375,
+          "y0": 199.65756225585938,
+          "x1": 512.8921508789062,
+          "y1": 209.25306701660156
+        },
+        "verticalGap": -9.596,
+        "leftEdgeDelta": 38.689
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-9e2ce1de2d553ef9",
+      "nextNode": "paragraph-380aa7eeb60fc355",
+      "page": 9,
+      "previousTail": "entitlements",
+      "nextHead": "obtained",
+      "geometry": {
+        "previousBox": {
+          "page": 9,
+          "x0": 467.275146484375,
+          "y0": 199.65756225585938,
+          "x1": 512.8921508789062,
+          "y1": 209.25306701660156
+        },
+        "nextBox": {
+          "page": 9,
+          "x0": 520.7221069335938,
+          "y0": 199.65756225585938,
+          "x1": 553.0684814453125,
+          "y1": 209.25306701660156
+        },
+        "verticalGap": -9.596,
+        "leftEdgeDelta": 53.447
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-380aa7eeb60fc355",
+      "nextNode": "paragraph-69855370e7948c91",
+      "page": 9,
+      "previousTail": "obtained",
+      "nextHead": "before the implementation of this Directive and the categories defined in Article 4.",
+      "geometry": {
+        "previousBox": {
+          "page": 9,
+          "x0": 520.7221069335938,
+          "y0": 199.65756225585938,
+          "x1": 553.0684814453125,
+          "y1": 209.25306701660156
+        },
+        "nextBox": {
+          "page": 9,
+          "x0": 310.2733154296875,
+          "y0": 210.25869750976562,
+          "x1": 553.0587768554688,
+          "y1": 230.39869689941406
+        },
+        "verticalGap": 1.006,
+        "leftEdgeDelta": 210.449
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-3b5a5c2679735bc0",
+      "nextNode": "paragraph-acda2b6d87d46dec",
+      "page": 22,
+      "previousTail": "ponsibility in respect to the carriage of passengers; comfort and safety of passengers; transport of",
+      "nextHead": "children; necessary checks before driving away; all sorts of buses should be part of the theory test",
+      "geometry": {
+        "previousBox": {
+          "page": 22,
+          "x0": 92.7469711303711,
+          "y0": 655.3701782226562,
+          "x1": 501.646484375,
+          "y1": 663.8995361328125
+        },
+        "nextBox": {
+          "page": 22,
+          "x0": 120.5826644897461,
+          "y0": 664.7807006835938,
+          "x1": 501.73602294921875,
+          "y1": 682.6642456054688
+        },
+        "verticalGap": 0.881,
+        "leftEdgeDelta": 27.836
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-d3b5128455921c33",
+      "nextNode": "paragraph-e861e63ef647049a",
+      "page": 28,
+      "previousTail": " stopping: decelerating in time, braking or stopping according to circumstances; anticipation; using",
+      "nextHead": "the various braking systems (only for categories C, CE, D, DE); using speed reduction systems other ",
+      "geometry": {
+        "previousBox": {
+          "page": 28,
+          "x0": 92.74600982666016,
+          "y0": 768.06103515625,
+          "x1": 501.7052001953125,
+          "y1": 776.5903930664062
+        },
+        "nextBox": {
+          "page": 28,
+          "x0": 120.58170318603516,
+          "y0": 777.4152221679688,
+          "x1": 501.76068115234375,
+          "y1": 795.3550415039062
+        },
+        "verticalGap": 0.825,
+        "leftEdgeDelta": 27.836
+      },
+      "classification": "genuinely ambiguous",
+      "reason": "Continuation text exists, but geometry/spacing does not provide deterministic merge evidence."
+    },
+    {
+      "previousNode": "paragraph-2335e11c91d1f200",
+      "nextNode": "paragraph-99e829cabe8dd76a",
+      "page": 40,
+      "previousTail": "(passenger",
+      "nextHead": "transport)",
+      "classification": "false alarm removed by structural reconstruction",
+      "reason": "The boundary no longer occurs between ordinary paragraph/list/footnote nodes after corrected table ownership."
+    },
+    {
+      "previousNode": "paragraph-99e829cabe8dd76a",
+      "nextNode": "paragraph-758b49f7555d7544",
+      "page": 40,
+      "previousTail": "transport)",
+      "nextHead": "and 10",
+      "classification": "false alarm removed by structural reconstruction",
+      "reason": "The boundary no longer occurs between ordinary paragraph/list/footnote nodes after corrected table ownership."
+    }
+  ],
+  "newCandidatesAfterStructuralReconstruction": [],
+  "resolvedInThisPhase": 0,
+  "note": "Deterministically resolvable cases are classified only; no paragraph merge heuristic or reconstruction behavior was changed. Genuinely ambiguous cases remain unresolved."
+}

@@ -1,0 +1,2322 @@
+{
+  "celex": "32014R0788",
+  "dry_run": true,
+  "source_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32014R0788\\TMX_MK1\\32014R0788_TM.tmx"
+  ],
+  "mk2_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32014R0788\\MK2\\32014R0788_MK2.docx"
+  ],
+  "original_tmx_sha256": "850d89e096a28a0ae7bfe5eb8d593db40c173876dcc608da43c933852efd1612",
+  "mk2_sha256": "9b8c4fc1e9f757c9ef8be42fa530bdfcf4d3e7a7141d89d97d5efbfecf5f9967",
+  "extraction": {
+    "format": "DOCX",
+    "paragraphs": 321,
+    "table cells": 98,
+    "characters": 41186,
+    "extraction method": "OOXML body traversal",
+    "error": ""
+  },
+  "results": [
+    {
+      "index": 1,
+      "en": "COMMISSION REGULATION (EU) No 788/2014",
+      "mk1": "РЕГУЛАТИВА (ЕУ) Бр. 788/2014 НА КОМИСИЈАТА",
+      "status": "HIGH",
+      "target": "РЕГУЛАТИВА (ЕУ) бБр. 788/2014 НА КОМИСИЈАТА",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 18 July 2014",
+      "mk1": "од 18 јули 2014 година",
+      "status": "HIGH",
+      "target": "од 18 јули 2014 година",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 3,
+      "en": "laying down detailed rules for the imposition of fines and periodic penalty payments and the withdrawal of recognition of ship inspection and survey organisations pursuant to Articles 6 and 7 of Regulation (EC) No 391/2009 of the European Parliament and of the Council",
+      "mk1": "за утврдување на детални правила за изрекување на глоба и периодични парични казни и за одземање на признавањето на организации за инспекција и проверка на бродови во согласност со членовите 6 и 7 од Регулативата (ЕЗ) бр. 391/2009 на Европскиот парламент и на Советот",
+      "status": "HIGH",
+      "target": "за утврдување на детални правила за изрекување на глоба и периодични парични казни и за одземање повлекување на признавањето на организации за инспекција и проверка на бродови во согласност со членовите 6 и 7 од Регулативата (ЕЗ) бр. 391/2009 на Европскиот парламент и на Советот",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 18 July 2014",
+      "mk1": "од 18 јули 2014 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 3,
+      "en": "laying down detailed rules for the imposition of fines and periodic penalty payments and the withdrawal of recognition of ship inspection and survey organisations pursuant to Articles 6 and 7 of Regulation (EC) No 391/2009 of the European Parliament and of the Council",
+      "mk1": "за утврдување на детални правила за изрекување на глоба и периодични парични казни и за одземање на признавањето на организации за инспекција и проверка на бродови во согласност со членовите 6 и 7 од Регулативата (ЕЗ) бр. 391/2009 на Европскиот парламент и на Советот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 4,
+      "en": "(Text with EEA relevance)",
+      "mk1": "(Текст со важност за ЕЕО)",
+      "status": "UNMATCHED",
+      "target": "имајќи го предв",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 5,
+      "en": "THE EUROPEAN COMMISSION,",
+      "mk1": "ЕВРОПСКАТА КОМИСИЈА,",
+      "status": "UNMATCHED",
+      "target": "ид Договорот",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "status": "REVIEW",
+      "target": "за функционирање на Европската Унија,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 5,
+      "en": "THE EUROPEAN COMMISSION,",
+      "mk1": "ЕВРОПСКАТА КОМИСИЈА,",
+      "status": "UNMATCHED",
+      "target": "имајќи ја предви",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "status": "UNMATCHED",
+      "target": "д Регулативата (ЕЗ) бр. 391/2009 на Европскиот парла",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 7,
+      "en": "Having regard to Regulation (EC) No 391/2009 of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations, and in particular Article 14(2) thereof,",
+      "mk1": "имајќи ја предвид Регулативата (ЕЗ) бр. 391/2009 на Европскиот парламент и на Советот од 23 април 2009 година за заеднички правила и стандарди за организации за инспекција и проверка на бродови, а особено член 14(2) од истата,",
+      "status": "REVIEW",
+      "target": "мент и на Советот од 23 април 2009 година за заеднички правила и стандарди за организации за инспекција и проверка на бродови, а особено член 14(2) од истата, со оглед на тоа што:",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 7,
+      "en": "Having regard to Regulation (EC) No 391/2009 of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations, and in particular Article 14(2) thereof,",
+      "mk1": "имајќи ја предвид Регулативата (ЕЗ) бр. 391/2009 на Европскиот парламент и на Советот од 23 април 2009 година за заеднички правила и стандарди за организации за инспекција и проверка на бродови, а особено член 14(2) од истата,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 8,
+      "en": "OJ L 131, 28.5.2009, p. 11.",
+      "mk1": "Сл. весник L 131, 28.5.2009 година, стр. 11.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 9,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 10,
+      "en": "(1)\tArticles 6 and 7 of Regulation (EC) No 391/2009 empower the Commission to impose fines and periodic penalty payments on recognised organisations, as defined in Article 2 of that Regulation, or to withdraw their recognition, in order to ensure the enforcement of the criteria and obligations established under that Regulation with a clear view to removing any potential threat to safety or the environment.",
+      "mk1": "(1)\tЧленовите 6 и 7 од Регулативата (ЕЗ) бр 391/2009 ја овластуваат Комисијата да изрече глоба и периодични парични казни на признати организации, како што е дефинирано во член 2 од таа регулатива, или да го одземе нивното признавање, со цел да се обезбеди спроведување на критериумите и обврските утврдени со таа регулатива со јасна цел отстранување на каква било потенцијална закана за безбедноста или животната средина.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 11,
+      "en": "(2)\tIt is in the interest of transparency to lay down, in accordance with Article 14(2) of Regulation (EC) No 391/2009, detailed rules of procedure for decision-making, as well as the methodology for the calculation of fines and periodic penalty payments by the Commission so that it is known in advance by the organisations concerned, including specific criteria for the Commission to appraise the gravity of the case and the extent to which safety or the protection of the environment has been compromised.",
+      "mk1": "(2)\tЗаради транспарентност, во согласност со член 14(2) од Регулативата (ЕЗ) бр. 391/2009, треба да се воспостават детални правила на постапката за донесување одлуки, како и методологијата за пресметка на глоба и периодични парични казни од страна на Комисијата, за засегнатите организации да се свесни за истото, вклучувајќи специфични критериуми за Комисијата да ја процени тежината на случајот и степенот до кој безбедноста или заштитата на животната средина е компромитирана.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 12,
+      "en": "(3)\tThrough the introduction of fines and periodic penalty payments the Commission should have a supplementary tool, allowing it to give a more nuanced, flexible and graduated response to a breach of the rules contained in Regulation (EC) No 391/2009 by a recognised organisation, compared to the withdrawal of its recognition.",
+      "mk1": "(3)\tСо воведување на глоби и периодични парични казни, Комисијата треба да има дополнителна алатка, со што се овозможува да даде посуптилна, флексибилна и дипломирана реакција на кршењето на правилата содржани во Регулативата (ЕЗ) бр 391/2009 од страна на призната организација, во споредба со одземањето на признавањето.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 13,
+      "en": "(4)\tPeriodic penalty payments should be effective in ensuring that any breach of the obligations and requirements laid down in Regulation (EC) No 391/2009 is promptly and appropriately remedied.",
+      "mk1": "(4)\tПериодичните парични казни треба да бидат ефективни во обезбедувањето дека секој прекршок на обврските и условите утврдени во Регулативата (ЕЗ) бр 391/2009 веднаш и соодветно се отстранува.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 14,
+      "en": "Therefore Regulation (EC) No 391/2009 empowers the Commission to apply periodic penalty payments where a recognised organisation has failed to undertake the preventive and remedial actions required by the Commission, after a reasonable period and until such time as the required actions have been taken by the recognised organisation concerned.",
+      "mk1": "Затоа, Регулативата (ЕЗ) бр. 391/2009 ја овластува Комисијата да применува периодични парични казни, кога една призната организација не ги презела превентивните и корективните дејства што ги бара Комисијата, по разумен период и сѐ додека таа засегната организација не ги преземе потребните дејства.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 15,
+      "en": "If necessary, in light of the circumstances of the case, the daily amount of the periodic penalty payments may gradually be increased to reflect the urgency of the requested actions.",
+      "mk1": "Доколку е потребно, во контекст на околностите на случајот, дневниот износ на периодичните парични казни може постепено да се зголемува за да се одрази итноста на бараните дејства.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 16,
+      "en": "(5)\tThe calculation of fines and periodic penalty payments as a fraction of the turnover of the organisation, bearing in mind the maximum ceiling established in accordance with Regulation (EC) No 391/2009, is a simple method to make the fines and periodic penalty payments dissuasive while remaining proportionate to both the gravity of the case and the economic capacity of the organisation concerned, in light of the diverse sizes of recognised organisations.",
+      "mk1": "(5)\tПресметката на глобата и периодични парични казнии како дел од прометот на организацијата, имајќи го предвид максималниот лимит утврден во согласност со Регулативата (ЕЗ) бр. 391/2009, е едноставен метод за тие да имаат одвратувачки ефект, а истовремено да останат пропорционални како на тежината на случајот, така и на економскиот капацитет на засегнатата организација, во однос на различни големини на признати организации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 17,
+      "en": "(6)\tThe application of the maximum aggregate amount ceiling to the fines and periodic penalty payments should be clearly set out taking into account the different circumstances where this would apply, in the interests of transparency and legal certainty.",
+      "mk1": "(6)\tПримената на максималниот вкупен износ на глобата и периодични парични казни треба јасно да се утврди земајќи ги предвид различните околности каде што тоа ќе се примени, во интерес на транспарентноста и правната сигурност.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 18,
+      "en": "For the same reasons, the way in which the total average turnover in the preceding three business years for the activities falling under the scope of Regulation (EC) No 391/2009 is calculated for each recognised organisation should also be laid down.",
+      "mk1": "Од истите причини, треба да се утврди и начинот на кој се пресметува вкупниот просечен промет во претходните три деловни години за активностите кои спаѓаат во опфатот на Регулативата (ЕЗ) бр. 391/2009 за секоја призната организација.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 19,
+      "en": "(7)\tIt is appropriate that a decision to withdraw the recognition of an organisation on the basis of the conditions laid down in Article 7(1) of Regulation (EC) No 391/2009 should consider all factors linked to the overarching objective of monitoring the recognised organisations' operations and overall performance, including the effectiveness of any fines and periodic penalty payments already imposed for repeated and serious breaches of that Regulation.",
+      "mk1": "(7)\tОдлуката за одземање на признавањето на една организација врз основа на условите утврдени во член 7(1) од Регулативата (ЕЗ) бр. 391/2009 треба да ги разгледа сите фактори поврзани со сеопфатната цел за следење на работењето на признаените организации и вкупните перформанси, вклучувајќи ја ефективноста на сите глоби и периодични парични казни кои се веќе изречени за повторени и сериозни прекршоци на таа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 20,
+      "en": "(8)\tA specific procedure should be laid down in order to enable the Commission, be it at its own initiative or at the request of Member State(s), to withdraw the recognition of an organisation pursuant to Regulation (EC) No 391/2009, further to the Commission's powers to assess recognised organisations and to impose fines and periodic penalty payments with the associated procedures set out in this Regulation.",
+      "mk1": "(8)\tТреба да се утврди посебна постапка со цел да се овозможи на Комисијата, било да е тоа по сопствена иницијатива или на барање на една земја членка (членки) да го повлече признавањето на една организација во согласност со Регулативата (ЕЗ) бр. 391/2009, во согласност со овластувањата на Комисијата да ги процени признати организации и да наметне глоби и периодични парични казни со придружните процедури утврдени во оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 21,
+      "en": "(9)\tIt is important that a decision to impose fines, periodic penalty payments or the withdrawal of recognition in accordance with this Regulation is based exclusively on grounds on which the recognised organisation concerned has been able to comment.",
+      "mk1": "(9)\tВажно е одлуката за изрекување глоби, периодични парични казни или одземање на признавањето во согласност со оваа регулатива да се заснова исклучиво врз причините за кои засегнатата организација е во можност да даде свој коментар.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 22,
+      "en": "(10)\tThis Regulation respects the fundamental rights and observes the principles recognised by the Charter of Fundamental Rights of the European Union, in particular the right of defence and the principles of confidentiality and ne bis in idem, in accordance with the general principles of law and the case law of the Court of Justice of the European Union.",
+      "mk1": "(10)\tОваа регулатива ги почитува основните права и ги почитува принципите признати од Повелбата за основните права на Европската Унија, особено правото на одбрана и принципите на доверливост и начелото ne bis in idem, во согласност со општите принципи на правото и судската пракса на Судот на правдата на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 23,
+      "en": "(11)\tDecisions imposing fines and periodic penalty payments in accordance with this Regulation should be enforceable in accordance with Article 299 of the Treaty on the Functioning of the European Union and can be subject to review by the Court of Justice of the European Union.",
+      "mk1": "(11)\tОдлуките за изрекување глоби и периодични парични казни во согласност со оваа регулатива треба да бидат применливи во согласност со член 299 од Договорот за функционирање на Европската Унија и можат да подлежат на ревизија од Судот на правдата на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 24,
+      "en": "(12)\tFor the purpose of ensuring fairness and legal certainty in the conduct of the procedure, it is necessary to lay down detailed rules for the calculation of time limits set by the Commission in the course of the procedure and of the limitation periods that apply to the Commission for the imposition and enforcement of fines and periodic penalty payments, taking into account also the date of entry into force of Regulation (EC) No 391/2009.",
+      "mk1": "(12)\tСо цел да се обезбеди правичност и правна сигурност во спроведувањето на постапката, потребно е да се воспостават детални правила за пресметка на временски ограничувања утврдени од страна на Комисијата во текот на постапката и на периодите на ограничување кои се однесуваат на Комисијата за изрекување и извршување на глоби и периодични парични казни, имајќи го предвид датумот на стапување во сила на Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 25,
+      "en": "(13)\tThe enforcement of this Regulation requires an effective cooperation between the Member States concerned, the Commission and the European Maritime Safety Agency.",
+      "mk1": "(13)\tСпроведувањето на оваа регулатива бара ефикасна соработка меѓу засегнатите земји членки, Комисијата и Европската агенција за поморска безбедност.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 26,
+      "en": "For that purpose, it is necessary to clarify the rights and obligations of each of these parties in the procedures laid down in this Regulation, in order to ensure the effective conduct of the inquiry, decision-making and follow-up process pursuant to Articles 6 and 7 of Regulation (EC) No 391/2009.",
+      "mk1": "За таа цел, неопходно е да се разјаснат правата и обврските на секоја од овие страни во постапките утврдени во оваа регулатива, со цел да се обезбеди ефикасно спроведување на процесот на истрага, донесување одлуки и следење во согласност со членовите 6 и 7 од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 27,
+      "en": "(14)\tThe measures provided for in this Regulation are in accordance with the opinion of the Committee on Safe Seas and the Prevention of Pollution from Ships (COSS) established by Regulation (EC) No 2099/2002 of the European Parliament and of the Council,",
+      "mk1": "(14)\tМерките предвидени во оваа регулатива се во согласност со мислењето на Комитетот за безбедно море и спречување на загадувањето од бродовите утврдено со Регулативата (ЕЗ) бр. 2099/2002 на Европскиот парламент и на Советот,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 28,
+      "en": "OJ L 324, 29.11.2002, p. 1.",
+      "mk1": "Сл. весник L 324, 29.11.2002 година, стр. 1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 29,
+      "en": "HAS ADOPTED THIS REGULATION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 30,
+      "en": "CHAPTER I",
+      "mk1": "ПОГЛАВЈЕ I",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 31,
+      "en": "GENERAL PROVISIONS",
+      "mk1": "ОПШТИ ОДРЕДБИ",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 32,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "status": "MANUAL_BOUNDARY",
+      "target": "Оваа",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 33,
+      "en": "Subject matter",
+      "mk1": "Предмет",
+      "status": "MANUAL_BOUNDARY",
+      "target": "регула",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 34,
+      "en": "This Regulation lays down rules for the implementation of Articles 6 and 7 of Regulation (EC) No 391/2009 by the Commission.",
+      "mk1": "Оваа регулатива ги утврдува правилата за спроведување на членовите 6 и 7 од Регулативата (ЕЗ) бр. 391/2009 од страна на Комисијата.",
+      "status": "HIGH",
+      "target": "тива ги утврдува правилата за спроведување на членовите 6 и 7 од Регулативата (ЕЗ) бр. 391/2009 од страна на Комисијата.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 33,
+      "en": "Subject matter",
+      "mk1": "Предмет",
+      "status": "UNMATCHED",
+      "target": "Таа г",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 34,
+      "en": "This Regulation lays down rules for the implementation of Articles 6 and 7 of Regulation (EC) No 391/2009 by the Commission.",
+      "mk1": "Оваа регулатива ги утврдува правилата за спроведување на членовите 6 и 7 од Регулативата (ЕЗ) бр. 391/2009 од страна на Комисијата.",
+      "status": "UNMATCHED",
+      "target": "и утврдува критериумите за утврдување на висината на глобите и периодичните парични казни,",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 35,
+      "en": "It sets out the criteria for establishing the amount of fines and periodic penalty payments, the decision-making procedure to impose a fine and a periodic penalty payment or to withdraw the recognition of a recognised organisation on the Commission's own initiative or at the request of a Member State.",
+      "mk1": "Таа ги утврдува критериумите за утврдување на висината на глобите и периодичните парични казни, постапката за донесување одлуки за изрекување на глобите и периодичните парични казни или за повлекување на признавањето на призната организација по сопствена иницијатива на Комисијата или по барање на земја членка.",
+      "status": "REVIEW",
+      "target": "постапката за донесување одлуки за изрекување на глобите и периодичните парични казни или за повлекување на признавањето на призната организација по сопствена иницијатива на Комисијата или по барање на земја членка.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 34,
+      "en": "This Regulation lays down rules for the implementation of Articles 6 and 7 of Regulation (EC) No 391/2009 by the Commission.",
+      "mk1": "Оваа регулатива ги утврдува правилата за спроведување на членовите 6 и 7 од Регулативата (ЕЗ) бр. 391/2009 од страна на Комисијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 35,
+      "en": "It sets out the criteria for establishing the amount of fines and periodic penalty payments, the decision-making procedure to impose a fine and a periodic penalty payment or to withdraw the recognition of a recognised organisation on the Commission's own initiative or at the request of a Member State.",
+      "mk1": "Таа ги утврдува критериумите за утврдување на висината на глобите и периодичните парични казни, постапката за донесување одлуки за изрекување на глобите и периодичните парични казни или за повлекување на признавањето на призната организација по сопствена иницијатива на Комисијата или по барање на земја членка.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 36,
+      "en": "Definitions",
+      "mk1": "Дефиниции",
+      "status": "UNMATCHED",
+      "target": "За целите",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 37,
+      "en": "For the purposes of this Regulation, the definitions set out in Article 2 of Regulation (EC) No 391/2009 shall apply.",
+      "mk1": "За целите на оваа регулатива се применуваат дефинициите утврдени во член 2 од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "HIGH",
+      "target": "на оваа регулатива се применуваат дефинициите утврдени во член 2 од Регулативата (ЕЗ) бр. 391/2009. Пок",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 38,
+      "en": "In addition the following definition shall apply:",
+      "mk1": "Покрај тоа, се применува следната дефиниција:",
+      "status": "HIGH",
+      "target": "рај тоа, се применува следната дефиниција:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 37,
+      "en": "For the purposes of this Regulation, the definitions set out in Article 2 of Regulation (EC) No 391/2009 shall apply.",
+      "mk1": "За целите на оваа регулатива се применуваат дефинициите утврдени во член 2 од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "„Засегната земја членка“ е секоја земја членка која на признатена организација ѝ ја довер",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 38,
+      "en": "In addition the following definition shall apply:",
+      "mk1": "Покрај тоа, се применува следната дефиниција:",
+      "status": "UNMATCHED",
+      "target": "ила инспекцијата, проверката и сертиф",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 39,
+      "en": "“Member State concerned” means any Member State that has entrusted a recognised organisation with the inspection, survey and certification of ships flying its flag for compliance with the international conventions, in accordance with Directive 2009/15/EC of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations, including the Member State that has submitted the request for recognition of that organisation to the Commission, in accordance with Article 3 of Regulation (EC) No 391/2009.",
+      "mk1": "„Засегната земја членка“ е секоја земја членка која на признаена организација ѝ ја доверила инспекцијата, проверката и сертификација на бродови кои го веат нејзиното знаме за почитување на меѓународните конвенции, во согласност со Директивата 2009/15/ЕЗ на Европскиот парламент и на Советот од 23 април 2009 година за заеднички правила и стандарди за организации за инспекција и проверка на бродови и за соодветните активности на морските администрации, вклучувајќи ја и земјата членка што го поднела барањето за признавање на таа организација до Комисијата, во согласност со член 3 од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "REVIEW",
+      "target": "икација на бродови кои го веатпловат под нејзиното знаме за почитување на меѓународните конвенции, во согласност со Директивата 2009/15/ЕЗ на Европскиот парламент и на Советот од 23 април 2009 година за заеднички правила и стандарди за организации за инспекција и проверка на бродови и за соодветните активности на морските администрации, вклучувајќи ја и земјата членка што го поднела барањето за признавање на таа организација до Комисијата, во согласност со член 3 од Регулативата (ЕЗ) бр. 391/2009.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 38,
+      "en": "In addition the following definition shall apply:",
+      "mk1": "Покрај тоа, се применува следната дефиниција:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 39,
+      "en": "“Member State concerned” means any Member State that has entrusted a recognised organisation with the inspection, survey and certification of ships flying its flag for compliance with the international conventions, in accordance with Directive 2009/15/EC of the European Parliament and of the Council of 23 April 2009 on common rules and standards for ship inspection and survey organisations and for the relevant activities of maritime administrations, including the Member State that has submitted the request for recognition of that organisation to the Commission, in accordance with Article 3 of Regulation (EC) No 391/2009.",
+      "mk1": "„Засегната земја членка“ е секоја земја членка која на признаена организација ѝ ја доверила инспекцијата, проверката и сертификација на бродови кои го веат нејзиното знаме за почитување на меѓународните конвенции, во согласност со Директивата 2009/15/ЕЗ на Европскиот парламент и на Советот од 23 април 2009 година за заеднички правила и стандарди за организации за инспекција и проверка на бродови и за соодветните активности на морските администрации, вклучувајќи ја и земјата членка што го поднела барањето за признавање на таа организација до Комисијата, во согласност со член 3 од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 40,
+      "en": "CHAPTER II",
+      "mk1": "ПОГЛАВЈЕ II",
+      "status": "UNMATCHED",
+      "target": "ГЛОБИ И ПЕР",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 41,
+      "en": "FINES AND PERIODIC PENALTY PAYMENTS",
+      "mk1": "ГЛОБИ И ПЕРИОДИЧНИ ПАРИЧНИ КАЗНИ",
+      "status": "UNMATCHED",
+      "target": "ИОДИЧНИ ПАРИЧНИ КАЗНИ Член 3 Ид",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 42,
+      "en": "Identification of infringements",
+      "mk1": "Идентификација на прекршоци",
+      "status": "HIGH",
+      "target": "ентификација на прекршоци",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 41,
+      "en": "FINES AND PERIODIC PENALTY PAYMENTS",
+      "mk1": "ГЛОБИ И ПЕРИОДИЧНИ ПАРИЧНИ КАЗНИ",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 42,
+      "en": "Identification of infringements",
+      "mk1": "Идентификација на прекршоци",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 43,
+      "en": "1.",
+      "mk1": "1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 44,
+      "en": "The Commission shall identify an infringement under Article 6(1) of Regulation (EC) No 391/2009 where:",
+      "mk1": "Комисијата го идентификува прекршокот во согласност со член 6(1) од Регулативата (ЕЗ) бр. 391/2009 при што:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 45,
+      "en": "(a)\tthe serious or repeated failure by a recognised organisation to fulfil one of the minimum criteria set out in Annex I of Regulation (EC) No 391/2009 or its obligations under Articles 8(4), 9, 10 and 11 of Regulation (EC) No 391/2009 reveals serious shortcomings in a recognised organisation's structure, systems, procedures or internal controls;",
+      "mk1": "(а)\tсериозниот или повторниот неуспех од страна на призната организација за исполнување на еден од минималните критериуми утврдени во Анекс I кон Регулативата (ЕЗ) бр. 391/2009 или нејзините обврски според членовите 8(4), 9, 10 и 11 од Регулативата (ЕЗ) бр. 391/2009 открива сериозни недостатоци во структурата, системите, процедурите или внатрешните контроли на признатата организација;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 46,
+      "en": "(b)\ta recognised organisation's worsening performance, taking into account Commission Decision No 2009/491/EC, reveals serious shortcomings in that organisation's structure, systems, procedures or internal controls;",
+      "mk1": "(б)\tвлошувањето на перформансите на признатата организација, земајќи ја предвид Одлуката бр. 2009/491/EЗ на Комисијата, открива сериозни недостатоци во структурата, системите, процедурите или внатрешните контроли на таа организација;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 47,
+      "en": "OJ L 162, 25.6.2009, p. 6.",
+      "mk1": "Сл. весник L 162, 25.6.2009 година, стр. 6.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 48,
+      "en": "(c)\ta recognised organisation has deliberately provided incorrect, incomplete or misleading information to the Commission in the course of its assessment or otherwise obstructed that assessment.",
+      "mk1": "(в)\tедна призната организација намерно ѝ дава неточни, нецелосни или погрешни информации на Комисијата во текот на нејзината проценка или на друг начин ја попречува таа проценка.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 49,
+      "en": "In any infringement procedure under this Regulation, the burden of proving an infringement shall rest on the Commission.",
+      "mk1": "Во секоја прекршочна постапка според оваа регулатива, товарот на докажување на прекршокот е кај Комисијата.",
+      "status": "UNMATCHED",
+      "target": "1.Основна глоба од 0,6% од вкупниот просечен прометобрт на признатата ор",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 50,
+      "en": "Calculation of fines",
+      "mk1": "Пресметка на глоби",
+      "status": "UNMATCHED",
+      "target": "ганизација,",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 51,
+      "en": "A basic fine of 0,6 % of the total average turnover of the recognised organisation, as determined in accordance with Article 9, shall be initially assigned to each infringement established on the basis of Article 6(1) of Regulation (EC) No 391/2009.",
+      "mk1": "Основна глоба од 0,6% од вкупниот просечен промет на признатата организација, утврден во согласност со член 9, првично се наметнува за секој прекршок утврден врз основа на член 6(1) од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "REVIEW",
+      "target": "утврден во согласност со член 9, првично се наметнува воведува за секој прекршок утврден врз основа на член 6(1) од Регулативата (ЕЗ) бр. 391/2009.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 50,
+      "en": "Calculation of fines",
+      "mk1": "Пресметка на глоби",
+      "status": "UNMATCHED",
+      "target": "2.За пресм",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 51,
+      "en": "A basic fine of 0,6 % of the total average turnover of the recognised organisation, as determined in accordance with Article 9, shall be initially assigned to each infringement established on the basis of Article 6(1) of Regulation (EC) No 391/2009.",
+      "mk1": "Основна глоба од 0,6% од вкупниот просечен промет на признатата организација, утврден во согласност со член 9, првично се наметнува за секој прекршок утврден врз основа на член 6(1) од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "етка на поединечна глоба за секој прекршок, основната парична казна од ставот 1 се зголемува или намалува, врз основа на с",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 52,
+      "en": "For the calculation of the individual fine for each infringement the basic fine referred to in paragraph 1 shall be increased or reduced, on the basis of the seriousness and of the effects of the infringement, in particular the extent to which safety or the protection of the environment have been compromised, in accordance with Articles 5 and 6 respectively.",
+      "mk1": "За пресметка на поединечна глоба за секој прекршок, основната парична казна од ставот 1 се зголемува или намалува, врз основа на сериозноста и ефектите од прекршокот, особено до степен до кој безбедноста или заштитата на животната средина се компромитирани во согласност со членовите 5 и 6, соодветно.",
+      "status": "REVIEW",
+      "target": "ериозноста и ефектите од прекршокот, особено до степен до кој безбедноста или заштитата на животната средина се компромитирани во согласност со членовите 5 и 6, соодветно.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 51,
+      "en": "A basic fine of 0,6 % of the total average turnover of the recognised organisation, as determined in accordance with Article 9, shall be initially assigned to each infringement established on the basis of Article 6(1) of Regulation (EC) No 391/2009.",
+      "mk1": "Основна глоба од 0,6% од вкупниот просечен промет на признатата организација, утврден во согласност со член 9, првично се наметнува за секој прекршок утврден врз основа на член 6(1) од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 52,
+      "en": "For the calculation of the individual fine for each infringement the basic fine referred to in paragraph 1 shall be increased or reduced, on the basis of the seriousness and of the effects of the infringement, in particular the extent to which safety or the protection of the environment have been compromised, in accordance with Articles 5 and 6 respectively.",
+      "mk1": "За пресметка на поединечна глоба за секој прекршок, основната парична казна од ставот 1 се зголемува или намалува, врз основа на сериозноста и ефектите од прекршокот, особено до степен до кој безбедноста или заштитата на животната средина се компромитирани во согласност со членовите 5 и 6, соодветно.",
+      "status": "UNMATCHED",
+      "target": "4.Кога едно дејство или пропуст на препознатата признатата организација претставува единствена основа за два или повеќе прекршоци според ч",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 53,
+      "en": "The maximum amount of each individual fine shall not exceed 1,8 % of the total average turnover of the recognised organisation.",
+      "mk1": "Максималниот износ на секоја поединечна глоба не смее да надмине 1,8% од вкупниот просечен промет на признатата организација.",
+      "status": "UNMATCHED",
+      "target": "лен 6(1)(а) од Регулативата (ЕЗ) бр. 391/2009 идентификув",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 54,
+      "en": "Where one action or omission of the recognised organisation forms the sole basis of two or more infringements under Article 6(1)(a) of Regulation (EC) No 391/2009 identified in accordance with Article 3(1)(a) of this Regulation, the concurrent individual fine shall be the highest of the individual fines calculated for the underlying infringements.",
+      "mk1": "Кога едно дејство или пропуст на препознатата организација претставува единствена основа за два или повеќе прекршоци според член 6(1)(а) од Регулативата (ЕЗ) бр. 391/2009 идентификувани во согласност со член 3(1)(а) од оваа регулатива, истовремената поединечна глоба е највисоката од поединечните глоби пресметани за основните прекршоци.",
+      "status": "UNMATCHED",
+      "target": "ани во согласност со член 3(1)(а) од оваа регулатива, истовремената поединечна глоба е највисоката од поединечните глоби пресметани за основните прекршоци.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 53,
+      "en": "The maximum amount of each individual fine shall not exceed 1,8 % of the total average turnover of the recognised organisation.",
+      "mk1": "Максималниот износ на секоја поединечна глоба не смее да надмине 1,8% од вкупниот просечен промет на признатата организација.",
+      "status": "UNMATCHED",
+      "target": "5.Вкупната глоба изречена на призната организација во ед",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 54,
+      "en": "Where one action or omission of the recognised organisation forms the sole basis of two or more infringements under Article 6(1)(a) of Regulation (EC) No 391/2009 identified in accordance with Article 3(1)(a) of this Regulation, the concurrent individual fine shall be the highest of the individual fines calculated for the underlying infringements.",
+      "mk1": "Кога едно дејство или пропуст на препознатата организација претставува единствена основа за два или повеќе прекршоци според член 6(1)(а) од Регулативата (ЕЗ) бр. 391/2009 идентификувани во согласност со член 3(1)(а) од оваа регулатива, истовремената поединечна глоба е највисоката од поединечните глоби пресметани за основните прекршоци.",
+      "status": "UNMATCHED",
+      "target": "на одлука е збир на сите поединечни глоби што произлегуваат од примената на ставовите од 1 до 4 на овој член, без да е во спротивност на максималната г",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 55,
+      "en": "The total fine imposed on a recognised organisation in one decision shall be the sum of all individual fines resulting from the application of paragraphs 1 to 4 of this Article, without prejudice to the maximum ceiling established under Article 6(3) of Regulation (EC) No 391/2009, as detailed Article 8 of this Regulation.",
+      "mk1": "Вкупната глоба изречена на призната организација во една одлука е збир на сите поединечни глоби што произлегуваат од примената на ставовите од 1 до 4 на овој член, без да е во спротивност на максималниот лимит утврден според член 6(3) од Регулативата (ЕЗ) бр. 391/2009, како што е наведено во членот 8 од овој закон.",
+      "status": "UNMATCHED",
+      "target": "орна границаиот лимит утврдена според член 6(3) од Регулативата (ЕЗ) бр. 391/2009, како што е наведено во членот 8 од оваа регулативаој закон.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 54,
+      "en": "Where one action or omission of the recognised organisation forms the sole basis of two or more infringements under Article 6(1)(a) of Regulation (EC) No 391/2009 identified in accordance with Article 3(1)(a) of this Regulation, the concurrent individual fine shall be the highest of the individual fines calculated for the underlying infringements.",
+      "mk1": "Кога едно дејство или пропуст на препознатата организација претставува единствена основа за два или повеќе прекршоци според член 6(1)(а) од Регулативата (ЕЗ) бр. 391/2009 идентификувани во согласност со член 3(1)(а) од оваа регулатива, истовремената поединечна глоба е највисоката од поединечните глоби пресметани за основните прекршоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 55,
+      "en": "The total fine imposed on a recognised organisation in one decision shall be the sum of all individual fines resulting from the application of paragraphs 1 to 4 of this Article, without prejudice to the maximum ceiling established under Article 6(3) of Regulation (EC) No 391/2009, as detailed Article 8 of this Regulation.",
+      "mk1": "Вкупната глоба изречена на призната организација во една одлука е збир на сите поединечни глоби што произлегуваат од примената на ставовите од 1 до 4 на овој член, без да е во спротивност на максималниот лимит утврден според член 6(3) од Регулативата (ЕЗ) бр. 391/2009, како што е наведено во членот 8 од овој закон.",
+      "status": "UNMATCHED",
+      "target": "Член 5 Проценка на сериозноста на прекршокот При проценката на сериозноста на секој прекршок, Комисијата ги зема предвид",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 56,
+      "en": "Assessment of the seriousness of an infringement",
+      "mk1": "Проценка на сериозноста на прекршокот",
+      "status": "UNMATCHED",
+      "target": "сите релевантн",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 57,
+      "en": "When assessing the seriousness of each infringement the Commission shall take into account all relevant aggravating and mitigating circumstances, in particular the following:",
+      "mk1": "При проценката на сериозноста на секој прекршок, Комисијата ги зема предвид сите релевантни отежнувачки и олеснувачки околности, особено следните:",
+      "status": "UNMATCHED",
+      "target": "и отежнувачки и олеснувачки околности, особено следните:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 56,
+      "en": "Assessment of the seriousness of an infringement",
+      "mk1": "Проценка на сериозноста на прекршокот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 57,
+      "en": "When assessing the seriousness of each infringement the Commission shall take into account all relevant aggravating and mitigating circumstances, in particular the following:",
+      "mk1": "При проценката на сериозноста на секој прекршок, Комисијата ги зема предвид сите релевантни отежнувачки и олеснувачки околности, особено следните:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 58,
+      "en": "(a)\twhether the organisation has acted with negligence or intent;",
+      "mk1": "(а)\tдали организацијата дејствувала од небрежност или намера;",
+      "status": "UNMATCHED",
+      "target": "(в)дали прекршокот влијае",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 59,
+      "en": "(b)\tthe number of actions or omissions of the recognised organisation which give rise to the infringement;",
+      "mk1": "(б)\tбројот на дејства или пропусти на организацијата кои довеле до прекршокот;",
+      "status": "UNMATCHED",
+      "target": "на изолираните канцеларии, геогра",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 60,
+      "en": "(c)\twhether the infringement affects isolated offices, geographical areas or the entire organisation;",
+      "mk1": "(в)\tдали прекршокот влијае на изолираните канцеларии, географските области или на целата организација;",
+      "status": "UNMATCHED",
+      "target": "фските области или на целата организација;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 59,
+      "en": "(b)\tthe number of actions or omissions of the recognised organisation which give rise to the infringement;",
+      "mk1": "(б)\tбројот на дејства или пропусти на организацијата кои довеле до прекршокот;",
+      "status": "UNMATCHED",
+      "target": "(г)повторувањето на постапките дејствата или пропустите на признатата организација кои доведуваат до прекршок;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 60,
+      "en": "(c)\twhether the infringement affects isolated offices, geographical areas or the entire organisation;",
+      "mk1": "(в)\tдали прекршокот влијае на изолираните канцеларии, географските области или на целата организација;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 61,
+      "en": "(d)\tthe recurrence of the actions or omissions of the recognised organisation giving rise to the infringement;",
+      "mk1": "(г)\tповторувањето на постапките или пропустите на признатата организација кои доведуваат до прекршок;",
+      "status": "UNMATCHED",
+      "target": "(ѓ)погрешно толкување на фактичката состојба на бродовите во с",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 62,
+      "en": "(e)\tthe duration of the infringement;",
+      "mk1": "(д)\tтраењето на прекршокот;",
+      "status": "UNMATCHED",
+      "target": "ертификатите и до",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 63,
+      "en": "(f)\ta misrepresentation of the actual condition of ships in the certificates and documents of compliance delivered by the recognised organisation, or the inclusion of incorrect or misleading information therein;",
+      "mk1": "(ѓ)\tпогрешно толкување на фактичката состојба на бродовите во сертификатите и документите за усогласеност доставени од страна на признатата организација или вклучување на неточни или погрешни информации во неа;",
+      "status": "REVIEW",
+      "target": "кументите за усогласеност доставени од страна на признатата организација или вклучување на неточни или погрешни информации во неа;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 62,
+      "en": "(e)\tthe duration of the infringement;",
+      "mk1": "(д)\tтраењето на прекршокот;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 63,
+      "en": "(f)\ta misrepresentation of the actual condition of ships in the certificates and documents of compliance delivered by the recognised organisation, or the inclusion of incorrect or misleading information therein;",
+      "mk1": "(ѓ)\tпогрешно толкување на фактичката состојба на бродовите во сертификатите и документите за усогласеност доставени од страна на признатата организација или вклучување на неточни или погрешни информации во неа;",
+      "status": "UNMATCHED",
+      "target": "(ж)без разлика дали прекршокот е резултат на договор помеѓу признати организации или заеднич",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 64,
+      "en": "(g)\tprior sanctions, including fines, imposed on the same recognised organisation;",
+      "mk1": "(е)\tпретходни санкции, вклучувајќи и глоби, изречени на истата призната организација;",
+      "status": "UNMATCHED",
+      "target": "ка практика, која како свој предмет и",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 65,
+      "en": "(h)\twhether the infringement results from an agreement between recognised organisations or a concerted practice, which have as their object or effect the breach of the criteria and obligations provided in Regulation (EC) No 391/2009;",
+      "mk1": "(ж)\tбез разлика дали прекршокот е резултат на договор помеѓу признати организации или заедничка практика, која како свој предмет или последица има прекршување на критериумите и обврските предвидени во Регулативата (ЕЗ) бр. 391/2009;",
+      "status": "UNMATCHED",
+      "target": "ли последица има прекршување на критериумите и обврските предвидени во Регулативата (ЕЗ) бр. 391/2009;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 64,
+      "en": "(g)\tprior sanctions, including fines, imposed on the same recognised organisation;",
+      "mk1": "(е)\tпретходни санкции, вклучувајќи и глоби, изречени на истата призната организација;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 65,
+      "en": "(h)\twhether the infringement results from an agreement between recognised organisations or a concerted practice, which have as their object or effect the breach of the criteria and obligations provided in Regulation (EC) No 391/2009;",
+      "mk1": "(ж)\tбез разлика дали прекршокот е резултат на договор помеѓу признати организации или заедничка практика, која како свој предмет или последица има прекршување на критериумите и обврските предвидени во Регулативата (ЕЗ) бр. 391/2009;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 66,
+      "en": "(i)\tthe degree of diligence and cooperation of the recognised organisation in the discovery of the relevant actions or omissions, as well as in the determination of the infringements by the Commission.",
+      "mk1": "(з)\tстепенот на трудољубивост и соработка на признатата организација во откривањето на релевантните активности или пропусти, како и во утврдувањето на прекршоците од страна на Комисијата.",
+      "status": "UNMATCHED",
+      "target": "Проценувањеоценка на ефектите од прекршокот При проценувањеоценкатао на ефектите од секој прекршок, особено до степе",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 67,
+      "en": "Assessment of the effects of an infringement",
+      "mk1": "Проценување на ефектите од прекршокот",
+      "status": "UNMATCHED",
+      "target": "н до кој безбедноста и",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 68,
+      "en": "When assessing the effects of each infringement, in particular the extent to which safety and the protection of the environment have been compromised, the Commission shall take into account all relevant aggravating and mitigating circumstances, in particular the following:",
+      "mk1": "При прооценувањето на ефектите од секој прекршок, особено до степен до кој безбедноста и заштитата на животната средина се компромитирани, Комисијата ги зема предвид сите релевантни отежнувачки и олеснувачки околности, особено следните:",
+      "status": "REVIEW",
+      "target": "заштитата на животната средина се компромитирани, Комисијата ги зема предвид сите релевантни отежнувачки и олеснувачки околности, особено следните:",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 67,
+      "en": "Assessment of the effects of an infringement",
+      "mk1": "Проценување на ефектите од прекршокот",
+      "status": "UNMATCHED",
+      "target": "(а)природата и обемот на",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 68,
+      "en": "When assessing the effects of each infringement, in particular the extent to which safety and the protection of the environment have been compromised, the Commission shall take into account all relevant aggravating and mitigating circumstances, in particular the following:",
+      "mk1": "При прооценувањето на ефектите од секој прекршок, особено до степен до кој безбедноста и заштитата на животната средина се компромитирани, Комисијата ги зема предвид сите релевантни отежнувачки и олеснувачки околности, особено следните:",
+      "status": "UNMATCHED",
+      "target": "недостатоците, кои реално или потенцијално влијаат на флотата сертифицирана од организацијата, а коија организација, како резултат на прекршокот, не ус",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 69,
+      "en": "(a)\tthe nature and extent of the deficiencies actually or potentially affecting the fleet certified by the organisation, which the said organisation, as a result of the infringement, has failed to detect or may not be able to detect, or has failed to or may not be able to request the timely correction of, taking into account in particularthe criteria for the detention of a ship laid down in Annex X of Directive 2009/16/EC of the European Parliament and of the Council on port State control;",
+      "mk1": "(а)\tприродата и обемот на недостатоците, реално или потенцијално влијаат на флотата сертифицирана од организацијата, а која организација, како резултат на прекршокот, не успеала да ја открие или можеби не може да ја открие, или не успеала или не може да побара навремена корекција, земајќи ги особено предвид критериумите за задржување на брод утврдени во Анекс X од Директивата 2009/16/EЗ на Европскиот парламент и на Советот за државна контрола на пристанишната;",
+      "status": "REVIEW",
+      "target": "пеала да гија открие или можеби не може да гија открие, или не успеала или не може да побара навремена корекција, земајќи ги особено предвид критериумите за задржување на брод утврдени во Анекс X конод Директивата 2009/16/EЗ на Европскиот парламент и на Советот за државна контрола на пристанишната;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 68,
+      "en": "When assessing the effects of each infringement, in particular the extent to which safety and the protection of the environment have been compromised, the Commission shall take into account all relevant aggravating and mitigating circumstances, in particular the following:",
+      "mk1": "При прооценувањето на ефектите од секој прекршок, особено до степен до кој безбедноста и заштитата на животната средина се компромитирани, Комисијата ги зема предвид сите релевантни отежнувачки и олеснувачки околности, особено следните:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 69,
+      "en": "(a)\tthe nature and extent of the deficiencies actually or potentially affecting the fleet certified by the organisation, which the said organisation, as a result of the infringement, has failed to detect or may not be able to detect, or has failed to or may not be able to request the timely correction of, taking into account in particularthe criteria for the detention of a ship laid down in Annex X of Directive 2009/16/EC of the European Parliament and of the Council on port State control;",
+      "mk1": "(а)\tприродата и обемот на недостатоците, реално или потенцијално влијаат на флотата сертифицирана од организацијата, а која организација, како резултат на прекршокот, не успеала да ја открие или можеби не може да ја открие, или не успеала или не може да побара навремена корекција, земајќи ги особено предвид критериумите за задржување на брод утврдени во Анекс X од Директивата 2009/16/EЗ на Европскиот парламент и на Советот за државна контрола на пристанишната;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 70,
+      "en": "(b)\tthe proportion of the fleet certified by the organisation actually or potentially affected;",
+      "mk1": "(б)\tделот од флотата која е сертифицирана од страна на организацијата или која е потенцијално засегната;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 71,
+      "en": "(c)\tany other circumstances posing specific identifiable risks, such as the type of the ships actually or potentially affected.",
+      "mk1": "(в)\tкои било други околности што претставуваат одредени препознатливи ризици, како на пример видот на бродовите кои се реално или потенцијално засегнати.",
+      "status": "UNMATCHED",
+      "target": "Периодични парични казни 1.Периодичните парични казни што се однесуваат накако што се наведени во член 6(2) од Регулатив",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 72,
+      "en": "Periodic penalty payments",
+      "mk1": "Периодични парични казни",
+      "status": "UNMATCHED",
+      "target": "ата (ЕЗ) бр. 391/20",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 73,
+      "en": "Periodic penalty payments as referred to in Article 6(2) of Regulation (EC) No 391/2009 may be imposed by the Commission on the organisation concerned, without prejudice to the fines imposed pursuant to Article 3, in order to ensure that preventive and remedial action is taken as required by the Commission in the course of its assessment of the recognised organisation.",
+      "mk1": "Периодичните парични казни што се однесуваат на член 6(2) од Регулативата (ЕЗ) бр. 391/2009 може да бидат изречени од страна на Комисијата за засегнатата организација, без да бидат во спротивност на глобите изречени врз основа на член 3, со цел да се обезбеди дека превентивните и корективните мерки се преземаат како што е потребно од страна на Комисијата во текот на својата проценка на признатата организација.",
+      "status": "REVIEW",
+      "target": "09 може да бидат изречени од страна на Комисијата за засегнатата организација, без да бидат во спротивност на глобите изречени врз основа на член 3, со цел да се обезбеди дека превентивните и корективните мерки се преземаат како што е потребно од страна на Комисијата во текот на својата проценка на признатата организација.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 72,
+      "en": "Periodic penalty payments",
+      "mk1": "Периодични парични казни",
+      "status": "UNMATCHED",
+      "target": "2.Во одлук",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 73,
+      "en": "Periodic penalty payments as referred to in Article 6(2) of Regulation (EC) No 391/2009 may be imposed by the Commission on the organisation concerned, without prejudice to the fines imposed pursuant to Article 3, in order to ensure that preventive and remedial action is taken as required by the Commission in the course of its assessment of the recognised organisation.",
+      "mk1": "Периодичните парични казни што се однесуваат на член 6(2) од Регулативата (ЕЗ) бр. 391/2009 може да бидат изречени од страна на Комисијата за засегнатата организација, без да бидат во спротивност на глобите изречени врз основа на член 3, со цел да се обезбеди дека превентивните и корективните мерки се преземаат како што е потребно од страна на Комисијата во текот на својата проценка на признатата организација.",
+      "status": "UNMATCHED",
+      "target": "ата за изрекување парични казни во согласност со член 3, Комисијата, исто така, може да воспостави периодични парични казни кои треба да се изречат на признатата организација",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 74,
+      "en": "In the decision imposing fines pursuant to Article 3 the Commission may also establish periodic penalty payments to be imposed on the recognised organisation if, and for as long as, it fails to undertake remedial action or incurs unjustified delays in bringing the infringement to an end.",
+      "mk1": "Во одлуката за изрекување парични казни во согласност со член 3, Комисијата, исто така, може да воспостави периодични парични казни кои треба да се изречат на признатата организација, ако и сѐ додека не преземе корективни активности или предизвикува неоправдани одложувања во отстранувањето на прекршокот.",
+      "status": "UNMATCHED",
+      "target": ", ако и сѐ додека не преземе корективни активности мерки или предизвикува неоправдани одложувања во отстранувањето на прекршокот.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 73,
+      "en": "Periodic penalty payments as referred to in Article 6(2) of Regulation (EC) No 391/2009 may be imposed by the Commission on the organisation concerned, without prejudice to the fines imposed pursuant to Article 3, in order to ensure that preventive and remedial action is taken as required by the Commission in the course of its assessment of the recognised organisation.",
+      "mk1": "Периодичните парични казни што се однесуваат на член 6(2) од Регулативата (ЕЗ) бр. 391/2009 може да бидат изречени од страна на Комисијата за засегнатата организација, без да бидат во спротивност на глобите изречени врз основа на член 3, со цел да се обезбеди дека превентивните и корективните мерки се преземаат како што е потребно од страна на Комисијата во текот на својата проценка на признатата организација.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 74,
+      "en": "In the decision imposing fines pursuant to Article 3 the Commission may also establish periodic penalty payments to be imposed on the recognised organisation if, and for as long as, it fails to undertake remedial action or incurs unjustified delays in bringing the infringement to an end.",
+      "mk1": "Во одлуката за изрекување парични казни во согласност со член 3, Комисијата, исто така, може да воспостави периодични парични казни кои треба да се изречат на признатата организација, ако и сѐ додека не преземе корективни активности или предизвикува неоправдани одложувања во отстранувањето на прекршокот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 75,
+      "en": "The decision imposing the periodic penalty payments shall determine the time limit within which the recognised organisation has to comply with the required action.",
+      "mk1": "Одлуката за изрекување на периодичните парични казни го одреди временскиот лимит во кој признатата организација треба да се придржува кон бараното дејство.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 76,
+      "en": "Periodic penalty payments shall apply as from the day following the expiry of the time limit established in accordance with paragraph 3 until the day on which appropriate remedial action has been undertaken by the organisation, provided that the remedial action is considered satisfactory by the Commission.",
+      "mk1": "Периодичните парични казни се применуваат од денот по истекот на рокот утврден во согласност со точка 3 до денот на кој се преземени соодветни корективни мерки од страна на организацијата, под услов корективното дејство да се смета за задоволително од страна на Комисијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 77,
+      "en": "The basic amount per day of the periodic penalty payments for each infringement shall be 0,0033 % of the total average turnover of the recognised organisation calculated in accordance with Article 9.",
+      "mk1": "Основниот износ на дневно ниво, на периодичните парични казни за секој прекршок изнесува 0,0033 % од вкупниот просечен промет на признатата организација пресметан во согласност со член 9.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 78,
+      "en": "For the calculation of the individual amount of periodic penalty payments for each infringement, the basic amount shall be adjusted based on the seriousness of the infringement and taking into account the extent to which safety or the protection of the environment has been compromised, in the light of Articles 5 and 6 of this Regulation.",
+      "mk1": "За пресметка на износот на периодични парични казни за секој прекршок, основниот износ се прилагодува врз основа на сериозноста на прекршокот и земајќи го предвид степенот до кој безбедноста или заштитата на животната средина е компромитирана, во согласност со членовите 5 и 6 од оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 79,
+      "en": "The Commission may decide, in light of the circumstances of the case, and in particular in view of the urgency of the remedial action to be undertaken by the organisation concerned, to increase the daily amount for periodic penalty payments up to the following limits:",
+      "mk1": "Комисијата може да одлучи, во контекст на околностите на случајот, а особено во поглед на итноста на корективното дејство што треба да го преземе засегнатата организација, да го зголеми дневниот износ за периодични парични казни до следниве лимити:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 80,
+      "en": "(a)\twhen the recognised organisation exceeds the time limit established pursuant to paragraph 3 by more than 120 days, from the 121st to the 300th day from the expiry of the time limit, 0,005 % per day of the organisation's total average turnover, calculated in accordance with Article 9;",
+      "mk1": "(а)\tкога признатата организација го надминува временското ограничување утврдено во согласност со став 3 за повеќе од 120 дена, од 121-от до 300-от ден од истекот на рокот, 0.005 % на дневно ниво од вкупниот просечен промет на организацијата, пресметан во согласност со член 9;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 81,
+      "en": "(b)\twhen the recognised organisation exceeds the time limit established pursuant to paragraph 3 by more than 300 days, from the 301st day from the expiry of the time limit, 0,01 % per day of the organisation's total average turnover, calculated in accordance with Article 9.",
+      "mk1": "(б)\tкога признатата организација го надминува временското ограничување утврдено во согласност со став 3 за повеќе од 300 дена, од 301-от ден од истекот на рокот, 0,01% на дневно ниво од вкупниот просечен промет на организацијата, пресметан во согласност со член 9.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 82,
+      "en": "The total amount of periodic penalty payments imposed under this Article, individually or in addition to fines, shall not exceed the maximum ceiling established under Article 6(3) of Regulation (EC) No 391/2009, as detailed in Article 8 of this Regulation.",
+      "mk1": "Вкупниот износ на периодични парични казни изречени според овој член, поединечно или како додаток на глоби, нема да го надмине максималниот лимит утврден според член 6(3) од Регулативата (ЕЗ) бр. 391/2009, како што е наведено во член 8 од оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "Максималниот вкупен износ на глоби и периодични парични казни изречени на признатата организација, како што е утврдено во член 6(3) од Регулативата (ЕЗ) бр 391/2009, се утврдува на следниов начин:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 83,
+      "en": "Determination of maximum aggregate amount of fines and periodic penalty payments",
+      "mk1": "Одредување на максималниот вкупен износ на глоби и периодични парични казни",
+      "status": "UNMATCHED",
+      "target": "(а)вкупниот износ на глобите изречени на признат",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 84,
+      "en": "The maximum aggregate amount of fines and periodic penalty payments imposed to the recognised organisation, as established in Article 6(3) of Regulation (EC) No 391/2009, shall be determined as follows:",
+      "mk1": "Максималниот вкупен износ на глоби и периодични парични казни изречени на признатата организација, како што е утврдено во член 6(3) од Регулативата (ЕЗ) бр 391/2009, се утврдува на следниов начин:",
+      "status": "UNMATCHED",
+      "target": "а организација во согласност со член 4 во рамките на една деловна година за таа организација, земајќи го предвид датумот на од",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 85,
+      "en": "(a)\tthe aggregate amount of the fines imposed on a recognised organisation in accordance with Article 4 within one business year for that organisation, taking into account the date of the decision to impose the fines and, in case of more than one decision imposing fines to that organisation, the date of the first decision imposing a fine on that organisation, shall not exceed 5 % of the total average turnover of that organisation calculated in accordance with Article 9;",
+      "mk1": "(а)\tвкупниот износ на глобите изречени на призната организација во согласност со член 4 во рамките на една деловна година за таа организација, земајќи го предвид датумот на одлуката за изрекување на глобата и, во случај на повеќе од една одлука со која се изрекува глоба на таа организација, датумот на првото донесување на одлукта за изрекување глоба за таа организација, не смее да надмине 5% од вкупниот просечен промет на таа организација пресметан во согласност со членот 9;",
+      "status": "REVIEW",
+      "target": "луката за изрекување на глобата и, во случај на повеќе од една одлука со која се изрекува глоба на таа организација, датумот на првото донесување на одлуката за изрекување глоба за таа организација, не смее да надмине 5% од вкупниот просечен прометобрт на таа организација пресметан во согласност со членот 9;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 84,
+      "en": "The maximum aggregate amount of fines and periodic penalty payments imposed to the recognised organisation, as established in Article 6(3) of Regulation (EC) No 391/2009, shall be determined as follows:",
+      "mk1": "Максималниот вкупен износ на глоби и периодични парични казни изречени на признатата организација, како што е утврдено во член 6(3) од Регулативата (ЕЗ) бр 391/2009, се утврдува на следниов начин:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 85,
+      "en": "(a)\tthe aggregate amount of the fines imposed on a recognised organisation in accordance with Article 4 within one business year for that organisation, taking into account the date of the decision to impose the fines and, in case of more than one decision imposing fines to that organisation, the date of the first decision imposing a fine on that organisation, shall not exceed 5 % of the total average turnover of that organisation calculated in accordance with Article 9;",
+      "mk1": "(а)\tвкупниот износ на глобите изречени на призната организација во согласност со член 4 во рамките на една деловна година за таа организација, земајќи го предвид датумот на одлуката за изрекување на глобата и, во случај на повеќе од една одлука со која се изрекува глоба на таа организација, датумот на првото донесување на одлукта за изрекување глоба за таа организација, не смее да надмине 5% од вкупниот просечен промет на таа организација пресметан во согласност со членот 9;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 86,
+      "en": "(b)\tthe aggregate amount of the fines imposed on a recognised organisation in accordance with Article 4 within one business year for that organisation, determined in accordance with paragraph 1, and the periodic penalty payments imposed in the same decisions in accordance with Article 7(2) and accrued for as long as appropriate remedial action is not undertaken by the organisation shall not exceed 5 % of the total average turnover of that organisation calculated in accordance with Article 9.",
+      "mk1": "(б)\tвкупниот износ на глобите изречени на призната организација во согласност со член 4 во рамките на една деловна година за таа организација, утврдени во согласност со став 1, и периодичните парични казни изречени со истите одлуки во согласност со член 7(2) и акумулирани онолку долго колку што е потребно преземање на соодветни корективни мерки од страна на организацијата не смее да надмине 5% од вкупниот просечен промет на таа организација пресметан во согласност со член 9.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 87,
+      "en": "Without prejudice to Article 21, recovery by the Commission of the periodic penalty payments shall not exceed the 5 % ceiling;",
+      "mk1": "Без да е во спротивност на член 21, наплатата од страна на Комисијата на периодичните парични казни не треба да надминува лимит од 5%;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 88,
+      "en": "(c)\tthe aggregate amount of the periodic penalty payments imposed on a recognised organisation in accordance with Article 7(1) and accrued for as long as appropriate preventive or remedial action is not undertaken by the organisation shall not exceed 5 % of the total average turnover of that organisation calculated in accordance with Article 9.",
+      "mk1": "(в)\tвкупниот износ на периодичните парични казни изречени на призната организација во согласност со член 7(1) и акумулирани онолку долго колку што едно превентивно или корективно дејство не се преземало не смее да надминува 5% од вкупниот просечен промет на таа организација пресметан во согласност со член 9.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 89,
+      "en": "Without prejudice to Article 21, recovery by the Commission of the periodic penalty payments shall not exceed the 5 % ceiling.",
+      "mk1": "Без да е во спротивност на член 21, наплатата од страна на Комисијата на периодичните парични казни не треба да надминува лимит од 5%.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 90,
+      "en": "Calculation of turnover",
+      "mk1": "Пресметка на промет",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 91,
+      "en": "For the purposes of this Regulation the total average turnover of the recognised organisation concerned shall be one third of the amount obtained by adding, over the three business years preceding the Commission's decision, the aggregate turnover of the parent entity holding the recognition and all legal entities which are encompassed in that recognition at the end of each year.",
+      "mk1": "За целите на оваа регулатива, вкупниот просечен промет на признатата организација е една третина од износот добиен со додавање, во текот на трите деловни години пред одлуката на Комисијата, на вкупниот промет на матичниот субјект кој го поседува признавањето и сите правни субјекти кои се опфатени во тоа признание на крајот на секоја година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 92,
+      "en": "In the case of a group with certified consolidated accounts, the turnover referred to in paragraph 1 shall be, as regards the parent entity and all legal entities included in that group which are encompassed in the recognition at the end of each business year, the consolidated revenue of those entities.",
+      "mk1": "Во случај на група со потврдени консолидирани сметки, прометот наведен во став 1, во однос на матичниот субјект и сите правни субјекти вклучени во таа група кои се опфатени во признавањето на крајот на секоја деловна година, е консолидираниот приход на овие компании.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 93,
+      "en": "In the application of paragraphs 1 and 2 only the activities falling under the scope of Regulation (EC) No 391/2009 shall be taken into account.",
+      "mk1": "При примената на ставовите 1 и 2 се земаат предвид само активностите кои спаѓаат во рамките на Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 94,
+      "en": "CHAPTER III",
+      "mk1": "ПОГЛАВЈЕ III",
+      "status": "UNMATCHED",
+      "target": "ПОВЛЕКУВ",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 95,
+      "en": "WITHDRAWAL OF RECOGNITION",
+      "mk1": "ПОВЛЕКУВАЊЕ НА ПРИЗНАВАЊЕТО",
+      "status": "REVIEW",
+      "target": "АЊЕ НА ПРИЗНАВАЊЕТО",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 95,
+      "en": "WITHDRAWAL OF RECOGNITION",
+      "mk1": "ПОВЛЕКУВАЊЕ НА ПРИЗНАВАЊЕТО",
+      "status": "UNMATCHED",
+      "target": "Член 10 Повлекување на пр",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 96,
+      "en": "Withdrawal of recognition",
+      "mk1": "Повлекување на признавањето",
+      "status": "UNMATCHED",
+      "target": "изнавањето 1.По сопствена",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 97,
+      "en": "Upon its own initiative or at the request of a Member State, the Commission may adopt a decision to withdraw the recognition of an organisation, in the cases referred to in Article 7(1) points (a) to (e) of Regulation (EC) No 391/2009.",
+      "mk1": "По сопствена иницијатива или на барање на една земја членка, Комисијата може да донесе одлука за повлекување на признавањето на една организација, во случаите наведени во член 7(1) точки (а) до (д) од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "HIGH",
+      "target": "иницијатива или на барање на една земја членка, Комисијата може да донесе одлука за повлекување на признавањето на една организација, во случаите наведени во член 7(1) точки (а) до (д) од Регулативата (ЕЗ) бр. 391/2009.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 96,
+      "en": "Withdrawal of recognition",
+      "mk1": "Повлекување на признавањето",
+      "status": "UNMATCHED",
+      "target": "2.За да се ут",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 97,
+      "en": "Upon its own initiative or at the request of a Member State, the Commission may adopt a decision to withdraw the recognition of an organisation, in the cases referred to in Article 7(1) points (a) to (e) of Regulation (EC) No 391/2009.",
+      "mk1": "По сопствена иницијатива или на барање на една земја членка, Комисијата може да донесе одлука за повлекување на признавањето на една организација, во случаите наведени во член 7(1) точки (а) до (д) од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "врди дали повторениот и сериозен неуспех претставува неприфатлива закана за безбедноста или животната средина",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 98,
+      "en": "In order to determine whether a repeated and serious failure constitutes an unacceptable threat to safety or the environment in accordance with Article 7(1)(a) and (b) of Regulation (EC) No 391/2009, the following elements shall be taken into account:",
+      "mk1": "За да се утврди дали повторениот и сериозен неуспех претставува неприфатлива закана за безбедноста или животната средина во согласност со член 7(1)(а) и (б) од Регулативата (ЕЗ) бр. 391/2009, се земаат предвид следните елементи:",
+      "status": "UNMATCHED",
+      "target": "во согласност со член 7(1)(а) и (б) од Регулативата (ЕЗ) бр. 391/2009, се земаат предвид следните елементи:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 97,
+      "en": "Upon its own initiative or at the request of a Member State, the Commission may adopt a decision to withdraw the recognition of an organisation, in the cases referred to in Article 7(1) points (a) to (e) of Regulation (EC) No 391/2009.",
+      "mk1": "По сопствена иницијатива или на барање на една земја членка, Комисијата може да донесе одлука за повлекување на признавањето на една организација, во случаите наведени во член 7(1) точки (а) до (д) од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 98,
+      "en": "In order to determine whether a repeated and serious failure constitutes an unacceptable threat to safety or the environment in accordance with Article 7(1)(a) and (b) of Regulation (EC) No 391/2009, the following elements shall be taken into account:",
+      "mk1": "За да се утврди дали повторениот и сериозен неуспех претставува неприфатлива закана за безбедноста или животната средина во согласност со член 7(1)(а) и (б) од Регулативата (ЕЗ) бр. 391/2009, се земаат предвид следните елементи:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 99,
+      "en": "(a)\tthe information and circumstances referred to in Article 7(2) of Regulation (EC) No 391/2009, particularly in light of the circumstances referred to in Articles 5 and 6 of this Regulation;",
+      "mk1": "(а)\tинформациите и околностите наведени во член 7(2) од Регулативата (ЕЗ) бр. 391/2009, особено во поглед на околностите наведени во членовите 5 и 6 од оваа регулатива;",
+      "status": "UNMATCHED",
+      "target": "3.Кога глобите и периодичните парични казни изречени врз признатата организација јаго достигнуваат максимална",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 100,
+      "en": "(b)\tthe criteria and, as the case may be, thresholds defined in Commission Decision 2009/491/EC.",
+      "mk1": "(б)\tкритериумите и, во зависност од случајот, праговите дефинирани во Одлуката 2009/491/EЗ на Комисијата.",
+      "status": "UNMATCHED",
+      "target": "та горна границаиот лимит утврдена во согласност со член 6(3) од Рег",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 101,
+      "en": "When fines and periodic penalty payments imposed on a recognised organisation reach the maximum ceiling established in accordance with Article 6(3) of Regulation (EC) No 391/2009 and appropriate corrective action has not been taken by the recognised organisation, the Commission may consider that these measures have not attained their objective of removing any potential threat to safety or the environment.",
+      "mk1": "Кога глобите и периодичните парични казни изречени врз признатата организација го достигнуваат максималниот лимит утврден во согласност со член 6(3) од Регулативата (ЕЗ) бр 391/2009 и не се преземени соодветни корективни мерки од страна на признатата организација, Комисијата може да смета дека овие мерки не ја постигнале својата цел за отстранување на потенцијална закана за безбедноста или животната средина.",
+      "status": "REVIEW",
+      "target": "улативата (ЕЗ) бр 391/2009 и не се преземени соодветни корективни мерки од страна на признатата организација, Комисијата може да смета дека овие мерки не ја постигнале својата цел за отстранување на каква било потенцијална закана за безбедноста или животната средина.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 100,
+      "en": "(b)\tthe criteria and, as the case may be, thresholds defined in Commission Decision 2009/491/EC.",
+      "mk1": "(б)\tкритериумите и, во зависност од случајот, праговите дефинирани во Одлуката 2009/491/EЗ на Комисијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 101,
+      "en": "When fines and periodic penalty payments imposed on a recognised organisation reach the maximum ceiling established in accordance with Article 6(3) of Regulation (EC) No 391/2009 and appropriate corrective action has not been taken by the recognised organisation, the Commission may consider that these measures have not attained their objective of removing any potential threat to safety or the environment.",
+      "mk1": "Кога глобите и периодичните парични казни изречени врз признатата организација го достигнуваат максималниот лимит утврден во согласност со член 6(3) од Регулативата (ЕЗ) бр 391/2009 и не се преземени соодветни корективни мерки од страна на признатата организација, Комисијата може да смета дека овие мерки не ја постигнале својата цел за отстранување на потенцијална закана за безбедноста или животната средина.",
+      "status": "UNMATCHED",
+      "target": "Постапка за повлекување на признавањето на барање на земја членка 1.Кога една земја членка бара од Комисијата да го повлече признавањето на една организација во соглас",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 102,
+      "en": "Procedure to withdraw recognition at the request of a Member State",
+      "mk1": "Постапка за повлекување на признавањето на барање на земја членка",
+      "status": "UNMATCHED",
+      "target": "ност со член 7(3) од Регул",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 103,
+      "en": "Where a Member State requests the Commission to withdraw the recognition of an organisation in accordance with Article 7(3) of Regulation (EC) No 391/2009, it shall address that request in writing to the Commission.",
+      "mk1": "Кога една земја членка бара од Комисијата да го повлече признавањето на една организација во согласност со член 7(3) од Регулативата (ЕЗ) бр. 391/2009, таа го доставува тоа барање во писмена форма до Комисијата.",
+      "status": "UNMATCHED",
+      "target": "ативата (ЕЗ) бр. 391/2009, таа го доставува тоа барање во писмена форма до Комисијата.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 102,
+      "en": "Procedure to withdraw recognition at the request of a Member State",
+      "mk1": "Постапка за повлекување на признавањето на барање на земја членка",
+      "status": "UNMATCHED",
+      "target": "2.Земјата членка-барател, ги објас",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 103,
+      "en": "Where a Member State requests the Commission to withdraw the recognition of an organisation in accordance with Article 7(3) of Regulation (EC) No 391/2009, it shall address that request in writing to the Commission.",
+      "mk1": "Кога една земја членка бара од Комисијата да го повлече признавањето на една организација во согласност со член 7(3) од Регулативата (ЕЗ) бр. 391/2009, таа го доставува тоа барање во писмена форма до Комисијата.",
+      "status": "UNMATCHED",
+      "target": "нува причините за нејзиното барање во детали и со упатување, како што е соодветно, на критериумите наведени во",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 104,
+      "en": "The requesting Member State shall explain the reasons for its request in full detail and by reference, as appropriate, to the criteria listed in Article 7(1) and the circumstances listed in Article 7(2) of Regulation (EC) No 391/2009, as well as the circumstances listed in paragraphs 2 and 3 of Article 10 of this Regulation.",
+      "mk1": "Земјата членка-барател, ги објаснува причините за нејзиното барање во детали и со упатување, како што е соодветно, на критериумите наведени во член 7(1) и околностите наведени во член 7(2) од Регулативата (ЕЗ) бр. 391/2009, како и околностите наведени во ставовите 2 и 3 од член 10 од оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "член 7(1) и околностите наведени во член 7(2) од Регулативата (ЕЗ) бр. 391/2009, како и околностите наведени во ставовите 2 и 3 од член 10 од оваа регулатива.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 103,
+      "en": "Where a Member State requests the Commission to withdraw the recognition of an organisation in accordance with Article 7(3) of Regulation (EC) No 391/2009, it shall address that request in writing to the Commission.",
+      "mk1": "Кога една земја членка бара од Комисијата да го повлече признавањето на една организација во согласност со член 7(3) од Регулативата (ЕЗ) бр. 391/2009, таа го доставува тоа барање во писмена форма до Комисијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 104,
+      "en": "The requesting Member State shall explain the reasons for its request in full detail and by reference, as appropriate, to the criteria listed in Article 7(1) and the circumstances listed in Article 7(2) of Regulation (EC) No 391/2009, as well as the circumstances listed in paragraphs 2 and 3 of Article 10 of this Regulation.",
+      "mk1": "Земјата членка-барател, ги објаснува причините за нејзиното барање во детали и со упатување, како што е соодветно, на критериумите наведени во член 7(1) и околностите наведени во член 7(2) од Регулативата (ЕЗ) бр. 391/2009, како и околностите наведени во ставовите 2 и 3 од член 10 од оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 105,
+      "en": "The requesting Member State shall provide the Commission with all necessary documentary evidence supporting its request, duly classified and numbered.",
+      "mk1": "Земјата членка-барател, ѝ ги обезбедува на Комисијата сите потребни документарни докази што го поддржуваат нејзиното барање, соодветно класифицирани и нумерирани.",
+      "status": "UNMATCHED",
+      "target": "5.Онаму каде што Комисијата смета дека се потребни дополнителни информации, појаснување или докази за да се донесе одлук",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 106,
+      "en": "The Commission shall acknowledge receipt of the Member State's request in writing.",
+      "mk1": "Комисијата го потврдува приемот на барањето на земјата членка во писмена форма.",
+      "status": "UNMATCHED",
+      "target": "а, таа ја известува земјата членка-барател и ја повикува да",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 107,
+      "en": "Where the Commission considers that additional information, clarification or evidence is necessary in order to take a decision, it shall inform the requesting Member State and invite it to supplement its submission as appropriate within a designated time limit, which shall not be less than four weeks.",
+      "mk1": "Онаму каде што Комисијата смета дека се потребни дополнителни информации, појаснување или докази за да се донесе одлука, таа ја известува земјата членка-барател и ја повикува да го дополни поднесокот како што е соодветно во определениот рок, што нема да биде пократок од четири недели.",
+      "status": "UNMATCHED",
+      "target": "го дополни поднесокот како што е соодветно во определениот рок, што нема да биде пократок од четири недели. Барањето на земјата членка нема да се смета за целосно додека не се обезбедат сите потребни информации.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 106,
+      "en": "The Commission shall acknowledge receipt of the Member State's request in writing.",
+      "mk1": "Комисијата го потврдува приемот на барањето на земјата членка во писмена форма.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 107,
+      "en": "Where the Commission considers that additional information, clarification or evidence is necessary in order to take a decision, it shall inform the requesting Member State and invite it to supplement its submission as appropriate within a designated time limit, which shall not be less than four weeks.",
+      "mk1": "Онаму каде што Комисијата смета дека се потребни дополнителни информации, појаснување или докази за да се донесе одлука, таа ја известува земјата членка-барател и ја повикува да го дополни поднесокот како што е соодветно во определениот рок, што нема да биде пократок од четири недели.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 108,
+      "en": "The Member State's request shall not be considered complete until all necessary information has been provided.",
+      "mk1": "Барањето на земјата членка нема да се смета за целосно додека не се обезбедат сите потребни информации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 109,
+      "en": "Within one year of receipt of a complete request, the Commission shall, if it concludes that the Member State's request is justified, address a statement of objections to the organisation concerned in accordance with Article 12, with a view to withdrawing its recognition in accordance with this Regulation.",
+      "mk1": "Во рок од една година од приемот на целосно барање, Комисијата, доколку заклучи дека барањето на земјата членка е оправдано, доставува изјава за прелиминарно утврдени факти до засегнатата организација во согласност со членот 12, со цел да го повлече своето признавање во согласност со оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 110,
+      "en": "In this case, the requesting Member State shall be granted the consideration and rights of a Member State concerned under Chapter IV of this Regulation.",
+      "mk1": "Во овој случај, земјата членка-барател добива надомест и права на засегната земја членка според Поглавје IV од оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 111,
+      "en": "If, within the same time limit, the Commission concludes that the Member State's request is unjustified, it shall inform the requesting Member State, stating the reasons thereof and inviting that to submit its observations within a designated time limit, which shall not be less than three months.",
+      "mk1": "Доколку, во истиот временски рок, Комисијата заклучи дека барањето на земјата членка е неоправдано, таа ја известува земјата членка-барател, наведувајќи ги причините за тоа и ја повикува земјата членка да ги поднесе своите забелешки во определен временски рок, што не смее да биде пократок од три месеци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 112,
+      "en": "Within six months of receipt of these observations, the Commission shall either confirm that the request is unjustified or issue a statement of objections in accordance with the first subparagraph.",
+      "mk1": "Во рок од шест месеци од приемот на овие забелешки, Комисијата или потврди дека барањето е неоправдано или доставува изјава за прелимирано утврдени факти во согласност со првиот потстав.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 113,
+      "en": "If the Commission concludes that the Member State's request is unjustified or that it remains incomplete after the expiry of the time limit referred to in paragraph 5, the Commission may choose to incorporate all or part of that request and its accompanying evidence into the assessment of the recognised organisation undertaken in accordance with Article 8 of Regulation (EC) No 391/2009.",
+      "mk1": "Ако Комисијата заклучи дека барањето на земјата членка е неоправдано или дека останува нецелосно по истекот на рокот од став 5, Комисијата може да избере да го вклучи целото или дел од тоа барање и нејзините придружни докази во проценувањето на признатата организација што го спроведува во согласност со член 8 од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 114,
+      "en": "CHAPTER IV",
+      "mk1": "ПОГЛАВЈЕ IV",
+      "status": "UNMATCHED",
+      "target": "Изјава",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 115,
+      "en": "COMMON PROVISIONS",
+      "mk1": "ОПШТИ ОДРЕДБИ",
+      "status": "UNMATCHED",
+      "target": "за прели",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 116,
+      "en": "Statement of objections",
+      "mk1": "Изјава за прелиминарно утврдени факти",
+      "status": "REVIEW",
+      "target": "минарно утврдени факти",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 115,
+      "en": "COMMON PROVISIONS",
+      "mk1": "ОПШТИ ОДРЕДБИ",
+      "status": "UNMATCHED",
+      "target": "1.Онаму каде",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 116,
+      "en": "Statement of objections",
+      "mk1": "Изјава за прелиминарно утврдени факти",
+      "status": "UNMATCHED",
+      "target": "што Комисијата смета дека постоја",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 117,
+      "en": "Where the Commission considers that there are grounds to impose a fine and periodic penalty payments on a recognised organisation in accordance with Article 6 of Regulation (EC) No 391/2009, or to withdraw an organisation's recognition in accordance with Article 7 of that Regulation, it shall address a statement of objections to the organisation and notify the Member States concerned.",
+      "mk1": "Онаму каде што Комисијата смета дека постојат основи за воведување на глоба и периодични парични казни на призната организација во согласност со член 6 од Регулативата (ЕЗ) бр. 391/2009, или за повлекување на признавањето на организацијата во согласност со член 7 од таа регулатива, таа се доставува изјава за прелиминарно утврдени факти до организацијата и ги известува заинтересираните земји членки.",
+      "status": "HIGH",
+      "target": "т основи за воведување на глоба и периодични парични казни на призната организација во согласност со член 6 од Регулативата (ЕЗ) бр. 391/2009, или за повлекување на признавањето на организацијата во согласност со член 7 од таа регулатива, таа се доставува изјава за прелиминарно утврдени факти до организацијата и ги известува заинтересираните засегнатите земји членки.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 116,
+      "en": "Statement of objections",
+      "mk1": "Изјава за прелиминарно утврдени факти",
+      "status": "REVIEW",
+      "target": "2.Изјавата за прелиминарно утврдени факти вклучува:",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 117,
+      "en": "Where the Commission considers that there are grounds to impose a fine and periodic penalty payments on a recognised organisation in accordance with Article 6 of Regulation (EC) No 391/2009, or to withdraw an organisation's recognition in accordance with Article 7 of that Regulation, it shall address a statement of objections to the organisation and notify the Member States concerned.",
+      "mk1": "Онаму каде што Комисијата смета дека постојат основи за воведување на глоба и периодични парични казни на призната организација во согласност со член 6 од Регулативата (ЕЗ) бр. 391/2009, или за повлекување на признавањето на организацијата во согласност со член 7 од таа регулатива, таа се доставува изјава за прелиминарно утврдени факти до организацијата и ги известува заинтересираните земји членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 118,
+      "en": "The statement of objections shall include:",
+      "mk1": "Изјавата за прелиминарно утврдени факти вклучува:",
+      "status": "UNMATCHED",
+      "target": "(б)идентификација на доказит",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 119,
+      "en": "(a)\ta detailed account of the recognised organisation's actions and omissions, including the description of the relevant facts and the identification of the provisions of Regulation (EC) No 391/2009, which the Commission considers to have been breached by the recognised organisation;",
+      "mk1": "(а)\tдетален извештај за активностите и пропустите на признатата организација, вклучувајќи опис на релевантните факти и идентификација на одредбите од Регулативата (ЕЗ) бр. 391/2009, за кои Комисијата смета дека се прекршени од страна на признатата организација;",
+      "status": "UNMATCHED",
+      "target": "е врз кои се базираат засноваат релевантните наоди, вклучително и во врска со извештаите за инспекција, извештаите за оценување проценка или кои било",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 120,
+      "en": "(b)\tan identification of the evidence on which the relevant findings are based, including by reference to inspection reports, assessment reports, or any other relevant documents which have been previously communicated to the organisation concerned by the Commission or by the European Maritime Safety Agency acting on the Commission's behalf;",
+      "mk1": "(б)\tидентификација на доказите врз кои се базираат релевантните наоди, вклучително и во врска со извештаите за инспекција, извештаите за оценување или кои било други релевантни документи кои претходно биле доставени до засегнатата организација од страна на Комисијата или од Европската агенција за поморска безбедност која делува во име на Комисијата;",
+      "status": "UNMATCHED",
+      "target": "други релевантни документи кои претходно биле доставени до засегнатата организација од страна на Комисијата или од Европската агенција за поморска безбедност која делува дејствува во име на Комисијата;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 119,
+      "en": "(a)\ta detailed account of the recognised organisation's actions and omissions, including the description of the relevant facts and the identification of the provisions of Regulation (EC) No 391/2009, which the Commission considers to have been breached by the recognised organisation;",
+      "mk1": "(а)\tдетален извештај за активностите и пропустите на признатата организација, вклучувајќи опис на релевантните факти и идентификација на одредбите од Регулативата (ЕЗ) бр. 391/2009, за кои Комисијата смета дека се прекршени од страна на признатата организација;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 120,
+      "en": "(b)\tan identification of the evidence on which the relevant findings are based, including by reference to inspection reports, assessment reports, or any other relevant documents which have been previously communicated to the organisation concerned by the Commission or by the European Maritime Safety Agency acting on the Commission's behalf;",
+      "mk1": "(б)\tидентификација на доказите врз кои се базираат релевантните наоди, вклучително и во врска со извештаите за инспекција, извештаите за оценување или кои било други релевантни документи кои претходно биле доставени до засегнатата организација од страна на Комисијата или од Европската агенција за поморска безбедност која делува во име на Комисијата;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 121,
+      "en": "(c)\ta notice that fines and periodic penalty payments or the withdrawal of recognition may be imposed by the Commission in accordance with Articles 6 or 7 of Regulation (EC) No 391/2009.",
+      "mk1": "(в)\tизвестувањето дека глобите и периодичните парични казни или повлекувањето на признавањето може да бидат изречени од страна на Комисијата во согласност со членовите 6 или 7 од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 122,
+      "en": "When notifying the statement of objections, the Commission shall invite the recognised organisation and the Member States concerned to submit written observations within a designated time limit, which shall not, in any event, be less than six weeks of the date of receipt of the statement of objections.",
+      "mk1": "Кога ќе ја достави изјавата за прелиминарно утврдени факти, Комисијата ја повикува признатата организација и засегнатите земји членки да поднесат писмени забелешки во определен временски рок, кои во секој случај нема да бидат помалку од шест недели од денот на приемот на изјавата за прелиминарно утврдени факти.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 123,
+      "en": "The Commission shall not be obliged to take into account submissions received after the expiry of that time limit, without prejudice to the provisions of Article 24 paragraph 4 of this Regulation.",
+      "mk1": "Комисијата нема да биде обврзана да ги земе предвид поднесоците поднесени по истекот на рокот, без да е во спротивност со одредбите на членот 24 став 4 од оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 124,
+      "en": "The notification of a statement of objections shall not suspend the assessment of the organisation concerned.",
+      "mk1": "Известувањето за изјава за прелиминарно утврдени факти нема да го суспендира проценувањето на засегнатата организација.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 125,
+      "en": "At any moment prior to the adoption of a decision to impose a fine and periodic penalty payments, or the withdrawal of recognition in accordance with this Regulation, the Commission may decide to carry out additional inspections of an organisation's offices and facilities, to visit ships certified by the organisation or to request the recognised organisation in writing to provide additional information relating to its compliance with the criteria and obligations under Regulation (EC) No 391/2009.",
+      "mk1": "Во секој момент пред донесувањето на одлуката за воведување на глоба и периодични парични казни, или повлекување на признавањето во согласност со оваа регулатива, Комисијата може да одлучи да спроведе дополнителни инспекции на канцелариите и објектите на организацијата, да ги посети бродовите сертифицирани од организацијата или да побара од признатата организација во писмена форма да обезбеди дополнителни информации во врска со нејзината усогласеност со критериумите и обврските според Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 126,
+      "en": "At any moment prior to the adoption of a decision to impose a fine and periodic penalty payments, or the withdrawal of recognition in accordance with this Regulation, the Commission may amend its assessment of the recognised organisation concerned.",
+      "mk1": "Во секој момент пред донесувањето на одлуката за воведување на глоба и периодични парични казни, или за повлекување на признавањето во согласност со оваа регулатива, Комисијата може да ја измени својата оценка на засегнатата организација.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 127,
+      "en": "If the new assessment is different to the assessment which gave rise to the statement of objections, because new facts have been discovered, or because new infringements or new circumstances concerning the seriousness of an infringement or its effects on safety and the environment have been identified, the Commission shall issue a new statement of objections.",
+      "mk1": "Ако новата проценка е различна од проценката што довела до изјавата за прелиминарно утврдените факти, бидејќи се откриени нови факти, или бидејќи се идентификувани нови прекршоци или нови околности во врска со сериозноста на повредата или нејзините ефекти врз безбедноста и животната средина, Комисијата издава нова изјава за прелиминарно утврдени факти.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 128,
+      "en": "Requests for information",
+      "mk1": "Барања за информации",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 129,
+      "en": "In order to clarify the facts for the purposes of Article 12, the Commission may request in writing the recognised organisation to provide written or oral explanations, or particulars or documents, within a designated time limit, which shall not, in any event, be less than 4 weeks.",
+      "mk1": "Со цел да се разјаснат фактите за целите на членот 12, Комисијата може да побара од призната организација да обезбеди писмени или усни објаснувања, или детали или документи, во рамките на одредениот временски рок, кој во секој случај не треба да биде пократок од 4 недели.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 130,
+      "en": "In such a case the Commission shall inform the recognised organisation of the periodic penalty payments and fines that may be imposed for failing to comply with the request or when incurring unjustified delays in the provision of information or providing deliberately incorrect, incomplete or misleading information to the Commission.",
+      "mk1": "Во таков случај, Комисијата треба да ја информира признатата организација за глобите и периодичните парични казни кои може да бидат изречени за неисполнување на барањето или кога се создаваат неоправдани одложувања во обезбедувањето на информации или обезбедување намерно неточни, нецелосни или погрешни информации до Комисијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 131,
+      "en": "Oral hearing",
+      "mk1": "Усно сослушување",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 132,
+      "en": "At the request of the recognised organisation to which a statement of objections has been addressed, the Commission shall offer that organisation the opportunity to present its arguments at an oral hearing.",
+      "mk1": "На барање на признатата организација на која е доставени изјава за прелиминарно утврдени факти, Комисијата ѝ нуди на организацијата можност своите аргументи да ги презентира на усно сослушување.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 133,
+      "en": "The Commission shall invite the competent authorities of Member States concerned, and may, on its own initiative or at the request of Member States concerned, invite any other persons with a legitimate interest in the infringements to take part in the oral hearing.",
+      "mk1": "Комисијата ги повикува надлежните органи на засегнатите земји членки и може, по сопствена иницијатива или на барање на засегнатите земји членки, да ги покани сите други лица со легитимен интерес за прекршоците да учествуваат во усното сослушување.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 134,
+      "en": "The Commission may choose to be assisted by the European Maritime Safety Agency.",
+      "mk1": "Комисијата може да избере да биде помогната од Европската агенција за поморска безбедност.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 135,
+      "en": "Natural or private legal persons invited to attend shall either appear in person or be represented by legal or authorised representatives.",
+      "mk1": "Физичките или приватните правни лица поканети да присуствуваат, присуствуваат лично или се застапувани од правни или овластени претставници.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 136,
+      "en": "Member States shall be represented by officials of that Member State.",
+      "mk1": "Земјите членки се застапувани од страна на официјални претставници на таа земја.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 137,
+      "en": "The oral hearing shall not be public.",
+      "mk1": "Усното сослушување не е јавно.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 138,
+      "en": "Each person invited to attend may be heard separately or in the presence of other persons invited to attend, having regard to the legitimate interest of the recognised organisation and other parties in the protection of their business secrets and other confidential information.",
+      "mk1": "Секое лице кое е повикано да присуствува може да се сослуша одделно или во присуство на други лица поканети да присуствуваат, имајќи го предвид легитимниот интерес на признатата организација и другите страни во заштитата на нивните деловни тајни и други доверливи информации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 139,
+      "en": "The statements made by each person heard shall be recorded.",
+      "mk1": "Сите изјави кои ќе бидат ислушани се снимаат.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 140,
+      "en": "Upon request, the recording of the hearing shall be made available to the persons who attended the hearing and to Member States concerned.",
+      "mk1": "По барање, снимањето на сослушувањето е достапно за сите кои присуствувале на сослушувањето и за засегнатите земји членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 141,
+      "en": "Periodic penalty payments for non-cooperation",
+      "mk1": "Периодични парични казни за несоработка",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 142,
+      "en": "Where the Commission intends to adopt a decision imposing periodic penalty payments as referred to in Article 7(1) to a recognised organisation that has failed to undertake or incurs unjustified delays in undertaking preventive and remedial action requested by the Commission, it shall first notify the recognised organisation in writing.",
+      "mk1": "Онаму каде што Комисијата има намера да донесе одлука со која ќе изрече периодични парични казни, како што е наведено во член 7(1) на призната организација која не презела или која прави неоправдани одложувања во преземањето превентивни и корективни активности побарани од Комисијата, прво ја известува признатата организација во писмена форма.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 143,
+      "en": "The notification by the Commission in accordance with paragraph 1 shall make reference to the specific preventive and remedial action that has not been undertaken by the recognised organisation and the supporting evidence, as well as inform the recognised organisation of the periodic penalty payments that are being considered by the Commission thereon.",
+      "mk1": "Известувањето од страна на Комисијата во согласност со став 1 упатува на специфичните превентивни и корективни дејства што не се преземени од страна на признатата организација и придружните докази, а исто така, ја информира признатата организација за периодичните парични казни кои се разгледуваат од страна на Комисијата за тоа.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 144,
+      "en": "The Commission shall set a time limit in which the recognised organisation may submit written observations to the Commission.",
+      "mk1": "Комисијата одредува временски рок во кој признатата организација може да поднесе писмени забелешки до Комисијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 145,
+      "en": "The Commission shall not be obliged to take into account written observations received after the expiry of the time limit.",
+      "mk1": "Комисијата не е обврзана да ги земе предвид писмените забелешки примени по истекот на рокот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 146,
+      "en": "Access to the file",
+      "mk1": "Пристап до досието",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 147,
+      "en": "At the request of the recognised organisation to which a statement of objections has been addressed, the Commission shall grant access to the file containing documents and other evidence compiled by the Commission on the alleged infringement.",
+      "mk1": "На барање на призната организација на која е упатена изјавата за прелиминарно утврдени факти, Комисијата дава пристап до досието кое содржи документи и други докази собрани од Комисијата за наводниот прекршок.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 148,
+      "en": "The Commission shall set the date and make the relevant practical arrangements for the recognised organisation's access to the file, which may be granted in electronic form only.",
+      "mk1": "Комисијата го одредува датумот и ги прави соодветните практични аранжмани за пристапот на организацијата до досието, кое може да се одобри само во електронска форма.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 149,
+      "en": "The Commission shall make available to the recognised organisation concerned, upon request, a list of all the documents contained in the file.",
+      "mk1": "По барање, Комисијата на засегнатата организација ѝ става на располагање листа на сите документи содржани во досието.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 150,
+      "en": "The recognised organisation concerned shall have the right to access the documents and information contained in the file.",
+      "mk1": "Засегнатата организација има право на пристап до документите и информациите содржани во досието.",
+      "status": "UNMATCHED",
+      "target": "Признатата организација има право на правно застапување во сите фази на постапката во согласност со оваа регулатива. Член 18",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 151,
+      "en": "When granting such access, the Commission shall have due regard to business secrets, confidential information or the internal character of documents issued by the Commission or the European Maritime Safety Agency.",
+      "mk1": "При доделувањето на таквиот пристап, Комисијата треба да ги има предвид деловните тајни, доверливите информации или внатрешниот карактер на документите издадени од Комисијата или Европската агенција за поморска безбедност.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 152,
+      "en": "For the purposes of paragraph 4, internal documents of the Commission and the European Maritime Safety Agency may include:",
+      "mk1": "За целите на став 4, внатрешните документи на Комисијата и на Европската агенција за поморска безбедност може да вклучуваат:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 153,
+      "en": "(a)\tdocuments or parts of documents pertaining to the internal deliberations of the Commission and its services and of the European Maritime Safety Agency, including the opinions and recommendations of the European Maritime Safety Agency addressed to the Commission;",
+      "mk1": "(а)\tдокументи или делови од документи кои се однесуваат на внатрешните работи на Комисијата и нејзините услуги и на Европската агенција за поморска безбедност, вклучувајќи ги и мислењата и препораките на Европската агенција за поморска безбедност до Комисијата;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 154,
+      "en": "(b)\tdocuments or parts of documents forming part of the correspondence between the Commission and the European Maritime Safety Agency or between the Commission and Member States.",
+      "mk1": "(б)\tдокументи или делови од документи кои се дел од преписката помеѓу Комисијата и Европската агенција за поморска безбедност или помеѓу Комисијата и земјите членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 155,
+      "en": "Legal representation",
+      "mk1": "Правно застапување",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 156,
+      "en": "The recognised organisation shall have the right to legal representation at all stages of the proceedings under this Regulation.",
+      "mk1": "Признатата организација има право на правно застапување во сите фази на постапката во согласност со оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 157,
+      "en": "Confidentiality, professional secrecy and the right to remain silent",
+      "mk1": "Доверливост, професионална тајна и право на молчење",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 158,
+      "en": "Proceedings under this Regulation shall be carried out subject to the principles of confidentiality and of professional secrecy.",
+      "mk1": "Постапките според оваа регулатива се вршат врз основа на принципите на доверливост и професионална тајност.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 159,
+      "en": "The Commission, the European Maritime Safety Agency, and the authorities of the Member States concerned, as well as their officials, servants and other persons working under their supervision shall not disclose information acquired or exchanged by them pursuant to this Regulation and of the kind covered by the obligation of professional secrecy and confidentiality.",
+      "mk1": "Европската агенција за поморска безбедност и надлежните органи на засегнатите земји членки, како и нивните службени претставници, службеници и други лица кои работат под нивна контрола, нема да откриваат информации стекнати или разменети од нивна страна во согласност со оваа регулатива и информации кои се опфатени со обврската за професионална тајност и доверливост.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 160,
+      "en": "Any recognised organisation or other person who submits information or observations pursuant to this Regulation shall clearly identify any material considered to be confidential, giving the reasons for it, and provide a separate non-confidential version by the date set by the Commission.",
+      "mk1": "Секоја призната организација или друго лице кое поднесува информации или забелешки во согласност со оваа регулатива јасно ги идентификува сите материјали за кои се смета дека се доверливи, давајќи ги причините за тоа и обезбедува посебна верзија која не содржи доверливи материјали до датумот утврден од Комисијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 161,
+      "en": "The Commission may also require recognised organisations and other interested parties to identify any part of a report, of the statement of objections or of a decision by the Commission, which in their view contains business secrets.",
+      "mk1": "Комисијата, исто така, може да бара од признатите организации и други заинтересирани страни да посочат кој било дел од извештајот, на изјавата на приговори или на одлука на Комисијата, која според нив содржи деловни тајни.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 162,
+      "en": "In the absence of the identification referred to in paragraphs 3 and 4, the Commission may assume that the documents or observations concerned do not contain confidential information.",
+      "mk1": "Во отсуство на такво посочување наведено во ставовите 3 и 4, Комисијата може да претпостави дека засегнатите документи или забелешки не содржат доверливи информации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 163,
+      "en": "Without prejudice to Article 9 of Regulation (EC) No 391/2009, recognised organisations shall have the right to remain silent in situations where it would otherwise be compelled to provide answers which might involve an admission on their part of the existence of a breach.",
+      "mk1": "Без да е во спротивност на член 9 од Регулативата (ЕЗ) бр. 391/2009, признатите организации имаат право да молчат во ситуации каде што инаку би биле принудени да дадат одговори кои би можеле да вклучат нивно признание за постоењето на прекршокот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 164,
+      "en": "Decision",
+      "mk1": "Одлука",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 165,
+      "en": "A decision to impose fines, periodic penalty payments, or the withdrawal of recognition in accordance with this Regulation shall be based exclusively on the grounds on which the recognised organisation concerned has been able to submit its observations.",
+      "mk1": "Одлуката за изрекување глоби, периодични парични казни или одземањето на признавањето во согласност со оваа регулатива се заснова исклучиво врз причините за кои засегнатата организација е во можност да даде свои согледувања.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 166,
+      "en": "The decision to impose a fine or a periodic penalty payment and the determination of the appropriate amount shall take into account the principles of effectiveness, proportionality and dissuasiveness.",
+      "mk1": "Одлуката да се изрече глоба или периодична парична казна и за определување на соодветен износ ги зема предвид принципите на ефективност, пропорционалност и одвартување.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 167,
+      "en": "When taking measures in accordance with this Regulation and deciding on the seriousness and effect of the relevant actions or omissions on safety and the environment the Commission shall take into account national measures already taken on the basis of the same facts against the recognised organisation concerned, in particular where that organisation has already been subject to judicial or enforcement proceedings.",
+      "mk1": "При преземање на мерки во согласност со оваа регулатива и одлучување за сериозноста и ефектот на релевантните активности или пропусти за безбедноста и животната средина, Комисијата ги зема предвид националните мерки кои веќе се преземени врз основа на истите факти против засегнатата организација, особено кога таа организација веќе била предмет на судска или извршна постапка.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 168,
+      "en": "Actions or omissions of a recognised organisation on the basis of which measures have been taken in accordance with this Regulation shall not be subject to further measures.",
+      "mk1": "Дејствата или пропустите на признатата организација врз основа на кои се преземени мерки во согласност со оваа регулатива нема да подлежат на дополнителни мерки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 169,
+      "en": "However, these actions or omissions may be taken into account in subsequent decisions adopted in accordance with this Regulation in order to assess recurrence.",
+      "mk1": "Сепак, овие дејства или пропусти може да се земат предвид при последователните одлуки донесени во согласност со оваа регулатива со цел да се процени повторувањето.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 170,
+      "en": "A decision to impose periodic penalty payments or a decision imposing fines and periodic penalty payments shall be adopted by the Commission in accordance with the procedure applicable pursuant to Article 12(2) of Regulation (EC) No 391/2009.",
+      "mk1": "Одлуката за изрекување периодични парични казни или одлука за изрекување на глоби и периодични парични казни се носи од страна на Комисијата во согласност со постапката применлива според член 12(2) од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 171,
+      "en": "A decision to withdraw the recognition of a recognised organisation shall be adopted by the Commission in accordance with the procedure applicable pursuant to Article 12(3) of Regulation (EC) No 391/2009.",
+      "mk1": "Одлуката за повлекување на признавањето на призната организација се донесува од страна на Комисијата во согласност со постапката применлива според член 12(3) од Регулативата (ЕЗ) бр. 391/2009.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 172,
+      "en": "Judicial remedies, notification and publication",
+      "mk1": "Правни лекови, известување и објавување",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 173,
+      "en": "The Commission shall inform the recognised organisation concerned of the judicial remedies available to it.",
+      "mk1": "Комисијата треба да ја информира засегната призната организација за правните лекови кои ѝ се на располагање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 174,
+      "en": "The Commission shall notify its decision to the European Maritime Safety Agency and to the Member States for information.",
+      "mk1": "Комисијата треба да ја достави својата одлука до Европската агенција за поморска безбедност и до земјите членки за да ги извести.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 175,
+      "en": "When justified, in particular on grounds of safety or protection of the environment, the Commission may make its decision public.",
+      "mk1": "Кога е оправдано, особено заради безбедноста или заштитата на животната средина, Комисијата може да ја донесе својата одлука јавно.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 176,
+      "en": "When publishing details of its decision or informing the Member States, the Commission shall have regard to the legitimate interests of the recognised organisation concerned and other interested persons.",
+      "mk1": "При објавувањето на детали за својата одлука или известување на земјите членки, Комисијата ги зема предвид легитимните интереси на засегнатата организација и другите заинтересирани лица.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 177,
+      "en": "Recovery of fines and penalty payments",
+      "mk1": "Наплата на глобите и паричните казни",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 178,
+      "en": "The Commission shall proceed with the recovery of the fines and the penalty payments by establishing a recovery order and issuing a debit note addressed to the recognised organisation concerned in accordance with Articles 78 to 80 and 83 of Regulation (EU, Euratom) No 966/2012 of the European Parliament and of the Council and Articles 80 to 92 of Commission Delegated Regulation (EU) No 1268/2012.",
+      "mk1": "Комисијата пристапува кон наплата на глобите и на паричните казни со утврдување на редослед на наплати и издава известување за теретење до засегнатата призната организација во согласност со членовите од 78 до 80 и 83 од Регулативата (ЕУ, Евроатом) бр. 966/2012 на Европскиот парламент и на Советот и со членовите од 80 до 92 од Делегираната регулатива (ЕУ) бр 1268/2012.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 179,
+      "en": "OJ L 298, 26.10.2012, p. 1.",
+      "mk1": "Сл. весник L 298, 26.10.2012 година, стр. 1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 180,
+      "en": "OJ L 362, 31.12.2012, p. 1.",
+      "mk1": "Сл. весник L 362, 31.12.2012 година, стр. 1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 181,
+      "en": "Limitation periods for the imposition of fines and periodic penalty payments",
+      "mk1": "Периоди на ограничување за изрекување на глоби и периодични парични казни",
+      "status": "REVIEW",
+      "target": "Член 23 Периоди на ограничување за наплата на глоби и периодични парични казни",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 182,
+      "en": "The right of the Commission to impose fines and/or periodic penalty payments to a recognised organisation in accordance with this Regulation shall expire after five years from the date when the action or omission of the recognised organisation giving rise to an infringement identified in accordance with Article 3 of this Regulation was committed.",
+      "mk1": "Правото на Комисијата да изрече глоби и/или периодични парични казни на призната организација во согласност со оваа регулатива истекува по пет години од денот на извршување на дејството или пропустот на призната организација што довело до прекршокот утврден во согласност со член 3 од оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 183,
+      "en": "However, in case of continuing or repeated actions or omissions giving rise to an infringement, time shall begin to run on the day on which the action or omission ceases.",
+      "mk1": "Сепак, во случај на континуирани или повторени дејства или пропусти кои доведуваат до прекршок, времето почнува да тече на денот на кој прстанува дејството или пропустот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 184,
+      "en": "The right of the Commission to impose periodic penalty payments to a recognised organisation in accordance with Article 15 of this Regulation shall expire after three years from the date when the action or omission of the recognised organisation, for which the Commission requested appropriate preventive and remedial action, was committed.",
+      "mk1": "Правото на Комисијата да изрекува периодични парични казни на призната организација во согласност со член 15 од оваа регулатива истекува по три години од датумот кога е извршено дејството или пропустот на идентификуваната организација, за што Комисијата побарала соодветно превентивно и корективно дејство.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 185,
+      "en": "Any action taken by the Commission or the European Maritime Safety Agency for the purpose of the assessment or the infringement procedure in relation to an action or omission of the recognised organisation shall interrupt the relevant limitation period established under paragraph 1.",
+      "mk1": "Секое дејство преземено од страна на Комисијата или од Европската агенција за поморска безбедност за целите на проценката или прекршочната постапка во врска со дејство или пропуст на призната организација го прекинува релевантниот период на ограничување утврден во став 1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 186,
+      "en": "The limitation period shall be interrupted with effect from the date on which the action of the Commission or the Agency is notified to the recognised organisation.",
+      "mk1": "Периодот на ограничување се прекинува со важност од денот на кој дејството на Комисијата или Агенцијата се комуницирани до организацијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 187,
+      "en": "Each interruption shall start time running afresh.",
+      "mk1": "По секој прекин времето почнува да тече одново.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 188,
+      "en": "The limitation period shall, however, not exceed a period equal to twice the initial limitation period, except where limitation is suspended pursuant to paragraph 4.",
+      "mk1": "Сепак, периодот на ограничување не смее да надмине период еднаков на два пати од првичниот период на ограничување, освен кога ограничувањето е суспендирано во согласност со точката 4.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 189,
+      "en": "The limitation period for the imposition of periodic penalty payments shall be suspended for as long as the decision of the Commission is the subject of proceedings pending before the Court of Justice of the European Union.",
+      "mk1": "Периодот за ограничување за изрекување на периодичните парични казни се суспендира сѐ додека одлуката на Комисијата подлежи на судска постапка пред Судот на правдата на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 190,
+      "en": "Limitation periods for the collection of fines and periodic penalty payments",
+      "mk1": "Периоди на ограничување за наплата на глоби и периодични парични казни",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 191,
+      "en": "The right to start a recovery procedure for fines and/or periodic penalty payments shall expire one year after the Decision pursuant to Article 19 has become final.",
+      "mk1": "Правото да се започне постапка за наплата на глоби и/или периодични парични истекува една година откако одлуката во согласност со член 19 ќе стане конечна.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 192,
+      "en": "The limitation period referred to in paragraph 1 shall be interrupted by any action of the Commission or of a Member State acting at the request of the Commission, aimed at enforcing payment of the fines and/or periodic penalty payments.",
+      "mk1": "Периодот на ограничување наведен во ставот 1 се прекинува од страна на кое било дејство на Комисијата или на земја членка што дејствува на барање на Комисијата, со цел да се спроведе наплата на глобата и/или на периодичните парични казни.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 193,
+      "en": "The limitation periods referred to in paragraphs1 and 2 shall be suspended for as long as:",
+      "mk1": "Периодите на ограничување наведени во ставовите 1 и 2 година се суспендираат сé додека:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 194,
+      "en": "(a)\ttime to pay is allowed;",
+      "mk1": "(а)\tвремето на плаќање е дозволено;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 195,
+      "en": "(b)\tenforcement of payment is suspended pursuant to a decision of the Court of Justice of the European Union.",
+      "mk1": "(б)\tизвршувањето на плаќањето е прекинато во согласност со одлуката на Судот на правдата на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 196,
+      "en": "Application of time limits",
+      "mk1": "Примена на временските ограничувања",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 197,
+      "en": "The time limits laid down in this Regulation shall run from the day following receipt of the Commission's communication or delivery thereof by hand.",
+      "mk1": "Временските ограничувања утврдени во оваа регулатива почнуваат од денот по приемот на комуникацијата на Комисијата или нејзиното доставување на рака.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 198,
+      "en": "In the case of a communication addressed to the Commission, the relevant time limits shall be deemed to have been met when that communication has been dispatched by registered post before the relevant time limit expires.",
+      "mk1": "Во случај на комуникација упатена до Комисијата, соодветните временски ограничувања се сметаат за исполнети кога таа комуникација е испратена како препорачано писмо пред истекот на релевантниот временски рок.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 199,
+      "en": "In setting the time limits, the Commission shall have regard both to due process rights and the specific circumstances of each decision-making procedure under this Regulation.",
+      "mk1": "Во поставувањето на роковите, Комисијата ги има предвид и процесните права и специфичните околности на секоја постапка за донесување одлуки според оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 200,
+      "en": "Where appropriate and upon reasoned request made before the expiry of the original time limit, time limits may be extended.",
+      "mk1": "Кога е соодветно и по образложено барање направено пред истекот на првичното временско органичување, може да се продолжат временските ограничувања.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 201,
+      "en": "Cooperation with national competent authorities",
+      "mk1": "Соработка со надлежните органи",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 202,
+      "en": "Information provided by the national competent authorities in response to a request from the Commission shall be used by the Commission only for the following purposes:",
+      "mk1": "Информациите обезбедени од страна на националните надлежни органи како одговор на барањето од Комисијата се користат од страна на Комисијата само за следните цели:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 203,
+      "en": "(a)\tto carry out the tasks entrusted to it for the recognition and supervision of recognised organisations under Regulation (EC) No 391/2009;",
+      "mk1": "(а)\tза извршување на задачите кои ѝ се доверени за признавање и надзор на признати организации според Регулативата (ЕЗ) бр, 391/2009;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 204,
+      "en": "(b)\tas evidence for the purposes of decision-making under this Regulation, without prejudice to Articles 16 and 18 of this Regulation.",
+      "mk1": "(б)\tкако доказ за целите на донесување одлуки според оваа регулатива, без да се во спротивност на членовите 16 и 18 од оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 205,
+      "en": "CHAPTER V",
+      "mk1": "ПОГЛАВЈЕ V",
+      "status": "UNMATCHED",
+      "target": "ЗАВРШНИ ОД",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 206,
+      "en": "FINAL PROVISIONS",
+      "mk1": "ЗАВРШНИ ОДРЕДБИ",
+      "status": "UNMATCHED",
+      "target": "РЕДБИ Член 26 П",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 207,
+      "en": "Application",
+      "mk1": "Примена",
+      "status": "HIGH",
+      "target": "римена",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 206,
+      "en": "FINAL PROVISIONS",
+      "mk1": "ЗАВРШНИ ОДРЕДБИ",
+      "status": "UNMATCHED",
+      "target": "Настаните кои",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 207,
+      "en": "Application",
+      "mk1": "Примена",
+      "status": "UNMATCHED",
+      "target": "се слу",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 208,
+      "en": "Events which occurred before the date of entry into force of Regulation (EC) No 391/2009 shall not give rise to any measures in accordance with this Regulation.",
+      "mk1": "Настаните кои се случиле пред датумот на влегување во сила на Регулативата (ЕЗ) бр. 391/2009 нема да доведат до донесување на мерки во согласност со оваа регулатива.",
+      "status": "REVIEW",
+      "target": "чиле пред датумот на влегување во сила на Регулативата (ЕЗ) бр. 391/2009 нема да доведат до донесување на мерки во согласност со оваа регулатива. Член 27",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 207,
+      "en": "Application",
+      "mk1": "Примена",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 208,
+      "en": "Events which occurred before the date of entry into force of Regulation (EC) No 391/2009 shall not give rise to any measures in accordance with this Regulation.",
+      "mk1": "Настаните кои се случиле пред датумот на влегување во сила на Регулативата (ЕЗ) бр. 391/2009 нема да доведат до донесување на мерки во согласност со оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "Оваа регулатива влегува во сила на дваесеттиот ден од денот на нејз",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 209,
+      "en": "Entry into force",
+      "mk1": "Влегување во сила",
+      "status": "UNMATCHED",
+      "target": "иното о",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 210,
+      "en": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила на дваесеттиот ден од денот на нејзиното објавувањево Службениот весник на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "бјавување во Службениот весник на Европската Унија.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 209,
+      "en": "Entry into force",
+      "mk1": "Влегување во сила",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 210,
+      "en": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила на дваесеттиот ден од денот на нејзиното објавувањево Службениот весник на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 211,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "mk1": "Оваа регулатива е целосно обврзувачка и директно применлива во сите земји членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 212,
+      "en": "Done at Brussels, 18 July 2014.",
+      "mk1": "Брисел, 18 јули 2014 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 213,
+      "en": "For the Commission",
+      "mk1": "За Комисијата",
+      "status": "UNMATCHED",
+      "target": "Жозе М",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 214,
+      "en": "The President",
+      "mk1": "Претседател",
+      "status": "UNMATCHED",
+      "target": "ануел",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 215,
+      "en": "José Manuel BARROSO",
+      "mk1": "Жозе Мануел БАРОСО",
+      "status": "UNMATCHED",
+      "target": "БАРОСО “",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 214,
+      "en": "The President",
+      "mk1": "Претседател",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 215,
+      "en": "José Manuel BARROSO",
+      "mk1": "Жозе Мануел БАРОСО",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 216,
+      "en": "’",
+      "mk1": "“",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 217,
+      "en": "The Commission shall report yearly to the COSS on the requests for withdrawal submitted by the Member States as well as the on-going withdrawal procedures initiated by the Commission.",
+      "mk1": "Комисијата поднесува годишни извештаи до Комитетот за безбедно море за барањата за повлекување поднесени од страна на земјите членки, како и за тековните постапките за повлекување иницирани од Комисијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    }
+  ],
+  "accepted_indices": [
+    1,
+    2,
+    3,
+    34,
+    37,
+    38,
+    42,
+    97,
+    117,
+    207
+  ]
+}

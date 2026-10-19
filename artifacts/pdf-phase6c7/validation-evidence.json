@@ -1,0 +1,98 @@
+{
+  "phase": "6C.7",
+  "classification": "PARTIAL",
+  "paid_model_calls_executed": true,
+  "controlled_run_failure": {
+    "request_key": "phase6c7-controlled-32006l0114-v1",
+    "derived_idempotency_key": "mk1-injection:19a6bccb1df238fa5242e1f52d366fd89451eaf991daccfce71930029fee32bb",
+    "generation_id": "1ccd6fd8-c75e-4515-84c5-5e7511f64297",
+    "status": "failed",
+    "validation_status": null,
+    "created_at": "2026-10-12T08:17:41.809Z",
+    "started_at": "2026-10-12T08:17:43.110Z",
+    "completed_at": "2026-10-12T08:20:48.776Z",
+    "failure_stage": "first OpenAI batch request, after authoritative input binding/readback and before MK1 run persistence",
+    "error_code": "canonical_mk1_failed",
+    "provider_status": 429,
+    "provider_error_code": "credit_balance_exhausted",
+    "model_calls_attempted": 1,
+    "model_calls_completed": 0,
+    "persisted_batches": 0,
+    "persisted_translation_units": 0,
+    "output_artifacts": 0,
+    "billable_usage_evidence": false
+  },
+  "prepared_recovery_run": {
+    "request_key": "phase6c7-controlled-32006l0114-v2-cost-bounded",
+    "producer_version": "canonical-mk1-phase6c7-v2-cost-bounded",
+    "model": "gpt-5.6",
+    "reasoning_effort": "high",
+    "batch_size": 10,
+    "maximum_requests": 27,
+    "max_output_tokens_per_request": 4000,
+    "max_aggregate_output_tokens": 108000,
+    "expected_cost_usd_range": [0.24, 0.72],
+    "conservative_application_run_ceiling_usd": 2.56,
+    "executed": false
+  },
+  "prepared_recovery_v3": {
+    "request_key": "phase6c7-controlled-32006l0114-v3-inline-code-preflight",
+    "producer_version": "canonical-mk1-phase6c7-v3-inline-code-preflight",
+    "model": "gpt-5.6",
+    "reasoning_effort": "high",
+    "batch_size": 10,
+    "maximum_requests": 27,
+    "max_output_tokens_per_request": 4000,
+    "max_aggregate_output_tokens": 108000,
+    "expected_cost_usd_range": [0.24, 0.72],
+    "conservative_application_run_ceiling_usd": 2.56,
+    "executed": false,
+    "deterministic_preflight": {
+      "translation_units": 265,
+      "protected_codes": 3,
+      "literal_line_break_codes": 3,
+      "status": "PASS"
+    },
+    "original_sdlxliff_and_skeleton_preserved": true
+  },
+  "inline_code_failure": {
+    "generation_id": "ad3a8f31-663d-460a-af31-e0fc8c985db3",
+    "status": "failed",
+    "failure_stage": "SDLXLIFF target serialization after all provider batches and before persistence",
+    "model_calls_inferred_completed_from_execution_order": 27,
+    "persisted_batch_usage": null,
+    "persisted_translations": 0,
+    "output_artifacts": 0,
+    "failing_tu": "tu-1d6b6715f26ec06e48647069",
+    "root_cause": "Canonical line-break code mapped to a literal Studio newline, while the renderer required an x tag.",
+    "all_unit_preflight": { "units": 265, "protected_codes": 3, "literal_line_break_codes": 3, "status": "PASS" },
+    "fix_version": "canonical-mk1-phase6c7-v3-inline-code-preflight"
+  },
+  "migration": {
+    "name": "20261026000000_canonical_mk1.sql",
+    "deployed": true
+  },
+  "controlled_inputs": {
+    "celex": "32006L0114",
+    "canonical_snapshot_id": "d57fdd35-3b79-4f3a-b20a-3cfaf9941225",
+    "cat_projection_id": "768370ee-4c55-4fe4-9f6c-4b44921904b8",
+    "sdlxliff_artifact_id": "9b2bc2fa-99ad-464d-b905-1dacf790de7a",
+    "validated_docx_artifact_id": "b0e8fec5-91c8-4755-87a4-ff8f6dd8d307",
+    "expected_translation_units": 265,
+    "expected_excluded_page_break_units": 6
+  },
+  "checks": {
+    "focused_node_tests": { "passed": 34, "failed": 0 },
+    "phase6c7_tests": { "passed": 10, "failed": 0 },
+    "typescript": "PASS",
+    "next_build_webpack": "PASS",
+    "next_build_turbopack": "BLOCKED_BY_PREEXISTING_ACCESS_DENIED_DOT_TMP_PYTEST_PHASE6A",
+    "eslint": "NOT_RUN_NO_ESLINT_9_FLAT_CONFIG",
+    "celex_shadow_orchestration": { "passed": 5, "failed": 0 },
+    "worker_focused_regressions": { "passed": 11, "failed": 0 },
+    "automatic_invocation": false,
+    "production_cutover": false
+  },
+  "remaining_gate": "The failed generation is preserved. After API credits are restored, a new generation requires an explicitly authorized new request key; resume is unsupported because no provider response or batch checkpoint completed."
+}
+

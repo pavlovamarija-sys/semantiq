@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "cases": {
+    "uploadFailure": "artifact marked failed; never available",
+    "databaseFailureAfterUpload": "verified object and uploading reservation retained; same reservation resumes and finalizes",
+    "hashMismatch": "artifact marked failed; no finalization",
+    "missingReadback": "artifact marked failed; no finalization",
+    "existingPathCollision": "upload fails with upsert=false; existing bytes unchanged",
+    "missingAvailableObject": "verified read fails closed"
+  }
+}

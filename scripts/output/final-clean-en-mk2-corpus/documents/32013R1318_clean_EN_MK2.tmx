@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210621T093248Z" creationid="DESKTOP-N790TCK\User">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">2</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32013R1318</prop>
+    <prop type="x-SourceTMX">32013R1318_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">d6206ab07740771669c3e05568cd457affd7d2d5a0603309e3696616d8c5bd1e</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">9</prop>
+  </header>
+  <body>
+    <tu creationdate="20210619T114143Z" creationid="DESKTOP-N790TCK\User" changedate="20210619T114143Z" changeid="DESKTOP-N790TCK\User" lastusagedate="20210619T114143Z">
+      <prop type="x-LastUsedBy">DESKTOP-N790TCK\User</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>REGULATION (EU) No 1318/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) бр. 1318/2013 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1318</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210619T114149Z" creationid="DESKTOP-N790TCK\User" changedate="20210619T114149Z" changeid="DESKTOP-N790TCK\User" lastusagedate="20210619T114149Z">
+      <prop type="x-LastUsedBy">DESKTOP-N790TCK\User</prop>
+      <prop type="x-Context">-1836507622456451695, 9081416694701093313</prop>
+      <prop type="x-ContextContent">REGULATION (EU) No 1318/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL |  | РЕГУЛАТИВА (ЕУ) бр.1318/2013 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 22 October 2013</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 22 октомври 2013 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1318</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210619T114151Z" creationid="DESKTOP-N790TCK\User" changedate="20210621T092233Z" changeid="DESKTOP-N790TCK\User" lastusagedate="20210621T092233Z">
+      <prop type="x-LastUsedBy">DESKTOP-N790TCK\User</prop>
+      <prop type="x-Context">3657596318, 1571690814086662633</prop>
+      <prop type="x-ContextContent">of 22 October 2013 |  | од 22 октомври 2013 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>amending Council Regulation (EC) No 1217/2009 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Community</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за изменување на Регулативата (ЕЗ) бр. 1217/2009 на Советот за воспоставување систем мрежа за собирање сметководствени податоци за приходите и деловните деловното активности работење на земјоделските стопанства во Европската з</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1318</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210619T122454Z" creationid="DESKTOP-N790TCK\User" changedate="20210619T122454Z" changeid="DESKTOP-N790TCK\User" lastusagedate="20210619T122454Z">
+      <prop type="x-LastUsedBy">DESKTOP-N790TCK\User</prop>
+      <prop type="x-Context">8741063939994623202, -8005477478047868605</prop>
+      <prop type="x-ContextContent">amending Council Regulation (EC) No 1217/2009 setting up a network for the collection of accountancy data on the incomes and business operation of agricultural holdings in the European Community |  | за изменување на Регулатива (ЕЗ) бр. 1217/2009 на Советот за воспоставување систем за собирање сметководствени податоци за приходите и деловните активности на земјоделските стопанства во Европската заедница | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>аедница ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИ</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1318</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210619T122439Z" creationid="DESKTOP-N790TCK\User" changedate="20210620T203824Z" changeid="DESKTOP-N790TCK\User" lastusagedate="20210620T203824Z">
+      <prop type="x-LastUsedBy">DESKTOP-N790TCK\User</prop>
+      <prop type="x-Context">-7124098552985558198, -4614663339850189355</prop>
+      <prop type="x-ContextContent">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, |  | ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43(2) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЈА, имајќи го предвид Договорот за функционирање на Европската Унија, а особено член 43(2) од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1318</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210619T122436Z" creationid="DESKTOP-N790TCK\User" changedate="20210620T203829Z" changeid="DESKTOP-N790TCK\User" lastusagedate="20210620T203829Z">
+      <prop type="x-LastUsedBy">DESKTOP-N790TCK\User</prop>
+      <prop type="x-Context">-8229639682514783868, 7521268964597011145</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 43(2) thereof, |  | имајќи го предвид Договорот за функционирање на Европската Унија, а особено 43(2) од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1318</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210619T122433Z" creationid="DESKTOP-N790TCK\User" changedate="20210619T122433Z" changeid="DESKTOP-N790TCK\User" lastusagedate="20210619T122433Z">
+      <prop type="x-LastUsedBy">DESKTOP-N790TCK\User</prop>
+      <prop type="x-Context">-7799275716982960255, 363684144863454645</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the European Commission, |  | имајќи го предвид предлогот на Европската комисија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>After transmission of the draft legislative act to the national parliaments,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>по доставување на нацрт-законодавниот акт до националните парламенти,</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1318</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210619T122459Z" creationid="DESKTOP-N790TCK\User" changedate="20210620T203907Z" changeid="DESKTOP-N790TCK\User" lastusagedate="20210620T203907Z">
+      <prop type="x-LastUsedBy">DESKTOP-N790TCK\User</prop>
+      <prop type="x-Context">-8428148328744422, -1269320548716298125</prop>
+      <prop type="x-ContextContent">After transmission of the draft legislative act to the national parliaments, |  | по доставување на нацрт-законодавниот акт до националните парламенти, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the opinion of the European Economic and Social Committee<bpt i="1" type="32" /> (<ph x="1" type="89" />)<ept i="1" />,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид мислењето на Европскиот економско-социјален комитет (),</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1318</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210620T191312Z" creationid="DESKTOP-N790TCK\User" changedate="20210620T191312Z" changeid="DESKTOP-N790TCK\User" lastusagedate="20210620T191312Z">
+      <prop type="x-LastUsedBy">DESKTOP-N790TCK\User</prop>
+      <prop type="x-Context">104558575949853202, 141232705816</prop>
+      <prop type="x-ContextContent">M. SCHULZ |  | М. Шулз | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>V. LEŠKEVIČIUS</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>В. ЛЕШКЕВИЧИУС</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1318</prop>
+      <prop type="x-SourceTUIndex">165</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

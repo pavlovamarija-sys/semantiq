@@ -1,0 +1,1392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20221002T200643Z" creationid="DESKTOP-O174019\HP 2021">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">EN-MK</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021D0915</prop>
+    <prop type="x-SourceTMX">32021D0915_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">3bd395fe5b97a4a6aa7865c7582f062e51bf7f8e3ada9fd89f60517193035fa3</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">83</prop>
+  </header>
+  <body>
+    <tu creationdate="20221004T073226Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221004T073441Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T135231Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING DECISION (EU) 2021/915</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/915 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221004T073528Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221004T073639Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221004T073639Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-2025953009333593858, -3180939984022912543</prop>
+      <prop type="x-ContextContent">COMMISSION IMPLEMENTING DECISION (EU) 2021/915 |  | ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/915 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 4 June 2021</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>oд 4 јуни 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221004T073648Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221004T125304Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221004T125304Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">3657596318, -1554552087906049564</prop>
+      <prop type="x-ContextContent">of 4 June 2021 |  | oд 4 јуни 2021 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>on standard contractual clauses between controllers and processors under Article 28(7) of Regulation (EU) 2016/679 of the European Parliament and of the Council and Article 29(7) of Regulation (EU) 2018/1725 of the European Parliament and of the Council</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за стандардните договорни клаузули помеѓу контролорите и преработувачите согласно со член 28(7) од Регулативата (ЕУ) 2016/679 на Европскиот парламент и на Советот и член 29(7) од Регулативата (ЕУ) 2018/1725 на Европскиот парламент и на Советот</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221004T125902Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221004T125908Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221004T125908Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-4893336421937356350, -7273692532384448281</prop>
+      <prop type="x-ContextContent">amending Directive 2009/81/EC of the European Parliament and of the Council in respect of the thresholds for supply, service and works contracts |  | за изменување и дополнување на Директивата 2009/81/ЕЗ на Европскиот парламент и на Советот во однос на праговите за договори за набавка, услуги и работи | </prop>
+      <prop type="x-Context">1849362636073351125, -5140360056446303216</prop>
+      <prop type="x-ContextContent">on standard contractual clauses between controllers and processors under Article 28(7) of Regulation (EU) 2016/679 of the European Parliament and of the Council and Article 29(7) of Regulation (EU) 2018/1725 of the European Parliament and of the Council |  | за стандардните договорни клаузули помеѓу контролорите и преработувачите согласно со член 28(7) од Регулативата (ЕУ) 2016/679 на Европскиот парламент и на Советот и член 29(7) од Регулативата (ЕУ) 2018/1725 на Европскиот парламент и на Советот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Text with EEA relevance)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Текст со важност за ЕЕО)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T083917Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T084054Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T110505Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">6451808141391308451, 4236527515880034</prop>
+      <prop type="x-ContextContent">The President |  | Претседател | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Ursula VON DER LEYEN</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Урсула ФОН ДЕР ЛАЈЕН</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">50</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T084055Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T084057Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T084057Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">4924820739758521657, 7588547198337427763</prop>
+      <prop type="x-ContextContent">Ursula VON DER LEYEN |  | Урсула ФОН ДЕР ЛАЈЕН | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">51</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T085009Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T085010Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T085010Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">112932449316, 4573421134</prop>
+      <prop type="x-ContextContent">ANNEX |  | АНЕКС | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Standard contractual clauses</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Стандардни договорни клаузули</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">52</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T085059Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T085104Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T085104Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-3524630825511508521, -4889998663260871081</prop>
+      <prop type="x-ContextContent">Standard contractual clauses |  | Стандардни договорни клаузули | AgIAAQEAAQRCb2xkAR0CAQEEQm9sZAE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>SECTION I</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДЕЛ I</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">53</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T085140Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T085144Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T085144Z" usagecount="7">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2590055420460431625, 131107077826772952</prop>
+      <prop type="x-ContextContent">FINAL PROVISIONS |  | ЗАВРШНИ ОДРЕДБИ | </prop>
+      <prop type="x-Context">104763435940073254, 141882441233</prop>
+      <prop type="x-ContextContent">SECTION I |  | ДЕЛ I | </prop>
+      <prop type="x-Context">4265742455696456196, 6547128516917068038</prop>
+      <prop type="x-ContextContent">OBLIGATIONS OF THE PARTIES |  | ОБВРСКИ НА СТРАНИТЕ | </prop>
+      <prop type="x-Context">-3725812024614138111, -8210947929611871902</prop>
+      <prop type="x-ContextContent">(b)	The controller agrees that where the processor engages a sub-processor in accordance with Clause 7.7. for carrying out specific processing activities (on behalf of the controller) and those processing activities involve a transfer of personal data within the meaning of Chapter V of Regulation (EU) 2016/679, the processor and the sub-processor can ensure compliance with Chapter V of Regulation (EU) 2016/679 by using standard contractual clauses adopted by the Commission in accordance with of Article 46(2) of Regulation (EU) 2016/679, provided the conditions for the use of those standard contractual clauses are met. |  | (б)	Контролорот се согласува дека кога преработувачот ангажира помошник-преработувач во согласност со Клаузула 7.7. за извршување на специфични активности за обработка (во име на контролорот) и тие активности за обработка вклучуваат пренос на лични податоци во смисла на Поглавје V од Регулативата (ЕУ) 2016/679, преработувачот и помошник-преработувачот можат да обезбедат усогласеност со Поглавјето V од Регулативата (ЕУ) 2016/679 со користење на стандардни договорни клаузули усвоени од Комисијата во согласност со член 46(2) од Регулативата (ЕУ) 2016/679, доколку се исполнети условите за користење на тие стандардни договорни клаузули. | </prop>
+      <prop type="x-Context">-3819961801795298277, 7600910244936939510</prop>
+      <prop type="x-ContextContent">(d)	The Parties shall set out in Annex III the appropriate technical and organisational measures by which the processor is required to assist the controller in the application of this Clause as well as the scope and the extent of the assistance required. |  | (г)	Страните ги наведуваат соодветните технички и организациски мерки во Анекс III  со кои од преработувачот се бара да му помогне на контролорот во примената на оваа Клаузула, како и обемот и размерот на помошта која е потребна. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Clause 1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Клаузула 1</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">54</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T085336Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T085454Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T085454Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">108580978374964, 4232121080879666</prop>
+      <prop type="x-ContextContent">Clause 1 |  | Клаузула 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Purpose and scope</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Примена и опфат</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">55</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T090110Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T133051Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T090134Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-69727630354921935, -2160065028404625209</prop>
+      <prop type="x-ContextContent">Article 29(3) and (4) of Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC]. |  | Член 29(3) и (4) од Регулативата (ЕУ) 2018/1725 на Европскиот парламент и на Советот од 23 октомври 2018 година за заштита на физичките лица во однос на обработката на личните податоци од страна на институциите, телата на Унијата, канцеларии и агенции и за слободното движење на таквите податоци и укинување на Регулативата (ЕЗ) бр. 45/2001 и Одлуката бр. 1247/2002/ЕЗ]. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	The controllers and processors listed in Annex I have agreed to these Clauses in order to ensure compliance with Article 28(3) and (4) of Regulation (EU) 2016/679 and/or Article 29(3) and (4) of Regulation (EU) 2018/1725.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)Контролорите и преработувачите наведени во Анекс I се согласија со овие Клаузули клаузули со цел да обезбедат усогласеност со член 28(3) и член 28(4) од Регулативата (ЕУ) 2016/679 и/или член 29(3) и член 29(4) од Регулативата (ЕУ) 2018/1725.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">59</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T090153Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T133028Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T090154Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-4264547220832778018, 3833967245608142233</prop>
+      <prop type="x-ContextContent">(b)	The controllers and processors listed in Annex I have agreed to these Clauses in order to ensure compliance with Article 28(3) and (4) of Regulation (EU) 2016/679 and/or Article 29(3) and (4) of Regulation (EU) 2018/1725. |  | (б)	Контролорите и преработувачите наведени во Анекс I се согласија со овие Клаузули со цел да обезбедат усогласеност со член 28(3) и (4) од Регулативата (ЕУ) 2016/679 и/или член 29(3) и (4) од Регулативата (ЕУ) 2018/1725. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	These Clauses apply to the processing of personal data as specified in Annex II.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)Овие Клаузули клаузули се применуваат за на обработката на лични податоци како што е наведено во Анекс</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">60</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T090214Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T135129Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T135129Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">786613718492221308, 4366337258166902528</prop>
+      <prop type="x-ContextContent">(c)	These Clauses apply to the processing of personal data as specified in Annex II. |  | (в)	Овие Клаузули се применуваат за обработка на лични податоци како што е наведено во Анекс II. | </prop>
+      <prop type="x-Context">3403346724, 5340191454</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	Annexes I to IV are an integral part of the Clauses.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>II. (г)Анексите од I до IV се составен дел на Клаузулитеклау</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">61</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T090247Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T135130Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T135130Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-6506370904171167881, -279790497268233985</prop>
+      <prop type="x-ContextContent">(d)	Annexes I to IV are an integral part of the Clauses. |  | (г)	Анексите од I до IV се составен дел на Клаузулите. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	These Clauses are without prejudice to obligations to which the controller is subject by virtue of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>зулите. (д)Овие Клаузули клаузули не се во спротивност со обврските на кои подлежи контролорот врз основа на Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">62</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T090458Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T135131Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T135131Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-1012646044943809203, 3691533106673522160</prop>
+      <prop type="x-ContextContent">(e)	These Clauses are without prejudice to obligations to which the controller is subject by virtue of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725. |  | (д)	Овие Клаузули не се во спротивност со обврските на кои подлежи контролорот врз основа на Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(f)	These Clauses do not by themselves ensure compliance with obligations related to international transfers in accordance with Chapter V of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ѓ)Овие Клаузули клаузули сами по себе не обезбедуваат усогласеност со обврските поврзани со меѓународните трансфери во согласност со Поглавје V од Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">63</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T090721Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T090817Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T090817Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-6409905372759901439, 8187412256599702423</prop>
+      <prop type="x-ContextContent">Invariability of the Clauses |  | Непроменливост на клаузулите | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	The Parties undertake not to modify the Clauses, except for adding information to the Annexes or updating information in them.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>аузулите (a)Страните се обврзуваат да не ги менуваат клаузулите, освен за додавање информации во Анексите анексите или за ажурирање информации во нив.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">65</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T092155Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T135132Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T135132Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">7357951734241920134, 8242154263869060980</prop>
+      <prop type="x-ContextContent">(a)	The Parties undertake not to modify the Clauses, except for adding information to the Annexes or updating information in them. |  | (a)	Страните се обврзуваат да не ги менуваат клаузулите, освен за додавање информации во Анексите или за ажурирање информации во нив. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	This does not prevent the Parties from including the standard contractual clauses laid down in these Clauses in a broader contract, or from adding other clauses or additional safeguards provided that they do not directly or indirectly contradict the Clauses or detract from the fundamental rights or freedoms of data subjects.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)Ова не ги спречува Страните страните да ги вклучат стандардните договорни клаузули пропишани во овие Клаузули клаузули во поширок договор или да додаваат други клаузули или дополнителни заштитни мерки под услов тие директно или индиректно да не се во спротивност со Клаузулите клаузулите или да ги нарушуваат основните права или слободи на субјектите на лични податоци.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">66</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T092603Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T135133Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T135133Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">353626459205408632, 4411067909014</prop>
+      <prop type="x-ContextContent">Interpretation |  | Толкување | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	Where these Clauses use the terms defined in Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 respectively, those terms shall have the same meaning as in that Regulation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Толкување (a)Кога Ако во овие Клаузули клаузули ги се користат термините дефинирани во Регулативата (ЕУ) 2016/679 или Регулативата (ЕУ) 2018/1725 соодветно, тие термини ќе го имаат истото значење како во таа Регулативарегулатива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">68</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T092746Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T135134Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T135134Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">3489923783215461148, -6733774621296769593</prop>
+      <prop type="x-ContextContent">(b)	These Clauses shall be read and interpreted in the light of the provisions of Regulation (EU) 2016/679 or Regulation (EU) 2018/1725 respectively. |  | (б)	Овие Клаузули се читаат и толкуваат имајќи ги предвид одредбите на Регулативата (ЕУ) 2016/679 или Регулативата (ЕУ) 2018/1725. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	These Clauses shall not be interpreted in a way that runs counter to the rights and obligations provided for in Regulation (EU) 2016/679 / Regulation (EU) 2018/1725 or in a way that prejudices the fundamental rights or freedoms of the data subjects.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>725. (в)Овие Клаузули клаузули нема да се толкуваат на начин што е во спротивност со правата и обврските предвидени во Регулативата (ЕУ) 2016/679 / Регулативата (ЕУ) 2018/1725 или на начин што ги нарушува основните права или слободи на субјектите на лични податоци.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">70</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T093205Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T093302Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T093302Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">3458033426, 547085055</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Clause 5 - Optional</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Клаузула 5 - Опционална</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">73</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T094516Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T133333Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T094619Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-6540646249915037796, -8882304363004961597</prop>
+      <prop type="x-ContextContent">(a)	Any entity that is not a Party to these Clauses may, with the agreement of all the Parties, accede to these Clauses at any time as a controller or a processor by completing the Annexes and signing Annex I. |  | (a)	Секој субјект што не е Страна на овие Клаузули може, со согласност на сите страни, да пристапи кон овие Клаузули во секое време како контролор или преработувач со пополнување на Анексите и потпишување на Анекс I. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	Once the Annexes in (a) are completed and signed, the acceding entity shall be treated as a Party to these Clauses and have the rights and obligations of a controller or a processor, in accordance with its designation in Annex I.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ање на Анекс I. (б)Откако ќе се пополнат и ќе се потпишат анексите наведени во (а), субјектот што пристапува ќе се третира какосе смета за Страна страна на овие Клаузули клаузули и ќе ги има правата и обврските на контролор или преработувач, во согласност со неговото назначување во Анекс I.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">75</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T094624Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T133212Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T133212Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">5341673432, 2041571561</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	The acceding entity shall have no rights or obligations resulting from these Clauses from the period prior to becoming a Party.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)Субјектот што пристапува нема да има права или обврски кои што произлегуваат од овие Клаузули клаузули во периодот пред да стане Странастрана</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">76</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T094701Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T094709Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T094709Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>SECTION II</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. ДЕЛ I</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">77</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T094810Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T094854Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T094854Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">3247666514142270409, 4398355677758</prop>
+      <prop type="x-ContextContent">SECTION II |  | ДЕЛ II | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>OBLIGATIONS OF THE PARTIES</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>I ОБВРСКИ НА СТРАНИТЕ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">78</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T095106Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T095310Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T095310Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">3097565527716628831, -7739139100356556536</prop>
+      <prop type="x-ContextContent">Description of processing(s) |  | Опис на обработка(и) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The details of the processing operations, in particular the categories of personal data and the purposes of processing for which the personal data is processed on behalf of the controller, are specified in Annex II.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>работка(и) Деталите за обработката, особено категориите на лични податоци и целите за обработувањето на личните податоци во име на контролорот, се наведени во Анекс II.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">80</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T095311Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T095329Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T095329Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-367357348947309140, 6413307155618629981</prop>
+      <prop type="x-ContextContent">The details of the processing operations, in particular the categories of personal data and the purposes of processing for which the personal data is processed on behalf of the controller, are specified in Annex II. |  | Деталите за обработката, особено категориите на лични податоци и целите за обработувањето на личните податоци во име на контролорот, се наведени во Анекс II. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Clause7</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Клаузула 7</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">81</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T095329Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T095343Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T095343Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032422, 2032422</prop>
+      <prop type="x-ContextContent">Clause7 |  | Клаузула7 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Obligations of the Parties</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Обврски на страните</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">82</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T095343Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T095351Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T095351Z" usagecount="12">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-854294487514619604, 4880092417455971</prop>
+      <prop type="x-ContextContent">(e)	The processor shall agree a third party beneficiary clause with the sub-processor whereby - in the event the processor has factually disappeared, ceased to exist in law or has become insolvent - the controller shall have the right to terminate the sub-processor contract and to instruct the sub-processor to erase or return the personal data. |  | (д)	Преработувачот ќе договори клаузула за корисник на трета страна со помошник-преработувачот со која, во случај кога преработувачот фактички исчезнал, престанал да постои во законот или станал платежно неспособен, контролорот има право да го раскине договорот со помошник-преработувачот и да му наложи на помошник-преработувачот да ги избрише или врати личните податоци. | </prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">……………………………………………………… |  | ……………………………………………………… | </prop>
+      <prop type="x-Context">5733709906093246499, 507403443544763634</prop>
+      <prop type="x-ContextContent">The processor shall process the personal data only for the specific purpose(s) of the processing, as set out in Annex II, unless it receives further instructions from the controller. |  | Преработувачот ги обработува личните податоци само за одредена цел(и) на обработката, како што е наведено во Анекс II, освен ако не добие дополнителни инструкции од контролорот. | </prop>
+      <prop type="x-Context">4265742455696456196, 6547128516917068038</prop>
+      <prop type="x-ContextContent">Obligations of the Parties |  | Обврски на страните | </prop>
+      <prop type="x-Context">8216801778236491728, 619185091809068504</prop>
+      <prop type="x-ContextContent">The processor shall ensure that persons authorised to process the personal data received have committed themselves to confidentiality or are under an appropriate statutory obligation of confidentiality. |  | Преработувачот обезбедува дека лицата кои се овластени да ги обработуваат примените лични податоци се обврзале на доверливост или се под соодветна законска обврска за доверливост. | </prop>
+      <prop type="x-Context">-4969901678316119302, 490636219750012014</prop>
+      <prop type="x-ContextContent">Processing by the processor shall only take place for the duration specified in Annex II. |  | Обработката од страна на преработувачот се одвива само според времетраењето наведено во Анекс II. | </prop>
+      <prop type="x-Context">-2831304496593281202, 4931584066987402825</prop>
+      <prop type="x-ContextContent">If the processing involves personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, genetic data or biometric data for the purpose of uniquely identifying a natural person, data concerning health or a person’s sex life or sexual orientation, or data relating to criminal convictions and offences (“sensitive data”), the processor shall apply specific restrictions and/or additional safeguards. |  | Доколку обработката вклучува лични податоци кои откриваат расно или етничко потекло, политички мислења, религиозни или философски убедувања или членство во синдикат, генетски податоци или биометриски податоци со цел единствено да се идентификува физичко лице, податоци во врска со здравјето или сексуалниот живот или сексуалната ориентација или податоци кои се однесуваат на кривични пресуди и прекршоци („чувствителни податоци“), преработувачот ќе примени специфични ограничувања и/или дополнителни заштитни мерки. | </prop>
+      <prop type="x-Context">5589475439688314853, -5810755059039451776</prop>
+      <prop type="x-ContextContent">(e)	The Parties shall make the information referred to in this Clause, including the results of any audits, available to the competent supervisory authority/ies on request. |  | (ѓ)	Страните ќе ги стават на располагање информациите наведени во оваа Клаузула, вклучувајќи ги и резултатите од какви било ревизии, по барање на надлежниот надзорен орган/и. | </prop>
+      <prop type="x-Context">4514595208, 1438107593</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">… |  | … | </prop>
+      <prop type="x-Context">6916508923433105785, -1362519216652124064</prop>
+      <prop type="x-ContextContent">[Identity and contact details of the processor(s) and, where applicable, of the processor’s data protection officer] | AgIBAQEAAQM5OTcBcwIBAQM5OTcB | [Идентитет и детали за контакт на преработувач(ите) и доколку е применливо, на службеникот за заштита на податоци на преработувачот] | AgIAAQEAAQZJdGFsaWMBhAIBAQZJdGFsaWMB</prop>
+      <prop type="x-Context">-1676191769552623123, 7377470690157802653</prop>
+      <prop type="x-ContextContent">[Identity and contact details of the controller(s), and, where applicable, of the controller’s data protection officer] | AgIBAQEAAQM5NDYBdgIBAQM5NDYB | [Идентитет и детали за контакт на контролорот(ите) и доколку е применливо, на службеникот за заштита на податоци на контролорот] | AgIAAQEAAQZJdGFsaWMBgAIBAQZJdGFsaWMB</prop>
+      <prop type="x-Context">-1003929815306168832, -8243103308011738472</prop>
+      <prop type="x-ContextContent">The controller has authorised the use of the following sub-processors: |  | Контролорот ја овластил употребата на следните помошник-преработувачи | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>7.1.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>7.1.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">83</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T095413Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T095416Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T095416Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">7.1. |  | 7.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Instructions</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Упатство</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">84</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T095530Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T083708Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T095736Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	The processor shall process personal data only on documented instructions from the controller, unless required to do so by Union or Member State law to which the processor is subject.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(a)Преработувачот ги обработува личните податоци само по документирани инструкции упатства од контролорот, освен ако не е побарано од страна на Унијата или со закон на земјата членка на кој подлежи преработувачот. Во овој случај, преработувач</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">85</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T100639Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T083657Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T100714Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	The processor shall immediately inform the controller if, in the processor’s opinion, instructions given by the controller infringe Regulation (EU) 2016/679 / Regulation (EU) 2018/1725 or the applicable Union or Member State data protection provisions.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а известува контролорот доколку, според преработувачот, упатствата дадени од контролорот ја прекршуваат Регулативата (ЕУ) 2016/679 / Регулативата (ЕУ) 2018/1725 или важечките одредби за заштита на податоците на Унијата или на земјите членки. 7.2.О</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">89</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T100726Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T100726Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T100726Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">7.1. |  | 7.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Purpose limitation</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>граничување на целта</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">90</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T100737Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T100746Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T100746Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">5490155408151081161, -8960047547738870111</prop>
+      <prop type="x-ContextContent">Purpose limitation |  | Ограничување на целта | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The processor shall process the personal data only for the specific purpose(s) of the processing, as set out in Annex II, unless it receives further instructions from the controller.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Преработувачот ги обработува личните податоци само за одредена цел(и) на обработката, како што е наведено во Анекс II, освен ако не добие дополнителни инструкции упатства од контролорот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">91</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T100801Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T100802Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T100802Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">7.1. |  | 7.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Duration of the processing of personal data</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>7.3.Времетраење на обработката на личните податоц</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">92</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T100811Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T100836Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T100836Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">4165141139849895885, 6580435650721591212</prop>
+      <prop type="x-ContextContent">Duration of the processing of personal data |  | Времетраење на обработката на личните податоци | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Processing by the processor shall only take place for the duration specified in Annex II.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и Обработката од страна на преработувачот се одвива само според за времетраењето наведено во Анекс II.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">93</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T100848Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T100849Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T100849Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">7.1. |  | 7.1. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Security of processing</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>7.4.Безбедност на обработката</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">94</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T101042Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T101200Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T101200Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-8473281284358147783, -2841632556062912270</prop>
+      <prop type="x-ContextContent">(a)	The processor shall at least implement the technical and organisational measures specified in Annex III to ensure the security of the personal data. |  | (a)	Преработувачот треба барем да ги спроведе техничките и организациските мерки наведени во Анекс III за да се увери во врска со безбедноста на личните податоци. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This includes protecting the data against a breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorised disclosure or access to the data (personal data breach).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>датоци. Ова вклучува заштита на податоците од нарушување на безбедноста што доведува до случајно или незаконско уништување, губење, менување, неовластено откривање или пристап до податоците (непочитување повреда на личните податоци). При проценкат</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">96</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T213414Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T213444Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T213444Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">8130670450177255880, 8375489828654617139</prop>
+      <prop type="x-ContextContent">(a)	Without prejudice to any provisions of Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725, in the event that the processor is in breach of its obligations under these Clauses, the controller may instruct the processor to suspend the processing of personal data until the latter complies with these Clauses or the contract is terminated. |  | (a)	Без да е во спротивност со одредбите од Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725, во случај кога преработувачот не ги исполнува своите обврски наведени во овие Клаузули, контролорот може да му наложи на преработувачот  да ја прекине обработката на личните податоци додека не се усогласат со овие Клаузули или да се раскине договорот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The processor shall promptly inform the controller in case it is unable to comply with these Clauses, for whatever reason.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а договорот. Преработувачот веднаш го информира контролорот во случај да не може да се усогласи со овие Клаузуликлаузули, од која било причина.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">169</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T213450Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T213631Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T213631Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-4216371249384291241, -7058843557265472549</prop>
+      <prop type="x-ContextContent">The processor shall promptly inform the controller in case it is unable to comply with these Clauses, for whatever reason. |  | Преработувачот веднаш го информира контролорот во случај да не може да се усогласи со овие Клаузули, од која било причина. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	The controller shall be entitled to terminate the contract insofar as it concerns processing of personal data in accordance with these Clauses if:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)Контролорот има право да го раскине договорот кој што се однесува за на обработка на лични податоци во согласност со овие клаузули доколку:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">170</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T213648Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T213758Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T213758Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">1019199537951640534, -6105357254208875430</prop>
+      <prop type="x-ContextContent">(b)	The controller shall be entitled to terminate the contract insofar as it concerns processing of personal data in accordance with these Clauses if: |  | (б)	Контролорот има право да го раскине договорот кој се однесува за обработка на лични податоци во согласност со овие клаузули доколку: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(1)	the processing of personal data by the processor has been suspended by the controller pursuant to point (a) and if compliance with these Clauses is not restored within a reasonable time and in any event within one month following suspension;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(1)обработката на личните податоци од страна на преработувачот е суспендирана од контролорот во согласност со точка (а) и ако усогласеноста со овие Клаузули клаузули не е исполнета постигната во разумен рок и во секој случај во рок од еден месец по суспензиј</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">171</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T214305Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T214324Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T214324Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">49706477588100326, 5381258203841088611</prop>
+      <prop type="x-ContextContent">(2)	the processor is in substantial or persistent breach of these Clauses or its obligations under Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725; |  | (2)	преработувачот суштински или постојано ги прекршува овие Клаузули или неговите обврски според Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(3)	the processor fails to comply with a binding decision of a competent court or the competent supervisory authority/ies regarding its obligations pursuant to these Clauses or to Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>25; (3)преработувачот не се придржува кон обврзувачката одлука на надлежен суд или на надлежниот надзорен орган/и во однос на неговите обврски согласно со овие Клаузули клаузули или Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">173</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T214335Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T214442Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T214442Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">8515854738596800593, -5760398075596669634</prop>
+      <prop type="x-ContextContent">(3)	the processor fails to comply with a binding decision of a competent court or the competent supervisory authority/ies regarding its obligations pursuant to these Clauses or to Regulation (EU) 2016/679 and/or Regulation (EU) 2018/1725. |  | (3)	преработувачот не се придржува кон обврзувачката одлука на надлежен суд или на надлежниот надзорен орган/и во однос на неговите обврски согласно овие Клаузули или Регулативата (ЕУ) 2016/679 и/или Регулативата (ЕУ) 2018/1725. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	The processor shall be entitled to terminate the contract insofar as it concerns processing of personal data under these Clauses where, after having informed the controller that its instructions infringe applicable legal requirements in accordance with Clause 7.1 (b), the controller insists on compliance with the instructions.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)Преработувачот има право да го раскине договорот во однос на обработката на личните податоци според овие Клаузуликлаузули ако, откако ќе го информира известил контролорот дека неговите упатства ги прекршуваат важечките законски барања во согласност со Клаузула 7.1 (б), контролорот инсистира на усогласеност со инструкциитеупатствата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">174</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T214448Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T083647Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T214557Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	Following termination of the contract, the processor shall, at the choice of the controller, delete all personal data processed on behalf of the controller and certify to the controller that it has done so, or, return all the personal data to the controller and delete existing copies unless Union or Member State law requires storage of the personal data.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)По раскинувањето на договорот, преработувачот, по избор на контролорот, ги брише сите лични податоци обработени во име на контролорот и му потврдува на контролорот дека го сторил тоа, или ги вратќа сите лични податоци на контролорот и ги брише постоечки постојните копии, освен ако законот на Унијата или на земјата членка не бара складирање на личните податоци. Сè додека податоците не се</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">175</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T214715Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T214726Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T214726Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">930370888650379469, 2795801407125077259</prop>
+      <prop type="x-ContextContent">Until the data is deleted or returned, the processor shall continue to ensure compliance with these Clauses. |  | Сè додека податоците не се избришат или вратат, преработувачот продолжува да е во согласност со овие Клаузули. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX I</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС I</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">177</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T214902Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T214910Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T214910Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">108528083796055, 4395057713153</prop>
+      <prop type="x-ContextContent">ANNEX I |  | АНЕКС I | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>List of parties</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Список на страни</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">178</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T214859Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T214924Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T214924Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-3283982314540155463, 3363911053023494875</prop>
+      <prop type="x-ContextContent">List of parties |  | Список на страни | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Controller(s):</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Контролор(и):</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">179</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T214940Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215021Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215021Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">3234826247558824154, 4232215133924029</prop>
+      <prop type="x-ContextContent">Controller(s): |  | Контролор(и): | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>[<bpt i="1" type="946" />Identity and contact details of the controller(s), and, where applicable, of the controller’s data protection officer]<ept i="1" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>[Идентитет и детали за контакт на контролорот(ите) и доколку е применливо, на службеникот за заштита на податоци на контролорот]</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">180</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215104Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215107Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215107Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">……………………………………………………………………………. |  | ……………………………………………………………………………. | </prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">…………………………………………………………………………… |  | …………………………………………………………………………… | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Contact person’s name, position and contact details:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Име, позиција и детали за контакт на лицето за контакт: ………………………..</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">184</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215141Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215220Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215220Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">8378673976853436559, 4071302872543210323</prop>
+      <prop type="x-ContextContent">…………………………………………………………………………………………..Processor(s): | AgIkAQEBAQM5ODgBDQIBAQM5ODgB | …………………………………………………………………………………………..Преработувач(и): | AgIkAQEBAQM5ODgBEAIBAQM5ODgB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>[<bpt i="1" type="997" />Identity and contact details of the processor(s) and, where applicable, of the processor’s data protection officer]<ept i="1" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и детали за контакт на преработувач(ите) и доколку е применливо, на службеникот за заштита на податоци на преработувачот]</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">189</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215329Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215343Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215343Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">6927871120825861921, -7739139100355628148</prop>
+      <prop type="x-ContextContent">Description of the processing |  | Опис на обработката | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Categories of data subjects whose personal data is processed</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Категории на субјекти на податоци чии лични податоци се обработуваат</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">195</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215343Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215344Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215344Z" usagecount="6">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">4658686568438312419, -6946512601465503926</prop>
+      <prop type="x-ContextContent">Purpose(s) for which the personal data is processed on behalf of the controller |  | Цел(и) за кои личните податоци се обработуваат во име на контролорот | </prop>
+      <prop type="x-Context">1037220698794596578, 3968314915017337793</prop>
+      <prop type="x-ContextContent">Categories of data subjects whose personal data is processed |  | Категории на субјекти на податоци чии лични податоци се обработуваат | </prop>
+      <prop type="x-Context">-7233985757317063887, 8965418551944521273</prop>
+      <prop type="x-ContextContent">Duration of the processing |  | Времетраење на обработката | </prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">………………………………………………………………………………………………… |  | ………………………………………………………………………………………………… | </prop>
+      <prop type="x-Context">240935312855221667, -3962506470684018366</prop>
+      <prop type="x-ContextContent">Nature of the processing |  | Природа на обработката | </prop>
+      <prop type="x-Context">3669405189404708398, -668376364311283561</prop>
+      <prop type="x-ContextContent">Sensitive data processed (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures. |  | Обработени чувствителни податоци (доколку е применливо) и применети ограничувања или заштитни мерки кои целосно ја земаат предвид природата на податоците и вклучените ризици, како што се на пример ограничување на строгата цел, ограничувања за пристап (вклучувајќи пристап само за персонал кој следел специјализирана обука), чување евиденција за пристап до податоците, ограничувања за понатамошни трансфери или дополнителни безбедносни мерки. | </prop>
+      <prop type="x-Context">-6915583277245586741, 66803339832132429</prop>
+      <prop type="x-ContextContent">Categories of personal data processed |  | Обработени категории на лични податоци | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>…………………………………………………………………………………………………</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>…………………………………………………………………………………………………</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">196</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215357Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215357Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215357Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">………………………………………………………………………………………………… |  | ………………………………………………………………………………………………… | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Categories of personal data processed</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Обработени категории на лични податоци</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">197</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215423Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215542Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215542Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">………………………………………………………………………………………………… |  | ………………………………………………………………………………………………… | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Sensitive data processed (if applicable) and applied restrictions or safeguards that fully take into consideration the nature of the data and the risks involved, such as for instance strict purpose limitation, access restrictions (including access only for staff having followed specialised training), keeping a record of access to the data, restrictions for onward transfers or additional security measures.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>………………………………………………………………………………………………… Обработени чувствителни податоци (доколку е применливо) и применети ограничувања или заштитни мерки кои што целосно ја земаат предвид природата на податоците и вклучените ризици, како што се, на пример, ограничување на строгата цел, ограничувања за пристап (вклучувајќи пристап само за персонал кој што следел специјализирана обука), чување евиденција за пристап до податоците, ограничувања за понатамошни трансфери или дополнителни безбедносни мерки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">198</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215546Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215617Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215617Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">………………………………………………………………………………………………… |  | ………………………………………………………………………………………………… | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Nature of the processing</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>………………………………………………………………………………………………… Природа на обработката</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">199</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215634Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215634Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215634Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">………………………………………………………………………………………………… |  | ………………………………………………………………………………………………… | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Purpose(s) for which the personal data is processed on behalf of the controller</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>………………………………………………………………………………………………… Цел(и) за кои личните податоци се обработуваат во име на контролорот</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">200</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215635Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215652Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215652Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">………………………………………………………………………………………………… |  | ………………………………………………………………………………………………… | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Duration of the processing</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>………………………………………………………………………………………………… Времетраење на обработката</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">201</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215715Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215750Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215750Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">124, 124</prop>
+      <prop type="x-ContextContent">………………………………………………………………………………………………… |  | ………………………………………………………………………………………………… | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For processing by (sub-) processors, also specify subject matter, nature and duration of the processing</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>………………………………………………………………………………………………… ………………………………………………………………………………………………… За обработка од страна на помошникпомошниците - преработувачиите, исто така наведете ја темата, природата и времетраењето на обработката</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">202</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215751Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215802Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215802Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">5480871193078123695, -6944317237425768460</prop>
+      <prop type="x-ContextContent">For processing by (sub-) processors, also specify subject matter, nature and duration of the processing |  | За обработка од страна на помошник- преработувачите, исто така наведете ја темата, природата и времетраењето на обработката | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX III</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС III</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">203</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215815Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215823Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215823Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">104295488527993975, 4223650462325153</prop>
+      <prop type="x-ContextContent">ANNEX III |  | АНЕКС III | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Technical and organisational measures including technical and organisational measures to ensure the security of the data</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Технички и организациски мерки, вклучувајќи технички и организациски мерки за да се обезбеди безбедност на податоците</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">204</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215919Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215927Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215927Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-3187945078991512119, 6164255042465138150</prop>
+      <prop type="x-ContextContent">List of sub-processors |  | Список на помошник-преработувачи | </prop>
+      <prop type="x-Context">-557631387038249929, -5336254337905162623</prop>
+      <prop type="x-ContextContent">Technical and organisational measures including technical and organisational measures to ensure the security of the data |  | Технички и организациски мерки вклучувајќи технички и организациски мерки за да се обезбеди безбедност на податоците | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>EXPLANATORY NOTE:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>НАПОМЕНА СО ОБЈАСНУВАЊЕ:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">205</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221006T215943Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221006T215959Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221006T215959Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-5581007696891362726, 6494598508030455068</prop>
+      <prop type="x-ContextContent">EXPLANATORY NOTE: |  | НАПОМЕНА СО ОБЈАСНУВАЊЕ: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The technical and organisational measures need to be described concretely and not in a generic manner.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Техничките и организациските мерки треба да се опишат конкретно, а не на генерички начин.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">206</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T060711Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T060837Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T060837Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-6554372295476078139, 5370546506327818735</prop>
+      <prop type="x-ContextContent">The technical and organisational measures need to be described concretely and not in a generic manner. |  | Техничките и организациските мерки треба да се опишат конкретно, а не на генерички начин. | AggAAQEAAQRCb2xkAQABAgABBEJvbGQBAAEDAAEEQm9sZAEAAQQAAQRCb2xkAVkCBAEEQm9sZAEAAgMBBEJvbGQBAAICAQRCb2xkAQACAQEEQm9sZAE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Description of the technical and organisational security measures implemented by the processor(s) (including any relevant certifications) to ensure an appropriate level of security, taking into account the nature, scope, context and purpose of the processing, as well as the risks for the rights and freedoms of natural persons.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Опис на техничките и организациските безбедносни мерки што ги спроведува преработувачот(ите) (вклучувајќи ги и сите релевантни сертификати) за да се обезбеди соодветно ниво на безбедност, земајќи ја ги предвид природата, опсегот, контекстот и целта на обработката, како и ризиците за правата и слободите на физичките лица.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">207</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T060852Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T060855Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T060855Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-5297102849766764139, 1108634863663219601</prop>
+      <prop type="x-ContextContent">Description of the technical and organisational security measures implemented by the processor(s) (including any relevant certifications) to ensure an appropriate level of security, taking into account the nature, scope, context and purpose of the processing, as well as the risks for the rights and freedoms of natural persons. |  | Опис на техничките и организациските безбедносни мерки што ги спроведува преработувачот(ите) (вклучувајќи ги и сите релевантни сертификати) за да се обезбеди соодветно ниво на безбедност, земајќи ја предвид природата, опсегот, контекстот и целта на обработката, како и ризиците за правата и слободите на физичките лица. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Examples of possible measures:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Примери на можни мерки:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">208</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T060910Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T060910Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T060910Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">4327879641406914829, 3779753047522784804</prop>
+      <prop type="x-ContextContent">Examples of possible measures: |  | Примери на можни мерки: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures of pseudonymisation and encryption of personal data</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за псевдонимизација и шифрирање на лични податоци</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">209</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T061113Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T061117Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T063142Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">1125628639992411335, 7525295603508715182</prop>
+      <prop type="x-ContextContent">Measures of pseudonymisation and encryption of personal data |  | Мерки за псевдонимизација и шифрирање на лични податоци | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for ensuring ongoing confidentiality, integrity, availability and resilience of processing systems and services</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за обезбедување постојана доверливост, интегритет, достапност и отпорност на системите и услугите за обработка</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">210</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T061129Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062032Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062032Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-4978502666032962729, -7232318152378305333</prop>
+      <prop type="x-ContextContent">Measures for ensuring ongoing confidentiality, integrity, availability and resilience of processing systems and services |  | Мерки за обезбедување постојана доверливост, интегритет, достапност и отпорност на системите и услугите за обработка | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for ensuring the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за обезбедување на способност за навремено враќање на достапноста и пристапот до личните податоци во случај на физички или технички инцидент</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">211</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062227Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062259Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062259Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">1844303925617173910, 5824112009751273937</prop>
+      <prop type="x-ContextContent">Measures for ensuring the ability to restore the availability and access to personal data in a timely manner in the event of a physical or technical incident |  | Мерки за обезбедување на способност за навремено враќање на достапноста и пристапот до личните податоци во случај на физички или технички инцидент | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Processes for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures in order to ensure the security of the processing</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Процеси за редовно тестирање, оценување и евалуација оцена на ефективноста на техничките и организациските мерки со цел да се обезбеди сигурност на обработкат</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">212</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062311Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062312Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062312Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-3044501567821071443, -4288314701189657284</prop>
+      <prop type="x-ContextContent">Processes for regularly testing, assessing and evaluating the effectiveness of technical and organisational measures in order to ensure the security of the processing |  | Процеси за редовно тестирање, оценување и евалуација на ефективноста на техничките и организациските мерки со цел да се обезбеди сигурност на обработката | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for user identification and authorisation</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а Мерки за идентификација и овластување на корисникот</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">213</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062324Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062325Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062325Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-2127617811739360694, 5167664848171624856</prop>
+      <prop type="x-ContextContent">Measures for user identification and authorisation |  | Мерки за идентификација и овластување на корисникот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for the protection of data during transmission</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за заштита на податоците при пренос</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">214</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062325Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062344Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062344Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-3451829530345141953, 1762654993383872575</prop>
+      <prop type="x-ContextContent">Measures for the protection of data during transmission |  | Мерки за заштита на податоците при пренос | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for the protection of data during storage</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за заштита на податоците при складирање</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">215</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062355Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062356Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062356Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-2051613616289465863, -3189006137767869322</prop>
+      <prop type="x-ContextContent">Measures for the protection of data during storage |  | Мерки за заштита на податоците при складирање | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for ensuring physical security of locations at which personal data are processed</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за обезбедување физичка безбедност на локациите на кои се обработуваат личните податоци</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">216</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062405Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062449Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062449Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">7200248608545101416, -4534306759301586446</prop>
+      <prop type="x-ContextContent">Measures for ensuring physical security of locations at which personal data are processed |  | Мерки за обезбедување физичка безбедност на локациите на кои се обработуваат личните податоци | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for ensuring events logging</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за обезбедување на евиденција на настани</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">217</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062500Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062503Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062503Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">8427305691607173014, 656147237238127567</prop>
+      <prop type="x-ContextContent">Measures for ensuring events logging |  | Мерки за обезбедување на евиденција на настани | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for ensuring system configuration, including default configuration</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за обезбедување конфигурација на системот, вклучително и стандардна конфигурација</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">218</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062515Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062530Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062530Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-6352715570573413138, 6150281101397665540</prop>
+      <prop type="x-ContextContent">Measures for ensuring system configuration, including default configuration |  | Мерки за обезбедување конфигурација на системот, вклучително и стандардна конфигурација | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for internal IT and IT security governance and management</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за внатрешно управување и управување со ИТ и ИТ ИТ-безбеднос</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">219</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062544Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062731Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062731Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-1239812183176136491, 3455042839636727822</prop>
+      <prop type="x-ContextContent">Measures for internal IT and IT security governance and management |  | Мерки за внатрешно управување и управување со ИТ и ИТ безбедност | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for certification/assurance of processes and products</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>т Мерки за сертификација/осигурување на процеси и производи</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">220</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062746Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062814Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062814Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2740724774543011694, 972620344904925042</prop>
+      <prop type="x-ContextContent">Measures for certification/assurance of processes and products |  | Мерки за сертификација/осигурување на процеси и производи | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for ensuring data minimisation</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за обезбедување минимизирање на податоците</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">221</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062815Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062825Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062825Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">6082684296752757793, -1190848982177334362</prop>
+      <prop type="x-ContextContent">Measures for ensuring data minimisation |  | Мерки за обезбедување минимизирање на податоците | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for ensuring data quality</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за обезбедување на квалитет на податоците</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">222</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062826Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062842Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062842Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2949847182704586179, -4732604265443985664</prop>
+      <prop type="x-ContextContent">Measures for ensuring data quality |  | Мерки за обезбедување на квалитет на податоците | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for ensuring limited data retention</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за обезбедување ограничено задржување на податоци</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">223</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062851Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062851Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062851Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">8527867386964730789, 6097114267083948968</prop>
+      <prop type="x-ContextContent">Measures for ensuring limited data retention |  | Мерки за обезбедување ограничено задржување на податоци | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for ensuring accountability</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за обезбедување одговорност</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">224</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062903Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T062928Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T062928Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-5049495541134927234, 7392863458091682708</prop>
+      <prop type="x-ContextContent">Measures for ensuring accountability |  | Мерки за обезбедување одговорност | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures for allowing data portability and ensuring erasure]</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерки за овозможување преносливост на податоците и нивно бришење на истите]</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">225</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T062946Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T063031Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T063031Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">2216022411694727055, -6820114539834805528</prop>
+      <prop type="x-ContextContent">Measures for allowing data portability and ensuring erasure] |  | Мерки за овозможување преносливост на податоците и  бришење на истите] | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1181" />For transfers to (sub-) processors, also<ept i="1" />
+          <bpt i="2" type="1187" />describe the specific technical and organisational measures to be taken by the (sub-) processor to be able to provide assistance to the controller<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За преноси на работата до на помошникпомошниците -преработувачите, опишете ги и специфичните технички и организациски мерки што треба да ги преземе помошник-преработувачот за да може да му помогне на контролоро</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">226</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T063032Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T063057Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T063057Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-3146162814390842733, -615553495155415959</prop>
+      <prop type="x-ContextContent">For transfers to (sub-) processors, also describe the specific technical and organisational measures to be taken by the (sub-) processor to be able to provide assistance to the controller | AgQAAQEAAQQxMTgxASgCAQEEMTE4MQEBAQIAAQQxMTg3AZICAgEEMTE4NwE= | За пренос на работата до помошник-преработувачите, опишете ги и специфичните технички и организациски мерки што треба да ги преземе помошник-преработувачот за да може да му помогне на контролорот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Description of the specific technical and organisational measures to be taken by the processor to be able to provide assistance to the controller.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>т Опис на конкретните технички и организациски мерки што треба да ги преземе преработувачот за да може да му пружи обезбеди помош на контролорот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">227</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221007T063057Z" creationid="DESKTOP-O174019\HP 2021" changedate="20221007T063105Z" changeid="DESKTOP-O174019\HP 2021" lastusagedate="20221007T063105Z">
+      <prop type="x-LastUsedBy">DESKTOP-O174019\HP 2021</prop>
+      <prop type="x-Context">-7450377603810302363, 2028444951632475653</prop>
+      <prop type="x-ContextContent">Description of the specific technical and organisational measures to be taken by the processor to be able to provide assistance to the controller. |  | Опис на конкретните технички и организациски мерки што треба да ги преземе преработувачот за да може да му пружи помош на контролорот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX IV</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС IV</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0915</prop>
+      <prop type="x-SourceTUIndex">228</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

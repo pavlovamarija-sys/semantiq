@@ -1,0 +1,136 @@
+{
+  "document": {
+    "celex": "32006L0114",
+    "language": "en",
+    "pages": 7,
+    "auditScope": "PDF geometry, production intermediate reconstruction, raw DOCX, and downstream segmentation",
+    "contentPolicy": "Text was inspected only as needed to classify legal structure and paragraph boundaries."
+  },
+  "productionPipeline": [
+    "PyMuPDF page.get_text('dict', sort=False)",
+    "_blocks_from_dict: PDF text blocks -> line-derived TextBlock objects",
+    "_reading_order: running-margin filtering and one/two-column ordering",
+    "_write_blocks: TextBlock objects -> DOCX paragraphs",
+    "validate_reading_order: regex classification over raw DOCX paragraph text",
+    "create_word_footnotes",
+    "normalize_docx",
+    "extractDocxLegalText: DOCX paragraphs -> newline text",
+    "segmentLegalDocument: one non-empty line -> one TranslationUnit"
+  ],
+  "directMeasurements": {
+    "pdfTextBlocks": 195,
+    "pdfLines": 554,
+    "pdfSpans": 3362,
+    "productionTextBlocksAfterLineGrouping": 287,
+    "orderedContentBlocks": 275,
+    "runningMarginBlocksRemoved": 12,
+    "rawDocxParagraphsTotal": 265,
+    "rawDocxParagraphsNonEmpty": 259,
+    "rawDocxPageBreakParagraphs": 6,
+    "rawDocxHeadingStyleParagraphs": 33,
+    "textOnlyHeadingRegexMatches": 30,
+    "textOnlyRecitalRegexMatches": 2,
+    "pyMuPdfFindTablesCount": 0,
+    "pyMuPdfFindTablesCellCount": 0
+  },
+  "reviewedStructuralEstimates": {
+    "sourceTables": {
+      "count": 3,
+      "confidence": "high",
+      "items": [
+        {
+          "page": 6,
+          "name": "Annex I Part A repealed-directive/amendment table",
+          "estimatedRows": 3,
+          "estimatedColumns": 2,
+          "estimatedLogicalCells": 6,
+          "generatedParagraphFragments": 7
+        },
+        {
+          "page": 6,
+          "name": "Annex I Part B transposition/application table",
+          "rows": 4,
+          "columns": 3,
+          "logicalCells": 12,
+          "generatedParagraphFragments": 12
+        },
+        {
+          "page": 7,
+          "name": "Annex II correlation table",
+          "rows": 41,
+          "columns": 2,
+          "logicalCells": 82,
+          "generatedParagraphFragments": 82
+        }
+      ],
+      "estimatedLogicalCellsTotal": 100,
+      "generatedTableParagraphFragmentsTotal": 101,
+      "lostTableStructures": 3,
+      "lostTableCellsAsTypedNodes": 100
+    },
+    "logicalNonTableNodes": {
+      "estimatedCount": 157,
+      "confidence": "medium",
+      "method": "259 non-empty DOCX paragraphs minus 101 table fragments minus one confirmed non-table continuation split",
+      "warning": "This is a reviewed structural estimate, not a source-authored semantic count."
+    },
+    "confirmedFalseParagraphBoundaries": {
+      "minimumCount": 4,
+      "confidence": "high",
+      "classes": {
+        "annexPartAMultiLineCells": 3,
+        "splitCitationOrFootnoteContinuation": 1
+      },
+      "warning": "Additional ambiguous boundaries require typed table and list reconstruction before they can be counted reliably."
+    }
+  },
+  "pageMetrics": [
+    { "page": 1, "pdfTextBlocks": 27, "pdfLines": 98, "pdfSpans": 612, "productionTextBlocks": 41, "orderedContentBlocks": 40, "removedMargins": 1 },
+    { "page": 2, "pdfTextBlocks": 24, "pdfLines": 103, "pdfSpans": 821, "productionTextBlocks": 37, "orderedContentBlocks": 34, "removedMargins": 3 },
+    { "page": 3, "pdfTextBlocks": 35, "pdfLines": 97, "pdfSpans": 811, "productionTextBlocks": 39, "orderedContentBlocks": 36, "removedMargins": 3 },
+    { "page": 4, "pdfTextBlocks": 30, "pdfLines": 93, "pdfSpans": 711, "productionTextBlocks": 33, "orderedContentBlocks": 31, "removedMargins": 2 },
+    { "page": 5, "pdfTextBlocks": 17, "pdfLines": 46, "pdfSpans": 290, "productionTextBlocks": 20, "orderedContentBlocks": 19, "removedMargins": 1 },
+    { "page": 6, "pdfTextBlocks": 18, "pdfLines": 29, "pdfSpans": 29, "productionTextBlocks": 29, "orderedContentBlocks": 28, "removedMargins": 1 },
+    { "page": 7, "pdfTextBlocks": 44, "pdfLines": 88, "pdfSpans": 88, "productionTextBlocks": 88, "orderedContentBlocks": 87, "removedMargins": 1 }
+  ],
+  "lostOrCollapsedStructure": [
+    { "kind": "table", "result": "Rows and cells become ordinary paragraphs; coordinates and column membership are discarded." },
+    { "kind": "heading", "result": "Heading evidence is reduced to text regex plus coarse maximum size/bold flags." },
+    { "kind": "paragraph", "result": "Original block, line, span, page, and coordinate provenance is absent from DOCX paragraphs." },
+    { "kind": "list", "result": "Markers remain literal text; list identity, nesting, and continuation are not represented." },
+    { "kind": "footnote", "result": "Initially flattened into body paragraphs and reconstructed later through text-pattern matching." },
+    { "kind": "page", "result": "An empty page-break paragraph survives in raw DOCX but page provenance is not attached to content nodes." },
+    { "kind": "columns", "result": "Columns are linearized; column identity and region boundaries are discarded." },
+    { "kind": "inlineStyle", "result": "Per-span font identity, size, weight, italic, color, baseline, and character boxes collapse to max size plus any-bold/any-italic." },
+    { "kind": "readingOrder", "result": "Order is retained only implicitly as paragraph order, without evidence or confidence." }
+  ],
+  "provenFalsePositiveExamples": [
+    {
+      "classification": "tableCellMisclassifiedAsHeading",
+      "text": "Article 1",
+      "page": 7,
+      "sourceBlockIndex": 4,
+      "pageReadingOrder": 7,
+      "globalReadingOrder": 195,
+      "rawDocxParagraphIndex": 185,
+      "validatorTextIndex": 179
+    },
+    {
+      "classification": "tableCellMisclassifiedAsHeading",
+      "text": "Annex I",
+      "page": 7,
+      "sourceBlockIndex": 81,
+      "pageReadingOrder": 84,
+      "globalReadingOrder": 272,
+      "rawDocxParagraphIndex": 262,
+      "validatorTextIndex": 256
+    }
+  ],
+  "conclusions": {
+    "visualLineWrappingNormallyCreatesSeparateParagraphs": false,
+    "qualification": "Lines inside one PDF text block are merged when vertical distance and x alignment satisfy _same_paragraph. Wrapping can still fragment when the PDF producer emits separate blocks, indentation changes, a column/table boundary intervenes, or _can_continue rejects an uppercase, numeric, or punctuation-led continuation.",
+    "oneLogicalParagraphCanBecomeMultipleDocxParagraphs": true,
+    "multiplePdfBlocksCanBelongToOneLogicalParagraph": true,
+    "currentCatSegmentationAmplifiesDocxParagraphErrors": true
+  }
+}

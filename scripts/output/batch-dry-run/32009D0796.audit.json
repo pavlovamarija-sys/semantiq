@@ -1,0 +1,1406 @@
+{
+  "celex": "32009D0796",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32009D0796\\TMX_MK1\\32009D0796_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32009D0796\\MK2\\32009D0796_MK2.docx",
+  "tmx_sha256": "0f8c03cd60afe1e21ae83eaf438275be958fd55dc9255d989854861d4bf86c28",
+  "mk2_sha256": "4705d32e52a8cad3db27a215501b4ff82928c61df7d877a158515860ac36e874",
+  "original_tus": 30,
+  "accepted_tus": 24,
+  "skipped_tus": 6,
+  "acceptance_percent": 80.0,
+  "mk1_coverage": 98.13,
+  "mk2_coverage": 99.92,
+  "accepted_clean_en_chars": 2397,
+  "accepted_clean_mk2_chars": 2422,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL DECISION 2009/796/JHA",
+      "mk1": "ОДЛУКА 2009/796/ПВР НА СОВЕТОТ",
+      "mk2": "ОДЛУКА 2009/796/ПВР НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        30
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 4 June 2009",
+      "mk1": "од 4 јуни 2009 година",
+      "mk2": "од 4 јуни 2009 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        31,
+        52
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "amending Decision 2002/956/JHA setting up a European Network for the Protection of Public Figures",
+      "mk1": "за изменување на одлука 2002/956/ПВР за формирање на Европска Мрежа за заштита на јавни личности",
+      "mk2": "за изменување на оОдлуката 2002/956/ПВР за формирање на Европска мМрежа за заштита на јавни личност",
+      "score": 0.9743589743589743,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        53,
+        152
+      ],
+      "evidence": {
+        "token_count": 41,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 4,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "и СОВЕТОТ НА ЕВРОПСКАТА УНИЈА",
+      "score": 0.9642857142857143,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        152,
+        181
+      ],
+      "evidence": {
+        "token_count": 41,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 30(1)(a) and (c) and Article 34(2)(c) thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унија, а особено член 30(1)(а) и (в) и член 34(2)(в) од истиот,",
+      "mk2": ", имајќи го предвид Договорот за Европската Унија, а особено член 30(1)(а) и (в) и член 34(2)(в) од истиот,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        181,
+        288
+      ],
+      "evidence": {
+        "token_count": 41,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the initiative of the Kingdom of the Netherlands (),",
+      "mk1": "имајќи ја предвид инцијативата на Кралството на Холандија (),",
+      "mk2": "имајќи ја предвид инцијативата на Кралството на Холандија (), Сл",
+      "score": 0.9743589743589743,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        289,
+        353
+      ],
+      "evidence": {
+        "token_count": 19,
+        "references_preserved": false,
+        "neighbor_window": [
+          6,
+          7
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "OJ C 330, 30.12.2008, p. 2.",
+      "mk1": "Сл. Весник бр. C 330, 30.12.2008 год., стр. 2.",
+      "mk2": ". вВесник бр. C 330, 30.12.2008 година., стр. 2.",
+      "score": 0.9113924050632911,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        353,
+        401
+      ],
+      "evidence": {
+        "token_count": 19,
+        "references_preserved": false,
+        "neighbor_window": [
+          6,
+          7
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 8,
+      "en": "Having regard to the opinion of the European Parliament (),",
+      "mk1": "имајќи го предвид мислењето на Европскиот парламент (),",
+      "mk2": "имајќи го предвид мислењето на Европскиот парламент (), М",
+      "score": 0.9807692307692307,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        402,
+        459
+      ],
+      "evidence": {
+        "token_count": 27,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 9,
+      "en": "Opinion delivered on 22 April 2009 (not yet published in the Official Journal).",
+      "mk1": "Мислење донесено на 22 април 2009 год. (сè уште не е објавено во Службениот весник).",
+      "mk2": "ислење донесено на 22 април 2009 година. (сè уште не е објавено во Службениот весник).",
+      "score": 0.9753086419753086,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        459,
+        546
+      ],
+      "evidence": {
+        "token_count": 27,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 10,
+      "en": "Whereas:",
+      "mk1": "co оглед на тоа што:",
+      "mk2": "co оглед на тоа што:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        6,
+        8
+      ],
+      "mk2_char_span": [
+        546,
+        566
+      ],
+      "evidence": {
+        "token_count": 27,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          6,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 11,
+      "en": "(1) The possibility of assaults and attacks to public figures, either in an official capacity or in a non-official position, cannot be excluded.",
+      "mk1": "(1) Можноста за напади и атентати врз јавни личности, без разлика дали се работи за службено лице или не, не може да се исклучи.",
+      "mk2": "(1) Можноста за напади и атентати врз јавни личности, без разлика дали се работи за службено лице или не, не може да се исклучи.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        567,
+        695
+      ],
+      "evidence": {
+        "token_count": 24,
+        "references_preserved": true,
+        "neighbor_window": [
+          11,
+          11
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 12,
+      "en": "(2) The protection of public figures is the responsibility of the host Member State.",
+      "mk1": "(2) Заштита на јавните личности е одговорност на земјата членка домаќин.",
+      "mk2": "(2) Заштитата на јавните личности е одговорност на земјата членка домаќин. Заш",
+      "score": 0.9583333333333334,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        696,
+        774
+      ],
+      "evidence": {
+        "token_count": 36,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          13
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 13,
+      "en": "Protective measures of the host Member State are based solely on the legal provisions in force in that Member State and the relevant international agreements.",
+      "mk1": "Заштитните мерки на земјата членка домаќин се темелат исклучиво на законски одредби кои се во сила на таа земја членка и релевантни меѓународни договори.",
+      "mk2": "титните мерки на земјата членка домаќин се темелат исклучиво на законските одредби кои се во сила вона таа земја членка и на релевантните меѓународни спогодбидоговори.",
+      "score": 0.9371069182389937,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        774,
+        941
+      ],
+      "evidence": {
+        "token_count": 36,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          13
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 14,
+      "en": "(3) The European Network for the Protection of Public Figures, which was set up in 2002, should contribute to providing protection as a formal channel for communication and consultation between national authorities.",
+      "mk1": "(3) Европската Мрежа за заштита на јавните личности, која се формираше во 2002 година, треба да придонесе во обезбедувањето на заштита како официјално средство за размена на информации и консултации помеѓу националните власти.",
+      "mk2": "(3) Европската мМрежа за заштита на јавните личности, која се формираше во 2002 година, треба да придонесе во обезбедувањето на заштита како формален канал за официјално средство за размена на информации икомуникација и консултацијаи помеѓу националните органивлас",
+      "score": 0.9106029106029107,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        10,
+        12
+      ],
+      "mk2_char_span": [
+        942,
+        1206
+      ],
+      "evidence": {
+        "token_count": 103,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          15
+        ],
+        "atom_window": [
+          10,
+          12
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 15,
+      "en": "(4) It is therefore considered appropriate to amend Council Decision 2002/956/JHA of 28 November 2002 setting up a European Network for the Protection of Public Figures () so that it would also apply to persons in a non-official position who are deemed to be under threat because of their contribution to or impact on the public debate,",
+      "mk1": "(4) Затоа се смета дека е соодветно да се измени Одлуката 2002/956/ПВР на Советот од 28 ноември 2002 година за формирање на Европска мрежа за заштите на јавните личности () така што и да важи за лица кои не се на службени позиции меѓутоа се под напосредна закана заради нивниот придонес или влијание во јавната расправа,",
+      "mk2": "ти. (4)Затоа се смета дека е соодветно да се измени Одлуката 2002/956/ПВР на Советот од 28 ноември 2002 година за формирање на Европска мрежа за заштитае на јавните личности () така што и да важи за лица кои не се на службени позиции меѓутоа се под напосредна закана заради нивниот придонес или влијание во јавната расправа, Сл. вВесник бр. L 333, 10.12.2002 година., стр. 1.",
+      "score": 0.9289940828402367,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        10,
+        12
+      ],
+      "mk2_char_span": [
+        1206,
+        1581
+      ],
+      "evidence": {
+        "token_count": 103,
+        "references_preserved": true,
+        "neighbor_window": [
+          14,
+          15
+        ],
+        "atom_window": [
+          10,
+          12
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 16,
+      "en": "OJ L 333, 10.12.2002, p. 1.",
+      "mk1": "Сл. Весник бр. L 333, 10.12.2002 год., стр. 1.",
+      "mk2": "",
+      "score": 0.3939393939393939,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 17,
+      "en": "HAS DECIDED AS FOLLOWS:",
+      "mk1": "ОДЛУЧИ:",
+      "mk2": "Член 1",
+      "score": 0.16666666666666666,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        13,
+        15
+      ],
+      "mk2_char_span": [
+        1590,
+        1597
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          13,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 18,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "Одлука",
+      "score": 0.16666666666666666,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        13,
+        15
+      ],
+      "mk2_char_span": [
+        1597,
+        1603
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          13,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 19,
+      "en": "Decision 2002/956/JHA is hereby amended as follows:",
+      "mk1": "Одлука 2002/956/ПВР се изменува како што следува:",
+      "mk2": "та 2002/956/ПВР се изменува како што следува:",
+      "score": 0.9347826086956522,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        13,
+        15
+      ],
+      "mk2_char_span": [
+        1603,
+        1648
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          19
+        ],
+        "atom_window": [
+          13,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 20,
+      "en": "1.",
+      "mk1": "1.",
+      "mk2": "1.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        15,
+        16
+      ],
+      "mk2_char_span": [
+        1649,
+        1651
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          21
+        ],
+        "atom_window": [
+          15,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 21,
+      "en": "Article 2 is replaced by the following:",
+      "mk1": "Член 2 се заменува со следново:",
+      "mk2": "Член 2 се заменува со следново:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        15,
+        16
+      ],
+      "mk2_char_span": [
+        1651,
+        1682
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          21
+        ],
+        "atom_window": [
+          15,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 22,
+      "en": "‘Article 2",
+      "mk1": "„Член 2",
+      "mk2": "„Член 2",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        16,
+        17
+      ],
+      "mk2_char_span": [
+        1683,
+        1690
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          22
+        ],
+        "atom_window": [
+          16,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 23,
+      "en": "For the purposes of this Decision, “public figure” shall mean any person, either in an official capacity or in a non-official position to whom a protection service is assigned in accordance with the national legislation of a Member State or pursuant to the regulations of an international or supranational organisation or institution.’;",
+      "mk1": "За целите на оваа одлука, „јавна личност“ се однесува на секоја личност, без разлика дали се работи за службено лице или не на кое му е доделено обезбедување во согласност со националното законодавство на земјата членка или во согласност со регулативите за меѓународни и наднационални организации или инстиуции.“ ;",
+      "mk2": "За целите на оваа одлука, „јавна личност“ е се однесува на секоја личност, без разлика дали се работи за службено лице или не на кое му се доделуваено услуга за заштитаобезбедување во согласност со националното законодавство на земјата членка или во согласност со регулативите за меѓународни и наднационални организации или институции.“ ;",
+      "score": 0.9622641509433962,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        17,
+        18
+      ],
+      "mk2_char_span": [
+        1691,
+        2029
+      ],
+      "evidence": {
+        "token_count": 51,
+        "references_preserved": true,
+        "neighbor_window": [
+          23,
+          23
+        ],
+        "atom_window": [
+          17,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 24,
+      "en": "2. the following point is added to Article 4:",
+      "mk1": "2. следната точка се додава на член 4:",
+      "mk2": "2. Сследната точка се додава на член 4:",
+      "score": 0.9863013698630136,
+      "status": "REVIEW",
+      "cardinality": "1:1",
+      "mk2_span": [
+        18,
+        19
+      ],
+      "mk2_char_span": [
+        2030,
+        2069
+      ],
+      "evidence": {
+        "token_count": 8,
+        "references_preserved": false,
+        "neighbor_window": [
+          24,
+          24
+        ],
+        "atom_window": [
+          18,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 25,
+      "en": "‘(f) favouring contacts concerning the application of protection in cases where the protection of public figures has to be assured in two or more Member States between the relevant authorities within the Member States responsible for rendering protection services, either through the contact points or by means of direct contacts between the responsible services, as communicated by the contact points.’.",
+      "mk1": "„(ѓ) за олеснување на контактите за примената на заштита во случаи кога заштитата на јавните лица мора да се обезбеди во две или повеќе земји членки, помеѓу релевантните власти во земјите членки одговорни за обезбедување заштита, преку контакт точки или директен контакт помеѓу надлежните служби, како што им ги соопштуваат контакт точките .“.",
+      "mk2": "„(ѓ)за олеснување на контактите за примената на заштита во случаи кога заштитата на јавните лица мора да се обезбеди во две или во повеќе земји членки, помеѓу релевантните органивласти во земјите членки одговорни за обезбедување заштита, преку точки за контакт- точки или со директен контакт помеѓу надлежните служби, како што им ги соопштуваат точките за контакт- точките .“",
+      "score": 0.9541547277936963,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        19,
+        22
+      ],
+      "mk2_char_span": [
+        2070,
+        2445
+      ],
+      "evidence": {
+        "token_count": 77,
+        "references_preserved": true,
+        "neighbor_window": [
+          25,
+          26
+        ],
+        "atom_window": [
+          19,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 26,
+      "en": "This Decision shall take effect on the 20th day following its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука стапува на сила на дваесттиот ден по нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": ". Член 2 Оваа одлука стапува на сила на дваесеттиот ден по нејзиното објавување во Службениот весник на Европската Унија.",
+      "score": 0.9649122807017544,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        19,
+        22
+      ],
+      "mk2_char_span": [
+        2445,
+        2566
+      ],
+      "evidence": {
+        "token_count": 77,
+        "references_preserved": true,
+        "neighbor_window": [
+          25,
+          26
+        ],
+        "atom_window": [
+          19,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 27,
+      "en": "Done at Luxembourg, 4 June 2009.",
+      "mk1": "Луксембург, 4 јуни 2009 година.",
+      "mk2": "Луксембург, 4 јуни 2009 година.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        22,
+        23
+      ],
+      "mk2_char_span": [
+        2567,
+        2598
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          27,
+          27
+        ],
+        "atom_window": [
+          22,
+          23
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 28,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "За Советот",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        23,
+        24
+      ],
+      "mk2_char_span": [
+        2599,
+        2609
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          28,
+          28
+        ],
+        "atom_window": [
+          23,
+          24
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 29,
+      "en": "The President",
+      "mk1": "Претседателот",
+      "mk2": "Претседател,от",
+      "score": 0.9629629629629629,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        24,
+        26
+      ],
+      "mk2_char_span": [
+        2610,
+        2624
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          29,
+          30
+        ],
+        "atom_window": [
+          24,
+          26
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 30,
+      "en": "M. PECINA",
+      "mk1": "М. ПЕЦИНА",
+      "mk2": "М. ПЕЦИНА",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        24,
+        26
+      ],
+      "mk2_char_span": [
+        2624,
+        2634
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          29,
+          30
+        ],
+        "atom_window": [
+          24,
+          26
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 3,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32009D0796",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL DECISION 2009/796/JHA",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 4 June 2009",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "amending Decision 2002/956/JHA setting up a European Network for the Protection of Public Figures",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА 2009/796/ПВР НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 4 јуни 2009 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Оодлуката 2002/956/ПВР за формирање на Европска мМрежа за заштита на јавни личности",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на слобода, безбедност и правда",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Драгана Митовска- Николовска",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "27.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Public figure",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јавна личност",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Рречник",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Setting up",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "формирање",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник општ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "public debate",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јавна расправа",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поиминик општ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "член 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Pursuant",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Во согласност",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прирачник",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 2, точка 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Favouring",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "олеснување",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "БгГ- регулатива",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Влегување во сила",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "take effect",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Стапи на сила",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Речник",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32009D0796",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL DECISION 2009/796/JHA",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 4 June 2009",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "amending Decision 2002/956/JHA setting up a European Network for the Protection of Public Figures",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА 2009/796/ПВР НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 4 јуни 2009 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката 2002/956/ПВР за формирање Европска мрежа за заштита на јавни личности",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на слобода, безбедност и правда",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Реска Рајчевска",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "HYPERLINK \"mailto:ces.translation@gmail.com\" ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "15.9.2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 1, точка 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Contact points",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Контакт точки",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "точки за контакт",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.techdico.com/translation/bulgarian-english/html",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Сл. вВесник бр. C 330, 30.12.2008 година., стр. 2.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Мислење донесено на 22 април 2009 година. (сè уште не е објавено во Службениот весник).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Сл. вВесник бр. L 333, 10.12.2002 година., стр. 1.",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 5,
+        "text": "Сл. вВесник бр. C 330, 30.12.2008 година., стр. 2."
+      },
+      {
+        "ref": "2",
+        "body_index": 6,
+        "text": "Мислење донесено на 22 април 2009 година. (сè уште не е објавено во Службениот весник)."
+      },
+      {
+        "ref": "3",
+        "body_index": 11,
+        "text": "Сл. вВесник бр. L 333, 10.12.2002 година., стр. 1."
+      }
+    ]
+  },
+  "dry_run": true
+}

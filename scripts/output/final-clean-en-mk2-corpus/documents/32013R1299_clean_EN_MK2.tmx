@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210713T200120Z" creationid="DESKTOP-Q0J86NE\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32013R1299_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32013R1299</prop>
+    <prop type="x-SourceTMX">32013R1299_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">17c27adb2133a27e07ad3313fcfd6acab90c1ea9f0d948904062aa8663488b93</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">13</prop>
+  </header>
+  <body>
+    <tu creationdate="20210206T182824Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210613T120743Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210623T190444Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-F3OG4R3\ACER</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>REGULATION (EU) No 1299/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА (ЕУ) 1299/2013 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210613T120815Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210613T120835Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210623T190444Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-F3OG4R3\ACER</prop>
+      <prop type="x-Context">-1836507622456451695, -5787162811525255239</prop>
+      <prop type="x-ContextContent">REGULATION (EU) No 1299/2013 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL |  | РЕГУЛАТИВА (ЕУ) 1299/2013 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 17 December 2013</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 17 декември 2013 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210613T121133Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210613T122929Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210623T190444Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-F3OG4R3\ACER</prop>
+      <prop type="x-Context">3657596318, -6945057590836406931</prop>
+      <prop type="x-ContextContent">of 17 December 2013 |  | од 17 декември 2013 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>on specific provisions for the support from the European Regional Development Fund to the European territorial cooperation goal</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за посебни одредби за поддршкапомошта помош од Европскиот фонд за регионален развој зана целта за „Европска територијална сор</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210207T213323Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210613T123111Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210623T190444Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-F3OG4R3\ACER</prop>
+      <prop type="x-Context">-7124098552985558198, -4614663339850189355</prop>
+      <prop type="x-ContextContent">THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION, |  | ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union, and in particular Article 178 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>НИЈА, имајќи го предвид Договорот за функционирање на Европската уУнија, а особено член 178 од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210206T184337Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210613T124813Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210623T190444Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-F3OG4R3\ACER</prop>
+      <prop type="x-Context">1333417285834173202, -1562503264613108206</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, and in particular Article 178 thereof, |  | имајќи го предвид Договорот за функционирање на Европската унија, а особено член 178 од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the European Commission,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Европската комисија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210208T210800Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210613T124814Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210623T190444Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-F3OG4R3\ACER</prop>
+      <prop type="x-Context">-7799275716982960255, 363684144863454645</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the European Commission, |  | имајќи го предвид предлогот на Европската комисија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>After transmission of the draft legislative act to the national parliaments,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>по проследувањето на нацрт-законодавниот акт до националните парламенти</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210208T210831Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210613T125026Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210623T190444Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-F3OG4R3\ACER</prop>
+      <prop type="x-Context">-8428148328744422, -5438069692268983422</prop>
+      <prop type="x-ContextContent">After transmission of the draft legislative act to the national parliaments, |  | по проследување на нацрт-законодавниот акт до националните парламенти, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the opinion of the European Economic and Social Committee (<ph x="1" type="ph21" />),</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>, имајќи го предвид мислењето на Европскиот економско-социјален комитет ()</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210208T210831Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210613T125718Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210623T190444Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-F3OG4R3\ACER</prop>
+      <prop type="x-Context">775646861809360604, 7588902668820056652</prop>
+      <prop type="x-ContextContent">OJ C 191, 29.6.2012, p. 49. | AgQAAQEAAQRwdDI0ABoCAQAAAAECAAEEcHQyNQABAgIAAA== | Сл. весник C 191, 29 јуни 2012 година, стр. 49. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the opinion of the Committee of the Regions (<ph x="1" type="ph28" />),</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>, имајќи го предвид мислењето на Комитетот на регионите (),</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">9</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210616T232203Z" creationid="DESKTOP-RN1MR2R\User" changedate="20210616T234442Z" changeid="DESKTOP-RN1MR2R\User" lastusagedate="20210625T000927Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-RN1MR2R\User</prop>
+      <prop type="x-Context">4952645020042302822, -2152999651529414695</prop>
+      <prop type="x-ContextContent">Thematic concentration |  | Тематска концентрација | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>At least 80 % of the ERDF allocation to each cross-border cooperation and transnational programme shall be concentrated on a maximum of four of the thematic objectives set out in the first paragraph of Article 9 of Regulation (EU) No 1303/2013.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ација Најмалку 80 % од распределбата на ЕФРР за секоја програма за прекугранична соработка и транснационалната програма се концентрира на максимум четири тематски цели утврдени во првиот став од член 9 од Регулатива (ЕУ) бр. 1303/2013.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">192</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T233743Z" creationid="DESKTOP-RN1MR2R\User" changedate="20210624T151808Z" changeid="DESKTOP-RN1MR2R\User" lastusagedate="20210625T000937Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-RN1MR2R\User</prop>
+      <prop type="x-Context">-5142320005699538866, -7171334916841819488</prop>
+      <prop type="x-ContextContent">Rules on eligibility of expenditure |  | Правила за подобност на расходи | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Commission shall be empowered to adopt delegated acts in accordance with Article 29 to lay down specific rules on eligibility of expenditure for cooperation programmes with regard to staff costs, office and administrative expenditure, travel and accommodation costs, external expertise and services costs, and equipment expenditure.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>сходите Комисијата е овластена да усвојува делегирачки делегирани акти во согласност со член 29 за да постави одредени правила за подобноста на расходите за програмите за соработка во поглед на трошоците за кадар, канцелариските и административните расходи, трошоците за патување и сместување, трошоците за надворешна експертиза и услуги, и трошоците за опрема. Комис</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">480</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210621T234155Z" creationid="DESKTOP-RN1MR2R\User" changedate="20210624T151837Z" changeid="DESKTOP-RN1MR2R\User" lastusagedate="20210625T000937Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-RN1MR2R\User</prop>
+      <prop type="x-Context">4026791272351316595, -77436552697637060</prop>
+      <prop type="x-ContextContent">The Commission shall be empowered to adopt delegated acts in accordance with Article 29 to lay down specific rules on eligibility of expenditure for cooperation programmes with regard to staff costs, office and administrative expenditure, travel and accommodation costs, external expertise and services costs, and equipment expenditure. |  | Комисијата е овластена да усвојува делегирачки акти во согласност со член 29 за да постави одредени правила за подобност на расходи за програми за соработка во поглед на трошоци за кадар, канцелариски и административни расходи, трошоци за патување и сместување, трошоци за надворешна експертиза и услуги, и трошоци за опрема. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Commission shall notify the delegated acts, adopted in accordance with Article 29, simultaneously to the European Parliament and to the Council by 22 April 2014</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ијата гоги известува за делегираните акти, усвоени во согласност со член 29, најизменичнонаизменичноистовремено Европскиот парламент и Советот до 22 април 2014 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">481</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210622T121800Z" creationid="DESKTOP-RN1MR2R\User" changedate="20210624T152317Z" changeid="DESKTOP-RN1MR2R\User" lastusagedate="20210625T000937Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-RN1MR2R\User</prop>
+      <prop type="x-Context">3248061015215139895, 4182084995702761887</prop>
+      <prop type="x-ContextContent">Staff costs |  | Трошоци за кадар | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Staff costs of an operation may be calculated at a flat rate of up to 20 % of the direct costs other than the staff costs of that operation.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 19 Трошоци за кадар Трошоците за кадар на дејствоата може да се пресметаат со рамна стапка до 2 % од директните трошоци освен трошоците за персонал за тоаие дејствоа.</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">484</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210622T122421Z" creationid="DESKTOP-RN1MR2R\User" changedate="20210624T152411Z" changeid="DESKTOP-RN1MR2R\User" lastusagedate="20210625T000937Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-RN1MR2R\User</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Eligibility of operations in cooperation programmes depending on location</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 20 Подобност на дејствата во програмите за соработка во зависност од локацијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32013R1299</prop>
+      <prop type="x-SourceTUIndex">485</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

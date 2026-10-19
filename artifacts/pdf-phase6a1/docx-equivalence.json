@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "cases": [
+    {
+      "celex": "32006L0114",
+      "status": "PASS",
+      "typedModelEqual": true,
+      "decisionCountEqual": true,
+      "docxStructureEqual": true,
+      "spikeDocxSha256": "9d2aabee7dc7b2b8aa06d4070269c00bef88dd5687466ee2ec4d3b27411efce9",
+      "productionDocxSha256": "9d2aabee7dc7b2b8aa06d4070269c00bef88dd5687466ee2ec4d3b27411efce9"
+    },
+    {
+      "celex": "32006L0126",
+      "status": "PASS",
+      "typedModelEqual": true,
+      "decisionCountEqual": true,
+      "docxStructureEqual": true,
+      "spikeDocxSha256": "f88c7d5d66059dc445c1c253b3df4df373329c4e02d6e1dcb8f6ef687a215a3b",
+      "productionDocxSha256": "f88c7d5d66059dc445c1c253b3df4df373329c4e02d6e1dcb8f6ef687a215a3b"
+    },
+    {
+      "celex": "32006L0042",
+      "status": "PASS",
+      "typedModelEqual": true,
+      "decisionCountEqual": true,
+      "docxStructureEqual": true,
+      "spikeDocxSha256": "92ddb25276b69fb462a5afd7ca95a389029cee48245d825acdb5991ef7f72eb3",
+      "productionDocxSha256": "92ddb25276b69fb462a5afd7ca95a389029cee48245d825acdb5991ef7f72eb3"
+    }
+  ]
+}

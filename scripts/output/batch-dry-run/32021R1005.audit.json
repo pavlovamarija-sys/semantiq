@@ -1,0 +1,1084 @@
+{
+  "celex": "32021R1005",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R1005\\TMX_MK1\\32021R1005_MK1.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32021R1005\\MK2\\32021R1005_MK2.docx",
+  "tmx_sha256": "d232382efee3c98f91a647307ff1df228d124f146facf22832a43f7b68a79a4b",
+  "mk2_sha256": "1a173ca0b845161af8aca406a24667cc5a0321888b192426340c7b8fbe1259a3",
+  "original_tus": 35,
+  "accepted_tus": 6,
+  "skipped_tus": 29,
+  "acceptance_percent": 17.14,
+  "mk1_coverage": 53.73,
+  "mk2_coverage": 73.43,
+  "accepted_clean_en_chars": 798,
+  "accepted_clean_mk2_chars": 879,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL REGULATION (EU) 2021/1005",
+      "mk1": "РЕГУЛАТИВА (ЕУ) 2021/1005 НА СОВЕТОТ",
+      "mk2": "РЕГУЛАТИВА (ЕУ) 2021/1005 НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        36
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "amending Regulation (EU) 2016/44 concerning restrictive measures in view of the situation in Libya",
+      "mk1": "за изменување на Регулативата (ЕУ) 2016/44 за рестриктивни мерки во однос на состојбата во Либија",
+      "mk2": "од 21 јуни 2021 година за изменување на Регулативата (ЕУ) 2016/44 за рестриктивни мерки во однос на состојбата во Либија",
+      "score": 0.892018779342723,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        1,
+        3
+      ],
+      "mk2_char_span": [
+        37,
+        157
+      ],
+      "evidence": {
+        "token_count": 20,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          3
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 3,
+      "en": "Having regard to the Treaty on the Functioning of the European Union, and in particular Article 215 thereof,",
+      "mk1": "имајќи го предвид Договорот за функционирање на Европската Унија, а особено член 215 од истиот,",
+      "mk2": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, имајќи го предвид Договорот за функционирање на Европската Унија, а особено член 215 од истиот,",
+      "score": 0.8691588785046729,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        3,
+        6
+      ],
+      "mk2_char_span": [
+        158,
+        282
+      ],
+      "evidence": {
+        "token_count": 58,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          4
+        ],
+        "atom_window": [
+          3,
+          6
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 4,
+      "en": "Having regard to Council Decision (CFSP) 2015/1333 of 31 July 2015 concerning restrictive measures in view of the situation in Libya, and repealing Decision 2011/137/CFSP (),",
+      "mk1": "Имајќи ја предвид Одлуката (ЗНБП) 2015/1333 на Советот од 31 јули 2015 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на Одлуката 2011/137/ЗНБП (),",
+      "mk2": "Имајќи имајќи ја предвид Одлуката (ЗНБП) 2015/1333 на Советот од 31 јули 2015 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на Одлуката 2011/137/ЗНБП (), Сл. весник L 206, 1.8. 2015 година, стр. 34.",
+      "score": 0.8814432989690721,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        3,
+        6
+      ],
+      "mk2_char_span": [
+        282,
+        512
+      ],
+      "evidence": {
+        "token_count": 58,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          4
+        ],
+        "atom_window": [
+          3,
+          6
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the joint proposal of the High Representative of the Union for Foreign Affairs and Security Policy and of the European Commission,",
+      "mk1": "имајќи го предвид заедничкиот предлог на Високиот претставник на Унијата за надворешни работи и безбедносна политика и на Европската комисија,",
+      "mk2": "имајќи го предвид заедничкиот предлог на Високиот претставник на Унијата за надворешни работи и безбедносна политика и на Европската комисија,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        6,
+        7
+      ],
+      "mk2_char_span": [
+        513,
+        655
+      ],
+      "evidence": {
+        "token_count": 20,
+        "references_preserved": true,
+        "neighbor_window": [
+          5,
+          5
+        ],
+        "atom_window": [
+          6,
+          7
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "(1) Council Regulation (EU) 2016/44 () gives effect to the measures provided for by Decision (CFSP) 2015/1333.",
+      "mk1": "(1) Со Регулативата (ЕУ) 2016/44 на Советот () се спроведуваат мерките предвидени во Одлуката (ЗНБП) 2015/1333.",
+      "mk2": "со оглед на тоа што: (1)Со Регулативата (ЕУ) 2016/44 на Советот () се спроведуваат мерките предвидени во Одлуката (ЗНБ",
+      "score": 0.8530805687203792,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        7,
+        9
+      ],
+      "mk2_char_span": [
+        656,
+        774
+      ],
+      "evidence": {
+        "token_count": 57,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          7
+        ],
+        "atom_window": [
+          7,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 7,
+      "en": "Council Regulation (EU) 2016/44 of 18 January 2016 concerning restrictive measures in view of the situation in Libya and repealing Regulation (EU) No 204/2011 (OJ L 12, 19.1.2016, p. 1).",
+      "mk1": "Регулатива (ЕУ) 2016/44 на Советот од 18 јануари 2016 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на Регулативата (ЕУ) бр. 204/2011 (Сл. весник L 12, 19.1.2016 година, стр. 1).",
+      "mk2": "П) 2015/1333. Регулатива (ЕУ) 2016/44 на Советот од 18 јануари 2016 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на Регулативата (ЕУ) бр. 204/2011 (Сл. весник L 12, 19.1.2016 година, стр. 1).",
+      "score": 0.9704433497536946,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        7,
+        9
+      ],
+      "mk2_char_span": [
+        774,
+        997
+      ],
+      "evidence": {
+        "token_count": 57,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          7
+        ],
+        "atom_window": [
+          7,
+          9
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 8,
+      "en": "(3) On 21 June 2021, the Council adopted Decision (CFSP) 2021/1014 () amending Decision (CFSP) 2015/1333, where it clarified that the criteria for the imposition of restrictive measures also encompassed natural or legal persons, entities and bodies obstructing or undermining the elections planned for in the Libyan Political Dialogue Forum roadmap.",
+      "mk1": "(3) На 21 јуни 2021 година Советот ја донесе Одлуката (ЗНБП) 2021/1014 () за изменување на Одлуката (ЗНБП) 2015/1333, со која се појасни дека критериумите за воведување рестриктивни мерки опфаќаат и физички или правни лица, субјекти и тела кои ги попречуваат или поткопуваат изборите планирани во рамките на планот на Либискиот форум за политички дијалог.",
+      "mk2": "(2)На 16 април 2021 година, Советот за безбедност на Обединетите нации (УНСЦ) донесе Резолуција 2571 (2021). УНСЦ потсети на Резолуцијата 2174 (2014), со која се одлучи дека мерките утврдени во Резолуцијата 1970 (2011), исто така, се однесуваат на поединци и субјекти кои што се занимаваат или даваат поддршка за други дејствија различни од оние што се наведени во Резолуцијата на ООН 1970 (2011), што го ги загрозуваат мирот , стабилноста или безбедноста на Либија, или го попречуваат или го поткопуваат успешното завршување на нејзината политичка транзиција. Тој, исто така, нагласи дека овие дејствија може да вклучуваат попречување или поткопување на изборите планирани во рамките на планот на Либискиот форум за пол",
+      "score": 0.40384615384615385,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        12
+      ],
+      "mk2_char_span": [
+        998,
+        1718
+      ],
+      "evidence": {
+        "token_count": 234,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          9,
+          12
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 9,
+      "en": "Council Decision (CFSP) 2021/1014 of 21 June 2021 amending Decision (CFSP) 2015/1333 concerning restrictive measures in view of the situation in Libya (see page 38 of this Official Journal).",
+      "mk1": "Одлука (ЗНБП) 2021/1014 на Советот од 21 јуни 2021 година за изменување на Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија (види стр. 38 од овој службен весник).",
+      "mk2": "итички дијалог. (3)На 21 јуни 2021 година, Советот ја донесе Одлуката (ЗНБП) 2021/1014 () за изменување на Одлуката (ЗНБП) 2015/1333, со која се појасни дека критериумите за воведување рестриктивни мерки опфаќаат и физички или правни лица, субјекти и тела кои што ги попречуваат или ги поткопуваат изборите планирани во рамките на планот на Либискиот форум за политички дијалог. Одлука (ЗНБП)",
+      "score": 0.3978685612788632,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        12
+      ],
+      "mk2_char_span": [
+        1718,
+        2111
+      ],
+      "evidence": {
+        "token_count": 234,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          9,
+          12
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 10,
+      "en": "(4) Some of those measures fall within the scope of the Treaty and, therefore, in particular with a view to ensuring their uniform application in all Member States, regulatory action at the level of the Union is necessary.",
+      "mk1": "(4) Некои од овие мерки спаѓаат во опсегот на Договорот и затоа, потребни се регулаторни мерки на ниво на Унијата, особено за да се обезбеди нивната униформна примена во сите земји членки.",
+      "mk2": "2021/1014 на Советот од 21 јуни 2021 година за изменување на Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија (види стр. 38 воод овој службен весник). (4)Некои од овие мерки спаѓаат во опсегот на Договорот и затоа, е потребнаи се регулаторна акцијаи мерки на ниво на Унијата, особено за да се обезбеди нивната униформна примена во сите земји членки.",
+      "score": 0.6606498194945848,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        9,
+        12
+      ],
+      "mk2_char_span": [
+        2111,
+        2492
+      ],
+      "evidence": {
+        "token_count": 234,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          9,
+          12
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 11,
+      "en": "(5) Regulation (EU) 2016/44 should therefore be amended accordingly,",
+      "mk1": "(5) Затоа, Регулативата (ЕУ) 2016/44 треба соодветно да се измени,",
+      "mk2": "(5)Затоа, Регулативата (ЕУ) 2016/44 треба соодветно да се измени,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        12,
+        13
+      ],
+      "mk2_char_span": [
+        2493,
+        2558
+      ],
+      "evidence": {
+        "token_count": 10,
+        "references_preserved": true,
+        "neighbor_window": [
+          11,
+          11
+        ],
+        "atom_window": [
+          12,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 12,
+      "en": "In Article 6(2) of Regulation (EU) 2016/44, point (d) is replaced by the following:",
+      "mk1": "Во член 6(2) од Регулативата (ЕУ) 2016/44, точка (г) се заменува со следново:",
+      "mk2": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА: Член 1 Во член 6(2) од Регулативата (ЕУ) 2016/44, точка (г) се заменува со следново:",
+      "score": 0.8092485549132948,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        13,
+        16
+      ],
+      "mk2_char_span": [
+        2559,
+        2670
+      ],
+      "evidence": {
+        "token_count": 20,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          12
+        ],
+        "atom_window": [
+          13,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 13,
+      "en": "‘(d) are engaged in or provide support for acts that threaten the peace, stability or security of Libya or obstruct or undermine the successful completion of Libya’s political transition, including by:",
+      "mk1": "„(г) учестваат или обезбедуваат поддршка на дејствија што го загрозуваат мирот, стабилноста или безбедноста на Либија или што го попречуваат или поткопуваат успешното завршување на политичката транзиција на Либија, вклучувајќи со:",
+      "mk2": "„(г)учествуваат или обезбедуваат поддршка на дејствија што го ги загрозуваат мирот, стабилноста или безбедноста на Либија или што го попречуваат или го поткопуваат успешното завршување на политичката транзиција на Либија, вклучувајќи",
+      "score": 0.9757174392935982,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        16,
+        19
+      ],
+      "mk2_char_span": [
+        2671,
+        2904
+      ],
+      "evidence": {
+        "token_count": 90,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          16,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 14,
+      "en": "(i) planning, directing, or committing acts in Libya that violate applicable international human rights law or international humanitarian law, or acts that constitute human rights abuses, in Libya;",
+      "mk1": "(i) планирање, насочување или извршување дејствија во Либија што го прекршуваат применливото меѓународно право за човекови права или меѓународното хуманитарно право, или дејствија што претставуваат прекршување на човековите права, во Либија;",
+      "mk2": "со: (i)планирање, насочување или извршување дејствија во Либија што го прекршуваат применливото меѓународно право за човекови права или меѓународното хуманитарно право, или дејствија што претставуваат прекршување на човековите права, во Либија",
+      "score": 0.9936575052854123,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        16,
+        19
+      ],
+      "mk2_char_span": [
+        2904,
+        3148
+      ],
+      "evidence": {
+        "token_count": 90,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          16,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 15,
+      "en": "(ii) attacks against any air, land or sea port in Libya, or against a Libyan state institution or installation, or against any foreign mission in Libya;",
+      "mk1": "(ii) напади врз кој било аеродром, копно или пристаниште во Либија или врз либиски државни институции или објекти, или врз која било странска мисија во Либија;",
+      "mk2": "; (ii)напади врз кој било аеродром, копно или пристаниште во Либија или врз либиски државни институции или објекти, или врз која било странска мисија во Либија;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        16,
+        19
+      ],
+      "mk2_char_span": [
+        3148,
+        3308
+      ],
+      "evidence": {
+        "token_count": 90,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          16,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 16,
+      "en": "(v) violating, or assisting in the evasion of, the provisions of the arms embargo in Libya established in UNSCR 1970 (2011) and Article 1 of this Regulation;",
+      "mk1": "(v) кршење, или помагање во заобиколувањето на одредбите од ембаргото за оружје за Либија утврдено во Резолуцијата на ОН 1970 (2011) и член 1 од оваа регулатива;",
+      "mk2": "",
+      "score": 0.4360056258790436,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 17,
+      "en": "(vii) being persons, entities or bodies acting for or on behalf or at the direction of any of the above, or being entities or bodies owned or controlled by them or by persons, entities or bodies listed in Annex II or III; or’.",
+      "mk1": "(vii) како лица, субјекти или тела кои дејствуваат за или во име или под раководство на оние наведени погоре, или како субјекти или тела во сопственост или контролирани од нив или од лица, субјекти или тела наведени во Анекс II или III; или“.",
+      "mk2": "",
+      "score": 0.2978723404255319,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 18,
+      "en": "of 21 June 2021",
+      "mk1": "од 21 јуни 2021 година",
+      "mk2": "",
+      "score": 0.319672131147541,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 19,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "",
+      "score": 0.2571428571428571,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 20,
+      "en": "OJ L 206, 1.8.2015, p. 34.",
+      "mk1": "Сл. весник L 206, 1.8. 2015 година, стр. 34.",
+      "mk2": "",
+      "score": 0.27638190954773867,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 21,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "",
+      "score": 0.25925925925925924,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 22,
+      "en": "(2) On 16 April 2021, the United Nations Security Council (UNSC) adopted resolution 2571 (2021).",
+      "mk1": "(2) На 16 април 2021 година, Советот за безбедност на Обединетите нации (УНСЦ) донесе Резолуција 2571 (2021).",
+      "mk2": "",
+      "score": 0.13414634146341464,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 23,
+      "en": "The UNSC recalled resolution 2174 (2014), which decided that the measures set out in resolution 1970 (2011) also apply to individuals and entities engaging in or providing support for acts other than those specified in UNSCR 1970 (2011), that threaten the peace, stability or security of Libya, or obstruct or undermine the successful completion of its political transition.",
+      "mk1": "УНСЦ потсети на Резолуцијата 2174 (2014), со која се одлучи дека мерките утврдени во Резолуцијата 1970 (2011), исто така, се однесуваат на поединци и субјекти кои се занимаваат или даваат поддршка за други дејствија од оние што се наведени во Резолуцијата на ООН 1970 (2011), што го загрозуваат мирот , стабилноста или безбедноста на Либија, или го попречуваат или поткопуваат успешното завршување на нејзината политичка транзиција.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 24,
+      "en": "It also underlined that such acts could include obstructing or undermining the elections planned for in the Libyan Political Dialogue Forum roadmap.",
+      "mk1": "Тој, исто така, нагласи дека овие дејствија може да вклучуваат попречување или поткопување на изборите планирани во рамките на планот на Либискиот форум за политички дијалог.",
+      "mk2": "",
+      "score": 0.10452961672473868,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 25,
+      "en": "HAS ADOPTED THIS REGULATION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 26,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 27,
+      "en": "(iii) providing support for armed groups or criminal networks through the illicit exploitation of crude oil or any other natural resources in Libya;",
+      "mk1": "(iii) обезбедување поддршка на вооружени групи или криминални мрежи преку нелегална експлоатација на сурова нафта или кој било друг природен ресурс во Либија;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 28,
+      "en": "(iv) threatening or coercing Libyan State financial institutions and the Libyan National Oil Company, or engaging in any action that may lead to or result in the misappropriation of Libyan State funds;",
+      "mk1": "(iv) закани или изнудувања против либиските државни финансиски институции и Либиската национална нафтена компанија, или учество во какво било дејство што може да доведе до проневера на либиските државни средства или да резултира со такви проневери;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 29,
+      "en": "(vi) obstructing or undermining the elections planned for in the Libyan Political Dialogue Forum roadmap;",
+      "mk1": "(vi) попречување или поткопување на изборите планирани во рамките на планот на Либискиот форум за политички дијалог;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 30,
+      "en": "This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила на денот по нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "",
+      "score": 0.24,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 31,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "mk1": "Оваа регулатива е обврзувачка во целост и директно применвлива во сите земји- членки.",
+      "mk2": "",
+      "score": 0.14814814814814814,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 32,
+      "en": "Done at Luxembourg, 21 June 2021.",
+      "mk1": "Луксембург, 21 јуни 2021 година.",
+      "mk2": "",
+      "score": 0.34375,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 33,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 34,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 35,
+      "en": "J. BORRELL FONTELLES",
+      "mk1": "Ј. БОРЕЛ ФОНТЕЛЕС",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 3,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021R1005",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Council Regulation (EU) 2021/1005 of 21 June 2021 amending Regulation (EU) 2016/44 concerning restrictive measures in view of the situation in Libya",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА (ЕУ) 2021/1005 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 21 јуни 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Регулативата (ЕУ) 2016/44 за рестриктивни мерки во однос на состојбата во Либија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Common foreign and security policy",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ана Наќева",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translations@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "20.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор(АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Нема карактеристични термини во актот.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32021R1005",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Council Regulation (EU) 2021/1005 of 21 June 2021 amending Regulation (EU) 2016/44 concerning restrictive measures in view of the situation in Libya",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА (ЕУ) 2021/1005 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 21 јуни 2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Регулативата (ЕУ) 2016/44 за рестриктивни мерки во однос на состојбата во Либија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Common foreign and security policy",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Павлова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translations@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "21.8.2021",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот(член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула, став 4",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "regulatory action",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "регулаторни мерки",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "регулаторна акција",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Regulatory measures е оригиналот на преводот регулаторни мерки.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Сл. весник L 206, 1.8. 2015 година, стр. 34.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Регулатива (ЕУ) 2016/44 на Советот од 18 јануари 2016 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на Регулативата (ЕУ) бр. 204/2011 (Сл. весник L 12, 19.1.2016 година, стр. 1).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Одлука (ЗНБП) 2021/1014 на Советот од 21 јуни 2021 година за изменување на Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија (види стр. 38 воод овој службен весник).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 5,
+        "text": "Сл. весник L 206, 1.8. 2015 година, стр. 34."
+      },
+      {
+        "ref": "2",
+        "body_index": 8,
+        "text": "Регулатива (ЕУ) 2016/44 на Советот од 18 јануари 2016 година за рестриктивни мерки во однос на состојбата во Либија и за укинување на Регулативата (ЕУ) бр. 204/2011 (Сл. весник L 12, 19.1.2016 година, стр. 1)."
+      },
+      {
+        "ref": "3",
+        "body_index": 10,
+        "text": "Одлука (ЗНБП) 2021/1014 на Советот од 21 јуни 2021 година за изменување на Одлуката (ЗНБП) 2015/1333 за рестриктивни мерки во однос на состојбата во Либија (види стр. 38 воод овој службен весник)."
+      }
+    ]
+  },
+  "dry_run": true
+}

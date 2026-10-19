@@ -1,0 +1,55 @@
+{
+  "status": "IMPLEMENTED_WITH_AUTHENTICATED_WORKSPACE_VERIFICATION_PENDING",
+  "cutover": {
+    "endpoint": "/convert/pdf-to-docx",
+    "defaultMode": "typed",
+    "engine": "eu-acquis-typed-reconstruction/1",
+    "conversionPath": "typed-reconstruction/validated-native-docx",
+    "rollbackMode": "legacy",
+    "silentFallback": false
+  },
+  "documents": [
+    {
+      "celex": "32025D2586",
+      "endpointStatus": 200,
+      "docx": "32025D2586-cutover.docx",
+      "sha256": "d627b4572e272bfaa18d4756a95cd639407050707d52987e1abf4526a6da306f",
+      "bytes": 39662,
+      "footnotes": 1,
+      "tables": 1,
+      "rows": 5,
+      "cells": 25,
+      "sections": 2,
+      "landscapeSections": 1
+    },
+    {
+      "celex": "32006L0054",
+      "endpointStatus": 200,
+      "docx": "32006L0054-cutover.docx",
+      "sha256": "086368bfa7ce7f7fcbdd52b1ce01435899e42eadc1706a2ee327c0699a90e969",
+      "bytes": 59401,
+      "footnotes": 7,
+      "tables": 3,
+      "rows": 70,
+      "cells": 308,
+      "sections": 1,
+      "landscapeSections": 0
+    }
+  ],
+  "tests": {
+    "worker": "70 passed",
+    "celexShadow": "5 passed",
+    "immutableArtifacts": "16 passed",
+    "sourcePdfArtifacts": "16 passed",
+    "reconstructionArtifacts": "5 passed",
+    "artifactReadback": "15 passed",
+    "validatedDocxArtifacts": "4 passed",
+    "typescript": "PASS"
+  },
+  "workspace": {
+    "applicationHealth": 200,
+    "filesTabContract": "A ready derived document version with a verified source_storage_path is exposed through the existing authenticated storage/source route.",
+    "authenticatedMutationPerformed": false,
+    "reason": "No authenticated browser session is available to this process; using privileged credentials would bypass the required user/RLS path. No Supabase artifact was published during validation."
+  }
+}

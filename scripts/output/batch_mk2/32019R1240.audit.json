@@ -1,0 +1,2522 @@
+{
+  "celex": "32019R1240",
+  "dry_run": true,
+  "source_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019R1240\\TMX_MK1\\32019R1240_TM.tmx"
+  ],
+  "mk2_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019R1240\\MK2\\32019R1240_MK2.docx"
+  ],
+  "original_tmx_sha256": "38636118a2b8812b475ee20623094b8876346c45f1ea5b2482c5a863610cdbfa",
+  "mk2_sha256": "b9a84dc67b05945641863d627ce2ce1e03684717fcd4ca79a5f920e5f967b0be",
+  "extraction": {
+    "format": "DOCX",
+    "paragraphs": 403,
+    "table cells": 209,
+    "characters": 48349,
+    "extraction method": "OOXML body traversal",
+    "error": ""
+  },
+  "results": [
+    {
+      "index": 1,
+      "en": "REGULATION (EU) 2019/1240 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+      "mk1": "РЕГУЛАТИВА (ЕУ) 2019/1240 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+      "status": "HIGH",
+      "target": "РЕГУЛАТИВА (ЕУ) 2019/1240 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 20 June 2019",
+      "mk1": "од 20 јуни 2019 година",
+      "status": "HIGH",
+      "target": "од 20 јуни 2019 година",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 20 June 2019",
+      "mk1": "од 20 јуни 2019 година",
+      "status": "UNMATCHED",
+      "target": "за формирање европска мрежа на офицер",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 3,
+      "en": "(recast)",
+      "mk1": "(преработена)",
+      "status": "UNMATCHED",
+      "target": "и за врска задолжени з",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 4,
+      "en": "THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "REVIEW",
+      "target": "а имиграција (преработена верзија) ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 3,
+      "en": "(recast)",
+      "mk1": "(преработена)",
+      "status": "UNMATCHED",
+      "target": "имајќи г",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 4,
+      "en": "THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "UNMATCHED",
+      "target": "о предвид Договорот за функциони",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on the Functioning of the European Union, and in particular Article 74 and Article 79(2) thereof,",
+      "mk1": "имајќи го предвид Договорот за  функционирање на Европската Унија, а особено член 74 и член 79(2) од истиот,",
+      "status": "REVIEW",
+      "target": "рање на Европската Унија, а особено член 74 и член 79(2) од истиот,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 4,
+      "en": "THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "ЕВРОПСКИОТ ПАРЛАМЕНТ И СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on the Functioning of the European Union, and in particular Article 74 and Article 79(2) thereof,",
+      "mk1": "имајќи го предвид Договорот за  функционирање на Европската Унија, а особено член 74 и член 79(2) од истиот,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the proposal from the European Commission,",
+      "mk1": "имајќи го предвид предлогот на Европската комисија,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 7,
+      "en": "After transmission of the draft legislative act to the national parliaments,",
+      "mk1": "по доставување на нацрт-законодавниот акт до националните парламенти,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 8,
+      "en": "Acting in accordance with the ordinary legislative procedure (),",
+      "mk1": "постапувајќи во согласност со вообичаената законодавна постапка (),",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 9,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 10,
+      "en": "Council Regulation (EC) No 377/2004 () has been substantially amended.",
+      "mk1": "Регулативата (EЗ) бр. 377/2004 на Советот () е значително изменета.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 11,
+      "en": "on the creation of a European network of immigration liaison officers",
+      "mk1": "за формирање европска мрежа на офицери за врска задолжени за имиграција",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 12,
+      "en": "Council Regulation (EC) No 377/2004 of 19 February 2004 on the creation of an immigration liaison officers network (OJ L 64, 2.3.2004, p. 1).",
+      "mk1": "Регулатива (ЕЗ) бр. 377/2004 на Советот од 19 февруари 2004 година за формирање мрежа на офицери за врска задолжени за имиграција (Сл. весник L 64, 2.3.2004, стр. 1)..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 13,
+      "en": "The sharp increase of mixed migratory flows in 2015 and 2016 has put migration, asylum and border management systems under pressure.",
+      "mk1": "Поради наглиот пораст на миграциските текови во 2015 и 2016 година, системите за миграција, азил и управување со граници беа под притисок.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 14,
+      "en": "This has posed a challenge for the Union and Member States, showing the need to strengthen Union policy in the field of migration with a view to achieving a coordinated and effective European response.",
+      "mk1": "Тоа се покажа како предизвик за Унијата и за земјите членки, укажувајќи на потребата за зајакнување на политиката на Унијата во областа на миграција, со цел да се постигне координиран и ефективен европски одговор.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 15,
+      "en": "The objective of Union policy in the field of migration is to replace irregular and uncontrolled migratory flows with safe and well-managed pathways, through a comprehensive approach aimed at ensuring, at all stages, the efficient management of migration flows in accordance with Chapter 2 of Title V of the Treaty on the Functioning of the European Union (TFEU).",
+      "mk1": "Целта на политиката на Унијата во областа на миграција е неправилните и неконтролираните миграциски текови да се заменат со безбедни и добро контролирани патишта, преку сеопфатен пристап насочен кон тоа во сите фази да се обезбеди ефикасно управување со миграциските текови во согласност со Поглавје 2 од Наслов V од Договорот за функционирање на Европската Унија (ДФЕУ).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 16,
+      "en": "Respect for human rights is a fundamental principle of the Union.",
+      "mk1": "Почитувањето на човековите права е основно начело на Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 17,
+      "en": "To ensure the effective implementation of all aspects of Union policies on immigration, consistent dialogue and cooperation should be pursued with key third countries of origin and transit of migrants and of applicants for international protection.",
+      "mk1": "За да се обезбеди ефективно спроведување на сите аспекти на политиките на Унијата, треба да се води доследен дијалог и соработка со клучните трети страни на потекло и на транзит на мигрантите и на барателите на меѓународна заштита.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 18,
+      "en": "Legal immigration strategies and channels between the Union and third countries should also include labour migration, visas for students and family reunification, without prejudice to the national competences of Member States.",
+      "mk1": "Стратегиите и каналите за законска имиграција меѓу Унијата и трети земји, исто така, треба да вклучат миграција на работна сила, визи за студенти и повторно обединување на семејства, без да е во спротивност со националните компетенции на земјите членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 19,
+      "en": "In light of the increasing demand for analysis and information to support evidence-based policy making and operational responses, there is a need for immigration liaison officers to ensure that their insight and knowledge contribute fully to the establishment of a comprehensive situational picture on third countries.",
+      "mk1": "Со оглед на зголемената побарувачка за анализа и информации како поддршка за донесување политики врз основа на докази и оперативни одговори, постои потреба офицерите за врска задолжени за имиграција да обезбедат нивните увиди и знаење целосно да придонесат за воспоставување сеопфатна слика на состојбата во трети земји.",
+      "status": "UNMATCHED",
+      "target": "Со оглед дека офицерите за врска што се занимаваат со прашања поврзани со миграција, ги распоредуваат различни надлежни органи и нивните мандати може да се преклопуваат, треба да се вложат напори за да се подобри соработката меѓу офицерите што работат во рамките на иста трета земја или рег",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 20,
+      "en": "Given that liaison officers dealing with migration-related issues are deployed by different competent authorities and that their mandates and tasks may overlap, efforts should be made to enhance cooperation among officers operating within the same third country or region.",
+      "mk1": "Со оглед дека офицерите за врска што се занимаваат со прашања поврзани со миграција ги распоредуваат различни надлежни органи и нивните мандати може да се преклопуваат, треба да се вложат напори за да се подобри соработката меѓу офицерите што работат во рамките на иста трета земја или регион.",
+      "status": "UNMATCHED",
+      "target": "ион. Ако Комисијата или агенциите на Унијата распоредат офицери за врска задолжени за имиграција во дипломатски мисии во трета земја, тие треба да ја олеснуваат и да ја поддржуваат мрежата на офицери за врска задолжени за имиграција во таа трета земја. Ако е соодве",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 21,
+      "en": "Where appropriate, such networks may be extended to liaison officers deployed by countries other than Member States.",
+      "mk1": "Ако е соодветно, таквите мрежи може да се прошират и на офицерите за врска што ги распоредиле земји што не се земји членки.",
+      "status": "HIGH",
+      "target": "тно, таквите мрежи може да се прошират и на офицерите за врска што ги распоредиле земји што не се земји членки.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 20,
+      "en": "Given that liaison officers dealing with migration-related issues are deployed by different competent authorities and that their mandates and tasks may overlap, efforts should be made to enhance cooperation among officers operating within the same third country or region.",
+      "mk1": "Со оглед дека офицерите за врска што се занимаваат со прашања поврзани со миграција ги распоредуваат различни надлежни органи и нивните мандати може да се преклопуваат, треба да се вложат напори за да се подобри соработката меѓу офицерите што работат во рамките на иста трета земја или регион.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 21,
+      "en": "Where appropriate, such networks may be extended to liaison officers deployed by countries other than Member States.",
+      "mk1": "Ако е соодветно, таквите мрежи може да се прошират и на офицерите за врска што ги распоредиле земји што не се земји членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 22,
+      "en": "When carrying out its tasks, the Steering Board should take into account the diversity of networks of immigration liaison officers as well as the views of the Member States most concerned as regards relations with particular third countries.",
+      "mk1": "При извршувањето на своите задачи, Управувачкиот одбор треба да ја земе предвид разновидноста на мрежите на офицерите за врска задолжени за имиграција, како и ставовите на најзасегнатите земји членки во однос на односите со определени трети земји.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 23,
+      "en": "A list of immigration liaison officers deployed to third countries should be established and updated regularly by the Steering Board.",
+      "mk1": "Управувачкиот одбор треба да утврди и редовно да ажурира список на офицерите за врска задолжени за имиграција што се распоредени во трети земји.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 24,
+      "en": "The list should include information related to the location, composition and activities of different networks, including the contact details and a summary of the duties of the deployed immigration liaison officers.",
+      "mk1": "Списокот треба да опфати информации поврзани со локацијата, составот и активностите на различни мрежи, вклучително и податоци за контакт и преглед на должностите на распоредените офицери за врска задолжени за имиграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 25,
+      "en": "Building on this experience, longer-term deployments of immigration liaison officers by the Commission to third countries should be foreseen to support development, implementation and maximise the impact of Union action on migration.",
+      "mk1": "Врз основа на тоа искуство, треба да се предвиди подолгорочно распоредување од Комисијата на офицерите за врска задолжени за имиграција во трети земји, заради поддршка на развојот, спроведувањето и зголемувањето на влијанието на дејствувањето на Унијата во однос на миграцијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 26,
+      "en": "Where immigration liaison officers are deployed to the Union’s diplomatic missions in a third country by the Commission or Union agencies, they should facilitate and support the immigration liaison officers’ network in that third country.",
+      "mk1": "Ако Комисијата или агенциите на Унијата распоредат офицери за врска задолжени за имиграција во дипломатски мисии во трета земја, тие треба да ја олеснуваат и поддржуваат мрежата на офицери за врска задолжени за имиграција во таа трета земја.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 27,
+      "en": "HAVE ADOPTED THIS REGULATION:",
+      "mk1": "ЈА ДОНЕСОА ОВАА РЕГУЛАТИВА:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 28,
+      "en": "Special provision should be made for a wider Union capacity-building action for immigration liaison officers.",
+      "mk1": "Треба да се утврдат посебни одредби за посеопфатно дејствување на Унијата за изградба на капацитети на офицерите за врска задолжени за имиграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 29,
+      "en": "Such curricula should be non-compulsory and supplementary to national curricula established by deploying authorities.",
+      "mk1": "Таквите наставни планови треба да бидат незадолжителни и да бидат дополнување на националните наставни планови што ги уврдиле органите задолжени за распоредување.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 30,
+      "en": "Those networks should act as facilitators and providers of information from third countries to support Union agencies in their functions and tasks, in particular where Union agencies have not yet established cooperative relations with third countries.",
+      "mk1": "Мрежите треба да дејствуваат како олеснувачи и даватели на информации од трети земји како поддршка на агенциите на Унијата во нивните функции и задачи, особено ако агенциите на Унијата не воспоставиле односи на соработка со трети земји.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 31,
+      "en": "Closer cooperation between networks of immigration liaison officers and relevant Union agencies should be established to that effect.",
+      "mk1": "За таа цел треба да се воспостави поблиска соработка меѓу мрежите офицери за врска задолжени за имиграција и релевантните агенции на Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 32,
+      "en": "Networks of immigration liaison officers should avoid duplicating the work of Union agencies and other Union instruments or structures, including the work of local Schengen cooperation groups, and should bring added value to what they already achieve in terms of collecting and exchanging information in the area of immigration, in particular by focusing on operational aspects.",
+      "mk1": "Во мрежите на офицерите за врска задолжени за имиграција треба да се избегнува удвојување на работата на агенциите на Унијата и на други инструменти или структури на Унијата, вклучително и работата на групите за локална шенгенска соработка и тие треба да создадат додадена вредност на она што веќе го постигнале од аспект на собирање и размена на информации во областа на имиграцијата, со особен нагласок на оперативните аспекти.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 33,
+      "en": "Immigration liaison officers should at all times be aware that their actions might have operational or reputational consequences for local and regional networks of immigration liaison officers.",
+      "mk1": "Офицерите за врска задолжени за имиграција во секое време треба да се свеси дека нивните дејства би можеле да имаат оперативни последици и последици по репутацијата за локалните и регионалните мрежи офицери за врска задолжени за имиграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 34,
+      "en": "They should act accordingly when carrying out their tasks.",
+      "mk1": "При извршување на своите задачи тие треба да дејствуваат во согласност со тоа.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 35,
+      "en": "In order to ensure the most effective use of information collected by the networks of immigration liaison officers, such information should be available through a secure web-based information exchange platform in accordance with applicable data protection legislation.",
+      "mk1": "За да се обезбеди најефикасно користење на информациите што ги собираат мрежите офицери за врска задолжени за имиграција, таквите информации треба да бидат достапни преку безбедна интернет-платформа за размена на информации, во согласност со применливото законодавство за заштита на податоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 36,
+      "en": "Information collected by immigration liaison officers should support the implementation of the technical and operational European integrated border management referred to in Regulation (EU) 2016/1624 of the European Parliament and of the Council () and contribute to the development and maintenance of national border surveillance systems in accordance with Regulation (EU) No 1052/2013 of the European Parliament and of the Council ().",
+      "mk1": "Информациите што ги собираат офицерите за врска задолжени за имиграција треба да поддржат спроведување техничко и оперативно европско интегрирано управување со границите како што е наведено во Регулативата (ЕУ) 2016/1624 на Европскиот парламент и на Советот () и да придонесат за развојот и одржувањето на национални системи за надзор на границите, во согласност со Регулативата (ЕУ) бр. 1052/2013 на Европскиот парламент и на Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 37,
+      "en": "Regulation (EU) No 1052/2013 of the European Parliament and of the Council of 22 October 2013 establishing the European Border Surveillance System (Eurosur) (OJ L 295, 6.11.2013, p. 11).",
+      "mk1": "Регулатива (ЕУ) бр 1052/2013 на Европскиот парламент и на Советот од 22 октомври 2013 година за воспоставување Европски систем за надзор на границите (Евросур) (Сл. весник 295, 6.11.2013 година, стр. 11).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 38,
+      "en": "Regulation (EU) 2016/1624 of the European Parliament and of the Council of 14 September 2016 on the European Border and Coast Guard and amending Regulation (EU) 2016/399 of the European Parliament and of the Council and repealing Regulation (EC) No 863/2007 of the European Parliament and of the Council, Council Regulation (EC) No 2007/2004 and Council Decision 2005/267/EC (OJ L 251, 16.9.2016, p. 1).",
+      "mk1": "Регулатива (ЕУ) 2016/1624 на Европскиот парламент и на Советот од 14 септември 2016 година за европска гранична и крајбрежна стража и за изменување на Регулативата (ЕУ) 2016/399 на Европскиот парламент и на Советот и укинување на Регулативата (ЕЗ) бр. 863/2007 на Европскиот парламент и на Советот, Регулативата (EЗ) бр. 2007/2004 на Советот и Одлуката 2005/267/EЗ на Советот (Сл. весник L 251, 16.9.2016 година, стр. 1).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 39,
+      "en": "It should be possible to use the available resources of the Regulation (EU) No 515/2014 of the European Parliament and of the Council () to support the activities of a European network of immigration liaison officers as well as to pursue the joint deployment of immigration liaison officers by Member States.",
+      "mk1": "Треба да се овозможи употреба на достапните ресурси врз основа на Регулативата (ЕУ) бр. 515/2014 на Европскиот парламент и на Советот () за поддршка на активностите на европска мрежа на офицери за врска задолжени за имиграција, како и за заедничко распоредување на офицерите за врска задолжени за имиграција од земјите членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 40,
+      "en": "Any processing, including the transfer, of personal data by Member States within the framework of this Regulation should be conducted in accordance with Regulation (EU) 2016/679 of the European Parliament and of the Council ().",
+      "mk1": "Секоја обработка, вклучително и пренос на лични податоци од земјите членки во рамките на оваа регулативе треба да се извршува во согласност со Регулативата (ЕУ) 2016/679 на Европскиот Парламент и на Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 41,
+      "en": "The Commission and Union agencies should apply Regulation (EU) 2018/1725 of the European Parliament and of the Council () when processing personal data.",
+      "mk1": "При обработка на лични податоци, Комисијата и агенциите на Унијата треба да ја применуваат Регулативата (ЕУ) 2018/1725 на Европскиот парламент и на Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 42,
+      "en": "Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation) (OJ L 119, 4.5.2016, p. 1).",
+      "mk1": "Регулатива (ЕУ) 2016/679 на Европскиот парламент и на Советот од 27 април 2016 година за заштита на физичките лица во однос на обработката на лични податоци и слободното движење на таквите податоци и укинување на Директивата 95/46/EЗ (Општа регулатива за заштита на податоци) (Сл. весник L 119, 4.5.2016 година, стр. 1).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 43,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:295:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2018:295:TOC",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 44,
+      "en": "A legal framework that recognises the role of immigration liaison officers in this context is therefore necessary.",
+      "mk1": "Според тоа, потребна е правна рамка што ја признава улогата на офицерите за врска задолжени за имиграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 45,
+      "en": "Immigration liaison officers need to process personal data to facilitate the proper implementation of return procedures, the successful enforcement of return decisions, and reintegration where relevant and possible.",
+      "mk1": "Офицерите за врска задолжени за имиграција треба да ги обработуваат личните податоци за да го олеснат правилното спроведување на постапките за враќање, успешното спроведување на одлуките за враќање и реинтеграција, ако тоа е релевантно и можно.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 46,
+      "en": "Therefore, readmission agreements, concluded or being negotiated by the Union or the Member States and providing for appropriate safeguards for the transfer of data to third countries pursuant to Article 46 of Regulation (EU) 2016/679, cover a limited number of such third countries.",
+      "mk1": "Според тоа, договорите за повторно прифаќање што Унијата или земјите членки ги склучиле или за кои преговараат, кои предвидуваат соодветни заштитни механизми за пренос на податоците во трети земји во согласност со член 46 од Регулативата (ЕУ) 2016/679, опфаќаат ограничен број такви трети земји.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 47,
+      "en": "It should therefore be possible for immigration liaison officers to use the derogation provided for in Article 49(1)(d) of Regulation (EU) 2016/679 subject to the conditions set out in that Article for the purposes of this Regulation, namely for the dignified and effective return of third-country nationals who do not fulfil or no longer fulfil the conditions for entry, stay or residence in the Member States in accordance with Directive 2008/115/EC of the European Parliament and of the Council ().",
+      "mk1": "Според тоа, треба да се овозможи офицерите за врска задолжени за имиграција да го користат отстапувањето предвидено во член 49(1)(г) од Регулативата (ЕУ) 2016/679 во согласност со условите наведени во тој член за цели на оваа регулатива, имено за достоинствено и ефективно враќање на државјани од трети земји што не ги исполнуваат или повеќе не ги исполнуваат условите за влез, престој или жителство во земјите членки во согласност со Директивата 2008/115/EC на Европскиот парламент и на Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 48,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2008:348:TOC",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:L:2008:348:TOC",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 49,
+      "en": "In the interests of the persons concerned, immigration liaison officers should be able to process the personal data of persons in need of international protection subject to resettlement and of persons wishing to migrate legally to the Union, in order to confirm their identity and nationality.",
+      "mk1": "Во интерес на засегнатите лица, офицерите за врска задолжени за имиграција треба да бидат во можност да ги обработуваат личните податоци на лицата што имаат потреба од меѓународна заштита што подложат на преселување и на лицата што сакаат да мигрираат легално во Унијата, со цел да го потврдат нивниот идентитет и националност.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 50,
+      "en": "Immigration liaison officers operate in a context in which it is likely that they gain important insights into the activities of criminal organisations involved in smuggling of migrants and trafficking in human beings.",
+      "mk1": "Офицерите за врска задолжени за миграција работат во контекст во кој веројатно ќе добијат важни увиди во активностите на криминалните организации вклучени во криумчарење на мигранти и трговија со луѓе.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 51,
+      "en": "The objective of this Regulation is to optimise utilisation of the network of immigration liaison officers deployed by Member States, Commission and Union agencies to third countries in order to implement Union priorities more effectively while respecting the national competences of Member States.",
+      "mk1": "Целта на оваа Регулатива е да се оптимизира користењето на мрежата офицери за врска задолжени за имиграција што земјите членки, Комисијата и агенциите на Унијата ги распоредиле во трети земји заради поефективно исполнување на приоритетите на Унијата, со истовремено почитување на националните надлежности на земјите членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 52,
+      "en": "Further Union priorities are to facilitate dignified and effective return, readmission and reintegration, contributing to integrated management of the Union’s external borders and to support management of legal immigration or international protection schemes.",
+      "mk1": "Натамошните приоритети на Унијата се олеснување на достоинствено и ефективно враќање, повторно прифаќање и реинтеграција, со што се дава придонес за интегрирано управување со надворешните граници на Унијата и поддршка на управувањето на законската имиграција или меѓународните програми за заштита.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 53,
+      "en": "Since the objective of this Regulation cannot be sufficiently achieved by the Member States alone but can rather, by reason of their large scale and their effects throughout the Union, be better achieved through coordination at Union level, the Union may adopt measures, in accordance with the principle of subsidiarity as set out in Article 5 TEU.",
+      "mk1": "Со оглед дека земјите членки не може сами задоволително да ја остварат целта на оваа регулатива, туку поради нивниот голем обем и нивните ефекти низ Унијата, тие подобро ќе се остварат преку координација на нивото на Унијата, Унијата може да донесе мерки, во согласност со начелата на супсидијарност како што се утврдени во член 5 ДЕУ.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 54,
+      "en": "In accordance with the principle of proportionality, as set out in that Article, this Regulation does not go beyond what is necessary in order to achieve that objective.",
+      "mk1": "Во согласност со начелото на пропорционалност, како што е утврдено во тој член, оваа регулатива не го преминува она што е потребно за да се оствари таа цел.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 55,
+      "en": "OJ L 176, 10.7.1999, p. 36.",
+      "mk1": "Сл. весник L 176, 10.7.1999 година, стр. 36.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 56,
+      "en": "As regards Switzerland, this Regulation constitutes a development of the provisions of the Schengen acquis within the meaning of the Agreement between the European Union, the European Community and the Swiss Confederation on the Swiss Confederation’s association with the implementation, application and development of the Schengen acquis () which fall within the area referred to in Article 1, points A and E, of Decision 1999/437/EC read in conjunction with Article 3 of Council Decision 2008/149/JHA ().",
+      "mk1": "Во однос на Исланд и Норвешка, оваа регулатива претставува развој на одредбите на шенгенското acquis во рамките на значењето на Договорот склучен од Советот на Европската Унија, Република Исланд и Кралството Норвешка во однос на асоцирање на тие држави кон спроведувањето, примената и развојот на шенгенското acquis (), кои припаѓаат на подрачјето наведено во член 1, точки A и E од Одлуката 2008/149/EЗ на Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 57,
+      "en": "OJ L 53, 27.2.2008, p. 52.",
+      "mk1": "Сл. весник L 53, 10.7.1999 година, стр. 52.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 58,
+      "en": "Council Decision 1999/437/EC of 17 May 1999 on certain arrangements for the application of the Agreement concluded by the Council of the European Union and the Republic of Iceland and the Kingdom of Norway concerning the association of those two States with the implementation, application and development of the Schengen acquis (OJ L 176, 10.7.1999, p. 31).",
+      "mk1": "Одлука 1999/437/EЗ на Советот од 17 мај 1999 за одредени аранжмани за примена на Договорот склучен од Советот на Европската Унија, Република Исланд и Кралството Норвешка во однос на  асоцирање на тие две држави кон спроведувањето, примената и развојот на шенгенското acquis (Сл. весник L 176, 10.7.1999 година, стр. 31).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 59,
+      "en": "Council Decision 2008/149/JHA of 28 January 2008 on the conclusion, on behalf of the European Union, of the Agreement between the European Union, the European Community and the Swiss Confederation on the Swiss Confederation’s association with the implementation, application and development of the Schengen acquis (OJ L 53, 27.2.2008, p. 50).",
+      "mk1": "Одлука 2008/149/ПВР на Советот од 28 January 2008 година за заклучување, во име на Европската Унија, на Договор меѓу Европската Унија, Европската заедница и Швајцарската Конфедерација за асоцирањето на Швајцарската Конфедерација кон спроведувањето, примената и развојот на шенгенското acquis (Сл. весник L 53, 27.2.2008 година, стр. 50).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 60,
+      "en": "As regards Liechtenstein, this Regulation constitutes a development of the provisions of the Schengen acquis within the meaning of the Protocol between the European Union, the European Community, the Swiss Confederation and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the European Union, the European Community and the Swiss Confederation on the Swiss Confederation’s association with the implementation, application and development of the Schengen acquis () which fall within the area referred to in Article 1, points A and E, of Decision 1999/437/EC read in conjunction with Article 3 of Council Decision 2011/350/EU ().",
+      "mk1": "Во однос на Лихтенштајн, оваа регулатива претставува развој на одредбите на шенгенското acquis во рамките на значењето на Протоколот меѓу Европската Унија, Европската заедница, Швајцарската Конфедерација и Кнежевството Лихтенштајн за пристапувањето на Кнежевството Лихтенштајн кон Договорот меѓу Европската Унија, Европската Заедница и Швајцарската конфедерација за асоцирањето на Швајцарската конфедерација кон спроведувањето, примената и развојот на шенгенското acquis (), кои припаѓаат на областа наведена во член 1, точки A и E од Одлуката 1999/437/EЗ толкувана во врска со член 3 од Одлуката 2011/350/EУ на Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 61,
+      "en": "OJ L 160, 18.6.2011, p. 21.",
+      "mk1": "Сл. весник L 160, 18.6.2011 година, стр. 21.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 62,
+      "en": "Council Decision 2011/350/EU of 7 March 2011 on the conclusion, on behalf of the European Union, of the Protocol between the European Union, the European Community, the Swiss Confederation and the Principality of Liechtenstein on the accession of the Principality of Liechtenstein to the Agreement between the European Union, the European Community and the Swiss Confederation on the Swiss Confederation’s association with the implementation, application and development of the Schengen acquis, relating to the abolition of checks at internal borders and movement of persons (OJ L 160, 18.6.2011, p. 19).",
+      "mk1": "Одлука 2011/350/ЕУ на Советот од 7 March 2011 за заклучување, во име на Европската Унија, на Протоколот меѓу Европската Унија, Европската заедница, Швајцарската Конфедерација и Кнежевството Лихтенштајн за пристапувањето на Кнежевството Лихтенштајн кон Договорот меѓу Европската Унија, Европската заедница и Швајцарската Конфедерација за асоцирање на Швајцарската Конфедерација кон спроведувањето, примената и развојот на шенгенското acquis, во однос на укинувањето на проверки на меѓународните граници и на движењето на луѓе (Сл. весник L 160, 18.6.2011 година, стр. 19).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 63,
+      "en": "In accordance with Articles 1 and 2 of Protocol No 22 on the position of Denmark, annexed to the TEU and to the TFEU, Denmark is not taking part in the adoption of this Regulation and is not bound by it or subject to its application.",
+      "mk1": "Во согласност со членовите 1 и 2 од Протоколот бр. 22 за ставот на Данска, приложен кон ДЕУ и кон ДФЕУ, Данска не учествува во донесувањето на оваа регулатива и таа за неа не е обврзувачка ниту се применува на неа.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 64,
+      "en": "Given that this Regulation builds upon the Schengen acquis, Denmark shall, in accordance with Article 4 of that Protocol, decide within a period of six months after the Council has decided on this Regulation whether it will implement it in its national law.",
+      "mk1": "Со оглед дека оваа регулатива се надоврзува на шенгенското acquis, Данска, во согласност со член 4 од тој Протокол, одлучува во период од шест месеци откако Советот донел одлука за оваа регулатива, дали ќе ја спроведува во своето национално право.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 65,
+      "en": "On 1 October 2018, in accordance with Article 5(2) of Protocol No 19 on the Schengen acquis integrated into the framework of the European Union, annexed to the TEU and to the TFEU, the United Kingdom notified the Council of its wish not to take part in the adoption of this Regulation.",
+      "mk1": "На 1 октомври 2018 година, во согласност со член 5(2) од Протоколот бр. 19 за шенгенското acquis што е интегриран во рамката на Европската Унија, кој е приложен кон ДЕУ и ДФЕУ, Обединетото Кралство го известило Советот за својата желба да не учествува во донесувањето на оваа регулатива",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 66,
+      "en": "Council Decision (EU) 2019/304 of 18 February 2019 concerning the notification by the United Kingdom of Great Britain and Northern Ireland of its wish no longer to take part in some of the provisions of the Schengen acquis which are contained in Council Regulation (EC) No 377/2004 on the creation of an immigration liaison officers network (OJ L 51, 22.2.2019, p. 7).",
+      "mk1": "Одлука (EУ) 2019/304 на Советот од 18 февруари 2019 година за известување од Обединетото Кралство на Велика Британија и Северна Ирска, за неговата желба повеќе да не учествува во некои одредби од шенгенскоо acquis кои се содржани во Регулативата (EЗ) бр. 377/2004 на Советот за формирање мрежа на офицери за врска задолжени за миграција (Сл. весник L 51, 22.2.2019 година, стр. 7).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 67,
+      "en": "Council Decision 2000/365/EC of 29 May 2000 concerning the request of the United Kingdom of Great Britain and Northern Ireland to take part in some of the provisions of the Schengen acquis (OJ L 131, 1.6.2000, p. 43).",
+      "mk1": "Одлука 2000/365/EЗ на Советот од 29 мај 2000 година за барањето на Обединетото Кралство на Велика Британија и Северна рска да учествува во некои одредби ана шенгенското  acquis (Сл. весник L 131, 1.6.2000 година, стр. 43).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 68,
+      "en": "Council Decision 2004/926/EC of 22 December 2004 on the putting into effect of parts of the Schengen acquis by the United Kingdom of Great Britain and Northern Ireland (OJ L 395, 31.12.2004, p. 70).",
+      "mk1": "Одлука 2004/926/EЗ на Советот од 22 декември 2004 за ставање во сила на делови од шенгенското acquis од Обединетото Кралство на Велика Британија и Северна Ирска (Сл. весник L 395, 31.12.2004 година, стр. 70).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 69,
+      "en": "Ireland is taking part in this Regulation, in accordance with Article 5(1) of Protocol No 19, and Article 6(2) of Council Decision 2002/192/EC ().",
+      "mk1": "Ирска учествува во оваа регулатива, во согласност со член 5(1) од Протоколот бр. 19 и член 6(2) од Одлуката 2002/192/EЗ на Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 70,
+      "en": "Council Decision 2002/192/EC of 28 February 2002 concerning Ireland’s request to take part in some of the provisions of the Schengen acquis (OJ L 64, 7.3.2002, p. 20).",
+      "mk1": "Одлука 2002/192/EЗ на Советот од 28 февруари 2002 година за барањето на Ирска да учествува во некои одредби од шенгенското acquis (Сл. весник L 64, 7.3.2002 година, стр. 20).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 71,
+      "en": "The participation of Ireland in this Regulation in accordance with Article 6(2) of Decision 2002/192/EC relates to the responsibilities of the Union for taking measures developing the provisions of the Schengen acquis against the organisation of illegal immigration in which Ireland participates.",
+      "mk1": "Учеството на Ирска во оваа регулатива во согласност со член 6(2) од Одлуката 2002/192/EЗ се однесува на одговорностите на Унијата за преземање мерки за развој на одредби на шенгенското acquis против организацијата на илегална имиграција, во кои учествува Ирска.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 72,
+      "en": "This Regulation constitutes an act building upon, or otherwise relating to, the Schengen acquis within, respectively, the meaning of Article 3(1) of the 2003 Act of Accession, Article 4(1) of the 2005 Act of Accession and Article 4(1) of the 2011 Act of Accession,",
+      "mk1": "Оваа регулатива претставува акт што се темели врз шенгенското acquis или е поврзано со него на друг начин, во рамките на значењето на член 3(1) од Актот за пристапување од 2003 година, односно член 4(1) од Актот за пристапување од 2005 година и член 4(1) од Актот за пристапување од 2011 година,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 73,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 74,
+      "en": "Scope",
+      "mk1": "Опсег",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 75,
+      "en": "1.",
+      "mk1": "1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 76,
+      "en": "This Regulation lays down rules to enhance cooperation and coordination among immigration liaison officers deployed to third countries by Member States, the Commission and Union agencies, through the creation of a European network of immigration liaison officers.",
+      "mk1": "Со оваа регулатива се утврдуваат правилата за подобрување на соработката и координацијата меѓу офицерите за врска задолжени за имиграција што земјите членки, Комисијата и агенциите на Унијата ги распоредиле во трети земји, преку создавање европска мрежа на офицери за врска задолжени за имиграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 77,
+      "en": "This Regulation is without prejudice to the responsibility of Member State authorities, the Commission and Union agencies for defining the scope and assignment of tasks and reporting lines of their respective immigration liaison officers, and to the tasks of immigration liaison officers within the framework of their responsibilities under Union and national law, policies or procedures, or under special agreements concluded with the host country or international organisations.",
+      "mk1": "Оваа регулатива не е во спротивност со одговорноста на органите на земјите членки, Комисијата и на агенциите на Унијата за одредување на опсегот и за доделување на задачите, како и на линиите на одговорност на нивните соодветни офицери за врска задолжени за имиграција, и со задачите на офицерите за врска задолжени за имиграција во рамките на нивните одговорности според правото, политиките или постапките на Унијата и националното право, политики и постапки, или во согласност со посебни договори заклучени со земјата домаќин или со меѓународни организации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 78,
+      "en": "Definitions",
+      "mk1": "Дефиниции:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 79,
+      "en": "(1)\t‘immigration liaison officer’ means a liaison officer designated and deployed abroad, by the competent authorities of a Member State, or by the Commission or by a Union agency, in accordance with the respective legal basis, to deal with immigration-related issues, also when that is only a part of their duties;",
+      "mk1": "(1)\t„офицер за врска задолжен за имиграција“ значи офицер за врска кого надлежните органи на земја членка, Комисијата или агенција на Унијата го назначиле и распоредиле за работа во странство, во согласност со соодветната правна основа, кој се занимава со прашања поврзани со имиграција, дури кога тоа е само дел од неговите должности;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 80,
+      "en": "(a)\ta diplomatic mission of a Member State;",
+      "mk1": "(a)\tдипломатска мисија на земја членка;",
+      "status": "UNMATCHED",
+      "target": "(в)меѓународна организација; (г)дипломатска мисија на Унијата;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 81,
+      "en": "(b)\tthe competent authorities of a third country;",
+      "mk1": "(б)\tнадлежни органи во трета земја;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 82,
+      "en": "(c)\tan international organisation;",
+      "mk1": "(в)\tмеѓународна организација;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 83,
+      "en": "(d)\ta diplomatic mission of the Union;",
+      "mk1": "(г)\tдипломатска мисија на Унијата;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 84,
+      "en": "(3)\t‘personal data’ means personal data as defined in point (1) of Article 4 of the Regulation (EU) 2016/679;",
+      "mk1": "(3)\t„лични податоци“ значи лични податоци како што се дефинирани во точка (1) од член 4 од Регулативата (ЕУ) 2016/679;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 85,
+      "en": "(4)\t‘return’ means return as defined in point (3) of Article 3 of Directive 2008/115/EC.",
+      "mk1": "(4)\t„враќање“ значи враќање како што е дефинирано во точка (3) од член 3 од Директивата 2008/115/EЗ.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 86,
+      "en": "Tasks of immigration liaison officers",
+      "mk1": "Задачи на офицерите за врска задолжени за имиграција",
+      "status": "REVIEW",
+      "target": "2.Офицерите за врска задолжени за имиграција ги извршуваат своите зад",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 87,
+      "en": "They shall have particular consideration for vulnerable persons and take into account the gender dimension of migration flows.",
+      "mk1": "Тие им посветуваат особено внимание на ранливите лица и ја земаат предвид родовата димензија на миграциските текови.",
+      "status": "UNMATCHED",
+      "target": "ачи во согласност со фундаменталните права како општи начела на правото на Унијата, како и меѓународното право, вклучително и обврските во однос на човеко",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 88,
+      "en": "Each deploying authority shall ensure that immigration liaison officers establish and maintain direct contacts with the competent authorities of third countries, including, when appropriate, with local authorities, and any relevant organisations operating within the third country, including international organisations, notably with a view to implementing this Regulation.",
+      "mk1": "Секој орган задолжен за распоредување обезбедува офицерите за врска задолжени за имиграција да воспостават и да одржуваат директни контакти со надлежните органи на трети земји, вклучително, кога е соодветно, со локалните органи, како и со сите релевантни организации што работат во рамките на третата земја, вклучително и меѓународни организации, особено со цел спроведување на оваа регулатива.",
+      "status": "REVIEW",
+      "target": "вите права. Тие им посветуваат особено внимание на ранливите лица и ја земаат предвид родовата димензија на миграциските текови. 3.Секој орган задолжен за распоредување обезбедува офицерите за врска задолжени за имиграција да воспостават и да одржуваат директни контакти со надлежните органи на трети земји, вклучително, кога е соодветно, со локалните органи, како и со сите релевантни организации што работат во рамките на третата земја, вклучително и меѓународни организации, особено со цел спроведување на оваа регулатива.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 87,
+      "en": "They shall have particular consideration for vulnerable persons and take into account the gender dimension of migration flows.",
+      "mk1": "Тие им посветуваат особено внимание на ранливите лица и ја земаат предвид родовата димензија на миграциските текови.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 88,
+      "en": "Each deploying authority shall ensure that immigration liaison officers establish and maintain direct contacts with the competent authorities of third countries, including, when appropriate, with local authorities, and any relevant organisations operating within the third country, including international organisations, notably with a view to implementing this Regulation.",
+      "mk1": "Секој орган задолжен за распоредување обезбедува офицерите за врска задолжени за имиграција да воспостават и да одржуваат директни контакти со надлежните органи на трети земји, вклучително, кога е соодветно, со локалните органи, како и со сите релевантни организации што работат во рамките на третата земја, вклучително и меѓународни организации, особено со цел спроведување на оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 89,
+      "en": "Immigration liaison officers shall collect information, for use either at operational level, strategic level, or both.",
+      "mk1": "Офицерите за врска задолжени за имиграција собираат информации што се користат на оперативно или на стратегиско ниво, или и на двете.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 90,
+      "en": "Information collected under this paragraph shall be collected in accordance with Article 1(2) and shall not contain personal data, without prejudice to Article 10(2).",
+      "mk1": "Информациите собрани во согласност со овој став се собираат според член 1(2) и не содржат лични податоци, без да е во спротивност со член 10(2).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 91,
+      "en": "Such information shall cover the following issues in particular:",
+      "mk1": "Таквите информации особено ги опфаќаат следниве прашања:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 92,
+      "en": "(a)\tEuropean integrated border management at the external borders, with a view to managing migration effectively;",
+      "mk1": "(а)\tевропско интегрирано управување со надворешни граници, со цел ефективно управување со миграција;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 93,
+      "en": "(b)\tmigratory flows originating from or transiting through the third country, including where possible and relevant, the composition of migratory flows and migrants’ intended destination;",
+      "mk1": "(б)\tмиграциски текови што потекнуваат од трета земја или транзитираат низ неа, вклучително, ако е можно и релевантно, состав на миграциските текови и предвидена дестинација на мигрантите;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 94,
+      "en": "(c)\troutes used by migratory flows originating from or transiting through the third country in order to reach the territories of the Member States;",
+      "mk1": "(в)\tпатишта што ги користат миграциските текови што потекнуваат од трета земја или транзитираат низ неа, со цел да стигнат до териториите на земјите членки;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 95,
+      "en": "(d)\tthe existence, activities and modi operandi of criminal organisations involved in smuggling of migrants and trafficking in human beings along the migratory routes;",
+      "mk1": "(г)\tпостоење, активности и моди операнди на криминални организации вклучени во криумчарење на мигранти и трговија со луѓе долж миграциските патишта;",
+      "status": "UNMATCHED",
+      "target": "(ж)мерки пред поаѓање што им се достапни на имигрантите во земјата",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 96,
+      "en": "(f)\tmethods used for counterfeiting or falsifying identity documents and travel documents;",
+      "mk1": "(ѓ)\tметоди што се користат за фалсификување на документи за идентификација и патни исправи;",
+      "status": "UNMATCHED",
+      "target": "на потекло или во трети земји домаќини,",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 97,
+      "en": "(h)\tpre-departure measures available to immigrants in the country of origin or in host third countries that support successful integration upon legal arrival in Member States;",
+      "mk1": "(ж)\tмерки пред поаѓање што им се достапни на имигрантите во земјата на потекло или во трети земји домаќини, со кои се поддржува успешна интеграција по законско пристигнување во земји членки;",
+      "status": "UNMATCHED",
+      "target": "со кои се поддржува успешна интеграција по законско пристигнување во земјите членки;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 96,
+      "en": "(f)\tmethods used for counterfeiting or falsifying identity documents and travel documents;",
+      "mk1": "(ѓ)\tметоди што се користат за фалсификување на документи за идентификација и патни исправи;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 97,
+      "en": "(h)\tpre-departure measures available to immigrants in the country of origin or in host third countries that support successful integration upon legal arrival in Member States;",
+      "mk1": "(ж)\tмерки пред поаѓање што им се достапни на имигрантите во земјата на потекло или во трети земји домаќини, со кои се поддржува успешна интеграција по законско пристигнување во земји членки;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 98,
+      "en": "(i)\tways and means to facilitate return, readmission and reintegration;",
+      "mk1": "(з)\tначини и средства за олеснување на враќањето, повторното прифаќање и реинтеграцијата;",
+      "status": "UNMATCHED",
+      "target": "(и)постојни и можни идни стратегии и канали за зако",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 99,
+      "en": "(j)\teffective access to protection that the third country has put in place, including in favour of vulnerable persons;",
+      "mk1": "(ѕ)\tефективен пристап до заштитата што ја воспоставила трета земја, вклучително во полза на ранливи лица;",
+      "status": "UNMATCHED",
+      "target": "нска имиграција меѓу Унијата и третите земји, имајќи ги пред",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 100,
+      "en": "(k)\texisting and possible future legal immigration strategies and channels between the Union and third countries, taking into account skills and labour market needs in Member States, as well as resettlement and other protection tools;",
+      "mk1": "(и)\tпостојни и можни идни стратегии и канали за законска имиграција меѓу Унијата и трети земји, имајќи ги предвид потребите во областа на вештините и пазарот на труд во земјите членки, како и инструментите за преселување и други заштитни инструменти;",
+      "status": "REVIEW",
+      "target": "вид потребите во областа на вештините и пазарот на труд во земјите членки, како и инструментите за преселување и другите заштитни инструменти;",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 99,
+      "en": "(j)\teffective access to protection that the third country has put in place, including in favour of vulnerable persons;",
+      "mk1": "(ѕ)\tефективен пристап до заштитата што ја воспоставила трета земја, вклучително во полза на ранливи лица;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 100,
+      "en": "(k)\texisting and possible future legal immigration strategies and channels between the Union and third countries, taking into account skills and labour market needs in Member States, as well as resettlement and other protection tools;",
+      "mk1": "(и)\tпостојни и можни идни стратегии и канали за законска имиграција меѓу Унијата и трети земји, имајќи ги предвид потребите во областа на вештините и пазарот на труд во земјите членки, како и инструментите за преселување и други заштитни инструменти;",
+      "status": "UNMATCHED",
+      "target": "5.Офицерите за врска задолжени за имиграција, се координираат меѓу себе и со релевантните заинтересирани субјекти во однос на обезбедувањето на своите активностите за изградба на капацитети на органите и на други заинтересирани субјекти во трети земји.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 101,
+      "en": "Immigration liaison officers may render assistance, taking into account their expertise and training, in:",
+      "mk1": "Офицерите за врска задолжени за имиграција може, имајќи ја предвид својата стручност и обука, да дадат помош во:",
+      "status": "HIGH",
+      "target": "6.Офицерите за врска задолжени за имиграција може, имајќи ја предвид својата стручност и обука, да дадат помош в",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 102,
+      "en": "(a)\testablishing the identity and nationality of third-country nationals and facilitating their return in accordance with Directive 2008/115/EC, as well as assisting their reintegration, where relevant and possible;",
+      "mk1": "(а)\tутврдување на идентитетот и националноста на државјани на трети земји и олеснување на нивното враќање во согласност со Директивата 2008/115/EЗ, како и помош за нивна реинтеграција, ако тоа е релевантно и можно;",
+      "status": "HIGH",
+      "target": "о: (а)утврдување на идентитетот и националноста на државјани на трети земји и олеснување на нивното враќање во согласност со Директивата 2008/115/EЗ, како и помош за нивна реинтеграција, ако тоа е релевантно и можно;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 101,
+      "en": "Immigration liaison officers may render assistance, taking into account their expertise and training, in:",
+      "mk1": "Офицерите за врска задолжени за имиграција може, имајќи ја предвид својата стручност и обука, да дадат помош во:",
+      "status": "UNMATCHED",
+      "target": "(б)потврдување на идентитетот на лицата што имаат потреба од меѓународна заштита заради олеснување на ни",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 102,
+      "en": "(a)\testablishing the identity and nationality of third-country nationals and facilitating their return in accordance with Directive 2008/115/EC, as well as assisting their reintegration, where relevant and possible;",
+      "mk1": "(а)\tутврдување на идентитетот и националноста на државјани на трети земји и олеснување на нивното враќање во согласност со Директивата 2008/115/EЗ, како и помош за нивна реинтеграција, ако тоа е релевантно и можно;",
+      "status": "UNMATCHED",
+      "target": "вното преселување во Унијата, вклучително и обезбедувајќи им на тие лицатака што на тие лице, ако е тоа можно, давањеим се даваат соодветни информации и поддршка на тие лица пред поаѓање; (в)потврду",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 103,
+      "en": "(c)\tconfirming identity and facilitating implementation of Union and national measures in respect of the admission of legal immigrants;",
+      "mk1": "(в)\tпотврдување на идентитетот и олеснување на спроведувањето на мерките на Унијата и на националните мерки во однос на прифаќањето на легални мигранти;",
+      "status": "HIGH",
+      "target": "вање на идентитетот и олеснување на спроведувањето на мерките на Унијата и на националните мерки во однос на прифаќањето на легални мигранти;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 102,
+      "en": "(a)\testablishing the identity and nationality of third-country nationals and facilitating their return in accordance with Directive 2008/115/EC, as well as assisting their reintegration, where relevant and possible;",
+      "mk1": "(а)\tутврдување на идентитетот и националноста на државјани на трети земји и олеснување на нивното враќање во согласност со Директивата 2008/115/EЗ, како и помош за нивна реинтеграција, ако тоа е релевантно и можно;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 103,
+      "en": "(c)\tconfirming identity and facilitating implementation of Union and national measures in respect of the admission of legal immigrants;",
+      "mk1": "(в)\tпотврдување на идентитетот и олеснување на спроведувањето на мерките на Унијата и на националните мерки во однос на прифаќањето на легални мигранти;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 104,
+      "en": "(b)\tconfirming the identity of persons in need of international protection for the purposes of facilitating their resettlement in the Union, including by providing them, where possible, with adequate pre-departure information and support;",
+      "mk1": "(б)\tпотврдување на идентитетот на лицата што имаат потреба од меѓународна заштита заради олеснување на нивното преселување во Унијата, вклучително и така што на тие лице, ако е можно, им се даваат соодветни информации и поддршка пред поаѓање;",
+      "status": "UNMATCHED",
+      "target": "Известување за распоредување на офицери за врска задолжени за имиграција 1.Земјите членки, Комисијата и агенциите на Унијата, го информираат Управнувачкиот одбор, воспоставен според член 7, за нивните планови за распоредување на офицери за врска задолжени за имиграција, како и нивно фактичко распоредување, вклучително и опис на",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 105,
+      "en": "The activity reports referred to in point (c) of Article 8(2) shall include an overview of the deployments of immigration liaison officers.",
+      "mk1": "Извештаите за активностите наведени во точка (в) од член 8(2) вклучуваат преглед на распоредувањето на офицерите за врска задолжени за имиграција.",
+      "status": "REVIEW",
+      "target": "нивните должности и времетраење на распоредувањето. Извештаите за активностите наведени во точка (в) од член 8(2) вклучуваат преглед на распоредувањето на офицерите за врска задолжени за имиграција.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 105,
+      "en": "The activity reports referred to in point (c) of Article 8(2) shall include an overview of the deployments of immigration liaison officers.",
+      "mk1": "Извештаите за активностите наведени во точка (в) од член 8(2) вклучуваат преглед на распоредувањето на офицерите за врска задолжени за имиграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 106,
+      "en": "Creation of local or regional networks of immigration liaison officers",
+      "mk1": "Создавање локални и регионални мрежи на офицери за врска задолжени за имиграција",
+      "status": "HIGH",
+      "target": "Член 5 Создавање локални и регионални мрежи на офицери за врска задолжени за имигр",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 107,
+      "en": "Immigration liaison officers deployed to the same countries or regions shall constitute local or regional cooperation networks and cooperate, where and when appropriate, with liaison officers deployed by countries other than Member States.",
+      "mk1": "Офицерите за врска задолжени за имиграција распоредени во исти земји или региони воспоставуваат локални или регионални мрежи за соработка и соработуваат, ако и кога е соодветно, со офицерите за врска распоредени од други земји, кои не се земји членки.",
+      "status": "REVIEW",
+      "target": "ација 1.Офицерите за врска задолжени за имиграција, распоредени во исти земји или региони, воспоставуваат локални или регионални мрежи за соработка и соработуваат, ако и кога е соодветно, со офицерите за врска распоредени од други земји, кои не се земји член",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 108,
+      "en": "Within the framework of such networks, immigration liaison officers shall in accordance with Article 1(2), in particular:",
+      "mk1": "Во рамките на таквите мрежи, офицерите за врска задолжени за имиграција, особено во согласност со член 1(2):",
+      "status": "HIGH",
+      "target": "ки. Во рамките на таквите мрежи, офицерите за врска задолжени за имиграција, особено во согласност со член 1(2):",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 107,
+      "en": "Immigration liaison officers deployed to the same countries or regions shall constitute local or regional cooperation networks and cooperate, where and when appropriate, with liaison officers deployed by countries other than Member States.",
+      "mk1": "Офицерите за врска задолжени за имиграција распоредени во исти земји или региони воспоставуваат локални или регионални мрежи за соработка и соработуваат, ако и кога е соодветно, со офицерите за врска распоредени од други земји, кои не се земји членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 108,
+      "en": "Within the framework of such networks, immigration liaison officers shall in accordance with Article 1(2), in particular:",
+      "mk1": "Во рамките на таквите мрежи, офицерите за врска задолжени за имиграција, особено во согласност со член 1(2):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 109,
+      "en": "(a)",
+      "mk1": "(a)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 110,
+      "en": "meet regularly and whenever necessary;",
+      "mk1": "се состануваат редовно и секогаш кога е потребно;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 111,
+      "en": "(b)",
+      "mk1": "(б)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 112,
+      "en": "(c)",
+      "mk1": "(в)",
+      "status": "MANUAL_BOUNDARY",
+      "target": "раз",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 113,
+      "en": "(d)",
+      "mk1": "(г)",
+      "status": "MANUAL_BOUNDARY",
+      "target": "мен",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 114,
+      "en": "exchange information, where appropriate, on experience regarding access to international protection;",
+      "mk1": "разменуваата информации, ако е соодветно, за искуството во однос на пристапот до меѓународна заштита;",
+      "status": "MANUAL_BOUNDARY",
+      "target": "уваата информации, ако е соодветно, за искуството во однос на пристапот до меѓународна заштита; (г)",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 113,
+      "en": "(d)",
+      "mk1": "(г)",
+      "status": "MANUAL_BOUNDARY",
+      "target": "ги",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 114,
+      "en": "exchange information, where appropriate, on experience regarding access to international protection;",
+      "mk1": "разменуваата информации, ако е соодветно, за искуството во однос на пристапот до меѓународна заштита;",
+      "status": "MANUAL_BOUNDARY",
+      "target": "координираат ставовите што треба да се донесат, во контакти",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 115,
+      "en": "coordinate positions to be adopted in contacts with commercial carriers, where appropriate;",
+      "mk1": "ги координираат ставовите што треба да се донесат, во контактите со комерцијални оператери, ако е соодветно;",
+      "status": "UNMATCHED",
+      "target": "те со комерцијалните превознициоператеори, ако е соодветно; (д)",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 114,
+      "en": "exchange information, where appropriate, on experience regarding access to international protection;",
+      "mk1": "разменуваата информации, ако е соодветно, за искуството во однос на пристапот до меѓународна заштита;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 115,
+      "en": "coordinate positions to be adopted in contacts with commercial carriers, where appropriate;",
+      "mk1": "ги координираат ставовите што треба да се донесат, во контактите со комерцијални оператери, ако е соодветно;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 116,
+      "en": "(e)",
+      "mk1": "(д)",
+      "status": "MANUAL_BOUNDARY",
+      "target": "орг",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 117,
+      "en": "(f)",
+      "mk1": "(ѓ)",
+      "status": "MANUAL_BOUNDARY",
+      "target": "ани",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 118,
+      "en": "organise information sessions and training courses for members of the diplomatic and consular staff of the missions of the Member States in the third country, when appropriate;",
+      "mk1": "организираат информативни сесии и курсеви за обука за членови на дипломатски и конзуларен персонал на мисиите на земјите членки во трета земја, ако е соодветно;",
+      "status": "MANUAL_BOUNDARY",
+      "target": "зираат информативни сесии и курсеви за обука за членови на дипломатски и конзуларен персонал на мисиите на земјите членки во трета земја, ако е соодветно; (е)",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 117,
+      "en": "(f)",
+      "mk1": "(ѓ)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 118,
+      "en": "organise information sessions and training courses for members of the diplomatic and consular staff of the missions of the Member States in the third country, when appropriate;",
+      "mk1": "организираат информативни сесии и курсеви за обука за членови на дипломатски и конзуларен персонал на мисиите на земјите членки во трета земја, ако е соодветно;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 119,
+      "en": "(g)",
+      "mk1": "(е)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 120,
+      "en": "adopt common approaches on methods for the collection and reporting of strategically relevant information, including risk analyses;",
+      "mk1": "донесуваат заеднички приоди за методи за собирање и известување за стратегиски релевантни информации, вклучително и анализи на ризик;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 121,
+      "en": "(h)",
+      "mk1": "(ж)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 122,
+      "en": "set up regular contacts with similar networks in the third country and in neighbouring third countries, as appropriate.",
+      "mk1": "воспоставуваат контакти со слични мрежи во третата земја и во соседните трети земји, ако е соодветно.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 123,
+      "en": "Immigration liaison officers deployed by the Commission shall facilitate and support the networks provided for in paragraph 1.",
+      "mk1": "Офицерите за врска задолжени за имиграција што ги распоредува Комисијата ги олеснуваат и поддржуваат мрежите предвидени во став 1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 124,
+      "en": "In locations where the Commission does not deploy immigration liaison officers, immigration liaison officers deployed by Union agencies shall facilitate and support the networks provided for in paragraph 1.",
+      "mk1": "На локации каде Комисијата не распоредува офицери за врска задолжени за имиграција, мрежите предвидени во став 1 ги олеснуваат и поддржуваат офицери за врска задолжени за имиграција што ги распоредуваат агенциите на Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 125,
+      "en": "Joint deployment of immigration liaison officers",
+      "mk1": "Заедничко распоредување на офицери за врска задолжени за имиграција",
+      "status": "UNMATCHED",
+      "target": "2.Земјите членки, исто така, може да се договорат нивните офицери за врска задолжени за имиграциј",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 126,
+      "en": "Where two or more Member States jointly deploy an immigration liaison officer, those Member States may receive Union financial support pursuant to Regulation (EU) No 515/2014.",
+      "mk1": "Ако две или повеќе земји членки заеднички распоредат офицер за врска задолжен за имиграција, тие земји членки може да добијат финансиска поддршка од Унијата во согласност со Регулативата (EУ) No 515/2014.",
+      "status": "REVIEW",
+      "target": "а да споделуваат одредени меѓусебни задачи меѓу себе, врз основа нас нивнитесвоите компетенции и обука. 3.Ако две или повеќе земји членки заеднички распоредат офицер за врска задолжен за имиграција, тие земји членки може да добијат финансиска поддршка од Унијата во согласност со Регулативата (EУ",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 127,
+      "en": "Steering Board",
+      "mk1": "Управувачки одбор",
+      "status": "UNMATCHED",
+      "target": ") бр. No 515/2014. Член 7",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 126,
+      "en": "Where two or more Member States jointly deploy an immigration liaison officer, those Member States may receive Union financial support pursuant to Regulation (EU) No 515/2014.",
+      "mk1": "Ако две или повеќе земји членки заеднички распоредат офицер за врска задолжен за имиграција, тие земји членки може да добијат финансиска поддршка од Унијата во согласност со Регулативата (EУ) No 515/2014.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 127,
+      "en": "Steering Board",
+      "mk1": "Управувачки одбор",
+      "status": "UNMATCHED",
+      "target": "1.Се воспоставу",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 128,
+      "en": "A Steering Board for a European network of immigration liaison officers is established.",
+      "mk1": "Се воспоставува Управувачки одбор за европската мрежа на офицери за врска задолжени за имиграција.",
+      "status": "HIGH",
+      "target": "ва Управенувачки одбор за европската мрежа на офицери за врска задолжени за имиграција.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 128,
+      "en": "A Steering Board for a European network of immigration liaison officers is established.",
+      "mk1": "Се воспоставува Управувачки одбор за европската мрежа на офицери за врска задолжени за имиграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 129,
+      "en": "To that end, each Member State shall appoint a member of the Steering Board as well as an alternate who will represent the member in his or her absence.",
+      "mk1": "За таа цел, секоја земја членка именува член на Управувачкиот одбор, како заменик што ќе го застапува членот во негово отсуство.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 130,
+      "en": "3.",
+      "mk1": "3.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 131,
+      "en": "A Commission representative shall act as the Chair of the Steering Board.",
+      "mk1": "Претставник на Комисијата дејствува како претседавач на Управувачкиот одбор.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 132,
+      "en": "The Chair shall:",
+      "mk1": "Претседавачот:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 133,
+      "en": "advise the Steering Board in ensuring that the collective activities agreed are consistent and coordinated with relevant Union instruments and structures and reflect the priorities of the Union in the area of migration;",
+      "mk1": "го советува Управувачкиот одбор во обезбедувањето дговорените заеднички активности да се усогласени и координирани со релевантни инструменти и структури на Унијата и да ги одразуваат приоритетите на Унијата во областа на миграцијата;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 134,
+      "en": "convene meetings of the Steering Board.",
+      "mk1": "свикува состаноци на Управувачкиот одбор.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 135,
+      "en": "To achieve the objectives of the Steering Board, the Chair shall be assisted by a Secretariat.",
+      "mk1": "За постигнување на целите на Управувачкиот одбор, на претседавачот му помага секретаријат.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 136,
+      "en": "Tasks of the Steering Board",
+      "mk1": "Задачи на Управувачкиот одбор",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 137,
+      "en": "The rules of procedure shall set out the details of the voting arrangements.",
+      "mk1": "Со деловодникот се утврдуваат детални правила за гласање.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 138,
+      "en": "Considering the priorities of the Union in the area of immigration and within the scope of the tasks of immigration liaison officers as defined in this Regulation and in accordance with Article 1(2), the Steering Board shall carry out the following activities based on a comprehensive situational picture and on analyses provided by the relevant Union agencies:",
+      "mk1": "Имајќи ги предвид приоритетите на Унијата во областа на имиграцијата и во опсегот на задачите на офицерите за врска задолжени за имиграција, како што е дефинирано во оваа регулатива и во согласност со член 1(2), Управувачкиот одбор ги спроведува следниве активности врз основа на сеопфатна слика за состојбата и анализите што ги доставуваат соодветните агенции на Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 139,
+      "en": "regularly review the implementation of its activities with a view to proposing amendments to the biennial work programme as appropriate, and as regards the appointment of network facilitators and progress made by networks of immigration liaison officers in their cooperation with competent authorities in third countries;",
+      "mk1": "редовно го прегледува спроведувањето на своите активности со цел да предлага измени на двегодишната програма за работа, како што е соодветно, и во однос на именувањето олеснувачи на мрежата и напредокот што го прават офицерите за врска во нивната соработка со надлежните органи во трети земји;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 140,
+      "en": "adopt the biennial activity report, including the overview referred to in the second subparagraph of Article 4(1), to be prepared by the Chair of the Steering Board,",
+      "mk1": "донесува двегодишен извештај за активноста, вклучително и преглед наведен во вториот потстав од член 4(1), кој треба да го подготви претседавачот на Управувачкиот одбор,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 141,
+      "en": "identify deployment gaps and outline possibilities for the deployment of immigration liaison officers.",
+      "mk1": "ги идентификува недостатоците во распоредувањето и предлага можности за распоредување офицери за врска задолжени за имиграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 142,
+      "en": "The Steering Board shall transmit the documents referred to in points (a) and (c) of the first subparagraph of this paragraph to the European Parliament.",
+      "mk1": "Управувачкиот одбор му ги пренесува на Европскиот парламент документите наведени во точките (а) и (в) од првиот потстав од овој став.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 143,
+      "en": "Considering the operational needs of the Union in the area of immigration and within the scope of the tasks of immigration liaison officers as defined in this Regulation and in accordance with Article 1(2), the Steering Board shall carry out the following activities:",
+      "mk1": "Имајќи ги предвид оперативните потреби на Унијата во областа на имиграцијата и во опсегот на задачите на офицерите за врска задолжени за имиграција, како што е дефинирано во оваа регулатива и во согласност со член 1(2), Управувачкиот одбор ги спроведува следниве активности:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 144,
+      "en": "agree on ad hoc actions by networks of immigration liaison officers;",
+      "mk1": "договара ад хок дејствување на мрежите офицери за врска задолжени за имиграција;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 145,
+      "en": "monitor the availability of information between immigration liaison officers and Union agencies, and make recommendations for necessary actions where required;",
+      "mk1": "ја следи достапноста на информации меѓу офицерите за врска задолжени за имиграција и агенциите на Унијата и дава препораки што се неопходни за дејствување, ако е потребно;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 146,
+      "en": "For the execution of the activities referred to in paragraphs 2 and 3, Member States may receive Union financial support in accordance with Regulation (EU) No 515/2014.",
+      "mk1": "За извршување на активностите наведени во ставовите 2 и 3, земјите членки може да добијат финансиска помош на Унијата во согласност со Регулативата (EУ) No 515/2014.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 147,
+      "en": "Information exchange platform",
+      "mk1": "Платформа за размена на информации",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 148,
+      "en": "That platform shall be set up by the Commission in agreement with the Steering Board and maintained by the Commission.",
+      "mk1": "Таа платформа ја воспоставува Комисијата во договор со Управувачкиот одбор, а ја одржува Комисијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 149,
+      "en": "relevant documents, reports and analytical products as agreed by the Steering Board in accordance with Article 8(2) and (3);",
+      "mk1": "релевантни документи, извештаи и аналитички производи, како што е договорено од Управувачкиот одбор во согласност со член 8(2) и (3);",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 150,
+      "en": "biennial work programmes, biennial activity reports and the outcome of activities and ad hoc tasks of networks of immigration liaison officers as referred to in Article 8(2) and (3);",
+      "mk1": "Двегодишни програми за работа, двегодишни извештаи за активностите и резултатите од активностите и ад хок задачи на мрежите офицери за врска задолжени за имиграција, како што е наведено во член 8(2) и (3);",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 151,
+      "en": "an up-to-date list of Steering Board members;",
+      "mk1": "ажуриран список на членовите на Управувачкиот одбор;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 152,
+      "en": "an up-to-date list of contact details of immigration liaison officers deployed to third countries, including their names, locations of deployment and region of responsibility, telephone numbers and email addresses;",
+      "mk1": "ажуриран список со податоци за контакт на офицерите за врска задолжени за имиграција што се распоредени во трети земји, вклучително нивните имиња, места на распоредување и областа на одговорност, телефонските броеви и е-адреси;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 153,
+      "en": "other relevant documents related to the activities and decisions of the Steering Board.",
+      "mk1": "други релевантни документи поврзани со активностите и одлуките на Управувачкиот одбор.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 154,
+      "en": "Access to data referred to in points (c) and (d) of paragraph 2 shall be restricted to immigration liaison officers, members of the Steering Board and duly authorised staff for the purpose of implementation of this Regulation.",
+      "mk1": "Пристапот до податоците наведени во точките (в) и (г) од став 2 е ограничен на офицерите за врска задолжени за имиграција, членовите на управувачкиот одбор и овластениот персонал, со цел спроведување на оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 155,
+      "en": "The European Parliament shall be given access to certain parts of the secure web-based information exchange platform, as determined by the Steering Board in its rules of procedure and in accordance with the applicable Union and national rules and legislation.",
+      "mk1": "На Европскиот парламент му се дава пристап до одредени делови на безбедната интернет платформа за размена на информации, како што утврдил Управувачкиот одбор во својот деловник во согласност со применливите правила и законодавство на Унијата и националните правила и законодавство.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 156,
+      "en": "Processing personal data",
+      "mk1": "Обработка на лични податоци",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 157,
+      "en": "Immigration liaison officers may process personal data for the purpose of the tasks referred to in Article 3(6).",
+      "mk1": "Офицерите за врска задолжени за имиграција може да обработуваат лични податоци за цели на задачите наведени во член 3(6).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 158,
+      "en": "Those personal data shall be erased when they are no longer necessary in relation to the purposes for which they were collected or otherwise processed in accordance with Regulation (EU) 2016/679.",
+      "mk1": "Тие лични податоци се бришат коге повеќе не се потребни за целите за кои биле собрани или на друг начин обработени во согласност со Регулативата (ЕУ) 2016/679.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 159,
+      "en": "Personal data processed pursuant to paragraph 2 may include:",
+      "mk1": "Обработените лични податоци врз основа на став 2 може да вклучат:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 160,
+      "en": "biometric or biographic data, where necessary, to confirm the identity and nationality of third-country nationals for the purposes of return, including all types of documents which can be considered as proof or prima facie evidence of nationality;",
+      "mk1": "биометриски и биографски податоци, ако е потребно, за да се потврди идентитетот и националноста на државјани на трети земји за цели на враќање, вклучително и сите видови документи што може да се сметаат за доказ или прима фацие доказ за националноста;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 161,
+      "en": "passenger lists for return flights and other means of transport to third countries;",
+      "mk1": "списоци на патници за летови за враќање и други средства за транспорт кон трети земји;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 162,
+      "en": "biometric or biographic data to confirm the identity and nationality of third-country nationals in need of international protection for the purpose of resettlement;",
+      "mk1": "биометриски и биографски податоци за да се потврди идентитетот и националноста на државјани на трети земји што имаат потреба за меѓународна заштита за цел на преселување;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 163,
+      "en": "Data under point (e) of the first subparagraph of this paragraph shall be processed for the sole purpose of executing the tasks referred to under point (d) of Article 3(6).",
+      "mk1": "Податоците според точка (д) од првиот потстав од овој став се обработуваат за единствена цел извршување на задачите наведени во точка (г) од членe 3(6).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 164,
+      "en": "Any exchange of personal data shall be strictly limited to what is necessary for the purposes of this Regulation.",
+      "mk1": "Секоја размена на лични податоци треба експлицитно да се ограничи на она што е потребно за цели на оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 165,
+      "en": "Transfers of personal data by immigration liaison officers to third countries and international organisations pursuant to this Article shall be carried out in accordance with Chapter V of Regulation (EU) 2016/679.",
+      "mk1": "Преносите на лични податоци од офицерите за врска задолжени за имиграција во трети земји и од меѓународни организации во согласност со овој член се извршуваат во согласност со Поглавје V од Регулативата (ЕУ) 2016/679.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 166,
+      "en": "Consular cooperation",
+      "mk1": "Конзуларна соработка",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 167,
+      "en": "Report",
+      "mk1": "Извештај",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 168,
+      "en": "Five years after the date of adoption of this Regulation, the Commission shall report to the European Parliament and the Council on the application of this Regulation.",
+      "mk1": "Пет години по датумот на донесувањето на оваа регулатива, Комисијата поднесува извештај до Европскиот парламент и до Советот за примена на оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 169,
+      "en": "Repeal",
+      "mk1": "Укинување",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 170,
+      "en": "Regulation (EC) No 377/2004 is repealed.",
+      "mk1": "Се укинува Регулативата (EЗ) бр. 377/2004.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 171,
+      "en": "References to the repealed Regulation shall be construed as references to this Regulation and shall be read in accordance with the correlation table in Annex II.",
+      "mk1": "Упатувањата на укинатата регулатива се сметаат како упатувања на оваа регулатива и се читаат во согласност со кореспондентната табела дадена во Анекс II.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 172,
+      "en": "Entry into force",
+      "mk1": "Влегување во сила",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 173,
+      "en": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила на дваесеттиот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 174,
+      "en": "Done at Brussels, 20 June 2019.",
+      "mk1": "Брисел, 20 јуни 2019 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 175,
+      "en": "For the European Parliament",
+      "mk1": "За Европскиот парламент",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 176,
+      "en": "A. TAJANI",
+      "mk1": "А. ТАЈАНИ",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 177,
+      "en": "ANNEX I",
+      "mk1": "АНЕКС I",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 178,
+      "en": "Council Regulation (EC) No 377/2004",
+      "mk1": "Регулатива (EЗ) бр. 377/2004 на Советот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 179,
+      "en": "(OJ L 64, 2.3.2004, p. 1)",
+      "mk1": "(Сл. весник L 64, 2.3.2004 година, стр. 1)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 180,
+      "en": "Regulation (EU) No 493/2011 of the European Parliament and of the Council",
+      "mk1": "Регулатива (EУ) бр. 493/2011 на Европскиот парламент и на Советот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 181,
+      "en": "(OJ L 141, 27.5.2011, p. 13)",
+      "mk1": "(Сл. весник L 141, 27.5.2011 година, стр. 13)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 182,
+      "en": "ANNEX II",
+      "mk1": "АНЕКС II",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 183,
+      "en": "Repealed Regulation with the amendment thereto",
+      "mk1": "Укината регулатива со измени на истата",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 184,
+      "en": "Correlation table",
+      "mk1": "Кореспондентна табела",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 185,
+      "en": "Regulation (EC) No 377/2004",
+      "mk1": "Регулатива (EЗ) бр. 377/2004",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 186,
+      "en": "This Regulation",
+      "mk1": "Оваа регулатива",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 187,
+      "en": "—",
+      "mk1": "—",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 188,
+      "en": "Article 1(1)",
+      "mk1": "Член 1(1)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 189,
+      "en": "Article 2, introductory wording",
+      "mk1": "Член 2, воведен текст",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 190,
+      "en": "Article 2, point (1)",
+      "mk1": "Член 2, точка (1)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 191,
+      "en": "Article 2, point (1) final wording",
+      "mk1": "Член 2, точка (1) завршен текст",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 192,
+      "en": "Article 2 point (2)",
+      "mk1": "Член 2 точка (2)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 193,
+      "en": "Article 2(2), introductory wording",
+      "mk1": "Член 2(2), воведен текст",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 194,
+      "en": "Article 2(2), first indent",
+      "mk1": "Член 2(2), прва алинеја",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 195,
+      "en": "Article 3(4)(b)",
+      "mk1": "Член 3(4)(б)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 196,
+      "en": "Article 2(2), second indent",
+      "mk1": "Член 2(2), втора алинеја",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 197,
+      "en": "Article 3(4)(c)",
+      "mk1": "Член 3(4)(в)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 198,
+      "en": "Article 4(1) first subparagraph",
+      "mk1": "Член 4(1) прв потстав",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 199,
+      "en": "Article 5(1) and (2)",
+      "mk1": "Член 5(1) и (2)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 200,
+      "en": "Annex I",
+      "mk1": "Анекс II",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 201,
+      "en": "Annex II",
+      "mk1": "Анекс II",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 202,
+      "en": "As regards Iceland and Norway, this Regulation constitutes a development of the provisions of the Schengen acquis within the meaning of the Agreement concluded by the Council of the European Union and the Republic of Iceland and the Kingdom of Norway concerning the latters’ association with the implementation, application and development of the Schengen acquis () which fall within the area referred to in Article 1, points A and E, of Council Decision 1999/437/EC ().",
+      "mk1": "Во однос на Исланд и Норвешка, оваа регулатива претставува развој на одредбите на шенгенското acquis во рамките на значењето на Договорот склучен меѓу Советот на Европската Унија, Република Исланд и Кралството Норвешка во однос на асоцирање на тие држави кон спроведувањето, примената и развојот на шенгенското acquis (), кои припаѓаат на областа наведена во член 1, точки A и E од Одлуката 1999/437/EЗ на Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 203,
+      "en": "In accordance with Article 5(3) of the said Protocol, the Commission presented on 31 January 2019 a proposal for a Council Decision concerning the notification by the United Kingdom of its wish no longer to take part in some of the provisions of the Schengen acquis which are contained in Regulation (EC) No 377/2004.",
+      "mk1": "Во согласност со член 5(3) од наведениот Протокол, Комисијата на 31 јануари 2019 година дала предлог за одлука на Советот за известувањето на Обединетото Кралство за неговата желба повеќе да не учествува во некои одредби од шенгенското acquis што се содржани во Регулативата (EЗ) бр 377/2004.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 204,
+      "en": "Since further amendments are to be made, that Regulation should be recast in the interests of clarity.",
+      "mk1": "Со оглед дека треба да се направат натамошни измени, таа регулатива треба да се преработи заради јасност.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 205,
+      "en": "The Union is committed to protecting the human rights and fundamental freedoms of all migrants, regardless of their migratory status, in full compliance with international law.",
+      "mk1": "Унијата е посветена на заштита на човековите права и на фундаменталните слободи на сите мигранти, без оглед на нивниот миграциски статус, со целосно почитување на меѓународното право.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 206,
+      "en": "Protection tools include measures contained in the Global Approach to Migration and Mobility (GAMM).",
+      "mk1": "Инструментите за заштита вклучуваат мерки содржани во Глобалниот пристап за миграција и мобилност (ГАММ).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 207,
+      "en": "Information on the composition of migratory flows should, where possible and relevant, include information on declared migrants’ age, gender profile and family and on unaccompanied minors.",
+      "mk1": "Информациите за составот на миграциските текови треба, ако е можно и релевантно, да вклучат информации за наведената возраст на мигрантите, нивниот родов профил и членовите на семејството, како и малолетниците без придружба.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 208,
+      "en": "The deployment of the current European Migration Liaison Officers to the key third countries of origin and transit, as called for in the conclusions of the special meeting of the heads of state and government on 23 April 2015, was a first step towards enhancing the engagement with third countries on migration-related issues and stepping up cooperation with immigration liaison officers deployed by Member States.",
+      "mk1": "Распоредувањето на постојните европски службеници за врска задолжени за миграција во клучни трети земји на потекло и транзит, како што е побарано во заклучците од посебниот состанок на шефовите на држави и на влади на 23 април 2015 година, беше прв чекор кон зголемување на вклученоста во трети земји во однос на прашања поврзани со миграција и засилување на соработката со офицерите за врска задолжени за имиграција распоредени од земјите членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 209,
+      "en": "Building on Regulation (EC) No 377/2004, this Regulation aims to ensure that immigration liaison officers better contribute to the functioning of a European network of immigration liaison officers primarily by establishing a mechanism through which Member States, the Commission and Union agencies can more systematically coordinate the tasks and roles of their liaison officers deployed in third countries.",
+      "mk1": "Врз основа на Регулативата (EЗ) бр. 377/2004, целта на оваа регулатива е да се обезбеди офицерите за врска задолжени за имиграција подобро да придонесуваат за функционирањето на европската мрежа на офицери за врска задолжена за имиграција, првенствено со воспостаување механизам преку кој земјите членки, Комисијата и агенциите на унијата може посистематски да ги координираат задачите и улогите на нивните офицери за врска задолжени за имиграција, распоредени во трети земји.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 210,
+      "en": "A Steering Board should provide guidance in line with Union policy priorities, taking into account the Union’s external relations, and should be given the necessary powers, in particular to adopt biennial work programmes for the activities of networks of immigration liaison officers, agree on tailored ad hoc actions for immigration liaison officers addressing priorities and emerging needs not already covered by the biennial work programme, allocate resources for agreed activities and be accountable for their execution.",
+      "mk1": "Управувачкиот одбор треба да дава насоки во согласност со приоритетите на политиката на Унијата, имајќи ги предвид надворешните односи на Унијата, и треба да ги има потребните овластувања, особено за донесување двегодишни програми за работа со активности на мрежите на офицери за врска задолжени за имиграција, договарање приспособени ад хок дејства за офицерите за врска задолжени за имиграција заради решавање на приоритетните прашања и на новонастанатите потреби што не се опфатени со двегодишната програма за работа, како и распоредување ресурси за договорените активности, и треба да биде одговорен за нивно спроведување.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 211,
+      "en": "Neither the tasks of the Steering Board nor those of the facilitators of immigration liaison officer networks should affect the competence of deploying authorities with regard to tasking their respective immigration liaison officers.",
+      "mk1": "Ниту задачите на Управувачкиот одбор, ниту оние на субјектите што ги олеснуваат мрежите на офицерите за врска задолжени за имиграција, не треба да влијаат врз надлежноста на органите за распоредување во однос на давање задачи на нивните соодветни офицери за врска задолжени за имиграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 212,
+      "en": "Joint deployment of liaison officers should be promoted with the aim of enhancing operational cooperation and information sharing between Member States, as well as to respond to needs at Union level, as defined by the Steering Board.",
+      "mk1": "Треба да се промовира заедничко распоредување на офицери за врска со цел подобрување на оперативната соработка и размената на информации меѓу земјите членки, како и исполнување на потребите на ниво на Унијата, како што ги дефинирал Управувачкиот одбор.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 213,
+      "en": "Joint deployment by at least two Member States should be supported by Union funds encouraging engagement and providing added value to all Member States.",
+      "mk1": "Заедничкото распоредување што го спроведуваат најмалку две земји членки треба да биде поддржано со средства на Унијата, со што се поттикнува учество и им се дава додадена вредност на сите земји членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 214,
+      "en": "Such capacity-building should comprise the development of common core curricula and pre-deployment training courses, including on fundamental rights, in cooperation with relevant Union agencies, and the reinforcement of the operational capacity of networks of immigration liaison officers.",
+      "mk1": "Таквата изградба на капацитети треба да вклучи развој на заеднични основни наставни планови и курсеви за оспособување пред распоредување, вклучително и за фундаменталните права, во соработка со релевантните агенции на Унијата, како и зајакнување на оперативниот капацитет на мрежите офицери за врска задолжени за имиграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 215,
+      "en": "The Steering Board shall be composed of one representative of each Member State, two representatives of the Commission, one representative of the European Border and Coast Guard Agency, one representative of Europol and one representative of EASO.",
+      "mk1": "Управувачкиот одбор е составен од еден претставник на секоја земја членка, двајца претставници на Комисијата, еден претставник на Европската агенција за гранична и крајбрежна стража, еден претставник на Европол и еден претставник на ЕКПА.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 216,
+      "en": "Regulation (EU) No 515/2014 of the European Parliament and of the Council of 16 April 2014 establishing, as part of the Internal Security Fund, the instrument for financial support for external borders and visa and repealing Decision No 574/2007/EC (OJ L 150, 20.5.2014, p. 143).",
+      "mk1": "Регулатива (ЕУ) бр. 515/2014 на Европскиот парламент и на Советот од 16 април 2014 за воспоставување, како дел од Фондот за внатрешна безбедност, инструмент за финансиска поддршка за надворешни граници и визи и укинување на Одлуката бр. 574/2007/EЗ (Сл. весник L 150, 20.5.2014 година, стр. 143).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 217,
+      "en": "exchange information and practical experience, in particular at meetings and via the secure web-based information exchange platform provided for in Article 9;",
+      "mk1": "разменуваат информации и практично искуство, особено на состаноци и преку безбедна интернет-платформа за размена на информации предвидена во член 9;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 218,
+      "en": "ensure that information is exchanged through the secure web-based information exchange platform as provided for in Article 9.",
+      "mk1": "обезбедува размената на информации да се врши преку безбедна интернет-платформа за размена на информации, како што е предвидено во член 9.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 219,
+      "en": "The third countries of return are not often subject to adequacy decisions adopted by the Commission under Article 45 of Regulation (EU) 2016/679, and have often not concluded or do not intend to conclude a readmission agreement with the Union or otherwise provide for appropriate safeguards within the meaning of Article 46 of Regulation (EU) 2016/679.",
+      "mk1": "Трети земји на враќање често не подложат на одлуките за соодветност што ги донесува Комисијата во согласност со член 45 од Регулативата (ЕУ) 2016/679 и често не склучиле или немаат намера да склучат спогодба со Унијата за повторно прифаќање или на друг начин да обезбедат соодветни заштитни механизми во рамките на значењето на член 46 од Регулативата (ЕУ) 2016/679.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 220,
+      "en": "Despite the extensive efforts of the Union in cooperating with the main countries of origin of illegally staying third-country nationals subject to an obligation to return, it is not always possible to ensure that such third countries systematically fulfil the obligation established by international law to readmit their own nationals.",
+      "mk1": "Наспроти екстензивните напори на Унијата во соработката со главните земји на потекло на државјани на трети земји што илегално престојуваат и подложат на обврската за враќање, секогаш не е можно да се обезбеди таквите трети земји систематски да ја исполнуваат обврската утврдена со меѓународното право за повторно прифаќање на сопствените државјани.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 221,
+      "en": "In the situation where such agreements do not exist, personal data should be transferred by immigration liaison officers for the purposes of implementing the return operations of the Union in accordance with the conditions laid down in Article 49 of Regulation (EU) 2016/679.",
+      "mk1": "Во ситуација кога не постојат такви одговори, личните податоци треба да ги пренесуваат офицерите за врска задолжени за имиграција, со цел спроведување на операциите за враќање на Унијата во согласност со условите утврдени во член 40 од Регулативата (ЕУ) 2016/679.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 222,
+      "en": "Directive 2008/115/EC of the European Parliament and of the Council of 16 December 2008 on common standards and procedures in Member States for returning illegally staying third-country nationals (OJ L 348, 24.12.2008, p. 98).",
+      "mk1": "Директива 2008/115/EC на Европскиот парламент и на Советот од 16 декември 2008 за заеднички стандарди и постапки во земјите членки за враќање на државјани од трети земји со незаконски престој (Сл. весник L 348, 24.12.2008 година, стр. 98).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 223,
+      "en": "On this basis, the Council decided on 18 February 2019 () that as from the day of entry into force of this Regulation, Council Decision 2000/365/EC () and point 6 of Annex I to Council Decision 2004/926/EC () shall cease to apply to the United Kingdom as regards Regulation (EC) No 377/2004 and any further amendments thereto.",
+      "mk1": "Врз основа на тоа, на 18 февруари 2019 година Советот одлучи () дека од денот на влегувањето во сила на оваа регулатива, Одлуката 2000/365/EЗ на Советот () и точка 6 од Анексот I кон Одлуката 2004/926/EЗ на Советот (), како и натамошни амандмани кон истата престануваат да се применуваат за Обединетото Кралство во однос на Регулативата (EЗ) бр. 377/2004.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 224,
+      "en": "(2)\t‘deployed abroad’ means deployed to a third country, for a reasonable time period to be determined by the responsible authority, to one of the following:",
+      "mk1": "(2)\t„распореден за работа во странство“ значи распореден во трета земја, на разумен временски период што го утврдува одговорниот орган, за работа во едно од следниве:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 225,
+      "en": "Immigration liaison officers shall carry out their tasks within the framework of their responsibilities determined by the deploying authorities and in accordance with the provisions, including those on the protection of personal data, laid down in Union and national laws and in any agreements or arrangements concluded with third countries or international organisations.",
+      "mk1": "Офицерите за врска ги спроведуваат задачите во рамките на своите одговорности што ги утврдиле органите кои ги распоредиле, во согласност со одредбите, вклучително и одредбите за заштита на лични податоци, утврдени во правото на Унијата и во националното право, како и во договорите или спогодбите склучени со трети земји или меѓународни организации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 226,
+      "en": "As such, measures taken by immigration liaison officers when implementing this Regulation, in particular in cases involving vulnerable people, should respect fundamental rights in accordance with relevant international and Union law, including Articles 2 and 6 of the Treaty on European Union (TEU) and the Charter of Fundamental Rights of the European Union.",
+      "mk1": "Со оглед на тоа, со мерките што ги преземаат офицерите за врска задолжени за имиграција кога ја спроведуваат оваа Регулатива, а особено во случаи што вклучуваат ранливи лица, треба да се почитуваат фундаменталните права во согласност со релевантното меѓународно право и правото на Унијата, вклучително и членовите 2 и 6 од Договорот за Европската Унија (ДЕУ) и Повелбата за фундаментални права на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 227,
+      "en": "The information referred to in paragraph 1 shall be made available on the secure web-based information exchange platform provided for in Article 9.",
+      "mk1": "Информациите наведени во став 1 се објавуваат на безбедна интернет-платфоорма за размена на информации, како што е предвидено во член 9.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 228,
+      "en": "The Steering Board shall be notified without undue delay of the appointment of the designated network facilitator or where no facilitator is designated.",
+      "mk1": "Управувачкиот одбор се известува без непотребно одложување за именувањето на назначен олеснувач на мрежата или во случај ако не е назначен олеснувач.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 229,
+      "en": "Member States may bilaterally or multilaterally agree that immigration liaison officers who are deployed to a third country or international organisation by a Member State shall also look after the interests of one or more other Member States.",
+      "mk1": "Земјите членки може билатерално или мултилатерално да се согласат офицерите за врска задолжени за имиграција што се распоредени во трета земја или во меѓународна организација од земја членка, да се грижат и за интересите на една или повеќе земји членки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 230,
+      "en": "Member States may also agree that their immigration liaison officers shall share certain tasks among each other, on the basis of their competence and training.",
+      "mk1": "Земјите членки, исто така, може да се договорат нивните офицери за врска задолжени за имиграција да споделуваат одредени меѓусебни задачи, врз снова нас своите компетенции и обука.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 231,
+      "en": "The Steering Board shall adopt decisions by an absolute majority of its members with voting rights.",
+      "mk1": "Управувачкиот одбор донесува одлуки со апсолутно мнозинство на своите членови со права на глас.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 232,
+      "en": "Decisions adopted by the Steering Board shall be communicated to the relevant immigration liaison officers by the respective deploying authorities.",
+      "mk1": "Одлуките што ги донесува Управувачкиот одбор, соодветните органи за распоредување им ги доставуваат на релевантните офицери за врска задолжени за имиграција",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 233,
+      "en": "The Steering Board shall establish its own rules of procedure on the basis of a proposal by the Chair within three months of its first meeting.",
+      "mk1": "Управувачкиот одбор воспоставува деловодник врз основа на предлог на претседавачот, во рок од три месеци од првиот состанок.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 234,
+      "en": "The rules of procedure shall include, in particular, the conditions for a member to act on behalf of another member as well as any quorum requirements.",
+      "mk1": "Деловдникот особено ги вклучува условите за некој член да дејствува во име на друг член, како и барањата за кворум.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 235,
+      "en": "establish priorities and plan activities by adopting a biennial work programme indicating the resources needed to support that work;",
+      "mk1": "ги утврдува приоритетите и ги планира активностите со донесување двегодишна програма за работа, во која се наведени потребните ресурси за поддршка на таа работа;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 236,
+      "en": "update the list of deployments of immigration liaison officers ahead of each Steering Board meeting;",
+      "mk1": "пред секој состанок на управувачкиот одбор го ажурира списокот на распоредувањето на офицерите за врска задолжени за имиграција;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 237,
+      "en": "Regulation (EC) No 810/2009 of the European Parliament and of the Council of 13 July 2009 establishing a Community Code on Visas (Visa Code) (OJ L 243, 15.9.2009, p. 1).",
+      "mk1": "Регулатива (EЗ) бр. 810/2009 на Европскиот парламент и на Советот од 13 јули 2009 година за воспоставување Кодекск на Заедницата за визи (Кодекс за визи) (Сл. весник L 243, 15.9.2009 година, стр. 1).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 238,
+      "en": "ensure continuity and organise the work of the Steering Board, including supporting the preparation of the biennial work programme and biennial report on the activities;",
+      "mk1": "обезбедува континуитет и ја организира работата на Управувачкиот одбор, вклучително и поддршка на подготовката на двегодишна програма за работа и двегодишен извештај за активностите;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 239,
+      "en": "Position of the European Parliament of 16 April 2019 (not yet published in the Official Journal) and decision of the Council of 14 June 2019.",
+      "mk1": "Став на Европскиот парламент од 16 април 2019 година (сѐ уште не е објавен во Службениот весник) и одлука на Советот од 14 јуни 2019 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 240,
+      "en": "Such coordination should fully respect the existing chain of command and reporting lines between immigration liaison officers and their respective deploying authorities as well as among immigration liaison officers themselves.",
+      "mk1": "Таквата координација треба во целост да биде усогласена со постојниот синџир на команда и линиите на одговорност меѓу офицерите за врска задолжени за имиграција и органите што се надлежни за нивно распоредување, како и меѓу самите офицери за врска задолжени за миграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 241,
+      "en": "The establishment of a robust mechanism that ensures better coordination and cooperation among all liaison officers dealing with immigration issues as part of their duties is essential in order to minimise information gaps and duplication of work and maximise operational capabilities and effectiveness.",
+      "mk1": "Воспоставувањето на сигурен механизам со кој се обезбедува подобра координација и соработка меѓу сите офицери за врска што како дел од своите должности се занимаваат со прашања поврзани со имиграција е од суштинско значење за минимизирање на недостигот на информации и дуплирањето на работата и за максимизирање на способностите и ефективноста.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 242,
+      "en": "Regulation (EU) 2018/1725 of the European Parliament and of the Council of 23 October 2018 on the protection of natural persons with regard to the processing of personal data by the Union institutions, bodies, offices and agencies and on the free movement of such data, and repealing Regulation (EC) No 45/2001 and Decision No 1247/2002/EC (OJ L 295, 21.11.2018, p. 39).",
+      "mk1": "Регулатива (ЕУ) 2018/1725 на Европскиот парламент и на Советот од 23 октомври 2018 година за заштита на физички лица во однос на обработката на лични податоци од институциите, телата, канцелариите и агенциите на Унијата и на слободното движење на таквите податоци и за укинување на Регулативата (EЗ) бр. 45/2001 и Одлуката бр. 1247/2002/EЗ (Сл. весник L 295, 21.11.2018 година, стр. 39).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 243,
+      "en": "As an exception from the requirement for an adequacy decision or appropriate safeguards, the transfer of personal data to third-country authorities under this Regulation should be allowed for implementing the return policy of the Union.",
+      "mk1": "Исклучок од ова барање за донесување одлука за соодветност или соодветни заштитни механизми, преносот на лични податоци до органите на трети земји во согласност со оваа Регулатива се дозволува со цел спроведување на политиката за враќање на Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 244,
+      "en": "Therefore, they should also be able to share personal data processed in the course of their duties with law enforcement authorities and within networks of immigration liaison officers, provided that the personal data in question is necessary either for the prevention and tackling of irregular migration or for the prevention, investigation, detection and prosecution of smuggling of migrants or trafficking in human beings.",
+      "mk1": "Според тоа, исто така, тие треба да бидат во можност да ги разменуваат личните податоци што се обработени во текот на извршувањето на нивните должности со органите за спроведување на законот и во рамките на мрежите на офицерите за врска задолжени за имиграција, под услов предметните лични податоци да се потребни за спречување или сузбивање на незаконска миграција или за спречување, истрага, откривање и кривично гонење на криумчарењето на мигранти или трговијата со луѓе.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 245,
+      "en": "Immigration liaison officers shall carry out their tasks in accordance with fundamental rights as general principles of Union law as well as international law, including human rights obligations.",
+      "mk1": "Офицерите за врска задолжени за имиграција ги извршуваат своите задачи во согласност со фундаменталните права како општи начела на правото на Унијата, како и меѓународното право, вклучително и обврските во однос на човековите права.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 246,
+      "en": "(e)\tincidents and events that have the potential to be or to cause new developments with respect to migratory flows;",
+      "mk1": "(д)\tинциденти и настани што би можеле да бидат или да станат причина за нови развои во однос на миграциските текови;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 247,
+      "en": "(g)\tways and means to assist the authorities in third countries in preventing illegal immigration flows originating from or transiting through their territories;",
+      "mk1": "(е)\tначини и средства за помош на органите во трети земји во спречувањето на тековите на незаконската имиграција што потекнуваат од нивните територии или транзитираат низ нив;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 248,
+      "en": "(l)\tcapacity, capability, political strategies, legislation and legal practices of third countries and stakeholders, including, where possible and relevant, regarding reception and detention centres and the conditions therein, as relevant to the issues referred to in points (a) to (k).",
+      "mk1": "(ј)\tкапацитети, способности, политички стратегии, законодавство и правни практики на трети земји и заинтересирани субјекти, вклучително, ако тоа е можно и релевантно, во однос на центрите за прифаќање и задржување и на условите во нив, кои се однесуваат на прашања наведени во точките од (а) до (и).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 249,
+      "en": "Immigration liaison officers shall coordinate among themselves and with relevant stakeholders regarding the provision of their capacity-building activities to authorities and other stakeholders in third countries.",
+      "mk1": "Офицерите за врска задолжени за имиграција се координираат меѓу себе и со релевантните заинтересирани субјекти во однос на обезбедувањето на своите активностите за изградба на капацитети на органите и на други заинтересирани субјекти во трети земји.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 250,
+      "en": "(d)\tsharing information obtained in the course of their duties within networks of immigration liaison officers and with competent authorities of the Member States, including law enforcement authorities, in order to prevent and detect illegal immigration as well as combat smuggling of migrants and trafficking in human beings.",
+      "mk1": "(г)\tразмена на информации што ги добиле во извршувањето на нивните должности во рамките на мрежите офицери за врска задолжени за имиграција и со надлежните органи во земјите членки, вклучително и органите за спроведување на законот, заради спречување и откривање на незаконска имиграција, како и борба против криумчарење на мигранти и трговија со луѓе.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 251,
+      "en": "Notification of the deployment of immigration liaison officers",
+      "mk1": "Известување за распоредување на офицери за врска задолжени за имиграција",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 252,
+      "en": "Member States, the Commission and the Union agencies shall inform the Steering Board established in Article 7 of their plans for and actual deployment of immigration liaison officers, including a description of their duties and the duration of their deployment.",
+      "mk1": "Земјите членки, Комисијата и агенциите на Унијата го информираат Управувачкиот одбор воспоставен според член 7 за нивните планови за распоредување на офицери за врска задолжени за имиграција, како и нивно фактичко распоредување, вклучително и опис на нивните должности и времетраење на распоредувањето.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 253,
+      "en": "attend joint specialised training courses, when appropriate, including on fundamental rights, trafficking in human beings, smuggling of migrants, document fraud or access to international protection in third countries;",
+      "mk1": "присуствуваат на специјализирани курсеви за обука, ако е соодветно, вклучително и за фундаменталните права, трговијата со луѓе, криумчарењето на мигранти, документирањето на измама или пристапот до меѓународна заштита во трети земји;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 254,
+      "en": "In locations where neither the Commission nor Union agencies deploy immigration liaison officers, the network shall be facilitated by an immigration liaison officer, as agreed by members of the network.",
+      "mk1": "На локации каде офицерите за врска задолжени за имиграција не ги распоредуваат ниту Комисијата ниту, пак, агенции на Унијата, мрежата ја олеснува офицер за врска задолжен за имиграција, како што е договорено меѓу членовите на мрежата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 255,
+      "en": "The Steering Board members shall be appointed in particular on the basis of their relevant experience and expertise in managing liaison officer networks.",
+      "mk1": "Членовите на Управувачкиот одбор особено се именуваат врз основа на своите релевантни искуства и стручност во управувањето со мрежи офицери за врска.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 256,
+      "en": "Countries associated with the implementation, application and development of the Schengen acquis shall participate in the Steering Board and shall appoint one representative each as members without voting rights.",
+      "mk1": "Земјите поврзани со спроведување, примена и развојот на шенгенското acquis учествуваат во Управувачкиот одбор и именуваат по еден претставник како член без право на глас.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 257,
+      "en": "They shall be allowed to express views on all issues discussed and decisions taken by the Steering Board.",
+      "mk1": "На овие членови им се дозволува да искажат ставови за сите прашања за кои е расправано и за одлуките што ги донесува Управувачкиот одбор.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 258,
+      "en": "When taking decisions on matters that are relevant for immigration liaison officers deployed by countries associated with the implementation, application and development of the Schengen acquis, the Steering Board shall take due account of the views expressed by the representatives of those countries.",
+      "mk1": "Ако дојде до донесување одлуки за предмети што се релевантни за офицерите за врска задолжени за имиграција, распоредени од земји поврзани со спроведувањето, примената и развојот на шенгенското acquis, Управувачкиот одбор ги зема предвид ставовите искажани од претставниците на тие земји.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 259,
+      "en": "Experts, representatives of national authorities, international organisations and relevant Union institutions, bodies, offices and agencies who are not members of the Steering Board may be invited by the Steering Board to attend its meetings as observers.",
+      "mk1": "Управувачкиот одбор може да покани стручњаци, претставници на националните органи, меѓународните организации и на релевантните институции, тела, канцелации и агенции на Унијата кои не се членови на Управувачкиот одбор да присуствуваат на неговите состаноци како набљудувачи.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 260,
+      "en": "The Steering Board may organise joint meetings with other networks or organisations.",
+      "mk1": "Управувачкиот одбор може да организира заеднички состаноци со други мрежи или организации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 261,
+      "en": "The Steering Board shall meet at least twice a year.",
+      "mk1": "Управувачкиот одбор се состанува најмалку двапати годишно.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 262,
+      "en": "support the development of the capabilities of immigration liaison officers, including through developing supplementary and non-compulsory common core curricula, pre-deployment training, guidelines on observing fundamental rights in their activities with a particular focus on vulnerable persons, and the organisation of joint seminars on subjects as referred to in Article 3(4), taking into account training tools developed by the relevant Union agencies or other international organisations;",
+      "mk1": "го поддржува развојот на способностите на офицерите за врска задолжени за имиграција, вклучително и преку развој на дополнителни е незадолжителни основни настави планови, обука пред распоредување, упатства за почитување на фундаменталните човекови права и нивните активности со посебена нагласка на ранливи лица, и организација на заеднички семинари за теми како што се наведени во член  3(4), имајќи ги предвид инструментите за обука што ги развиле релевантни агенции на Унијата или други меѓународни организаци;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 263,
+      "en": "For the purposes of their respective tasks, immigration liaison officers, members of the Steering Board and facilitators of the network referred to in Article 5(2) shall ensure that all relevant information and statistics are uploaded to and exchanged via a secure web-based information exchange platform.",
+      "mk1": "За целите на своите соодветни задачи, офицерите за врска задолжени за имиграција, членовите на Управувачкиот одбор и олеснувачите на мрежата, како што се наведени во член 5(2), обезбедуваат сите релевантни информации и статистички податоци да се поставуваат на безбедна интернет-платформа за размена на информации и да се разменуваат преку неа.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 264,
+      "en": "No operational law enforcement information of a strictly confidential nature shall be exchanged via the secure web-based information exchange platform.",
+      "mk1": "Преку безбедната интернет-платформа за размена на информации не се разменуваат оперативни информации за спроведување на законот од строго доверлива природа.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 265,
+      "en": "The information to be exchanged via the secure web-based information exchange platform shall include at least the following elements:",
+      "mk1": "Информациите што ќе се разменуваат преку безбедната интернет-платформа за размена на информации ги вклучуваат најмалку следниве елементи:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 266,
+      "en": "With the exception of data as referred to in points (c) and (d) of paragraph 2, the information exchanged through the secure web-based information exchange platform shall not contain personal data or any links through which such personal data is directly or indirectly available.",
+      "mk1": "Со исклучок на податоците наведени во точките (в) и (г) од став 2, информациите што се разменуваат преку безбедната интернет-платформа за размена на информации не содржат лични податоци или други врски преку кои личните податоци се достапни директно или индиректно.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 267,
+      "en": "Immigration liaison officers shall carry out their tasks in accordance with Union and national personal data protection rules, as well as such rules contained in international agreements concluded with third countries or international organisations.",
+      "mk1": "Офицерите за врска задолжени за имиграција ги извршуваат своите задачи во согласност со правилата за заштита на личните податоци на Унијата и националните правила за заштита на лични податоци, како и правила што се содржани во меѓународните договори склучени со трети земји или меѓународни организации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 268,
+      "en": "biometric or biographic data to confirm the identity and nationality of third-country nationals for the purpose of legal migration admission;",
+      "mk1": "биометриски и биографски податоци за да се потврди идентитетот и националноста на државјани на трети земји за цели на прифаќање на законска миграција;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 269,
+      "en": "biometric, biographic data as well as other personal data necessary for establishing the identity of an individual and necessary for preventing and combating smuggling of migrants and trafficking in human beings, as well as personal data related to criminal networks’ modi operandi, means of transports used, involvement of intermediaries and financial flows.",
+      "mk1": "Биометриски, биографски податоци, како и други лични податоци што се неопходни за утврдување на идентитетот на некое лице и се неопходни за спречување и борба против криумчарење на мигранти и трговија со луѓе, како и лични податоци поврзани со моди операнди на криминалните мрежи, транспортни средства што се користат, вклученост на посредници и финансиски текови.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 270,
+      "en": "This Regulation is without prejudice to the provisions on consular cooperation at a local level contained in Regulation (EC) No 810/2009 of the European Parliament and of the Council ().",
+      "mk1": "Оваа регулатива не е во спротивност со одредбите за конзуларна соработка на локално ниво што се содржани во Регулативата (EЗ) бр. 810/2009 на Европскиот парламент и на Советот ().",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 271,
+      "en": "Member States and the relevant Union agencies shall provide the Commission with the necessary information for the preparation of the report on the application of this Regulation.",
+      "mk1": "Земјите членки и релевантните агенции на Унијата ѝ ги доставуваат на Комисијата неопходните информации за подготовка на извештајот за примената на оваа регулатива.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 272,
+      "en": "G. CIAMBA",
+      "mk1": "Џ. ЧИАМБА",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 273,
+      "en": "Such cooperation, in line with the comprehensive approach set out in the European Agenda on Migration, should provide for better management of immigration, including departures and returns, support capacity to gather and share information, including on applicants’ access to international protection and, where possible and relevant, on reintegration, and prevent and counter illegal immigration, smuggling of migrants and trafficking in human beings.",
+      "mk1": "Со таквата соработка, во согласност со сеопфатниот приод утврден во Европската агенда за миграција, би требало да се обезбеди подобро управување со имиграцијата, вклучително и со заминувањата и враќањата, поддршката за собирање и споделување информации, вклучително и за пристапот на барателот до меѓународна заштита и, ако е можно и релевантно, за реинтеграција и спречување и борба против илегална имиграција, криумчарење на мигранги и трговија со луѓе.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 274,
+      "en": "The objective of this Regulation is to ensure better coordination and optimise utilisation of the network of liaison officers deployed to third countries by the competent authorities of Member States, including, where appropriate, by law enforcement authorities, as well as by the Commission and Union agencies, in order to respond more effectively to the Union priorities of preventing and combating illegal immigration and related cross-border criminality such as smuggling of migrants and trafficking in human beings, facilitating dignified and effective return, readmission and reintegration activities, contributing to integrated management of the Union’s external borders, as well as supporting management of legal immigration, including in the area of international protection, resettlement and pre-departure integration measures undertaken by Member States and the Union.",
+      "mk1": "Цел на оваа регулатива е да се обезбеди подобра координација и да се оптимизира користењето на мрежата на офицери за врска во што органите на земјите членки, вклучително, кога е соодветно, органите за спроведување на законот, како и Комисијата и агенциите на Унијата ги распоредиле во трети земји со цел поефикасно да се одговори на приоритетите на Унијата за спречување и сузбивање на илегална имиграција и поврзаниот прекуграничен криминал, како што е криумчарење на мигранти и трговија со луѓе, олеснување на достоинствено и ефективно враќање, повторно прифаќање и реинтеграција, со што ќе се придонесе за интегрирано управување со надворешните граници на Унијата и ќе се поддржи управувањето со законска миграција, вклучително во областа на меѓународната заштита, преселувањето и мерките за интеграцијат пред заминување што ги преземаат земјите членки и Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 275,
+      "en": "Member State authorities should ensure that, where appropriate and in accordance with Union and national law, information obtained by liaison officers deployed to other Member States and strategic and operational analytical products of Union agencies in relation to illegal immigration, dignified and effective return and reintegration, cross-border criminality or international protection and resettlement effectively reach immigration liaison officers in third countries and that the information provided by immigration liaison officers is shared with the relevant Union agencies; in particular the European Border and Coast Guard Agency, European Union Agency for Law Enforcement Cooperation (Europol) and the European Asylum Support Office (EASO) within the scope of their respective legal frameworks.",
+      "mk1": "Органите на земјите членки треба да обезбедат, ако е соодветно и во согласност со правото на Унијата и со националното право, информациите што ги собираат офицерите за врска распоредени во други земји членки и стратегиските и оперативните аналитички производи на агенциите на Унијата во врска со илегална имиграција, достоинствено и ефективно враќање и реинеграција, прекуграничен криминал или меѓународната заштита и преселување ефективно да стигнат до офицерите за врски задолжени за имграција во трети земји и да обезбедат информациите што ги доставуваат офицерите за врски задолжени за имиграција да бидат споделувани со релевантните агенции на Унијата, особено со Европската агенцијата за погранична и крајбрежна стража, Европската полициска агенција (Европол) и Европската канцеларија за поддршка на азил (ЕКПА) во опсегот на нивните соодветни законски рамки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 276,
+      "en": "The processing of personal data within the framework of this Regulation should be for the purposes of assisting the return of third-country nationals, facilitating the resettlement of persons in need of international protection and implementing Union and national measures in respect of admission for the purpose of legal migration and for the prevention and combating of illegal immigration, smuggling of migrants and trafficking in human beings.",
+      "mk1": "Цел на обработката на лични податоци во рамките на оваа регулатива треба да биде давање помош при враќање на државјани на трети земји, олеснување на преселувањето на лица на кои им е потребна меѓународна заштита и спроведување на мерките на Унијата и националните мерки во однос на прифаќање, со цел законска миграција и спречување и борба против илегална имиграција, криумчарење на мигранти и трговија со луѓе.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 277,
+      "en": "Such Union priorities include ensuring a better management of migration, with a view to replacing irregular flows with safe and well-managed pathways through a comprehensive approach addressing all aspects of immigration, including preventing and combating smuggling of migrants and trafficking in human beings and illegal immigration.",
+      "mk1": "Таквите приоритети на Унијата вклучуваат обезбедување подобро управување со миграцијата, со цел незаконските текови да се заменат со безбедни и добро управувани патишта, преку сеопфатен приод со кој се води сметка за сите аспекти на имиграцијата, вклучително и борба против криумчарење на мигранти и трговија со луѓе и илегална имиграција.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 278,
+      "en": "For the purposes of this Regulation, the following definitions apply:",
+      "mk1": "За цели на оваа регулатива, се применуваат следниве дефиниции:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 279,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.",
+      "mk1": "Оваа регулатива е целосно обврзувачка и директно применлива во земјите членки во согласност со договорите.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 280,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "status": "UNMATCHED",
+      "target": "Претседател",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 281,
+      "en": "The President",
+      "mk1": "Претседател",
+      "status": "HIGH",
+      "target": "Претседател",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 281,
+      "en": "The President",
+      "mk1": "Претседател",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    }
+  ],
+  "accepted_indices": [
+    1,
+    2,
+    21,
+    101,
+    102,
+    103,
+    106,
+    108,
+    128,
+    281
+  ]
+}

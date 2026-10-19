@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20220929T205806Z" creationid="LAPTOP-QMTJDJ92\ahhan">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">52020DC0565_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">52020DC0565</prop>
+    <prop type="x-SourceTMX">52020DC0565_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">d6b52d970749e30c14ffa12fe028aa07d5acf06b1faf3a72638b3f9bfdffccd9</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">1</prop>
+  </header>
+  <body>
+    <tu creationdate="20220929T212239Z" creationid="LAPTOP-QMTJDJ92\ahhan" changedate="20220929T213033Z" changeid="LAPTOP-QMTJDJ92\ahhan" lastusagedate="20220929T213033Z">
+      <prop type="x-LastUsedBy">LAPTOP-QMTJDJ92\ahhan</prop>
+      <prop type="x-Context">-2045270570432428757, 6875200808887571267</prop>
+      <prop type="x-ContextContent">Introduction: living up to ‘United in diversity’ |  | Вовед: придржување до „Обединети во различностите“ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Discrimination on the grounds of racial or ethnic origin<ph x="1" type="770" /> is prohibited in the European Union (EU).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Дискриминација врз основа на расно или етничко потекло е забранета во Европската Унија (ЕУ). Сепак, таквата ди</seg>
+      </tuv>
+      <prop type="x-CELEX">52020DC0565</prop>
+      <prop type="x-SourceTUIndex">11</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

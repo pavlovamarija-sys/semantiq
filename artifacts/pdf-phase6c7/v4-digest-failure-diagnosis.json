@@ -1,0 +1,23 @@
+{
+  "request_key": "phase6c7-controlled-32006l0114-v4-durable-checkpoints",
+  "generation_id": "01eb331b-427d-4e77-b9ab-e40412bdef0a",
+  "mk1_run_id": "63a18859-19eb-4b91-afc3-0221b0544f1a",
+  "status": "failed",
+  "validation_status": null,
+  "failure_stage": "atomic_database_finalization",
+  "error": "function digest(bytea, unknown) does not exist",
+  "provider_calls_completed": 27,
+  "checkpoints": 27,
+  "persisted_translations": 265,
+  "input_tokens": 17890,
+  "output_tokens": 23432,
+  "total_tokens": 41322,
+  "persisted_translation_hash_mismatches": 0,
+  "artifacts": [
+    {"id":"bf622d97-dfc7-45c1-be7f-86c503796480","type":"STUDIO_SDLXLIFF_MK1","status":"failed","sha256":"2c00162dd6545a51f23fcbf1fe2df8c60a11ac0d4c95abd67614703517ad5639","byte_size":282648},
+    {"id":"9ac840a8-b820-4f78-956a-9924563ec452","type":"TARGET_DOCX","status":"failed","sha256":"1d30a6de5e092aa5cc1653102130ed33df586e89f9eb2fe089c478e4317f4b7f","byte_size":887584}
+  ],
+  "root_cause": {"extension_installed":true,"extension_schema":"extensions","function_search_path":"","defect":"complete_canonical_mk1 called digest without qualifying the extensions schema"},
+  "fix": {"migration":"20261029000000_fix_mk1_digest_schema.sql","expression":"extensions.digest(convert_to(t.target_text,'UTF8'),'sha256')","local_clean_replay":"PASS","linked_deployment":"PASS","linked_hash_probe":"PASS"},
+  "recovery": {"same_request_key_resumable":false,"reason":"The generation and run are immutable failed records and the API rejects matching failed generations before provider invocation.","paid_translation_reusable":true,"required_action":"Implement and explicitly authorize operational recovery into a new immutable generation that imports all 27 validated checkpoints without provider calls."}
+}

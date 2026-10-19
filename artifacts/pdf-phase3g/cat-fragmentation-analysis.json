@@ -1,0 +1,15 @@
+{
+  "boundaryCounts": {
+    "ABSTAIN": 46,
+    "KEEP_BOUNDARY": 4,
+    "MERGE": 28
+  },
+  "mergeSurvival": {
+    "total": 28,
+    "survivedWithinOneStudioUnit": 28
+  },
+  "knownConservativeAbstainFragmentations": 3,
+  "newMaterialFragmentation": 0,
+  "legitimateSentenceSegmentation": 272,
+  "classification": "Studio sentence segmentation is distinguished from paragraph-level reconstruction boundaries by DOCX/source-unit identity."
+}

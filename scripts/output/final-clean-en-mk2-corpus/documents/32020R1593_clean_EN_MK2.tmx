@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210826T194441Z" creationid="DESKTOP-F3OG4R3\ACER">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32020R1593_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">BreakOnTag</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32020R1593</prop>
+    <prop type="x-SourceTMX">32020R1593_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">fc275b66f8fe9416d9da636d960b4ef3d0077b1c219f8d11d8bd5fff67486f18</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">13</prop>
+  </header>
+  <body>
+    <tu creationdate="20210826T185424Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210826T195032Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164643Z" usagecount="2">
+      <prop type="x-Context">-1630537092630497703, -2439055183373607700</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Regulation (EC) No 999/2001 of the European Parliament and of the Council of 22 May 2001 laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies (<ph x="1" type="ph19" />), and in particular the first paragraph of Article 23 and Article 23a(m) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Регулативата (ЕЗ) бр. 999/2001 на Европскиот парламент и на Советот од 22 мај 2001 година за утврдување правила за спречување, контрола и искоренување на одредени трансмисивни спонгиформни енцефалопатии (), а особено првиот став од член 23 и член 23а(к) од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210207T204800Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210826T195039Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164643Z" usagecount="2">
+      <prop type="x-Context">7864611915906308453, -3965684875024305</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210207T205629Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210831T101123Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164643Z" usagecount="2">
+      <prop type="x-Context">-9138711545365223391, -1099198568511170693</prop>
+      <prop type="x-Context">7400804989325722014, -183115735625904944</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 1</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210207T205816Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210831T101302Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164643Z" usagecount="2">
+      <prop type="x-Context">-5944317684166092984, -1197743113847378143</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation shall be binding in its entirety and directly applicable in all Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Оваа регулатива е целосно обврзувачка и директно применлива во сите земји членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210207T205832Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210831T101331Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164643Z" usagecount="1">
+      <prop type="x-Context">237266540109909941, -1991686434613724941</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Brussels, 29 October 2020.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Брисел, 29 октомври 2020 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210826T145249Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210831T101332Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164643Z" usagecount="2">
+      <prop type="x-Context">-6303317180498091632, -1084289051506630809</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Commission</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Комисијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">24</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210207T222640Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210831T101336Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164643Z" usagecount="2">
+      <prop type="x-Context">1956864951517053623, 131080963057861854</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The President</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претседател</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">25</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T101343Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210831T101400Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164643Z" usagecount="1">
+      <prop type="x-Context">6451808141391308451, 4236527515880034</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Ursula VON DER LEYEN</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Урсула ВФОН ДЕР ЛА-ЕЕЈЕН</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">26</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210207T210117Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210831T101401Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164643Z" usagecount="2">
+      <prop type="x-Context">4924820739758521657, -6589382909856318980</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">27</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T103231Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210831T104817Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164643Z" usagecount="1">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Context">3511831915769162619, 4744550973130296171</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘If the result of one of the confirmatory examinations referred to in points (i) to (iv) of the first subparagraph is positive, the animal shall be regarded as a positive TSE case.’;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ото: „Ако резултатот од еден од потврдните испитувања наведени во точките (i) до (iv) од првиот потстав е позитивен, животното се смета за позитивен случај на ТСЕ.“;</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">30</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T104839Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210831T104933Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164644Z" usagecount="1">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>point (c) is amended as follows:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(3) точката (в) се изменува како што следува:</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">32</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T104936Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210831T104939Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164644Z" usagecount="1">
+      <prop type="x-Context">407332415049122335, -2092804585302782078</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">33</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T153543Z" creationid="DESKTOP-F3OG4R3\ACER" changedate="20210831T165114Z" changeid="DESKTOP-F3OG4R3\ACER" lastusagedate="20210903T164644Z" usagecount="1">
+      <prop type="x-Context">122357, 152582</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>point (ii) is replaced by the following:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ката (i) се заменува со следното:</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R1593</prop>
+      <prop type="x-SourceTUIndex">38</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

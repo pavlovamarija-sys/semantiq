@@ -1,0 +1,220 @@
+{
+  "celex": "32006L0126",
+  "status": "PASS",
+  "sourcePdfSha256": "0E6E7DF9EF641AFEBECF692CE9E1AF7C8CA2F2AD2E4C82950AD6ECF81A3D55EE",
+  "extraction": {
+    "pages": 43,
+    "blocks": 1200,
+    "lines": 2555,
+    "spans": 27433
+  },
+  "candidatePopulation": {
+    "total": 78,
+    "counts": {
+      "ABSTAIN": 46,
+      "KEEP_BOUNDARY": 4,
+      "MERGE": 28
+    },
+    "identities": [
+      "paragraphboundary-5bd487c968e14efe",
+      "paragraphboundary-f5ba6179f6448883",
+      "paragraphboundary-3f29111acccd4565",
+      "paragraphboundary-412bd26c1beb3324",
+      "paragraphboundary-ba6919db6f21541e",
+      "paragraphboundary-5d0a7d44d0fc8371",
+      "paragraphboundary-4ba7264ee96b0dea",
+      "paragraphboundary-73c210f1b5fc9d38",
+      "paragraphboundary-e9755eb53417945f",
+      "paragraphboundary-8ba9d47f6e7b07cc",
+      "paragraphboundary-3188f8e71b4da9fd",
+      "paragraphboundary-c692b8bf243f28bb",
+      "paragraphboundary-fce01fbfa78a72d0",
+      "paragraphboundary-74889d53d55adbf3",
+      "paragraphboundary-8befbf24a8122374",
+      "paragraphboundary-fbcd0b52ed22a350",
+      "paragraphboundary-34229de100d52c94",
+      "paragraphboundary-ce46cd18b935c60a",
+      "paragraphboundary-90e4f99a60fbe121",
+      "paragraphboundary-69d9b282bb5f087f",
+      "paragraphboundary-9792ab2ebbc008a8",
+      "paragraphboundary-223520d8ce0a78dd",
+      "paragraphboundary-2375665d30845de8",
+      "paragraphboundary-658b12589160dccc",
+      "paragraphboundary-f569bba6912cac0a",
+      "paragraphboundary-ac62e2403071ee5f",
+      "paragraphboundary-be9241bf3548ca46",
+      "paragraphboundary-0e28db0929fff4a0",
+      "paragraphboundary-f472eb07032481e8",
+      "paragraphboundary-20c8b02666590b89",
+      "paragraphboundary-0e24153f248c65d8",
+      "paragraphboundary-fd76e2d221867e32",
+      "paragraphboundary-e8e74298153f670c",
+      "paragraphboundary-3ddd67c482106659",
+      "paragraphboundary-bf08d17c234142bf",
+      "paragraphboundary-72b9c79d0e51813f",
+      "paragraphboundary-12b790547598d62c",
+      "paragraphboundary-00392dedc54d2272",
+      "paragraphboundary-fe1f498b80790a76",
+      "paragraphboundary-48fa83ae63a2eaab",
+      "paragraphboundary-8dfa506a70df6404",
+      "paragraphboundary-0e52739c443b31f2",
+      "paragraphboundary-ff68fc46690f52df",
+      "paragraphboundary-3f164e289e0dcdbe",
+      "paragraphboundary-568354761569d897",
+      "paragraphboundary-26fb40260c73e426",
+      "paragraphboundary-7d97e2715a616850",
+      "paragraphboundary-ea2b34e7b01967d7",
+      "paragraphboundary-dac6c9541d01b863",
+      "paragraphboundary-2812c29b1d52e9cb",
+      "paragraphboundary-359ff061852c7b1d",
+      "paragraphboundary-4af42c73ddf110e8",
+      "paragraphboundary-a85338b4a125a63c",
+      "paragraphboundary-1b8b7540de84866d",
+      "paragraphboundary-2501b8b5d972a3d5",
+      "paragraphboundary-c10552f4fa2b7e27",
+      "paragraphboundary-ae93c5c84ddd71cb",
+      "paragraphboundary-297092df0bc61309",
+      "paragraphboundary-953f6e170c1ac4f1",
+      "paragraphboundary-e217a6a103b5b6c1",
+      "paragraphboundary-5fa7f7fdc08b620d",
+      "paragraphboundary-553a8dd65a906fef",
+      "paragraphboundary-822b7591d1519a41",
+      "paragraphboundary-8fb7aa108f455098",
+      "paragraphboundary-0e201210cd3337de",
+      "paragraphboundary-be1131aa8843816a",
+      "paragraphboundary-366c3ab0c7c22000",
+      "paragraphboundary-8868276e9d415831",
+      "paragraphboundary-d407e17e8d2e2a60",
+      "paragraphboundary-44b32e8f86b61d26",
+      "paragraphboundary-840972aaf35ce482",
+      "paragraphboundary-94c3491398c977ef",
+      "paragraphboundary-8793ec3a316415f8",
+      "paragraphboundary-f6679a38cbcbc9cb",
+      "paragraphboundary-dc3ba8ba0cc9a553",
+      "paragraphboundary-10c9493f8c9a019f",
+      "paragraphboundary-87f74e46b5cd9815",
+      "paragraphboundary-deb79f2914c4b5ab"
+    ]
+  },
+  "sourceCoverage": {
+    "status": "PASS",
+    "tokens": 18825,
+    "sourceSpans": 27433,
+    "modelSpans": 27433,
+    "orderBasis": "Deterministic typed reading order; table regions use row-major cell order while preserving order within every cell."
+  },
+  "provenance": {
+    "status": "PASS",
+    "sourceSpans": 27433,
+    "traceLocations": 27433,
+    "uniqueTraceLocations": 27433,
+    "missingProvenanceNodes": [],
+    "everySourceSpanExactlyOnce": true
+  },
+  "readingOrder": {
+    "status": "PASS",
+    "articles": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "annexes": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "issues": []
+  },
+  "tables": {
+    "physicalTables": 5,
+    "logicalTables": 3,
+    "rows": 128,
+    "cells": 264,
+    "shapes": [
+      [
+        7,
+        2
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        33,
+        2
+      ],
+      [
+        40,
+        2
+      ],
+      [
+        40,
+        2
+      ]
+    ]
+  },
+  "crossPageTables": [
+    {
+      "logicalTableId": "logicaltable-65d01ed47d091724",
+      "pages": [
+        41,
+        42,
+        43
+      ],
+      "physicalSegments": [
+        "table-d4bd261c50183b73",
+        "table-0787a773c1369c26",
+        "table-9eeefeacfbdd3adb"
+      ],
+      "columns": 2,
+      "rows": 113,
+      "repeatedHeaderRows": [
+        "tablerow-89fe62c2d1ef3342",
+        "tablerow-0ee9d52b82265c23"
+      ],
+      "representation": "One logical table identity with page-preserving physical segments."
+    }
+  ],
+  "gates": {
+    "pages": true,
+    "spans": true,
+    "tokens": true,
+    "orderedSourceModel": true,
+    "articles": true,
+    "annexes": true,
+    "page4FalseTableAbsent": true,
+    "page40FinalRow": true,
+    "page41Table": true,
+    "crossPageContinuity": true,
+    "repeatedHeaders": true,
+    "physicalPageProvenance": true,
+    "provenance": true,
+    "noFalseDecisions": true
+  },
+  "retainedAbstainBoundaries": 46,
+  "aiUsed": false,
+  "referenceLabelsUsedAsExecutableInput": false,
+  "productionChanged": false,
+  "sdlxliffGenerated": false
+}

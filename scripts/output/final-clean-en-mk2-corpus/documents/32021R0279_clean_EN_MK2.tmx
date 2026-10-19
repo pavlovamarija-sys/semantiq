@@ -1,0 +1,1182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20230405T204832Z" creationid="User-PC\User">
+    <prop type="x-Quality:Integer" />
+    <prop type="x-SourceFile:SingleString" />
+    <prop type="x-TargetFile:SingleString" />
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32021R0279_tm</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">BreakOnTag</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021R0279</prop>
+    <prop type="x-SourceTMX">32021R0279_tm.tmx</prop>
+    <prop type="x-SourceTMXSHA256">797ae1d8834bd3b587b3f62a8988c5a60e0e72a3388078cba2f258360b31ddf4</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">69</prop>
+  </header>
+  <body>
+    <tu creationdate="20230405T204931Z" creationid="User-PC\User" changedate="20230405T204931Z" changeid="User-PC\User" lastusagedate="20230405T204931Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">91</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING REGULATION (EU) 2021/279</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>РЕГУЛАТИВА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2021/279 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204931Z" creationid="User-PC\User" changedate="20230405T204931Z" changeid="User-PC\User" lastusagedate="20230405T204931Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">86</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 22 February 2021</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 22 февруари 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204931Z" creationid="User-PC\User" changedate="20230405T204931Z" changeid="User-PC\User" lastusagedate="20230405T204931Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">94</prop>
+      <tuv xml:lang="en-GB">
+        <seg>laying down detailed rules for the implementation of Regulation (EU) 2018/848 of the European Parliament and of the Council on controls and other measures ensuring traceability and compliance in organic production and the labelling of organic products</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за утврдување детални правила за спроведување на Регулативата (ЕУ) 2018/848 на Европскиот парламент и на Советот за контроли и други мерки со кои се обезбедува следливост и усогласеност на органското производство и за етикетирање на органски производи</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204931Z" creationid="User-PC\User" changedate="20230405T204931Z" changeid="User-PC\User" lastusagedate="20230405T204931Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">94</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Text with EEA relevance)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(текст со важност за ЕЕО)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204931Z" creationid="User-PC\User" changedate="20230405T204931Z" changeid="User-PC\User" lastusagedate="20230405T204931Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">89</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204931Z" creationid="User-PC\User" changedate="20230405T204931Z" changeid="User-PC\User" lastusagedate="20230405T204931Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204931Z" creationid="User-PC\User" changedate="20230405T204931Z" changeid="User-PC\User" lastusagedate="20230405T204931Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">94</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In order to ensure a harmonised approach across the Union as regards the official investigation referred to in Article 29(1)(a) of Regulation (EU) 2018/848 in the event of the presence of non-authorised products or substances in organic or in-conversion products, further rules covering the elements to be determined when carrying out the official investigation, the expected results of the official investigation as well as minimum reporting obligations should be established.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>во однос на официјалната истрага наведена во член 29(1)(а) од Регулативата (ЕУ) 2018/848 во случај на присуство на неодобрени производи или супстанции во органски производи или производи од конверзија, треба да се воспостават дополнителни правила коишто ги опфаќаат елементите што треба да се утврдат при спроведувањето на официјалната истрага, очекуваните резултати од официјалната истрага, како и минималните обврски за известување.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">13</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204931Z" creationid="User-PC\User" changedate="20230405T204931Z" changeid="User-PC\User" lastusagedate="20230405T204931Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">90</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Chapter IV of Regulation (EU) 2018/848 lays down specific provisions relating to the labelling of organic and in-conversion products.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во Поглавје IV од Регулативата (ЕУ) 2018/848 се утврдуваат посебните одредби поврзани со етикетирањето на органските производи и производите од конверзија. За</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">14</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204931Z" creationid="User-PC\User" changedate="20230405T204931Z" changeid="User-PC\User" lastusagedate="20230405T204931Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In order to ensure uniform conditions for the implementation of that Regulation, some additional rules should be laid down as regards the place and the appearance of certain indications on the label.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>да се обезбедат единствени услови за спроведување на таа Ррегулатива, треба да се утврдат одредени дополнителни правила во однос на местото и изгледот на одредени знаци ознаки на етикетата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">15</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204931Z" creationid="User-PC\User" changedate="20230405T204931Z" changeid="User-PC\User" lastusagedate="20230405T204931Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Chapter V of Regulation (EU) 2018/848 lays down rules for certification of operators and groups of operators.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во Поглавје V од Регулативата (ЕУ) 2018/848 се утврдуваат правилата за сертифицирање на оператори и групи оператори.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">16</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204931Z" creationid="User-PC\User" changedate="20230405T204931Z" changeid="User-PC\User" lastusagedate="20230405T204931Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">91</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In order to ensure harmonised conditions for the implementation of that Regulation, some additional rules for the certification of a group of operators should be laid down.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За да се обезбедат усогласени услови за спроведување на таа Ррегулатива, треба да се утврдат некои дополнителни правила за сертифицирање на групи оператори.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">17</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">91</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1343" />(h)<ept i="1" />
+          <bpt i="2" type="1344" />the written agreements and contracts between the group of operators and subcontractors including information on the nature of the subcontracted activities;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ори; (ж)писмените договори и спогодбите помеѓу групата оператори и подизведувачите, вклучувајќи вклучително и информации за природата на подизведувачките активно</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">123</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1347" />(i)<ept i="1" />
+          <bpt i="2" type="1348" />the appointment of the ICS manager;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>сти; (з)назначувањето на раководител на СВК;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">124</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1351" />(j)<ept i="1" />
+          <bpt i="2" type="1352" />the appointment of the ICS inspectors as well as the list of ICS inspectors.<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ѕ)назначувањето на инспектори на СВК, како и списокот на инспектори од СВК.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">125</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">50</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The list of members referred to in point (a) of the first paragraph shall be updated by the ICS manager after any modification of the elements listed in point (a)(i) to (viii) and it shall be indicated whether any of the members has been suspended or withdrawn due to measures in case of non-compliance resulting from internal inspections or official controls.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Списокот на членови наведени во точка (а) од првиот став се ажурира од страна на раководителот на СВК по секоја измена на елементите наведени во точка (а)(i) до (viii) и се наведува дали некој од членовите се суспендирани или отповикани поради мерки во случај на неусогласеност, како резултат на внатрешни инспекции или официјални контроли.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">126</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The ICS manager shall immediately notify the competent authority or, where appropriate, the control authority or control body of the following information:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>а СВК Раководителот на СВК веднаш го известува надлежниот орган или, кога е соодветно, контролниот орган или контролното тело за следните информации:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">128</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1355" />(a)<ept i="1" />
+          <bpt i="2" type="1356" />any suspicion of major and critical non-compliance;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)секоје сомневањесомнеж за сериозна или критична неусогласен</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">129</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1359" />(b)<ept i="1" />
+          <bpt i="2" type="1360" />any suspension or withdrawal of a member or a production unit or premises, including purchase and collection centres, from the group;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ост; (б)секое суспендирање или отповикување на член или производствена единица или простории, вклучително и куповни и собирни центри, од групата;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">130</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">94</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1363" />(c)<ept i="1" />
+          <bpt i="2" type="1364" />any prohibition of the placing on the market of a product as organic or in-conversion, including the name of the member or members concerned, the relevant quantities and lot identification.<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)каква било забрана за пласирање на пазарот на производ, како органски или во конверзија, вклучувајќи говклучително и името на засегнатиот член или членови, соодветните количини и идентификацијата на серија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">131</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1367" />(a)<ept i="1" />
+          <bpt i="2" type="1368" />minimum 10 % of all official controls of operators or groups of operators shall be carried out without prior notice every year;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)секоја година се вршат најмалку 10 % од сите официјални контроли на оператори или групи оператори без претходно известување;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">134</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1371" />(b)<ept i="1" />
+          <bpt i="2" type="1372" />minimum 10 % of additional controls to those referred to in Article 38(3) of Regulation (EU) 2018/848 shall be carried out every year;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)секоја година се вршат најмалку 10 % дополнителни контроли, покрај контролите наведени во член 38(3) од Регулативата (ЕУ) 2018/848;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">135</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1379" />(d)<ept i="1" />
+          <bpt i="2" type="1380" />minimum 2 % of the members of each group of operators shall be subject to sampling in accordance with Article 14(h) of Regulation (EU) 2017/625 every year;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>625; (г)секоја година, најмалку 2 % од членовите на секоја група на оператори подлежат на земање примероци во согласност со член 14(ж) од Регулативата (ЕУ) 2017/625;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">137</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1383" />(e)<ept i="1" />
+          <bpt i="2" type="1384" />minimum 5 % of the operators that are members of a group of operators, but not less than 10 members, shall be subject to re-inspection every year.<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д)секоја година, најмалку 5 % од операторите кои се членови на група оператори, но не помалку од 10 членаови, подлежат на повторна инспекција. А</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">138</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where the group of operators has 10 members or less, all members shall be controlled in connection with the verification of compliance referred to in Article 38(3) of Regulation (EU) 2018/848.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ко групата оператори има 10 или помалку членаови, сите членови сеќе бидат предмет на контрола во врска со проверката на усогласеноста наведена во член 38(3) од Регулативата (ЕУ) 2018/848.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">139</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">94</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The competent authorities may use the uniform arrangements set out in the Annex I to this Regulation to develop a national catalogue of measures as referred to in Article 41(4) of Regulation (EU) 2018/848.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>еност Надлежните органи може да ги користат единствените договори наведени во Анекс I кон оваа Ррегулатива за да развијате национален каталог на мерки, како што е наведено во член 41(4) од Регулативата (ЕУ) 2018/848.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">141</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">88</prop>
+      <tuv xml:lang="en-GB">
+        <seg>That national catalogue of measures shall cover at least:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Националниот каталог на мерки опфаќа најмалкуба</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">142</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">94</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1387" />(a)<ept i="1" />
+          <bpt i="2" type="1388" />a list of non-compliances with a reference to the specific rules of Regulation (EU) 2018/848 or of the delegated or implementing act adopted in accordance with that Regulation;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>рем: (а)список на неусогласености во врска со посебните правила од Регулативата (ЕУ) 2018/848 или од делегираниот акт или актот за спроведување донесен во согласност со таа Ррегулатива;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">143</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">46</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1391" />(b)<ept i="1" />
+          <bpt i="2" type="1392" />the classification of the non-compliances into three categories: minor, major and critical, taking into account at least the following criteria:<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)класификацијата на неусогласеностите во три категории: мали, големи и критични, земајќи ги предвид најмалку барем следните критериум</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">144</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the application of precautionary measures referred to in Article 28(1) of Regulation (EU) 2018/848 and the own controls referred to in Article 9(1)(d) of Regulation (EU) 2017/625;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и: примената на мерки наза претпазливост наведени во член 28(1) од Регулативата (ЕУ) 2018/848 и сопствените контроли наведени во член 9(1)(г) од Регулативата (ЕУ) 2017/625</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">145</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">90</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the impact on the integrity of the organic or in-conversion status of products;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; влијанието врз статусот на интегритет на органските производи или производите од конверзија;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">146</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">90</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the ability of the traceability system to locate the affected product(s) in the supply chain;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>способноста на системот за следливост во синџирот наза снабдување да го/ги пронајде засегнатиот/-засегнатите производ/</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">147</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the response to previous requests by the competent authority or, where appropriate, the control authority or control body;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>-ипроизводи; одговорот на претходните барања од надлежниот орган или, каде што е соодветно, контролниот орган или контролното</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">148</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1395" />(c)<ept i="1" />
+          <bpt i="2" type="1396" />the measures corresponding to different categories of non-compliances.<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тело; (в)мерките што одговараат на различните категории на неусогласеност.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">149</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1399" />(a)<ept i="1" />
+          <bpt i="2" type="1400" />a Member State (notifying Member State) shall notify the Commission and relevant Member State or Member States (notified Member State or Member States) at least in the following situations:<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)земја- членка (земја- членка што известува) ја известува Комисијата и соодветната земја- членка или земји- членки (известена земја- членка или земји- членки) барем во следните ситуации: ако</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">152</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">88</prop>
+      <tuv xml:lang="en-GB">
+        <seg>when the suspected or established non-compliance affects the integrity of organic or in-conversion products coming from another Member State;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>сомневањетосомнежот за неусогласеност или утврдената неусогласеност влијае наврз интегритетот на органските производи или производите од конверзија коишто доаѓаат од друга земја- членка</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">153</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">90</prop>
+      <tuv xml:lang="en-GB">
+        <seg>when the suspected or established non-compliance affects the integrity of organic or in-conversion products imported from a third country pursuant to Article 45(1) or Article 57 of Regulation (EU) 2018/848;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>; ако сомневањетосомнежот за неусогласеност или утврдената неусогласеност влијае наврз интегритетот на органските производи или производите од конверзија увезени од трета земја во согласност со член 45(1) или член 57 од Регулативата (ЕУ) 2018/848;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">154</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">88</prop>
+      <tuv xml:lang="en-GB">
+        <seg>when the suspected or established non-compliance affects the integrity of organic or in-conversion products coming from the notifying Member State, since it could have implications for one or more notified Member States (alert notification);</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ако сомневањетосомнежот за неусогласеност или утврдената неусогласеност влијае наврз интегритетот на органските производи или производите од конверзија коишто доаѓаат од земјата- членка која известува, доколку тоа би можело да има последици врз една или повеќе известени земји- членки (известување за предупредување);</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">155</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1403" />(b)<ept i="1" />
+          <bpt i="2" type="1404" />in the situations referred to in point (a)(i) and (ii) the notified Member State or Member States shall reply within 30 calendar days from the date of receipt of the notification and shall inform about the actions and measures taken, including the results of the official investigation and provide any other information available and/or required by the notifying Member State;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)во ситуациите наведени во точка (а)(i) и (ii), известената земја- членка или земји- членки одговараат во рок од 30 календарски дена од датумот на приемот наназа известувањето и информираат за преземените активности и мерки, вклучувајќи гивклучително и резултатите од официјалната истрага, обезбедувајќи ги и сите други информации достапни и/или кои се бараатни од земјата- членка која извес</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">156</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">91</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1407" />(c)<ept i="1" />
+          <bpt i="2" type="1408" />the notifying Member State may ask the notified Member State or Member States for any necessary additional information;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тува; (в)земјата- членка која известува може да ги побара од известената земја- членка или земји- членки сите неопходни дополнителни информации;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">157</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1411" />(d)<ept i="1" />
+          <bpt i="2" type="1412" />the notifying Member State shall, as soon as possible, make the necessary entries and updates in OFIS, including the updates relating to the results of its own official investigations;<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)земјата- членка што известува, колку што е можно побрзо, ги прави потребните записи и ажурирања во системот ИСОЗ, вклучувајќи гивклучително и ажурирањата во врска со резултатите од сопствените официјални истр</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">158</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">91</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1415" />(e)<ept i="1" />
+          <bpt i="2" type="1416" />in the situation referred to in point (a) (ii) and when the Commission is notified by a Member State, the Commission shall inform the competent authority, or where relevant, the control authority or control body of the third country.<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>аги; (д)во ситуацијата наведена во точка (а) (ii) и кога Комисијата е известена од земја- членка, Комисијата го информира надлежниот орган или, каде што е соодветно, контролнотконтролниот орган или контролното тело на третата земја.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">159</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">100</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In addition to the information obligation referred to in Article 32(b) of Regulation (EU) 2017/625, the control authority or control body shall, without delay, inform the competent authority that has conferred to it or has delegated to it certain official control tasks or certain tasks related to other official activities in accordance with Article 4(3) and Article 28(1) or Article 31 of that Regulation, about any suspicion or established non-compliance that affects the integrity of organic or in-conversion products.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Покрај обврската за обезбедување информации наведена во член 32(б) од Регулативата (ЕУ) 2017/625, контролниот орган или контролното тело, без одложување, го известува надлежниот орган којшто му доделил или делегирал одредени задачи за офиоцијална контрола или одредени задачи во врска со други официјални активности во согласност со член 4(3) или член 28(1) или член 31 од таа Ррегулатива, за секоје сомневањесомнеж за неусогласеност или утврдена неусогласеност која влијае наврз интегритетот на органските производи или производите од конверз</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">160</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>It shall also provide any other information required by that competent authority.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ија. Тој, исто така, ги обезбедува сите други информации што ги бара тој надлежен орг</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">161</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">91</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the purposes of Article 43(3) of Regulation (EU) 2018/848, where operators or groups of operators and/or their subcontractors are controlled by different control authorities or control bodies, those control authorities and control bodies shall exchange the relevant information on the operations under their control.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ан. За целите на член 43(3) од Регулативата (ЕУ) 2018/848, кога операторите или групите оператори и/или нивните подизведувачи се контролирани од различни контролни органи или контролни тела, тие контролни органи и тела разменуваат релевантни информации за активностите коишто се под нивна контрола.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">162</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the purposes of Article 43(3) of Regulation (EU) 2018/848, where operators or groups of operators and/or their subcontractors change their control authority or control body, such operators and/or the control authority or control body concerned shall notify the competent authority without delay of that change.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За целите на член 43(3) од Регулативата (ЕУ) 2018/848, ако операторите или групите оператори и/или нивните подизведувачи го менуваат својот контролен орган или контролно тело, тие оператори и/или засегнатиот контролен орган или контролно тело за оваа промена го известуваат надлежниот орган без одложување.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">163</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">94</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The new control authority or control body shall request the control file of the operator or group of operators concerned from the previous control authority or control body.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Новиот контролен орган или контролното тело ја бараат документацијата за контрола на засегнатиот оператор или група оператори од претходниот контролен орган или контролно тело. П</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">164</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The previous control authority or control body shall hand over without delay to the new control authority or control body the control file of the operator or group of operators concerned, including the written records referred to in Article 38(6) of Regulation (EU) 2018/848, the status of the certification, the list of non-compliances and the corresponding measures taken by the previous control authority or control body.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ретходниот контролен орган или контролното тело, без одложување, му ја предава на новиот контролен орган или контролно тело документацијата за контрола на засегнатиот оператор или група на оператори, вклучувајќи јавклучително и писмената евиденција според член 38(6) од Регулативата (ЕУ) 2018/848, статусот на сертификација, списокот на неусогласености и соодветните мерки преземени од претходниот контролен орган или контролното те</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">165</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">94</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The new control authority or control body shall ensure that non-compliances noted in the records of the previous control authority or control body have been or will be addressed by the operator.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ло. Новиот контролен орган или контролното тело обезбедуваат дека операторот ги отстранил или ќе ги отстрани неусогласеностите забележани во евиденцијата на претходниот контролен орган или контролно тело.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">166</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">93</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the purposes of Article 43(3) of Regulation (EU) 2018/848, where operators or groups of operators are subject to a traceability check and a mass balance check, control authorities and control bodies shall exchange the relevant information allowing finalisation of these checks.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За целите на член 43(3) од Регулативата (ЕУ) 2018/848, кога операторите или групите оператори подлежат на испитување на следливост и испитување на масниот биланс, контролните органи и контролните тела ги разменуваат релевантните информации што овозможуваат завршување на тие испитувања.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">167</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The competent authorities shall take the appropriate measures and establish documented procedures to enable the exchange of information between them and the control authorities and/or control bodies to which they have conferred or delegated certain official control tasks or certain tasks related to other official activities as well as between those control authorities and/or control bodies.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Надлежните органи ги преземаат соодветните мерки и воспоставуваат документирани постапки за да овозможат размена на информации помеѓу нив и контролните органи и/или контролните тела на кои им доделиле или делегирале одредени задачи за официјална контрола или одредени задачи во врска со други официјални активности, како и помеѓу тие контролни органи и/или контролни тела.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">168</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">26</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Transitional provisions</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 10 Преодни одредби Групите оператори во трети земји кои биле во согласност со Регулативите (ЕЗ) бр</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">169</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">41</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Groups of operators in third countries complying with Regulations (EC) No 834/2007, (EC) No 889/2008 and (EC) No 1235/2008 before the date of entry into application of this Regulation and for which important administrative, legal and structural changes are necessary with regard to the maximum size of the group of operators laid down in the second paragraph of Article 4 of this Regulation, shall comply with that provision from 1 January 2025 at the latest.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. 834/2007, (ЕЗ) бр. 889/2008 и (ЕЗ) бр. 1235/2008 пред датумот на влегување во сила на оваа Ррегулатива и за кои се потребни важни административни, законски и структурни промени во однос на максималната големина на групата оператори утврдена во вториот став од член 4 од оваа Ррегулатива, треба да се усогласат со таа одредба најдоцна до 1 јануари 2025 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">170</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">91</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The national catalogue of measures developed in accordance with Article 8 shall apply from 1 January 2023 at the latest.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Националниот каталог на мерки развиен во согласност со член 8 се применува најдоцна од 1 јануари 2023 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">171</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">74</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>римена Оваа Ррегулатива влегува во сила на дваесеттиот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">173</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>It shall apply from 1 January 2022.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Се применува од 1 јануари 2022 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">174</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">90</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Regulation shall be binding in its entirety and directly applicable in all Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Оваа Ррегулатива е целосно обврзувачка и директно применлива во сите земји- членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">175</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Brussels, 22 February 2021.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Брисел, 22 февруари 2021 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">176</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">86</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Commission</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Комисијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">177</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">90</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The President</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претседател</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">178</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">94</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Ursula VON DER LEYEN</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Урсула ФОН ДЕР ЛЕЈЕН</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">179</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">94</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX I</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС I</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">180</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">100</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Uniform arrangements for the development and application of a national catalogue of measures as referred to in Article 8</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Единствени договори за подготовка и примена на националниот каталог на мерки, како што е наведено во член 8</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">181</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">91</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="1420" />(a)<ept i="1" />
+          <bpt i="2" type="1421" />the case of non-compliance is minor when:<ept i="2" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)случајот на неусогласеност е мал ако:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">183</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">89</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the precautionary measures are proportionate and appropriate, and the controls that the operator has put in place are efficient;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>мерките на претпазливост се пропорционални и соодветни, а контролата што ја вовел операторот е ефикасна;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">184</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">92</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the non-compliance does not affect the integrity of the organic or in-conversion product;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>неусогласеноста не влијае наврз интегритетот на органскиот производ или производот од конверзија;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">185</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">91</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the traceability system can locate the affected product(s) in the supply chain and prohibition of placing products on the market with reference to organic production is possible;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>системот за следливост може да го/ги пронајде засегнатиот/-засегнатите производ/производи-и во синџирот на снабдување и постои можност одза забрана за пласирање производи на пазарот во врска со органското произ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">186</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">89</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the precautionary measures are not proportionate and appropriate and the controls that the operator has put in place are not efficient;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ако: мерките на претпазливост не се пропорционални и соодветни, а контролата што ја вовел операторот не е ефикасна;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">188</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">91</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the non-compliance affects the integrity of the organic or in-conversion product;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>неусогласеноста влијае наврз интегритетот на органскиот производ или производот од конверзија;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">189</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20230405T204932Z" creationid="User-PC\User" changedate="20230405T204932Z" changeid="User-PC\User" lastusagedate="20230405T204932Z">
+      <prop type="x-Origin">Alignment</prop>
+      <prop type="x-ConfirmationLevel">Draft</prop>
+      <prop type="x-SourceFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-TargetFile:SingleString">32021R0279_EN_32021R0279_MK1.sdlalign</prop>
+      <prop type="x-Quality:Integer">89</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the operator did not correct in a timely manner a minor non-compliance;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>операторот навремено не ја испоправил малата неусогласеност;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021R0279</prop>
+      <prop type="x-SourceTUIndex">190</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

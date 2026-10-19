@@ -1,0 +1,18 @@
+{
+  "query_count": 100,
+  "embedded_chunk_count": 17544,
+  "average_latency_ms": 791.86,
+  "top_k": {
+    "top1": 100,
+    "top3": 100,
+    "top5": 100,
+    "top10": 100
+  },
+  "similarity_distribution": {
+    "gte_0_95": 0,
+    "range_0_90_0_949": 0,
+    "range_0_80_0_899": 0,
+    "below_0_80": 100
+  },
+  "note": "Similarity is an embedding-nearness signal, not a translation-quality or legal-accuracy score."
+}

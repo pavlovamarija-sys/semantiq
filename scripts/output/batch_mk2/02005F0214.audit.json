@@ -1,0 +1,4041 @@
+{
+  "celex": "02005F0214",
+  "dry_run": true,
+  "source_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02005F0214\\TMX_MK1\\02005F0214-20090328_TM.tmx"
+  ],
+  "mk2_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02005F0214\\MK2\\02005F0214-20090328_MK2.docx"
+  ],
+  "original_tmx_sha256": "556057dfd6d838c1caeb6543653b826d02d364808abbcb22e712c382244a58b2",
+  "mk2_sha256": "0148f30889a950f566a6d5ff58b59f1223ac4cbdbd8e2b6f805b7c3708d41ac6",
+  "extraction": {
+    "format": "DOCX",
+    "paragraphs": 586,
+    "table cells": 121,
+    "characters": 42107,
+    "extraction method": "OOXML body traversal",
+    "error": ""
+  },
+  "results": [
+    {
+      "index": 1,
+      "en": "This document is meant purely as a documentation tool and the institutions do not assume any liability for its contents",
+      "mk1": "Овој документ е наменет само како алатка за документација и институциите не преземаат одговорност за неговата содржина",
+      "status": "HIGH",
+      "target": "Овој документ е наменет само како алатка за документација и институциите не преземаат одговорност за неговата содржина",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "►B",
+      "mk1": "►Б",
+      "status": "MANUAL_BOUNDARY",
+      "target": "►Б",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 3,
+      "en": "COUNCIL FRAMEWORK DECISION 2005/214/JHA",
+      "mk1": "РАМКОВНА ОДЛУКА 2005/214/ПВР НА СОВЕТОТ",
+      "status": "MANUAL_BOUNDARY",
+      "target": "РАМКОВНА ОДЛУКА 2005/214/ПВР НА СОВЕТОТ",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 2,
+      "en": "►B",
+      "mk1": "►Б",
+      "status": "MANUAL_BOUNDARY",
+      "target": "о",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 3,
+      "en": "COUNCIL FRAMEWORK DECISION 2005/214/JHA",
+      "mk1": "РАМКОВНА ОДЛУКА 2005/214/ПВР НА СОВЕТОТ",
+      "status": "MANUAL_BOUNDARY",
+      "target": "д 24 февруари 2",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 4,
+      "en": "of 24 February 2005",
+      "mk1": "од 24 февруари 2005 година",
+      "status": "UNMATCHED",
+      "target": "005 година",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 3,
+      "en": "COUNCIL FRAMEWORK DECISION 2005/214/JHA",
+      "mk1": "РАМКОВНА ОДЛУКА 2005/214/ПВР НА СОВЕТОТ",
+      "status": "UNMATCHED",
+      "target": "за примена на начел",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 4,
+      "en": "of 24 February 2005",
+      "mk1": "од 24 февруари 2005 година",
+      "status": "UNMATCHED",
+      "target": "ото за заемно",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 5,
+      "en": "on the application of the principle of mutual recognition to financial penalties",
+      "mk1": "за примена на начелото за заемно признавање на паричните казни",
+      "status": "UNMATCHED",
+      "target": "признавање на паричните казни",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 4,
+      "en": "of 24 February 2005",
+      "mk1": "од 24 февруари 2005 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 5,
+      "en": "on the application of the principle of mutual recognition to financial penalties",
+      "mk1": "за примена на начелото за заемно признавање на паричните казни",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 6,
+      "en": "(OJ L 076, 22.3.2005, p.16)",
+      "mk1": "(Сл. весник L 076, 22.3.2005 година, стр. 16)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 7,
+      "en": "Amended by:",
+      "mk1": "Изменета со:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 8,
+      "en": "Official Journal",
+      "mk1": "Службен весник",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 9,
+      "en": "No",
+      "mk1": "Бр.",
+      "status": "MANUAL_BOUNDARY",
+      "target": "стр",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 10,
+      "en": "page",
+      "mk1": "страна",
+      "status": "MANUAL_BOUNDARY",
+      "target": "аница",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 11,
+      "en": "date",
+      "mk1": "датум",
+      "status": "HIGH",
+      "target": "датум",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 10,
+      "en": "page",
+      "mk1": "страна",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 11,
+      "en": "date",
+      "mk1": "датум",
+      "status": "MANUAL_BOUNDARY",
+      "target": "РАМКО",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 12,
+      "en": "►M1",
+      "mk1": "►К1",
+      "status": "MANUAL_BOUNDARY",
+      "target": "ВНА",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 13,
+      "en": "COUNCIL FRAMEWORK DECISION 2009/299/JHA of 26 February 2009",
+      "mk1": "РАМКОВНА ОДЛУКА 2009/299/ПВР НА СОВЕТОТ од 26 февруари 2009 година",
+      "status": "MANUAL_BOUNDARY",
+      "target": "ОДЛУКА 2009/299/ПВР НА СОВЕТОТ од 26 февруари 2009 година L 81 24",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 12,
+      "en": "►M1",
+      "mk1": "►К1",
+      "status": "MANUAL_BOUNDARY",
+      "target": "27.",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 13,
+      "en": "COUNCIL FRAMEWORK DECISION 2009/299/JHA of 26 February 2009",
+      "mk1": "РАМКОВНА ОДЛУКА 2009/299/ПВР НА СОВЕТОТ од 26 февруари 2009 година",
+      "status": "UNMATCHED",
+      "target": "3.2009 година ▼Б РАМКОВНА ОДЛУКА 2005/214/ПВР НА СОВЕТОТ",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 13,
+      "en": "COUNCIL FRAMEWORK DECISION 2009/299/JHA of 26 February 2009",
+      "mk1": "РАМКОВНА ОДЛУКА 2009/299/ПВР НА СОВЕТОТ од 26 февруари 2009 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 14,
+      "en": "L 81",
+      "mk1": "L 81",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 15,
+      "en": "24",
+      "mk1": "24",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 16,
+      "en": "27.3.2009",
+      "mk1": "27.3.2009 година",
+      "status": "UNMATCHED",
+      "target": "СОВЕТОТ НА",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 17,
+      "en": "▼B",
+      "mk1": "▼Б",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 18,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "REVIEW",
+      "target": "ЕВРОПСКАТА УНИЈА,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 17,
+      "en": "▼B",
+      "mk1": "▼Б",
+      "status": "MANUAL_BOUNDARY",
+      "target": "им",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 18,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "MANUAL_BOUNDARY",
+      "target": "ајќи го предвид Догово",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 19,
+      "en": "Having regard to the Treaty on European Union, and in particular Articles 31(a) and 34(2)(b) thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската унија, а особено членовите 31(а) и 34(2)(б) од истиот,",
+      "status": "REVIEW",
+      "target": "рот за Европската унијаУнија, а особено членовите 31(а) и 34(2)(б) од истиот,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 18,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "UNMATCHED",
+      "target": "имајќи ја предви",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 19,
+      "en": "Having regard to the Treaty on European Union, and in particular Articles 31(a) and 34(2)(b) thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската унија, а особено членовите 31(а) и 34(2)(б) од истиот,",
+      "status": "UNMATCHED",
+      "target": "д иницијативата на Обединетото Кралство на Велика Брит",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 20,
+      "en": "Having regard to the initiative of the United Kingdom of Great Britain and Northern Ireland, the French Republic and the Kingdom of Sweden (),",
+      "mk1": "имајќи ја предвид иницијативата на Обединетото Кралство на Велика Британија и Северна Ирска, Француската Република и Кралството Шведска (),",
+      "status": "UNMATCHED",
+      "target": "анија и Северна Ирска, Француската Република Франција и Кралството Шведска (),",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 19,
+      "en": "Having regard to the Treaty on European Union, and in particular Articles 31(a) and 34(2)(b) thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската унија, а особено членовите 31(а) и 34(2)(б) од истиот,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 20,
+      "en": "Having regard to the initiative of the United Kingdom of Great Britain and Northern Ireland, the French Republic and the Kingdom of Sweden (),",
+      "mk1": "имајќи ја предвид иницијативата на Обединетото Кралство на Велика Британија и Северна Ирска, Француската Република и Кралството Шведска (),",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 21,
+      "en": " OJ C 278, 2.10.2001, p. 4.",
+      "mk1": " Сл. весник С 278, 2.10.2001 година, стр. 4.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 22,
+      "en": "Having regard to the opinion of the European Parliament (),",
+      "mk1": "имајќи го предвид мислењето на Европскиот парламент (),",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 23,
+      "en": " OJ C 271 E, 7.11.2002, p. 423.",
+      "mk1": " Сл. весник С 271 Е, 7.11.2002 година, стр. 423.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 24,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 25,
+      "en": "(1) The European Council meeting in Tampere on 15 and 16 October 1999 endorsed the principle of mutual recognition, which should become the cornerstone of judicial cooperation in both civil and criminal matters within the Union.",
+      "mk1": "(1) На средбата на Европскиот совет во Тампере на 15 и 16 октомври 1999 година се потврди начелото за заемно прифаќање што треба да стане камен-темелник на судската соработка и во граѓанската, и во кривичната материја во рамките на Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 26,
+      "en": "(2) The principle of mutual recognition should apply to financial penalties imposed by judicial or administrative authorities for the purpose of facilitating the enforcement of such penalties in a Member State other than the State in which the penalties are imposed.",
+      "mk1": "(2) Начелото на заемно прифаќање треба да важи за паричните казни изречени од судските и административните органи со цел олеснување на извршувањето на таквите казни во земја членка што не е земјата членка во која казните се изречени.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 27,
+      "en": "(3) On 29 November 2000 the Council, in accordance with the Tampere conclusions, adopted a programme of measures to implement the principle of mutual recognition of decisions in criminal matters (), giving priority to the adoption of an instrument applying the principle of mutual recognition to financial penalties (measure 18).",
+      "mk1": "(3) На 29 септември 2000 година Советот, во согласност со заклучоците од Тампере, ја донесе програмата за мерките за спроведување на начелото за заемно признавање на одлуките во кривичната материја () при што се дава предност на донесувањето на инструмент за применување на начелото за заемно признавање на паричните казни (мерка 18).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 28,
+      "en": " OJ C 12, 15.1.2001, p. 10.",
+      "mk1": " Сл. весник С 12, 15.1.2001 година, стр. 10.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 29,
+      "en": "(4) This Framework Decision should also cover financial penalties imposed in respect of road traffic offences.",
+      "mk1": "(4) Оваа Рамковна одлука исто така треба да ги покрие паричните казни изречени во врска со сообраќајните прекршоци.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 30,
+      "en": "(5) This Framework Decision respects fundamental rights and observes the principles recognised by Article 6 of the Treaty and reflected by the Charter of Fundamental Rights of the European Union (), in particular Chapter VI thereof.",
+      "mk1": "(5) (5) Оваа Рамковна одлука ги почитува основните права и ги набљудува начелата признаени со член 6 од Договорот и пресликани со Повелбата за основни права на Европската Унија  (), а особено Поглавје VI од истата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 31,
+      "en": "Nothing in this Framework Decision may be interpreted as prohibiting refusal to execute a decision when there are reasons to believe, on the basis of objective elements, that the financial penalty has the purpose of punishing a person on the grounds of his or her sex, race, religion, ethnic origin, nationality, language, political opinions or sexual orientation, or that that person's position may be prejudiced for any of these reasons.",
+      "mk1": "Ништо во оваа Рамковна одлука не може да се толкува како одбивање со забрана за извршување одлука ако постојат причини да се верува, врз основа на објективни елементи, дека паричната казна има за цел казнување на лицето врз основа на неговиот или нејзиниот пол, раса, религија, етничко потекло, националност, јазик, политички мислења или сексуална ориентација или дека позицијата на тоа лице може да биде предмет на предрасуда поради која било од овие причини.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 32,
+      "en": " OJ C 364, 18.12.2000, p. 1.",
+      "mk1": " Сл. весник С 364, 18.12.2000, стр. 1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 33,
+      "en": "(6) This Framework Decision does not prevent a Member State from applying its constitutional rules relating to due process, freedom of association, freedom of the press and freedom of expression in other media,",
+      "mk1": "(6) Оваа Рамковна одлука не ја спречува земјата членка да ги применува своите уставни правила во врска со правичното судење, слобода на здружување, слобода на медиумите и слобода на изразување во други медиуми,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 34,
+      "en": "HAS ADOPTED THIS FRAMEWORK DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА РАМКОВНА ОДЛУКА:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 35,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 36,
+      "en": "Definitions",
+      "mk1": "Дефиниции",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 37,
+      "en": "For the purposes of this Framework Decision:",
+      "mk1": "За целите на оваа Рамковна одлука:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 38,
+      "en": "(a)\t‘decision’ shall mean a final decision requiring a financial penalty to be paid by a natural or legal person where the decision was made by:",
+      "mk1": "(а)\t„одлука“ е конечна одлука со која се наложува плаќање на паричната казна од физичкото или правното лице ако одлуката е донесена од:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 39,
+      "en": "(i)\ta court of the issuing State in respect of a criminal offence under the law of the issuing State;",
+      "mk1": "(i)\tсуд на земјата издавател во врска со кривичното дело според законите на земјата издавател;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 40,
+      "en": "(ii)\tan authority of the issuing State other than a court in respect of a criminal offence under the law of the issuing State, provided that the person concerned has had an opportunity to have the case tried by a court having jurisdiction in particular in criminal matters;",
+      "mk1": "(ii)\tтело на земјата издавател што не е суд во врска со кривичното дело според законите на земјата издавател под услов засегнатото лице да има можност случајот да се изнесе пред суд што има јуриздикција особено во кривичната  материја;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 41,
+      "en": "(iii)\tan authority of the issuing State other than a court in respect of acts which are punishable under the national law of the issuing State by virtue of being infringements of the rules of law, provided that the person concerned has had an opportunity to have the case tried by a court having jurisdiction in particular in criminal matters;",
+      "mk1": "(iii)\tорган на земјата  издавател што не е суд во врска со дејствата што се казниви според националното право на земјата  издавател врз основа на тоа дека претставуваат непочитување на владеењето на правото под услов засегнатото лице да има можност случајот да се изнесе пред суд што има јуриздикција особено во кривичната  материја;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 42,
+      "en": "(iv)\ta court having jurisdiction in particular in criminal matters, where the decision was made regarding a decision as referred to in point (iii);",
+      "mk1": "(iv)\tсуд што има јуриздикција, особено во кривичната материја, ако одлуката била донесена во врска со одлука како што е наведено во точка (iii);",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 43,
+      "en": "(b)\t‘financial penalty’ shall mean the obligation to pay:",
+      "mk1": "(б)\t„парична казна“ е обврската да се плати:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 44,
+      "en": "(i)\ta sum of money on conviction of an offence imposed in a decision;",
+      "mk1": "(i)\tпаричен износ за осуда за кривично дело изречена во одлука;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 45,
+      "en": "(ii)\tcompensation imposed in the same decision for the benefit of victims, where the victim may not be a civil party to the proceedings and the court is acting in the exercise of its criminal jurisdiction;",
+      "mk1": "(ii)\tнадомест изречен во истата одлука во корист на жртвите кога жртвата не може да поднесе граѓанско-правно барање и судот пристапува кон извршување на својата кривична надлежност;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 46,
+      "en": "(iii)\ta sum of money in respect of the costs of court or administrative proceedings leading to the decision;",
+      "mk1": "(iii)\tпаричен износ во врска со судските трошоци или административната постапка во рамките на која е донесена одлуката;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 47,
+      "en": "(iv)\ta sum of money to a public fund or a victim support organisation, imposed in the same decision.",
+      "mk1": "(iv)\tпаричен износ за јавен фонд или организација за поддршка на жртви изречен во истата одлука.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 48,
+      "en": "A\tfinancial penalty shall not include:",
+      "mk1": "А\tпаричната казна не вклучува:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 49,
+      "en": "—\torders for the confiscation of instrumentalities or proceeds of crime,",
+      "mk1": "—\tнаредби за заплена на средства или приноси од казниви дела,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 50,
+      "en": "—\torders that have a civil nature and arise out of a claim for damages and restitution and which are enforceable in accordance with Council Regulation (EC) No 44/2001 of 22 December 2000 on jurisdiction and the recognition and enforcement of judgments in civil and commercial matters ();",
+      "mk1": "—\tнаредби што се од граѓанска природа и произлегуваат од барање за надомест на штета и поврат и што се извршни во согласност со Регулативата (ЕЗ) бр. 44/2011 на Советот од 22 декември 2000 година за јуриздикцијата и признавањето и извршувањето на пресуди во граѓанската и трговската материја  ();",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 51,
+      "en": " OJ L 12, 16.1.2001, p. 1.",
+      "mk1": " Сл. весник L 12, 16.1.2001 година, стр. 1. ",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 52,
+      "en": "Regulation as last amended by Commission Regulation (EC) No 2245/2004 (OJ L 381, 28.12.2004, p. 10).",
+      "mk1": "Регулативата како што е последен пат изменета со Регулативата (ЕЗ) бр. 2245/2004 на Комисијата (Сл. весник L 381, 28.12.2004 година, стр. 10).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 53,
+      "en": "(c)\t‘issuing State’ shall mean the Member State in which a decision within the meaning of this Framework Decision was delivered;",
+      "mk1": "(в)\t„земја издавател“ е земја членка во која била донесена одлуката во рамките на значењето на оваа Рамковна одлука;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 54,
+      "en": "(d)\t‘executing State’ shall mean the Member State to which a decision has been transmitted for the purpose of enforcement.",
+      "mk1": "(г)\t„земја извршител“ е земјата членка на која ѝ била проследена одлуката со цел нејзино извршување.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 55,
+      "en": "Determination of the competent authorities",
+      "mk1": "Одредување на надлежните органи",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 56,
+      "en": "1.",
+      "mk1": "1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 57,
+      "en": "Each Member State shall inform the General Secretariat of the Council which authority or authorities, under its national law, are competent according to this Framework Decision, when that Member State is the issuing State or the executing State.",
+      "mk1": "Секоја земја членка го известува Генералниот секретаријат на Советот за тоа кој орган или органи, според националното право, се надлежни според оваа Рамковна одлука, кога таа земја членка е земјата издавател или земја извршител.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 58,
+      "en": "Notwithstanding Article 4, each Member State may designate, if it is necessary as a result of the organisation of its internal system, one or more central authorities responsible for the administrative transmission and reception of the decisions and to assist the competent authorities.",
+      "mk1": "И покрај член 4, секоја земја членка може да назначи, ако тоа е неопходно како резултат на организацијата на нејзиниот внатрешен систем, еден или повеќе централни органи одговорни за административниот пренос и прием на одлуките и за помош на надлежните органи.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 59,
+      "en": "The General Secretariat of the Council shall make the information received available to all Member States and the Commission.",
+      "mk1": "Генералниот секретаријат на Советот ги прави достапни добиените информации за сите земји членки и за Комисијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 60,
+      "en": "Fundamental rights",
+      "mk1": "Основни права",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 61,
+      "en": "This Framework Decision shall not have the effect of amending the obligation to respect fundamental rights and fundamental legal principles as enshrined in Article 6 of the Treaty.",
+      "mk1": "Оваа Рамковна одлука нема да влијае врз изменувањето на обврските во врска со основните права и основните правни начела како што е утврдено во член 6 од Договорот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 62,
+      "en": "Transmission of decisions and recourse to the central authority",
+      "mk1": "Проследување на одлуките и обраќање кон централниот орган",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 63,
+      "en": "A decision, together with a certificate as provided for in this Article, may be transmitted to the competent authorities of a Member State in which the natural or legal person against whom a decision has been passed has property or income, is normally resident or, in the case of a legal person, has its registered seat.",
+      "mk1": "Одлука, заедно со потврдата како што е наведено во овој член може да се проследи до надлежните органи на земјата членка во која физичкото или правното лице против кое била донесена одлуката има имот или приход, обично престојува или, во случај на правно лице, има свое регистрирано седиште.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 64,
+      "en": "The certificate, the standard form for which is given in the Annex, must be signed, and its contents certified as accurate, by the competent authority in the issuing State.",
+      "mk1": "Потврдата, стандарден образец даден во Анексот, мора да се потпише и неговата содржина да се потврди како точна од надлежен орган на државата издавател.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 65,
+      "en": "The decision or a certified copy of it, together with the certificate, shall be transmitted by the competent authority in the issuing State directly to the competent authority in the executing State by any means which leaves a written record under conditions allowing the executing State to establish its authenticity.",
+      "mk1": "Овластениот орган во земјата издавател одлуката или заверената копија од истата, заедно со потврдата директно ги проследува до надлежниот орган во земјата извршител преку какви било средства што оставаат писмена евиденција под услови што ѝ овозможуваат на земјата извршител да ја утврди автентичноста.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 66,
+      "en": "The original of the decision, or a certified copy of it, and the original of the certificate, shall be sent to the executing State if it so requires.",
+      "mk1": "Оригиналот од одлуката, или заверена копија од истата, и оригиналот од потврдата се праќаат до земјата извршител доколку таа го побара тоа.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 67,
+      "en": "All official communications shall also be made directly between the said competent authorities.",
+      "mk1": "Целата службена комуникација исто така се води директно меѓу наведените надлежни органи.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 68,
+      "en": "The issuing State shall only transmit a decision to one executing State at any one time.",
+      "mk1": "Земјата издавател во дадено време проследува одлука само до една земја извршител.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 69,
+      "en": "If the competent authority in the executing State is not known to the competent authority in the issuing State, the latter shall make all necessary inquiries, including via the contact points of the European Judicial Network () in order to obtain the information from the executing State.",
+      "mk1": "Ако надлежниот орган во земјата извршител не му е познат на надлежниот орган во земјата издавател, земјата издавател ги врши сите потребни мерки, вклучително и преку точките за контакт на Европската судска мрежа () со цел да ги добие информациите од земјата извршител.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 70,
+      "en": " Council Joint Action 98/428/JHA of 29 June 1998 on the creation of a European Judicial Network (OJ L 191, 7.7.1998, p. 4).",
+      "mk1": " Заедничка акција 98/428/ПВР на Советот од 29 јуни 1998 година за креирање не Европска судска мрежа (Сл. весник L 191, 7.7.1998 година, стр. 4).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 71,
+      "en": "When an authority in the executing State which receives a decision has no jurisdiction to recognise it and take the necessary measures for its execution, it shall, ex officio, transmit the decision to the competent authority and shall inform the competent authority in the issuing State accordingly.",
+      "mk1": "Ако органот во земјата извршител што ја добива одлуката нема надлежност да ја признае и да ги преземе неопходните мерки за нејзиното извршување, тој, ex officio, ја проследува одлуката до надлежниот орган и го информира надлежниот орган од државата изавател за истото.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 72,
+      "en": "The United Kingdom and Ireland, respectively, may state in a declaration that the decision together with the certificate must be sent via its central authority or authorities specified by it in the declaration.",
+      "mk1": "Обединетото Кралство и Ирска, соодветно, може во изјавата да наведат дека одлуката заедно со потврдата мора да се испратат преку нивниот централен орган или органи наведени во изјавата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 73,
+      "en": "These Member States may at any time by a further declaration limit the scope of such a declaration for the purpose of giving greater effect to paragraph 3.",
+      "mk1": "Овие земји членки може во кое било време, со дополнителна изјава, да го ограничат полето на примена на таквата изјава со цел давање поголема важност на став 3.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 74,
+      "en": "They shall do so when the provisions on mutual assistance of the Schengen Implementation Convention are put into effect for them.",
+      "mk1": "Тие постапуваат идентично и кога одредбите за заемната помош од Конвенцијата за спроведување на Шенгенскиот договор за нив се важечки.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 75,
+      "en": "Any declaration shall be deposited with the General Secretariat of the Council and notified to the Commission.",
+      "mk1": "Секоја изјава се доставува до Генералниот секретаријат на Советот и се известува Комисијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 76,
+      "en": "Scope",
+      "mk1": "Поле на примена",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 77,
+      "en": "The following offences, if they are punishable in the issuing State and as they are defined by the law of the issuing State, shall, under the terms of this Framework Decision and without verification of the double criminality of the act, give rise to recognition and enforcement of decisions:",
+      "mk1": "Следниве кривични дела, ако се казниви во земјата издавател и како што се дефинирани со законот на земјата издавател, според условите од оваа Рамковна одлука и без проверка за двојна инкриминираност на актот, доведуваат до признавање и извршување на одлуките:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 78,
+      "en": "— participation in a criminal organisation,",
+      "mk1": "— учество во криминална организација,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 79,
+      "en": "— terrorism,",
+      "mk1": "— тероризам,",
+      "status": "UNMATCHED",
+      "target": "— сексуа",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 80,
+      "en": "— trafficking in human beings,",
+      "mk1": "— трговија со луѓе,",
+      "status": "UNMATCHED",
+      "target": "лна експлоат",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 81,
+      "en": "— sexual exploitation of children and child pornography,",
+      "mk1": "— сексуална експлоатација на деца и детска порнографија,",
+      "status": "REVIEW",
+      "target": "ација на деца и детска порнографија;,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 80,
+      "en": "— trafficking in human beings,",
+      "mk1": "— трговија со луѓе,",
+      "status": "UNMATCHED",
+      "target": "— нелегал",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 81,
+      "en": "— sexual exploitation of children and child pornography,",
+      "mk1": "— сексуална експлоатација на деца и детска порнографија,",
+      "status": "UNMATCHED",
+      "target": "на трговија со наркотични д",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 82,
+      "en": "— illicit trafficking in narcotic drugs and psychotropic substances,",
+      "mk1": "— нелегална трговија со наркотични дроги и психотропни супстанции,",
+      "status": "UNMATCHED",
+      "target": "роги и психотропни супстанции;,",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 81,
+      "en": "— sexual exploitation of children and child pornography,",
+      "mk1": "— сексуална експлоатација на деца и детска порнографија,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 82,
+      "en": "— illicit trafficking in narcotic drugs and psychotropic substances,",
+      "mk1": "— нелегална трговија со наркотични дроги и психотропни супстанции,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 83,
+      "en": "— illicit trafficking in weapons, munitions and explosives,",
+      "mk1": "— нелегална трговија со оружје, муниција и експлозиви,",
+      "status": "UNMATCHED",
+      "target": "— корупција;, — измама, вклучително против",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 84,
+      "en": "— corruption,",
+      "mk1": "— корупција,",
+      "status": "UNMATCHED",
+      "target": "финансиски",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 85,
+      "en": "— fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of the European Communities' financial interests,",
+      "mk1": "— измама, вклучително против финансиските интереси на Европските заедници во рамките на значењето на Конвенцијата од 26 јули 1995 година за заштита на финансиските интереси на Европските заедници,",
+      "status": "REVIEW",
+      "target": "те интереси на Европските заедници во рамките на значењето на Конвенцијата од 26 јули 1995 година за заштита на финансиските интереси на Европските заедници;,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 84,
+      "en": "— corruption,",
+      "mk1": "— корупција,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 85,
+      "en": "— fraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of the European Communities' financial interests,",
+      "mk1": "— измама, вклучително против финансиските интереси на Европските заедници во рамките на значењето на Конвенцијата од 26 јули 1995 година за заштита на финансиските интереси на Европските заедници,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 86,
+      "en": "— laundering of the proceeds of crime,",
+      "mk1": "— перење приноси од казниво дело,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 87,
+      "en": "— counterfeiting currency, including of the euro,",
+      "mk1": "— фалсификување валути, вклучително и евра,",
+      "status": "UNMATCHED",
+      "target": "— кривично дело во врска со",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 88,
+      "en": "— computer-related crime,",
+      "mk1": "— кривично дело поврзано со компјутери,",
+      "status": "UNMATCHED",
+      "target": "животната средина, вклучи",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 89,
+      "en": "— environmental crime, including illicit trafficking in endangered animal species and in endangered plant species and varieties,",
+      "mk1": "— кривично дело во врска со животната средина, вклучително и нелегална трговија со загрозени видови животни и загрозени видови и сорти растенија,",
+      "status": "REVIEW",
+      "target": "телно и нелегална трговија со загрозени видови животни и загрозени видови и сорти растенија;,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 88,
+      "en": "— computer-related crime,",
+      "mk1": "— кривично дело поврзано со компјутери,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 89,
+      "en": "— environmental crime, including illicit trafficking in endangered animal species and in endangered plant species and varieties,",
+      "mk1": "— кривично дело во врска со животната средина, вклучително и нелегална трговија со загрозени видови животни и загрозени видови и сорти растенија,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 90,
+      "en": "— facilitation of unauthorised entry and residence,",
+      "mk1": "— помагање неовластен влез и престој,",
+      "status": "UNMATCHED",
+      "target": "— нелегална трг",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 91,
+      "en": "— murder, grievous bodily injury,",
+      "mk1": "— убиство, тешка телесна повреда,",
+      "status": "UNMATCHED",
+      "target": "овија со човеч",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 92,
+      "en": "— illicit trade in human organs and tissue,",
+      "mk1": "— нелегална трговија со човечки органи и ткива,",
+      "status": "UNMATCHED",
+      "target": "ки органи и ткива;,",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 91,
+      "en": "— murder, grievous bodily injury,",
+      "mk1": "— убиство, тешка телесна повреда,",
+      "status": "UNMATCHED",
+      "target": "— киднапирање,",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 92,
+      "en": "— illicit trade in human organs and tissue,",
+      "mk1": "— нелегална трговија со човечки органи и ткива,",
+      "status": "UNMATCHED",
+      "target": "нелегално лишување од",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 93,
+      "en": "— kidnapping, illegal restraint and hostage-taking,",
+      "mk1": "— киднапирање, нелегално лишување од слобода и земање заложници,",
+      "status": "UNMATCHED",
+      "target": "слобода и земање заложници;,",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 92,
+      "en": "— illicit trade in human organs and tissue,",
+      "mk1": "— нелегална трговија со човечки органи и ткива,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 93,
+      "en": "— kidnapping, illegal restraint and hostage-taking,",
+      "mk1": "— киднапирање, нелегално лишување од слобода и земање заложници,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 94,
+      "en": "— racism and xenophobia,",
+      "mk1": "— расизам и ксенофобија,",
+      "status": "UNMATCHED",
+      "target": "— нелегална трго",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 95,
+      "en": "— organised or armed robbery,",
+      "mk1": "— организиран и вооружен грабеж,",
+      "status": "UNMATCHED",
+      "target": "вија со културни добра",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 96,
+      "en": "— illicit trafficking in cultural goods, including antiques and works of art,",
+      "mk1": "— нелегална трговија со културни добра, вклучително антиквитети и уметнички дела,",
+      "status": "UNMATCHED",
+      "target": ", вклучително антиквитети и уметнички дела;, — измама;,",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 95,
+      "en": "— organised or armed robbery,",
+      "mk1": "— организиран и вооружен грабеж,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 96,
+      "en": "— illicit trafficking in cultural goods, including antiques and works of art,",
+      "mk1": "— нелегална трговија со културни добра, вклучително антиквитети и уметнички дела,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 97,
+      "en": "— swindling,",
+      "mk1": "— измама,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 98,
+      "en": "— racketeering and extortion,",
+      "mk1": "— рекетирање и изнуда,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 99,
+      "en": "— counterfeiting and piracy of products,",
+      "mk1": "— фалсификување и пиратерија на производи,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 100,
+      "en": "— forgery of administrative documents and trafficking therein,",
+      "mk1": "— фалсификување административни исправи и трговија со истите,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 101,
+      "en": "— forgery of means of payment,",
+      "mk1": "— фалсификување на средства за плаќање,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 102,
+      "en": "— illicit trafficking in hormonal substances and other growth promoters,",
+      "mk1": "— нелегална трговија со хормонални супстанции и други поттикнувачи на раст,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 103,
+      "en": "— illicit trafficking in nuclear or radioactive materials,",
+      "mk1": "— нелегална трговија со нуклеарни или радиоактивни материјали,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 104,
+      "en": "— trafficking in stolen vehicles,",
+      "mk1": "— трговија со украдени возила,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 105,
+      "en": "— rape,",
+      "mk1": "— силување,",
+      "status": "UNMATCHED",
+      "target": "— кривич",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 106,
+      "en": "— arson,",
+      "mk1": "— подметнување пожар,",
+      "status": "UNMATCHED",
+      "target": "ни дела во рамк",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 107,
+      "en": "— crimes within the jurisdiction of the International Criminal Court,",
+      "mk1": "—кривични дела во рамките на надлежноста на Меѓународниот кривичен суд,",
+      "status": "REVIEW",
+      "target": "ите на надлежноста на Меѓународниот кривичен суд;,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 106,
+      "en": "— arson,",
+      "mk1": "— подметнување пожар,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 107,
+      "en": "— crimes within the jurisdiction of the International Criminal Court,",
+      "mk1": "—кривични дела во рамките на надлежноста на Меѓународниот кривичен суд,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 108,
+      "en": "— unlawful seizure of aircraft/ships,",
+      "mk1": "— незаконска заплена на воздухоплови или бродови,",
+      "status": "UNMATCHED",
+      "target": "— однесување со кое не се почитуваат сообр",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 109,
+      "en": "— sabotage,",
+      "mk1": "— диверзија,",
+      "status": "UNMATCHED",
+      "target": "аќајните п",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 110,
+      "en": "— conduct which infringes road traffic regulations, including breaches of regulations pertaining to driving hours and rest periods and regulations on hazardous goods,",
+      "mk1": "—однесување со кое не се почитуваат сообраќајните правила, вклучително и непочитување на правилата што се однесуваат на часови на возење и периоди на одмор и правилата за опасни добра,",
+      "status": "REVIEW",
+      "target": "равила, вклучително и непочитување на правилата што се однесуваат на часови на возење и периоди на одмор и правилата за опасни добра;, — криумчарење добра;,",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 109,
+      "en": "— sabotage,",
+      "mk1": "— диверзија,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 110,
+      "en": "— conduct which infringes road traffic regulations, including breaches of regulations pertaining to driving hours and rest periods and regulations on hazardous goods,",
+      "mk1": "—однесување со кое не се почитуваат сообраќајните правила, вклучително и непочитување на правилата што се однесуваат на часови на возење и периоди на одмор и правилата за опасни добра,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 111,
+      "en": "— smuggling of goods,",
+      "mk1": "— криумчарење добра,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 112,
+      "en": "— infringements of intellectual property rights,",
+      "mk1": "— непочитување на правата на интелектуална сопственост,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 113,
+      "en": "— threats and acts of violence against persons, including violence during sport events,",
+      "mk1": "— закани и насилно однесување врз луѓе, вклучително и насилство на спортски настани,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 114,
+      "en": "— criminal damage,",
+      "mk1": "— кривична оштета,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 115,
+      "en": "— theft,",
+      "mk1": "— кражба",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 116,
+      "en": "— offences established by the issuing State and serving the purpose of implementing obligations arising from instruments adopted under the EC Treaty or under Title VI of the EU Treaty.",
+      "mk1": "— кривични дела утврдени од земјата издавател што имаат за цел спроведување на обврските што произлегуваат од инструментите донесени според Договорот за основање на Европската заедница или според Наслов VI на Договорот за ЕУ.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 117,
+      "en": "The Council may decide to add other categories of offences to the lists in paragraph 1 at any time, acting unanimously after consultation of the European Parliament under the conditions laid down in Article 39(1) of the EU Treaty.",
+      "mk1": "Советот може да одлучи во кое било време да додаде други категории кривични дела до списоците во став 1 делувајќи едногласно по консултација со Европскиот парламент според условите утврдени во член 39(1) од Договорот за ЕУ.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 118,
+      "en": "The Council shall consider, in the light of the report submitted to it pursuant to Article 20(5), whether the list should be extended or amended.",
+      "mk1": "Советот, земајќи го предвид извештајот доставен до него согласно член 20(5), разгледува дали списокот треба да се прошири или измени.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 119,
+      "en": "The Council shall consider the issue further at a later stage on the basis of a report on the practical application of the Framework Decision established by the Commission within 5 years after the date mentioned in Article 20(1).",
+      "mk1": "Советот го разгледува прашањето потемелно во подоцнежна фаза врз основа на извештајот за практичната примена на Рамковната одлука утврден од Комисијата во рок од 5 години по датумот наведен во член 20(1).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 120,
+      "en": "For offences other than those covered by paragraph 1, the executing State may make the recognition and execution of a decision subject to the condition that the decision is related to conduct which would constitute an offence under the law of the executing State, whatever the constituent elements or however it is described.",
+      "mk1": "За кривичните дела освен оние што не се опфатени со став 1, земјата извршител може да ја признае и изврши одлуката предмет на условот дека одлуката е поврзана со однесување што би претставувало кривично дело според законот на земјата извршител без разлика на составните елементи или начинот на кој е опишано.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 121,
+      "en": "Recognition and execution of decisions",
+      "mk1": "Признавање и извршување на одлуките",
+      "status": "HIGH",
+      "target": "Признавање и извршување на одлуките",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 122,
+      "en": "The competent authorities in the executing State shall recognise a decision which has been transmitted in accordance with Article 4 without any further formality being required and shall forthwith take all the necessary measures for its execution, unless the competent authority decides to invoke one of the grounds for non-recognition or non-execution provided for in Article 7.",
+      "mk1": "Надлежните органи во земјата извршител ја признаваат одлуката што била проследена во согласност со член 4 без потреба од дополнителни формалности и пристапуваат кон преземање на сите потребни мерки за нејзиното извршување, освен ако надлежниот орган не одлучи да се повика на една од основите за непризнавање или неизвршување предвидени во член 7.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 123,
+      "en": "Grounds for non-recognition and non-execution",
+      "mk1": "Признавање и извршување на одлуките",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 124,
+      "en": "The competent authorities in the executing State may refuse to recognise and execute the decision if the certificate provided for in Article 4 is not produced, is incomplete or manifestly does not correspond to the decision.",
+      "mk1": "Надлежните органи во земјата извршител може да одбијат да ја признаат и извршат одлуката ако потврдата предвидена во член 4 не е изготвена, е нецелосна или не соодветствува со одлуката.",
+      "status": "UNMATCHED",
+      "target": "(а)одлуката против казнетото лице во врска со истите дела е донесена во зем",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 125,
+      "en": "The competent authority in the executing State may also refuse to recognise and execute the decision if it is established that:",
+      "mk1": "Надлежниот орган на земјата извршител исто така може да одбие да ја признае и изврши одликата ако се утврди дека:",
+      "status": "UNMATCHED",
+      "target": "јата извршител или во друга земја што не е зем",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 126,
+      "en": "(a)\tdecision against the sentenced person in respect of the same acts has been delivered in the executing State or in any State other than the issuing or the executing State, and, in the latter case, that decision has been executed;",
+      "mk1": "(а)\tодлуката против казнетото лице во врска со истите дела е донесена во земјата извршител или во друга земја што не е земјата издавател или земјата извршител и, во првиот случај, дека таа одлука е извршена;",
+      "status": "UNMATCHED",
+      "target": "јата издавател или земјата извршител и, во првиот случај, дека таа одлука е извршена;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 125,
+      "en": "The competent authority in the executing State may also refuse to recognise and execute the decision if it is established that:",
+      "mk1": "Надлежниот орган на земјата извршител исто така може да одбие да ја признае и изврши одликата ако се утврди дека:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 126,
+      "en": "(a)\tdecision against the sentenced person in respect of the same acts has been delivered in the executing State or in any State other than the issuing or the executing State, and, in the latter case, that decision has been executed;",
+      "mk1": "(а)\tодлуката против казнетото лице во врска со истите дела е донесена во земјата извршител или во друга земја што не е земјата издавател или земјата извршител и, во првиот случај, дека таа одлука е извршена;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 127,
+      "en": "(b)\tin one of the cases referred to in Article 5(3), the decision relates to acts which would not constitute an offence under the law of the executing State;",
+      "mk1": "(б)\tво еден од случаите наведени во член 5(3) одлуката се однесува на дела што не би се сметале за кривично дело според правото на земјата извршител;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 128,
+      "en": "(c)\tthe execution of the decision is statute-barred according to the law of the executing State and the decision relates to acts which fall within the jurisdiction of that State under its own law.",
+      "mk1": "(в)\tизвршувањето на одлуката е застарена според правото на земјата извршител и одлуката се однесува на дела што спаѓаат во надлежноста на таа земја според нејзиното законодавство.",
+      "status": "UNMATCHED",
+      "target": "(i)според правото на земјата извршител се смета дека било целосно или делумно",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 129,
+      "en": "(d)\tthe decision relates to acts which:",
+      "mk1": "(г)\tодлуката се однесува на дела што:",
+      "status": "UNMATCHED",
+      "target": "извршено на тер",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 130,
+      "en": "(i)\tare regarded by the law of the executing State as having been committed in whole or in part in the territory of the executing State or in a place treated as such, or",
+      "mk1": "(i)\tспоред правото на земјата извршител се смета дека било целосно или делумно извршено на територијата на земјата извршител или на место третирано како такво, или",
+      "status": "UNMATCHED",
+      "target": "иторијата на земјата извршител или на место третирано како такво;, или",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 129,
+      "en": "(d)\tthe decision relates to acts which:",
+      "mk1": "(г)\tодлуката се однесува на дела што:",
+      "status": "UNMATCHED",
+      "target": "(ii)било извршено",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 130,
+      "en": "(i)\tare regarded by the law of the executing State as having been committed in whole or in part in the territory of the executing State or in a place treated as such, or",
+      "mk1": "(i)\tспоред правото на земјата извршител се смета дека било целосно или делумно извршено на територијата на земјата извршител или на место третирано како такво, или",
+      "status": "UNMATCHED",
+      "target": "надвор од територијата на земјата извршител и правото на земјата извршител не",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 131,
+      "en": "(ii)\thave been committed outside the territory of the issuing State and the law of the executing State does not allow prosecution for the same offences when committed outside its territory;",
+      "mk1": "(ii)\tбило извршено надвор од територијата на земјата извршител и правото на земјата извршител не дозволува гонење за исти кривични дела кога се извршени надвор од нејзината територија;",
+      "status": "UNMATCHED",
+      "target": "дозволува гонење за исти кривични дела кога се извршени надвор од нејзината територија;",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 130,
+      "en": "(i)\tare regarded by the law of the executing State as having been committed in whole or in part in the territory of the executing State or in a place treated as such, or",
+      "mk1": "(i)\tспоред правото на земјата извршител се смета дека било целосно или делумно извршено на територијата на земјата извршител или на место третирано како такво, или",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 131,
+      "en": "(ii)\thave been committed outside the territory of the issuing State and the law of the executing State does not allow prosecution for the same offences when committed outside its territory;",
+      "mk1": "(ii)\tбило извршено надвор од територијата на земјата извршител и правото на земјата извршител не дозволува гонење за исти кривични дела кога се извршени надвор од нејзината територија;",
+      "status": "UNMATCHED",
+      "target": "(ѓ)одлуката била изречена врз физичко лице кое според правото на земјата извршит",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 132,
+      "en": "(e)\tthere is immunity under the law of the executing State, which makes it impossible to execute the decision;",
+      "mk1": "(д)\tима имунитет според правото на земјата извршител што го прави извршувањето на одлуката невозможно;",
+      "status": "UNMATCHED",
+      "target": "ел поради неговата или нејзината возраст сè у",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 133,
+      "en": "(f)\tthe decision has been imposed on a natural person who under the law of the executing State due to his or her age could not yet have been held criminally liable for the acts in respect of which the decision was passed;",
+      "mk1": "(ѓ)\tодлуката била изречена врз физичко лице кое според правото на земјата извршител поради неговата или нејзината возраст сè уште не може да сноси кривична одговорност за делата во врска со кои била донесена одлуката;",
+      "status": "UNMATCHED",
+      "target": "ште не може да сноси кривична одговорност за делата во врска со кои била донесена одлуката; ▼К1",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 132,
+      "en": "(e)\tthere is immunity under the law of the executing State, which makes it impossible to execute the decision;",
+      "mk1": "(д)\tима имунитет според правото на земјата извршител што го прави извршувањето на одлуката невозможно;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 133,
+      "en": "(f)\tthe decision has been imposed on a natural person who under the law of the executing State due to his or her age could not yet have been held criminally liable for the acts in respect of which the decision was passed;",
+      "mk1": "(ѓ)\tодлуката била изречена врз физичко лице кое според правото на земјата извршител поради неговата или нејзината возраст сè уште не може да сноси кривична одговорност за делата во врска со кои била донесена одлуката;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 134,
+      "en": "▼M1",
+      "mk1": "▼К1",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 135,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32009F0299",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32009F0299",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 136,
+      "en": "32009F0299:",
+      "mk1": "32009F0299:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 137,
+      "en": "REPLACED",
+      "mk1": "ЗАМЕНЕТО",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 138,
+      "en": "(g)\taccording to the certificate provided for in Article 4, the person concerned, in case of a written procedure, was not, in accordance with the law of the issuing State, informed personally or via a representative, competent according to national law, of his/her right to contest the case and of the time limits for such a legal remedy;",
+      "mk1": "(е)\tспоред потврдата предвидена во член 4, засегнатото лице, во случај на писмена постапка, не било, во согласност со правото на земјата издавател, известено лично или преку застапник, надлежен според националното законодавство, за неговото/нејзиното право да го оспори случајот и за временските ограничувања за таков правен лек;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 139,
+      "en": "▼B",
+      "mk1": "▼Б",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 140,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32005F0214",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32005F0214",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 141,
+      "en": "32005F0214",
+      "mk1": "32005F0214",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 142,
+      "en": "(h)\tthe financial penalty is below EUR 70 or the equivalent to that amount;",
+      "mk1": "(ж)\tпаричната казна е помала од 70 ЕУР или еквивалент на тој износ;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 143,
+      "en": "INSERTED",
+      "mk1": "ВМЕТНАТО",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 144,
+      "en": "(i)\taccording to the certificate provided for in Article 4, the person did not appear in person at the trial resulting in the decision, unless the certificate states that the person, in accordance with further procedural requirements defined in the national law of the issuing State:",
+      "mk1": "(з)\tспоред потврдата предвидена во член 4, лицето не се појавило лично на судењето што довело до одлуката, освен ако во потврдата не е наведено дека лицето, во согласност со понатамошните барања на постапката дефинирани во националното законодавство на државата издавател:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 145,
+      "en": "(i)\tin due time:",
+      "mk1": "(i)\tна време:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 146,
+      "en": "—\teither was summoned in person and thereby informed of the scheduled date and place of the trial which resulted in the decision, or by other means actually received official information of the scheduled date and place of that trial in such a manner that it was unequivocally established that he or she was aware of the scheduled trial,",
+      "mk1": "—\tили бил повикан лично и со тоа известен за закажаниот датум и место на судењето што довело до одлуката, или со други средства добил официјално известување за закажаниот датум и место на тоа судење на начин на кој било јасно утврдено дека тој или таа знаеле за закажаното судење,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 147,
+      "en": "and",
+      "mk1": "и",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 148,
+      "en": "—\twas informed that a decision may be handed down if he or she does not appear for the trial;",
+      "mk1": "—\tбил известен дека може да се донесе одлука ако тој или таа не се појави на судењето;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 149,
+      "en": "or",
+      "mk1": "или",
+      "status": "HIGH",
+      "target": "или",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 150,
+      "en": "(ii)\tbeing aware of the scheduled trial, had given a mandate to a legal counsellor, who was either appointed by the person concerned or by the State, to defend him or her at the trial, and was indeed defended by that counsellor at the trial;",
+      "mk1": "(ii)\tзнаејќи за закажаното судење, дал мандат на правен застапник кој е или назначен од засегнатото лице или од државата, да го брани него или неа на судењето и бил реално застапуван од тој застапник на судењето;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 151,
+      "en": "(iii)\tafter being served with the decision and being expressly informed of the right to a retrial, or an appeal, in which he or she has the right to participate and which allows the merits of the case, including fresh evidence, to be re-examined, and which may lead to the original decision being reversed:",
+      "mk1": "(iii)\tоткако ја добил одлуката и бил веднаш известен за правото на повторно судење, или на жалба, во кое тој или таа има право да учествува и се овозможува повторно разгледување на фактите во случајот, вклучително и нови докази и што може да доведе до преиначување на првичната одлука:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 152,
+      "en": "—\texpressly stated that he or she does not contest the decision,",
+      "mk1": "—\tјасно изјавил дека тој или таа не ја оспорува одлуката,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 153,
+      "en": "—\tdid not request a retrial or appeal within the applicable time frame;",
+      "mk1": "—\tне побарал повторно судење или жалба во рамките на применливата временска рамка;",
+      "status": "UNMATCHED",
+      "target": "3.Во случаи наведени во ставовите 1 и 2",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 154,
+      "en": "(j)\taccording to the certificate provided for in Article 4, the person did not appear in person, unless the certificate states that the person, having been expressly informed about the proceedings and the possibility to appear in person in a trial, expressly waived his or her right to an oral hearing and has expressly indicated that he or she does not contest the case.",
+      "mk1": "(ѕ)\tспоред потврдата предвидена во член 4, лицето не се појавило лично освен ако потврдата вели дека лицето што било јасно известено за постапката и за можноста лично да се појави на судењето, јасно се откажало од неговото или нејзиното право на усно сослушување и јасно навело дека тој или таа не го оспорува случајот.",
+      "status": "UNMATCHED",
+      "target": "(в), (е), (з) и (ѕ) пред да се одлучи да не се признае и да се изврши одлуката, дали целосно или делумно, надлежниот орган во земјата извршител го кон",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 155,
+      "en": "In the cases referred to in paragraphs 1 and 2(c), (g), (i) and (j), before deciding not to recognise and to execute a decision, either totally or in part, the competent authority in the executing State shall consult the competent authority in the issuing State, by any appropriate means, and shall, where appropriate, ask it to supply any necessary information without delay.",
+      "mk1": "Во случаи наведени во ставовите 1 и 2(в), (е), (з) и (ѕ) пред да се одлучи да не се признае и да се изврши одлуката, дали целосно или делумно, надлежниот орган во земјата извршител го консултира надлежниот орган во земјата издавател преку сите соодветни средства и, ако е соодветно, бара тоа, без задоцнување, да му ги достави сите потребни информации.",
+      "status": "UNMATCHED",
+      "target": "султира надлежниот орган во земјата издавател преку сите соодветни средства и, ако е соодветно, бара тоја, без задоцнување, да му ги достави сите потребни информации.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 154,
+      "en": "(j)\taccording to the certificate provided for in Article 4, the person did not appear in person, unless the certificate states that the person, having been expressly informed about the proceedings and the possibility to appear in person in a trial, expressly waived his or her right to an oral hearing and has expressly indicated that he or she does not contest the case.",
+      "mk1": "(ѕ)\tспоред потврдата предвидена во член 4, лицето не се појавило лично освен ако потврдата вели дека лицето што било јасно известено за постапката и за можноста лично да се појави на судењето, јасно се откажало од неговото или нејзиното право на усно сослушување и јасно навело дека тој или таа не го оспорува случајот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 155,
+      "en": "In the cases referred to in paragraphs 1 and 2(c), (g), (i) and (j), before deciding not to recognise and to execute a decision, either totally or in part, the competent authority in the executing State shall consult the competent authority in the issuing State, by any appropriate means, and shall, where appropriate, ask it to supply any necessary information without delay.",
+      "mk1": "Во случаи наведени во ставовите 1 и 2(в), (е), (з) и (ѕ) пред да се одлучи да не се признае и да се изврши одлуката, дали целосно или делумно, надлежниот орган во земјата извршител го консултира надлежниот орган во земјата издавател преку сите соодветни средства и, ако е соодветно, бара тоа, без задоцнување, да му ги достави сите потребни информации.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 156,
+      "en": "Determination of the amount to be paid",
+      "mk1": "Одредување на износот што се плаќа",
+      "status": "REVIEW",
+      "target": "Член 8 Одредување на износот што се",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 157,
+      "en": "Where it is established that the decision is related to acts which were not carried out within the territory of the issuing State, the executing State may decide to reduce the amount of the penalty enforced to the maximum amount provided for acts of the same kind under the national law of the executing State, when the acts fall within the jurisdiction of that State.",
+      "mk1": "Ако се утврди дека одлуката е поврзана со дела што не биле извршени во рамките на територијата на земјата издавател, земјата извршител може да одлучи да го намали износот на казната до максималниот износ предвиден за дела од ист вид според националното право на земјата извршител кога делата спаѓаат во надлежноста на таа земја.",
+      "status": "HIGH",
+      "target": "плаќа 1.Ако се утврди дека одлуката е поврзана со дела што не биле извршени во рамките на територијата на земјата издавател, земјата извршител може да одлучи да го намали износот на казната до максималниот износ предвиден за дела од ист вид според националното право на земјата извршител кога делата спаѓаат во надлежноста на таа земја.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 157,
+      "en": "Where it is established that the decision is related to acts which were not carried out within the territory of the issuing State, the executing State may decide to reduce the amount of the penalty enforced to the maximum amount provided for acts of the same kind under the national law of the executing State, when the acts fall within the jurisdiction of that State.",
+      "mk1": "Ако се утврди дека одлуката е поврзана со дела што не биле извршени во рамките на територијата на земјата издавател, земјата извршител може да одлучи да го намали износот на казната до максималниот износ предвиден за дела од ист вид според националното право на земјата извршител кога делата спаѓаат во надлежноста на таа земја.",
+      "status": "UNMATCHED",
+      "target": "2.Надлежниот орган на земјата извршител, доколку е потребно, ја конвертира казната во валутата на земјата извршител по стапката што в",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 158,
+      "en": "The competent authority of the executing State shall, if necessary, convert the penalty into the currency of the executing State at the rate of exchange obtaining at the time when the penalty was imposed.",
+      "mk1": "Надлежниот орган на земјата извршител, доколку е потребно, ја конвертира казната во валутата на земјата извршител по стапката што важи во времето на изречување на казната.",
+      "status": "UNMATCHED",
+      "target": "ажи во времето на изречување на казната. Член 9 Закони со кои се уреду",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 159,
+      "en": "Law governing enforcement",
+      "mk1": "Закони со кои се уредува извршувањето",
+      "status": "UNMATCHED",
+      "target": "ва извршувањето",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 158,
+      "en": "The competent authority of the executing State shall, if necessary, convert the penalty into the currency of the executing State at the rate of exchange obtaining at the time when the penalty was imposed.",
+      "mk1": "Надлежниот орган на земјата извршител, доколку е потребно, ја конвертира казната во валутата на земјата извршител по стапката што важи во времето на изречување на казната.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 159,
+      "en": "Law governing enforcement",
+      "mk1": "Закони со кои се уредува извршувањето",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 160,
+      "en": "Without prejudice to paragraph 3 of this Article, and to Article 10, the enforcement of the decision shall be governed by the law of the executing State in the same way as a financial penalty of the executing State.",
+      "mk1": "Без да е во спротивност со став 3 од овој член, и со член 10, извршувањето на одлуката се уредува со законот на земјата извршител на ист начин како парична казна во земјата извршител.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 161,
+      "en": "The authorities of the executing State alone shall be competent to decide on the procedures for enforcement and to determine all the measures relating thereto, including the grounds for termination of enforcement.",
+      "mk1": "Само органите на земјата извршител се надлежни да одлучат за постапките за извршување и да ги одредат сите мерки поврзани со истото, вклучително и основите за прекин на извршувањето.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 162,
+      "en": "A financial penalty imposed on a legal person shall be enforced even if the executing State does not recognise the principle of criminal liability of legal persons.",
+      "mk1": "Паричната казна изречена на правно лице се извршува и кога земјата извршител не го признава начелото за кривична одговорност на правни лица.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 163,
+      "en": "In the case where the sentenced person is able to furnish proof of a payment, totally or in part, in any State, the competent authority of the executing State shall consult the competent authority of the Issuing State in the way provided for in Article 7(3).",
+      "mk1": "Во случај кога казнетото лице може да достави доказ за плаќање целосно или делумно, во која било земја, надлежниот орган на земјата извршител го консултира надлежниот орган во земјата издавател на начин предвиден во член 7(3).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 164,
+      "en": "Any part of the penalty recovered in whatever manner in any State shall be deducted in full from the amount, which is to be enforced in the executing State.",
+      "mk1": "Секој дел од казната надоместен на каков било начин во која била земја целосно се одзема од износот што е предмет на извршување во земјата извршител.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 165,
+      "en": "Imprisonment or other alternative sanction by way of substitution for non-recovery of the financial penalty",
+      "mk1": "Казна затвор или други алтернативни санкции со замена за ненаплатен паричен долг",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 166,
+      "en": "Where it is not possible to enforce a decision, either totally or in part, alternative sanctions, including custodial sanctions, may be applied by the executing State if its laws so provide in such cases and the issuing State has allowed for the application of such alternative sanctions in the certificate referred to in Article 4.",
+      "mk1": "Ако не е возможно да се изврши одлука, или целосно или делумно, алтернативни санкции, вклучително и казна затвор, може да се применат од земјата извршител ако законите тоа го предвидуваат во такви случаи и земјата издавател дозволила примена на такви алтернативни санкции во потврдата наведена во член 4.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 167,
+      "en": "The severity of the alternative sanction shall be determined in accordance with the law of the executing State, but shall not exceed any maximum level stated in the certificate transmitted by the issuing State.",
+      "mk1": "Сериозноста на алтернативната санкција се утврдува во согласност со законот на земјата извршител, но нема го надмине максималното ниво наведено во потврдата проследена од земјата издавател.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 168,
+      "en": "Amnesty, pardon, review of sentence",
+      "mk1": "Амнестија, помилување, повторно разгледување на казната",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 169,
+      "en": "Amnesty and pardon may be granted by the issuing State and also by the executing State.",
+      "mk1": "Амнестија и помилување може да додели државата издавател и исто така државата извршител.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 170,
+      "en": "Without prejudice to the Article 10, only the issuing State may determine any application for review of the decision.",
+      "mk1": "Без да е во спротивност со член 10, само државата издавател може да одлучува за барањето за повторно разгледување на одлуката.",
+      "status": "UNMATCHED",
+      "target": "1.Надлежниот орган на земјата издавател, го известува надлежниот орган на земјата",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 171,
+      "en": "Termination of enforcement",
+      "mk1": "Престанок на извршувањето",
+      "status": "UNMATCHED",
+      "target": "извршител за се",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 172,
+      "en": "The competent authority of the issuing State shall forthwith inform the competent authority of the executing State of any decision or measure as a result of which the decision ceases to be enforceable or is withdrawn from the executing State for any other reason.",
+      "mk1": "Надлежниот орган на земјата издавател го известува надлежниот орган на земјата извршител за секоја одлука или мерка како резултат на која одлуката престанува да биде извршувана или е повлечена од земјата извршител од која било друга причина.",
+      "status": "REVIEW",
+      "target": "која одлука или мерка како резултат на која одлуката престанува да биде извршувана извршена или е повлечена од земјата извршител од која било друга причина.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 171,
+      "en": "Termination of enforcement",
+      "mk1": "Престанок на извршувањето",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 172,
+      "en": "The competent authority of the issuing State shall forthwith inform the competent authority of the executing State of any decision or measure as a result of which the decision ceases to be enforceable or is withdrawn from the executing State for any other reason.",
+      "mk1": "Надлежниот орган на земјата издавател го известува надлежниот орган на земјата извршител за секоја одлука или мерка како резултат на која одлуката престанува да биде извршувана или е повлечена од земјата извршител од која било друга причина.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 173,
+      "en": "The executing State shall terminate enforcement of the decision as soon as it is informed by the competent authority of the issuing State of that decision or measure.",
+      "mk1": "Земјата извршител го прекинува извршувањето на одлуката веднаш откога за таа одлука или мерка ја известува надлежниот орган на земјата издавател.",
+      "status": "UNMATCHED",
+      "target": "Приход од извршувањето на одлуките Парите добиени од извршувањето на одлуките, припаѓаат на з",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 174,
+      "en": "Accrual of monies obtained from enforcement of decisions",
+      "mk1": "Приход од извршувањето на одлуките",
+      "status": "UNMATCHED",
+      "target": "емјата извршител, осве",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 175,
+      "en": "Monies obtained from the enforcement of decisions shall accrue to the executing State unless otherwise agreed between the issuing and the executing State, in particular in the cases referred to in Article 1(b)(ii).",
+      "mk1": "Парите добиени од извршувањето на одлуките припаѓаат на земјата извршител освен ако не е поинаку договорено меѓу земјата издавател и земјата извршител, особено за случаите наведени во член 1(б)(ii).",
+      "status": "REVIEW",
+      "target": "н ако не е поинаку договорено меѓу земјата издавател и земјата извршител, особено за случаите наведени во член 1(б)(ii). Член 14",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 174,
+      "en": "Accrual of monies obtained from enforcement of decisions",
+      "mk1": "Приход од извршувањето на одлуките",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 175,
+      "en": "Monies obtained from the enforcement of decisions shall accrue to the executing State unless otherwise agreed between the issuing and the executing State, in particular in the cases referred to in Article 1(b)(ii).",
+      "mk1": "Парите добиени од извршувањето на одлуките припаѓаат на земјата извршител освен ако не е поинаку договорено меѓу земјата издавател и земјата извршител, особено за случаите наведени во член 1(б)(ii).",
+      "status": "UNMATCHED",
+      "target": "Надлежниот орган на земјата извршител без задоцнување го известува надлежниот орга",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 176,
+      "en": "Information from the executing State",
+      "mk1": "Известување од земјата извршител",
+      "status": "UNMATCHED",
+      "target": "н на земјата",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 177,
+      "en": "The competent authority of the executing State shall without delay inform the competent authority of the issuing State by any means which leaves a written record:",
+      "mk1": "Надлежниот орган на земјата извршител без задоцнување го известува надлежниот орган на земјата издавател преку какви било средства што оставаат пишана евиденција:",
+      "status": "UNMATCHED",
+      "target": "издавател преку какви било средства што оставаат пишана евиденција:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 176,
+      "en": "Information from the executing State",
+      "mk1": "Известување од земјата извршител",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 177,
+      "en": "The competent authority of the executing State shall without delay inform the competent authority of the issuing State by any means which leaves a written record:",
+      "mk1": "Надлежниот орган на земјата извршител без задоцнување го известува надлежниот орган на земјата издавател преку какви било средства што оставаат пишана евиденција:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 178,
+      "en": "(a)\tof the transmission of the decision to the competent authority, according to Article 4(6);",
+      "mk1": "(а)\tза проследувањето на одлуката до надлежниот орган согласно член 4(6);",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 179,
+      "en": "(b)\tof any decision not to recognise and execute a decision, according to Articles 7 or 20(3), together with the reasons for the decision;",
+      "mk1": "(б)\tза одлуката да не се признае и изврши одлуката согласно член 7 или 20(3) заедно со причините за таквата одлука;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 180,
+      "en": "(c)\tof the total or partial non-execution of the decision for the reasons referred to in Article 8, Article 9(1) and (2), and Article 11(1);",
+      "mk1": "(в)\tза целосното или делумното неизвршување на одлуката од причини наведени во член 8, член 9(1) и (2) и член 11(1);",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 181,
+      "en": "(d)\tof the execution of the decision as soon as the execution has been completed;",
+      "mk1": "(г)\tза извршувањето на одлуката веднаш по завршување на извршувањето;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 182,
+      "en": "(e)\tof the application of alternative sanction, according to Article 10.",
+      "mk1": "(д)\tза примената на алтернативни санкции согласно член 10.",
+      "status": "UNMATCHED",
+      "target": "Последици од проследување на одлука 1.Предмет",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 183,
+      "en": "Consequences of transmission of a decision",
+      "mk1": "Последици од проследување на одлука",
+      "status": "UNMATCHED",
+      "target": "на став 2, земјата издават",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 184,
+      "en": "Subject to paragraph 2, the issuing State may not proceed with the execution of a decision transmitted pursuant to Article 4.",
+      "mk1": "Предмет на став 2, земјата издавател може да не пристапи кон извршување на одлуката проследена согласно член 4.",
+      "status": "REVIEW",
+      "target": "ел може да не пристапи кон извршување на одлуката проследена во согласност со член 4.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 183,
+      "en": "Consequences of transmission of a decision",
+      "mk1": "Последици од проследување на одлука",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 184,
+      "en": "Subject to paragraph 2, the issuing State may not proceed with the execution of a decision transmitted pursuant to Article 4.",
+      "mk1": "Предмет на став 2, земјата издавател може да не пристапи кон извршување на одлуката проследена согласно член 4.",
+      "status": "UNMATCHED",
+      "target": "(а)откако земјата извршител ја известува за целосното или делум",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 185,
+      "en": "The right of execution of the decision shall revert to the issuing State:",
+      "mk1": "Правото на извршување на одлуката повторно го добива држава издавател:",
+      "status": "UNMATCHED",
+      "target": "ното неизвршување или непризнаваање или",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 186,
+      "en": "(a)\tupon it being informed by the executing State of the total or partial non-execution or the non-recognition or the non-enforcement of the decision in the case of Article 7, with the exception of Article 7(2)(a), in the case of Article 11(1), and in the case of Article 20(3); or",
+      "mk1": "откако земјата извршител ја известува за целосното или делумното неизвршување или непризнаваање или неспроведување на одлуката во случај на член 7, со исклучок на член 7(2)(а), во случај на член 11(1) и во случај на член 20(3); или",
+      "status": "REVIEW",
+      "target": "неспроведување на одлуката во случај на член 7, со исклучок на член 7(2)(а), во случај на член 11(1) и во случај на член 20(3); или",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 185,
+      "en": "The right of execution of the decision shall revert to the issuing State:",
+      "mk1": "Правото на извршување на одлуката повторно го добива држава издавател:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 186,
+      "en": "(a)\tupon it being informed by the executing State of the total or partial non-execution or the non-recognition or the non-enforcement of the decision in the case of Article 7, with the exception of Article 7(2)(a), in the case of Article 11(1), and in the case of Article 20(3); or",
+      "mk1": "откако земјата извршител ја известува за целосното или делумното неизвршување или непризнаваање или неспроведување на одлуката во случај на член 7, со исклучок на член 7(2)(а), во случај на член 11(1) и во случај на член 20(3); или",
+      "status": "UNMATCHED",
+      "target": "3.Ако, по проследувањето на одлуката во согласност со член 4, органот на земјата издавател добие паричен из",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 187,
+      "en": "(b)\twhen the executing State has been informed by the issuing State that the decision has been withdrawn from the executing State pursuant to Article 12.",
+      "mk1": "кога земјата извршител е известена од земјата издавател дека одлуката е повлечена од земјата извршител согласно член 12.",
+      "status": "UNMATCHED",
+      "target": "нос што казнетото лице доброволно го исплатило во врска",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 188,
+      "en": "If, after transmission of a decision in accordance with Article 4, an authority of the issuing State receives any sum of money which the sentenced person has paid voluntarily in respect of the decision, that authority shall inform the competent authority in the executing State without delay.",
+      "mk1": "Ако, по проследувањето на одлуката во согласност со член 4, органот на земјата издавател добие паричен износ што казнетото лице доброволно го исплатило во врска со одлуката, тој орган, без задоцнување, го известува надлежниот орган во земјата издавател.",
+      "status": "UNMATCHED",
+      "target": "со одлуката, тој орган, без задоцнување, го известува надлежниот орган во земјата издавател. Се применува член 9(2).",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 187,
+      "en": "(b)\twhen the executing State has been informed by the issuing State that the decision has been withdrawn from the executing State pursuant to Article 12.",
+      "mk1": "кога земјата извршител е известена од земјата издавател дека одлуката е повлечена од земјата извршител согласно член 12.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 188,
+      "en": "If, after transmission of a decision in accordance with Article 4, an authority of the issuing State receives any sum of money which the sentenced person has paid voluntarily in respect of the decision, that authority shall inform the competent authority in the executing State without delay.",
+      "mk1": "Ако, по проследувањето на одлуката во согласност со член 4, органот на земјата издавател добие паричен износ што казнетото лице доброволно го исплатило во врска со одлуката, тој орган, без задоцнување, го известува надлежниот орган во земјата издавател.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 189,
+      "en": "Article 9(2) shall apply.",
+      "mk1": "Се применува член 9(2).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 190,
+      "en": "Languages",
+      "mk1": "Јазици",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 191,
+      "en": "The certificate, the standard form for which is given in the Annex, must be translated into the official language or one of the official languages of the executing State.",
+      "mk1": "Потврдата, стандардниот образец што е наведен во Анексот, мора да се преведе на службениот јазик или на еден од службените јазици на земјата извршител.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 192,
+      "en": "Any Member State may, either when this Framework Decision is adopted or at a later date, state in a declaration deposited with the General Secretariat of the Council that it will accept a translation in one or more other official languages of the Institutions of the Union.",
+      "mk1": "Секоја земја членка може, или кога ќе се донесе оваа Рамковна одлука, или подоцна, во изјавата доставена до Генералниот секретаријат на Советот да наведе дека ќе прифати превод на еден или повеќе други службени јазици на институциите во Унијата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 193,
+      "en": "The execution of the decision may be suspended for the time necessary to obtain its translation at the expense of the executing State.",
+      "mk1": "Извршувањето на одлуката може да биде одложено за времето потребно за нејзиниот превод на трошок на земјата извршител.",
+      "status": "MANUAL_BOUNDARY",
+      "target": "Земјите членки нема меѓусебно да бараат враќање на трошоците к",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 194,
+      "en": "Costs",
+      "mk1": "Трошоци",
+      "status": "MANUAL_BOUNDARY",
+      "target": "оишт",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 195,
+      "en": "Member States shall not claim from each other the refund of costs resulting from application of this Framework Decision.",
+      "mk1": "Земјите членки нема меѓусебно да бараат враќање на трошоците што се резултат од примената на оваа Рамковна одлука.",
+      "status": "MANUAL_BOUNDARY",
+      "target": "о се резултат од примената на оваа Рамковна одлука. Член 18",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 194,
+      "en": "Costs",
+      "mk1": "Трошоци",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 195,
+      "en": "Member States shall not claim from each other the refund of costs resulting from application of this Framework Decision.",
+      "mk1": "Земјите членки нема меѓусебно да бараат враќање на трошоците што се резултат од примената на оваа Рамковна одлука.",
+      "status": "UNMATCHED",
+      "target": "Рамковната одлука не спречува примена на билатерални или мултилатерални спогодби или",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 196,
+      "en": "Relationship with other agreements and arrangements",
+      "mk1": "Однос со други спогодби и аранжмани",
+      "status": "UNMATCHED",
+      "target": "аранжмани меѓу земјите чл",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 197,
+      "en": "This Framework Decision shall not preclude the application of bilateral or multilateral agreements or arrangements between Member States in so far as such agreements or arrangements allow the prescriptions of this Framework Decision to be exceeded and help to simplify or facilitate further the procedures for the enforcement of financial penalties.",
+      "mk1": "Рамковната одлука не спречува примена на билатерални или мултилатерални спогодби или аранжмани меѓу земјите членки ако таквите спогодби или аранжмани дозволуваат пречекорување на одредбите од оваа Рамковна одлука или помош или дополнително олеснување на постапките за извршување на паричните казни.",
+      "status": "REVIEW",
+      "target": "енки ако таквите спогодби или аранжмани дозволуваат пречекорување на одредбите од оваа Рамковна одлука или помош, или дополнително олеснување на постапките за извршување на паричните казни. Член 19 Територијална примена",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 196,
+      "en": "Relationship with other agreements and arrangements",
+      "mk1": "Однос со други спогодби и аранжмани",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 197,
+      "en": "This Framework Decision shall not preclude the application of bilateral or multilateral agreements or arrangements between Member States in so far as such agreements or arrangements allow the prescriptions of this Framework Decision to be exceeded and help to simplify or facilitate further the procedures for the enforcement of financial penalties.",
+      "mk1": "Рамковната одлука не спречува примена на билатерални или мултилатерални спогодби или аранжмани меѓу земјите членки ако таквите спогодби или аранжмани дозволуваат пречекорување на одредбите од оваа Рамковна одлука или помош или дополнително олеснување на постапките за извршување на паричните казни.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 198,
+      "en": "Territorial application",
+      "mk1": "Територијална примена",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 199,
+      "en": "This Framework Decision shall apply to Gibraltar.",
+      "mk1": "Рамковната одлука се применува на Гибралтар.",
+      "status": "UNMATCHED",
+      "target": "Спроведување 1.Земјите членки ги п",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 200,
+      "en": "Implementation",
+      "mk1": "Спроведување",
+      "status": "UNMATCHED",
+      "target": "реземаат",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 201,
+      "en": "Member States shall take the necessary measures to comply with the provisions of this Framework Decision by 22 March 2007.",
+      "mk1": "Земјите членки ги преземаат сите неопходни мерки за усогласување со одредбите од оваа Рамковна одлука до 22 март 2007 година.",
+      "status": "REVIEW",
+      "target": "сите неопходни мерки за усогласување со одредбите од оваа Рамковна одлука до 22 март 2007 година.",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 200,
+      "en": "Implementation",
+      "mk1": "Спроведување",
+      "status": "UNMATCHED",
+      "target": "2.Секо",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 201,
+      "en": "Member States shall take the necessary measures to comply with the provisions of this Framework Decision by 22 March 2007.",
+      "mk1": "Земјите членки ги преземаат сите неопходни мерки за усогласување со одредбите од оваа Рамковна одлука до 22 март 2007 година.",
+      "status": "UNMATCHED",
+      "target": "ја земја членка, во период до пет години од датумот на влегување",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 202,
+      "en": "Each Member State may for a period of up to five years from the date of entry into force of this Framework Decision limit its application to:",
+      "mk1": "Секоја земја членка, во период до пет години од датумот на влегување во сила на оваа Рамковна одлука ја ограничува нејзината примена на:",
+      "status": "UNMATCHED",
+      "target": "во сила на оваа Рамковна одлука, ја ограничува нејзината примена на:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 201,
+      "en": "Member States shall take the necessary measures to comply with the provisions of this Framework Decision by 22 March 2007.",
+      "mk1": "Земјите членки ги преземаат сите неопходни мерки за усогласување со одредбите од оваа Рамковна одлука до 22 март 2007 година.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 202,
+      "en": "Each Member State may for a period of up to five years from the date of entry into force of this Framework Decision limit its application to:",
+      "mk1": "Секоја земја членка, во период до пет години од датумот на влегување во сила на оваа Рамковна одлука ја ограничува нејзината примена на:",
+      "status": "UNMATCHED",
+      "target": "(б)во однос на правни лица, одлуките во врска со однесувањето",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 203,
+      "en": "(a)\tdecisions mentioned in Article 1 (a)(i) and (iv); and/or",
+      "mk1": "(а)\tодлуките наведени во член 1 (а)(i) и (iv); и/или",
+      "status": "UNMATCHED",
+      "target": "за кое европскиот инст",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 204,
+      "en": "(b)\twith regard to legal persons, decisions related to conduct for which a European instrument provides for the application of the principle of liability of legal persons.",
+      "mk1": "(б)\tво однос на правни лица, одлуките во врска со однесувањето за кое европскиот инструмент предвидува примена на начелото за одговорност на правно лице.",
+      "status": "UNMATCHED",
+      "target": "румент предвидува примена на начелото за одговорност на правно лице.",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 203,
+      "en": "(a)\tdecisions mentioned in Article 1 (a)(i) and (iv); and/or",
+      "mk1": "(а)\tодлуките наведени во член 1 (а)(i) и (iv); и/или",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 204,
+      "en": "(b)\twith regard to legal persons, decisions related to conduct for which a European instrument provides for the application of the principle of liability of legal persons.",
+      "mk1": "(б)\tво однос на правни лица, одлуките во врска со однесувањето за кое европскиот инструмент предвидува примена на начелото за одговорност на правно лице.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 205,
+      "en": "Any Member State that wants to make use of this paragraph, shall notify a declaration to that effect to the Secretary General of the Council upon the adoption of this Framework Decision.",
+      "mk1": "Секоја земја членка што сака да го искористи овој став до Генералниот секретар на Советот доставува изјава за тоа по донесувањето на оваа Рамковна одлука.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 206,
+      "en": "The declaration shall be published in the Official Journal of the European Union.",
+      "mk1": "Изјавата се објавува во Службениот весник на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 207,
+      "en": "Each Member State may, where the certificate referred to in Article 4 gives rise to an issue that fundamental rights or fundamental legal principles as enshrined in Article 6 of the Treaty may have been infringed, oppose the recognition and the execution of decisions.",
+      "mk1": "Секоја земја членка може, кога потврдата наведена во член 4 упатува на можност за непочитување на основните права или основните правни начела како што е уредено во член 6 од Договорот, да го оспори признавањето и извршувањето на одлуките.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 208,
+      "en": "The procedure referred to in Article 7(3) shall apply.",
+      "mk1": "Се применува постапката наведена во член 7(3).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 209,
+      "en": "Any Member State may apply the principle of reciprocity in relation to any Member State making use of paragraph 2.",
+      "mk1": "Секоја земја членка може да го примени начелото за реципроцитет во однос на секоја друга земја членка при што го применува ставот 2.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 210,
+      "en": "Member States shall transmit to the General Secretariat of the Council and to the Commission the text of the provisions transposing into their national law the obligations imposed on them under this Framework Decision.",
+      "mk1": "Земјите членки до Генералниот секретаријат на Советот и до Комисијата го проследуваат текстот од одредбите за транспонирање во нивното национално законодавство на обврските што им се наметнати според оваа Рамковна одлука.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 211,
+      "en": "On the basis of a report established on the basis of this information by the Commission, the Council shall, no later than 22 March 2008, assess the extent to which Member States have complied with this Framework Decision.",
+      "mk1": "Врз основа на извештајот објавен врз основа на овие информации од Комисијата, Советот, не подоцна од 22 март 2008 година, го оценува степенот до кој земјите членки се усогласени со оваа Рамковна одлука.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 212,
+      "en": "The General Secretariat of the Council shall notify the Member States and the Commission of the declarations made pursuant to Articles 4(7) and 16.",
+      "mk1": "Генералниот секретаријат на Советот ги известува земјите членки и Комисијата за изјавите направени согласно членовите 4(7) и 16.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 213,
+      "en": "Without prejudice to Article 35(7) of the Treaty, a Member State which has experienced repeated difficulties or lack of activity by another Member State in the mutual recognition and execution of decisions, which have not been solved through bilateral consultations, may inform the Council with a view to evaluating the implementation of this Framework Decision at Member State level.",
+      "mk1": "Без да е во спротивност со член 35(7) од Договорот, земјата членка што се соочила со повторни тешкотии или недостаток од дејство од друга земја членка во заемното признавање и извршување на одлуките, што не било решено преку билатерални консултации, може да го извести Советот со цел оценување на спроведувањето на оваа Рамковна одлука на ниво на земја членка.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 214,
+      "en": "Any Member State which during a calendar year has applied paragraph 3, shall in the beginning of the following calendar year inform the Council and the Commission of cases in which the grounds referred to in that provision for non-recognition or non-execution of a decision have been applied.",
+      "mk1": "Секоја земја членка која во текот на календарската година го применила став 3, на почетокот на следната календарска година ги известува Советот и Комисијата за случаите во кои биле применети основите за непризнавање или неизвршување на одлуката од таа одредба.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 215,
+      "en": "Within seven years after the entry into force of this Framework Decision, the Commission shall establish a report on the basis of the information received, accompanied by any initiatives it may deem appropriate.",
+      "mk1": "Во рок од седум години по влегувањето во сила на оваа Рамковна одлука, Комисијата изготвува извештај врз основа на добиените информации придружени иницијативи што смета дека се соодветни.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 216,
+      "en": "The Council shall on the basis of the report review this Article with a view to considering whether paragraph 3 shall be retained or replaced by a more specific provision.",
+      "mk1": "Советот, врз основа на извештајот повторно го разгледува овој член со цел да се увиди дали став 3 останува или се заменува со поконкретна одредба.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 217,
+      "en": "Entry into force",
+      "mk1": "Влегување во сила",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 218,
+      "en": "This Framework Decision shall enter into force on the day of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа Рамковна одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 219,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 220,
+      "en": "CERTIFICATE",
+      "mk1": "ПОТВРДА",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 221,
+      "en": "referred to in Article 4 of Council Framework Decision 2005/214/JHA on the application of the principle of mutual recognition to financial penalties",
+      "mk1": "наведена во член 4 од Рамковната одлука 2005/214/ПВР за примена на начелото за заемно прифаќање на паричните казни",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 222,
+      "en": "(a)",
+      "mk1": "(a)",
+      "status": "MANUAL_BOUNDARY",
+      "target": "*Зе",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 223,
+      "en": "*\tIssuing State:………………………………………………………………...",
+      "mk1": "*\tЗемја издавател:………………………………………………………………...",
+      "status": "MANUAL_BOUNDARY",
+      "target": "мја издавател: ………………………………………………………………... *Зем",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 224,
+      "en": "*\tExecuting State:……………………………………………………………...",
+      "mk1": "*\tЗемја извршител:……………………………………………………………...",
+      "status": "REVIEW",
+      "target": "ја извршител: ……………………………………………………………….... (б)",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 223,
+      "en": "*\tIssuing State:………………………………………………………………...",
+      "mk1": "*\tЗемја издавател:………………………………………………………………...",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 224,
+      "en": "*\tExecuting State:……………………………………………………………...",
+      "mk1": "*\tЗемја извршител:……………………………………………………………...",
+      "status": "MANUAL_BOUNDARY",
+      "target": "Орган што ја издава одлука",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 225,
+      "en": "(b)",
+      "mk1": "(б)",
+      "status": "MANUAL_BOUNDARY",
+      "target": "та",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 226,
+      "en": "The authority which issued the decision imposing the financial penalty:",
+      "mk1": "Орган што ја издава одлуката со која се изрекува паричната казна:",
+      "status": "MANUAL_BOUNDARY",
+      "target": "со која се изрекува паричната казна:",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 225,
+      "en": "(b)",
+      "mk1": "(б)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 226,
+      "en": "The authority which issued the decision imposing the financial penalty:",
+      "mk1": "Орган што ја издава одлуката со која се изрекува паричната казна:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 227,
+      "en": "Official name:…………………………………………………………………........",
+      "mk1": "Официјално име:…………………………………………………………………........",
+      "status": "UNMATCHED",
+      "target": "Адреса: ……………………………………………………………………………………………………",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 228,
+      "en": "Address:…………………………………………………………………………………………………………………………………………………………………..",
+      "mk1": "Адреса:…………………………………………………………………………………………………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "……………………………………………………………..…… …………………………………………………………………………………….. Рефер",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 229,
+      "en": "File reference (…)………………………………………………………………….",
+      "mk1": "Референтен број на досието(…)………………………………………………………………….",
+      "status": "REVIEW",
+      "target": "ентен број на досието (…) …………………………………………………………………..",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 228,
+      "en": "Address:…………………………………………………………………………………………………………………………………………………………………..",
+      "mk1": "Адреса:…………………………………………………………………………………………………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 229,
+      "en": "File reference (…)………………………………………………………………….",
+      "mk1": "Референтен број на досието(…)………………………………………………………………….",
+      "status": "MANUAL_BOUNDARY",
+      "target": "Факсх: Ббр. (код на земјата) (к",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 230,
+      "en": "Tel. No:",
+      "mk1": "Тел. Бр:",
+      "status": "MANUAL_BOUNDARY",
+      "target": "од н",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 231,
+      "en": "Fax No (country code) (area/city code)…………………………………………….",
+      "mk1": "Фах: Бр. (код на земјата) (код на областа/градот)…………………………………………….",
+      "status": "MANUAL_BOUNDARY",
+      "target": "а областа/градот) …………………….………………………….",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 230,
+      "en": "Tel. No:",
+      "mk1": "Тел. Бр:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 231,
+      "en": "Fax No (country code) (area/city code)…………………………………………….",
+      "mk1": "Фах: Бр. (код на земјата) (код на областа/градот)…………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 232,
+      "en": "(country code) (area/city code)……………………………………………",
+      "mk1": "Фах: Бр. (код на земјата) (код на областа/градот)……………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 233,
+      "en": "E-mail (when available) ……………………………………………………………",
+      "mk1": "Е-пошта (ако е достапна) ……………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "Податоци за контакт за лицето(а) што се контактираат з",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 234,
+      "en": "Languages in which it is possible to communicate with the issuing authority…………………………………………………………………………………………………………………………………………………………………..",
+      "mk1": "Јазици  на кои може да се комуницира со органот издавател…………………………………………………………………………………………………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "а да се добијат дополнителни информации со цел извршување на одлуката или, ако е применливо, со цел трансфер на пари во земјата издават",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 235,
+      "en": "Contact details for person(s) to contact to obtain additional information for the purpose of the enforcement of the decision or, where applicable, for the purpose of the transfer to the issuing State of monies obtained from the enforcement (name, title/grade, tel.",
+      "mk1": "Податоци за контакт за лицето(а) што се контактираат за да се добијат дополнителни информации со цел извршување на одлуката или, ако е применливо, со цел трансфер на пари во земјата издавател добиени од извршувањето (име, звање/степен, тел.",
+      "status": "UNMATCHED",
+      "target": "ел добиени од извршувањето (име, звање/степен, тел. Ббр., факсх бр. и, ако е достапно, е-пошта) ……………………………………………………………………………………………………………………………………………………………………………………...……………………………………………………………………….. …………………………………………………………………………………...... ……………………………………………………………………………………..",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 234,
+      "en": "Languages in which it is possible to communicate with the issuing authority…………………………………………………………………………………………………………………………………………………………………..",
+      "mk1": "Јазици  на кои може да се комуницира со органот издавател…………………………………………………………………………………………………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 235,
+      "en": "Contact details for person(s) to contact to obtain additional information for the purpose of the enforcement of the decision or, where applicable, for the purpose of the transfer to the issuing State of monies obtained from the enforcement (name, title/grade, tel.",
+      "mk1": "Податоци за контакт за лицето(а) што се контактираат за да се добијат дополнителни информации со цел извршување на одлуката или, ако е применливо, со цел трансфер на пари во земјата издавател добиени од извршувањето (име, звање/степен, тел.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 236,
+      "en": "No., fax No., and, when available, E-mail)…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………..",
+      "mk1": "Бр., фах бр. и, ако е достапно, е-пошта)…………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 237,
+      "en": "(c)",
+      "mk1": "(в)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 238,
+      "en": "The authority competent for the enforcement of the decision imposing the financial penalty in the issuing State (if the authority is different from the authority under point (b)):",
+      "mk1": "Органот надлежен за извршување на одлуката со која се изрекува парична казна во земјата издавател (ако органот е различен од органот од точка (б)):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 239,
+      "en": "Official-name:.……………………………............................................................",
+      "mk1": "Официјално име:.……………………………............................................................",
+      "status": "HIGH",
+      "target": "Официјално име:.…… ……………………………………………………………………………………............................................................. ……………………………………………",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 240,
+      "en": "……………………………………………………………………………………",
+      "mk1": "……………………………………………………………………………………",
+      "status": "HIGH",
+      "target": "……………………………………… ……………………………………………………………………………………",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 240,
+      "en": "……………………………………………………………………………………",
+      "mk1": "……………………………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "Адреса: …………………………………………………………………",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 241,
+      "en": "Address:…………………………………………………………………………..",
+      "mk1": "Адреса:…………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "……….. ……………………………………………………………………………………",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 241,
+      "en": "Address:…………………………………………………………………………..",
+      "mk1": "Адреса:…………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "Тел. Ббр:. (код на земјата) (код",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 242,
+      "en": "(country code) (area/city code)………………………………………….",
+      "mk1": "(код на земјата) (код на областа/градот)………………………………………….",
+      "status": "UNMATCHED",
+      "target": "на областа/градот) …………………………………………. Фах бр. (код",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 243,
+      "en": "Fax No (country code) (area/city code)………………………………………......",
+      "mk1": "Фах бр. (код на земјата) (код на областа/градот)………………………………………......",
+      "status": "REVIEW",
+      "target": "на земјата) (код на областа/градот) ………………...………………………......",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 242,
+      "en": "(country code) (area/city code)………………………………………….",
+      "mk1": "(код на земјата) (код на областа/градот)………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 243,
+      "en": "Fax No (country code) (area/city code)………………………………………......",
+      "mk1": "Фах бр. (код на земјата) (код на областа/градот)………………………………………......",
+      "status": "UNMATCHED",
+      "target": "Јазици на кои може да се комуницира со орган",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 244,
+      "en": "E-mail (when available)…………………………………………………………..",
+      "mk1": "Е-пошта (ако е достапна)…………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "от надлежен за извршувањето ..",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 245,
+      "en": "Languages in which it is possible to communicate with the authority competent for the enforcement……………………………………………………………….",
+      "mk1": "Јазици на кои може да се комуницира со органот надлежен за извршувањето……………………………………………………………….",
+      "status": "UNMATCHED",
+      "target": "...………………………………………………………………. ……………………………………………………………………………………",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 244,
+      "en": "E-mail (when available)…………………………………………………………..",
+      "mk1": "Е-пошта (ако е достапна)…………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 245,
+      "en": "Languages in which it is possible to communicate with the authority competent for the enforcement……………………………………………………………….",
+      "mk1": "Јазици на кои може да се комуницира со органот надлежен за извршувањето……………………………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 246,
+      "en": "No., fax No., and, when available, E-mail):………………………………………………………………………….......",
+      "mk1": "Бр., фах бр. и, ако е достапно, е-пошта):………………………………………………………………………….......",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 247,
+      "en": "(d)",
+      "mk1": "(г)",
+      "status": "UNMATCHED",
+      "target": "…………",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 248,
+      "en": "Where a central authority has been made responsible for the administrative transmission of decisions imposing financial penalties in the issuing State:",
+      "mk1": "Ако централниот орган е одговорен за административното проследување на одлуките со кои се изрекуваат парични казни во земјата издавател:",
+      "status": "HIGH",
+      "target": "………………………………………………………………………… (г) Ако централниот орган е одговорен за административното проследување на одлуките со кои се изрекуваат парични казни во земјата издавател:",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 248,
+      "en": "Where a central authority has been made responsible for the administrative transmission of decisions imposing financial penalties in the issuing State:",
+      "mk1": "Ако централниот орган е одговорен за административното проследување на одлуките со кои се изрекуваат парични казни во земјата издавател:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 249,
+      "en": "Name of the central authority:……………………………………………………",
+      "mk1": "Име на централниот орган",
+      "status": "UNMATCHED",
+      "target": "…………………………………………………………………………………… ………",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 250,
+      "en": "Contact person, if applicable (title/grade and name):…………………………….",
+      "mk1": "Лице за контакт, ако е применливо (звање/степен и име):…………………………….",
+      "status": "HIGH",
+      "target": "…………………………………………………………………………… Лице за контакт, ако е применливо (звање/степен и име): ………….………………….",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 250,
+      "en": "Contact person, if applicable (title/grade and name):…………………………….",
+      "mk1": "Лице за контакт, ако е применливо (звање/степен и име):…………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 251,
+      "en": "File reference……………………………………………………………………..",
+      "mk1": "Референтен број на досието……………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 252,
+      "en": "(country code) (area/city code)…………………………………………",
+      "mk1": "(код на земјата) (код на областа/градот)…………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 253,
+      "en": "Fax No:",
+      "mk1": "Фах бр.:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 254,
+      "en": "E-mail (when available):…………………………………………………………",
+      "mk1": "Е-пошта (ако е достапна):…………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 255,
+      "en": "(e)",
+      "mk1": "(д)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 256,
+      "en": "The authority or authorities which may be contacted (in the case where point (c) and/or (d) has been filled):",
+      "mk1": "Орган или органите што може да се контактираат (во случај кога е пополнета точка (в) и/или (г)):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 257,
+      "en": "\tAuthority mentioned under point (b)",
+      "mk1": "\tОрган наведен под точка (б)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 258,
+      "en": "Can be contacted for questions concerning:",
+      "mk1": "Може да се контактира за прашања во врска со:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 259,
+      "en": "\tAuthority mentioned under point (c)",
+      "mk1": "\tОрган наведен под точка (в)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 260,
+      "en": "\tAuthority mentioned under point (d)",
+      "mk1": "\tОрган наведен под точка (г)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 261,
+      "en": "(f)",
+      "mk1": "(ѓ)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 262,
+      "en": "Information regarding the natural or legal person on which the financial penalty has been imposed:",
+      "mk1": "Информации за физичкото или правното лице за кое се изрекува парична казна:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 263,
+      "en": "In case of a natural person",
+      "mk1": "Во случај на физичко лице",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 264,
+      "en": "Name:……………………………………………………………………………..",
+      "mk1": "Име:……………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 265,
+      "en": "Forename(s):………………………………………………………………………",
+      "mk1": "Презиме(иња):………………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 266,
+      "en": "Maiden name, where applicable:………………………………………………….",
+      "mk1": "Моминско презиме, ако е применливо:………………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 267,
+      "en": "Aliases, where applicable:………………………………………………………...",
+      "mk1": "Други имиња, ако е применливо:………………………………………………………...",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 268,
+      "en": "Sex:………………………………………………………………………………..",
+      "mk1": "Пол:………………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 269,
+      "en": "Nationality:………………………………………………………………………..",
+      "mk1": "Националност:………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 270,
+      "en": "Identity number or social security number (when available):…………………….",
+      "mk1": "Број на лична карта или број на социјално осигурување (ако е познат):…………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 271,
+      "en": "Date of birth:………………………………………………………………………",
+      "mk1": "Датум на раѓање:………………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 272,
+      "en": "Place of birth:……………………………………………………………………..",
+      "mk1": "Место на раѓање:……………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 273,
+      "en": "Last known address:………………………………………………………………",
+      "mk1": "Последна позната адреса:………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 274,
+      "en": "…………………………………………………………………………………….",
+      "mk1": "…………………………………………………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 275,
+      "en": "Language(s) which the person understands (if known):…………………………..",
+      "mk1": "Јазик(ци) што лицето ги разбира (ако е познато):…………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 276,
+      "en": "(a)\tIf the decision is transmitted to the executing State because the person against whom the decision has been passed is normally resident, add the following information:",
+      "mk1": "(а)\tАко одлуката е проследена до земјата извршител поради тоа што лицето против кое е донесена одлуката е вообичаено со престој во истата, внесете ги следиве информации:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 277,
+      "en": "Normal residence in the executing State:…………………………………………",
+      "mk1": "Вообичаено живеалиште во земјата извршител:…………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 278,
+      "en": "(b)\tIf the decision is transmitted to the executing State because the person against whom the decision has been passed has property in the executing State, add the following information:",
+      "mk1": "(б)\tАко одлуката е проследена до земјата извршител поради тоа што лицето против кое е донесена одлуката има имот во земјата извршител, внесете ги следиве информации:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 279,
+      "en": "Description of the property of the person:………………………………………..",
+      "mk1": "Опис на имотот на лицето:………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 280,
+      "en": "Location of the property of the person:…………………………………………...",
+      "mk1": "Место на имотот на лицето:…………………………………………...",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 281,
+      "en": "(c)\tIf the decision is transmitted to the executing State because the person against whom the decision has been passed has income in the executing State, add the following information:",
+      "mk1": "(в)\tАко одлуката се проследува до земјата извршител поради тоа што лицето против кого е донесена одлуката има приход во земјата извршител, внесете ги следните информации:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 282,
+      "en": "Description of the source(s) of income of the person:……………………………",
+      "mk1": "Опис на изворот(ите) на приход на лицето:……………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 283,
+      "en": "Location of the source(s) of income of the person:……………………………….",
+      "mk1": "Место на изворот(ите) на лицето:……………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 284,
+      "en": "In case of a legal person:",
+      "mk1": "Во случај на правно лице:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 285,
+      "en": "Form of legal person:",
+      "mk1": "Вид правно лице:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 286,
+      "en": "……………………………………………………………..",
+      "mk1": "……………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 287,
+      "en": "Registration number (if available) ():…………………………………………….",
+      "mk1": "Регистарски број (ако е достапно)():…………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 288,
+      "en": " Where a decision is transmitted to the executing State because the legal person against whom the decision has been passed has its registered seat in that State, Registration number and Registered seat must be completed.",
+      "mk1": " Ако одлуката е проследена во земјата извршител поради тоа што правното лице против кое е донесена одлуката има регистрирано седиште во таа држава, полињата за регистарски број и регистрирано седиште мора да се пополнат.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 289,
+      "en": "Registered seat (if available) ():",
+      "mk1": "Регистрирано седиште (ако е достапно) ():",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 290,
+      "en": "…………………………………………………",
+      "mk1": "…………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 291,
+      "en": "Address of the legal person:",
+      "mk1": "Адреса на правното лице",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 292,
+      "en": "………………………………………………………",
+      "mk1": "………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 293,
+      "en": "(a)\tIf the decision is transmitted to the executing State because the legal person against whom the decision has been passed has property in the executing State, add the following information:",
+      "mk1": "(а)\tАко одлуката е проследена до земјата извршител поради тоа што правното лице против кое е донесена одлуката има имот во земјата извршител, внесете ги следиве информации:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 294,
+      "en": "Description of the property of the legal person:",
+      "mk1": "Опис на имотот на правното лице:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 295,
+      "en": "………………………………………………………………………………",
+      "mk1": "………………………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 296,
+      "en": "Location of the property of the legal person:……………………………………………………………………….",
+      "mk1": "Место на имотот на правното лице:……………………………………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 297,
+      "en": "(b)\tIf the decision is transmitted to the executing State because the legal person against whom the decision has been passed has income in the executing State, add the following information:",
+      "mk1": "(б)\tАко одлуката се проследува до земјата извршител поради тоа што правното лице против кого е донесена одлуката има приход во земјата извршител, внесете ги следните информации:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 298,
+      "en": "Description of the source(s) of income of the legal person:……………………………………………………………………….",
+      "mk1": "Опис на изворот(ите) на приход на правното лице:……………………………………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 299,
+      "en": "Location of the source(s) of income of the legal person:……………………………………………………………………….",
+      "mk1": "Место на изворот(ите) на правното лице:……………………………………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 300,
+      "en": "……………………………………………………………………………….",
+      "mk1": "……………………………………………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 301,
+      "en": "(g)",
+      "mk1": "(е)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 302,
+      "en": "The decision imposing a financial penalty:",
+      "mk1": "Одлука за изрекување парична казна:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 303,
+      "en": "The nature of the decision imposing the financial penalty (tick the relevant box):",
+      "mk1": "Природата на одлуката со која се изрекува паричната казна (означете го релевантното поле):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 304,
+      "en": " (i)\tDecision of a court of the issuing State in respect of a criminal offence under the law of the issuing State",
+      "mk1": " (i)\tОдлука на суд на земјата издавател во врска со кривично дело според законот на земјата издавател.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 305,
+      "en": " (ii)\tDecision of an authority of the issuing State other than a court in respect of a criminal offence under the law of the issuing State.",
+      "mk1": " (ii)\tОдлука на орган на земјата издавател што не е суд во врска со кривично дело според законот на земјата издавател.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 306,
+      "en": "It is confirmed that the person concerned has had an opportunity to have the case tried by a court having jurisdiction in particular in criminal matters.",
+      "mk1": "Се потврдува дека засегнатото лице имало можност за судење во суд што има надлежност особено во кривичната материја.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 307,
+      "en": " (iii)\tDecision of an authority of the issuing State other than a court in respect of acts which are punishable under the national law of the issuing State by virtue of being infringements of the rules of law.",
+      "mk1": " (ii)\tОдлука на орган на земјата издавател што не е суд во врска со делата што се казниви според националното законодавство на земјата издавател врз основа на непочитување на владеењето на правото.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 308,
+      "en": " (iv)\tDecision of a court having jurisdiction in particular in criminal matters regarding a decision as referred to in point iii.",
+      "mk1": " (iv)\tОдлука на суд што има надлежност особено во кривичната материја во врска со одлуката како што е наведена во точка iii.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 309,
+      "en": "The decision was made on (date)",
+      "mk1": "Одлуката е донесена на (датум)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 310,
+      "en": "The decision became final on (date)",
+      "mk1": "Одлуката станала конечна на (датум)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 311,
+      "en": "Reference number of the decision (if available):",
+      "mk1": "Референтен број на одлуката (ако е познат):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 312,
+      "en": "The financial penalty constitutes an obligation to pay (tick the relevant box(es) and indicate the amount(s) with indication of currency):",
+      "mk1": "Паричната казна претставува обврска за плаќање (означете го релевантното поле(иња) и наведете го(ги) износот(ите) заедно со валутата):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 313,
+      "en": " (i)\tA sum of money on conviction of an offence imposed in a decision.",
+      "mk1": " (i)\tПаричен износ изречен во одлука за извршување кривично дело.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 314,
+      "en": "Amount:",
+      "mk1": "Износ:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 315,
+      "en": " (ii)\tCompensation imposed in the same decision for the benefit of victims, where the victim may not be a civil party to the proceedings and the court is acting in its exercise of its criminal jurisdiction.",
+      "mk1": " (ii)\tНадомест изречен во истата одлука во корист на жртвите кога жртвата не може да поднесе граѓанско-правно барање и судот пристапува кон извршување на својата кривична надлежност.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 316,
+      "en": " (iii)\tA sum of money in respect of the costs of court or administrative proceedings leading to the decision.",
+      "mk1": " (iii)\tПаричен износ во врска со судските трошоци или административната постапка во рамките на која е донесена одлуката.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 317,
+      "en": " (iv)\tA sum of money to a public fund or a victim support organisation, imposed in the same decision.",
+      "mk1": " (iv)\tПаричен износ за јавен фонд или организација за поддршка на жртви изречен во истата одлука.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 318,
+      "en": "The total amount of the financial penalty with indication of currency:",
+      "mk1": "Вкупен износ на паричната казна со назнака за валутата:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 319,
+      "en": "A summary of facts and a description of the circumstances in which the offence(s) has(have) been committed, including time and place:",
+      "mk1": "Краток преглед на фактите и опис на околностите во кои било(е) извршено(и) кривичното(ите) дело(а), вклучително времето и местото:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 320,
+      "en": "Nature and legal classification of the offence(s) and the applicable statutory provision/code on basis of which the decision was made:",
+      "mk1": "Природа и законска класификација на делото(ата) и применливите статуторни одредби/закон врз основа на кој е донесена одлуката:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 321,
+      "en": "To the extent that the offence(s) identified under point 2 above constitute(s) one or more of the following offences, confirm that by ticking the relevant box(es):",
+      "mk1": "Ако тоа(тие) кривично(и) дело(а) идентификувани според точка 2 погоре претставуа(ат) едно или повеќе од следниве кривични дела, потврдете со означување на релевантното(ите) поле(иња):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 322,
+      "en": "\tparticipation in a criminal organisation;",
+      "mk1": "\tучество во криминална организација;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 323,
+      "en": "\tterrorism;",
+      "mk1": "\tтероризам;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 324,
+      "en": "\ttrafficking in human beings;",
+      "mk1": "\tтрговија со луѓе;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 325,
+      "en": "\tsexual exploitation of children and child pornography;",
+      "mk1": "\tсексуална експлоатација на деца и детска порнографија,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 326,
+      "en": "\tillicit trafficking in narcotic drugs and psychotropic substances;",
+      "mk1": "\tнелегална трговија со наркотични дроги и психотропни супстанции;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 327,
+      "en": "\tillicit trafficking in weapons, munitions and explosives;",
+      "mk1": "\tнелегална трговија со оружје, муниција и експлозиви;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 328,
+      "en": "\tcorruption;",
+      "mk1": "\tкорупција;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 329,
+      "en": "\tfraud, including that affecting the financial interests of the European Communities within the meaning of the Convention of 26 July 1995 on the protection of the European Communities' financial interests;",
+      "mk1": "\tизмама, вклучително против финансиските интереси на Европските заедници во рамките на значењето на Конвенцијата од 26 јули 1995 година за заштита на финансиските интереси на Европските заедници;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 330,
+      "en": "\tlaundering of the proceeds of crime;",
+      "mk1": "\tперење на приноси од казниво дело;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 331,
+      "en": "\tcounterfeiting currency, including of the euro;",
+      "mk1": "\tфалсификување валути, вклучително и евра;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 332,
+      "en": "\tcomputer-related crime;",
+      "mk1": "\tкривично дело поврзано со компјутери;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 333,
+      "en": "\tenvironmental crime, including illicit trafficking in endangered animal species and in endangered plant species and varieties;",
+      "mk1": "\tкривично дело во врска со животната средина, вклучително и нелегална трговија со загрозени видови животни и загрозени видови и сорти растенија;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 334,
+      "en": "\tfacilitation of unauthorised entry and residence;",
+      "mk1": "\tпомагање неовластен влез и престој;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 335,
+      "en": "\tmurder, grievous bodily injury;",
+      "mk1": "\tубиство, тешка телесна повреда;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 336,
+      "en": "\tillicit trade in human organs and tissue;",
+      "mk1": "\tнелегална трговија со човечки органи и ткива;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 337,
+      "en": "\tkidnapping, illegal restraint and hostage-taking;",
+      "mk1": "\tкиднапирање, нелегално лишување од слобода и земање заложници;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 338,
+      "en": "\tracism and xenophobia;",
+      "mk1": "\tрасизам и ксенофобија;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 339,
+      "en": "\torganised or armed robbery;",
+      "mk1": "\tорганизиран и вооружен грабеж;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 340,
+      "en": "\tillicit trafficking in cultural goods, including antiques and works of art;",
+      "mk1": "\tнелегална трговија со културни добра, вклучително антиквитети и уметнички дела;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 341,
+      "en": "\tswindling;",
+      "mk1": "\tизмама;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 342,
+      "en": "\tracketeering and extortion;",
+      "mk1": "\tрекетирање и изнуда;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 343,
+      "en": "\tcounterfeiting and piracy of products;",
+      "mk1": "\tфалсификување и пиратерија на производи;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 344,
+      "en": "\tforgery of administrative documents and trafficking therein;",
+      "mk1": "\tфалсификување административни исправи и трговија со истите;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 345,
+      "en": "\tforgery of means of payment;",
+      "mk1": "\tфалсификување на средства за плаќање;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 346,
+      "en": "\tillicit trafficking in hormonal substances and other growth promoters;",
+      "mk1": "\tнелегална трговија со хормонални супстанции и други поттикнувачи на раст;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 347,
+      "en": "\tillicit trafficking in nuclear or radioactive materials;",
+      "mk1": "\tнелегална трговија со нуклеарни или радиоактивни материјали;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 348,
+      "en": "\ttrafficking in stolen vehicles;",
+      "mk1": "\tтрговија со украдени возила;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 349,
+      "en": "\trape;",
+      "mk1": "\tсилување;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 350,
+      "en": "\tarson;",
+      "mk1": "\tподметнување пожар;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 351,
+      "en": "\tcrimes within the jurisdiction of the International Criminal Court;",
+      "mk1": "\tкривични дела во рамките на надлежноста на Меѓународниот кривичен суд;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 352,
+      "en": "\tunlawful seizure of aircraft/ships;",
+      "mk1": "\tнезаконска заплена на воздухоплови/бродови;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 353,
+      "en": "\tsabotage;",
+      "mk1": "\tдиверзија;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 354,
+      "en": "\tconduct which infringes road traffic regulations, including breaches of regulations pertaining to driving hours and rest periods and regulations on hazardous goods;",
+      "mk1": "\tоднесување со кое не се почитуваат сообраќајните правила, вклучително и непочитување на правилата што се однесуваат на часови на возење и периоди на одмор и правилата за опасни добра;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 355,
+      "en": "\tsmuggling of goods;",
+      "mk1": "\tкриумчарење добра;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 356,
+      "en": "\tinfringements of intellectual property rights;",
+      "mk1": "\tнепочитување на правата на интелектуална сопственост;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 357,
+      "en": "\tthreats and acts of violence against persons, including violence during sport events;",
+      "mk1": "\tзакани и насилно однесување врз луѓе, вклучително и насилство на спортски настани;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 358,
+      "en": "\tcriminal damage;",
+      "mk1": "\tкривична оштета;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 359,
+      "en": "\ttheft;",
+      "mk1": "\tкражба;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 360,
+      "en": "\toffences established by the issuing State and serving the purpose of implementing obligations arising from instruments adopted under the EC Treaty or under Title VI of the EU Treaty.",
+      "mk1": "\tкривични дела утврдени од земјата издавател што имаат за цел спроведување на обврските што произлегуваат од инструментите донесени според Договорот за основање на Европската заедница или според Наслов VI на Договорот за ЕУ.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 361,
+      "en": "If this box is ticked, indicate the exact provisions of the instrument adopted on the basis of the EC Treaty or the EU Treaty that the offence relates to:……………………………………………………",
+      "mk1": "Ако е означено ова поле, наведете ги точните одредби на инструментот донесен врз основа на Договорот за ЕК или Договорот за ЕУ што се однесува на кривичното дело:……………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 362,
+      "en": "………………………………………………………………….........",
+      "mk1": "………………………………………………………………….........",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 363,
+      "en": "……………………………………………………………………….",
+      "mk1": "……………………………………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 364,
+      "en": "To the extent that the offence(s) identified under point 2 above are not covered by point 3, give a full description of the offence(s) concerned:…………",
+      "mk1": "Ако кривичното(ите) дело(а) од точка 2 погоре не се опфатени со точка 3, обезбедете целосен опис на предметното(ите) кривичното(ите) дело(а):…………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 365,
+      "en": "(h)",
+      "mk1": "(ж)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 366,
+      "en": "Status of the decision imposing the financial penalty",
+      "mk1": "Потврдете дека (означете ги полињата):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 367,
+      "en": "Confirm that (tick the boxes):",
+      "mk1": "Потврдете дека (означете ги полињата):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 368,
+      "en": " (a)\tthe decision is a final decision",
+      "mk1": " (а)    одлуката е конечна одлука",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 369,
+      "en": " (b)\tto the knowledge of the authority issuing the Certificate, a decision against the same person in respect of the same acts has not been delivered in the executing State and that no such decision delivered in any State other than the issuing State or the executing State has been executed.",
+      "mk1": " (б)\tзнаењето на органот што ја издава потврдата, одлука против истото лице во врска со истите дела не е донесена во земјата извршител и дека не била извршена таква одлука доставена во која било друга земја освен во земјата издавател или во земјата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 370,
+      "en": "Indicate if the case been subject to a written procedure:",
+      "mk1": "Наведете дали случајот бил предмет на пишана постапка:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 371,
+      "en": " (a)\tNo, it has not.",
+      "mk1": " (а)\tНе, не бил.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 372,
+      "en": " (b)\tYes, it has.",
+      "mk1": " (б)\tДа, бил.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 373,
+      "en": "It is confirmed that the person concerned was, in accordance with the law of the issuing State, informed personally or via a representative competent according to national law of his right to contest the case and of time limits of such a legal remedy",
+      "mk1": "Потврдено е дека засегнатото лице, во согласност со законодавството во земјата издавате, било, лично или преку застапник надлежен согласно националното законодавство, известено за неговото право да го оспори случајот и за временските ограничувања на таков правен лек.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 374,
+      "en": "Indicate if the person concerned appeared in person at the trial resulting in the decision:",
+      "mk1": "Наведете дали засегнатото лице лично се појавило на судењето во рамките на кое била донесена:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 375,
+      "en": " Yes, the person appeared in person at the trial resulting in the decision",
+      "mk1": " Да, лицето лично се појави на судењето во рамките на кое е донесена одлуката.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 376,
+      "en": " No, the person did not appear in person at the trial resulting in the decision.",
+      "mk1": " Не, лицето не се појави лично на судењето во рамките на кое е донесена одлуката.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 377,
+      "en": "If you have ticked the box under point 2, please confirm the existence of one of the following:",
+      "mk1": "Ако го означивте полето под точка 2, ве молиме потврдете го постоењето на едно од следниве:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 378,
+      "en": "\t3.1a.\tthe person was summoned in person on … (day/month/year) and thereby informed of the scheduled date and place of the trial which resulted in the decision and was informed that a decision may be handed down if he or she does not appear for the trial;",
+      "mk1": "\t3.1а.\tлицето беше лично повикано на ... (ден/месец/година) и со тоа известено за закажаниот датум и место на судењето во рамките на кое е донесена одлуката и беше известено дека одлуката може да се донесе ако тој или таа не се појави на судењето;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 379,
+      "en": "OR",
+      "mk1": "ИЛИ",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 380,
+      "en": "\t3.1b\tthe person was not summoned in person but by other means actually received official information of the scheduled date and place of the trial which resulted in the decision, in such a manner that it was unequivocally established that he or she was aware of the scheduled trial, and was informed that a decision may be handed down if he or she does not appear for the trial;",
+      "mk1": "3.1б\tлицето не било лично повикано, но преку други средства добило официјално известување за закажаниот датум и  место на судењето во рамките на кое е донесена одлуката на таков начин што јасно е утврдено дека тој или таа знаеле за закажаното судење и биле известени дека одлуката може да се донесе ако тој или таа не се појави на судењето;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 381,
+      "en": "\t3.2.\tbeing aware of the scheduled trial, the person had given a mandate to a legal counsellor, who was either appointed by the person concerned or by the State, to defend him or her at the trial, and was indeed defended by that counsellor at the trial;",
+      "mk1": "\t3.2.\tдал мандат на правен застапник кој е или назначен од засегнатото лице или од државата, да го брани него или неа на судењето и бил реално застапуван од тој застапник на судењето;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 382,
+      "en": "\t3.3.\tthe person was served with the decision on … (day/month/year) and was expressly informed about the right to a retrial or appeal, in which he or she has the right to participate and which allows the merits of the case, including fresh evidence, to be re-examined, and which may lead to the original decision being reversed, and",
+      "mk1": "\t3.3.\tоткако ја добил одлуката на ... (ден/месец/година) и бил веднаш известен за правото на повторно судење, или на жалба, во кое тој или таа има право да учествува и се овозможува повторно разгледување на фактите во случајот, вклучително и нови докази и што може да доведе до преиначување на првичната одлука:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 383,
+      "en": "\tthe person expressly stated that he or she does not contest this decision,",
+      "mk1": "\tјасно изјавил дека тој или таа не ја оспорува одлуката,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 384,
+      "en": "\tthe person did not request a retrial or appeal within the applicable time frame;",
+      "mk1": "\tлицето не побарало повторно судење или жалба во рамките на применливата временска рамка;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 385,
+      "en": "\t3.4\tthe person, having been expressly informed about the proceedings and the possibility to appear in person in a trial, expressly waived his or her right to an oral hearing and has expressly indicated that he or she does not contest the case.",
+      "mk1": "\t3.4\tлицето кое било јасно известено за постапката и можноста лично да се појави на судењето, јасно се откажало од неговото или нејзиното право на усно сослушување и јасно назначило дека тој или таа не го оспорува случајот.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 386,
+      "en": "If you have ticked the box under points 3.1b, 3.2, 3.3 or 3.4 above, please provide information about how the relevant condition has been met:……………………………………………………………………",
+      "mk1": "Ако го означивте полето под точките 3.1б, 3.2, 3.3 или 3.4 погоре, ве молиме внесете информации за тоа како биле исполнети релевантните услови:……………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 387,
+      "en": "………………………………………………………………………....",
+      "mk1": "………………………………………………………………………....",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 388,
+      "en": "…………………………………………………………………………",
+      "mk1": "…………………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 389,
+      "en": "Partial payment of the penalty",
+      "mk1": "Делумна исплата на казната",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 390,
+      "en": "If any part of the penalty has already been paid to the issuing State, or, to the knowledge of the authority issuing the Certificate, to any other State, indicate the amount which has been paid:",
+      "mk1": "Ако дел од казната веќе била платена во земјата издавател, или, на знаење на органот што ја издава потврдата, на друга држава, наведете го износот што бил платен:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 391,
+      "en": "……………………………………………………………………………………..",
+      "mk1": "……………………………………………………………………………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 392,
+      "en": "(i)",
+      "mk1": "(з)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 393,
+      "en": "Alternative sanctions, including custodial sanctions",
+      "mk1": "Алтернативни санкции, вклучително и санкција со казна затвор",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 394,
+      "en": "State whether the issuing State allows for the application by the executing State of alternative sanctions in case it is not possible to enforce the decision imposing a penalty, either totally or in part:",
+      "mk1": "Наведете дали државата издавател дозволува земјата извршител да применува алтернативни санкции во случај кога не е возможно да се изврши одлуката со која се изрекува казната, целосно или делумно:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 395,
+      "en": "\tyes",
+      "mk1": "\tда",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 396,
+      "en": "\tno",
+      "mk1": "\tне",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 397,
+      "en": "If yes, state which sanctions may be applied (nature of the sanctions, maximum level of the sanctions):",
+      "mk1": "Ако одговорот е да, кои санкции може да се применуваат (природа на санкциите, максимален степен на санкциите):",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 398,
+      "en": "\tCustody.",
+      "mk1": "\tКазна затвор.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 399,
+      "en": "Maximum period:………………………………………….",
+      "mk1": "Најдолго времетраење:………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 400,
+      "en": "\tCommunity service (or equivalent).",
+      "mk1": "\tОпштокорисна работа (или еднакво на тоа).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 401,
+      "en": "Maximum period………………",
+      "mk1": "Најдолго времетраење………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 402,
+      "en": "\tOther sanctions.",
+      "mk1": "\tДруги санкции.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 403,
+      "en": "Description:………………………………………...",
+      "mk1": "Опис:………………………………………...",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 404,
+      "en": "……………………………………………………………………………...",
+      "mk1": "……………………………………………………………………………...",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 405,
+      "en": "(j)",
+      "mk1": "(ѕ)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 406,
+      "en": "Other circumstances relevant to the case (optional information):………………..",
+      "mk1": "Други околности релевантни за случајот (незадолжителни информации):………………..",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 407,
+      "en": "(k)",
+      "mk1": "(и)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 408,
+      "en": "The text of the decision imposing the financial penalty is attached to the certificate.",
+      "mk1": "Текстот од одлуката со која се изрекува паричната казна се приложува кон потврдата.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 409,
+      "en": "Signature of the authority issuing the certificate and/or its representative certifying the content of the certificate as accurate:………………………………",
+      "mk1": "Потпис на органот што ја издава потврдата и/или неговиот застапник со што се потврдува содржината на потврдата за точна:………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 410,
+      "en": "Name:…………………………………………………………………………….",
+      "mk1": "Име:…………………………………………………………………………….",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 411,
+      "en": "Post held (title/grade):……………………………………………………………",
+      "mk1": "Позиција (звање/степен):……………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 412,
+      "en": "Date:………………………………………………………………………………",
+      "mk1": "Датум:………………………………………………………………………………",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 413,
+      "en": "Official stamp (if available)",
+      "mk1": "Официјален печат (ако е достапно)",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    }
+  ],
+  "accepted_indices": [
+    1,
+    11,
+    121,
+    149,
+    157,
+    239,
+    240,
+    248,
+    250
+  ]
+}

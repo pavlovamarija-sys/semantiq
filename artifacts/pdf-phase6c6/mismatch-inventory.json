@@ -1,0 +1,18 @@
+{
+  "input": "artifacts/pdf-phase6c6/studio-input/validated-docx-corrected.sdlxliff",
+  "sha256": "588de15278fef72518c567f3c3e9a9ed279efece6b8733776a1375e794abe2a4",
+  "canonicalSnapshotId": "9773853e-9f81-4796-b358-38a3f53e1d81",
+  "counts": {"canonicalTUs": 265, "studioTransUnits": 271, "studioSegments": 271, "directMatches": 248, "missingCanonical": 17, "unmatchedStudio": 23, "ambiguousRepeatedText": 35},
+  "rawEncoding": {"rawUtf8ReplacementCharacters": 0, "parsedXmlReplacementCharacters": 0, "sdlxliffCorruption": false},
+  "language": {"source": "en-GB", "target": null, "targetVerified": false},
+  "rootCause": "canonical snapshot source_text contains persisted UTF-8 mojibake (for example U+00E2 U+20AC U+2122 for a source U+2019 apostrophe); SDLXLIFF contains the correct Unicode text",
+  "mismatchClasses": {
+    "17MissingCanonical": "strict equality fails at mojibake/correct-Unicode text and sequence shifts; not proven source omissions",
+    "23UnmatchedStudio": "structural/empty/dash/footnote/citation units and shifted positions",
+    "35Ambiguities": "repeated source text requires canonical node/context identity; arbitrary first-match is rejected",
+    "oneToMany": "none safely established",
+    "tablesFootnotesReferences": "cannot be certified while canonical source identity is corrupted"
+  },
+  "persistence": "NOT_PERFORMED",
+  "requiredNextFix": "Create a new corrected canonical snapshot from the exact DOCX after fixing upstream text encoding; preserve snapshot 9773853e unchanged."
+}

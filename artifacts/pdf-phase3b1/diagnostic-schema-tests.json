@@ -1,0 +1,24 @@
+{
+  "status": "PASS",
+  "focusedTests": {
+    "passed": 6,
+    "failed": 0
+  },
+  "fullWorkerSuite": {
+    "passed": 29,
+    "failed": 0,
+    "warnings": 1,
+    "warningScope": "Existing Starlette TestClient deprecation warning"
+  },
+  "coverage": {
+    "alignedListRejectionLogged": true,
+    "layoutAmbiguityLogged": true,
+    "tableDecisionValidated": true,
+    "crossPageDecisionValidated": true,
+    "missingReasonFailsAtBoundary": true,
+    "emptyReasonFailsAtConstruction": true,
+    "invalidEvidenceFailsAtConstruction": true
+  },
+  "behavioralEquivalence32006L0114": "PASS",
+  "structuralBehaviorChangedByContractRepair": false
+}

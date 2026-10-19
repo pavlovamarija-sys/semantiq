@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "command": "npm.cmd run test:celex-shadow",
+  "passed": 5,
+  "failed": 0,
+  "cases": {
+    "flagOffNoInvocationOrEvidence": "PASS",
+    "flagOnCallsExactEndpointAndWritesCorrelatedEvidence": "PASS",
+    "shadowTransportFailureDoesNotThrowOrAlterActiveResult": "PASS",
+    "evidenceWriteFailureDoesNotThrowOrAlterActiveResult": "PASS",
+    "actualCelexActionHooksBothBranchesOnlyAfterActivePersistence": "PASS"
+  },
+  "realImportPerformed": false
+}

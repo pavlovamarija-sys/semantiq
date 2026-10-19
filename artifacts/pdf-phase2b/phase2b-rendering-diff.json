@@ -1,0 +1,50 @@
+{
+  "celex": "32006L0114",
+  "v1": {
+    "path": "artifacts\\pdf-phase1\\32006L0114-experimental.docx",
+    "sha256": "90BDF31CEEB6A0C85B7C7432C2A3A7B89213FFA0A0909EBCD083FCF9F177F0C5",
+    "totalParagraphs": 278,
+    "nonEmptyParagraphs": 270,
+    "bodyParagraphs": 175,
+    "nonEmptyBodyParagraphs": 169,
+    "tableParagraphs": 103,
+    "nonEmptyTableParagraphs": 101,
+    "logicalCellsWithMultipleParagraphs": 3
+  },
+  "v2": {
+    "path": "artifacts\\pdf-phase2b\\32006L0114-experimental-v2.docx",
+    "sha256": "058065F2A20068752432963D50608AB2463E2DB7F35C370405DDA70EF3F0F813",
+    "totalParagraphs": 275,
+    "nonEmptyParagraphs": 267,
+    "bodyParagraphs": 175,
+    "nonEmptyBodyParagraphs": 169,
+    "tableParagraphs": 100,
+    "nonEmptyTableParagraphs": 98,
+    "logicalCellsWithMultipleParagraphs": 0
+  },
+  "deltaV2MinusV1": {
+    "totalParagraphs": -3,
+    "nonEmptyParagraphs": -3,
+    "bodyParagraphs": 0,
+    "nonEmptyBodyParagraphs": 0,
+    "tableParagraphs": -3,
+    "nonEmptyTableParagraphs": -3,
+    "logicalCellsWithMultipleParagraphs": -3
+  },
+  "scopeCheck": {
+    "bodyParagraphSequenceIdentical": true,
+    "tableDimensionsIdentical": true,
+    "allCellVisibleTextIdentical": true,
+    "allUnaffectedCellParagraphSequencesIdentical": true,
+    "affectedCellChangeOnly": "2 w:p to 1 w:p plus 1 w:br in each of three cells"
+  },
+  "expectedStudioProjection": {
+    "basis": "Phase 2 demonstrated one trans-unit and one CAT segment per represented DOCX paragraph, with no mrk segment subdivision.",
+    "v1TransUnits": 276,
+    "v1VisibleCatSegments": 270,
+    "v2ExpectedTransUnits": 273,
+    "v2ExpectedVisibleCatSegments": 267,
+    "affectedCellsExpected": "one trans-unit/CAT segment per cell instead of two",
+    "status": "EXPECTED_NOT_YET_MEASURED"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "status": "PASS_IMPLEMENTATION",
+  "exactValidatedDocxScope": true,
+  "actualByteHashBeforeParse": true,
+  "actualByteHashBeforeFinalize": true,
+  "schemaAndLineageValidation": true,
+  "stableIdempotency": true,
+  "activeGenerationProtection": true,
+  "staleInputRejection": true,
+  "immutableSnapshotAndChildren": true,
+  "projectOwnerRls": true,
+  "failClosedUnsupportedOoxml": true,
+  "downstreamInvocation": false
+}

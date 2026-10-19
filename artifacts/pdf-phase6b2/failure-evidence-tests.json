@@ -1,0 +1,6 @@
+{
+  "status": "PASS",
+  "covered": ["unique run identity", "source SHA", "summary metrics", "transport failure record", "resource/error status", "no overwrite by unique filename", "evidence write failure isolation", "flag-off no invocation", "non-authoritative directory"],
+  "automatedWorkerTests": 38,
+  "note": "The durable writer is failure-safe; no real CELEX import was repeated."
+}

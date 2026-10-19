@@ -1,0 +1,92 @@
+{
+  "celex": "32006L0114",
+  "hashes": {
+    "v2Docx": "058065F2A20068752432963D50608AB2463E2DB7F35C370405DDA70EF3F0F813",
+    "v2Sdlxliff": "D54A6E2034A93E547D54311754FE33B7F7983726710D696B3E9A8A836464D165"
+  },
+  "sourceIdentity": {
+    "embeddedOriginalFile": "D:\\EU Acquis AI App\\.tmp-architecture-spike\\complex-fixture\\Neuer Ordner\\Project 1\\en-GB\\32006L0114-experimental-v2.docx",
+    "sourceLanguage": "en-GB"
+  },
+  "studioProjection": {
+    "transUnits": 273,
+    "visibleCatSegments": 267,
+    "visibleTransUnits": 267,
+    "emptyStructuralUnits": 6,
+    "tableContextUnits": 98,
+    "tableRowsRepresented": 48,
+    "tableCellsTotal": 100,
+    "tableCellsRepresented": 98,
+    "emptyTableCellsWithoutUnit": 2,
+    "cellsWithMoreThanOneTransUnit": 0,
+    "cellsWithMoreThanOneCatSegment": 0
+  },
+  "predictionComparison": {
+    "predictedTransUnits": 273,
+    "actualTransUnits": 273,
+    "delta": 0,
+    "predictedVisibleCatSegments": 267,
+    "actualVisibleCatSegments": 267,
+    "catSegmentDelta": 0,
+    "assessment": "Exact match"
+  },
+  "affectedCells": [
+    {
+      "typedModelNodeId": "tablecell-e795a50cb0cdd25f",
+      "table": 0,
+      "row": 0,
+      "column": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "transUnitId": "734f1f89-3f22-4322-ba32-bda52b98bc24",
+      "controlledLineBreak": {
+        "docxBreaks": 1,
+        "sdlSourceRepresentation": "literal LF",
+        "sdlLineFeeds": 1,
+        "segmentMarkers": 0,
+        "createsCatBoundary": false
+      },
+      "source": "Council Directive 84/450/EEC\n(OJ L 250, 19.9.1984, p. 17)",
+      "status": "PASS"
+    },
+    {
+      "typedModelNodeId": "tablecell-1170670854759090",
+      "table": 0,
+      "row": 1,
+      "column": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "transUnitId": "a454f5bc-be73-4bc0-abd0-8593e455831b",
+      "controlledLineBreak": {
+        "docxBreaks": 1,
+        "sdlSourceRepresentation": "literal LF",
+        "sdlLineFeeds": 1,
+        "segmentMarkers": 0,
+        "createsCatBoundary": false
+      },
+      "source": "Directive 97/55/EC of the European Parliament and of the Council\n(OJ L 290, 23.10.1997, p. 18)",
+      "status": "PASS"
+    },
+    {
+      "typedModelNodeId": "tablecell-dcc19ff200192bde",
+      "table": 0,
+      "row": 2,
+      "column": 0,
+      "docxParagraphs": 1,
+      "studioTransUnits": 1,
+      "catSegments": 1,
+      "transUnitId": "6f2be4f9-4a23-4ce2-bb48-5e192a863402",
+      "controlledLineBreak": {
+        "docxBreaks": 1,
+        "sdlSourceRepresentation": "literal LF",
+        "sdlLineFeeds": 1,
+        "segmentMarkers": 0,
+        "createsCatBoundary": false
+      },
+      "source": "Directive 2005/29/EC of the European Parliament and of the Council\n(OJ L 149, 11.6.2005, p. 22)",
+      "status": "PASS"
+    }
+  ]
+}

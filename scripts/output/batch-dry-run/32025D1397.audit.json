@@ -1,0 +1,4025 @@
+{
+  "celex": "32025D1397",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D1397\\TMX_MK1\\32025D1397_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32025D1397\\MK2\\32025D1397_MK2.docx",
+  "tmx_sha256": "535248e7df8f302a2d194191df12d32054a5f8921c7818d099611255ff15783d",
+  "mk2_sha256": "38f7d3fd4fb7c3eda7f67c27c1bfea2a67b46c40a586075634a6cdcee3f08138",
+  "original_tus": 182,
+  "accepted_tus": 49,
+  "skipped_tus": 133,
+  "acceptance_percent": 26.92,
+  "mk1_coverage": 31.54,
+  "mk2_coverage": 47.9,
+  "accepted_clean_en_chars": 2792,
+  "accepted_clean_mk2_chars": 2914,
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL DECISION (CFSP) 2025/1397",
+      "mk1": "ОДЛУКА (ЗНБП) 2025/1397 НА СОВЕТОТ",
+      "mk2": "ОДЛУКА (ЗНБП) 2025/1397 НА СОВЕТОТ",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        34
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          1
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 2,
+      "en": "of 15 July 2025",
+      "mk1": "од 15 јули 2025 година",
+      "mk2": "од 15 јули 2025 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        1,
+        2
+      ],
+      "mk2_char_span": [
+        35,
+        57
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          2,
+          2
+        ],
+        "atom_window": [
+          1,
+          2
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 3,
+      "en": "amending Decision (CFSP) 2020/1999 concerning restrictive measures against serious human rights violations and abuses",
+      "mk1": "за изменување на Одлуката (ЗНБП) за рестриктивни мерки против сериозни кршења и злоупотреби на човекови права",
+      "mk2": "за изменување на Одлуката (ЗНБП) 2020/1999 за рестриктивни мерки против сериозни прекршувањаа и злоупотреби на човеков",
+      "score": 0.8878923766816144,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        58,
+        176
+      ],
+      "evidence": {
+        "token_count": 34,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 4,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "mk2": "и права СОВЕТОТ НА ЕВРОПСКАТА",
+      "score": 0.75,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        176,
+        206
+      ],
+      "evidence": {
+        "token_count": 34,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 29 thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот,",
+      "mk2": "УНИЈА, имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот,",
+      "score": 0.9615384615384616,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        2,
+        5
+      ],
+      "mk2_char_span": [
+        206,
+        290
+      ],
+      "evidence": {
+        "token_count": 34,
+        "references_preserved": true,
+        "neighbor_window": [
+          3,
+          5
+        ],
+        "atom_window": [
+          2,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,",
+      "mk1": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "mk2": "имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        5,
+        6
+      ],
+      "mk2_char_span": [
+        291,
+        398
+      ],
+      "evidence": {
+        "token_count": 15,
+        "references_preserved": true,
+        "neighbor_window": [
+          6,
+          6
+        ],
+        "atom_window": [
+          5,
+          6
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "Whereas:",
+      "mk1": "со оглед на тоа што:",
+      "mk2": "со оглед на тоа што:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        6,
+        7
+      ],
+      "mk2_char_span": [
+        399,
+        419
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          7
+        ],
+        "atom_window": [
+          6,
+          7
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 8,
+      "en": "(1) On 7 December 2020, the Council adopted Decision (CFSP) 2020/1999 ().",
+      "mk1": "(1) На 7 декември 2020 година, Советот ја донесе Одлуката (ЗНБП) 2016/1999 ().",
+      "mk2": "(1)На 7 декември 2020 година, Советот ја донесе Одлуката (ЗНБП) 2016/1999 (). Одлу",
+      "score": 0.965034965034965,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        7,
+        8
+      ],
+      "mk2_char_span": [
+        420,
+        502
+      ],
+      "evidence": {
+        "token_count": 48,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          9
+        ],
+        "atom_window": [
+          7,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 9,
+      "en": "Council Decision (CFSP) 2020/1999 of 7 December 2020 concerning restrictive measures against serious human rights violations and abuses (OJ L 410 I, 7.12.2020, p. 13, ELI: http://data.europa.eu/eli/dec/2020/1999/oj).",
+      "mk1": "Одлука (ЗНБП) 2020/1999 на Советот од 7 декември 2020 година за рестриктивни мерки против сериозни повреди и злоупотреби на човековите права (Сл. весник I, 7.12.2020 година, стр. 13, ELI http://data.europa.eu/eli/dec/2020/1999/oj).",
+      "mk2": "ка (ЗНБП) 2020/1999 на Советот, од 7 декември 2020 година, за рестриктивни мерки против сериозни повреди прекршувања и злоупотреби на човековите права (Сл. весник I, 7.12.2020 година, стр. 13, ELI http://data.europa.eu/eli/dec/2020/1999/oj).",
+      "score": 0.9641255605381166,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        7,
+        8
+      ],
+      "mk2_char_span": [
+        502,
+        743
+      ],
+      "evidence": {
+        "token_count": 48,
+        "references_preserved": true,
+        "neighbor_window": [
+          8,
+          9
+        ],
+        "atom_window": [
+          7,
+          8
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 10,
+      "en": "(2) On 8 December 2020, by way of the Declaration by the High Representative of the Union for Foreign Affairs and Security Policy (the ‘High Representative’), on behalf of the European Union, regarding the EU Global Human Rights Sanctions Regime, the Union and its Member States reaffirmed their strong commitment to the promotion and protection of human rights around the world.",
+      "mk1": "(2) На 8 декември 2020 година, во Декларацијата на Високиот претставник на Унијата за надворешни работи и безбедносна политика („Високиот претставник“), во име на Европската Унија , во врска со Глобалниот режим за санкции на ЕУ против кршење на човековите права, Унијата и нејзините земји членки ја потврдија својата силна посветеност за унапредување и заштита на човековите права низ целиот свет.",
+      "mk2": "(2)На 8 декември 2020 година, во Декларацијата на Високиот претставник на Унијата за надворешни работи и безбедносна политика („Високиот претставник“), во име на Европската Унија , во врска со Глобалниот режим за санкции на ЕУ против кршење прекршување на човековите права, Унијата и нејзините земји членки ја потврдија својата силна посветеност за унапредување и за заштита на човековите права низ целиот свет. Глобалниот режим на санкции на ЕУ против кршењето прекршувањето на човековите права, ја нагласува решеноста на Унијата да ја зајакн",
+      "score": 0.8406113537117904,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        744,
+        1287
+      ],
+      "evidence": {
+        "token_count": 136,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 11,
+      "en": "The EU Global Human Rights Sanctions Regime underscores the Union’s determination to enhance its role in addressing serious human rights violations and abuses worldwide.",
+      "mk1": "Глобалниот режим на санкции на ЕУ против кршење на човековите права ја нагласува решеноста на Унијата да ја зајакне својата улога во решавањето на сериозните кршења и злоупотреби на човековите права ширум светот.",
+      "mk2": "е својата улога во решавањето на сериозните кршења прекршувања и злоупотреби на човековите права ширум светот. Остварувањето на вистинско уживање на човековите права одза секого е стратешка цел на Унијата. Почитувањето на човечкото достоинство, слободата, демократијата, еднаквоста, владеењ",
+      "score": 0.39191919191919194,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        1287,
+        1577
+      ],
+      "evidence": {
+        "token_count": 136,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 12,
+      "en": "Realising the effective enjoyment of human rights for every person is a strategic goal of the Union.",
+      "mk1": "Остварувањето на вистинско уживање на човековите права од секого е стратешка цел на Унијата.",
+      "mk2": "ето на правото и човековите права, се основните вредности на Унијата и нејзината заедничка надворешна и безбедносна политика.",
+      "score": 0.45794392523364486,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        1577,
+        1702
+      ],
+      "evidence": {
+        "token_count": 136,
+        "references_preserved": true,
+        "neighbor_window": [
+          10,
+          12
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 13,
+      "en": "Respect for human dignity, freedom, democracy, equality, the rule of law and human rights is a fundamental value of the Union and its common foreign and security policy.",
+      "mk1": "Почитувањето на човечкото достоинство, слободата, демократијата, еднаквоста, владеењето на правото и човековите права се основните вредности на Унијата и нејзината заедничка надворешна и безбедносна политика.",
+      "mk2": "(3)Унијата е загрижена за транснационалната репресија од страна на иранските државни тела преку постојаното ангажирање на посредници, особено криминалци и мрежи на",
+      "score": 0.22527472527472528,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        1703,
+        1866
+      ],
+      "evidence": {
+        "token_count": 93,
+        "references_preserved": false,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 14,
+      "en": "(3) The Union is concerned about transnational repression by Iranian state bodies through the ongoing use of proxy agents, in particular involving criminals and organised crime networks targeting dissidents and human rights defenders across the world, including on Union territory.",
+      "mk1": "(3) Унијата е загрижена за транснационалната репресија од страна на иранските државни тела преку постојаното ангажирање на посредници, особено криминалци и мрежи на организиран криминал чија цел се дисиденти и борци за човекови права ширум светот, вклучително и на територијата на Иран.",
+      "mk2": "организиран криминал, чија цел се дисиденти и борци за човекови права ширум светот, вклучително и на територијата на Иран. Тие криминалци и мрежи на организиран криминал се одговорни за сериозни кршења прекршувања на човеко",
+      "score": 0.4750499001996008,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        1866,
+        2090
+      ],
+      "evidence": {
+        "token_count": 93,
+        "references_preserved": false,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 15,
+      "en": "Those criminals and organised criminal networks have been responsible for serious human rights violations or abuses such as extrajudicial, summary and arbitrary killings as well as enforced disappearances of persons critical of the actions or policies of the Islamic Republic of Iran, or of persons deemed to be opponents of the Islamic Republic of Iran.",
+      "mk1": "Тие криминалци и мрежи на организиран криминал се одговорни за сериозни кршења на човековите права или залоупотреби како што се вонсудски, кратки убиства и присилни исчезнувања на лица кои ги критикуваат дејствијата или политиките на Исламската Република Иран или лица кои се сметаат за противници на Исламската Република Иран.",
+      "mk2": "вите права или залоупотребизлоупотреби, како што се вонсудски, кратки убиства и присилни исчезнувања на на лица, кои ги критикуваат дејствијата или политиките на Исламската Република Иран или лица кои се сметаат за противници на Исламската Република Иран.",
+      "score": 0.8229166666666666,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        9,
+        10
+      ],
+      "mk2_char_span": [
+        2090,
+        2345
+      ],
+      "evidence": {
+        "token_count": 93,
+        "references_preserved": false,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          9,
+          10
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 16,
+      "en": "(4) In that context, eight persons and one entity should be added to the list of natural and legal persons, entities and bodies set out in the Annex to Decision (CFSP) 2020/1999.",
+      "mk1": "(4) Во овој контекст, осум лица и еден субјект треба да се вклучат во списокот на физички и правни лица, субјекти и тела кои утврдени во Анексот кон Одлуката (ЗНБП) 2020/1999 година.",
+      "mk2": "(4)Во овој контекст, осум лица и еден субјект треба да се вклучат во списокот на физички и правни лица, субјекти и тела, кои се утврдени во Анексот кон Одлуката (ЗНБП) 2020/1999 година.",
+      "score": 0.9915014164305949,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        10,
+        13
+      ],
+      "mk2_char_span": [
+        2346,
+        2531
+      ],
+      "evidence": {
+        "token_count": 47,
+        "references_preserved": true,
+        "neighbor_window": [
+          16,
+          18
+        ],
+        "atom_window": [
+          10,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 17,
+      "en": "(5) Decision (CFSP) 2020/1999 should therefore be amended accordingly,",
+      "mk1": "(5) Затоа, Одлуката (ЗНБП) 2020/1999 треба соодветно да се измени,",
+      "mk2": "(5)Затоа, Одлуката (ЗНБП) 2020/1999 треба соодветно да се измени,",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        10,
+        13
+      ],
+      "mk2_char_span": [
+        2531,
+        2598
+      ],
+      "evidence": {
+        "token_count": 47,
+        "references_preserved": true,
+        "neighbor_window": [
+          16,
+          18
+        ],
+        "atom_window": [
+          10,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 18,
+      "en": "HAS ADOPTED THIS DECISION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "mk2": "ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        10,
+        13
+      ],
+      "mk2_char_span": [
+        2598,
+        2620
+      ],
+      "evidence": {
+        "token_count": 47,
+        "references_preserved": true,
+        "neighbor_window": [
+          16,
+          18
+        ],
+        "atom_window": [
+          10,
+          13
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 19,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "Член 1",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        13,
+        14
+      ],
+      "mk2_char_span": [
+        2621,
+        2627
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          19,
+          19
+        ],
+        "atom_window": [
+          13,
+          14
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 20,
+      "en": "The Annex to Decision (CFSP) 2020/1999 is amended in accordance with the Annex to this Decision.",
+      "mk1": "Анексот кон Одлуката(ЗНБП) 2020/1999 се изменува во согласност со Анексот кон оваа одлука.",
+      "mk2": "Анексот кон Одлуката (ЗНБП) 2020/1999 се изменува во согласност со Анексот кон оваа одлука.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        14,
+        15
+      ],
+      "mk2_char_span": [
+        2628,
+        2719
+      ],
+      "evidence": {
+        "token_count": 14,
+        "references_preserved": true,
+        "neighbor_window": [
+          20,
+          20
+        ],
+        "atom_window": [
+          14,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 21,
+      "en": "This Decision shall enter into force on the date of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "Член 2 Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија",
+      "score": 0.9665071770334929,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        15,
+        18
+      ],
+      "mk2_char_span": [
+        2720,
+        2828
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          21,
+          22
+        ],
+        "atom_window": [
+          15,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 22,
+      "en": "Done at Brussels, 15 July 2025.",
+      "mk1": "Брисел, 15 јули 2025 година.",
+      "mk2": ". Брисел, 15 јули 2025 година.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        15,
+        18
+      ],
+      "mk2_char_span": [
+        2828,
+        2858
+      ],
+      "evidence": {
+        "token_count": 23,
+        "references_preserved": true,
+        "neighbor_window": [
+          21,
+          22
+        ],
+        "atom_window": [
+          15,
+          18
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 23,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "mk2": "За Советот",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        18,
+        19
+      ],
+      "mk2_char_span": [
+        2859,
+        2869
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          23,
+          23
+        ],
+        "atom_window": [
+          18,
+          19
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 24,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "Претседател",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        19,
+        20
+      ],
+      "mk2_char_span": [
+        2870,
+        2881
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          24,
+          24
+        ],
+        "atom_window": [
+          19,
+          20
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 25,
+      "en": "K. KALLAS",
+      "mk1": "К. КАЛЛАС",
+      "mk2": "К. КАЛЛАС",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        20,
+        21
+      ],
+      "mk2_char_span": [
+        2882,
+        2891
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          25,
+          25
+        ],
+        "atom_window": [
+          20,
+          21
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 26,
+      "en": "ANNEX",
+      "mk1": "АНЕКС",
+      "mk2": "АНЕКС",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        21,
+        22
+      ],
+      "mk2_char_span": [
+        2892,
+        2897
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          26,
+          26
+        ],
+        "atom_window": [
+          21,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 27,
+      "en": "The Annex to Decision (CFSP) 2020/1999 is amended as follows:",
+      "mk1": "Анексите кон Одлуката (ЗНБП) 2020/1999 се изменуваат како што следува:",
+      "mk2": "Анексите кон Одлуката (ЗНБП) 2020/1999, се изменуваат како што следуваиув",
+      "score": 0.9781021897810219,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        22,
+        25
+      ],
+      "mk2_char_span": [
+        2898,
+        2971
+      ],
+      "evidence": {
+        "token_count": 30,
+        "references_preserved": false,
+        "neighbor_window": [
+          27,
+          29
+        ],
+        "atom_window": [
+          22,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 28,
+      "en": "(1)",
+      "mk1": "(1)",
+      "mk2": "а:",
+      "score": 0.0,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        22,
+        25
+      ],
+      "mk2_char_span": [
+        2971,
+        2974
+      ],
+      "evidence": {
+        "token_count": 30,
+        "references_preserved": false,
+        "neighbor_window": [
+          27,
+          29
+        ],
+        "atom_window": [
+          22,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 29,
+      "en": "the following entries are added to the list of natural and legal persons, entities or bodies under heading ‘A. Natural persons’:",
+      "mk1": "следните внесови се додаваат на списокот на физички и правни лица, субјекти или тела во наслов „А. Физички лица“:",
+      "mk2": "(1) сСледните внесови се додаваат на списокот на физички и правни лица, субјекти или тела во наслов „А. Физички лица“:",
+      "score": 0.9863013698630136,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        22,
+        25
+      ],
+      "mk2_char_span": [
+        2974,
+        3092
+      ],
+      "evidence": {
+        "token_count": 30,
+        "references_preserved": false,
+        "neighbor_window": [
+          27,
+          29
+        ],
+        "atom_window": [
+          22,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 30,
+      "en": "Names (Transliteration into Latin script)",
+      "mk1": "Имиња (транслитерација на латиница)",
+      "mk2": "Имиња (транслитерација на латиница)",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        25,
+        26
+      ],
+      "mk2_char_span": [
+        3093,
+        3128
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          30,
+          30
+        ],
+        "atom_window": [
+          25,
+          26
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 31,
+      "en": "Names",
+      "mk1": "Имиња",
+      "mk2": "Имиња",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        26,
+        27
+      ],
+      "mk2_char_span": [
+        3129,
+        3134
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          31
+        ],
+        "atom_window": [
+          26,
+          27
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 32,
+      "en": "Identifying information",
+      "mk1": "Информации за идентификација",
+      "mk2": "Информации за идентификација",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        27,
+        28
+      ],
+      "mk2_char_span": [
+        3135,
+        3163
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          32,
+          32
+        ],
+        "atom_window": [
+          27,
+          28
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 33,
+      "en": "Reasons for listing",
+      "mk1": "Причини за внесување во список",
+      "mk2": "Причини за внесување во список",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        28,
+        29
+      ],
+      "mk2_char_span": [
+        3164,
+        3194
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          33,
+          33
+        ],
+        "atom_window": [
+          28,
+          29
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 34,
+      "en": "Date of listing",
+      "mk1": "Датум на наведување во списокот",
+      "mk2": "Датум на наведување во списокот",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        29,
+        30
+      ],
+      "mk2_char_span": [
+        3195,
+        3226
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          34,
+          34
+        ],
+        "atom_window": [
+          29,
+          30
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 35,
+      "en": "‘126.",
+      "mk1": "„126.",
+      "mk2": "„126.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        30,
+        31
+      ],
+      "mk2_char_span": [
+        3227,
+        3232
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          35,
+          35
+        ],
+        "atom_window": [
+          30,
+          31
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 36,
+      "en": "Naji Ibrahim SHARIFI-ZINDASHTI a.k.a. KENANI, Emirhan",
+      "mk1": "Naji Ibrahim SHARIFI-ZINDASHTI познат како KENANI, Emirhan",
+      "mk2": "Naji Ibrahim SHARIFI-ZINDASHTI познат како KENANI, Emirhan",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        31,
+        32
+      ],
+      "mk2_char_span": [
+        3233,
+        3291
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          36,
+          36
+        ],
+        "atom_window": [
+          31,
+          32
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 37,
+      "en": "SERIFI ZINDASTI, Naci",
+      "mk1": "SERIFI ZINDASTI, Naci",
+      "mk2": "SERIFI ZINDASTI, Naci",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        32,
+        33
+      ],
+      "mk2_char_span": [
+        3292,
+        3313
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          37,
+          37
+        ],
+        "atom_window": [
+          32,
+          33
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 38,
+      "en": "SERIFI-ZINDASTI, Naci",
+      "mk1": "SERIFI-ZINDASTI, Naci",
+      "mk2": "SERIFI-ZINDASTI, Naci",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        33,
+        34
+      ],
+      "mk2_char_span": [
+        3314,
+        3335
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          38,
+          38
+        ],
+        "atom_window": [
+          33,
+          34
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 39,
+      "en": "SHARIFI ZINDASHTI, Naji",
+      "mk1": "SHARIFI ZINDASHTI, Naji",
+      "mk2": "SHARIFI ZINDASHTI, Naji",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        34,
+        35
+      ],
+      "mk2_char_span": [
+        3336,
+        3359
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          39,
+          39
+        ],
+        "atom_window": [
+          34,
+          35
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 40,
+      "en": "SHARIFI-ZINDASHTI, Naji",
+      "mk1": "SHARIFI-ZINDASHTI, Naji",
+      "mk2": "SHARIFI-ZINDASHTI, Naji",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        35,
+        36
+      ],
+      "mk2_char_span": [
+        3360,
+        3383
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          40,
+          40
+        ],
+        "atom_window": [
+          35,
+          36
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 41,
+      "en": "ناجی ابراهیم شریفی زیندشتی",
+      "mk1": "ناجی ابراهیم شریفی زیندشتی",
+      "mk2": "ناجی ابراهیم شریفی زیندشتی",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        36,
+        37
+      ],
+      "mk2_char_span": [
+        3384,
+        3410
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          41,
+          41
+        ],
+        "atom_window": [
+          36,
+          37
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 42,
+      "en": "(Persian spelling)",
+      "mk1": "(Персиски правопис)",
+      "mk2": "(Пперсиски правопис)",
+      "score": 0.9714285714285714,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        37,
+        39
+      ],
+      "mk2_char_span": [
+        3411,
+        3431
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          42,
+          43
+        ],
+        "atom_window": [
+          37,
+          39
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "DOB:31.5.1974",
+      "mk1": "Датум на раѓање: 31.5.1974 година",
+      "mk2": "Датум на раѓање: 31.5.1974 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        37,
+        39
+      ],
+      "mk2_char_span": [
+        3431,
+        3465
+      ],
+      "evidence": {
+        "token_count": 9,
+        "references_preserved": true,
+        "neighbor_window": [
+          42,
+          43
+        ],
+        "atom_window": [
+          37,
+          39
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "POB:",
+      "mk1": "Место на раѓање:",
+      "mk2": "Место на раѓање:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        39,
+        40
+      ],
+      "mk2_char_span": [
+        3466,
+        3482
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          44,
+          45
+        ],
+        "atom_window": [
+          39,
+          40
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "Zindasht or Orumiyeh, Iran",
+      "mk1": "Zindasht или Orumiyeh, Иран",
+      "mk2": "Zindasht или Orumiyeh, Иран",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        39,
+        40
+      ],
+      "mk2_char_span": [
+        3482,
+        3510
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          44,
+          45
+        ],
+        "atom_window": [
+          39,
+          40
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 46,
+      "en": "Nationality:",
+      "mk1": "Државјанство на:",
+      "mk2": "Државјанство: на:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        40,
+        41
+      ],
+      "mk2_char_span": [
+        3511,
+        3529
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          46,
+          47
+        ],
+        "atom_window": [
+          40,
+          41
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 47,
+      "en": "Iranian",
+      "mk1": "Иран",
+      "mk2": "Иран",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        40,
+        41
+      ],
+      "mk2_char_span": [
+        3529,
+        3533
+      ],
+      "evidence": {
+        "token_count": 3,
+        "references_preserved": true,
+        "neighbor_window": [
+          46,
+          47
+        ],
+        "atom_window": [
+          40,
+          41
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 48,
+      "en": "Gender: male",
+      "mk1": "Пол: машки",
+      "mk2": "Пол: машки",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        41,
+        42
+      ],
+      "mk2_char_span": [
+        3534,
+        3544
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          48,
+          48
+        ],
+        "atom_window": [
+          41,
+          42
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 49,
+      "en": "ID:",
+      "mk1": "Број на лична карта:",
+      "mk2": "Број на лична карта:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        42,
+        43
+      ],
+      "mk2_char_span": [
+        3545,
+        3566
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          49,
+          50
+        ],
+        "atom_window": [
+          42,
+          43
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 50,
+      "en": "2753229112",
+      "mk1": "2753229112",
+      "mk2": "2753229112",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        42,
+        43
+      ],
+      "mk2_char_span": [
+        3566,
+        3576
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          49,
+          50
+        ],
+        "atom_window": [
+          42,
+          43
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 51,
+      "en": "Associated entity:",
+      "mk1": "Поврзан субјект:",
+      "mk2": "Поврзан субјект:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        43,
+        44
+      ],
+      "mk2_char_span": [
+        3577,
+        3593
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          51,
+          51
+        ],
+        "atom_window": [
+          43,
+          44
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 52,
+      "en": "Zindashti Network",
+      "mk1": "Zindashti Network",
+      "mk2": "Zindashti Network",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        44,
+        45
+      ],
+      "mk2_char_span": [
+        3594,
+        3611
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          52,
+          52
+        ],
+        "atom_window": [
+          44,
+          45
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 53,
+      "en": "Naji Sharifi-Zindashti is an Iranian narcotics trafficker and organised crime boss.",
+      "mk1": "Naji Sharifi-Zindashti е ирански трговец на наркотични средства и главен во областа на организиран криминал.",
+      "mk2": "Naji Sharifi-Zindashti е ирански трговец на наркотични средства и главен во областа на организиран криминал.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        45,
+        46
+      ],
+      "mk2_char_span": [
+        3612,
+        3720
+      ],
+      "evidence": {
+        "token_count": 37,
+        "references_preserved": true,
+        "neighbor_window": [
+          53,
+          54
+        ],
+        "atom_window": [
+          45,
+          46
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 54,
+      "en": "He is the leader of the Zindashti Network, a criminal group that has carried out numerous acts of transnational repression, including assassinations outside of Iran.",
+      "mk1": "Тој е водич на Zindashti Network, криминална група која има извршено бројни акти на транснационална репресија, вклучително и атентати надвор од Иран.",
+      "mk2": "Тој е водич на Zindashti Network, криминална група која има извршено бројни акти на транснационална репресија, вклучително и атентати надвор од Иран.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        45,
+        46
+      ],
+      "mk2_char_span": [
+        3720,
+        3870
+      ],
+      "evidence": {
+        "token_count": 37,
+        "references_preserved": true,
+        "neighbor_window": [
+          53,
+          54
+        ],
+        "atom_window": [
+          45,
+          46
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 55,
+      "en": "He is connected to the Iranian Ministry of Intelligence and Security (MOIS), which is the branch of the Iranian government tasked, inter alia, with assassinating persons critical of the actions or policies of the Islamic Republic of Iran, or persons otherwise deemed to be opponents of the Islamic Republic of Iran by the Islamic Republic of Iran.",
+      "mk1": "Тој е поврзан со Министерството за разузнавање и безбедност на Иран (МОИС), кое е погранок на Владата на Иран со задача, меѓу другото, да извршува атентати врз лица кои ги критикуваат дејствата или политиките на Исламската Република Иран, или на лица кои на друг начин се сметаат за противници на Исламската Република Иран од страна на Исламската Република Иран.",
+      "mk2": "Тој е поврзан со Министерството за разузнавање и безбедност на Иран (МОИС), кое е погранокогранок на Владата на Иран со задача, меѓу другото, да извршува атентати врз лица кои ги критикуваат дејствата или политиките на Исламската Република Иран, или на лица кои на друг начин се сметаат за противници на Исламската Република Иран, од страна на Исламската Република Иран.",
+      "score": 0.9902370990237099,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        46,
+        47
+      ],
+      "mk2_char_span": [
+        3871,
+        4241
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": true,
+        "neighbor_window": [
+          55,
+          55
+        ],
+        "atom_window": [
+          46,
+          47
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 56,
+      "en": "Therefore, Naji Sharifi-Zindashti is responsible for serious human rights violations or abuses outside of Iran, in particular extrajudicial, summary or arbitrary executions and killings and enforced disappearance of persons.",
+      "mk1": "Затоа, Naji Sharifi-Zindashti е одговорен за сериозно кршење или злоупотреба на човековите права во надвор од Иран, особено за вонсудски, брзи или произволни егзекуции и убиства и присилно исчезнување на лица.",
+      "mk2": "Затоа, Naji Sharifi-Zindashti е одговорен за сериозно кршење прекршување или злоупотреба на човековите права во надвор од Иран, особено за вонсудски, брзи или произволни егзекуции и убиства и присилно за исчезнување на на лица.",
+      "score": 0.9579439252336449,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        47,
+        50
+      ],
+      "mk2_char_span": [
+        4242,
+        4469
+      ],
+      "evidence": {
+        "token_count": 39,
+        "references_preserved": true,
+        "neighbor_window": [
+          56,
+          58
+        ],
+        "atom_window": [
+          47,
+          50
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 57,
+      "en": "15.7.2025",
+      "mk1": "15.7.2025 година",
+      "mk2": "15.7.2025 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        47,
+        50
+      ],
+      "mk2_char_span": [
+        4469,
+        4486
+      ],
+      "evidence": {
+        "token_count": 39,
+        "references_preserved": true,
+        "neighbor_window": [
+          56,
+          58
+        ],
+        "atom_window": [
+          47,
+          50
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 58,
+      "en": "127.",
+      "mk1": "127.",
+      "mk2": "127.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        47,
+        50
+      ],
+      "mk2_char_span": [
+        4486,
+        4491
+      ],
+      "evidence": {
+        "token_count": 39,
+        "references_preserved": true,
+        "neighbor_window": [
+          56,
+          58
+        ],
+        "atom_window": [
+          47,
+          50
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 59,
+      "en": "Abdulvahap KOCAK",
+      "mk1": "Abdulvahap KOCAK",
+      "mk2": "Abdulvahap KOCAK",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        50,
+        51
+      ],
+      "mk2_char_span": [
+        4492,
+        4508
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          59,
+          59
+        ],
+        "atom_window": [
+          50,
+          51
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 60,
+      "en": "a.k.a. Abdolwahab KOCAK",
+      "mk1": "познат како Abdolwahab KOCAK",
+      "mk2": "познат како Abdolwahab KOCAK",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        51,
+        52
+      ],
+      "mk2_char_span": [
+        4509,
+        4537
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          60,
+          60
+        ],
+        "atom_window": [
+          51,
+          52
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 61,
+      "en": "Abdolvahab KUCHAK",
+      "mk1": "Abdolvahab KUCHAK",
+      "mk2": "Abdolvahab KUCHAK",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        52,
+        53
+      ],
+      "mk2_char_span": [
+        4538,
+        4555
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          61,
+          61
+        ],
+        "atom_window": [
+          52,
+          53
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 62,
+      "en": "Adiyaman, Türkiye",
+      "mk1": "Adiyaman, Турција",
+      "mk2": "Место на раѓање: Adiyaman, Турција",
+      "score": 0.6666666666666666,
+      "status": "UNMATCHED",
+      "cardinality": "1:1",
+      "mk2_span": [
+        53,
+        54
+      ],
+      "mk2_char_span": [
+        4556,
+        4590
+      ],
+      "evidence": {
+        "token_count": 5,
+        "references_preserved": true,
+        "neighbor_window": [
+          62,
+          62
+        ],
+        "atom_window": [
+          53,
+          54
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 63,
+      "en": "Turkish",
+      "mk1": "Турција",
+      "mk2": "",
+      "score": 0.4666666666666667,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 64,
+      "en": "Ul2429867",
+      "mk1": "Ul2429867",
+      "mk2": "Пол: машки",
+      "score": 0.0,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        55,
+        58
+      ],
+      "mk2_char_span": [
+        4617,
+        4628
+      ],
+      "evidence": {
+        "token_count": 40,
+        "references_preserved": true,
+        "neighbor_window": [
+          64,
+          66
+        ],
+        "atom_window": [
+          55,
+          58
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 65,
+      "en": "Abdulvahap Kocak is officially Naji Zindashti’s gardener.",
+      "mk1": "Abdulvahap Kocak службено е градинар на Naji Zindashti.",
+      "mk2": "Број на лична карта: Ul2429867 Abdulvahap Kocak службено е гради",
+      "score": 0.5641025641025641,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        55,
+        58
+      ],
+      "mk2_char_span": [
+        4628,
+        4692
+      ],
+      "evidence": {
+        "token_count": 40,
+        "references_preserved": true,
+        "neighbor_window": [
+          64,
+          66
+        ],
+        "atom_window": [
+          55,
+          58
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 66,
+      "en": "He also served as an assassin who has been implicated in multiple killings ordered by Naji Zindashti and executed by the Zindashti Network.",
+      "mk1": "Тој исто така служел како убиец кој е вмешан во повеќекратни убиства нарачани од страна на Naji Zindashti, а извршени од страна на Zindashti Network.",
+      "mk2": "нар на Naji Zindashti. Тој, исто така, служел како убиец кој е вмешан во повеќекратни убиства нарачани од страна на Naji Zindashti, а извршени од страна на Zindashti Network.",
+      "score": 0.930379746835443,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        55,
+        58
+      ],
+      "mk2_char_span": [
+        4692,
+        4866
+      ],
+      "evidence": {
+        "token_count": 40,
+        "references_preserved": true,
+        "neighbor_window": [
+          64,
+          66
+        ],
+        "atom_window": [
+          55,
+          58
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 67,
+      "en": "In particular, Abdulvahap Kocak assassinated the Iranian dissident Mas’ud Molavi Vardanjani, a crime for which he was convicted in Türkiye.",
+      "mk1": "Поточно, Abdulvahap Kocak го убил иранскиот дисидент Mas’ud Molavi Vardanjani, дело за кое има обвинение во Турција.",
+      "mk2": "Поточно, Abdulvahap Kocak го убил иранскиот дисидент Mas’ud Molavi Vardanjani, дело за кое има обвинение во Турција.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        58,
+        59
+      ],
+      "mk2_char_span": [
+        4867,
+        4983
+      ],
+      "evidence": {
+        "token_count": 18,
+        "references_preserved": true,
+        "neighbor_window": [
+          67,
+          67
+        ],
+        "atom_window": [
+          58,
+          59
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 68,
+      "en": "Therefore, Abdulvahap Kocak is associated with Naji Zindashti and the Zindashti Network that are responsible for serious human rights violations or abuses, including extrajudicial, summary or arbitrary killings.",
+      "mk1": "Затоа, Abdulvahap Kocak се поврзува со Naji Zindashti и Zindashti Network кои се одговорни за сериозни кршења и злоупотреби на човековите права, вклучително и вонсудски, брзи или произволни убиства.",
+      "mk2": "Затоа, Abdulvahap Kocak се поврзува со Naji Zindashti и со Zindashti Network, кои се одговорни за сериозни кршења прекршувања и злоупотреби на човековите права, вклучително и вонсудски, брзи или произволни убиства. Тој",
+      "score": 0.9533169533169533,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        59,
+        60
+      ],
+      "mk2_char_span": [
+        4984,
+        5202
+      ],
+      "evidence": {
+        "token_count": 56,
+        "references_preserved": true,
+        "neighbor_window": [
+          68,
+          69
+        ],
+        "atom_window": [
+          59,
+          60
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 69,
+      "en": "He is also responsible for serious human rights violations or abuses outside of Iran, in particular extrajudicial, summary or arbitrary killings.",
+      "mk1": "Тој исто така е одговорен за сериозно кршење или злоупотреба на човековите права надвор од Иран, особено за вонсудски, брзи или произволни убиства.",
+      "mk2": ", исто така, е одговорен за сериозно кршење прекршување или злоупотреба на човековите права надвор од Иран, особено за вонсудски, брзи или за произволни убиства.",
+      "score": 0.9364548494983278,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        59,
+        60
+      ],
+      "mk2_char_span": [
+        5202,
+        5363
+      ],
+      "evidence": {
+        "token_count": 56,
+        "references_preserved": true,
+        "neighbor_window": [
+          68,
+          69
+        ],
+        "atom_window": [
+          59,
+          60
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 70,
+      "en": "Ali ESFANJANI",
+      "mk1": "Ali ESFANJANI",
+      "mk2": "15.7.2025 година 128. Ali ESFANJANI",
+      "score": 0.5531914893617021,
+      "status": "UNMATCHED",
+      "cardinality": "1:N",
+      "mk2_span": [
+        60,
+        63
+      ],
+      "mk2_char_span": [
+        5364,
+        5399
+      ],
+      "evidence": {
+        "token_count": 7,
+        "references_preserved": true,
+        "neighbor_window": [
+          70,
+          70
+        ],
+        "atom_window": [
+          60,
+          63
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 71,
+      "en": "علی اسفنجانی",
+      "mk1": "علی اسفنجانی",
+      "mk2": "علی اسفنجانی",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        63,
+        64
+      ],
+      "mk2_char_span": [
+        5400,
+        5412
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          71,
+          71
+        ],
+        "atom_window": [
+          63,
+          64
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 72,
+      "en": "DOB:",
+      "mk1": "Датум на раѓање:",
+      "mk2": "(пПерсиски правопис) Датум на",
+      "score": 0.38095238095238093,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        64,
+        66
+      ],
+      "mk2_char_span": [
+        5413,
+        5443
+      ],
+      "evidence": {
+        "token_count": 8,
+        "references_preserved": true,
+        "neighbor_window": [
+          72,
+          73
+        ],
+        "atom_window": [
+          64,
+          66
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 73,
+      "en": "15.8.1985",
+      "mk1": "15.8.1985",
+      "mk2": "раѓање: 15.8.1985",
+      "score": 0.72,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        64,
+        66
+      ],
+      "mk2_char_span": [
+        5443,
+        5460
+      ],
+      "evidence": {
+        "token_count": 8,
+        "references_preserved": true,
+        "neighbor_window": [
+          72,
+          73
+        ],
+        "atom_window": [
+          64,
+          66
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 74,
+      "en": "As part of a plot by the Iranian Ministry of Intelligence and Security (MOIS) and the Zindasthi Network, Ali Esfanjani befriended Iranian dissident Mas’ud Molavi Vardanjani, fed the MOIS information about him and led him to the place where he was killed by Abdulvahap Kocak.",
+      "mk1": "Како дел од заговор на иранското Министерство за разузнавање и безбедност (МОИС) и Zindasthi Network, Ali Esfanjani се спријателил со иранскиот дисидент Mas’ud Molavi Vardanjani, му дал на МОИС информации за него и го одвел до местото каде што бил убиен од Abdulvahap Kocak.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 75,
+      "en": "As such, Ali Esfanjani is associated with Naji Zindashti and the Zindashti Network that are responsible for serious human rights violations or abuses, including extrajudicial, summary or arbitrary killings.",
+      "mk1": "Како таков, Ali Esfanjani се поврзува со Naji Zindashti и Zindashti Network кои се одговорни за сериозни кршења или злоупотреби на човековите права, вклучително и вонсудски, брзи или произволни убиства.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 76,
+      "en": "He is also directly involved in an extrajudicial, summary or arbitrary killing by assisting in, preparing or facilitating that killing.",
+      "mk1": "Тој исто така е директно вклучен во вонсудски, брзи или произволни убиства со тоа што помагал, го подготвувал или олеснувал убиството.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 77,
+      "en": "Ali KOCAK",
+      "mk1": "Ali KOCAK",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 78,
+      "en": "Adiyaman Kahta,",
+      "mk1": "Adiyaman Kahta,",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 79,
+      "en": "Türkiye",
+      "mk1": "Турција",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 80,
+      "en": "Ali Kocak is Abdulvahap Kocak’s brother and an associate of the Zindashti Network.",
+      "mk1": "Ali Kocak е брат на Abdulvahap Kocak и соработник на Zindashti Network.",
+      "mk2": "",
+      "score": 0.24444444444444444,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 81,
+      "en": "Ali Kocak conducted surveillance on Iranian Gem TV owner, Saeed Karimian, prior to his killing and is suspected of being responsible for the killing itself.",
+      "mk1": "Ali Kocak вршел надзор наиранскиот сопственик на Gem TV, Saeed Karimian,, пред неговото убиство и се сомничи дека е одговорен за самото убиство.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 82,
+      "en": "Therefore, Ali Kocak is involved in serious human rights violations or abuses, by assisting in, preparing and facilitating extrajudicial, summary or arbitrary killings.",
+      "mk1": "Затоа, Ali Kocak е вмешан во сериозни кршења и злоупотреби на човекови права, со помагање, подготовка и олеснување на вонсудски, брзи и произволни убиства.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 83,
+      "en": "Furthermore, Ali Kocak is formally Naji Zindashti’s driver.",
+      "mk1": "Исто така, Ali Kocak службено е шофер на Naji Zindashti.",
+      "mk2": "",
+      "score": 0.2653061224489796,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 84,
+      "en": "Ali Kocak is therefore associated with Naji Zindashti and the Zindasthi Network that are responsible for serious human rights violations or abuses, including extrajudicial, summary or arbitrary killings.",
+      "mk1": "Затоа Ali Kocak се поврзува со Naji Zindashti и Zindashti Network кои се одговорни за сериозни кршења или злоупотреби на човековите права, вклучително и вонсудски, брзи или произволни убиства.",
+      "mk2": "",
+      "score": 0.26691042047531993,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 85,
+      "en": "Ekrem Abdulkerym OZTUNC a.k.a. Ekrem ÖZTUNÇ",
+      "mk1": "Ekrem Abdulkerym OZTUNC познат како Ekrem ÖZTUNÇ",
+      "mk2": "",
+      "score": 0.07492795389048991,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 86,
+      "en": "7.10.1984",
+      "mk1": "7.10.1984 година",
+      "mk2": "",
+      "score": 0.030864197530864196,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 87,
+      "en": "Yuksekova, Türkiye",
+      "mk1": "Adiyaman, Турција",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 88,
+      "en": "Address:",
+      "mk1": "Адреса:",
+      "mk2": "",
+      "score": 0.22608695652173913,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 89,
+      "en": "Orumiyeh, West Azerbaijan, Iran",
+      "mk1": "Orumiyeh, West Azerbaijan, Иран",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 90,
+      "en": "Ekrem Oztunc is a nephew of Naji Zindashti and a close Zindashti Network associate.",
+      "mk1": "Ekrem Oztunc е внук на Naji Zindashti и близок соработник на Zindashti Network.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 91,
+      "en": "He has played a pivotal role in relaying, through encrypted channels, the orders to kill during the Network’s assassination attempts.",
+      "mk1": "Тој имал клучна улога во пренесувањето на налозите за убиства,преку шифрирани канали, во текот на обидите за убиство од страна на Zindashti Network.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 92,
+      "en": "As such, Ekrem Oztunc is associated with Naji Zindashti and the Zindashti Network, as well as responsible for planning, ordering, assisting in or facilitating extrajudicial, summary or arbitrary executions and killings and enforced disappearance of persons, which constitute serious human rights violations or abuses.",
+      "mk1": "Како таков, Ekrem Oztunc е поврзан со Naji Zindashti и Zindashti Network, како и одговорен за планирање, наредување, помагање или олеснување на вонсудски, брзи или произволни егзекуции и убиства и присилно исчезнување на лица, што претставуваат сериозни кршења или злоупотреби на човековите права.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 93,
+      "en": "Mohammed Reza ANSARI",
+      "mk1": "Mohammed Reza ANSARI",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 94,
+      "en": "Mohammed Ansari is the leader of the Islamic Revolutionary Guard Corps (IRGC) Quds Force Unit 840.",
+      "mk1": "Mohammed Ansari е водич на Quds Force Единицата 840 на Исламската револуционерна гарда (Islamic Revolutionary Guard Corps (IRGC)).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 95,
+      "en": "He ordered the assassination of journalists critical of the Iranian regime, including two journalists of Iran International.",
+      "mk1": "Тој нарачал убиство на новинари критичари на иранскиот режим, вклучително и двајца новинари на организацијта Iran International.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 96,
+      "en": "Mohammed Ansari is therefore responsible for planning, assisting in, preparing and facilitating extrajudicial killings, which constitute serious human rights violations or abuses.",
+      "mk1": "Со тоа, Mohammed Ansari е договорен за планирање, наредување, помагање или олеснување на вонсудски, брзи или произволни убиства, што претставуваат сериозни кршења или злоупотреби на човековите.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 97,
+      "en": "Nihat Abdul Kadir ASAN a.k.a. ASAN, Nihat",
+      "mk1": "Nihat Abdul Kadir ASAN познат како ASAN, Nihat",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 98,
+      "en": "ASAN, Nihat Abdulkadir",
+      "mk1": "ASAN, Nihat Abdulkadir",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 99,
+      "en": "EBRAHIMIHARKIAN, Ramin",
+      "mk1": "EBRAHIMIHARKIAN, Ramin",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 100,
+      "en": "KURD, Ibrahim",
+      "mk1": "KURD, Ibrahim",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 101,
+      "en": "ASHAN, Nihat",
+      "mk1": "ASHAN, Nihat",
+      "mk2": "",
+      "score": 0.3291139240506329,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 102,
+      "en": "BAHTIYAR",
+      "mk1": "BAHTIYAR",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 103,
+      "en": "1.10.1981 or 11.11.1981",
+      "mk1": "1.10.1981 година или 11.11.1981 година",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 104,
+      "en": "Van, Türkiye",
+      "mk1": "Van, Турција",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 105,
+      "en": "2751062326 (Iran)",
+      "mk1": "2751062326 (Иран)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 106,
+      "en": "Passport:",
+      "mk1": "Пасош:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 107,
+      "en": "U13927927 (Türkiye)",
+      "mk1": "U13927927 (Турција)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 108,
+      "en": "Nihat Asan is a close Zindashti Network associate, who has played a pivotal role in logistical planning for many of the network’s assassination attempts.",
+      "mk1": "Nihat Asan е близок соработник на Zindashti Network, кој имал клучна улога во логистичко планирање на многу обиди за убиство од страна на Zindashti Network.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 109,
+      "en": "As such, Asan is associated with Naji Zindashti and the Zindashti Network.",
+      "mk1": "Како таков, Asan се поврзува со Naji Zindashti и Zindashti Network.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 110,
+      "en": "He is also responsible for planning, ordering, assisting in or facilitating extrajudicial, summary or arbitrary executions and killings, which constitute serious human rights violations or abuses.",
+      "mk1": "Тој е исто така одоговорен за планирање решение, наредување, помагање или брзи или произволни егзекуции и убиства, што претставуваат сериозни кршења или злоупотреби на човековите права.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 111,
+      "en": "Reza HAMIDIRAVARI a.k.a. Reza HAMIDI RAVARI",
+      "mk1": "Reza HAMIDIRAVARI познат како Reza HAMIDI RAVARI",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 112,
+      "en": "رضا حمیدی راوری",
+      "mk1": "رضا حمیدی راوری",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 113,
+      "en": "31.10.1963",
+      "mk1": "31.10.1963 година",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 114,
+      "en": "Reza Hamidiravari is an intelligence officer working for the Iranian Ministry of Intelligence (MOIS).",
+      "mk1": "Reza Hamidiravari е службеник за разузнавање кој работи во иранското Министерство за разузнавање (МОИС).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 115,
+      "en": "He oversees Naji Zindashti’s MOIS-directed operations, including the killing of dissidents and critics of the Iranian regime.",
+      "mk1": "Тој ги надгледува операциите на Naji Zindashti кои ги управува МОИС, вклучително и убивањето на дисиденти и критичари на иранскиот режим.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 116,
+      "en": "As such, Reza Hamidiravari is associated with Naji Zindashti and the Zindashti Network, that are responsible for serious human rights violations or abuses, including extrajudicial, summary or arbitrary killings.",
+      "mk1": "Како таков, Reza Hamidiravari се поврзува со Naji Zindashti и Zindashti Network кои се одговорни за сериозни кршења или злоупотреби на човекови права, вклучително и вонсудски, брзи или произволни убиства.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 117,
+      "en": "15.7.2025’",
+      "mk1": "15.7.2025 година“",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 118,
+      "en": "the following entry is added to the list of natural and legal persons, entities and bodies under heading ‘B. Legal persons, entities and bodies’:",
+      "mk1": "следниот внес се додава на списокот на физички и правни лица, субјекти и тела во наслов „Б. Правни лица, субјекти и тела“:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 119,
+      "en": "The Zindashti Network a.k.a. Zindashti’s criminal network",
+      "mk1": "Zindashti Network позната како криминална мрежа на Zindashti",
+      "mk2": "",
+      "score": 0.3076923076923077,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 120,
+      "en": "Zindashti criminal organisation",
+      "mk1": "Криминална организација Zindashti",
+      "mk2": "",
+      "score": 0.3106796116504854,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 121,
+      "en": "Date of registration:",
+      "mk1": "Датум на регистрација:",
+      "mk2": "",
+      "score": 0.4406779661016949,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 122,
+      "en": "18.8.1983",
+      "mk1": "18.8.1983 година",
+      "mk2": "",
+      "score": 0.3384615384615385,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 123,
+      "en": "Principal place of activities:",
+      "mk1": "Седиште на активност:",
+      "mk2": "",
+      "score": 0.4,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 124,
+      "en": "Iran, Türkiye, Europe",
+      "mk1": "Иран, Турција, Европа",
+      "mk2": "",
+      "score": 0.1792452830188679,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 125,
+      "en": "Associated individuals:",
+      "mk1": "Поврзани лица:",
+      "mk2": "",
+      "score": 0.215311004784689,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 126,
+      "en": "Naji Ibrahim Sharifi-Zindashti, Reza Hamidiravari, Nihat Abdul Kadir Asan, Ekrem Abdulkerym Oztunc, Ali Esfanjani, Ali Kocak, Abdulvahap Kocak",
+      "mk1": "Naji Ibrahim Sharifi-Zindashti, Reza Hamidiravari, Nihat Abdul Kadir Asan, Ekrem Abdulkerym Oztunc, Ali Esfanjani, Ali Kocak, Abdulvahap Kocak",
+      "mk2": "",
+      "score": 0.23647294589178355,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 127,
+      "en": "Other associated entities:",
+      "mk1": "Други поврзани субјекти:",
+      "mk2": "",
+      "score": 0.22849083215796898,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 128,
+      "en": "Iran’s Ministry of Intelligence and Security (MOIS), the Islamic Revolutionary Guard Corps (IRGC)",
+      "mk1": "Иранското министерство за разузнавање и безбедност (МОИС), Исламската револуционерна гарда (Islamic Revolutionary Guard Corps (IRGC))",
+      "mk2": "",
+      "score": 0.3352601156069364,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 129,
+      "en": "The Zindashti Network is a criminal group that has carried out numerous acts of transnational repression including assassinations outside of Iran.",
+      "mk1": "Zindashti Network е криминална група која има извршено бројни акти на транснационална репресија вклучително и атентати надвор од Иран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 130,
+      "en": "The Zindashti Network is led by Iranian narcotics trafficker Naji Sharifi-Zindashti and is connected to the Iranian Ministry of Intelligence and Security (MOIS), which is the branch of the Iranian government tasked, inter alia, with kidnapping as well as assassinating persons critical of the actions or policies of the Islamic Republic of Iran, or persons otherwise deemed to be opponents of the Islamic Republic of Iran by the Islamic Republic of Iran.",
+      "mk1": "Zindashti Network ја води иранскиот тровец со дрога Naji Sharifi-Zindashti и се поврзува со Министерството за разузнавање и безбедност на Иран (МОИС), кое е погранок на Владата на Иран со задача, меѓу другото, да извршува убиства врз лица кои ги критикуваат дејствата или политиките на Исламската Република Иран, или на лица кои на друг начин се сметаат за противници на Исламската Република Иран од страна на Исламската Република Иран.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 131,
+      "en": "Therefore, the Zindashti Network is responsible for serious human rights violations or abuses outside of Iran, in particular extrajudicial, summary or arbitrary executions and killings and enforced disappearance of persons.",
+      "mk1": "Затоа, Zindashti Network е одговорна за сериозно кршење или злоупотреба на човековите права надвор од Иран, особено за вонсудски, брзи или произволни егзекуции и убиства и присилно исчезнување на лица.",
+      "mk2": "",
+      "score": 0.125,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 132,
+      "en": "of 15 December 2025",
+      "mk1": "од 15 декември 2025 година",
+      "mk2": "",
+      "score": 0.21621621621621623,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 133,
+      "en": "amending Decision (CFSP) 2022/2319 concerning restrictive measures in view of the situation in Haiti",
+      "mk1": "за изменување на Одлуката (ЗНБП) 2022/2319 за рестриктивни мерки во однос на состојбата во Хаити",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 134,
+      "en": "(1) On 25 November 2022, the Council adopted Decision (CFSP) 2022/2319 ().",
+      "mk1": "(1) На 25 ноември 2022 година, Советот ја донесе Одлуката (ЗНБП) 2016/2319 ().",
+      "mk2": "",
+      "score": 0.22950819672131148,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 135,
+      "en": "Council Decision (CFSP) 2022/2319 of 25 November 2022 concerning restrictive measures in view of the situation in Haiti (OJ L 307, 28.11.2022, p. 135, ELI: http://data.europa.eu/eli/dec/2022/2319/oj).",
+      "mk1": "Одлука (ЗНБП) 2022/2319 на Советот од 25 ноември 2022 година за рестриктивни мерки во однос на состојбата во Хаити (Сл. весник L 307, 28.11.2022 година, стр. 135, ELI: http://data.europa.eu/eli/dec/2022/2319/oj).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 136,
+      "en": "(2) On 28 July 2023, the Council adopted Decision (CFSP) 2023/1574 (), which amended Decision (CFSP) 2022/2319, thereby establishing a dedicated framework for targeted restrictive measures against natural or legal persons, entities or bodies responsible for actions that threaten the peace, stability and security of Haiti and for actions that undermine democracy or the rule of law in Haiti, as well as against natural or legal persons, entities or bodies associated with them.",
+      "mk1": "(2) На 28 јули 2023 година, Советот ја усвои Одлуката (ЗНБП) 2023/1574 (), со која се измени Одлуката (ЗНБП) 2022/2319, со што се воспостави наменска рамка за насочени рестриктивни мерки против физички или правни лица, субјекти или тела одговорни за дејствија што го загрозуваат мирот, стабилноста и безбедноста на Хаити и за дејствија што ја поткопуваат демократијата или владеењето на правото во Хаити, како и против физички или правни лица, субјекти или тела поврзани со нив.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 137,
+      "en": "Council Decision (CFSP) 2023/1574 of 28 July 2023 amending Decision (CFSP) 2022/2319 concerning restrictive measures in view of the situation in Haiti (OJ L 192, 31.7.2023, p. 21, ELI: http://data.europa.eu/eli/dec/2023/1574/oj).",
+      "mk1": "() Одлука на Советот (ЗНБП) 2023/1574 од 28 јули 2023 година за изменување на Одлуката (ЗНБП) 2022/2319 за рестриктивни мерки поради ситуацијата во Хаити (Сл. весник L 192, 31.7.2023 година, стр. 21, ELI: http://data.europa.eu/eli/dec/2023/1574/oj).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 138,
+      "en": "(3) In its conclusions of 17 October 2024, the European Council stated that it remained extremely concerned about the situation in Haiti and called for new targeted sanctions against individuals and entities responsible for violence, with the objective of helping to restore peace, security, stability, democracy and the rule of law in Haiti.",
+      "mk1": "(3) Во своите заклучоци од 17 октомври 2024 година, Европскиот совет изјави дека останува исклучително загрижен за ситуацијата во Хаити и повика на нови целни санкции против поединци и субјекти одговорни за насилство, со цел да се помогне во враќањето на мирот, безбедноста, стабилноста, демократијата и владеењето на правото во Хаити.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 139,
+      "en": "(4) In view of the deteriorating political, economic, security and humanitarian situation in Haiti, including the results of the escalating gang violence, the unremitting serious human rights abuses committed by gangs, and the continuing impunity for the perpetrators, three individuals and one entity should be added to the list of natural and legal persons, entities and bodies subject to restrictive measures set out in Annex II to Decision (CFSP) 2022/2319.",
+      "mk1": "(4) Со оглед на влошувањето на политичката, економската, безбедносната и хуманитарната ситуација во Хаити, вклучувајќи ги и резултатите од ескалацијата на насилството меѓу бандите, непрекинатите сериозни злоупотреби на човековите права извршени од бандите и континуираната неказнивост на сторителите, три лица и еден субјект треба да се додадат на списокот на физички и правни лица, субјекти и тела кои подлежат на рестриктивни мерки наведени во Анекс II на Одлуката (ЗНБП) 2022/2319.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 140,
+      "en": "Annex II to Decision (CFSP) 2022/2319 is amended in accordance with the Annex to this Decision.",
+      "mk1": "Анекс II кон Одлуката (ЗНБП) 2022/2319 се изменува во согласност со Анексот кон оваа одлука.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 141,
+      "en": "Done at Brussels, 15 December 2025.",
+      "mk1": "Брисел, 15 декември 2025 година.",
+      "mk2": "",
+      "score": 0.3870967741935484,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 142,
+      "en": "Annex II to Decision (CFSP) 2022/2319 is amended as follows:",
+      "mk1": "Анекс II кон Одлуката (ЗНБП) 2022/2319 се изменува како што следува:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 143,
+      "en": "under the heading ‘A. List of natural persons referred to in Article 2a(1) and in Article 3a(1)’, the following entries are added:",
+      "mk1": "во насловот „А. Список на физички лица наведени во член 2a(1) и во член 3a(1)“, се додаваат следните внесови:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 144,
+      "en": "Name",
+      "mk1": "Име",
+      "mk2": "",
+      "score": 0.33766233766233766,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 145,
+      "en": "Statement of reasons",
+      "mk1": "Образложение",
+      "mk2": "",
+      "score": 0.2972972972972973,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 146,
+      "en": "Date of listing",
+      "mk1": "Датум на внесување во список",
+      "mk2": "",
+      "score": 0.19230769230769232,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 147,
+      "en": "Michel Joseph MARTELLY",
+      "mk1": "Michel Joseph MARTELLY",
+      "mk2": "",
+      "score": 0.14671814671814673,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 148,
+      "en": "a.k.a. Sweet Micky",
+      "mk1": "познат како Sweet Micky",
+      "mk2": "",
+      "score": 0.1444141689373297,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 149,
+      "en": "Function: former President of Haiti (2011-2016); former President of the CARICOM (January 2023-July 2023)",
+      "mk1": "Функција: поранешен претседател на Хаити (2011-2016 година); поранешен претседател на CARICOM (јануари 2023 година - јули 2023 година)",
+      "mk2": "",
+      "score": 0.1792717086834734,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 150,
+      "en": "Michel Martelly, the former President of the Republic of Haiti (2011-2016), participated directly in the creation of the gang Base 257.",
+      "mk1": "Michel Martelly, поранешен претседател на Република Хаити (2011-2016 година), учествувал директно во создавањето на бандата Base 257.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 151,
+      "en": "He financed, sponsored and supported several gangs, in particular Base 257, but also Village de Dieu, Ti Bois and Grand Ravine, to defend his economic interests, advance his political agenda and control territories, notably by providing them with firearms and guns.",
+      "mk1": "Тој финансирал, спонзорирал и поддржувал неколку банди, особено Base 257, но и illage de Dieu, Ti Bois and Grand Ravine, за да ги брани своите економски интереси, да ја унапреди својата политичка агенда и да контролира територии, особено со тоа што им обезбедувал огнено оружје и пушки.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 152,
+      "en": "By financing those groups, he is also responsible for the abuses they have committed and has therefore contributed financially to insecurity and instability in Haiti.",
+      "mk1": "Со тоа што ги финансирал тие групи, тој е исто така одговорен за злоупотребите кои ги извршиле и со тоа придонел финансиски кон нарушување на безбедноста и стабилноста во Хаити.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 153,
+      "en": "Therefore, Michel Martelly is responsible for actions that threaten the peace, stability and security of Haiti.",
+      "mk1": "Затоа, Michel Martelly е одговорен за дејствија кои ги загрозуваат мирот, стабилноста и безбедноста во Хаити.",
+      "mk2": "",
+      "score": 0.21428571428571427,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 154,
+      "en": "15.12.2025",
+      "mk1": "15.12.2025 година",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 155,
+      "en": "Youri LATORTUE",
+      "mk1": "Youri LATORTUE",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 156,
+      "en": "Function: former advisor to the President Michel Martelly (2011-2016); former President of the Senate (2017-2018); former senator of the Artibonite department; coordinator of the party “L’Ayiti an Aksyon” (AAA), previously known as “L’Artibonite en Action” (LAAA)",
+      "mk1": "Функција: поранешен советник на претседателот Michel Martelly (2011-2016 година); поранешен претседател на Сенатот (2017-2018 година); поранешен сенатор на одделот Artibonite; координатор на партијата „L’Ayiti an Aksyon“ (AAA), претходно позната како „L’Artibonite en Action“ (LAAA)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 157,
+      "en": "Youri Latortue is the founder of the political party “L’Ayiti an Aksyon” (AAA), a former senator of the Artibonite department, and a former advisor to the President Michel Martelly during his presidency (2011-2016).",
+      "mk1": "Youri Latortue е основач на политичката партија „L’Ayiti an Aksyon“ (AAA), поранешен сенатор на одделот Artibonite и поранешен советник на претседателот Michel Martelly за време на неговото претседателствување (2011-2016 година).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 158,
+      "en": "He also served as president of the Senate from 13 January 2017 to 9 January 2018.",
+      "mk1": "Тој, исто така, беше претседател на Сенатот од 13 јануари 2017 до 9 јануари 2018 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 159,
+      "en": "Youri Latortue has armed and financed the “Raboteau” and “Kokorat San Ras” gangs, to promote his political agenda and defend his personal and economic interests, notably in the Artibonite department.",
+      "mk1": "Youri Latortue ги вооружувал и финансирал бандите „Raboteau“ и „Kokorat San Ras“, за да ја промовира својата политичка агенда и да ги брани своите лични и економски интереси, особено во одделот Artibonite.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 160,
+      "en": "Those gangs are still active today, engaging in kidnapping and racketeering, among other activities.",
+      "mk1": "Тие банди и ден денес се активни, извршувајќи киднапирања и рекетарство, помеѓу другите дејствија.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 161,
+      "en": "Therefore, Youri Latortue is indirectly responsible for actions that threaten the peace, stability and security of Haiti.",
+      "mk1": "Затоа, Youri Latortue е индиректно одговорен за дејствија кои ги загрозуваат мирот, стабилноста и безбедноста во Хаити.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 162,
+      "en": "Rony CELESTIN",
+      "mk1": "Rony CELESTIN",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 163,
+      "en": "a.k.a. Rony APPOLON",
+      "mk1": "познат како Rony APPOLON",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 164,
+      "en": "Function: former deputy (2011-2017); former senator (2017-2023)",
+      "mk1": "Функција: поранешен заменик (2011-2017 година); поранешен сенатор (2017-2023 година)",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 165,
+      "en": "Rony Celestin, a former senator of Haiti, is involved in violence linked to armed groups and smuggling.",
+      "mk1": "Rony Celestin, поранешен сенатор на Хаити, е вмешан во насилство поврзано со вооружени групи и шверц.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 166,
+      "en": "He has notably been held responsible for orchestrating the murder of the journalist Néhémie Joseph, who exposed his illegal activities and corruption.",
+      "mk1": "Тој е особено одговорен за организирање на убиството на новинарот Néhémie Joseph, кој ги разоткрил неговите нелегални активности и корупција.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 167,
+      "en": "Therefore, Rony Celestin is indirectly responsible for actions that threaten the peace, stability and security of Haiti.",
+      "mk1": "Затоа, Rony Celestin е индиректно одговорен за дејствија што го загрозуваат мирот, стабилноста и безбедноста на Хаити.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 168,
+      "en": "15.12.2025’",
+      "mk1": "15.12.2025 година“",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 169,
+      "en": "under the heading ‘B. List of legal persons, entities and bodies referred to in Article 3a(1)’, the following table and entry are added:",
+      "mk1": "во насловот „Б. Список на правни лица, субјекти и тела наведени во член 3a(1)“, се додаваат следната табела и внес:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 170,
+      "en": "Date of listing",
+      "mk1": "Датум на внесување на список",
+      "mk2": "",
+      "score": 0.22727272727272727,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 171,
+      "en": "5 Segond gang",
+      "mk1": "Банда 5 Segond",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 172,
+      "en": "Haitian gang based in the “Village de Dieu” neighbourhood in Port-au-Prince",
+      "mk1": "Хаитичка банда со седиште во населбата „Village de Dieu“ во Port-au-Prince",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 173,
+      "en": "The 5 Segond gang is a powerful gang in Haiti, based in the Village de Dieu neighbourhood in Port-au-Prince.",
+      "mk1": "Бандата 5 Segond е моќна банда во Хаити, со седиште во населбата Village de Dieu во Port-au-Prince",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 174,
+      "en": "Its leader is Johnson André, a.k.a “Izo”.",
+      "mk1": "Нејзин водич е Johnson André, познат како „Izo“.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 175,
+      "en": "The 5 Segond gang was officially part of the G-Pèp gang alliance.",
+      "mk1": "Бандата 5 Segond официјално беше дел од сојузот на бандите G-Pèp.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 176,
+      "en": "In 2024, G-Pèp and its former rivals, G9 Family and Allies, formed a new coalition, Viv Ansanm, a.k.a. Living Together.",
+      "mk1": "Во 2024 година, G-Pèp и неговите поранешни соперници, G9 „Family and Allies“, формираа нова коалиција, Viv Ansanm, позната како Living Together.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 177,
+      "en": "Together, they increased attacks against state institutions and contributed to instability.",
+      "mk1": "Заедно, тие ги зголемија нападите врз државните институции и придонесоа за нестабилност.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 178,
+      "en": "The 5 Segond gang also commits theft, rape, kidnapping, murder, piracy, and extortion, obstructs humanitarian aid and engages in arms and drugs trafficking.",
+      "mk1": "Бандата 5 Segond, исто така, извршува кражби, силувања, киднапирања, убиства, пиратство и изнуда, ја попречува хуманитарната помош и се занимава со трговија со оружје и дрога.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 179,
+      "en": "Therefore, the 5 Segond gang is responsible for actions that threaten the peace, stability and security of Haiti.",
+      "mk1": "Затоа, бандата 5 Segond е одговорна за дејствија кои ги загрозуваат мирот, стабилноста и безбедноста во Хаити.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 180,
+      "en": "amending Decision (CFSP) 2024/2643 concerning restrictive measures in view of Russia’s destabilising activities",
+      "mk1": "за изменување на Одлуката (ЗНБП) 2024/2643 за рестриктивни мерки во однос на активностите на РУсија за дестабилизација",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 181,
+      "en": "(1) On 8 October 2024, the Council adopted Decision (CFSP) 2024/2643 ().",
+      "mk1": "(1) На 8 октомври 2024 година, Советот ја донесе Одлуката (ЗНБП) 2016/2643 ().",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 182,
+      "en": "Council Decision (CFSP) 2024/2643 of 8 October 2024 concerning restrictive measures in view of Russia’s destabilising activities (OJ L, 2024/2643, 9.10.2024, ELI: http://data.europa.eu/eli/dec/2024/2643/oj).",
+      "mk1": "Одлука (ЗНБП) 2024/2643 на Советот од 8 октомври 2024 година за рестриктивни мерки во однос на активностите на Русија за дестабилизација (Сл. весник L, 2024/2643, 9.10.2024 година, ELI: http://data.europa.eu/eli/dec/2024/2643/oj).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 1,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32025D1397",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL DECISION (CFSP) 2025/1397 of 15 July 2025 amending Decision (CFSP) 2020/1999 concerning restrictive measures against serious human rights violations and abuses",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2025/1397 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 15 јули 2025 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката (ЗНБП) 2020/1999 за рестриктивни мерки против сериозни прекршувања и злоупотреби на човекови права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Рестриктивни мерки, човекови права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Ангела Николова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "12.2.2026 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула (3)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "disident",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "дисидент",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://makedonski.gov.mk/corpus/l/disident-m",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32025D1397",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COUNCIL DECISION (CFSP) 2025/1397 of 15 July 2025 amending Decision (CFSP) 2020/1999 concerning restrictive measures against serious human rights violations and abuses",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОДЛУКА (ЗНБП) 2025/1397 НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 15 јули 2025 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за изменување на Одлуката (ЗНБП) 2020/1999 за рестриктивни мерки против сериозни прекршувања и злоупотреби на човекови права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Рестриктивни мерки, човекови права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Павлова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Human rights violations",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Кршења на човековите права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прекршувања на човековите права",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.coe.int/mk/web/compass/questions-and-answers-about-human-rights",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Одлука (ЗНБП) 2020/1999 на Советот, од 7 декември 2020 година, за рестриктивни мерки против сериозни повреди прекршувања и злоупотреби на човековите права (Сл. весник I, 7.12.2020 година, стр. 13, ELI http://data.europa.eu/eli/dec/2020/1999/oj).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 7,
+        "text": "Одлука (ЗНБП) 2020/1999 на Советот, од 7 декември 2020 година, за рестриктивни мерки против сериозни повреди прекршувања и злоупотреби на човековите права (Сл. весник I, 7.12.2020 година, стр. 13, ELI http://data.europa.eu/eli/dec/2020/1999/oj)."
+      }
+    ]
+  },
+  "dry_run": true
+}

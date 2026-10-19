@@ -1,0 +1,56 @@
+{
+  "classification": "PARTIAL",
+  "phase6c7_pass": false,
+  "files": {
+    "sdlxliff": {"sha256":"2c00162dd6545a51f23fcbf1fe2df8c60a11ac0d4c95abd67614703517ad5639","byte_size":282648,"persisted_identity_match":true},
+    "docx": {"sha256":"0cfaa6d001f2f11a102298badc596880a5dbc6a27a75b4addf534535b6972ede","byte_size":887584,"persisted_identity_match":true}
+  },
+  "sdlxliff": {
+    "structurally_valid": true,
+    "trans_units": 271,
+    "translated_targets": 265,
+    "empty_structural_page_break_units": 6,
+    "target_mismatches": 0,
+    "canonical_order": "PASS",
+    "studio_skeleton_exact_after_target_removal": true,
+    "protected_codes": 3,
+    "protected_code_issues": 0,
+    "replacement_characters": 0,
+    "source_identical_targets": 43,
+    "source_identical_target_classification": "dates, OJ page identifiers, language markers, numbering markers and em dashes; no untranslated lexical TU found"
+  },
+  "docx": {
+    "zip_crc": "PASS",
+    "required_parts": "PASS",
+    "mapped_translation_units": 265,
+    "unique_mapped_translation_units": 265,
+    "paragraphs": 273,
+    "tables": 3,
+    "rows": 48,
+    "cells": 100,
+    "page_breaks": 6,
+    "sections": 1,
+    "non_document_parts_unchanged": true,
+    "ordered_text_mismatches": 3,
+    "issues": [
+      {"ordinal":158,"tu_id":"tu-1d6b6715f26ec06e48647069","expected_line_breaks":1,"actual_line_breaks":2},
+      {"ordinal":159,"tu_id":"tu-7bf505c2a900f9a86b97de59","expected_line_breaks":1,"actual_line_breaks":2},
+      {"ordinal":160,"tu_id":"tu-edbd0025cb74eda0d259f0f4","expected_line_breaks":1,"actual_line_breaks":2}
+    ],
+    "root_cause": "The renderer inserts a w:br for the protected newline into the first w:t while retaining the original source paragraph w:br, producing two line breaks."
+  },
+  "database_and_lineage": {
+    "generation_id":"0aef4e29-711a-4cd1-9e9d-1d3f4bc560a2",
+    "run_id":"7ec58b3d-5829-48da-83e5-9146097dc06b",
+    "generation_completed":true,
+    "run_available":true,
+    "checkpoints":27,
+    "translations":265,
+    "source_checkpoint_differences":0,
+    "source_translation_differences":0,
+    "idempotency":"PASS",
+    "historical_failures_preserved":true,
+    "additional_provider_calls":0
+  },
+  "remaining_blocker": "Correct the deterministic DOCX line-break serialization and create a new immutable recovered output; do not mutate the current artifacts."
+}

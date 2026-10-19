@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20260209T220453Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32025D2572_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32025D2580</prop>
+    <prop type="x-SourceTMX">32025D2580_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">fcaf2c715f1af05c8fa5505318f63656ad33b5b23914736dfa22807ee12f3781</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">10</prop>
+  </header>
+  <body>
+    <tu creationdate="20260702T193129Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T213210Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260212T210042Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4471331182894851081, 2260364519024842378</prop>
+      <prop type="x-ContextContent">COUNCIL DECISION (CFSP) 2025/2572 |  | ОДЛУКА (ЗНБП) 2025/2572 НА СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 15 December 2025</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 15 декември 2025 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2580</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20140523T085004Z" creationid="PC" changedate="20260206T214017Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260206T214017Z">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-ContextContent">THE COUNCIL OF THE EUROPEAN UNION, |  | СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on European Union, and in particular Article 29 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ајќи го предвид договорот на Европската Унија, а особено член 29 од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2580</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220307T054356Z" creationid="PC" changedate="20260206T214030Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260206T214030Z">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">4008922428764593819, -8062861699121218956</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on European Union, and in particular Article 29 thereof, |  | имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни прашања и безбедносна политика,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2580</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T113544Z" creationid="PC" changedate="20221112T231020Z" changeid="PC" lastusagedate="20260212T210042Z" usagecount="2">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">-8631726672236812065, -2433922510656597551</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy, |  | имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика, | </prop>
+      <prop type="x-Context">-8631726672236812065, -2490919856072377577</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy, |  | имајќи ги предвид предлозите на Високиот претставник на Унијата за надворешни работи и безбедносна политика, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2580</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T194714Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T214724Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260207T214724Z">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3687377442503793823, -1858572050776045875</prop>
+      <prop type="x-ContextContent">This Decision shall enter into force on the date of its publication in the Official Journal of the European Union. | AgJLAQEBAQMxNzUBJgIBAQMxNzUB | Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија. | AgIyAQEBAQMxNzUBMwIBAQMxNzUB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Brussels, 15 December 2025.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>нија. Брисел, 15 декември 2025 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2580</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20181024T132349Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260120T163336Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260212T210042Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6303317180498091632, 8845706617279851243</prop>
+      <prop type="x-ContextContent">Done at Brussels, 15 December 2025. |  | Брисел, 15 декември 2025 година. | </prop>
+      <prop type="x-Context">3687377442503793823, -1858572050776045875</prop>
+      <prop type="x-ContextContent">This Decision shall enter into force on the date of its publication in the Official Journal of the European Union. | AgJLAQEBAQMxNzUBJgIBAQMxNzUB | Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија. | AgIyAQEBAQMxNzUBMwIBAQMxNzUB</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Council</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Советот</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2580</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210531T105756Z" creationid="PC" changedate="20221112T231129Z" changeid="PC" lastusagedate="20260212T210042Z" usagecount="2">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">-3648910944734109195, 136400592362229</prop>
+      <prop type="x-ContextContent">For the Council |  | За Советот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The President</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претседател</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2580</prop>
+      <prop type="x-SourceTUIndex">21</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260120T163340Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260120T163345Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260212T210042Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6451808141391308451, 4236527515880034</prop>
+      <prop type="x-ContextContent">The President |  | Претседател | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>K. KALLAS</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>К. КАЛЛАС</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2580</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210106T145202Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260120T163347Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260212T210042Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3371151275859982, 4376425407123</prop>
+      <prop type="x-ContextContent">K. KALLAS |  | К. КАЛЛАС | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2580</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221116T223028Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260122T111019Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260122T111019Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1954832224, 58177779998972</prop>
+      <prop type="x-ContextContent">15.12.2025’ |  | 15.12.2025 година“ | </prop>
+      <prop type="x-Context">5727499008081048663, -2014366117699375998</prop>
+      <prop type="x-ContextContent">Annex I to Decision (CFSP) 2024/2643 is amended as follows: |  | Анекс II кон Одлуката (ЗНБП) 2024/2643 се изменува како што следува: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(1)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(1)</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D2580</prop>
+      <prop type="x-SourceTUIndex">25</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

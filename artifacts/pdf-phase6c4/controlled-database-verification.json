@@ -1,0 +1,44 @@
+{
+  "status": "PASS",
+  "generation": {
+    "id": "0a7ca092-d639-4322-bbff-66dd5cf6725b",
+    "kind": "validated_docx_render",
+    "generation_number": 1,
+    "status": "completed",
+    "project_id": "ac1e24ca-b699-4863-ba99-f310fa220a8a",
+    "document_id": "6b8a3125-eda7-46a2-9066-9b6d619713dc",
+    "document_version_id": "74a67935-d57f-428f-aa34-d8d603ddda1e",
+    "validation_status": "PASS",
+    "source_coverage_status": "PASS",
+    "ordered_token_status": "PASS",
+    "normalized_token_count": 3389,
+    "physical_table_count": 3,
+    "row_count": 48,
+    "cell_count": 100
+  },
+  "artifacts": {
+    "model": {
+      "id": "5c09e46f-aa23-40d1-91e3-b9044a305272",
+      "type": "RECONSTRUCTION_MODEL",
+      "status": "available",
+      "processing_generation_id": "79e229f4-ad6d-47cd-a739-d955f14b8c46",
+      "sha256": "63fb1a805d02484ca9aa5d951dd441b98a0e5155dd64f08fc5f25b623ac33520",
+      "byte_size": 3184355
+    },
+    "docx": {
+      "id": "b0e8fec5-91c8-4755-87a4-ff8f6dd8d307",
+      "type": "VALIDATED_DOCX",
+      "status": "available",
+      "processing_generation_id": "0a7ca092-d639-4322-bbff-66dd5cf6725b",
+      "sha256": "2dc5da5384974468da3d1711f6194e03187274f225a9ef99dcc3027b3ee5a971",
+      "byte_size": 44034,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    }
+  },
+  "lineage": [
+    {"parent": "2a09f056-05a9-4f07-9340-6610ca1d829b", "child": "5c09e46f-aa23-40d1-91e3-b9044a305272", "type": "derived_from", "role": "source_pdf", "ordinal": 0},
+    {"parent": "5c09e46f-aa23-40d1-91e3-b9044a305272", "child": "b0e8fec5-91c8-4755-87a4-ff8f6dd8d307", "type": "rendered_from", "role": "reconstruction_model", "ordinal": 0}
+  ],
+  "idempotency_counts": {"matching_generations": 1, "validated_docx_artifacts_for_generation": 1, "lineage_edges_for_docx": 1},
+  "scope": "All rows match the controlled project, document, and document version; no cross-project rows were returned."
+}

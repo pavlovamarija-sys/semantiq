@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210727T194448Z" creationid="HP\a">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32021D0613_MK1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021D0613</prop>
+    <prop type="x-SourceTMX">32021D0613_MK1.tmx</prop>
+    <prop type="x-SourceTMXSHA256">e769fa250b5069e7a2702b589ba5f807da936ac9356fa85ff4e1634515bc1061</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">6</prop>
+  </header>
+  <body>
+    <tu creationdate="20180726T111454Z" creationid="SEI\Marija.Pavlova" changedate="20210727T194503Z" changeid="PC" lastusagedate="20210727T195435Z" usagecount="1">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL DECISION (CFSP) 2021/613</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА (ЗНБП) 2021/613 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0613</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210727T194505Z" creationid="PC" changedate="20210727T194516Z" changeid="PC" lastusagedate="20210727T195435Z" usagecount="1">
+      <prop type="x-Context">-4471331182894851081, 2260364519024842378</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 15 April 2021</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 15 април 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0613</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20171010T130545Z" creationid="SEI\Marija.Bojkova" changedate="20210727T195157Z" changeid="PC" lastusagedate="20210727T195435Z" usagecount="1">
+      <prop type="x-Context">-7154047076450727205, 7019241999193508905</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(3)	Decision (CFSP) 2016/1693 should therefore be amended accordingly,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(3)Затоа, Одлуката (ЗНБП) 2016/1693 треба соодветно да се измени,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0613</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20200120T101654Z" creationid="SEI\Marija.Bojkova" changedate="20210727T195211Z" changeid="PC" lastusagedate="20210727T195435Z" usagecount="1">
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Decision shall enter into force on the date of its publication in the Official Journal of the European Union.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 2 Оваа одлука влегува во сила на денот на нејзиното објавување во Службениот весник на Европската Унија</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0613</prop>
+      <prop type="x-SourceTUIndex">9</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210727T195212Z" creationid="PC" changedate="20210727T195224Z" changeid="PC" lastusagedate="20210727T195435Z" usagecount="1">
+      <prop type="x-Context">3687377442503793823, -1858572050776045875</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Brussels, 15 April 2021.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>. Брисел, 15 април 2021 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0613</prop>
+      <prop type="x-SourceTUIndex">10</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210727T195227Z" creationid="PC" changedate="20210727T195309Z" changeid="PC" lastusagedate="20210727T195435Z" usagecount="1">
+      <prop type="x-Context">2032267, 2032267</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The following entry is added to the list of persons, groups, undertakings and entities set out in the Annex to Decision (CFSP) 2016/1693:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>А. П. ЗАКАРИЈАС АНЕКС Следниот внес се додава во списокот на лица, групи, претпријатија и субјекти утврден во Анексот кон Одлуката (ЗНБП) 2016/1693:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0613</prop>
+      <prop type="x-SourceTUIndex">12</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

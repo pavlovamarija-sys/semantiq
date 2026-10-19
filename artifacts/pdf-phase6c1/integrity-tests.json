@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "actualByteSha256": "PASS",
+  "byteSize": "PASS",
+  "mimeValidation": "PASS",
+  "readBackVerification": "PASS",
+  "hashMismatchFailsClosed": "PASS",
+  "missingObjectFailsClosed": "PASS",
+  "newBytesRequireNewArtifactIdentity": "PASS",
+  "sameBytesDistinctGenerationsAllowed": "PASS"
+}

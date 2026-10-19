@@ -1,0 +1,1166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210904T154610Z" creationid="DESKTOP-0PMQ78B\Dane">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32021D0361_MK1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32021D0361</prop>
+    <prop type="x-SourceTMX">32021D0361_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">3819fabc6237eb6796b5b52df5c912bc748616321e03f2870224181ad3761ead</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">63</prop>
+  </header>
+  <body>
+    <tu creationdate="20210903T180435Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T143334Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T143334Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING DECISION (EU) 2021/361</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) Бр. 2021/361 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210830T120059Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210830T120059Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210830T120059Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-2025953009333593858, -6046905474906775572</prop>
+      <prop type="x-ContextContent">COMMISSION IMPLEMENTING DECISION (EU) 2021/361 |  | ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) Бр. 2021/361 НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 22 February 2021</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 22 февруари 2021 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210830T121027Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T093059Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T093059Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3657596318, -3840010912057709433</prop>
+      <prop type="x-ContextContent">of 22 February 2021 |  | од 22 февруари 2021 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>laying down emergency measures for movements between Member States and the entry into the Union of consignments of salamanders in relation to infection with <bpt i="1" type="20" />Batrachochytrium salamandrivorans<ept i="1" />
+        </seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за утврдување итни мерки за движење помеѓу земјите членки и влез на пратки со дождовници во Унијата во врска со заразата инфекцијата со Batrachochytrium salamandrivora</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210830T121109Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210830T121109Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210830T121109Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-5913930882130477611, 5945237499142570200</prop>
+      <prop type="x-ContextContent">laying down emergency measures for movements between Member States and the entry into the Union of consignments of salamanders in relation to infection with Batrachochytrium salamandrivorans | AgKdAQEAAQIyMAEhAgEBAjIwAQ== | утврдување итни мерки за движење помеѓу земјите членки и влез на пратки со дождовници во Унијата во врска со заразата со Batrachochytrium salamandrivorans | AgR5AQEAAQZJdGFsaWMBEAIBAQZJdGFsaWMBAQECAAEGSXRhbGljARACAgEGSXRhbGljAQ==</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(notified under document C(2021) 1018)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ns (заведенао како документ С(2021)1018</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201123T190224Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210830T120523Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210830T120523Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3814941974690253763, -6992980029490737644</prop>
+      <prop type="x-ContextContent">(notified under document C(2021) 1018) |  | (заведено како документ С(2021)1018) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Text with EEA relevance)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>) (Текст со важност за ЕЕО)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T120357Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210830T121109Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210830T121109Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">2094311973019752702, -693899598895376172</prop>
+      <prop type="x-ContextContent">(Text with EEA relevance) |  | (Текст со важност за ЕЕО) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210601T120402Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210830T121110Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210830T121110Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-ContextContent">THE EUROPEAN COMMISSION, |  | ЕВРОПСКАТА КОМИСИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210830T124003Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T093139Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T093139Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-1630537092630497703, -2439055183373607700</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on the Functioning of the European Union, |  | имајќи го предвид Договорот за функционирање на Европската Унија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Regulation (EU) 2016/429 of the European Parliament and of the Council of 9 March 2016 on transmissible animal diseases and amending and repealing certain acts in the area of animal health (Animal Health Law) (<ph x="1" type="262" />), and in particular the introductory phrase and point (a) of Article 259(1) and 261(1) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Регулативата (ЕУ) 2016/429 на Европскиот парламент и на Советот од 9 март 2016 година за преносливи болести на животните и измена и укинување на одредени акти од областа на здравјето на животните (Закон за здравје на животните) (), а особено воведната реченица и точка (а) од членот 259(1) и членот 261(1) од истата,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T190230Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210831T190230Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210831T190230Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">1863886608106375226, -2916855805081652349</prop>
+      <prop type="x-ContextContent">Subject and scope |  | Предмет и опсег | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Decision lays down emergency measures for movements of consignments of salamanders between Member States and the entry into the Union (<ph x="1" type="520" />) of such consignments.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ва итни мерки за движење на пратки од дождовници помеѓу земјите членки како и внесување на такви пратки () во Унијата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">57</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T122444Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T122444Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T122444Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-3874024536504036173, 276293897224768809</prop>
+      <prop type="x-ContextContent">For the purposes of this Decision, the following definitions shall apply: |  | За целите на оваа одлука се применуваат следните дефиниции: | </prop>
+      <prop type="x-Context">6368329386085647120, -7843450534354735479</prop>
+      <prop type="x-ContextContent">Member States shall prohibit the dispatch of consignments of salamanders to other Member States, except where such consignments comply with the following animal health requirements: |  | Земјите членки забрануваат испраќање пратки со дождовници во други земји членки, освен кога таквите пратки се во согласност со следните здравствени услови за животните: | </prop>
+      <prop type="x-Context">1523463790224126090, 3288366736702705379</prop>
+      <prop type="x-ContextContent">Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products, amending Regulations (EC) No 999/2001, (EC) No 396/2005, (EC) No 1069/2009, (EC) No 1107/2009, (EU) No 1151/2012, (EU) No 652/2014, (EU) 2016/429 and (EU) 2016/2031 of the European Parliament and of the Council, Council Regulations (EC) No 1/2005 and (EC) No 1099/2009 and Council Directives 98/58/EC, 1999/74/EC, 2007/43/EC, 2008/119/EC and 2008/120/EC and repealing Regulations (EC) No 854/2004 and (EC) No 882/2004 of the European Parliament and of the Council, Council Directives 89/608/EEC, 89/662/EEC, 90/425/EEC, 91/496/EEC, 96/23/EC, 96/93/EC and 97/78/EC and Council Decision 92/438/EEC (Official Controls Regulation) (OJ L 95, 7.4.2017, p. 1). |  | Регулатива (ЕУ) 2017/625 на Европскиот парламент и на Советот од 15 март 2017 година за службени контроли и други службени активности извршени за да се обезбеди примена на законот за храна и добиточна храна, правилата за здравје и благосостојба на животните, здравјето на растенијата и производите за заштита на растенијата, за изменување и дополнување на регулативите (ЕЗ) бр. 999/2001, (ЕК) бр. 396/2005, (ЕЗ) бр. 1069/2009, (ЕЗ) бр. 1107/2009, (ЕУ) бр. 1151/2012, (ЕУ) бр. 652/2014 , (ЕУ) 2016/429 и (ЕУ) 2016/2031 на Европскиот парламент и на Советот, Регулативи  (ЕЗ) бр. 1/2005 и (ЕЗ) бр. 1099/2009 на Советот и Директиви 98/58/ЕК, 1999 /74/EC, 2007/43/EC, 2008/119/EC и 2008/120/EC на Советот и укинување на прописите (ЕЗ) бр. 854/2004 и (ЕЗ) бр. 882/2004 на Европскиот парламент и на Советот,  Директиви 89/608/ЕЕЗ, 89/662/ЕЕЗ, 90/425/ЕЕЗ, 91/496/ЕЕЗ, 96/23/ЕЗ, 96/93/ЕЗ и 97/78/ЕЗ на Советот и Одлука  92/438/ЕЕЗ на Советот (Регулатива за официјални контроли) (Сл. весник L 95, 7 април 2017 год., стр. 1). | </prop>
+      <prop type="x-Context">4153111900648980505, -7510715186968077772</prop>
+      <prop type="x-ContextContent">Member States shall ensure that where consignments of salamanders are intended for the internal market, the operator responsible for the consignment must provide a written attestation in one of the official languages of the Member State of the border control post and signed by the natural or legal person responsible for an appropriate establishment of destination or for a confined establishment, stating the following: |  | Кога пратките дождовници се наменети за внатрешниот пазар земјите членки гарантираат дека операторот кој е одговорен за пратката на граничниот контролен пункт ќе обезбеди писмена потврда на еден од официјалните јазици на земјата членка потпишана од физичко или правно лице одговорно за соодветен објект на дестинација или за објект од затворен тип, наведувајќи го следново: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">62</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T122605Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T122605Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T122605Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122295, 152520</prop>
+      <prop type="x-ContextContent">(a) |  | (а) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘salamanders’ means all amphibians of the Order of <bpt i="1" type="562" />Caudata<ept i="1" />;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„дДождовници“ значи се сите водоземци од видот редот на Caudat</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">63</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T122731Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T122731Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T122731Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122326, 152551</prop>
+      <prop type="x-ContextContent">(b) |  | (б) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘Bsal’ means an infection with <bpt i="1" type="577" />Batrachochytrium salamandrivorans<ept i="1" /> (Kingdom Fungi, Phylum Chytridiomycota, Order Rhizophydiales);</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б) „Bsal“ значи e инфекција со Batrachochytrium salamandrivorans (кКралскикралство габи, Phylum Chytridiomycota, од видотредот Rhizophydiales);</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">65</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T122738Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T122738Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T122738Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-6195464212071815346, 1919583166785073582</prop>
+      <prop type="x-ContextContent">If the operator opts for one of the treatments listed in point (3) all salamanders in the consignment must be treated by the operator against Bsal under the control of the official veterinarian to the satisfaction of the competent authority. |  | Доколку операторот се одлучи за еден од начините на лекување наведени во точка (3), сите дождовници од пратката мора да бидат лекувани за Bsal од операторот под контрола на службени ветеринар и на начин прифатлив за надлежниот орган. | </prop>
+      <prop type="x-Context">-3420420992957238995, 4550993501477060362</prop>
+      <prop type="x-ContextContent">be under the control of the competent authority; |  | да биде под контрола на надлежниот орган; | </prop>
+      <prop type="x-Context">-8804176051675580275, 6597746565727436103</prop>
+      <prop type="x-ContextContent">keeping salamanders at a temperature of at least 20 °C for at least 10 days combined with a treatment with polymyxin E submersion baths (2 000 IU/ml) for 10 minutes twice per day, followed by applying voriconazole spray (12,5 μg/ml); |  | чување на дождовниците на температура од најмалку 20° C во период од најмалку 10 дена во комбинација со лекување со бањи од полимиксин Е (2000 IU/ml) 10 минути двапати дневно, проследено со нанесување со спреј вориконазол (12,5 μg/ml); | </prop>
+      <prop type="x-Context">5025791226245634777, -3690201286751429543</prop>
+      <prop type="x-ContextContent">an official veterinarian inspects the conditions of quarantine in the appropriate establishment of destination for each consignment of salamanders, including an examination of the mortality records and a clinical inspection of the salamanders, checking in particular for skin lesions and ulcers; |  | службен ветеринар ги проверува карантинските услови во соодветниот објект на дестинација за секоја пратка дождовници, вклучувајќи испитување на записите за смртност како и клиничка инспекција на дождовниците, особено проверка за лезии на кожата и чиреви; | </prop>
+      <prop type="x-Context">4089326012602460379, 7622835669963252430</prop>
+      <prop type="x-ContextContent">waste material and waste water is collected regularly, stored and subsequently treated in a way to prevent the spread of Bsal; |  | отпадниот материјал и отпадната вода редовно се собираат, се складираат и потоа се третираат на начин кој спречува ширење на Bsal габата; | </prop>
+      <prop type="x-Context">-6592655336157010229, -2603178262793118505</prop>
+      <prop type="x-ContextContent">the salamanders must not show any clinical signs or symptoms of Bsal, in particular they must show no skin lesions or ulcers at the time of examination by the official veterinarian; that examination must be carried out within a period of 48 hours prior to the time of dispatch of the consignment to the Member State of destination; |  | дождовниците не смеат да покажуваат никакви клинички знаци или симптоми на Bsal, а особено не смеат да имаат лезии на кожата или чиреви за време на прегледот од страна на службениот ветеринар; тој преглед мора да се изврши во рок од 48 часа пред времето на испорака на пратката во земјата членка која е дестинација; | </prop>
+      <prop type="x-Context">-1112819649864383566, 6319684691529168724</prop>
+      <prop type="x-ContextContent">the number of epidemiological units treated without an outbreak of Bsal; |  | бројот на лекувани епидемиолошки единици без појава на Bsal; | </prop>
+      <prop type="x-Context">-8068034414828582142, -2009893557701430045</prop>
+      <prop type="x-ContextContent">‘Bsal’ means an infection with Batrachochytrium salamandrivorans (Kingdom Fungi, Phylum Chytridiomycota, Order Rhizophydiales); | AgIfAQEAAQM1NzcBIQIBAQM1NzcB | „Bsal“ значи инфекција со Batrachochytrium salamandrivorans (Кралски габи, Phylum Chytridiomycota, од видот Rhizophydiales); | </prop>
+      <prop type="x-Context">-4277737496951427836, 1624221056397663062</prop>
+      <prop type="x-ContextContent">copies of the animal health certificates and the common health entry documents accompanying the consignment of salamanders; |  | копии од ветеринарно-здравствените сертификати и вообичаените здравствени документи за пријава што ја придружуваат пратката со дождовници; | </prop>
+      <prop type="x-Context">-6588513450607143936, -844155986182933731</prop>
+      <prop type="x-ContextContent">in case of an appropriate establishment of destination that it complies with the minimum conditions set out in Annex II; |  | во случај на соодветен објект на дестинација што ги исполнува минималните услови утврдени во Анекс II; | </prop>
+      <prop type="x-Context">7006477333928604694, -6918995397743616127</prop>
+      <prop type="x-ContextContent">the salamanders in the consignment must not show any clinical signs of Bsal, in particular there must be no signs of skin lesions or ulcers at the time of a clinical examination by the official veterinarian for the purpose of issuing the animal health certificate referred to in point (d); and that clinical examination must have been carried out within a period of 48 hours prior to the time of loading for dispatch of the consignment to the Union; |  | дождовниците во пратката не смеат да покажуваат никакви клинички знаци на Bsal, особено не смеат да има знаци на кожни лезии или чиреви за време на клиничкиот преглед од страна на службениот ветеринар заради издавање на ветеринарно-здравствен сертификат наведен во точка (г); и клиничкиот преглед мора да е извршен во период од 48 часа од времето на утовар за испорака на пратката во Унијата; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">66</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T123423Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T110032Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T110032Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122357, 152582</prop>
+      <prop type="x-ContextContent">(c) |  | (в) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘appropriate establishment’ means premises:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„сСоодветен објект“ значи се простории</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">67</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T124810Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T124810Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T124810Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122543, 122543</prop>
+      <prop type="x-ContextContent">(i) |  | (i) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>where salamanders are kept in quarantine before being dispatched to another Member State or after their entry into the Union where they are intended for the internal market; and</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>i) каде што дождовниците се чуваат во карантин пред да бидат испратени во друга земја членка или по нивниот влез ото внесување во Унијата каде што се наменети за внатрешниот пазар; и</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">69</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T124823Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T124823Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T124823Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-3746492380873276508, 4573973236458863983</prop>
+      <prop type="x-ContextContent">no mortalities with an undetermined cause; |  | нема смртност од неодредена причина; | </prop>
+      <prop type="x-Context">-3235997006391888477, 5671042378252512223</prop>
+      <prop type="x-ContextContent">treated to the satisfaction of the competent authority against Bsal in accordance with point 3 of Annex III; or |  | лекувани од Bsal на начин кој надлежниот орган го смета за прифатлив, а во согласност со точка 3 од Анекс III; или | </prop>
+      <prop type="x-Context">137457734578040188, 3527653408953042527</prop>
+      <prop type="x-ContextContent">salamanders which have undergone quarantine in an appropriate establishment for a period of at least 6 weeks immediately prior to the date of issuing of this certificate; and |  | дождовници кои биле ставени во карантин во соодветна установа во период од најмалку 6 недели непосредно пред датумот на издавање на оваа потврда; и | </prop>
+      <prop type="x-Context">-3039154959467323613, 5091759964886611989</prop>
+      <prop type="x-ContextContent">where salamanders are kept in quarantine before being dispatched to another Member State or after their entry into the Union where they are intended for the internal market; and |  | каде што дождовниците се чуваат во карантин пред да бидат испратени во друга земја членка или по нивното внесување во Унијата каде што се наменети за внатрешниот пазар; и | </prop>
+      <prop type="x-Context">7177206717105477773, 8961024739194437927</prop>
+      <prop type="x-ContextContent">they must have undergone quarantine in an appropriate establishment for a period of at least six weeks immediately prior to the date of issuing of the animal health certificate in accordance with the model set out in Part A of Annex I; and skin swab samples from the salamanders in the consignment must have been tested for Bsal with negative results during the fifth week of the period of quarantine with the appropriate diagnostic test, in accordance with the sample sizes set out in point 1(a) of Annex III; or |  | да се ставени во карантин во соодветна установа во период од најмалку шест недели непосредно пред датумот на издавање на ветеринарно-здравствен сертификат, во согласност со постапката утврдена во Дел А од Анексот I; и примероците од брис од кожата од дождовниците во пратката мора да се тестирани со соодветен дијагностички тест за постоење на Bsal габата  во текот на петтата недела од периодот на карантин и треба да бидат со негативни резултати, а во согласност со големината на примерок наведена во точка 1(а) од Анексо III; или | </prop>
+      <prop type="x-Context">-694649261863850098, 1496825579581215798</prop>
+      <prop type="x-ContextContent">in the case of testing as referred to in point 1(a) of Annex III, provided that at least six weeks have elapsed since the date of the commencement of the period of quarantine and not before the receipt of the negative results of the testing, whichever is the later; or |  | во случај на тестирање како што е наведено во точка 1 (а) од Анекс III, под услов да поминале најмалку шест недели од датумот на започнување на периодот на карантин, а не пред приемот на негативните резултати од тестирањето, земајќи го предвид последниот од двата датуми; или | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(ii)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ii)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">70</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T124944Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T124944Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T124944Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3798368, 3798368</prop>
+      <prop type="x-ContextContent">(ii) |  | (ii) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>which are registered by the competent authority prior to the date of commencement of any period of quarantine;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>кои се регистрирани од надлежниот орган пред датумот на започнување на каков било период на карантин;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">71</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T124952Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T124952Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T124952Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">7602894455674847111, 8024547723150364571</prop>
+      <prop type="x-ContextContent">they must have entered into the Union from a third country, had undergone quarantine in an appropriate establishment of destination in accordance with Article 6 and have been kept isolated from other salamanders between the end of that quarantine period and the issuing of the animal health certificate referred to in point (d); |  | да се внесени во Унијата од трета земја, да биле ставени во карантин во соодветен објект на дестинацијата во согласност со член 6 и да биле чувани изолирани од други дождовници од завршувањето на тој карантински период и издавањето на ветеринарно-здравствениот сертификат онака како што е наведено во точка (г); | </prop>
+      <prop type="x-Context">2505741628005814752, 8730036578751266528</prop>
+      <prop type="x-ContextContent">carcases of quarantined salamanders which die are examined in a laboratory indicated by the competent authority; |  | остатоци од дождовници угинати во карантин се испитуваат во лабораторија назначена од надлежниот орган; | </prop>
+      <prop type="x-Context">-871808720477851566, 9185376418113656432</prop>
+      <prop type="x-ContextContent">before issuing the animal health certificate referred to in point (d), the epidemiological unit comprising the salamanders in the consignment must have been isolated from other salamanders at the latest at the time of the clinical examination for the purpose of issuing the animal health certificate referred to in point (d) and they must not have been in contact with other salamanders since that time; |  | пред издавање на ветеринарно-здравствениот сертификат наведен во точка (г), епидемиолошката единица која ги содржи дождовниците во пратката мора да била изолирана од другите дождовници најдоцна до моментот на клиничкиот преглед заради издавање на ветеринарно-здравствениот сертификат од точка (г) и од тој момент тие не смеат да бидат во контакт со други дождовници ; | </prop>
+      <prop type="x-Context">3116547388982641761, 1737947164852298526</prop>
+      <prop type="x-ContextContent">the official veterinarian carries out the examination, sampling, testing and treatment procedures for Bsal in accordance with the procedures referred to in points 1 and 2 of Annex III; |  | службениот ветеринар спроведува испитување, зема мостри, тестира и лекува од Bsal габата во согласност со постапките наведени во точките 1 и 2 од Анекс III; | </prop>
+      <prop type="x-Context">8569938766583016869, -3122516246999306523</prop>
+      <prop type="x-ContextContent">which are registered by the competent authority prior to the date of commencement of any period of quarantine; |  | кои се регистрирани од надлежниот орган пред датумот на започнување на каков било период на карантин; | </prop>
+      <prop type="x-Context">649690332035888428, -2761987828341771419</prop>
+      <prop type="x-ContextContent">In this case pooling of skin swab samples from up to four animals may be done. |  | Во овој случај, може да се направи здружување на примероците од брис од кожа најмногу до четири животни. | </prop>
+      <prop type="x-Context">4713053856308299618, 3716648161171796867</prop>
+      <prop type="x-ContextContent">cases of all illnesses and the number of deaths on a daily basis; |  | случаи на сите заболувања и бројот на угинувања на дневна основа; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">72</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T134426Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210902T180308Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210902T180308Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122295, 152520</prop>
+      <prop type="x-ContextContent">(a) |  | (а) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the salamanders must come from a population where there are:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а) дождовниците мора да потекнуваат од популација каде што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">76</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T134527Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T134527Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T134527Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122543, 122543</prop>
+      <prop type="x-ContextContent">(i) |  | (i) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>no mortalities with an undetermined cause;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(i) нема смртност од неодредена причина;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">77</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T134623Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T134623Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T134623Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3798368, 3798368</prop>
+      <prop type="x-ContextContent">(ii) |  | (ii) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>no mortalities due to Bsal;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ii) нема смртност поради габата Bsal;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">78</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T134649Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T134649Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T134649Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">6574569222863856595, -5834823665371528862</prop>
+      <prop type="x-ContextContent">they must have been treated to the satisfaction of the competent authority against Bsal in accordance with the reference table set out in point 1(b) of Annex III; or |  | да се лекувани од Bsal на начин кој надлежниот орган го смета за прифатлив, а во согласност со референтната табела утврдена во точка 1(б) од Анекс III; или | </prop>
+      <prop type="x-Context">6384380207831614659, 7509962137527447049</prop>
+      <prop type="x-ContextContent">no mortalities due to Bsal; |  | нема смртност поради габата Bsal; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(iii)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(iii)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">79</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T135156Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T110400Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T110400Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122326, 152551</prop>
+      <prop type="x-ContextContent">(b) |  | (б) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the salamanders must not show any clinical signs or symptoms of Bsal, in particular they must show no skin lesions or ulcers at the time of examination by the official veterinarian; that examination must be carried out within a period of 48 hours prior to the time of dispatch of the consignment to the Member State of destination;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>кожата; (б) дождовниците не смеат да покажуваат никакви клинички знаци или симптоми на габата Bsal, а особено не смеат да имаат лезии на кожата или чиреви за време на прегледот од страна на службениот официјалниот ветеринар; тој преглед мора да се изврши во рок од 48 часа пред времето на испорака испраќање на пратката во земјата членка која ена дестинација;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">81</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T135925Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T110536Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T110536Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122543, 122543</prop>
+      <prop type="x-ContextContent">(i) |  | (i) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>they must have undergone quarantine in an appropriate establishment for a period of at least six weeks immediately prior to the date of issuing of the animal health certificate in accordance with the model set out in Part A of Annex I; and skin swab samples from the salamanders in the consignment must have been tested for Bsal with negative results during the fifth week of the period of quarantine with the appropriate diagnostic test, in accordance with the sample sizes set out in point 1(a) of Annex III; or</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(i) да се ставени во карантин во соодветен објект на установа во период од најмалку шест недели непосредно пред датумот на издавање на ветеринарно-здравствен сертификат, во согласност со постапката утврдена во Дел А од Анекс I; и примероците од брис од кожата од дождовниците во пратката мора да се тестирани со соодветен дијагностички тест за постоење присуство на габата Bsal со негативни резултати габата во текот на петтата недела од периодот на карантин и треба да бидат со негативни резултати, а во согласност со големината на примерок наведена во точка 1(а) од Анексо III; или</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">83</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T165322Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T110558Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T110558Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3798368, 3798368</prop>
+      <prop type="x-ContextContent">(ii) |  | (ii) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>they must have been treated to the satisfaction of the competent authority against Bsal in accordance with the reference table set out in point 1(b) of Annex III; or</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ii) да се лекувани од габата Bsal на начин кој надлежниот орган го смета за прифатлив, а во согласност со референтната табела утврдена во точка 1(б) од Анекс III; или</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">84</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T165745Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T110624Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T110624Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">117748943, 117748943</prop>
+      <prop type="x-ContextContent">(iii) |  | (iii) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>they must come from a confined establishment and are intended for another confined establishment; or</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(iii) да потекнуваат од затворен тип на објект и да се наменети за друг затворен тип на објект; или</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">85</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T165808Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T165808Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T165808Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-8193536294551555121, -7951228883689516146</prop>
+      <prop type="x-ContextContent">they must come from a confined establishment and are intended for another confined establishment; or |  | да потекнуваат од затворен тип на објект и да се наменети за друг затворен тип на објект; или | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(iv)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(iv)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">86</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T170319Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T110652Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T110652Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3798771, 3798771</prop>
+      <prop type="x-ContextContent">(iv) |  | (iv) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>they must have entered into the Union from a third country, had undergone quarantine in an appropriate establishment of destination in accordance with Article 6 and have been kept isolated from other salamanders between the end of that quarantine period and the issuing of the animal health certificate referred to in point (d);</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>да се внесени во Унијата од трета земја, да биле ставени во карантин во соодветен објект на дестинацијата во согласност со член 6 и да биле чувани изолирани од други дождовници од завршувањето нај карантинскиот периодот на карантин и до издавањето на ветеринарно-здравствениот сертификат онака како што е наведено во точка (г);</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">87</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T180531Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T111033Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T111033Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122295, 152520</prop>
+      <prop type="x-ContextContent">(a) |  | (а) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>they must come from a third country or territory of origin which is a member of the World Organisation for Animal Health (OIE);</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тие мора да доаѓаат од трета земја или да потекнуваат од територија која е членка на Светската организација за здравје на животните (ОИЕ);</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">92</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T180941Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210902T180007Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210902T180007Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122326, 152551</prop>
+      <prop type="x-ContextContent">(b) |  | (б) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the salamanders in the consignment must not show any clinical signs of Bsal, in particular there must be no signs of skin lesions or ulcers at the time of a clinical examination by the official veterinarian for the purpose of issuing the animal health certificate referred to in point (d); and that clinical examination must have been carried out within a period of 48 hours prior to the time of loading for dispatch of the consignment to the Union;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б) дождовниците во пратката не смеат да покажуваат никакви клинички знаци на габата Bsal, особено не смеат да имаат покажуваат знаци на кожни лезии на кожата или чиреви за време на клиничкиот преглед од страна на службениот официјалниот ветеринар заради издавање на ветеринарно-здравствен сертификат наведен во точка (г); и клиничкиот тој клинички преглед мора да биде извршен во период од 48 часа од времетопред на утовар на пратката за испорака на пратката во Унијата;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">93</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T181833Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T112124Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T112124Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122357, 152582</prop>
+      <prop type="x-ContextContent">(c) |  | (в) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>before issuing the animal health certificate referred to in point (d), the epidemiological unit comprising the salamanders in the consignment must have been isolated from other salamanders at the latest at the time of the clinical examination for the purpose of issuing the animal health certificate referred to in point (d) and they must not have been in contact with other salamanders since that time;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в) пред издавање на ветеринарно-здравствениот сертификат наведен во точка (г), епидемиолошката единица која ги содржи дождовниците во пратката мора да била изолирана од другите дождовници најдоцна до во моментот на клиничкиот преглед заради издавање на ветеринарно-здравствениот сертификат од точка (г) и од тој момент тие не смеат да бидатда не биле во контакт со други дождовници;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">94</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T181942Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T112147Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T112147Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122388, 152613</prop>
+      <prop type="x-ContextContent">(d) |  | (г) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>they must be accompanied by an animal health certificate which is drawn up in accordance with the model certificate set out in Part B of Annex I.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г) пратките мора да бидат проследени придружени со ветеринарно-здравствен сертификат, составен во согласност со Ообразецот наведен утврден во Дел Б од Анекс I.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">95</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T183217Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T113104Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T113104Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122295, 152520</prop>
+      <prop type="x-ContextContent">(a) |  | (а) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the name, address and registration number of the establishment of destination or the approval number in case of a confined establishment;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а) името, адресата и регистарскиот број на објектот на дестинација или бројот на одобрение во случај на затворен објект;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">98</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T183405Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T183405Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T183405Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122326, 152551</prop>
+      <prop type="x-ContextContent">(b) |  | (б) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>in case of an appropriate establishment of destination that it complies with the minimum conditions set out in Annex II;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б) во случај на соодветен објект на дестинација, што дека ги исполнува минималните услови утврдени во Анекс II;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">99</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T183533Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T183533Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T183533Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122357, 152582</prop>
+      <prop type="x-ContextContent">(c) |  | (в) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>that the consignment of salamanders will be accepted for quarantine at the establishment of destination or at the confined establishment.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в) дека пратката дождовници ќе биде прифатена за сместување во карантин во објектот кој ена дестинација или во затворениот објект.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">100</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T183840Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T183840Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T183840Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">7252711806254863185, 8782591994023289274</prop>
+      <prop type="x-ContextContent">Quarantine rules for consignments of salamanders which have entered into the Union and into an appropriate establishment of destination |  | Карантински правила за пратки од дождовници внесени во Унијата и во соодветен објект на дестинацијата | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member States shall ensure that:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ијата Земјите членки гарантираат дека:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">102</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T183845Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T183845Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T183845Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-4839575108255521845, -3570381137614726419</prop>
+      <prop type="x-ContextContent">During quarantine, the salamanders are subjected to the following procedures: |  | За време на карантинот, дождовниците се подвргнати на следниве постапки: | </prop>
+      <prop type="x-Context">-6702254993995815286, -4144002294783528985</prop>
+      <prop type="x-ContextContent">The operator of the appropriate establishment shall ensure that: |  | Операторот на соодветниот објект треба да гарантира дека: | </prop>
+      <prop type="x-Context">-7914243127828344635, -2934275189798312214</prop>
+      <prop type="x-ContextContent">The appropriate establishment of destination shall: |  | Соодветен објект на дестинација треба: | </prop>
+      <prop type="x-Context">2287324592781937407, -2232485441406034144</prop>
+      <prop type="x-ContextContent">The operator of the appropriate establishments of destination keeps a record of: |  | Операторот на соодветните објекти за дестинација води евиденција за: | </prop>
+      <prop type="x-Context">8090912637292444811, -9005282534299687629</prop>
+      <prop type="x-ContextContent">At the latest by 30 June each year, those Member States which have handled consignments of salamanders in the previous year, shall submit to the Commission the following information concerning the previous year, differentiating between information related to the movements of such consignments between Member States and to the entry of such salamander consignments into the Union: |  | Најдоцна до 30 јуни секоја година, земјите членки кои работеле со пратки од дождовници во претходната година, ги доставуваат до Комисијата следните информации во врска со претходната година, издвојувајќи ги информациите за движењата на таквите пратки меѓу земјите членки и оние за внесување на такви пратки од дождпвник во Унијата: | </prop>
+      <prop type="x-Context">-8044933377607952965, -8317614771191521197</prop>
+      <prop type="x-ContextContent">Member States shall ensure that: |  | Земјите членки гарантираат дека: | </prop>
+      <prop type="x-Context">7582322532433218725, 1371596954264185251</prop>
+      <prop type="x-ContextContent">The competent authority shall ensure that where there is an outbreak of Bsal in an epidemiological unit, the following measures are taken by the appropriate establishment of destination: |  | Надлежниот орган гарантира дека кога има појава на Bsal во некоја епидемиолошка единица, соодветнот објект на дестинација ги презема следните мерки: | </prop>
+      <prop type="x-Context">5779113516287211511, 6248126588287309252</prop>
+      <prop type="x-ContextContent">The following treatments are considered to be satisfactory: |  | Следниве начини на лекување се сметаат за прифатливи: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(a)</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">103</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T184123Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T112834Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T112834Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122295, 122295</prop>
+      <prop type="x-ContextContent">(a) |  | (a) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the operator keeps the consignment of salamanders in quarantine in the appropriate establishment of destination until released from that establishment by the official veterinarian;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>операторот ја чува пратката со дождовници во карантин во соодветниотен објект на дестинацијата сѐ додека не биде ослободена да го напушти тој објект од страна на службениот официјалниот ветеринар;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">104</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T185434Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T185434Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T185434Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122543, 122543</prop>
+      <prop type="x-ContextContent">(i) |  | (i) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>in the case of testing as referred to in point 1(a) of Annex III, provided that at least six weeks have elapsed since the date of the commencement of the period of quarantine and not before the receipt of the negative results of the testing, whichever is the later; or</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(i) во случај на тестирање како што е наведено во точка 1 (а) од Анекс III, под услов да поминале најмалку шест недели од датумот на започнување на периодот на карантин, ноа не пред приемот на негативните резултати од тестирањето, земајќи го предвид последниот од двата датумиво зависност од тоа кој датум ќе настапи подоцна; или</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">108</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T185700Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T185700Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T185700Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3798368, 3798368</prop>
+      <prop type="x-ContextContent">(ii) |  | (ii) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>in the case of treatment as referred to in point 1(b) of Annex III, only after satisfactory completion of that treatment.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ii) во случај на лекување како што е наведено во точка 1(б) од Анекс III, само единствено после успешно завршување на лекувањето.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">109</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T200547Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210902T175822Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210902T175822Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Measures to be taken in the event of an outbreak of Bsal in an appropriate establishment of destination</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 7 Мерки што треба да се преземат во соодветен објект на дестинацијата во случај на појава епидемија на со габата Bsal</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">110</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T201114Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T201114Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T201114Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122295, 122295</prop>
+      <prop type="x-ContextContent">(a) |  | (a) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>all salamanders in the same epidemiological unit are either:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>е мерки: (a) сите дождовници во иста епидемиолошка единица се:</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">112</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T201345Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T201345Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T201345Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122543, 122543</prop>
+      <prop type="x-ContextContent">(i) |  | (i) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>treated to the satisfaction of the competent authority against Bsal in accordance with point 3 of Annex III; or</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(i) лекувани од габата Bsal на начин кој надлежниот орган го смета за прифатлив, а е во согласност со точка 3 од Анекс III; или</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">113</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T201718Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T201718Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T201718Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3798368, 3798368</prop>
+      <prop type="x-ContextContent">(ii) |  | (ii) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>killed and disposed of as animal by-products referred to in Article 8(a)(iii) of Regulation (EC) No 1069/2009 of the European Parliament and of the Council (<ph x="1" type="990" />) in accordance with Article 12 thereof;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ii) уУбиваат и уништуваат како нуспроизводи од животинско потекло наведени во член 8(а)(iii) од Регулативата (ЕЗ) бр. 1069/2009 на Европскиот парламент и на Советот () во согласност со член 12 од истиот;</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">114</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T203927Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210904T113222Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210904T113222Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">122357, 152582</prop>
+      <prop type="x-ContextContent">(c) |  | (в) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>any further information they deem relevant on the testing, treating or handling of consignments of salamanders and on the implementation of this Decision.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в) сите дополнителни информации што ги сметаат за соодветни за тестирање, лекување или ракување со пратки на дождовници и за спроведување на оваа оОдлука.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">122</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T204148Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T204148Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T204148Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-8192230273309295661, 4236529995779222</prop>
+      <prop type="x-ContextContent">Applicability |  | Применливост | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Decision shall apply from 21 April 2021 until 31 December 2022.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ливост Оваа одлука се применува од 21 април 2021 до 31 декември 2022 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">124</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T204213Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T204213Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T204213Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3364086950872751, 4394811017912</prop>
+      <prop type="x-ContextContent">Addressees |  | Адресати | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This Decision is addressed to the Member States.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>дресати Оваа одлука се однесува на земјите членки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">126</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T204240Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T204240Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T204240Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-3359681128381534839, -6382211427454552703</prop>
+      <prop type="x-ContextContent">This Decision is addressed to the Member States. |  | Оваа одлука се однесува на земјите членки. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Brussels, 22 February 2021.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Брисел, 22 февруари 2021 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">127</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201106T184202Z" creationid="Dane" changedate="20210901T204240Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T204240Z">
+      <prop type="x-LastUsedBy">Dane</prop>
+      <prop type="x-Context">-6303317180498091632, -6495990777651002875</prop>
+      <prop type="x-ContextContent">Done at Brussels, 22 February 2021. |  | Брисел, 22 февруари 2021 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Commission</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Комисијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">128</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T204310Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T204333Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T204333Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">1956864951517053623, 131080963057861854</prop>
+      <prop type="x-ContextContent">For the Commission |  | За Комисијата | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Stella KYRIAKIDES</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Стела КИРИАКИДЕС,</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">129</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20201106T184202Z" creationid="Dane" changedate="20210901T204246Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T204246Z">
+      <prop type="x-LastUsedBy">Dane</prop>
+      <prop type="x-Context">-6082454693111524866, -2864393595331520957</prop>
+      <prop type="x-ContextContent">Stella KYRIAKIDES |  | Стела КИРИАКИДЕС | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member of the Commission</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член на Комисијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">130</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210604T182830Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T204246Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T204246Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">65119807377692916, 6986401764886185619</prop>
+      <prop type="x-ContextContent">Member of the Commission |  | Член на Комисијата | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX I</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС I</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">131</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210605T171201Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T204246Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T204246Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">108528083796055, 4395057713153</prop>
+      <prop type="x-ContextContent">ANNEX I |  | АНЕКС I | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>PART A</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ДЕЛ А</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">132</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T204841Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T204841Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T204841Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3513850449128, 141882471210</prop>
+      <prop type="x-ContextContent">PART A |  | ДЕЛ А | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>MODEL ANIMAL HEALTH CERTIFICATE</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОБРАЗЕЦ НА ВЕТЕРИНАРНО-ЗДРАВСТВЕН СЕРТИФИКАТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">133</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T204948Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T204948Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T204948Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">-6036916596905704705, -3289264723109799127</prop>
+      <prop type="x-ContextContent">MODEL ANIMAL HEALTH CERTIFICATE |  | ОБРАЗЕЦ НА ВЕТЕРИНАРНО-ЗДРАВСТВЕН СЕРТИФИКАТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>for the movement between Member States of salamanders</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за движењето на дождовницито помеѓу земјите членки</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">134</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T205006Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T205006Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T205006Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3660266286, 4410816015972</prop>
+      <prop type="x-ContextContent">Test |  | Тестирање | </prop>
+      <prop type="x-Context">6153406770876746986, -8846387200716648393</prop>
+      <prop type="x-ContextContent">for the movement between Member States of salamanders |  | за движењето на дождовници помеѓу земјите членки | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>EUROPEAN UNION</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКА УНИЈА</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">135</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T205418Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T205418Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T205418Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">3500610770945, 4573163431</prop>
+      <prop type="x-ContextContent">Address |  | Адреса | </prop>
+      <prop type="x-Context">117890334, 147766119</prop>
+      <prop type="x-ContextContent">Name |  | Име | </prop>
+      <prop type="x-Context">-603998791707407607, -5799063773901860476</prop>
+      <prop type="x-ContextContent">Registration/Approval No |  | Регистрација/Одобрение Бр. | </prop>
+      <prop type="x-Context">-4753524744584661612, -2900486120917685480</prop>
+      <prop type="x-ContextContent">Registration No |  | Регистрација бр. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Address</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Адреса</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">141</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T205425Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T205425Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T205425Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">9028489887232331957, -2063932842138381776</prop>
+      <prop type="x-ContextContent">ISO country code |  | ИСО код на земјата | </prop>
+      <prop type="x-Context">3366947468090821, 4398642195444</prop>
+      <prop type="x-ContextContent">Document |  | Документ | </prop>
+      <prop type="x-Context">2847759091417383890, 4065248132712208252</prop>
+      <prop type="x-ContextContent">Identification |  | Идентификација | </prop>
+      <prop type="x-Context">3500610770945, 4573163431</prop>
+      <prop type="x-ContextContent">Address |  | Адреса | </prop>
+      <prop type="x-Context">-4124326766774185902, 3280557084700033144</prop>
+      <prop type="x-ContextContent">Central Competent |  | Централен надлежен орган | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Country</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Земја</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">142</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T210447Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T210447Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T210447Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">2032205, 2032205</prop>
+      <prop type="x-ContextContent">1.2a |  | 1,2a | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Local reference</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>a Локална референца</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">147</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T210519Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T210519Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T210519Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">9028489887232331957, -2063932842138381776</prop>
+      <prop type="x-ContextContent">ISO country code |  | ИСО код на земјата | </prop>
+      <prop type="x-Context">3515233364739, 3515263616523</prop>
+      <prop type="x-ContextContent">QR CODE |  | QR КОД | </prop>
+      <prop type="x-Context">-1018280856541079043, 131332402590883481</prop>
+      <prop type="x-ContextContent">Consignee/Importer |  | Примач/увозник | </prop>
+      <prop type="x-Context">3500610770945, 4573163431</prop>
+      <prop type="x-ContextContent">Address |  | Адреса | </prop>
+      <prop type="x-Context">-5289788459504412651, -3020000148305727078</prop>
+      <prop type="x-ContextContent">Local reference |  | Локална референца | </prop>
+      <prop type="x-Context">8122231375456335192, 136400593343658</prop>
+      <prop type="x-ContextContent">For transit |  | За транзит | </prop>
+      <prop type="x-Context">866807029418206773, -3299179586027539133</prop>
+      <prop type="x-ContextContent">Local Competent Authority |  | Локален надлежен орган | </prop>
+      <prop type="x-Context">104301626236565269, 4406223134309</prop>
+      <prop type="x-ContextContent">Authority |  | Надлежност | </prop>
+      <prop type="x-Context">104763374358248684, -3273122044776755331</prop>
+      <prop type="x-ContextContent">Seal No. | AgIAAQEAAQQyNDA0AQYCAQEEMjQwNAE= | Број на печат | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>I.3</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>I.3</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">148</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T210526Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T210526Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T210526Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">2032422, 2032422</prop>
+      <prop type="x-ContextContent">I.3 |  | I.3 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Central Competent Authority</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Централен надлежен орган</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">149</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210903T165854Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210903T165854Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210903T165854Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Operator conducting assembly operations independently of an</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>I1.,6 Оператор кој спроведува монтажни работи независно од</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">152</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210901T210757Z" creationid="DESKTOP-0PMQ78B\Dane" changedate="20210901T210757Z" changeid="DESKTOP-0PMQ78B\Dane" lastusagedate="20210901T210757Z">
+      <prop type="x-LastUsedBy">DESKTOP-0PMQ78B\Dane</prop>
+      <prop type="x-Context">2580334854032513046, -5574194072780654012</prop>
+      <prop type="x-ContextContent">Operator conducting assembly operations independently of an |  | Оператор кој спроведува монтажни работи независно од | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>establishment</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>објект</seg>
+      </tuv>
+      <prop type="x-CELEX">32021D0361</prop>
+      <prop type="x-SourceTUIndex">153</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

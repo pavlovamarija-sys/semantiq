@@ -1,0 +1,35 @@
+{
+  "measurementBasis": {
+    "phase3b1DocxNonEmptyParagraphs": 1426,
+    "expectedStudioMapping": "One source trans-unit per non-empty DOCX paragraph is an estimate from prior controlled projections; no SDLXLIFF was generated in Phase 3C."
+  },
+  "strategies": [
+    {
+      "name": "KEEP_ALL",
+      "logicalParagraphDelta": 0,
+      "expectedDocxParagraphs": 1426,
+      "expectedStudioTransUnits": 1426,
+      "expectedCatFragmentationBoundariesRemoved": 0,
+      "unresolvedAmbiguities": 30,
+      "structuralRisk": "Lowest mutation risk; retains all known CAT fragmentation."
+    },
+    {
+      "name": "DETERMINISTIC_ONLY",
+      "logicalParagraphDelta": -26,
+      "expectedDocxParagraphs": 1400,
+      "expectedStudioTransUnits": 1400,
+      "expectedCatFragmentationBoundariesRemoved": 26,
+      "unresolvedAmbiguities": 0,
+      "structuralRisk": "Only generalized evidence rules act."
+    },
+    {
+      "name": "DETERMINISTIC_PLUS_CONSERVATIVE_AI",
+      "logicalParagraphDelta": -26,
+      "expectedDocxParagraphs": 1400,
+      "expectedStudioTransUnits": 1400,
+      "expectedCatFragmentationBoundariesRemoved": 26,
+      "unresolvedAmbiguities": 0,
+      "structuralRisk": "AI acts only where deterministic rules abstain and confidence meets the measured threshold."
+    }
+  ]
+}

@@ -1,0 +1,1226 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210610T192239Z" creationid="DESKTOP-EC0O2KC\Ane">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">tmh 1</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32010D0453</prop>
+    <prop type="x-SourceTMX">32010D0453_MK1.tmx</prop>
+    <prop type="x-SourceTMXSHA256">f9726dc82c0bfe357e1a623eec6a103eff1efe3da0b756ec7aab98797eefb9a7</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">74</prop>
+  </header>
+  <body>
+    <tu creationdate="20210605T134327Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210605T134327Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210605T134327Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION DECISION</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T101022Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T101022Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T101022Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">7221574314299888843, -5268762480839894210</prop>
+      <prop type="x-ContextContent">COMMISSION DECISION |  | ОДЛУКА НА КОМИСИЈАТА | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 3 August 2010</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>oд 3 август 2010 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T101019Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T101019Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T101019Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">3657596318, 6117765433931192478</prop>
+      <prop type="x-ContextContent">of 3 August 2010 |  | oд 3 август 2010 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>establishing guidelines concerning the conditions of inspections and control measures, and on the training and qualification of officials, in the field of human tissues and cells provided for in Directive 2004/23/EC of the European Parliament and of the Council</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>за воспоставување упатства за условите за инспекции и контролни мерки, како и за обука и квалификации на службени лица, во областа на човечки ткива и клетки во согласност со Директивата 2004/23/ЕЗ на Европскиот парламент и на Советот</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">3</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T101227Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T101227Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T101227Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-2000733590842862173, -5078655322619881423</prop>
+      <prop type="x-ContextContent">establishing guidelines concerning the conditions of inspections and control measures, and on the training and qualification of officials, in the field of human tissues and cells provided for in Directive 2004/23/EC of the European Parliament and of the Council |  | за воспоставување упатства за условите за инспекции и контролни мерки, како и за обука и квалификации на службени лица, во областа на човечки ткива и клетки во согласност со Директива 2004/23/ЕЗ на Европскиот парламент и на Советот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(notified under document C(2010) 5278)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(заведен како документ број C(2010) 5278)</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">4</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210604T205824Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210605T134218Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210605T134218Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">3814941974690253763, 5070931746738933662</prop>
+      <prop type="x-ContextContent">(notified under document C(2010) 5278) |  | (заведен како документ број C(2010) 5278) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Text with EEA relevance)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Текст со важност за ЕЕО)</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T101221Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T101221Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T101221Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">2094311973019752702, -693899598895376172</prop>
+      <prop type="x-ContextContent">(Text with EEA relevance) |  | (Текст со важност за ЕЕО) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(2010/453/EU)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(2010/453/ЕУ)</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T101231Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T101231Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T101231Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">1878595680367, 1878595680367</prop>
+      <prop type="x-ContextContent">(2010/453/EU) |  | (2010/453/ЕУ) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>THE EUROPEAN COMMISSION,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЕВРОПСКАТА КОМИСИЈА,</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T101518Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T101518Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T101518Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-1557782174194567957, 4171504162135651458</prop>
+      <prop type="x-ContextContent">THE EUROPEAN COMMISSION, |  | ЕВРОПСКАТА КОМИСИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty of the Functioning of the European Union,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид Договорот за функционирање на Европската Унија,</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T102500Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T102500Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T102500Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">3551226426347395665, -2439055183373607700</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty of the Functioning of the European Union, |  | имајќи го предвид Договорот за функционирање на Европската Унија, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to Directive 2004/23/EC of the European Parliament and of the Council of 31 March 2004 on setting standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells (<ph x="1" type="70" />), and in particular Article 7(5) thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи ја предвид Директивата 2004/23/ЕЗ на Европскиот парламент и на Советот од 31 март 2004 година, за утврдување на стандардите за квалитет и безбедност за донирање, набавка, тестирање, обработка, заштита, складирање и распределба на човечки ткива и клетки (), а особено член 7(5) од истатaиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">9</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T105114Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T105114Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T105114Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-4211830466353404259, -7569769330062402502</prop>
+      <prop type="x-ContextContent">Directive 2004/23/EC lays down standards of quality and safety for the donation, procurement, testing, processing, preservation, storage and distribution of human tissues and cells intended for human applications and of manufactured products derived from human tissues and cells intended for human applications only as far as donation, procurement and testing are concerned, so as to ensure a high level of human health protection. |  | Директивата 2004/23/EЗ ги утврдува стандардите за квалитет и безбедност за донирање, набавка, тестирање, обработка, заштита, складирање и распределба на човечки ткива и клетки наменети за човечка примена и од преработени производи добиени од човечки ткива и клетки наменети за човечка примена  и само што се однесуваат на донирање, набавка и тестирање, за да се обезбеди високо ниво на заштита на здравјето на луѓето. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In order to prevent the transmission of diseases by human tissues and cells for human applications and to ensure an equivalent level of quality and safety, Article 7 of Directive 2004/23/EC provides that competent authorities of the Member States shall organise inspections and shall carry out appropriate control measures in order to ensure compliance with the requirements of this Directive.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За да се спречи преносот на болести преку човечките ткива и клетки за човечка примена и да се обезбеди еквивалентно ниво на квалитет и безбедност, член 7 од Директивата 2004/23/ЕЗ предвидува надлежните органи на земјите членки да организираат инспекции и да спроведуваат соодветни контролни мерки за да се обезбеди усогласеност со барањата на оваа дДиректива.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">13</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T125911Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T125911Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T125911Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-6030093118124361831, 106354649451641072</prop>
+      <prop type="x-ContextContent">In order to prevent the transmission of diseases by human tissues and cells for human applications and to ensure an equivalent level of quality and safety, Article 7 of Directive 2004/23/EC provides that competent authorities of the Member States shall organise inspections and shall carry out appropriate control measures in order to ensure compliance with the requirements of this Directive. |  | За да се спречи преносот на болести преку човечките ткива и клетки за човечка примена и да се обезбеди еквивалентно ниво на квалитет и безбедност, член 7 од Директивата 2004/23/ЕЗ предвидува надлежните органи на земјите членки да организираат инспекции и спроведуваат соодветни контролни мерки за да се обезбеди усогласеност со барањата на оваа Директива. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 7(5) of Directive 2004/23/EC provides that the Commission shall establish guidelines concerning the conditions of the inspections and control measures, and on the training and qualification of the officials involved in order to reach a consistent level of competence and performance.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Членот 7 (5) од Директивата 2004/23/ЕЗ предвидува дека Комисијата воспоставува упатства за условите на инспекциите и контролните мерки, како и во однос на обуката и квалификациите на службени лица кои учествуваат во овие активности, со цел да се постигне усогласено ниво на експертиза и ефикасност на работата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">14</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T110131Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T110131Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T110131Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-2711132060264126107, 4169173709629086184</prop>
+      <prop type="x-ContextContent">Article 7(5) of Directive 2004/23/EC provides that the Commission shall establish guidelines concerning the conditions of the inspections and control measures, and on the training and qualification of the officials involved in order to reach a consistent level of competence and performance. |  | Членот 7 (5) од Директивата 2004/23/ЕЗ предвидува дека Комисијата воспоставува упатства за условите на инспекциите и контролни мерки, како и во однос на обуката и квалификации на службени лица кои учествуваат во овие активности, со цел да се постигне усогласено ниво на експертиза и ефикасност на работата. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The guidelines are not legally binding but serve to provide useful guidance to the Member States in the implementation of Article 7 of Directive 2004/23/EC.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Овие упатства не се законски обврзувачки, но служат за давање на корисни насоки за земјите членки во спроведување на член 7 од Директивата 2004/23/ЕЗ.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">15</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T111030Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T111030Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T111030Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">2869968731010659312, 5605839759411502164</prop>
+      <prop type="x-ContextContent">The guidelines are not legally binding but serve to provide useful guidance to the Member States in the implementation of Article 7 of Directive 2004/23/EC. |  | Овие упатства не се законски обврзувачки но служат за давање на корисни насоки за земјите членки во спроведување на член 7 од Директивата 2004/23/ЕЗ. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The Commission should review and update the guidelines set out in the Annex to this Decision on the basis of the reports transmitted by the Member States to the Commission in accordance with Article 26(1) of Directive 2004/23/EC.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Комисијата треба да ги разгледа и ажурира упатствата утврдени во Анексот на оваа одлука врз основа на извештаите на земјите членки што ги доставуваат до Комисијата во согласност со членот 26(1) од Директивата 2004/23/ЕЗ.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">16</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T111303Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T111303Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T111303Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">3729506696165294464, 5488201661957897558</prop>
+      <prop type="x-ContextContent">The Commission should review and update the guidelines set out in the Annex to this Decision on the basis of the reports transmitted by the Member States to the Commission in accordance with Article 26(1) of Directive 2004/23/EC. |  | Комисијата треба да ги разгледа и ажурира упатствата утврдени во Анексот на оваа одлука врз основа на извештаите на земјите членки што ги доставуваат до Комисијата во согласност со членот 26(1) од Директивата 2004/23/ЕЗ. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The measures provided for in this Decision are in accordance with the opinion of the Committee set up by Article 29 of Directive 2004/23/EC,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Мерките предвидени со оваа одлука се во согласност со мислењето на Комитетот основан со член 29 од Директивата 2004/23/ЕЗ.,</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">17</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210605T143606Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210605T143606Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210605T143606Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-7510725321597481073, -7116206375267569734</prop>
+      <prop type="x-ContextContent">The measures provided for in this Decision are in accordance with the opinion of the Committee set up by Article 29 of Directive 2004/23/EC, |  | Мерките предвидени со оваа одлука се во согласност со мислењето на Комитетот основан со член 29 од Директивата 2004/23/ЕЗ, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>HAS ADOPTED THIS DECISION:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ЈА ДОНЕСЕ ОВАА ОДЛУКА:</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">18</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210605T143622Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210605T143622Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210605T143622Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-7305744188996159828, -4568686998210506132</prop>
+      <prop type="x-ContextContent">HAS ADOPTED THIS DECISION: |  | ЈА ДОНЕСЕ ОВАА ОДЛУКА: | </prop>
+      <prop type="x-Context">-3572651515952879523, -7723294252756802179</prop>
+      <prop type="x-ContextContent">The guidelines concerning the conditions of the inspections and control measures, and on the training and qualification of officials, in the field of human tissues and cells provided for in Article 7(5) of Directive 2004/23/EC are set out in the Annex to this Decision. |  | Упатства за условите за инспекции и контролните мерки, како во во однос на обука и квалификација на службени лица,од областа на човечките ткива и клетки предвидени во член 7(5) од Директивата 2004/23/ЕЗ се дадени во анексот на оваа одлука. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Article 1</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 1</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">19</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T111659Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T111659Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T111659Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The guidelines concerning the conditions of the inspections and control measures, and on the training and qualification of officials, in the field of human tissues and cells provided for in Article 7(5) of Directive 2004/23/EC are set out in the Annex to this Decision.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Упатства за условите за инспекции и контролните мерки, како во во однос на обука и квалификација на службени лица, од областа на човечките ткива и клетки предвидени во член 7(5) од Директивата 2004/23/ЕЗ се дадени во анексот на оваа одлука.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">20</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210605T143820Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210605T143820Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210605T143820Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-3359681128381534839, -6382211427454552703</prop>
+      <prop type="x-ContextContent">This Decision is addressed to the Member States. |  | Оваа одлука се однесува на земјите членки. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Done at Brussels, 3 August 2010.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и. Брисел, 3 август 2010 година.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">22</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210605T143833Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210605T143833Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210605T143833Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-6303317180498091632, -5834447505552409749</prop>
+      <prop type="x-ContextContent">Done at Brussels, 3 August 2010. |  | Брисел, 3 август 2010 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Commission</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Комисијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T111707Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T111707Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T111707Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">1956864951517053623, 131080963057861854</prop>
+      <prop type="x-ContextContent">For the Commission |  | За Комисијата | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>John DALLI</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Џон Дали</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">24</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210605T143951Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210605T143951Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210605T143951Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">3508918731172, 137540143094903</prop>
+      <prop type="x-ContextContent">John DALLI |  | Џон Дали | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Member of the Commission</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член на Комисијата</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">25</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210605T144022Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210605T144022Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210605T144022Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">65119807377692916, 6986401764886185619</prop>
+      <prop type="x-ContextContent">Member of the Commission |  | Член на Комисијата | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">26</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T111907Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T111907Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T111907Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">112932449316, 4573421134</prop>
+      <prop type="x-ContextContent">ANNEX |  | АНЕКС | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>GUIDELINES CONCERNING INSPECTIONS AND CONTROL MEASURES, AND ON THE TRAINING AND QUALIFICATION OF OFFICIALS, IN THE FIELD OF HUMAN TISSUES AND CELLS</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>УПАТСТВА ЗА ИНСПЕКЦИИ И КОНТРОЛНИ МЕРКИ, ЗА ОБУКА И КВАЛИФИКАЦИИ НА СЛУЖБЕНИ ЛИЦА, ВО ПОЛЕТО НА ЧОВЕЧКИ ТКИВА И КЛЕТКИ Ц</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">27</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T111928Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T111928Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T111928Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-5373428259354243612, 9065241944785812667</prop>
+      <prop type="x-ContextContent">GUIDELINES CONCERNING INSPECTIONS AND CONTROL MEASURES, AND ON THE TRAINING AND QUALIFICATION OF OFFICIALS, IN THE FIELD OF HUMAN TISSUES AND CELLS |  | УПАТСТВА ЗА ИНСПЕКЦИИ И КОНТРОЛНИ МЕРКИ, И ЗА ОБУКА И КВАЛИФИКАЦИИ НА СЛУЖБЕНИ ЛИЦА, ВО ПОЛЕТО НА ЧОВЕЧКИ ТКИВА И КЛЕТКИ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Purpose of the guidelines</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ел на упатствата</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">28</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T125844Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T125844Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T125844Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">5313593717257787664, -3557926292196796688</prop>
+      <prop type="x-ContextContent">Purpose of the guidelines |  | Цел на упатствата | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The purpose of these guidelines is to provide guidance to the Member States towards a consistent level of competence and performance of inspections in the field of tissues and cells.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Целта на овие упатства е да се обезбедат насоки за земјите членки за да се постигне усогласено ниво на експертиза и ефикасност на инспекциите во областа на човечките ткива и клетки.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">29</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T112001Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T112001Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T112001Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">952174783483767541, -3700031505240122282</prop>
+      <prop type="x-ContextContent">The purpose of these guidelines is to provide guidance to the Member States towards a consistent level of competence and performance of inspections in the field of tissues and cells. |  | Целта на овие упатства е да се обезбедат насоки за земјите членки за да се постигне усогласено ниво на експертиза и ефикасност на инспекциите во областа на човечките ткива и клетки. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Responsibilities of the inspectors</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Одговорности на инспекторите</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">30</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T112943Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T112943Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T112943Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-5678957823364638813, 5052569515668619813</prop>
+      <prop type="x-ContextContent">Responsibilities of the inspectors |  | Одговорности на инспекторите | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The inspector should be clearly mandated in writing by the competent authority for the specific task and should have an official identification.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Инспекторот треба да има јасно овластување од надлежниот орган во писмена форма за одредената задача и треба да има службен документ за идентификација.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">31</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T113200Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T113200Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T113200Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-5747117414180348167, -3841329230453069423</prop>
+      <prop type="x-ContextContent">The inspector should be clearly mandated in writing by the competent authority for the specific task and should have an official identification. |  | Инспекторот треба да има јасно овластување од надлежниот орган во писмена форма за одредената задача и треба да има службен документ за идентификација. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The inspector should gather detailed information to be provided to the competent authority in line with the specific mandate of the inspection.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Инспекторот треба да собере детални информации што ги доставува до надлежниот орган во согласност со одреденото овластување за инспекција.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">32</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T113359Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T113359Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T113359Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-3314462463679688950, -4261719162309920860</prop>
+      <prop type="x-ContextContent">The inspector should gather detailed information to be provided to the competent authority in line with the specific mandate of the inspection. |  | Инспекторот треба да собере детални информации што ги доставува до надлежниот орган во согласност со одреденото овластување за инспекција. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>An inspection is a sampling exercise as inspectors cannot examine all areas and documentation during an inspection.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Инспекцијата е постапка за земање мостри, бидејќи за време на инспекцијата, инспекторите не можат да ги испитаат сите области или целата документација. Инсп</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">33</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T113519Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T113519Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T113519Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-4904064090570111312, -5357552385028586775</prop>
+      <prop type="x-ContextContent">An inspector should not be held responsible for deficiencies that could not be observed during the inspection due to limited time or scope or because certain processes could not be observed taking place during the inspection. |  | Инспекторот не треба да биде одговорен за недостатоци што не може да се забележат за време на инспекцијата заради ограничено време или обем или затоа што одредени процеси не може да бидат опфатени со инспекцијата затоа што не се случило во моментот на увидот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>
+          <bpt i="1" type="266" />Qualifications of inspectors <ept i="1" />Inspectors should at least:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>т. Квалификации на инспектори Инспекторите треба најмалку да имаат:</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">35</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T113729Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T113729Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T113729Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-5189331636638613095, -5913771439294977510</prop>
+      <prop type="x-ContextContent">Qualifications of inspectors Inspectors should at least: | AgIAAQEAAQMyNjYBHQIBAQMyNjYB | Квалификации на инспектори Инспекторите треба најмалку да имаат: | AgIAAQEAAQRCb2xkARoCAQEEQm9sZAE=</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	possess a diploma, certificate or other evidence of formal qualifications in the field of medical or biological sciences, awarded on completion of a university course of study or a course recognised as equivalent by the Member State concerned;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(a)да поседуваат диплома, сертификат или други докази за формални квалификации од областа на медицинските или биолошките науки, стекнати со завршување факултетско образование или образование признаено како еквивалентно од засегнатата земја членка;</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">36</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210605T144517Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210605T144517Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210605T144517Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-6744333818047221490, 2998712692349531915</prop>
+      <prop type="x-ContextContent">(a)	possess a diploma, certificate or other evidence of formal qualifications in the field of medical or biological sciences, awarded on completion of a university course of study or a course recognised as equivalent by the Member State concerned; |  | (a)	да поседува диплома, сертификат или други докази за формални квалификации од областа на медицинските или биолошките науки, стекнати со завршување факултетско образование или образование признаено како еквивалентно од засегнатата земја членка; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>and</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>и</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">37</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T114324Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T114324Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T114324Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-3427096175229176608, 3939287794054471607</prop>
+      <prop type="x-ContextContent">(b)	have practical experience in the relevant areas of operations within a tissue, cell or blood establishment. |  | (б)	имаат практично искуство во релевантни области за постапки со ткива, клетки или установи за трансфузиона медицина. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Other prior experiences may also be considered as relevant.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>едицина. Друго претходното искуство исто така може да се смета за релевантнос</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">39</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T114333Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T114414Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T114414Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">5572425271499172194, 7728454970441706364</prop>
+      <prop type="x-ContextContent">Other prior experiences may also be considered as relevant. |  | Друго претходното искуство исто така може да се смета за релевантно. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The competent authorities may consider in exceptional cases that a person’s considerable and relevant experience may exempt him/her from the requirement set out in point (a).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>оодветно. Во исклучителни случаи, надлежните органи може да сметаат дека лице со значително и релевантнoсоодветно искуство не мора го исполнува условот утврден во точка (а).</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">40</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T114417Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T114417Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T114417Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">1062093453298720258, -5588566514200221776</prop>
+      <prop type="x-ContextContent">The competent authorities may consider in exceptional cases that a person’s considerable and relevant experience may exempt him/her from the requirement set out in point (a). |  | Во исклучителни случаи, надлежните органи може да сметаат дека лице со значително и релевантно искуство не мора го исполнува условот утврден во точка (а). | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Training of inspectors</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Обука на инспектори</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">41</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T115442Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T115442Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T115442Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">6463276901254214330, 1338200898105117249</prop>
+      <prop type="x-ContextContent">Training of inspectors |  | Обука на инспектори | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>When taking up their duties, inspectors should receive a specific induction training.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>При преземањето на функцијата, инспекторите треба да поминат одредена воведна обука.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">42</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T115601Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T115601Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T115601Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-807380601339898815, -2911742637096624226</prop>
+      <prop type="x-ContextContent">When taking up their duties, inspectors should receive a specific induction training. |  | При преземањето на функцијата, инспекторите треба да поминат одредена воведна обука. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This training should at least include:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Оваа обука треба да вклучува минимум од:</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">43</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T115559Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T115559Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T115559Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">4334441076819749878, -4371750390161048387</prop>
+      <prop type="x-ContextContent">This training should at least include: |  | Оваа обука  треба да вклучува минимум од: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	the accreditation, designation, authorisation or licensing systems in the Member State concerned;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(a)системи за акредитација, назначување, одобрување или лиценцирање во засегнатата земја членка;</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">44</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T115637Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T115637Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T115637Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">3961435903430094318, -2266931119369667247</prop>
+      <prop type="x-ContextContent">(a)	the accreditation, designation, authorisation or licensing systems in the Member State concerned; |  | (a)	системи за акредитација, назначување, одобрување или лиценцирање во засегнатата земја членка; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	the applicable legal framework for the performance of their activities;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)применливата законска рамка за извршување на нивните активности;</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">45</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T115814Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T115814Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T115814Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-5631372009572064009, 7593123301023607797</prop>
+      <prop type="x-ContextContent">(b)	the applicable legal framework for the performance of their activities; |  | (б)	применливата законска рамка за извршување на нивните активности; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	the technical aspects of tissues and cells establishments activities;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)технички аспекти на активностите на установите за ткива и клетки;</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">46</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T115837Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T115837Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T115837Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">5862146421885170575, -2192970602260895201</prop>
+      <prop type="x-ContextContent">(c)	the technical aspects of tissues and cells establishments activities; |  | (в)	технички аспекти на активностите на установите за ткива и клетки; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	the inspection techniques and procedures, including practical exercises;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)техники и постапки на инспекција, вклучително и практични вежби;</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">47</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T115908Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T115908Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T115908Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-3004611775731279954, -3884623475231146713</prop>
+      <prop type="x-ContextContent">(d)	the inspection techniques and procedures, including practical exercises; |  | (г)	техники и постапки на инспекција, вклучително и практични вежби; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(e)	International Quality Management Systems (ISO, EN);</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(д)меѓународни системи за управување со квалитет (ISO, EN);</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">48</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T120028Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T120028Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T120028Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-7162011192604475824, 948668972900144688</prop>
+      <prop type="x-ContextContent">(e)	International Quality Management Systems (ISO, EN); |  | (д)	меѓународни системи за управување со квалитет (ISO, EN); | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(f)	National Health systems and tissue and cells organizational structures in the Member State concerned;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ѓ)националните здравствени системи и организациските структури за ткива и клетки во засегнатата земја членка;</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">49</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T120051Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T120051Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T120051Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">4382659472514616860, -5842219762203159054</prop>
+      <prop type="x-ContextContent">(f)	National Health systems and tissue and cells organizational structures in the Member State concerned; |  | (ѓ)	националните здравствени системи и организациските структури за ткива и клетки во засегнатата земја членка; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(g)	organisation of national regulatory authorities;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(е)организација на националните регулаторни тела;</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">50</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T125810Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T125810Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T125810Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">2161982261198897031, -5456932586089843611</prop>
+      <prop type="x-ContextContent">(g)	organisation of national regulatory authorities; |  | (е)	организација на национални регулаторни тела; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(h)	International Inspection instruments and other relevant bodies.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(ж)меѓународни инструменти за инспекција и други релевантни соодветни</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">51</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T121100Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T121100Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T121100Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">1755788661676435991, 8698643160246208050</prop>
+      <prop type="x-ContextContent">(h)	International Inspection instruments and other relevant bodies. |  | (ж)	меѓународни инструменти за инспекција и други релевантни тела. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This induction training should be complemented by specialised training and by continuous in-house training as appropriate throughout the career of the inspector.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>тела. Оваа воведна обука треба да биде надополнета и со стручна обука како и со соодветна континуирана обука во институцијата во која се вработени, во текот на целата професионална кариера на инспекторот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">52</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T121104Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T121104Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T121104Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">2752940016200613859, 1747424726977033360</prop>
+      <prop type="x-ContextContent">This induction training should be complemented by specialised training and by continuous in-house training as appropriate throughout the career of the inspector. |  | Оваа воведна обука треба да биде надополнета и со стручна обука како и со соодветна континуирана обука во институцијата во која се вработени, во текот на целата професионална кариера на инспекторот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Types of inspections</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Видови на инспекции</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">53</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T121120Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T121120Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T121120Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-1719042091513412112, 5444626156844926587</prop>
+      <prop type="x-ContextContent">Types of inspections |  | Видови на инспекции | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Different types of inspection may be carried out:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Може да се извршат различни видови на инспекции:</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">54</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T121932Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T121932Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T121932Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-4211763047553789698, 6007557586633671233</prop>
+      <prop type="x-ContextContent">Different types of inspection may be carried out: |  | Може да се извршат различни видови на инспекции: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	general system-oriented inspections: should be on-site and cover all processes and activities, including: organisational structure, policies, responsibilities, quality management, personnel, documentation, data quality, systems for ensuring data protection and confidentiality, facilities, equipment, contracts, complaints and recalls or audits, information communication (within and across borders) and traceability of tissues and cells;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а)општи инспекции насочени кон системот;: треба да се вршат на лице место и да ги опфаќаат сите процеси и активности, вклучувајќи ги: организациската структура, политики, одговорности, управување со квалитет, персонал, документација, квалитетот на податоците, системите за обезбедување заштита на податоците и доверливоста, објектите, опремата, договорите, поплаките и отповикувања или ревизија, обезбедување информации (во земјата и прекугранично) и следливост на ткивата и клетките;</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">55</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T122203Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T122203Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T122203Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">1759524632232105870, 2049086915854006295</prop>
+      <prop type="x-ContextContent">(a)	general system-oriented inspections: should be on-site and cover all processes and activities, including: organisational structure, policies, responsibilities, quality management, personnel, documentation, data quality, systems for ensuring data protection and confidentiality, facilities, equipment, contracts, complaints and recalls or audits, information communication (within and across borders) and traceability of tissues and cells; |  | (а)	општи инспекции насочени кон системот: треба да се вршат на лице место и да ги опфаќаат сите процеси и активности, вклучувајќи ги: организациската структура, политики, одговорности, управување со квалитет, персонал, документација, квалитетот на податоците, системите за обезбедување заштита на податоците и доверливоста, објектите, опремата, договорите, поплаките и отповикувања или ревизија, обезбедување информации (во земјата и прекугранично) и следливост на ткивата и клетките; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	thematic inspections: should be on-site and cover one or more specific themes, e.g. quality management systems, preparation process, vigilance systems, or donor testing laboratory conditions;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б)тематски инспекции: треба да се вршат на лице место и да опфаќаат една или повеќе одредени теми: на пр. системи за управување со квалитет, процес на подготовка, системи на вигиланца или лабораториски услови за тестирање на донаторите;</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">56</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T122411Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T122411Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T122411Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">4548537062058806808, 8198385443112554880</prop>
+      <prop type="x-ContextContent">(b)	thematic inspections: should be on-site and cover one or more specific themes, e.g. quality management systems, preparation process, vigilance systems, or donor testing laboratory conditions; |  | (б)	тематски инспекции: треба да се вршат на лице место и да опфаќаат една или повеќе одредени теми: на пр.системи за управување со квалитет, процес на подготовка, системи на вигиланца или лабораториски услови за тестирање на донаторите; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(c)	desk based reviews: do not take place on-site but at a remote location and may cover all processes and activities or focus on one or more specific themes;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(в)документарен преглед: не се изведува на лице место, туку на оддалечена локација и може да ги опфати сите процеси и активности или фокусот да биде на една или повеќе одредени теми;</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">57</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T122731Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T122731Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T122731Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">6065553835199768709, 606777782432010517</prop>
+      <prop type="x-ContextContent">(c)	desk based reviews: do not take place on-site but at a remote location and may cover all processes and activities or focus on one or more specific themes; |  | (в)	документарен преглед: не се изведува на лице место, туку на оддалечена локација и може да ги опфати сите процеси и активности или фокусот да биде на една или повеќе одредени теми; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(d)	reinspections: may be indicated as follow-up or reassessment to monitor the corrective actions required during a previous inspection.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(г)повторни инспекции: може да бидат означени како инспекции на следење или повторна проценка за следење на корективни активности барани за време на претходната инспекција.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">58</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T122801Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T122801Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T122801Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-4451996055173666426, 6948465831919475957</prop>
+      <prop type="x-ContextContent">(d)	reinspections: may be indicated as follow-up or reassessment to monitor the corrective actions required during a previous inspection. |  | (г)	повторни инспекции: може да бидат означени како  инспекции на следење или повторна проценка за следење на корективни активности барани за време на претходната инспекција. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In addition some particular inspections can be done:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>5.2.Покрај тоа, може да се направат одредени посебни инспекц</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">59</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T125751Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T125751Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T125751Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-8693086382418056367, -3839389980897687960</prop>
+      <prop type="x-ContextContent">In addition some particular inspections can be done: |  | Покрај тоа, може да се направат одредени посебни инспекции: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(a)	third party inspections: desk-based or on-site inspections should be performed to the third parties as specified in Article 24 of Directive 2004/23/EC;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ии: (а)инспекции од трета страниa: документарни или теренски проверки треба да ги вршат на трети лица како што е дефинирано во член 24 од Директивата 2004/23/Е</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">60</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T123253Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T123253Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T123253Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">7895164631358340790, 7688968036325712936</prop>
+      <prop type="x-ContextContent">(a)	third party inspections: desk-based or on-site inspections should be performed to the third parties as specified in Article 24 of Directive 2004/23/EC; |  | (а)	инспекции од трета страни: документарни или теренски проверки треба да ги вршат на трети лица како што е дефинирано во член 24 од Директивата 2004/23/ЕЗ; | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(b)	joint inspections: as result of the evaluation of specific circumstances, including limitation of resources or expertise, a Member State may consider the possibility of requesting another Union Competent Authority to carry out joint inspections on its territory in collaboration with the officials of the requesting Member State.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>З; (б)заеднички инспекции: врз основа на проценка на одредени околности, вклучувајќи ограничувања на ресурси или експертски знаења, земјата членка може да ја разгледа можноста и да побара заеднички инспекции на нејзино национално ниво спроведени од друг надлежен орган на Унијата во соработка со стручни лица на земјата членка што ја бара.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">61</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T123256Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T123256Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T123256Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-3264315857966538392, 4676092800041132311</prop>
+      <prop type="x-ContextContent">(b)	joint inspections: as result of the evaluation of specific circumstances, including limitation of resources or expertise, a Member State may consider the possibility of requesting another Union Competent Authority to carry out joint inspections on its territory in collaboration with the officials of the requesting Member State. |  | (б)	заеднички инспекции: врз основа на проценка на одредени околности, вклучувајќи ограничувања на ресурси или експертски знаења, земја членка може да ја разгледа можноста и да побара заеднички инспекции на нејзино национално ниво спроведени од друг надлежен орган на Унијата во соработка со стручни лица на земјата членка што ја бара. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Inspections scheduling</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Распоред на инспекции</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">62</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T123325Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T123325Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T123325Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">6810230248323088954, -6940568470379906949</prop>
+      <prop type="x-ContextContent">Inspections scheduling |  | Распоред на инспекции | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The competent authorities should establish a programme of inspections and identify and allocate the necessary resources.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Надлежните органи треба да воспостават програма за инспекции и да ги идентификуваат и распределат потребните ресурси.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">63</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T123628Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T123628Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T123628Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">8212639815784185507, 4288681135038778376</prop>
+      <prop type="x-ContextContent">The competent authorities should establish a programme of inspections and identify and allocate the necessary resources. |  | Надлежните органи треба да воспостават програма за инспекции и да ги идентификуваат и распределат потребните ресурси. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In accordance with Article 7(3) of Directive 2004/23/EC, inspections shall be organised and control measures shall be carried out by the competent authority or authorities on a regular basis.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Во согласност со член 7(3) од Директивата 2004/23/ЕЗ, инспекциите и контролните мерки се спроведуваат редовно од страна на надлежниоте органи или тела.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">64</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T123636Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T123636Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T123636Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">9074875122545526754, 412330026560273651</prop>
+      <prop type="x-ContextContent">In accordance with Article 7(3) of Directive 2004/23/EC, inspections shall be organised and control measures shall be carried out by the competent authority or authorities on a regular basis. |  | Во согласност со член 7(3) од Директивата 2004/23/ЕЗ, инспекциите и контролните мерки се спроведуваат редовно од страна на надлежниоте органи или тела. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The interval between two inspections shall not exceed two years.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Интервалот помеѓу две инспекции не треба да надминува две години.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">65</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T123728Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T123728Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T123728Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-6283283313260936011, 4846699136588644237</prop>
+      <prop type="x-ContextContent">The interval between two inspections shall not exceed two years. |  | Интервалот помеѓу две инспекции не треба да надминува две години. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>It is recommended that a full on-site inspection covering all areas of activity should be performed at least every four years.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Се препорачува да се изврши целосна теренска проверка која ги опфаќа сите области на активност најмалку на секои четири години.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">66</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T124130Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T124130Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T124130Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-5929961971089767509, 6220070756539753274</prop>
+      <prop type="x-ContextContent">It is recommended that a full on-site inspection covering all areas of activity should be performed at least every four years. |  | Се препорачува да се изврши целосна теренска проверка која ги опфаќа сите области на активност најмалку на секои четири години. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>During the interval between two general system inspections, a thematic inspection may be performed which focuses on a particular theme or process, or alternatively, in the absence of significant changes since the last inspection, a desk-based review may be performed.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За време на интервалот помеѓу две општи инспекции на системот, може да се изврши тематска инспекција фокусирана на одредена тема или процес, или можно е, ако нема значителни промени од последната инспекција, да се изврши само преглед на документацијата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">67</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T124137Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T124137Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T124137Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-6615540248287129750, -5682756707109685740</prop>
+      <prop type="x-ContextContent">During the interval between two general system inspections, a thematic inspection may be performed which focuses on a particular theme or process, or alternatively, in the absence of significant changes since the last inspection, a desk-based review may be performed. |  | За време на интервалот помеѓу две општи инспекции на системот, може да се изврши тематска инспекција фокусирана на одредена тема или процес, или можно е, ако нема значителни промени од последната инспекција, да се изврши само преглед на документацијата. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Conduct of inspections</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Спроведување на инспекции</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">68</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T124408Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T124408Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T124408Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-3984734084159563753, 3765365552832951901</prop>
+      <prop type="x-ContextContent">Conduct of inspections |  | Спроведување на инспекции | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where resources allow, the team should be composed of members with different competences.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Онаму каде што дозволуваат ресурсите, тимот треба да вклучува членови со различни компетенции.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">69</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T124428Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T124428Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T124428Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-8404785200614197535, -9071058125107255279</prop>
+      <prop type="x-ContextContent">Where resources allow, the team should be composed of members with different competences. |  | Онаму каде што дозволуваат ресурсите, тимот треба да вклучува членови со различни компетенции. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where necessary, the assistance of an external expert may be solicited for a specific inspection.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Доколку е потребно, може да се побара помош од надворешен експерт за посебна инспекција.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">70</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T124440Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T124440Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T124440Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">7631067562515232978, -5775653722145856945</prop>
+      <prop type="x-ContextContent">Where necessary, the assistance of an external expert may be solicited for a specific inspection. |  | Доколку е потребно, може да се побара помош од надворешен експерт за посебна инспекција. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>This expert should only have an advisory role.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Тој експерт треба да има само советодавна улога.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">71</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T124450Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T124450Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T124450Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">6543758000311685982, -3414816237179073371</prop>
+      <prop type="x-ContextContent">This expert should only have an advisory role. |  | Тој експерт треба да има само советодавна улога. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Inspections by a single inspector should, in general, be avoided.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Општо, инспекциите извршени од само еден инспектор треба да се избегнуваат.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">72</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T124559Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T124559Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T124559Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-3976393852732552698, -1306198192930973903</prop>
+      <prop type="x-ContextContent">Inspections by a single inspector should, in general, be avoided. |  | Општо, инспекциите извршени од само еден инспектор треба да се избегнуваат. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>At least one of the inspectors should have a minimum of two years’ of practical experience as referred to in point 3(b).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Барем еден од инспекторите треба да има минимум двегодишно практично искуство како што е наведено во точка 3(б).</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">73</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T124751Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T124751Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T124751Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-3274905447997659138, 3142698354235787587</prop>
+      <prop type="x-ContextContent">At least one of the inspectors should have a minimum of two years’ of practical experience as referred to in point 3(b). |  | Барем еден од инспекторите треба да има минимум двегодишно практично искуство како што е наведено во точка 3(б). | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>An inspection report should be sent after the inspection to the tissue establishment or third party inspected.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Извештајот за инспекција треба да се испрати до установата за ткива или до третата страна што била прегледана по инспекцијата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">74</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T124839Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T124839Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T124839Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">842160852792059323, -7626605088313399036</prop>
+      <prop type="x-ContextContent">An inspection report should be sent after the inspection to the tissue establishment or third party inspected. |  | Извештајот за инспекција треба да се испрати до установата за ткива или до третата страна што била прегледана по инспекцијата. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The conclusions of the report should clearly identify the deficiencies observed.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Заклучоците од извештајот треба јасно да ги идентификуваат забележаните недостатоци.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">75</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T125010Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T125010Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T125010Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">7130507117639192830, -4312761577362937680</prop>
+      <prop type="x-ContextContent">The conclusions of the report should clearly identify the deficiencies observed. |  | Заклучоците од извештајот треба јасно да ги идентификуваат забележаните недостатоци. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>A date should be defined in the report by which the tissue establishment or third party should submit proposals and a time schedule for rectifying the deficiencies outlined in the report.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Извештајот треба да определи датум до кога установата за ткиво или третото лице треба да достави предлози и рокови за исправување на недостатоците опишани во извештајот.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">76</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T125054Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T125054Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T125054Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">6768900211036586743, 8665683139075099521</prop>
+      <prop type="x-ContextContent">A date should be defined in the report by which the tissue establishment or third party should submit proposals and a time schedule for rectifying the deficiencies outlined in the report. |  | Извештајот треба да определи датум до кога установата за ткиво или третото лице треба да достави предлози и рокови за исправување на недостатоците опишани во извештајот. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Where necessary, a reinspection can be conducted to ensure the follow-up.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Доколку е потребно, може да се изврши повторна инспекција за да се обезбеди следење на укажувањата.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">77</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T125108Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T125108Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T125108Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">-7973844223171942098, -5777652838065138390</prop>
+      <prop type="x-ContextContent">Where necessary, a reinspection can be conducted to ensure the follow-up. |  | Доколку е потребно, може да се изврши повторна инспекција за да се обезбеди следење на укажувањата. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-listitem</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Inspectorate quality management system</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Систем за управување со квалитет на инспекторатот</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">78</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T125710Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T125710Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T125710Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">8383148308984930527, 6285652361829533747</prop>
+      <prop type="x-ContextContent">Inspectorate quality management system |  | Систем за управување со квалитет на инспекторатот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Each competent authority should have a quality management system in place comprising adequate standard operating procedures and an appropriate internal audit system.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Секој надлежен орган треба да има воспоставен систем за управување со квалитет штокој содржи соодветни стандарди за работни процедури и соодветен систем на внатрешна ревизија.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">79</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210606T125705Z" creationid="DESKTOP-EC0O2KC\Ane" changedate="20210606T125705Z" changeid="DESKTOP-EC0O2KC\Ane" lastusagedate="20210606T125705Z">
+      <prop type="x-LastUsedBy">DESKTOP-EC0O2KC\Ane</prop>
+      <prop type="x-Context">5614028016534288794, 3599931151673976587</prop>
+      <prop type="x-ContextContent">Each competent authority should have a quality management system in place comprising adequate standard operating procedures and an appropriate internal audit system. |  | Секој надлежен орган треба да има воспоставен систем за управување со квалитет што содржи соодветни стандарди за работни процедури и соодветен систем на внатрешна ревизија. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The competent authorities should regularly perform an evaluation of their inspection systems.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Надлежните органи треба редовно да вршат процена на нивните системи за инспекција.</seg>
+      </tuv>
+      <prop type="x-CELEX">32010D0453</prop>
+      <prop type="x-SourceTUIndex">80</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

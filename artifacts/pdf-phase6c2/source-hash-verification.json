@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "method": "SHA-256 and byte size computed from exact persisted bytes obtained through the existing authenticated application source-download route; each manual candidate was guarded by explicit route-to-version correlation",
+  "verified": 10,
+  "pdf_signatures_valid": 10,
+  "missing": 0,
+  "invalid": 0,
+  "ambiguous": 0,
+  "unverified_due_to_rls_access": 0,
+  "external_redownload_substitution": false,
+  "metadata_hash_trusted_without_bytes": false
+}

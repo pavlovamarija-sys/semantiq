@@ -1,0 +1,4297 @@
+{
+  "celex": "02018R1860",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02018R1860\\TMX_MK1\\02018R1860-20210803_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\02018R1860\\MK2\\02018R1860-20210803_MK2.docx",
+  "tmx_sha256": "f60f9d6e1b5ba514a55ba3d5aacdb6ecacf7708ab911394fe003ee2dc809472a",
+  "mk2_sha256": "0619fbcd7e696c575363d3b9b070bbeb473720de80ee1573a540c17d20452ad5",
+  "original_tus": 216,
+  "accepted_tus": 27,
+  "skipped_tus": 189,
+  "acceptance_percent": 12.5,
+  "mk1_coverage": 15.85,
+  "mk2_coverage": 19.42,
+  "accepted_clean_en_chars": 2857,
+  "accepted_clean_mk2_chars": 3158,
+  "results": [
+    {
+      "index": 1,
+      "en": "This text is meant purely as a documentation tool and has no legal effect.",
+      "mk1": "Овој текст е наменет само како алатка за документирање и нема правно дејство.",
+      "mk2": "Овој текст е наменет само како алатка за документирање и нема правно дејство. Институциите на Унијата не преземаат никаква одговорност",
+      "score": 0.7272727272727273,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        0,
+        135
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          3
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 2,
+      "en": "The Union's institutions do not assume any liability for its contents.",
+      "mk1": "Институциите на Унијата не преземаат никаква одговорност за неговата содржина.",
+      "mk2": "за неговата содржина. Верзиите објавени во Службениот весник на Европската Унија и достапни во ЕУР-Лекс,ЕУРЛЕКС се автентичните верзии на",
+      "score": 0.18779342723004694,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        135,
+        272
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          3
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 3,
+      "en": "Those official texts are directly accessible through the links embedded in this document",
+      "mk1": "Тие официјални текстови се директно достапни преку врските содржани во овој документ",
+      "mk2": "соодветните акти, вклучително и нивните преамбули. Тие официјални службени текстови се директно достапни преку линковите содржани во овој документ.",
+      "score": 0.7105263157894737,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        0,
+        1
+      ],
+      "mk2_char_span": [
+        272,
+        420
+      ],
+      "evidence": {
+        "token_count": 59,
+        "references_preserved": true,
+        "neighbor_window": [
+          1,
+          3
+        ],
+        "atom_window": [
+          0,
+          1
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 4,
+      "en": "►B",
+      "mk1": "►Б",
+      "mk2": "►B",
+      "score": 0.0,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        1,
+        4
+      ],
+      "mk2_char_span": [
+        421,
+        423
+      ],
+      "evidence": {
+        "token_count": 16,
+        "references_preserved": true,
+        "neighbor_window": [
+          4,
+          6
+        ],
+        "atom_window": [
+          1,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 5,
+      "en": "REGULATION (EU) 2018/1860 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+      "mk1": "РЕГУЛАТИВА (ЕУ) 2018/1860 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+      "mk2": "Б РЕГУЛАТИВА (ЕУ) 2018/1860 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+      "score": 0.9836065573770492,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        1,
+        4
+      ],
+      "mk2_char_span": [
+        423,
+        488
+      ],
+      "evidence": {
+        "token_count": 16,
+        "references_preserved": true,
+        "neighbor_window": [
+          4,
+          6
+        ],
+        "atom_window": [
+          1,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 6,
+      "en": "of 28 November 2018",
+      "mk1": "од 28 ноември 2018 година",
+      "mk2": "од 28 ноември 2018 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        1,
+        4
+      ],
+      "mk2_char_span": [
+        488,
+        514
+      ],
+      "evidence": {
+        "token_count": 16,
+        "references_preserved": true,
+        "neighbor_window": [
+          4,
+          6
+        ],
+        "atom_window": [
+          1,
+          4
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 7,
+      "en": "on the use of the Schengen Information System for the return of illegally staying third-country nationals",
+      "mk1": "за користење на Шенгенскиот информациски систем за враќање на државјани на трети земји со незаконски престој",
+      "mk2": "за користење на Шенгенскиот информациски систем за враќање на државјани на трета земја со незаконски престој",
+      "score": 0.9814814814814815,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        4,
+        5
+      ],
+      "mk2_char_span": [
+        515,
+        623
+      ],
+      "evidence": {
+        "token_count": 16,
+        "references_preserved": true,
+        "neighbor_window": [
+          7,
+          7
+        ],
+        "atom_window": [
+          4,
+          5
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 8,
+      "en": "(OJ L 312 7.12.2018, p. 1)",
+      "mk1": "(Сл. Весник L 312 7.12.2018 година, стр. 1)",
+      "mk2": "(Сл. Ввесник L 312, 7.12.2018 година, стр. 1)",
+      "score": 0.987012987012987,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        5,
+        8
+      ],
+      "mk2_char_span": [
+        624,
+        669
+      ],
+      "evidence": {
+        "token_count": 14,
+        "references_preserved": false,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          5,
+          8
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 9,
+      "en": "Amended by:",
+      "mk1": "Изменета со:",
+      "mk2": "Изменета со:",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        5,
+        8
+      ],
+      "mk2_char_span": [
+        669,
+        682
+      ],
+      "evidence": {
+        "token_count": 14,
+        "references_preserved": false,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          5,
+          8
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 10,
+      "en": "Official Journal",
+      "mk1": "Службен весник",
+      "mk2": "Службен весник",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        5,
+        8
+      ],
+      "mk2_char_span": [
+        682,
+        697
+      ],
+      "evidence": {
+        "token_count": 14,
+        "references_preserved": false,
+        "neighbor_window": [
+          8,
+          10
+        ],
+        "atom_window": [
+          5,
+          8
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 11,
+      "en": "No",
+      "mk1": "бр.",
+      "mk2": "бр.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        8,
+        9
+      ],
+      "mk2_char_span": [
+        698,
+        701
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          11,
+          11
+        ],
+        "atom_window": [
+          8,
+          9
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 12,
+      "en": "date",
+      "mk1": "датум",
+      "mk2": "стр. датум",
+      "score": 0.7142857142857143,
+      "status": "REVIEW",
+      "cardinality": "1:N",
+      "mk2_span": [
+        9,
+        11
+      ],
+      "mk2_char_span": [
+        702,
+        712
+      ],
+      "evidence": {
+        "token_count": 2,
+        "references_preserved": true,
+        "neighbor_window": [
+          12,
+          12
+        ],
+        "atom_window": [
+          9,
+          11
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 13,
+      "en": "►M1",
+      "mk1": "►M1",
+      "mk2": "►M1",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        11,
+        14
+      ],
+      "mk2_char_span": [
+        713,
+        716
+      ],
+      "evidence": {
+        "token_count": 18,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          11,
+          14
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 14,
+      "en": "REGULATION (EU) 2021/1152 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 7 July 2021",
+      "mk1": "РЕГУЛАТИВА (ЕУ) 2021/1152 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ од 7 јули 2021 година",
+      "mk2": "К1 РЕГУЛАТИВА (ЕУ) 2021/1152 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ од 7 јули, 2021 година",
+      "score": 0.9820359281437125,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        11,
+        14
+      ],
+      "mk2_char_span": [
+        716,
+        805
+      ],
+      "evidence": {
+        "token_count": 18,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          11,
+          14
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "boundary_fragment": true,
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 15,
+      "en": "L 249",
+      "mk1": "L 249",
+      "mk2": "L 249",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        11,
+        14
+      ],
+      "mk2_char_span": [
+        805,
+        811
+      ],
+      "evidence": {
+        "token_count": 18,
+        "references_preserved": true,
+        "neighbor_window": [
+          13,
+          15
+        ],
+        "atom_window": [
+          11,
+          14
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 16,
+      "en": "15",
+      "mk1": "15",
+      "mk2": "15",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        14,
+        15
+      ],
+      "mk2_char_span": [
+        812,
+        814
+      ],
+      "evidence": {
+        "token_count": 1,
+        "references_preserved": true,
+        "neighbor_window": [
+          16,
+          16
+        ],
+        "atom_window": [
+          14,
+          15
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 17,
+      "en": "14.7.2021",
+      "mk1": "14.7.2021 година",
+      "mk2": "14.7.2021 година",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        15,
+        16
+      ],
+      "mk2_char_span": [
+        815,
+        831
+      ],
+      "evidence": {
+        "token_count": 4,
+        "references_preserved": true,
+        "neighbor_window": [
+          17,
+          17
+        ],
+        "atom_window": [
+          15,
+          16
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 18,
+      "en": "▼B REGULATION (EU) 2018/1860 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+      "mk1": "▼Б РЕГУЛАТИВА (ЕУ) 2018/1860 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+      "mk2": "▼B Б РЕГУЛАТИВА (ЕУ) 2018/1860 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+      "score": 0.9841269841269841,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        16,
+        17
+      ],
+      "mk2_char_span": [
+        832,
+        899
+      ],
+      "evidence": {
+        "token_count": 11,
+        "references_preserved": true,
+        "neighbor_window": [
+          18,
+          18
+        ],
+        "atom_window": [
+          16,
+          17
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 19,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "",
+      "score": 0.310838445807771,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 20,
+      "en": "Subject matter and scope",
+      "mk1": "Предмет и опсег",
+      "mk2": "",
+      "score": 0.2985685071574642,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 21,
+      "en": "This Regulation lays down the conditions and procedures for the entry and processing of alerts in respect of third-country nationals subject to return decisions issued by the Member States in the Schengen Information System (SIS) established by Regulation (EU) 2018/1861, as well as for exchanging supplementary information on such alerts.",
+      "mk1": "Оваа регулатива ги утврдува условите и постапките за внесување и обработка на предупредувања за државјани на трети земји кои се предмет на одлуки за враќање издадени од земјите членки во Шенгенскиот информациски систем (SIS) воспоставен со Регулативата (ЕУ) 2018/1861, како и за размена на дополнителни информации за такви предупредувања.",
+      "mk2": "Член 1 Предмет и опсег Оваа регулатива ги утврдува условите и постапките за внесување и обработување предупредувања за државјани на трети земји кои се предмет на одлуки за враќање издадени од земјите членки во Шенгенскиот информациски систем (СИС), утврден со Регулативата (ЕУ) 2018/1861, како и за размена на дополнителни информации за такви предупредувања.",
+      "score": 0.9282576866764275,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        19,
+        22
+      ],
+      "mk2_char_span": [
+        1035,
+        1393
+      ],
+      "evidence": {
+        "token_count": 53,
+        "references_preserved": true,
+        "neighbor_window": [
+          21,
+          21
+        ],
+        "atom_window": [
+          19,
+          22
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 22,
+      "en": "Definitions",
+      "mk1": "Дефиниции",
+      "mk2": "Член 2 Деф",
+      "score": 0.3157894736842105,
+      "status": "UNMATCHED",
+      "cardinality": "N:M",
+      "mk2_span": [
+        22,
+        25
+      ],
+      "mk2_char_span": [
+        1394,
+        1404
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          23
+        ],
+        "atom_window": [
+          22,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 23,
+      "en": "For the purposes of this Regulation, the following definitions apply:",
+      "mk1": "За целите на оваа регулатива, се применуваат следниве дефиниции:",
+      "mk2": "иниции За целите на оваа регулатива, се применуваат следниве дефиниции:",
+      "score": 0.9465648854961832,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        22,
+        25
+      ],
+      "mk2_char_span": [
+        1404,
+        1475
+      ],
+      "evidence": {
+        "token_count": 12,
+        "references_preserved": true,
+        "neighbor_window": [
+          22,
+          23
+        ],
+        "atom_window": [
+          22,
+          25
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 24,
+      "en": "(1) ‘return’ means return as defined in point (3) of Article 3 of Directive 2008/115/EC;",
+      "mk1": "(1) „враќање“ е враќање согласно на дефинираното во точка (3) од член 3 од Директивата 2008/115/ЕЗ;",
+      "mk2": "(1)„враќање“ е враќање согласно на дефинираното во точка (3) од член 3 од Директивата 2008/115/ЕЗ;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        25,
+        26
+      ],
+      "mk2_char_span": [
+        1476,
+        1574
+      ],
+      "evidence": {
+        "token_count": 16,
+        "references_preserved": true,
+        "neighbor_window": [
+          24,
+          24
+        ],
+        "atom_window": [
+          25,
+          26
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 25,
+      "en": "(2) ‘third-country national’ means a third-country national as defined in point (1) of Article 3 of Directive 2008/115/EC;",
+      "mk1": "(2) „државјанин на трета земја“ е државјанин на трета земја согласно на дефинираното во точка (1) од член 3 од Директивата 2008/115/ЕЗ;",
+      "mk2": "(2)„државјанин на трета земја“ е државјанин на трета земја во согласност на со дефинираното во точка (1) од член 3 од Директивата 2008/115",
+      "score": 0.9578544061302682,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        26,
+        29
+      ],
+      "mk2_char_span": [
+        1575,
+        1713
+      ],
+      "evidence": {
+        "token_count": 78,
+        "references_preserved": true,
+        "neighbor_window": [
+          25,
+          27
+        ],
+        "atom_window": [
+          26,
+          29
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 26,
+      "en": "(3) ‘return decision’ means an administrative or judicial decision or act, stating or declaring the stay of a third-country national to be illegal and imposing or stating an obligation to return that respects Directive 2008/115/EC;",
+      "mk1": "(3) „одлука за враќање“ е административна или судска одлука или акт со која се наведува или утврдува незаконскиот престој на државјанин на трета земја и се одредува или наведува обврска за враќање, во согласност со Директивата 2008/115/ЕЗ;",
+      "mk2": "/ЕЗ; (3) „одлука за враќање“ е административна или судска одлука или акт каде што се наведува или утврдува незаконскиот престој на државјанин на трета земја и се одредува или наведува обврска за враќање, во согласност со Директивата 2008/115/ЕЗ",
+      "score": 0.9659574468085106,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        26,
+        29
+      ],
+      "mk2_char_span": [
+        1713,
+        1957
+      ],
+      "evidence": {
+        "token_count": 78,
+        "references_preserved": true,
+        "neighbor_window": [
+          25,
+          27
+        ],
+        "atom_window": [
+          26,
+          29
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 27,
+      "en": "(4) ‘alert’ means an alert as defined in point (1) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(4) „предупредување“ е предупредување согласно на дефинираното во точка (1) од член 3 од Регулативата (EУ) 2018/1861;",
+      "mk2": "; (4) „предупредување“ е предупредување согласно на дефинираното во точка (1) од член 3 од Регулативата (EУ) 2018/1861;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        26,
+        29
+      ],
+      "mk2_char_span": [
+        1957,
+        2076
+      ],
+      "evidence": {
+        "token_count": 78,
+        "references_preserved": true,
+        "neighbor_window": [
+          25,
+          27
+        ],
+        "atom_window": [
+          26,
+          29
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 28,
+      "en": "(5) ‘supplementary information’ means supplementary information as defined in point (2) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(5) „дополнителни информации“ се информации согласно на дефинираното во точка (2) од член 3 од Регулативата (EУ) 2018/1861;",
+      "mk2": "(5)„дополнителни информации“ се информации согласно на дефинираното во точка (2) од член 3 од Регулативата (EУ) 2018/1861;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        29,
+        30
+      ],
+      "mk2_char_span": [
+        2077,
+        2199
+      ],
+      "evidence": {
+        "token_count": 18,
+        "references_preserved": true,
+        "neighbor_window": [
+          28,
+          28
+        ],
+        "atom_window": [
+          29,
+          30
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 29,
+      "en": "(6) ‘removal’ means removal as defined in point (5) of Article 3 of Directive 2008/115/EC;",
+      "mk1": "(6) „отстранување“ е отстранување согласно на дефинираното во точка (5) од член 3 од Директивата 2008/115/ЕЗ;",
+      "mk2": "(6) „отстранување“ е отстранување согласно на дефинираното во точка (5) од член 3 од Директивата 2008/115/ЕЗ;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        30,
+        31
+      ],
+      "mk2_char_span": [
+        2200,
+        2309
+      ],
+      "evidence": {
+        "token_count": 16,
+        "references_preserved": true,
+        "neighbor_window": [
+          29,
+          29
+        ],
+        "atom_window": [
+          30,
+          31
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 30,
+      "en": "(7) ‘voluntary departure’ means a voluntary departure as defined in point (8) of Article 3 of Directive 2008/115/EC;",
+      "mk1": "(7) „доброволно заминување“ е доброволно заминување согласно на дефинираното во точка (8) од член 3 од Директивата 2008/115/ЕЗ;",
+      "mk2": "(7)„доброволно заминување“ е доброволно заминување во согласност на со дефинираното во точка (8) од член 3 од Директивата 2008/115/ЕЗ;",
+      "score": 0.967741935483871,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        31,
+        32
+      ],
+      "mk2_char_span": [
+        2310,
+        2444
+      ],
+      "evidence": {
+        "token_count": 20,
+        "references_preserved": true,
+        "neighbor_window": [
+          30,
+          30
+        ],
+        "atom_window": [
+          31,
+          32
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 31,
+      "en": "(8) ‘issuing Member State’ means an issuing Member State as defined in point (10) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(8) „земја членка што издава“ е земја членка што издава согласно на дефинираното во точка (10) од член 3 од Регулативата (EУ) 2018/1861;",
+      "mk2": "(8) „земја членка- издавач“ е земја членка која што издава во согласност на со дефинираното во точка (10) од член 3 од Регулативата (EУ) 2018/186",
+      "score": 0.9277566539923955,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        32,
+        35
+      ],
+      "mk2_char_span": [
+        2445,
+        2590
+      ],
+      "evidence": {
+        "token_count": 73,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          33
+        ],
+        "atom_window": [
+          32,
+          35
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 32,
+      "en": "(9) ‘granting Member State’ means a granting Member State as defined in point (11) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(9) „земја членка што одобрува“ е земја членка што одобрува согласно на дефинираното во точка (11) од член 3 од Регулативата (EУ) 2018/1861;",
+      "mk2": "1; (9) „земја членка- одобрувач“ е земја членка која што одобрува во согласност на со дефинираното во точка (11) од член 3 од Регулативата (EУ) 2018/",
+      "score": 0.9070631970260223,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        32,
+        35
+      ],
+      "mk2_char_span": [
+        2590,
+        2739
+      ],
+      "evidence": {
+        "token_count": 73,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          33
+        ],
+        "atom_window": [
+          32,
+          35
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 33,
+      "en": "(10) ‘executing Member State’ means an executing Member State as defined in point (12) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(10) „земја членка што извршува“ е земја членка што извршува согласно на дефинираното во точка (12) од член 3 од Регулативата (EУ) 2018/1861;",
+      "mk2": "1861; (10) „земја членка- извршител“ е земја членка која што извршува согласно на дефинираното во точка (12) од член 3 од Регулативата (EУ) 2018/1861;",
+      "score": 0.922509225092251,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        32,
+        35
+      ],
+      "mk2_char_span": [
+        2739,
+        2889
+      ],
+      "evidence": {
+        "token_count": 73,
+        "references_preserved": true,
+        "neighbor_window": [
+          31,
+          33
+        ],
+        "atom_window": [
+          32,
+          35
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 34,
+      "en": "(11) ‘personal data’ means personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679;",
+      "mk1": "(11) „лични податоци“ се лични податоци согласно на дефинираното во точка (1) од член 4 од Регулативата (EУ) 2016/679;",
+      "mk2": "(11)„лични податоци“ се лични податоци согласно на дефинираното во точка (1) од член 4 од Регулативата (EУ) 2016/679;",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        35,
+        36
+      ],
+      "mk2_char_span": [
+        2890,
+        3007
+      ],
+      "evidence": {
+        "token_count": 19,
+        "references_preserved": true,
+        "neighbor_window": [
+          34,
+          34
+        ],
+        "atom_window": [
+          35,
+          36
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 35,
+      "en": "(12) ‘CS-SIS’ means the technical support function of the Central SIS as referred to in point (a) of Article 4(1) of Regulation (EU) 2018/1861;",
+      "mk1": "(12) „CS-SIS“ значи функција за техничка поддршка на централниот SIS согласно на дефинираното во точка (а) од член 4(1) од Регулативата (ЕУ) 2018/1861;",
+      "mk2": "(12)„ЦС-ЦСИС“ значи е функција за техничка поддршка на централниот СИС во согласност на со дефинираното во точка (а), од член 4(1) од Регулативата (ЕУ) 2018/1861;",
+      "score": 0.9078498293515358,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        36,
+        38
+      ],
+      "mk2_char_span": [
+        3008,
+        3171
+      ],
+      "evidence": {
+        "token_count": 50,
+        "references_preserved": true,
+        "neighbor_window": [
+          35,
+          36
+        ],
+        "atom_window": [
+          36,
+          38
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 36,
+      "en": "(13) ‘residence permit’ means a residence permit as defined in point (16) of Article 2 of Regulation (EU) 2016/399;",
+      "mk1": "(13) „дозвола за престој“ дозвола за престој согласно на дефинираното во точка (16) од член 2 од Регулативата (EУ) 2016/399;",
+      "mk2": "(13)„дозвола за престој“ е дозвола за престој во согласност на со дефинираното во точка (16) од член 2 од Регулативата (EУ) 2016/399;",
+      "score": 0.9583333333333334,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        36,
+        38
+      ],
+      "mk2_char_span": [
+        3171,
+        3304
+      ],
+      "evidence": {
+        "token_count": 50,
+        "references_preserved": true,
+        "neighbor_window": [
+          35,
+          36
+        ],
+        "atom_window": [
+          36,
+          38
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 37,
+      "en": "(14) ‘long-stay visa’ means a long-stay visa as referred to in Article 18(1) of Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 between the governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders ();",
+      "mk1": "(14) „виза за долг престој“ е виза за долгoрочен престој како што е наведено во член 18(1) од Конвенцијата од 19 јуни 1990 година за спроведување на Шенгенскиот договор од 14 јуни 1985 година помеѓу владите на државите на Економската унија на Бенелукс, Сојузна Република Германија и Република Франција за постепено укинување на проверките на нивните заеднички граници ();",
+      "mk2": "(14) „виза за за - долгорочен престој“ е виза за долгорочен престој од член 18(1) од Конвенцијата од 19 јуни 1990 година, за спроведување на Шенгенскиот договор од 14 јуни 1985 година, помеѓу владите на државите од Економската унија на Бенелукс, Сојузна Република Германија и Република Франција за постепено укинување на проверките на нивните заеднички граници (); (Сл. Ввес",
+      "score": 0.9401947148817803,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        38,
+        40
+      ],
+      "mk2_char_span": [
+        3305,
+        3679
+      ],
+      "evidence": {
+        "token_count": 87,
+        "references_preserved": false,
+        "neighbor_window": [
+          37,
+          39
+        ],
+        "atom_window": [
+          38,
+          40
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 38,
+      "en": "OJ L 239, 22.9.2000, p. 19.",
+      "mk1": "(Сл. Весник L 239, 22.9.2000 година, стр. 19).",
+      "mk2": "ник L 239, 22.9.2000 година, стр. 19). (15) „п",
+      "score": 0.8571428571428571,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        38,
+        40
+      ],
+      "mk2_char_span": [
+        3679,
+        3725
+      ],
+      "evidence": {
+        "token_count": 87,
+        "references_preserved": false,
+        "neighbor_window": [
+          37,
+          39
+        ],
+        "atom_window": [
+          38,
+          40
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "REVIEW",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 39,
+      "en": "(15) a ‘hit’ means a hit as defined in point (8) of Article 3 of Regulation (EU) 2018/1861;",
+      "mk1": "(15) „потврдено совпаѓање“ е потврдено совпаѓање согласно на дефинираното во точка (8) од член 3 од Регулативата (EУ) 2018/1861;",
+      "mk2": "отврдено совпаѓање“ е потврдено совпаѓање во согласност на со дефинираното во точка (8) од член 3 од Регулативата (EУ) 2018/1861;",
+      "score": 0.9504132231404959,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        38,
+        40
+      ],
+      "mk2_char_span": [
+        3725,
+        3854
+      ],
+      "evidence": {
+        "token_count": 87,
+        "references_preserved": false,
+        "neighbor_window": [
+          37,
+          39
+        ],
+        "atom_window": [
+          38,
+          40
+        ],
+        "provenance_unsafe_footnote": true
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 40,
+      "en": "(16) ‘threat to public health’ means a threat to public health as defined in point (21) of Article 2 of Regulation (EU) 2016/399;",
+      "mk1": "(16) „закана по јавно здравје“ е закана по јавно здравје согласно на дефинираното во точка (21) од член 2 од Регулативата (EУ) 2016/399;",
+      "mk2": "(16) „закана по јавно здравје“ е закана по јавно здравје во согласност на со дефинираното во точка (21) од член 2 од Регулативата (EУ) 2016/399;",
+      "score": 0.9694656488549618,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        40,
+        41
+      ],
+      "mk2_char_span": [
+        3855,
+        3999
+      ],
+      "evidence": {
+        "token_count": 25,
+        "references_preserved": true,
+        "neighbor_window": [
+          40,
+          40
+        ],
+        "atom_window": [
+          40,
+          41
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 41,
+      "en": "(17) ‘external borders’ means the external borders as defined in point (2) of Article 2 of Regulation (EU) 2016/399.",
+      "mk1": "(17) „надворешни граници“ се надворешни граници согласно на дефинираното во точка (2) од член 2 од Регулативата (EУ) 2016/399.",
+      "mk2": "(17) „надворешни граници“ се надворешни граници во согласност на со дефинираното во точка (2), од член 2 од Регулативата (EУ) 2016/399.",
+      "score": 0.9669421487603306,
+      "status": "HIGH",
+      "cardinality": "1:1",
+      "mk2_span": [
+        41,
+        42
+      ],
+      "mk2_char_span": [
+        4000,
+        4135
+      ],
+      "evidence": {
+        "token_count": 21,
+        "references_preserved": true,
+        "neighbor_window": [
+          41,
+          41
+        ],
+        "atom_window": [
+          41,
+          42
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 42,
+      "en": "Entry of alerts on return into SIS",
+      "mk1": "Внесување предупредувања за враќање во СИС",
+      "mk2": "Член 3 Внесување предупредувања за враќање во СИС",
+      "score": 0.9230769230769231,
+      "status": "HIGH",
+      "cardinality": "1:N",
+      "mk2_span": [
+        42,
+        44
+      ],
+      "mk2_char_span": [
+        4136,
+        4185
+      ],
+      "evidence": {
+        "token_count": 8,
+        "references_preserved": true,
+        "neighbor_window": [
+          42,
+          42
+        ],
+        "atom_window": [
+          42,
+          44
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 43,
+      "en": "1.",
+      "mk1": "1.",
+      "mk2": "1.",
+      "score": 1.0,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        44,
+        45
+      ],
+      "mk2_char_span": [
+        4186,
+        4188
+      ],
+      "evidence": {
+        "token_count": 52,
+        "references_preserved": true,
+        "neighbor_window": [
+          43,
+          45
+        ],
+        "atom_window": [
+          44,
+          45
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 44,
+      "en": "Member States shall enter into SIS alerts on third-country nationals subject to a return decision for the purpose of verifying that the obligation to return has been complied with and of supporting the enforcement of the return decisions.",
+      "mk1": "Земјите членки внесуваат предупредувања во СИС за државјани на трети земји кои се предмет на одлука за враќање со цел да проверат дали обврската за враќање е исполнета и да го помогнат спроведувањето на одлуките за враќање.",
+      "mk2": "Земјите членки внесуваат во СИС предупредувања за државјани на трети земји кои се предмет на одлука за враќање со цел да проверат дали обврската за враќање е исполнета и да помогнат во спроведувањето на одлуките за враќа",
+      "score": 0.9502262443438914,
+      "status": "HIGH",
+      "cardinality": "N:1",
+      "mk2_span": [
+        44,
+        45
+      ],
+      "mk2_char_span": [
+        4188,
+        4408
+      ],
+      "evidence": {
+        "token_count": 52,
+        "references_preserved": true,
+        "neighbor_window": [
+          43,
+          45
+        ],
+        "atom_window": [
+          44,
+          45
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "MANUAL_BOUNDARY",
+      "manual_boundary": true
+    },
+    {
+      "index": 45,
+      "en": "An alert on return shall be entered into SIS without delay following issue of a return decision.",
+      "mk1": "По издавање на одлуката за враќање предупредувањето за враќање се внесува во SIS без одлагање.",
+      "mk2": "ње. Предупредување за враќање се внесува во СИС, без одлагање, по издавање одлука за враќање.",
+      "score": 0.6153846153846154,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        44,
+        45
+      ],
+      "mk2_char_span": [
+        4408,
+        4501
+      ],
+      "evidence": {
+        "token_count": 52,
+        "references_preserved": true,
+        "neighbor_window": [
+          43,
+          45
+        ],
+        "atom_window": [
+          44,
+          45
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 46,
+      "en": "Member States may refrain from entering alerts on return when the return decisions concern third-country nationals who are detained pending removal.",
+      "mk1": "Земјите-членки може да се воздржат од внесување предупредување за враќање кога одлуките за враќање се однесуваат на државјани на трета земја приведени во очекување на отстранување.",
+      "mk2": "2.Земјите- членки може да не внесат предупредувања за враќање кога одлуките за враќање се однесуваат на државјани на трета земја кои се приведени во очекување на нивно отстранување",
+      "score": 0.8938547486033519,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        45,
+        47
+      ],
+      "mk2_char_span": [
+        4502,
+        4682
+      ],
+      "evidence": {
+        "token_count": 78,
+        "references_preserved": true,
+        "neighbor_window": [
+          46,
+          48
+        ],
+        "atom_window": [
+          45,
+          47
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 47,
+      "en": "If the third-country nationals concerned are released from detention without being removed, an alert on return shall be entered into SIS without delay.",
+      "mk1": "Доколку засегнатите државјани на трета земја не се задржани без да бидат отстранети, предупредувањето за враќање се внесува во ШИС без одлагање.",
+      "mk2": ". Ако засегнатите државјани на трета земја се ослободени од притвор, без да бидат отстранети, во СИСSIS се внесува предупредување за враќање, бе",
+      "score": 0.7046263345195729,
+      "status": "REVIEW",
+      "cardinality": "N:M",
+      "mk2_span": [
+        45,
+        47
+      ],
+      "mk2_char_span": [
+        4682,
+        4826
+      ],
+      "evidence": {
+        "token_count": 78,
+        "references_preserved": true,
+        "neighbor_window": [
+          46,
+          48
+        ],
+        "atom_window": [
+          45,
+          47
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 48,
+      "en": "Member States may refrain from entering alerts on return when the return decision is issued at the external border of a Member State and is executed immediately.",
+      "mk1": "Земјите членки може да се воздржат од внесување предупредувања за враќање кога одлуката за враќање се издава на надворешната граница на земја членка и веднаш се извршува.",
+      "mk2": "з одлагање. 3.Земјите членки може да не внесат предупредувања за враќање кога одлуката за враќање се издава на надворешната граница на земја членка и веднаш се извршува.",
+      "score": 0.9047619047619048,
+      "status": "HIGH",
+      "cardinality": "N:M",
+      "mk2_span": [
+        45,
+        47
+      ],
+      "mk2_char_span": [
+        4826,
+        4995
+      ],
+      "evidence": {
+        "token_count": 78,
+        "references_preserved": true,
+        "neighbor_window": [
+          46,
+          48
+        ],
+        "atom_window": [
+          45,
+          47
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "HIGH"
+    },
+    {
+      "index": 49,
+      "en": "The period for voluntary departure granted in accordance with Article 7 of Directive 2008/115/EC shall be recorded in the alert on return immediately.",
+      "mk1": "Рокот за доброволно заминување, одобрен во согласност со член 7 од Директивата 2008/115/EC, веднаш се евидентира во предупредувањето за враќање.",
+      "mk2": "4.Рокот за доброволно заминување, одобрен во согласност со член 7 од Директивата 2008/115/EC веднаш се евидентира во предупредувањето за враќање. Секое продолжување на тој рок, без одлагање, се евиден",
+      "score": 0.8367952522255193,
+      "status": "REVIEW",
+      "cardinality": "N:1",
+      "mk2_span": [
+        47,
+        48
+      ],
+      "mk2_char_span": [
+        4996,
+        5196
+      ],
+      "evidence": {
+        "token_count": 32,
+        "references_preserved": true,
+        "neighbor_window": [
+          49,
+          50
+        ],
+        "atom_window": [
+          47,
+          48
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "REVIEW"
+    },
+    {
+      "index": 50,
+      "en": "Categories of data",
+      "mk1": "Категории податоци",
+      "mk2": "тира во предупредувањето.",
+      "score": 0.38095238095238093,
+      "status": "UNMATCHED",
+      "cardinality": "N:1",
+      "mk2_span": [
+        47,
+        48
+      ],
+      "mk2_char_span": [
+        5196,
+        5221
+      ],
+      "evidence": {
+        "token_count": 32,
+        "references_preserved": true,
+        "neighbor_window": [
+          49,
+          50
+        ],
+        "atom_window": [
+          47,
+          48
+        ],
+        "provenance_unsafe_footnote": false
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 51,
+      "en": "An alert on return entered into SIS in accordance with Article 3 of this Regulation shall contain only the following data:",
+      "mk1": "Предупредување за враќање внесено во ШИС во согласност со член 3 од оваа регулатива ги содржи само следниве податоци:",
+      "mk2": "",
+      "score": 0.2902208201892745,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 52,
+      "en": "(a) surnames;",
+      "mk1": "(а) презимиња;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 53,
+      "en": "(b) forenames;",
+      "mk1": "(б) сопствени имиња;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 54,
+      "en": "(c) names at birth;",
+      "mk1": "(в) имиња при раѓање;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 55,
+      "en": "(d) previously used names and aliases;",
+      "mk1": "(г) претходно користени имиња и псевдоними;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 56,
+      "en": "(e) place of birth;",
+      "mk1": "(д) место на раѓање;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 57,
+      "en": "(f) date of birth;",
+      "mk1": "(ѓ) датум на раѓање;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 58,
+      "en": "(g) gender;",
+      "mk1": "(е) пол;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 59,
+      "en": "(h) any nationalities held;",
+      "mk1": "(ж) секое државјанство што го поседува лицето;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 60,
+      "en": "(i) whether the person concerned:",
+      "mk1": "(з) дали соодветното лице:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 61,
+      "en": "(i) is armed;",
+      "mk1": "(i) наоружано;",
+      "mk2": "",
+      "score": 0.23469387755102042,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 62,
+      "en": "(ii) is violent;",
+      "mk1": "(ii) насилно;",
+      "mk2": "",
+      "score": 0.22598870056497175,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 63,
+      "en": "(iii) has absconded or escaped;",
+      "mk1": "(iii) во бегство или избегало;",
+      "mk2": "",
+      "score": 0.23121387283236994,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 64,
+      "en": "(iv) poses a risk of suicide;",
+      "mk1": "(iv) склоно кон самоубиство;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 65,
+      "en": "(v) poses a threat to public health; or",
+      "mk1": "(v) претставува закана по јавното здравје; или",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 66,
+      "en": "(vi) is involved in an activity referred to in Articles 3 to 14 of Directive (EU) 2017/541;",
+      "mk1": "(vi) вклучено во некоја дејност од членовите од 3 до 14 од Директивата (ЕУ) 2017/541;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 67,
+      "en": "(j) the reason for the alert;",
+      "mk1": "(s) причината за предупредување;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 68,
+      "en": "(k) the authority which created the alert;",
+      "mk1": "(и) телото кое го изработило предупредувањето;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 69,
+      "en": "(l) a reference to the decision giving rise to the alert;",
+      "mk1": "(ј) упатување на одлуката која е причина за предупредување;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 70,
+      "en": "(m) the action to be taken in the case of a hit;",
+      "mk1": "(к) мерка што треба да се преземе во случај на потврдено совпаѓање;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 71,
+      "en": "(n) links to other alerts pursuant to Article 48 of Regulation (EU) 2018/1861;",
+      "mk1": "(л) линкови до други предупредувања согласно со член 48 од Регулативата (ЕУ) 2018/1861;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 72,
+      "en": "(o) whether the return decision is issued in relation to a third-country national who poses a threat to public policy, to public security or to national security;",
+      "mk1": "(љ) дали одлуката за враќање е издадена во однос на државјанин на трета земја кој претставува закана за јавната политика, јавната безбедност или националната безбедност;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 73,
+      "en": "(p) the type of offence;",
+      "mk1": "(м) вид на казнено дело;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 74,
+      "en": "(q) the category of the person's identification documents;",
+      "mk1": "(н) категоријата на документите за идентификација на лицето;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 75,
+      "en": "(r) the country of issue of the person's identification documents;",
+      "mk1": "(њ) земја која ги издала документите за идентификација на лицето;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 76,
+      "en": "(s) the number(s) of the person's identification documents;",
+      "mk1": "(о) број/броеви на документите за идентификација на лицето;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 77,
+      "en": "(t) the date of issue of the person's identification documents;",
+      "mk1": "(п) датум на издавање на документите за идентификација на лицето;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 78,
+      "en": "(u) photographs and facial images;",
+      "mk1": "(р) фотографии и приказ на лицето;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 79,
+      "en": "(v) dactyloscopic data;",
+      "mk1": "(с) дактилоскопски податоци;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 80,
+      "en": "(w) a copy of the identification documents, in colour wherever possible;",
+      "mk1": "(т) копија од документите за идентификација, по можност во боја;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 81,
+      "en": "(x) last date of the period for voluntary departure, if granted;",
+      "mk1": "(ќ) последен датум на рокот за доброволно заминување, доколку е одобрен таков рок;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 82,
+      "en": "(y) whether the return decision has been suspended or the enforcement of the decision has been postponed, including as a result of the lodging of an appeal;",
+      "mk1": "(у) дали одлуката за враќање е суспендирана или извршувањето на одлуката е одложено, вклучително и како резултат на поднесување жалба;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 83,
+      "en": "(z) whether the return decision is accompanied by an entry ban constituting the basis for an alert for refusal of entry and stay pursuant to point (b) of Article 24(1) of Regulation (EU) 2018/1861.",
+      "mk1": "(ф) дали одлуката за враќање е придружена со забрана за влез што претставува основа за предупредување за одбивање на влез и престој согласно точка (б) од член 24(1) од Регулативата (ЕУ) 2018/1861.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 84,
+      "en": "The minimum set of data necessary to enter an alert into SIS shall be the data referred to in points (a), (f), (j), (l), (m), (x) and (z) of paragraph 1.",
+      "mk1": "Минималниот збир на податоци потребни за внесување на предупредување во СИС, се податоците наведени во точките (а), (ѓ), (ѕ), (л), (м), (х) и (з) од став 1.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 85,
+      "en": "The other data referred to in that paragraph shall also be entered into SIS, if available.",
+      "mk1": "Останатите податоци наведени во тој став, исто така, се внесуваат во СИС, доколку се достапни.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 86,
+      "en": "Dactyloscopic data referred to in point (v) of paragraph 1 may consist of:",
+      "mk1": "Дактилоскопските податоци наведени во точка (v) од став 1 можат да се состојат од:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 87,
+      "en": "(a) one to ten flat fingerprints and one to ten rolled fingerprints of the third-country national concerned;",
+      "mk1": "(а) еден до десет рамни отпечатоци од прсти и од еден до десет отпечатоци од прсти по обиколката на прстот од засегнатиот државјанин на трета земја;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 88,
+      "en": "(b) up to two palm prints in respect of third-country nationals from whom the collection of fingerprints is impossible;",
+      "mk1": "(б) најмногу два отпечатоци од дланка за државјани на трети земји од кои е невозможно да се земат отпечатоци од прсти;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 89,
+      "en": "(c) up to two palm prints in respect of third-country nationals who are subject to return as a criminal law sanction or who have committed a criminal offence on the territory of the Member State which issued the return decision.",
+      "mk1": "(в) најмногу два отпечатоци од дланка задржавјани на трета земја кои се предмет на враќање како кривично-правна санкција или кои извршиле кривично дело на територијата на земјата членка која го издала решението за враќање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 90,
+      "en": "Authority responsible for the exchange of supplementary information",
+      "mk1": "Надлежен орган за размена на дополнителни информации",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 91,
+      "en": "The SIRENE Bureau designated under Article 7 of Regulation (EU) 2018/1861 shall ensure the exchange of all supplementary information on third-country nationals who are the subject of an alert on return, in accordance with Articles 7 and 8 of that Regulation.",
+      "mk1": "Бирото СИРЕНЕ, именувано според член 7 од Регулативата (ЕУ) 2018/1861, осигурува размена на сите дополнителни информации за државјаните на трета земја кои се предмет на предупредување за враќање, во согласност со членовите 7 и 8 од таа регулатива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 92,
+      "en": "Hits at the external borders at exit — Confirmation of return",
+      "mk1": "Потврдени совпаѓања добиени на надворешните граници при излез — Потврда за враќање",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 93,
+      "en": "In the event of a hit on an alert on return concerning a third-country national who is exiting the territory of the Member States through the external border of a Member State, the executing Member State shall communicate the following information to the issuing Member State through the exchange of supplementary information:",
+      "mk1": "Во случај на потврдено совпаѓање на предупредување за враќање за државјанин на трета земја кој излегува од територијата на земјите членки преку надворешната граница на земја членка, земјата членка што извршува преку размена на дополнителни информации ги соопштува до земјата членка што издава следните информации:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 94,
+      "en": "(a) that the third-country national has been identified;",
+      "mk1": "(а) дека државјанинот на трета земја е идентификуван;",
+      "mk2": "",
+      "score": 0.3037974683544304,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 95,
+      "en": "(b) the location and time of the check;",
+      "mk1": "(б) местото и времето на проверката;",
+      "mk2": "",
+      "score": 0.4057971014492754,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 96,
+      "en": "(c) that the third-country national has left the territory of the Member States;",
+      "mk1": "(в) дека државјанинот на трета земја ја напуштил територијата на земјите членки;",
+      "mk2": "",
+      "score": 0.21100917431192662,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 97,
+      "en": "(d) that the third-country national has been subject to removal, if this is the case.",
+      "mk1": "(Г) дека државјанин на трета земја бил предмет на отстранување, ако е таков случајот.",
+      "mk2": "",
+      "score": 0.3057324840764331,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 98,
+      "en": "Where a third-country national who is the subject of an alert on return exits the territory of the Member States through the external border of the issuing Member State, the confirmation of return shall be sent to the competent authority of that Member State in accordance with national procedures.",
+      "mk1": "Кога државјанин на трета земја, кој е предмет на предупредување за враќање, излезе од територијата на земјите членки преку надворешната граница на земјата членка-издавач, потврдата за враќање се испраќа до надлежниот орган на таа земја членка во согласност со националните постапки.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 99,
+      "en": "The issuing Member State shall delete the alert on return without delay following the receipt of the confirmation of return.",
+      "mk1": "Земјата членка-издавач без одлагање го брише предупредувањето за враќање по добивање на потврдата за враќање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 100,
+      "en": "The Member States shall on a quarterly basis provide statistics to the European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA) on the number of confirmed returns and on the number of those confirmed returns where the third-country national was subject to removal. eu-LISA shall compile the quarterly statistics into the annual statistical report referred to in Article 16 of this Regulation.",
+      "mk1": "Земјите членки на секои три месеци до Агенцијата на Европската Унија за оперативно управување со големи ИТ системи од големи размери во областа на слободата, безбедноста и правдата (Агенција еу-ЛИСА) доставуваат статистички податоци за бројот на потврдени враќања и за бројот на оние потврдени враќања каде што државјанинот од трета земја бил предмет на отстранување. Агенцијата еу-ЛИСА ги внесува тримесечните статистички податоци во годишниот статистички извештај од член 16 од оваа регулатива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 101,
+      "en": "Non-compliance with return decisions",
+      "mk1": "Неусогласеност со одлуката за враќање",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 102,
+      "en": "Upon expiry of the period for voluntary departure indicated in an alert on return, including any possible extensions, CS-SIS shall automatically notify the issuing Member State.",
+      "mk1": "По истекот на рокот за доброволно заминување наведен во предупредувањето за враќање, вклучително и можните продолжувања, ЦС-СИС автоматски ја известува земјата членка-издавач.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 103,
+      "en": "Without prejudice to the procedure referred to in Articles 6(1), 8 and 12, in the event of a hit on an alert on return, the executing Member State shall immediately contact the issuing Member State through the exchange of supplementary information in order to determine the measures to be taken.",
+      "mk1": "Без да е во спротивност со постапката од членовите 6(1), 8 и 12, во случај на потврдено совпаѓање со предупредување за враќање, земјата-извршител веднаш контактира со земјата членка-издавач преку размена на дополнителни информации за да да се утврдат мерките што треба да се преземат.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 104,
+      "en": "Hits at the external borders upon entry",
+      "mk1": "Потврдени совпаѓања на надворешните граници при влез",
+      "mk2": "",
+      "score": 0.3655913978494624,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 105,
+      "en": "In the event of a hit on an alert on return concerning a third-country national who is entering the territory of the Member States through the external borders, the following shall apply:",
+      "mk1": "Во случај на потврдено совпаѓање со предупредување за враќање во однос на државјанин на трета земја кој влегува на територијата на земјите членки преку надворешните граници, се применува следново:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 106,
+      "en": "(a) where the return decision is accompanied by an entry ban, the executing Member State shall immediately inform the issuing Member State through the exchange of supplementary information.",
+      "mk1": "(а) кога одлуката за враќање е придружена со забрана за влез, земјата членка-извршител веднаш ја информира земјата членка-издавач преку размена на дополнителни информации.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 107,
+      "en": "The issuing Member State shall immediately delete the alert on return and enter an alert for refusal of entry and stay pursuant to point (b) of Article 24(1) of Regulation (EU) 2018/1861;",
+      "mk1": "Земјата членка-издавач веднаш го брише предупредувањето за враќање и внесува предупредување за одбивање влез и престој во согласност со точка (б) од член 24(1) од Регулативата (ЕУ) 2018/1861;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 108,
+      "en": "(b) where the return decision is not accompanied by an entry ban, the executing Member State shall immediately inform the issuing Member State through the exchange of supplementary information, in order that the issuing Member State delete the alert on return without delay.",
+      "mk1": "(б) кога одлуката за враќање не е придружена со забрана за влез, земјата членка-извршител веднаш ја информира земјата членка-издавач преку размена на дополнителни информации со цел земјата членка-издавач да го избрише без одлагање предупредувањето за враќање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 109,
+      "en": "The decision on the entry of the third-country national shall be taken by the executing Member State in accordance with Regulation (EU) 2016/399.",
+      "mk1": "Одлуката за влез на државјанин на трета земја ја донесува земјата членка-извршител во согласност со Регулативата (ЕУ) 2016/399.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 110,
+      "en": "Prior consultation before granting or extending a residence permit or long-stay visa",
+      "mk1": "Претходно советување пред одобрување или продолжување дозвола за престој или виза за долгорочен престој",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 111,
+      "en": "Where a Member State considers granting or extending a residence permit or long-stay visa to a third-country national who is the subject of an alert on return entered by another Member State that is accompanied by an entry ban, the Member States involved shall consult each other through the exchange of supplementary information, in accordance with the following rules:",
+      "mk1": "Кога една земја членка го разгледува прашањето за одобрување или продолжување на дозвола за престој или виза за долгорочен престој на државјанин на трета земја кој е предмет на предупредување за враќање, кое го внесила друга земја членка и кое е придружено со забрана за влез, вклучените земји членки се советуваат меѓусебно преку размена на дополнителни информации, во согласност со следниве правила:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 112,
+      "en": "(a) the granting Member State shall consult the issuing Member State prior to granting or extending the residence permit or long-stay visa;",
+      "mk1": "(а) земјата членка-одобрувач се советува со земјата членка-издавач пред одобрување или продолжување на дозволата за престој или визата за долгорочен престој;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 113,
+      "en": "(b) the issuing Member State shall reply to the consultation request within 10 calendar days;",
+      "mk1": "(б) земјата членка-издавач на барањето за советување одговара во рок од 10 календарски дена;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 114,
+      "en": "(c) the absence of a reply by the deadline referred to in point (b) shall mean that the issuing Member State does not object to the granting or extending of the residence permit or long-stay visa;",
+      "mk1": "(в) отсуството на одговор до крајниот рок наведен во точка (б) значи дека земјата членка-издавач нема приговор на одобрувањето или продолжувањето на дозволата за престој или визата за долгорочен престој;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 115,
+      "en": "(d) when making the relevant decision, the granting Member State shall take into account the reasons for the decision of the issuing Member State and shall consider, in accordance with national law, any threat to public policy or to public security which the presence of the third-country national in question on the territory of the Member States may pose;",
+      "mk1": "(г) при донесувањето на соодветната одлука, земјата членка-одобрувач ги зема предвид причините за одлуката на земјата членка-издавач и ја разгледува, во согласност со националното законодавство, секоја закана за јавниот ред или јавната безбедност што може да биде предизвикана од присуството на предметниот државјанин на трета земја на територијата на земјите членки;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 116,
+      "en": "(e) the granting Member State shall notify the issuing Member State of its decision; and",
+      "mk1": "(д) земјата членка-одобрувач за својата одлука ја известува земјата членка-издавач; и",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 117,
+      "en": "The final decision on whether to grant a residence permit or long-stay visa to a third-country national rests with the granting Member State.",
+      "mk1": "Конечната одлука дали да се одобри дозвола за престој или виза за долгорочен престој на државјанин на трета земја ја донесува земјата членка-одобрувач.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 118,
+      "en": "Where a Member State considers granting or extending a residence permit or long-stay visa to a third-country national who is the subject of an alert on return entered by another Member State which is not accompanied by an entry ban, the granting Member State shall inform without delay the issuing Member State that it intends to grant or has granted a residence permit or a long-stay visa.",
+      "mk1": "Кога една земја членка го разгледува прашањето за одобрување или продолжување на дозвола за престој или виза за долгорочен престој на државјанин на трета земја кој е предмет на предупредување за враќање, кое го внесила друга земја членка а кое не е придружено со забрана за влез, земјата членка-одобрувач без одлагање ја известува земјата членка-издавач дека намерава да одобри или дека одобрила дозвола за престој или виза за привремен престој.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 119,
+      "en": "The issuing Member State shall delete the alert on return without delay.",
+      "mk1": "Земјата членка која издава без одлагање го брише предупредувањето за враќање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 120,
+      "en": "Prior consultation before entering an alert on return",
+      "mk1": "Претходно советување пред внесување предупредување за враќање",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 121,
+      "en": "Where a Member State has issued a return decision in accordance with Article 6(2) of Directive 2008/115/EC and considers entering an alert on return concerning a third-country national who is the holder of a valid residence permit or long-stay visa granted by another Member State, the Member States involved shall consult each other, through the exchange of supplementary information, in accordance with the following rules:",
+      "mk1": "Кога земја членка донела одлука за враќање во согласност со член 6(2) од Директивата 2008/115/ЕЗ и разгледува да воведе предупредување за враќање за државјанин на трета земја кој е носител на важечка дозвола за престој или виза за долгорочен престој одобрена од друга земја членка, вклучените земји членки се советуваат меѓусебно, преку размена на дополнителни информации, во согласност со следните правила:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 122,
+      "en": "(a) the Member State that has taken the return decision shall inform the granting Member State of the decision;",
+      "mk1": "(а) земјата членка која ја донела одлуката за враќање ја известува за одлуката земјата членка-одобрувач;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 123,
+      "en": "(b) the information exchanged under point (a) shall include sufficient detail on the reasons for the return decision;",
+      "mk1": "(б) информациите разменети според точката (а) вклучуваат доволно детали за причините за одлуката за враќање;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 124,
+      "en": "(c) on the basis of the information provided by the Member State that has taken the return decision, the granting Member State shall consider whether there are reasons for withdrawing the residence permit or long-stay visa;",
+      "mk1": "(в) врз основа на информациите кои ги добила од земјата членка која ја донела одлуката за враќање, земјата членка-одобрувач разгледува дали има причини за повлекување на дозволата за престој или визата за долгорочен престој;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 125,
+      "en": "(d) when making the relevant decision, the granting Member State shall take into account the reasons for the decision of the Member State that has taken the return decision and shall consider, in accordance with national law, any threat to public policy or to public security which the presence of the third-country national in question on the territory of the Member States may pose;",
+      "mk1": "(г) при донесувањето на соодветната одлука, земјата членка-одобрувач ги зема предвид причините за одлуката на земјата членка која донела одлука за враќање и ја разгледува, во согласност со националното право, секоја закана за јавниот ред или за јавната безбедност што може да биде предизвикана од присуството на предметниот државјанин на трета земја на територијата на земјите членки;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 126,
+      "en": "(e) within 14 calendar days of receipt of the request for consultation the granting Member State shall notify the Member State that has taken the return decision of its decision or, where it has been impossible for the granting Member State to take a decision within that period, shall make a reasoned request to extend exceptionally the time period for its response for a maximum of a further 12 calendar days;",
+      "mk1": "(д) во рок од 14 календарски дена од приемот на барањето за советување, земјата членка-одобрувач ја известува земјата членка која ја донела одлуката за враќање за нејзината одлука или ако не било можно земјата членка-одобрувач да донесе одлука во тој рок, поднесува образложено барање за вонредно продолжување на рокот за одговор за најмногу дополнителни 12 календарски дена;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 127,
+      "en": "A posteriori consultation after entering an alert on return",
+      "mk1": "Подоцнежно советување пo внесување",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 128,
+      "en": "Where it emerges that a Member State has entered an alert on return concerning a third-country national who is the holder of a valid residence permit or long-stay visa granted by another Member State, the issuing Member State may decide to withdraw the return decision.",
+      "mk1": "Ако се утврди дека земја членка внела предупредување за враќање за државјанин на трета земја кој е носител на важечка дозвола за престој или виза за долгорочен престој одобрена од друга земја членка, земјата членка-издавач може да одлучи да ја повлече одлуката за враќање .",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 129,
+      "en": "(f) where the granting Member State notifies the Member State that has taken the return decision that it is maintaining the residence permit or long-stay visa, the Member State that has taken the return decision shall not enter the alert on return.",
+      "mk1": "(ѓ) кога земјата членка-одобрувач ја известува земјата членка која ја донела одлуката за враќање дека дозволата за престој или визата за долгорочен престој остануваат важечки, земјата членка која ја донела одлуката за враќање нема да го внесе предупредувањето за враќање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 130,
+      "en": "In the case of such withdrawal, it shall immediately delete the alert on return.",
+      "mk1": "Во случај на такво повлекување, таа веднаш го брише предупредувањето за враќање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 131,
+      "en": "However, where the issuing Member State decides to maintain the return decision issued in accordance with Article 6(2) of Directive 2008/115/EC, the Member States involved shall consult each other, through the exchange of supplementary information, in accordance with the following rules:",
+      "mk1": "Меѓутоа, кога земјата членка-издавач одлучи да ја задржи одлуката за враќање издадена во согласност со член 6(2) од Директивата 2008/115/ЕЗ, вклучените земји членки се консултираат меѓусебно, преку размена на дополнителни информации, во согласност со следниве правила:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 132,
+      "en": "(a) the issuing Member State shall inform the granting Member State of the return decision;",
+      "mk1": "(а) земјата членка-издавач ја известува земјата членка-одобрувач за одлуката за враќање;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 133,
+      "en": "(b) the information exchanged under point (a) shall include sufficient detail on the reasons for the alert on return;",
+      "mk1": "(б) информациите разменети според точката (а) вклучуваат доволно детали за причините за одлуката за враќање;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 134,
+      "en": "(c) on the basis of the information provided by the issuing Member State, the granting Member State shall consider whether there are reasons for withdrawing the residence permit or long-stay visa;",
+      "mk1": "(в) врз основа на информациите кои ги добила од земјата членка-издавач, земјата членка-одобрувач разгледува дали има причини за повлекување на дозволата за престој или визата за долгорочен престој;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 135,
+      "en": "(d) when making its decision, the granting Member State shall take into account the reasons for the decision of the issuing Member State and shall consider, in accordance with national law, any threat to public policy or to public security which the presence of the third-country national in question on the territory of the Member States may pose;",
+      "mk1": "(г) при донесувањето на својата одлука, земјата членка одобрувач ги зема предвид причините за одлуката на земјата членка-издавач и ја разгледува, во согласност со националното право, секоја закана за јавниот ред или јавната безбедност што може да биде предизвикана од присуството на предметниот државјанин на трета земја на територијата на земјите членки;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 136,
+      "en": "(e) within 14 calendar days of receipt of the request for consultation the granting Member State shall notify the issuing Member State of its decision or, where it has been impossible for the granting Member State to take a decision within that period, shall make a reasoned request to extend exceptionally the time period for its response for a maximum of a further 12 calendar days;",
+      "mk1": "(д) во рок од 14 календарски дена од приемот на барањето за советувања, земјата членка-одобрувач ја известува земјата членка-издавач за својата одлука или доколку не било можно земјата членка-одобрувач да донесе одлука во тој рок, поднесува образложено барање за вонредно продолжување на рокот за одговор за најмногу дополнителни 12 календарски дена;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 137,
+      "en": "(f) where the granting Member State notifies the issuing Member State that it is maintaining the residence permit or long-stay visa, the issuing Member State shall immediately delete the alert on return.",
+      "mk1": "(ѓ) кога земјата членка-одобрувач ја извести земјата членк-издавач дека ја задржува дозволата за престој или визата за долгорочен престој, земјата членка-издавач веднаш го брише предупредувањето за враќањето.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 138,
+      "en": "Consultation in the case of a hit concerning a third-country national holding a valid residence permit or long-stay visa",
+      "mk1": "Советувања во случај на потврдено совпаѓање за државјанин од трета земја кој поседува важечка дозвола за престој или виза за долгорочен престој",
+      "mk2": "",
+      "score": 0.37320574162679426,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 139,
+      "en": "Where a Member State encounters a hit on an alert on return entered by a Member State concerning a third-country national who is the holder of a valid residence permit or long-stay visa granted by another Member State, the Member States involved shall consult each other through the exchange of supplementary information, in accordance with the following rules:",
+      "mk1": "Кога земја членка утврди потврдено совпаѓање за предупредување за враќање внесено од земја членка за државјанин од трета земја кој е носител на важечка дозвола за престој или виза за долгорочен престој која е одобрена од друга земја членка, вклучените земји членки се консултираат меѓусебно, преку размена на дополнителни информации, во согласност со следните правила:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 140,
+      "en": "(a) the executing Member State shall inform the issuing Member State of the situation;",
+      "mk1": "(а) земјата членка-извршител ја известува земјата членка -издавач за ситуацијата;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 141,
+      "en": "(b) the issuing Member State shall initiate the procedure laid down in Article 11;",
+      "mk1": "(б) земјата членка-издавач покренува постапка утврдена во член 11;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 142,
+      "en": "Statistics on exchange of information",
+      "mk1": "Статистички податоци за размена на информации",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 143,
+      "en": "Member States shall provide statistics to eu-LISA on an annual basis on the exchanges of information carried out in accordance with Articles 8 to 12 and on the instances in which the deadlines provided for in those Articles were not met.",
+      "mk1": "Земјите членки еднаш годишно доставуваат до Агенцијата еу-ЛИСА статистички податоци за размените на информации спроведени во согласност со членовите од 8 до 12 и за случаите во кои што роковите предвидени во тие членови не биле испочитувани.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 144,
+      "en": "Deletion of alerts",
+      "mk1": "Бришење на предупредувања",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 145,
+      "en": "In addition to Articles 6 and 8 to 12, alerts on return shall be deleted when the decision on the basis of which the alert was entered has been withdrawn or annulled by the competent authority.",
+      "mk1": "Освен во случаите во член 6 и членовите од 8 до 12, предупредувањата за враќање се бришат кога одлуката врз основа на која е внесено предупредувањето е повлечена или поништена од надлежниот орган.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 146,
+      "en": "Alerts on return shall also be deleted when the third-country national concerned can demonstrate that he or she has left the territory of the Member States in compliance with the respective return decision.",
+      "mk1": "Предупредувањата за враќање се бришат и кога засегнатиот државјанин на трета земја може да докаже дека ја напуштил територијата на земјите членки во согласност со соодветната одлука за враќање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 147,
+      "en": "Alerts on return concerning a person who has acquired citizenship of a Member State or of any State whose nationals are beneficiaries of the right of free movement under Union law shall be deleted as soon as the issuing Member State becomes aware, or is so informed pursuant to Article 44 of Regulation (EU) 2018/1861 that the person in question has acquired such citizenship.",
+      "mk1": "Предупредувањата за враќање кои се однесуваат на лице кое стекнало државјанство на земја членка или на која било држава чии државјани се корисници на правото на слободно движење според правото на Унијата се бришат штом земјата членка-издавач дознае дека предметното лице стекнало такво државјанство или е известена за тоа во согласност со член 44 од Регулативата (ЕУ) 2018/1861У) 2018/1861.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 148,
+      "en": "Transfer of personal data to third countries for the purpose of return",
+      "mk1": "Пренос на лични податоци во трети земји целите на враќањето",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 149,
+      "en": "By way of derogation from Article 50 of Regulation (EU) 2018/1861, the data referred to in points (a), (b), (c), (d), (e), (f), (g), (h), (q), (r), (s), (t), (u), (v) and (w) of Article 4(1) of this Regulation and the related supplementary information may be transferred or made available to a third country with the agreement of the issuing Member State.",
+      "mk1": "По пат на отстапување од член 50 од Регулативата (ЕУ) 2018/1861 година, податоците наведени во точките (а), (б), (в), (г), (д), (ѓ), (е), (ж), (н), (њ), (о), (п), (р), (с) и (т) од член 4(1) од оваа регулатива и поврзаните дополнителни информации може да се пренесат или се стават на располагање на трета земја со согласност на земјата членка-издавач.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 150,
+      "en": "The transfer of the data to a third country shall be carried out in accordance with the relevant provisions of Union law, in particular provisions on protection of personal data, including Chapter V of Regulation (EU) 2016/679, with readmission agreements where applicable, and with the national law of the Member State transferring the data.",
+      "mk1": "Преносот на податоците во трета земја се врши во согласност со релевантните одредби од правото на Унијата, особено одредбите за заштита на личните податоци, вклучително и Поглавјето V од Регулативата (ЕУ) 2016/679, со договори за реадмисија, каде што е применливо, и со националното право на земјата членка која ги пренесува податоците.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 151,
+      "en": "The transfers of data to a third country shall take place only when the following conditions are met:",
+      "mk1": "Преносот на податоци во трета земја се врши само кога се исполнети следниве услови:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 152,
+      "en": "(a) the data is transferred or made available solely for the purpose of identification of, and issuance of an identification or travel document to, an illegally staying third-country national in view of his or her return;",
+      "mk1": "(а) податоците се пренесуваат или се достапни само заради идентификување и издавање лична или патна исправа на државјанин на трета земја со незаконски престој со цел негово или нејзино враќање;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 153,
+      "en": "(b) the third-country national concerned has been informed that his or her personal data and supplementary information may be shared with the authorities of a third country.",
+      "mk1": "(б) засегнатиот државјанин на трета земја е известен дека неговите/нејзините лични податоци и дополнителни информации може да се споделат со органите на трета земја.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 154,
+      "en": "Transfers of personal data to third countries pursuant to this Article shall not prejudice the rights of applicants for and beneficiaries of international protection, in particular as regards non-refoulement, and the prohibition on disclosing or obtaining information set out in Article 30 of Directive 2013/32/EU of the European Parliament and of the Council ().",
+      "mk1": "Преносот на лични податоци во трети земји врз основа на овој член не ги доведува во прашање правата на барателите на меѓународна заштита и на корисниците на меѓународна заштита, особено во однос на принципот на невраќање и забраната за откривање или добивање информации утврдени во член 30 од Директивата 2013/32/ЕУ на Европскиот парламент и на Советот ().",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 155,
+      "en": "Directive 2013/32/EU of the European Parliament and of the Council of 26 June 2013 on common procedures for granting and withdrawing international protection (OJ L 180, 29.6.2013, p. 60).",
+      "mk1": "Директива 2013/32/ЕУ на Европскиот парламент и на Советот од 26 јуни 2013 година за заеднички постапки за доделување и повлекување меѓународна заштита (Сл.весник L 180, 29.6.2013 год., стр. 60).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 156,
+      "en": "Data processed in SIS and the related supplementary information exchanged pursuant to this Regulation shall not be made available to a third country where the enforcement of the return decision was suspended or postponed, including as a result of the lodging of an appeal, on grounds that such return would violate the principle of non-refoulement.",
+      "mk1": "Податоците обработени во СИС и поврзаните дополнителни информации разменети во согласност со оваа регулатива нема да бидат достапни на трета земја каде што извршувањето на одлуката за враќање е суспендирано или одложено, вклучително и како резултат на жалба, бидејќи таквото враќањето би го прекршило принципот на невраќање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 157,
+      "en": "Application of Regulation (EU) 2016/679, including with regard to the transfer of personal data to third countries pursuant to this Article, and in particular the use, proportionality and necessity of transfers based on point (d) of Article 49(1) of that Regulation, shall be subject to monitoring by the independent supervisory authorities referred to in Article 51(1) of that Regulation.",
+      "mk1": "Примена на Регулативата (ЕУ) 2016/679, вклучително и во однос на преносот на лични податоци во трети земји согласно овој член, а особено употребата, пропорционалноста и неопходноста од пренос на податоци врз основа на точка (г) од член 49(1) од таа регулатива, се предмет на следење од страна на независните надзорни органи наведени во член 51(1) од таа регулатива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 158,
+      "en": "Statistics",
+      "mk1": "Статистички податоци",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 159,
+      "en": "eu-LISA shall produce daily, monthly and annual statistics, both for each Member State and in aggregate, on the number of alerts on return entered into SIS.",
+      "mk1": "Агенцијата еу-ЛИСА изготвува дневни, месечни и годишни статистички податоци, изразени поединечно за секоја земја членка и збирно, за бројот на предупредувања за враќање внесени во СИС.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 160,
+      "en": "The statistics shall include the data referred to in point (y) of Article 4(1), the number of notifications referred to in Article 7(1) and the number of alerts on return that have been deleted. eu-LISA shall produce statistics on the data provided by the Member States in accordance with Article 6(3) and Article 13.",
+      "mk1": "Статистичките податоци вклучуваат податоците од точка (y) на член 4(1), бројот на известувања од член 7(1) и бројот на избришани предупредувања за враќање. Агенцијата еу-ЛИСА изготвува статистички податоци за податоците обезбедени од земјите-членки во согласност со член 6(3) и член 13.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 161,
+      "en": "The statistics shall not contain any personal data.",
+      "mk1": "Статистичките податоци нема да содржат никакви лични податоци.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 162,
+      "en": "Those statistics shall be included in the annual statistical report provided for in Article 60(3) of Regulation (EU) 2018/1861.",
+      "mk1": "Тие статистички податоци се вклучени во годишниот статистички извештај предвиден во член 60(3) од Регулативата (ЕУ) 2018/1861 година.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 163,
+      "en": "Competent authorities having a right to access data in SIS",
+      "mk1": "Надлежни органи со право на пристап до податоците во СИС",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 164,
+      "en": "Access to data in SIS and the right to search such data shall be reserved to the national competent authorities referred to in Article 34(1), (2) and (3) of Regulation (EU) 2018/1861.",
+      "mk1": "Пристап до податоците во СИС и правото на пребарување на тие податоци имаат само националните надлежни органи наведени во член 34(1), (2) и (3) од Регулативата (ЕУ) 2018/1861.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 165,
+      "en": "Europol shall within its mandate have the right to access and search data in SIS in accordance with Article 35 of Regulation (EU) 2018/1861 for the purpose of supporting and strengthening action by the competent authorities of the Member States and their mutual cooperation in preventing and combating migrant smuggling and facilitation of irregular migration.",
+      "mk1": "Европол во рамките на својот мандат има право на пристап и пребарување на податоци во СИС во согласност со член 35 од Регулативата (ЕУ) 2018/1861 со цел поддршка и зајакнување на дејствата на надлежните органи на земјите членки и нивната меѓусебна соработка во спречувањето и борба против криумчарењето мигранти и олеснување на незаконската миграција.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 166,
+      "en": "Members of the teams referred to in points (8) and (9) of Article 2 of Regulation (EU) 2016/1624 shall within their mandate have the right to access and search data in SIS in accordance with Article 36 of Regulation (EU) 2018/1861 for the purpose of carrying out border checks, border surveillance and return operations through the technical interface set up and maintained by the European Border and Coast Guard Agency.",
+      "mk1": "Членовите на тимовите наведени во точките (8) и (9) од член 2 од Регулативата (ЕУ) 2016/1624 во рамките на нивниот мандат имаат право на пристап до податоците внесени во СИС и нивно пребарување во согласност со член 36 од Регулативата (ЕУ) 2018/1861 со цел извршување гранични проверки, граничен надзор и операции за враќање преку техничкиот интерфејс воспоставен и одржуван од Европската агенција за гранична и крајбрежна стража.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 167,
+      "en": "The Commission shall evaluate the application of this Regulation within two years of the date of the start of its application.",
+      "mk1": "Комисијата ја оценува примената на оваа регулатива во рок од две години од датумот на почетокот на нејзината примена.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 168,
+      "en": "This evaluation shall include an assessment of the possible synergies between this Regulation and Regulation (EU) 2017/2226 of the European Parliament and of the Council ().",
+      "mk1": "Ова оценување вклучува оцена на можните синергии помеѓу оваа Регулатива и Регулативата (ЕУ) 2017/2226 на Европскиот парламент и на Советот ().",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 169,
+      "en": "Regulation (EU) 2017/2226 of the European Parliament and of the Council of 30 November 2017 establishing an Entry/Exit System (EES) to register entry and exit data and refusal of entry data of third-country nationals crossing the external borders of the Member States and determining the conditions for access to the EES for law enforcement purposes, and amending the Convention implementing the Schengen Agreement and Regulations (EC) No 767/2008 and (EU) No 1077/2011 (OJ L 327, 9.12.2017, p. 20).",
+      "mk1": "Регулатива (ЕУ) 2017/2226 на Европскиот парламент и на Советот од 30 ноември 2017 година за воспоставување систем за влез/излез (СВИ) за регистрација на податоци за влез и излез и одбивање на податоци за влез на државјани на трета земја кои ги преминуваат надворешните граници на земјите членки и утврдување на условите за пристап до СВИ за целите на спроведување на законот и изменување на Конвенцијата за спроведување на Шенгенскиот договор и Регулативите (ЕЗ) бр. 767/2008 и (ЕУ) бр. 1077/2011 (Сл. весник L 327, 9.12.2017 година, стр. 20).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 170,
+      "en": "▼M1",
+      "mk1": "▼M1",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 171,
+      "en": "Applicability of Regulation (EU) 2018/1861",
+      "mk1": "Применливост на Регулатива (ЕУ) 2018/1861",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 172,
+      "en": "Insofar as not established in this Regulation, the entry, processing and updating of alerts, the provisions on responsibilities of the Member States and eu-LISA, the conditions concerning access and the review period for alerts, data processing, data protection, liability and monitoring and statistics, as laid down in Articles 6 to 19, Article 20(3) and (4), Articles 21, 23, 32 and 33, Article 34(5) and Articles 36a, 36b, 36c and 38 to 60 of Regulation (EU) 2018/1861, shall apply to data entered and processed in SIS in accordance with this Regulation.",
+      "mk1": "Доколку не е утврдено во оваа регулатива, внесувањето, обработката и ажурирањето на предупредувањата, одредбите за одговорностите на земјите членки и Агенцијата еу-ЛИСА, условите за пристап и рокот за преглед на предупредувањата, обработката на податоци, заштитата на податоци, одговорноста, следењето и статистичките податоци, како што е наведено во членовите од 6 до 19, член 20(3) и (4), членовите 21, 23, 32 и 33, член 34(5), членовите 36а, 36б, 36в и членовите од 38 до 60 од Регулативата ( ЕУ) 2018/1861 година, се применуваат за податоците внесени и обработени во СИС во согласност со оваа регулатива.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 173,
+      "en": "▼B",
+      "mk1": "▼Б",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 174,
+      "en": "Entry into force",
+      "mk1": "Влегување во сила",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 175,
+      "en": "This Regulation shall enter into force on the twentieth day following its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила на дваесетиот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 176,
+      "en": "It shall apply from the date set by the Commission in accordance with Article 66(2) of Regulation (EU) 2018/1861.",
+      "mk1": "Се применува од датумот утврден од Комисијата во согласност со член 66(2) од Регулативата (ЕУ) 2018/1681.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 177,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in the Member States in accordance with the Treaties.",
+      "mk1": "Оваа регулатива е целосно обврзувачка и директно применлива во сите земји членки во согласност со Договорите.",
+      "mk2": "",
+      "score": 0.2857142857142857,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 178,
+      "en": "CHAPTER XIII",
+      "mk1": "ПОГЛАВЈЕ XIII",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 179,
+      "en": "Right of access and review of alerts",
+      "mk1": "Право на пристап и преглед на предупредувања",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 180,
+      "en": "National competent authorities having a right to access data in SIS",
+      "mk1": "Националните надлежни органи кои имаат право на пристап до податоците во SIS",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 181,
+      "en": "National competent authorities shall have access to data entered in SIS and the right to search such data directly or in a copy of the SIS database for the purposes of:",
+      "mk1": "Националните надлежни органи имаат пристап до податоците внесени во SIS и право на пребарување на тие податоци директно или во копија од базата на податоци на SIS за целите на:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 182,
+      "en": "(a) border control, in accordance with Regulation (EU) 2016/399;",
+      "mk1": "(а) гранична контрола, во согласност со Регулативата (ЕУ) 2016/399;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 183,
+      "en": "(b) police and customs checks carried out within the Member State concerned, and the coordination of such checks by designated authorities;",
+      "mk1": "(б) полициски и царински проверки извршени во засегнатата земја членка и координација на таквите проверки од органи назначени за таа цел;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 184,
+      "en": "(c) the prevention, detection, investigation or prosecution of terrorist offences or other serious criminal offences or the execution of criminal penalties, within the Member State concerned, provided that Directive (EU) 2016/680 applies;",
+      "mk1": "(в) спречување, откривање, истрага или гонење на кривични дела за тероризам или други сериозни кривични дела или извршување на кривични казни, во рамките на засегнатата земја членка, под услов да се применува Директивата (ЕУ) 2016/680;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 185,
+      "en": "(d) examining the conditions and taking decisions related to the entry and stay of third-country nationals on the territory of the Member States, including on residence permits and long-stay visas, and to the return of third-country nationals, as well as carrying out checks on third country nationals who are illegally entering or staying on the territory of the Member States;",
+      "mk1": "(г) испитување на условите и донесување одлуки поврзани со влез и престој на државјани на трети земји на територијата на земјите членки, вклучително и дозволи за престој и визи за долгорочен престој, и враќањето на државјани на трети земји, како и вршење проверки на државјани на трети земји кои незаконски влегуваат или престојуваат на територијата на земјите членки;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 186,
+      "en": "(e) security checks on third-country nationals who apply for international protection, insofar as authorities performing the checks are not ‘determining authorities’ as defined in point (f) of Article 2 of Directive 2013/32/EU of the European Parliament and of the Council , and, where relevant, providing advice in accordance with Council Regulation (EC) No 377/2004 ;",
+      "mk1": "(д) безбедносни проверки на државјани на трети земји кои поднесуваат барање за меѓународна заштита, доколку органите што ги вршат проверките не се „органи за одлучување“ како што е дефинирано во точка (ѓ) од член 2 од Директивата 2013/32/ЕУ на Европскиот парламент и на Советот и, каде што е релевантно, давање совети во согласност со Регулативата (ЕЗ) бр. 377/2004 на Советот ;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 187,
+      "en": "Directive 2013/32/EU of the European Parliament and of the Council of 26 June 2013 on common procedures for granting and withdrawing international protection (OJ L 180, 29.6.2013, p. 60).",
+      "mk1": "Директива 2013/32/ЕУ на Европскиот парламент и на Советот од 26 јуни 2013 година за заеднички постапки за доделување и повлекување меѓународна заштита (Сл.весник L 180, 29.6.2013 год., стр. 60).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 188,
+      "en": "Council Regulation (EC) No 377/2004 of 19 February 2004 on the creation of an immigration liaison officers network (OJ L 64, 2.3.2004, p. 1).",
+      "mk1": "Регулатива (ЕЗ) бр. 377/2004 на Советот од 19 февруари 2004 година за создавање мрежа на офицери за врски за имиграција (Сл. весник L 64, 2.3.2004 год., стр. 1).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 189,
+      "en": "▼M1",
+      "mk1": "▼M1",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 190,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32019R0818",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32019R0818",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 191,
+      "en": "32019R0818:",
+      "mk1": "32019R0818:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 192,
+      "en": "INSERTED",
+      "mk1": "ВНЕСЕНО",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 193,
+      "en": "(f) verifying different identities and combating identity fraud in accordance with Chapter V of Regulation (EU) 2019/818;",
+      "mk1": "(ѓ) проверка на различни идентитети и борба против измамата со идентитетот во согласност со Поглавје V од Регулативата (ЕУ) 2019/818;",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 194,
+      "en": "▼M2",
+      "mk1": "▼M2",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 195,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32021R1150",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32021R1150",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 196,
+      "en": "(h) the manual processing of ETIAS applications by the ETIAS National Unit, pursuant to Article 8 of Regulation (EU) 2018/1240.",
+      "mk1": "(ж) рачна обработка на барањата во ETIAS од националната единица на ETIAS, во согласност со член 8 од Регулативата (ЕУ) 2018/1240.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 197,
+      "en": "▼B",
+      "mk1": "▼B",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 198,
+      "en": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32018R1862",
+      "mk1": "https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=celex:32018R1862",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 199,
+      "en": "32018R1862",
+      "mk1": "32018R1862:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 200,
+      "en": "The right to access data in SIS and the right to search such data directly may be exercised by national competent authorities responsible for naturalisation, as provided for in national law, for the purposes of examining an application for naturalisation.",
+      "mk1": "Правото на пристап до податоците во SIS и правото на директно пребарување на тие податоци може да го користат националните надлежни органи одговорни за натурализација, како што е предвидено во националното право, за целите на разгледување на барањето за натурализација.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 201,
+      "en": "The right to access data entered in SIS and the right to search such data directly may also be exercised by national judicial authorities, including those responsible for the initiation of public prosecutions in criminal proceedings and for judicial inquiries prior to charging a person, in the performance of their tasks, as provided for in national law, and by their coordinating authorities.",
+      "mk1": "Правото на пристап до податоците внесени во SIS и правото на директно пребарување на таквите податоци може да го користат и националните судски органи, вклучително и оние кои се одговорни за покренување кривично гонење и за спроведување судски истраги пред да се покрене обвинение против лице, при извршувањето. на нивните задачи, како што е предвидено во националното право, како и од нивните координативни органи.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 202,
+      "en": "The competent authorities referred to in this Article shall be included in the list referred to in Article 56(7).",
+      "mk1": "Надлежните органи наведени во овој член се вклучени во списокот наведен во член 56(7).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 203,
+      "en": "(f) where the granting Member State notifies the issuing Member State that it intends to grant or extend the residence permit or long-stay visa or that it has decided to do so, the issuing Member State shall delete the alert on return.",
+      "mk1": "(ѓ) кога земјата членка-одобрувач ја известува земјата членка-издавач дека намерава да ја одобри или продолжи дозволата за престој или визата за долгорочен престој или дека одлучила да го стори тоа, земјата членка-издавач го брише предупредувањето за враќање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 204,
+      "en": "(c) the issuing Member State shall notify the executing Member State of the outcome following the consultation.",
+      "mk1": "(в) земјата членка-издавач ќе ја извести земјата членка-извршител за исходот по консултациите.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 205,
+      "en": "Evaluation",
+      "mk1": "Оценување",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 206,
+      "en": "Any extension of that period shall be recorded in the alert without delay.",
+      "mk1": "Секое продолжување на тој рок без одлагање се евидентира во предупредувањето.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 207,
+      "en": "Any suspension or postponement of the enforcement of the return decision, including as a result of the lodging of an appeal, shall immediately be recorded in the alert on return.",
+      "mk1": "Секое суспендирање или одложување на извршувањето на одлуката за враќање, вклучително и како резултат на поднесување жалба, веднаш се евидентира во предупредувањето за враќање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 208,
+      "en": "Where applicable, an alert for refusal of entry and stay shall be entered without delay pursuant to point (b) of Article 24(1) of Regulation (EU) 2018/1861.",
+      "mk1": "Ако е применливо, без одлагање се внесува предупредување за одбивање на влез и престој во согласност со точката (б) од член 24(1) од Регулативата (ЕУ) 2018/1861.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 209,
+      "en": "The statistics shall not contain personal data.",
+      "mk1": "Статистичките податоци не содржат лични податоци.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 210,
+      "en": "(14) ‘long-stay visa’ means a long-stay visa as referred to in Article 18(1) of Convention of 19 June 1990 implementing the Schengen Agreement of 14 June 1985 between the governments of the States of the Benelux Economic Union, the Federal Republic of Germany and the French Republic on the gradual abolition of checks at their common borders ();",
+      "mk1": "(14) „виза за долгорочен престој“ е виза за долгорочен престој од член 18(1) од Конвенцијата од 19 јуни 1990 година за спроведување на Шенгенскиот договор од 14 јуни 1985 година помеѓу владите на државите од Економската унија на Бенелукс, Сојузна Република Германија и Република Франција за постепено укинување на проверките на нивните заеднички граници ();",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 211,
+      "en": "(b) a decision to delete them by the competent authority of the issuing Member State.",
+      "mk1": "(б) одлукa за нивно бришење донесена од надлежниот орган на земјата членка-издавач.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 212,
+      "en": "The authentic versions of the relevant acts, including their preambles, are those published in the Official Journal of the European Union and available in EUR-Lex.",
+      "mk1": "Верзиите објавени во Службениот весник на Европската Унија и достапни во ЕУРЛЕКС се автентичните верзии на соодветните акти, вклучително и нивните преамбули.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 213,
+      "en": "An alert on return shall be entered into SIS without delay following issue of a return decision.",
+      "mk1": "По издавање на одлука за враќање во СИС, без одлагање, се внесува предупредување за враќање",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 214,
+      "en": "If the third-country nationals concerned are released from detention without being removed, an alert on return shall be entered into SIS without delay.",
+      "mk1": "Доколку засегнатите државјани на трети земји повеќе не се приведени, но не се отстранети, се внесува предупредување за враќање во SIS без одлагање.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 215,
+      "en": "on the use of the Schengen Information System for the return of illegally staying third-country nationals",
+      "mk1": "за користење на Шенгенскиот информатички систем за враќање на државјани на трета земја со незаконски престој",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 216,
+      "en": "In the event of a hit on an alert on return concerning a third-country national who is exiting the territory of the Member States through the external border of a Member State, the executing Member State shall communicate the following information to the issuing Member State through the exchange of supplementary information:",
+      "mk1": "Во случај на потврдено совпаѓање со предупредување за враќање за државјанин на трета земја кој излегува од територијата на земјите членки преку надворешната граница на земја членка, земјата членка-извршител преку размена на дополнителни информации ги соопштува до земјата членка-издавач следниве информации:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 4,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02018R1860-20210803",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "REGULATION (EU) 2018/1860 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 28 November 2018",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "on the use of the Schengen Information System for the return of illegally staying third-country nationals",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА (ЕУ) 2018/1860 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 28 ноември 2018 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за користење на Шенгенскиот информациски систем за враќање на државјани на трети земји со незаконски престој",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Правда – слободно движење на лица",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С. - Скопје",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Донка Лалкова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "26.8.2022",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Schengen Information System",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Шенгенски информациски систем (СИС)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "FINALNO-Priracnik-poglavje-24-so-CIP",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула, т.4",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Alert on return",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предупреду-",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "вање за враќање",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://iate.europa.eu/search/result/1660929154122/1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ДебинициибрДефиниции бр.8",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "issuing Member State",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Земја членка -издавач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://iate.europa.eu/search/result/",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Дефиниции",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "бр.9",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "granting Member State",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Земја членка- одобрувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://iate.europa.eu/search/result/",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Дефиниции бр.10",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "executing Member State",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Земја членка -извршител",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://iate.europa.eu/search/result/",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 6, т.3",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенцијата на Европската Унија за оперативно управување со големи ИТ системи во големи размери во областа на слободата, безбедноста и правдата (Агенција еу-ЛИСА)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice (eu-LISA)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "FINALNO-Priracnik-poglavje-24-so-CIP",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник_Институции на ЕУ (СЕП)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 9",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Long-stay visa",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Виза за долгорочен престој",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.mfa.gov.mk/mk/page/433/vidovi-vizi-za-vlez-vo-republika-severna-makedonija",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Закон за странци / Сл. Веник на РМ бр. 71, 07.06.2007 год.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Член 15, т.5",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Принцип на невраќање",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "non-refoulement",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://euaa.europa.eu/sites/default/files/EASO-Frontex-access-to-procedure-practical-guide-MK.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02018R1860-20210803",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "REGULATION (EU) 2018/1860 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "of 28 November 2018",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "on the use of the Schengen Information System for the return of illegally staying third-country nationals",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "РЕГУЛАТИВА (ЕУ) 2018/1860 НА ЕВРОПСКИОТ ПАРЛАМЕНТ И НА СОВЕТОТ",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "од 28 ноември 2018 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "за користење на Шенгенскиот информациски систем за враќање на државјани на трети земји со незаконски престој",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Правда – слободно движење на лица",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија Ц.Е.С. - Скопје",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Милка Петкова",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "10.9.2022",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "член 9",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "intends",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "намерава",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "има намера",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прирачник за преведување на правните акти на Европската Унија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "член 15",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "non-refoulement",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "принцип на невраќање",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "принцип на забрана на присилно оддалечување или враќање",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Совет на Европа/Европски суд за човековите права 2016",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://www.echr.coe.int/Documents/COURTalks_Asyl_Talk_MKD.pdf",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "член 18",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "assessment",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "оцена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "процена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прирачник за преведување на правните акти на Европската Унија",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "(Сл. Ввесник L 239, 22.9.2000 година, стр. 19).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Директива 2013/32/ЕУ на Европскиот парламент и на Советот од 26 јуни 2013 година за заеднички постапки за доделување и повлекување меѓународна заштита (Сл.весник L 180, 29.6.2013 година, стр. 60).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "доделување и повлекување меѓународна заштита (Сл.весник L 180, 29.6.2013 година, стр. 60).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Регулатива (ЕУ) 2017/2226 на Европскиот парламент и на Советот од 30 ноември 2017 година, за воспоставување систем за влез/излез (СВИ) за регистрација на податоци, за влез и излез и одбивање на податоци за влез на државјани на трета земја кои ги преминуваат надворешните граници на земјите членки и утврдување на условите за пристап до СВИ за целите на спроведување на законот и изменување на Конвенцијата за спроведување на Шенгенскиот договор и Регулативите (ЕЗ) бр. 767/2008 и (ЕУ) бр. 1077/2011 (Сл. весник L 327, 9.12.2017 година, стр. 20).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 38,
+        "text": "(Сл. Ввесник L 239, 22.9.2000 година, стр. 19)."
+      },
+      {
+        "ref": "2",
+        "body_index": 161,
+        "text": "Директива 2013/32/ЕУ на Европскиот парламент и на Советот од 26 јуни 2013 година за заеднички постапки за доделување и повлекување меѓународна заштита (Сл.весник L 180, 29.6.2013 година, стр. 60). доделување и повлекување меѓународна заштита (Сл.весник L 180, 29.6.2013 година, стр. 60)."
+      },
+      {
+        "ref": "3",
+        "body_index": 175,
+        "text": "Регулатива (ЕУ) 2017/2226 на Европскиот парламент и на Советот од 30 ноември 2017 година, за воспоставување систем за влез/излез (СВИ) за регистрација на податоци, за влез и излез и одбивање на податоци за влез на државјани на трета земја кои ги преминуваат надворешните граници на земјите членки и утврдување на условите за пристап до СВИ за целите на спроведување на законот и изменување на Конвенцијата за спроведување на Шенгенскиот договор и Регулативите (ЕЗ) бр. 767/2008 и (ЕУ) бр. 1077/2011 (Сл. весник L 327, 9.12.2017 година, стр. 20)."
+      }
+    ]
+  },
+  "dry_run": true
+}

@@ -1,0 +1,11 @@
+{
+  "status": "PASS",
+  "duplicateIdempotencyKey": "returns one reserved generation in repository contract",
+  "concurrentDuplicates": { "requests": 8, "generationIds": 1, "status": "PASS" },
+  "databaseGuards": [
+    "unique(project_id,generation_kind,idempotency_key)",
+    "partial unique active input fingerprint index",
+    "unique(document_version_id,generation_kind,generation_number)"
+  ],
+  "storageOverwrite": false
+}

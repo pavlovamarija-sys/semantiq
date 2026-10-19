@@ -1,0 +1,42 @@
+export const ui = {
+  mk: {
+    projects: "Проекти", newProject: "Нов проект", createProject: "Креирај проект", projectDirectory: "Список на проекти",
+    deadline: "Краен рок", optional: "незадолжително", documents: "Документи", calendar: "Календар", terminology: "Терминологија",
+    translatorPool: "База на преведувачи", translationMemory: "Преведувачка меморија", humanReview: "Човечка ревизија",
+    save: "Зачувај", cancel: "Откажи", delete: "Избриши", edit: "Уреди", view: "Преглед", close: "Затвори",
+    today: "Денес", agenda: "Агенда", previousMonth: "Претходен месец", nextMonth: "Следен месец",
+    noEvents: "Нема настани за овој датум.", addEvent: "Додај настан", newEvent: "Нов настан", editEvent: "Уреди настан",
+    title: "Наслов", date: "Датум", time: "Време", project: "Проект", description: "Опис", noProject: "Без поврзан проект", noAssociatedProject: "Без поврзан проект",
+    projectDeadline: "Краен рок на проектот", openProject: "Отвори проект", calendarEvent: "Календарски настан", updateSelectedEvent: "Ажурирај го избраниот календарски настан", addToCalendar: "Додај настан во календарот",
+    saveChanges: "Зачувај ги измените", saving: "Се зачувува…", deleting: "Се брише…", deleteEvent: "Избриши настан",
+    totalProjects: "Вкупно проекти", convertedDocx: "Конвертирани DOCX", workspace: "Работен простор", settings: "Поставки",
+    signOut: "Одјави се", yourProjects: "Вашите проекти", workspaceSubtitle: "Ваш работен простор за превод на правото на ЕУ",
+    projectName: "Име на проектот", enterProjectName: "Внесете име на проектот", searchProjects: "Пребарај проекти…", search: "Пребарај",
+    noProjects: "Сè уште нема проекти. Креирајте го првиот проект за да започнете.", noProjectMatches: "Ниту еден проект не одговара на пребарувањето.",
+    projectActivity: "Активност на проектите", latestActivity: "Последни увози, конверзии и преводи", noDocumentActivity: "Сè уште нема активност со документи",
+    quickAccess: "Брз пристап", importAcquis: "Увези правни акти на ЕУ", openWorkspace: "Отвори работен простор",
+    createProjectFirst: "Креирајте проект за пристап до алатките за увоз и работниот простор.", overdue: "Задоцнето", due: "Рок",
+    deadlineSaved: "Зачувано", chooseValidDeadline: "Изберете валиден краен рок.",
+    manageLegalTranslators: "Управувајте со вашите правни преведувачи", peopleAndLanguage: "ЛУЃЕ И ЈАЗИЦИ",
+    projectsDashboard: "Контролна табла за проекти", addTranslator: "Додај преведувач", import: "Увези", fullName: "Име и презиме",
+    email: "Е-пошта", languagePair: "Јазична комбинација", specialization: "Специјализација", availability: "Достапност", notes: "Белешки", actions: "Дејства",
+    available: "Достапен", busy: "Зафатен", unavailable: "Недостапен", allLanguagePairs: "Сите јазични комбинации", allAvailability: "Сите статуси",
+    sortName: "Подреди: име", sortSpecialization: "Подреди: специјализација", searchTranslators: "Пребарај по име, е-пошта или специјализација",
+    noTranslators: "Сè уште нема додадени преведувачи.", noTranslatorMatches: "Ниту еден преведувач не одговара на филтрите.",
+    sourceLanguage: "Изворен јазик", targetLanguage: "Целен јазик", addTranslatorTitle: "Додај преведувач", editTranslator: "Уреди преведувач",
+    keepDetailsCurrent: "Одржувајте ги податоците во списокот ажурирани", saveTranslator: "Зачувај преведувач",
+    importTranslators: "Увези преведувачи", chooseFile: "Избери CSV или XLSX датотека", chooseDifferentFile: "Избери друга датотека",
+    validateBeforeImport: "Редовите се проверуваат пред увоз", confirmImport: "Потврди увоз", previewRows: "Преглед на редови",
+    sourceDocument: "Изворен документ", translation: "Превод", files: "Датотеки", metadata: "Метаподатоци", history: "Историја",
+    information: "Информации", relatedDocuments: "Поврзани документи", download: "Преземи", status: "Статус", added: "Додадено",
+    noDocuments: "Сè уште нема документи", uploadStart: "Поставете PDF или увезете официјален CELEX документ за да започнете.",
+  },
+  en: {
+    projects: "Projects", newProject: "New Project", createProject: "Create Project", projectDirectory: "Project Directory",
+    deadline: "Deadline", optional: "optional", documents: "Documents", calendar: "Calendar", terminology: "Terminology",
+    translatorPool: "Translator Pool", translationMemory: "Translation Memory", humanReview: "Human Review", save: "Save", cancel: "Cancel",
+  },
+} as const;
+
+export const t = ui.mk;
+export const MK_LOCALE = "mk-MK";

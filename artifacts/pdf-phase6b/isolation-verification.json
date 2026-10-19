@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "flagOff": "shadow helper returns null and active path is unchanged",
+  "shadowSuccess": "active conversion result remains the existing DOCX",
+  "shadowException": "caught/logged without throw into active transformation",
+  "shadowValidationFailure": "returned as shadow failed/diagnostic only",
+  "shadowTimeout": "caught by helper timeout and active result unaffected",
+  "activeFailure": "shadow cannot rescue or replace active failure",
+  "shadowArtifactsAuthoritative": false
+}

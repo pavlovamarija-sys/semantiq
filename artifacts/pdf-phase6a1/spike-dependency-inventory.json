@@ -1,0 +1,10 @@
+{
+  "source": "workers/pdf-to-docx/spikes/typed_model_phase1.py",
+  "productionInferenceCore": ["Box", "SourceRef", "StyleEvidence", "Node", "Fragment", "extract_fragments", "_page_layout_order", "_aligned_table_regions", "_table_rows_from_region", "_link_cross_page_tables", "_table_node", "_classify_text_node", "_merge_fragments", "classify_paragraph_boundary", "_resolve_paragraph_boundaries", "build_typed_document"],
+  "productionDocxSerialization": ["render_docx", "render_docx_phase2b"],
+  "productionValidationSupport": ["validate_structural_reading_order", "assert_source_model_integrity", "assert_text_integrity", "inspect_docx_structure"],
+  "experimentalOrchestration": ["main functions in phase finalizer scripts"],
+  "fixtureOrForensicHelpers": ["node_to_dict", "write_json", "phase-specific expected-count assertions"],
+  "obsolete": [],
+  "extractedTo": "workers/pdf-to-docx/app/reconstruction/core.py"
+}

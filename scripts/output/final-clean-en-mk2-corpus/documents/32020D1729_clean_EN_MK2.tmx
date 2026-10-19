@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.0" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210904T185315Z" creationid="DESKTOP-GJ0OETJ\Natasa">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-TMName">32020D1729 Наташа Пеевска_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">BreakOnTag</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32020D1729</prop>
+    <prop type="x-SourceTMX">32020D1729_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">0ba0940031e589452eee4ab9c9b927b46801bf7ea85f57b93318c9fee525f81e</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">3</prop>
+  </header>
+  <body>
+    <tu creationdate="20210904T185742Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210904T190046Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210905T130858Z" usagecount="1">
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COMMISSION IMPLEMENTING DECISION (EU) 2020/1729</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА ЗА СПРОВЕДУВАЊЕ (ЕУ) 2020/1729 НА КОМИСИЈАТА</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D1729</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T190202Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210904T190216Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210905T130858Z" usagecount="1">
+      <prop type="x-Context">-2025953009333593858, -3180939984022912543</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 17 November 2020</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 17 ноември 2020 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D1729</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210904T212327Z" creationid="DESKTOP-GJ0OETJ\Natasa" changedate="20210905T105715Z" changeid="DESKTOP-GJ0OETJ\Natasa" lastusagedate="20210905T130858Z" usagecount="1">
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The monitoring and reporting of AMR shall cover the following food-producing animal populations and food:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>4.Следењето и известувањето за АМР ги опфаќа следниве популации на животни што се одгледуваат за храна и следниве видови храна;</seg>
+      </tuv>
+      <prop type="x-CELEX">32020D1729</prop>
+      <prop type="x-SourceTUIndex">223</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

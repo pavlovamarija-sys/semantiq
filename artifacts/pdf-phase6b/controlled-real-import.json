@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "celex": "32008L0050",
+  "projectId": "ac1e24ca-b699-4863-ba99-f310fa220a8a",
+  "documentId": "edaaedfd-99fe-473c-921a-6f7a2478f66a",
+  "versionId": "e66411bf-204a-4d08-8035-35a161cdc0cf",
+  "shadowRunId": "13c13a7c-ef87-47f7-8844-58be5e8de75e",
+  "sourceSha256": "37e412c00e79cf64f5f2a9f104abb9369ecf88814fd577070032300907fb1c87",
+  "persistedObjectSha256": "37e412c00e79cf64f5f2a9f104abb9369ecf88814fd577070032300907fb1c87",
+  "persistedObjectHashMatch": true,
+  "persistedObjectBytes": 499951,
+  "persistedObjectSignature": "%PDF-",
+  "persistedObjectPages": 44,
+  "accessMechanism": "user-mediated normal authenticated application source-PDF download/open function",
+  "shadowStatus": "completed",
+  "validationStatus": "PASS",
+  "activeDocxSha256": null,
+  "activeDocxNullExpected": true,
+  "additionalImportsPerformed": 0,
+  "reconstructionInvocationsPerformed": 0,
+  "history": [
+    "Anonymous verification was blocked correctly by RLS.",
+    "Final verification used the existing authenticated application access path without weakening RLS."
+  ]
+}

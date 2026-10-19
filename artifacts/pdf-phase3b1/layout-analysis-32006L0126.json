@@ -1,0 +1,1316 @@
+{
+  "celex": "32006L0126",
+  "algorithm": "phase3b-frozen-plus-diagnostic-contract-v1",
+  "pages": [
+    {
+      "page": 1,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.286773681640625,
+          "y1": 795.6412963867188,
+          "leftFragments": 21,
+          "rightFragments": 12,
+          "gutter": [
+            284.51,
+            310.28
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 2,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.286773681640625,
+          "y1": 795.6425170898438,
+          "leftFragments": 17,
+          "rightFragments": 19,
+          "gutter": [
+            284.57,
+            310.28
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 3,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.286773681640625,
+          "y1": 795.6298217773438,
+          "leftFragments": 15,
+          "rightFragments": 14,
+          "gutter": [
+            284.51,
+            310.28
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 4,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.286773681640625,
+          "y1": 795.6217651367188,
+          "leftFragments": 42,
+          "rightFragments": 17,
+          "gutter": [
+            284.65,
+            310.28
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [
+        {
+          "kind": "table-rejection",
+          "node_id": "aligned-body-columns-not-table",
+          "source": [
+            {
+              "page": 4,
+              "block_index": 10,
+              "line_ids": [
+                "p4-b10-l0"
+              ],
+              "span_ids": [
+                "p4-b10-l0-s0",
+                "p4-b10-l0-s1",
+                "p4-b10-l0-s2"
+              ],
+              "boxes": [
+                {
+                  "page": 4,
+                  "x0": 42.518943786621094,
+                  "y0": 365.7221984863281,
+                  "x1": 105.6765365600586,
+                  "y1": 375.31768798828125
+                }
+              ],
+              "reading_order_start": -1,
+              "reading_order_end": -1
+            },
+            {
+              "page": 4,
+              "block_index": 33,
+              "line_ids": [
+                "p4-b33-l0"
+              ],
+              "span_ids": [
+                "p4-b33-l0-s0"
+              ],
+              "boxes": [
+                {
+                  "page": 4,
+                  "x0": 339.0746154785156,
+                  "y0": 366.73370361328125,
+                  "x1": 387.2248840332031,
+                  "y1": 376.3291931152344
+                }
+              ],
+              "reading_order_start": -1,
+              "reading_order_end": -1
+            },
+            {
+              "page": 4,
+              "block_index": 11,
+              "line_ids": [
+                "p4-b11-l0"
+              ],
+              "span_ids": [
+                "p4-b11-l0-s0",
+                "p4-b11-l0-s1",
+                "p4-b11-l0-s2",
+                "p4-b11-l0-s3",
+                "p4-b11-l0-s4",
+                "p4-b11-l0-s5",
+                "p4-b11-l0-s6",
+                "p4-b11-l0-s7",
+                "p4-b11-l0-s8",
+                "p4-b11-l0-s9",
+                "p4-b11-l0-s10",
+                "p4-b11-l0-s11",
+                "p4-b11-l0-s12",
+                "p4-b11-l0-s13",
+                "p4-b11-l0-s14",
+                "p4-b11-l0-s15",
+                "p4-b11-l0-s16"
+              ],
+              "boxes": [
+                {
+                  "page": 4,
+                  "x0": 56.40843200683594,
+                  "y0": 390.5534362792969,
+                  "x1": 284.40234375,
+                  "y1": 400.14892578125
+                }
+              ],
+              "reading_order_start": -1,
+              "reading_order_end": -1
+            },
+            {
+              "page": 4,
+              "block_index": 12,
+              "line_ids": [
+                "p4-b12-l0",
+                "p4-b12-l1"
+              ],
+              "span_ids": [
+                "p4-b12-l0-s0",
+                "p4-b12-l0-s1",
+                "p4-b12-l0-s2",
+                "p4-b12-l0-s3",
+                "p4-b12-l0-s4",
+                "p4-b12-l0-s5",
+                "p4-b12-l0-s6",
+                "p4-b12-l0-s7",
+                "p4-b12-l0-s8",
+                "p4-b12-l0-s9",
+                "p4-b12-l0-s10",
+                "p4-b12-l0-s11",
+                "p4-b12-l0-s12",
+                "p4-b12-l0-s13",
+                "p4-b12-l0-s14",
+                "p4-b12-l0-s15",
+                "p4-b12-l0-s16",
+                "p4-b12-l1-s0",
+                "p4-b12-l1-s1",
+                "p4-b12-l1-s2",
+                "p4-b12-l1-s3",
+                "p4-b12-l1-s4"
+              ],
+              "boxes": [
+                {
+                  "page": 4,
+                  "x0": 70.29792022705078,
+                  "y0": 401.0979309082031,
+                  "x1": 284.4694519042969,
+                  "y1": 421.2379150390625
+                }
+              ],
+              "reading_order_start": -1,
+              "reading_order_end": -1
+            },
+            {
+              "page": 4,
+              "block_index": 34,
+              "line_ids": [
+                "p4-b34-l0"
+              ],
+              "span_ids": [
+                "p4-b34-l0-s0",
+                "p4-b34-l0-s1",
+                "p4-b34-l0-s2",
+                "p4-b34-l0-s3",
+                "p4-b34-l0-s4",
+                "p4-b34-l0-s5",
+                "p4-b34-l0-s6",
+                "p4-b34-l0-s7",
+                "p4-b34-l0-s8",
+                "p4-b34-l0-s9",
+                "p4-b34-l0-s10",
+                "p4-b34-l0-s11",
+                "p4-b34-l0-s12"
+              ],
+              "boxes": [
+                {
+                  "page": 4,
+                  "x0": 325.18511962890625,
+                  "y0": 402.5066833496094,
+                  "x1": 542.3072509765625,
+                  "y1": 412.1021728515625
+                }
+              ],
+              "reading_order_start": -1,
+              "reading_order_end": -1
+            },
+            {
+              "page": 4,
+              "block_index": 13,
+              "line_ids": [
+                "p4-b13-l0"
+              ],
+              "span_ids": [
+                "p4-b13-l0-s0",
+                "p4-b13-l0-s1",
+                "p4-b13-l0-s2",
+                "p4-b13-l0-s3",
+                "p4-b13-l0-s4",
+                "p4-b13-l0-s5",
+                "p4-b13-l0-s6",
+                "p4-b13-l0-s7",
+                "p4-b13-l0-s8",
+                "p4-b13-l0-s9",
+                "p4-b13-l0-s10",
+                "p4-b13-l0-s11",
+                "p4-b13-l0-s12",
+                "p4-b13-l0-s13",
+                "p4-b13-l0-s14"
+              ],
+              "boxes": [
+                {
+                  "page": 4,
+                  "x0": 56.40843200683594,
+                  "y0": 436.4736633300781,
+                  "x1": 264.6259460449219,
+                  "y1": 446.06915283203125
+                }
+              ],
+              "reading_order_start": -1,
+              "reading_order_end": -1
+            },
+            {
+              "page": 4,
+              "block_index": 35,
+              "line_ids": [
+                "p4-b35-l0"
+              ],
+              "span_ids": [
+                "p4-b35-l0-s0",
+                "p4-b35-l0-s1",
+                "p4-b35-l0-s2",
+                "p4-b35-l0-s3",
+                "p4-b35-l0-s4",
+                "p4-b35-l0-s5",
+                "p4-b35-l0-s6",
+                "p4-b35-l0-s7",
+                "p4-b35-l0-s8",
+                "p4-b35-l0-s9",
+                "p4-b35-l0-s10",
+                "p4-b35-l0-s11",
+                "p4-b35-l0-s12",
+                "p4-b35-l0-s13",
+                "p4-b35-l0-s14",
+                "p4-b35-l0-s15",
+                "p4-b35-l0-s16",
+                "p4-b35-l0-s17",
+                "p4-b35-l0-s18",
+                "p4-b35-l0-s19",
+                "p4-b35-l0-s20"
+              ],
+              "boxes": [
+                {
+                  "page": 4,
+                  "x0": 325.18511962890625,
+                  "y0": 438.2796630859375,
+                  "x1": 553.073486328125,
+                  "y1": 447.8751525878906
+                }
+              ],
+              "reading_order_start": -1,
+              "reading_order_end": -1
+            }
+          ],
+          "reason": "The short aligned region is better explained by independent body-column list/paragraph flow than by a table.",
+          "confidence": 0.94,
+          "outcome": "ambiguous",
+          "evidence": [
+            "Candidate anchors coincide with sustained body columns above and below the region.",
+            "List/bullet and continuation indentation dominates a short candidate.",
+            "Rejected candidate interpretation: table.",
+            "Selected interpretation: independent aligned list/paragraph flows."
+          ],
+          "ambiguity_status": "unresolved"
+        }
+      ],
+      "tableRegions": []
+    },
+    {
+      "page": 5,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.286773681640625,
+          "y1": 795.6304321289062,
+          "leftFragments": 22,
+          "rightFragments": 19,
+          "gutter": [
+            284.48,
+            310.39
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 6,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.286773681640625,
+          "y1": 795.6254272460938,
+          "leftFragments": 23,
+          "rightFragments": 25,
+          "gutter": [
+            284.52,
+            310.28
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 7,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.286773681640625,
+          "y1": 795.6243286132812,
+          "leftFragments": 26,
+          "rightFragments": 22,
+          "gutter": [
+            284.5,
+            310.27
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 8,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.286773681640625,
+          "y1": 795.6244506835938,
+          "leftFragments": 21,
+          "rightFragments": 17,
+          "gutter": [
+            284.52,
+            310.28
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 9,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.286773681640625,
+          "y1": 795.6254272460938,
+          "leftFragments": 14,
+          "rightFragments": 21,
+          "gutter": [
+            284.58,
+            310.27
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 10,
+      "layout": "two-column",
+      "regions": [
+        {
+          "kind": "two-column",
+          "y0": 50.286773681640625,
+          "y1": 379.4483337402344,
+          "leftFragments": 11,
+          "rightFragments": 15,
+          "gutter": [
+            284.46,
+            310.27
+          ]
+        }
+      ],
+      "confidence": 0.92,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 11,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3463134765625,
+          "fragments": 43
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 12,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3631591796875,
+          "fragments": 45
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 13,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3515014648438,
+          "fragments": 47
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 14,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3509521484375,
+          "fragments": 46
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 15,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3533325195312,
+          "fragments": 47
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 16,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3635864257812,
+          "fragments": 38
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 17,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3551635742188,
+          "fragments": 28
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 18,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 174.52914428710938,
+          "fragments": 10
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 19,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.1094360351562,
+          "fragments": 10
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 20,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 100.3208236694336,
+          "fragments": 6
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 21,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3532104492188,
+          "fragments": 51
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 22,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.1099243164062,
+          "fragments": 50
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 23,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.370361328125,
+          "fragments": 40
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 24,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.356689453125,
+          "fragments": 20
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 25,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.1094970703125,
+          "fragments": 50
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 26,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3612670898438,
+          "fragments": 61
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 27,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3651733398438,
+          "fragments": 54
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 28,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3550415039062,
+          "fragments": 37
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 29,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 440.6360778808594,
+          "fragments": 24
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 30,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3735961914062,
+          "fragments": 26
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 31,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3568115234375,
+          "fragments": 23
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 32,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.359375,
+          "fragments": 30
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 33,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 676.8661499023438,
+          "fragments": 28
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 34,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.3576049804688,
+          "fragments": 41
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 35,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.1099243164062,
+          "fragments": 35
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 36,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 795.361083984375,
+          "fragments": 25
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 37,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 219.71096801757812,
+          "fragments": 9
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 38,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 371.07708740234375,
+          "fragments": 23
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 39,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 306.2793273925781,
+          "fragments": 19
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": []
+    },
+    {
+      "page": 40,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 483.56182861328125,
+          "fragments": 13
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": [
+        {
+          "index": 0,
+          "y0": 159.03,
+          "y1": 268.19,
+          "columns": 2,
+          "anchors": [
+            92.75,
+            327.25
+          ],
+          "fragments": 14,
+          "confidence": 0.97,
+          "evidence": [
+            "At least three repeated row baselines share stable column anchors.",
+            "Region boundaries follow contiguous aligned rows; one geometrically compatible header row may precede them."
+          ]
+        },
+        {
+          "index": 1,
+          "y0": 354.91,
+          "y1": 474.21,
+          "columns": 3,
+          "anchors": [
+            92.75,
+            212.08,
+            301.61
+          ],
+          "fragments": 28,
+          "confidence": 0.97,
+          "evidence": [
+            "At least three repeated row baselines share stable column anchors.",
+            "Region boundaries follow contiguous aligned rows; one geometrically compatible header row may precede them.",
+            "Extended through an adjacent compatible row whose wrapped cells changed raw fragment count."
+          ]
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 113.0764389038086,
+          "fragments": 6
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": [
+        {
+          "index": 0,
+          "y0": 137.83,
+          "y1": 786.01,
+          "columns": 2,
+          "anchors": [
+            92.75,
+            301.67
+          ],
+          "fragments": 64,
+          "confidence": 0.94,
+          "evidence": [
+            "At least three repeated row baselines share stable column anchors.",
+            "Region boundaries follow contiguous aligned rows; one geometrically compatible header row may precede them.",
+            "Joined compatible same-page grid portions through sparse rows assignable to the shared columns."
+          ]
+        }
+      ]
+    },
+    {
+      "page": 42,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 59.89919662475586,
+          "fragments": 4
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": [
+        {
+          "index": 0,
+          "y0": 82.1,
+          "y1": 786.62,
+          "columns": 2,
+          "anchors": [
+            92.75,
+            301.66
+          ],
+          "fragments": 79,
+          "confidence": 0.97,
+          "evidence": [
+            "At least three repeated row baselines share stable column anchors.",
+            "Region boundaries follow contiguous aligned rows; one geometrically compatible header row may precede them."
+          ]
+        }
+      ]
+    },
+    {
+      "page": 43,
+      "layout": "single-column",
+      "regions": [
+        {
+          "kind": "single-column",
+          "y0": 50.286773681640625,
+          "y1": 59.89919662475586,
+          "fragments": 4
+        }
+      ],
+      "confidence": 0.98,
+      "ambiguities": [],
+      "tableRegions": [
+        {
+          "index": 0,
+          "y0": 82.1,
+          "y1": 628.68,
+          "columns": 2,
+          "anchors": [
+            92.75,
+            301.67
+          ],
+          "fragments": 80,
+          "confidence": 0.97,
+          "evidence": [
+            "At least three repeated row baselines share stable column anchors.",
+            "Region boundaries follow contiguous aligned rows; one geometrically compatible header row may precede them."
+          ]
+        }
+      ]
+    }
+  ],
+  "crossPageTables": [
+    {
+      "logicalTableId": "logicaltable-65d01ed47d091724",
+      "pages": [
+        41,
+        42,
+        43
+      ],
+      "physicalSegments": [
+        "table-d4bd261c50183b73",
+        "table-0787a773c1369c26",
+        "table-9eeefeacfbdd3adb"
+      ],
+      "columns": 2,
+      "rows": 113,
+      "repeatedHeaderRows": [
+        "tablerow-89fe62c2d1ef3342",
+        "tablerow-0ee9d52b82265c23"
+      ],
+      "representation": "One logical table identity with page-preserving physical segments."
+    }
+  ],
+  "summary": {
+    "two-column": 10,
+    "single-column": 33
+  },
+  "ambiguities": [
+    {
+      "page": 4,
+      "kind": "table-rejection",
+      "node_id": "aligned-body-columns-not-table",
+      "source": [
+        {
+          "page": 4,
+          "block_index": 10,
+          "line_ids": [
+            "p4-b10-l0"
+          ],
+          "span_ids": [
+            "p4-b10-l0-s0",
+            "p4-b10-l0-s1",
+            "p4-b10-l0-s2"
+          ],
+          "boxes": [
+            {
+              "page": 4,
+              "x0": 42.518943786621094,
+              "y0": 365.7221984863281,
+              "x1": 105.6765365600586,
+              "y1": 375.31768798828125
+            }
+          ],
+          "reading_order_start": -1,
+          "reading_order_end": -1
+        },
+        {
+          "page": 4,
+          "block_index": 33,
+          "line_ids": [
+            "p4-b33-l0"
+          ],
+          "span_ids": [
+            "p4-b33-l0-s0"
+          ],
+          "boxes": [
+            {
+              "page": 4,
+              "x0": 339.0746154785156,
+              "y0": 366.73370361328125,
+              "x1": 387.2248840332031,
+              "y1": 376.3291931152344
+            }
+          ],
+          "reading_order_start": -1,
+          "reading_order_end": -1
+        },
+        {
+          "page": 4,
+          "block_index": 11,
+          "line_ids": [
+            "p4-b11-l0"
+          ],
+          "span_ids": [
+            "p4-b11-l0-s0",
+            "p4-b11-l0-s1",
+            "p4-b11-l0-s2",
+            "p4-b11-l0-s3",
+            "p4-b11-l0-s4",
+            "p4-b11-l0-s5",
+            "p4-b11-l0-s6",
+            "p4-b11-l0-s7",
+            "p4-b11-l0-s8",
+            "p4-b11-l0-s9",
+            "p4-b11-l0-s10",
+            "p4-b11-l0-s11",
+            "p4-b11-l0-s12",
+            "p4-b11-l0-s13",
+            "p4-b11-l0-s14",
+            "p4-b11-l0-s15",
+            "p4-b11-l0-s16"
+          ],
+          "boxes": [
+            {
+              "page": 4,
+              "x0": 56.40843200683594,
+              "y0": 390.5534362792969,
+              "x1": 284.40234375,
+              "y1": 400.14892578125
+            }
+          ],
+          "reading_order_start": -1,
+          "reading_order_end": -1
+        },
+        {
+          "page": 4,
+          "block_index": 12,
+          "line_ids": [
+            "p4-b12-l0",
+            "p4-b12-l1"
+          ],
+          "span_ids": [
+            "p4-b12-l0-s0",
+            "p4-b12-l0-s1",
+            "p4-b12-l0-s2",
+            "p4-b12-l0-s3",
+            "p4-b12-l0-s4",
+            "p4-b12-l0-s5",
+            "p4-b12-l0-s6",
+            "p4-b12-l0-s7",
+            "p4-b12-l0-s8",
+            "p4-b12-l0-s9",
+            "p4-b12-l0-s10",
+            "p4-b12-l0-s11",
+            "p4-b12-l0-s12",
+            "p4-b12-l0-s13",
+            "p4-b12-l0-s14",
+            "p4-b12-l0-s15",
+            "p4-b12-l0-s16",
+            "p4-b12-l1-s0",
+            "p4-b12-l1-s1",
+            "p4-b12-l1-s2",
+            "p4-b12-l1-s3",
+            "p4-b12-l1-s4"
+          ],
+          "boxes": [
+            {
+              "page": 4,
+              "x0": 70.29792022705078,
+              "y0": 401.0979309082031,
+              "x1": 284.4694519042969,
+              "y1": 421.2379150390625
+            }
+          ],
+          "reading_order_start": -1,
+          "reading_order_end": -1
+        },
+        {
+          "page": 4,
+          "block_index": 34,
+          "line_ids": [
+            "p4-b34-l0"
+          ],
+          "span_ids": [
+            "p4-b34-l0-s0",
+            "p4-b34-l0-s1",
+            "p4-b34-l0-s2",
+            "p4-b34-l0-s3",
+            "p4-b34-l0-s4",
+            "p4-b34-l0-s5",
+            "p4-b34-l0-s6",
+            "p4-b34-l0-s7",
+            "p4-b34-l0-s8",
+            "p4-b34-l0-s9",
+            "p4-b34-l0-s10",
+            "p4-b34-l0-s11",
+            "p4-b34-l0-s12"
+          ],
+          "boxes": [
+            {
+              "page": 4,
+              "x0": 325.18511962890625,
+              "y0": 402.5066833496094,
+              "x1": 542.3072509765625,
+              "y1": 412.1021728515625
+            }
+          ],
+          "reading_order_start": -1,
+          "reading_order_end": -1
+        },
+        {
+          "page": 4,
+          "block_index": 13,
+          "line_ids": [
+            "p4-b13-l0"
+          ],
+          "span_ids": [
+            "p4-b13-l0-s0",
+            "p4-b13-l0-s1",
+            "p4-b13-l0-s2",
+            "p4-b13-l0-s3",
+            "p4-b13-l0-s4",
+            "p4-b13-l0-s5",
+            "p4-b13-l0-s6",
+            "p4-b13-l0-s7",
+            "p4-b13-l0-s8",
+            "p4-b13-l0-s9",
+            "p4-b13-l0-s10",
+            "p4-b13-l0-s11",
+            "p4-b13-l0-s12",
+            "p4-b13-l0-s13",
+            "p4-b13-l0-s14"
+          ],
+          "boxes": [
+            {
+              "page": 4,
+              "x0": 56.40843200683594,
+              "y0": 436.4736633300781,
+              "x1": 264.6259460449219,
+              "y1": 446.06915283203125
+            }
+          ],
+          "reading_order_start": -1,
+          "reading_order_end": -1
+        },
+        {
+          "page": 4,
+          "block_index": 35,
+          "line_ids": [
+            "p4-b35-l0"
+          ],
+          "span_ids": [
+            "p4-b35-l0-s0",
+            "p4-b35-l0-s1",
+            "p4-b35-l0-s2",
+            "p4-b35-l0-s3",
+            "p4-b35-l0-s4",
+            "p4-b35-l0-s5",
+            "p4-b35-l0-s6",
+            "p4-b35-l0-s7",
+            "p4-b35-l0-s8",
+            "p4-b35-l0-s9",
+            "p4-b35-l0-s10",
+            "p4-b35-l0-s11",
+            "p4-b35-l0-s12",
+            "p4-b35-l0-s13",
+            "p4-b35-l0-s14",
+            "p4-b35-l0-s15",
+            "p4-b35-l0-s16",
+            "p4-b35-l0-s17",
+            "p4-b35-l0-s18",
+            "p4-b35-l0-s19",
+            "p4-b35-l0-s20"
+          ],
+          "boxes": [
+            {
+              "page": 4,
+              "x0": 325.18511962890625,
+              "y0": 438.2796630859375,
+              "x1": 553.073486328125,
+              "y1": 447.8751525878906
+            }
+          ],
+          "reading_order_start": -1,
+          "reading_order_end": -1
+        }
+      ],
+      "reason": "The short aligned region is better explained by independent body-column list/paragraph flow than by a table.",
+      "confidence": 0.94,
+      "outcome": "ambiguous",
+      "evidence": [
+        "Candidate anchors coincide with sustained body columns above and below the region.",
+        "List/bullet and continuation indentation dominates a short candidate.",
+        "Rejected candidate interpretation: table.",
+        "Selected interpretation: independent aligned list/paragraph flows."
+      ],
+      "ambiguity_status": "unresolved"
+    }
+  ]
+}

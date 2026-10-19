@@ -1,0 +1,834 @@
+{
+  "celex": "32019R0841",
+  "tmx": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019R0841\\TMX_MK1\\32019R0841_TM.tmx",
+  "mk2": "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32019R0841\\MK2\\32019R0841_MK2.docx",
+  "tmx_sha256": "b04042e9d2b558632868c881882ffde277ad0b1c6e8fa4bd24e952374cc07755",
+  "mk2_sha256": "57d7a9dd36dcf291f2ddfa991cdd65a51247768231207099347ee68362f7fe5c",
+  "original_tus": 35,
+  "accepted_tus": 0,
+  "skipped_tus": 35,
+  "acceptance_percent": 0.0,
+  "mk1_coverage": 0.0,
+  "mk2_coverage": 0.0,
+  "accepted_clean_en_chars": 0,
+  "accepted_clean_mk2_chars": 0,
+  "results": [
+    {
+      "index": 1,
+      "en": "THE EUROPEAN COMMISSION,",
+      "mk1": "ЕВРОПСКАТА КОМИСИЈА,",
+      "mk2": "",
+      "score": 0.3724137931034483,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 2,
+      "en": "Having regard to the Treaty on the Functioning of the European Union,",
+      "mk1": "Имајќи го предвид Договорот за функционирање на Европската унија,",
+      "mk2": "",
+      "score": 0.22033898305084745,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 3,
+      "en": "OJ L 269, 10.10.2013, p. 1.",
+      "mk1": "Сл. весник L 269, 10.10.2013, стр. 1.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 4,
+      "en": "Whereas:",
+      "mk1": "Со оглед на тоа што:",
+      "mk2": "",
+      "score": 0.29411764705882354,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 5,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "mk2": "",
+      "score": 0.2511415525114155,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 6,
+      "en": "This Regulation shall be binding in its entirety and directly applicable in all Member States.",
+      "mk1": "Оваа регулатива е целосно обврзувачка и директно применлива во сите земји членки.",
+      "mk2": "",
+      "score": 0.25304136253041365,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 7,
+      "en": "For the Commission",
+      "mk1": "За Комисијата",
+      "mk2": "",
+      "score": 0.1506849315068493,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 8,
+      "en": "The President",
+      "mk1": "Претседател",
+      "mk2": "",
+      "score": 0.1064891846921797,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 9,
+      "en": "Jean-Claude JUNCKER",
+      "mk1": "Жан-Клод ЈУНКЕР",
+      "mk2": "",
+      "score": 0.16583747927031509,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 10,
+      "en": "of 14 March 2019",
+      "mk1": "од 14 март 2019 година",
+      "mk2": "",
+      "score": 0.22338204592901878,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 11,
+      "en": "(does not concern the English language)",
+      "mk1": "(не се однесува на англискиот јазик)",
+      "mk2": "",
+      "score": 0.29285714285714287,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 12,
+      "en": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила на дванаесеттиот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "",
+      "score": 0.31419939577039274,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 13,
+      "en": "Done at Brussels, 14 March 2019.",
+      "mk1": "Брисел, 14 март 2019 година.",
+      "mk2": "",
+      "score": 0.3233082706766917,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 14,
+      "en": "COMMISSION DELEGATED REGULATION (EU) 2019/841",
+      "mk1": "ДЕЛЕГИРАНА РЕГУЛАТИВА НА КОМИСИЈАТА (ЕУ) 2019/841",
+      "mk2": "",
+      "score": 0.3333333333333333,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 15,
+      "en": "Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (), and in particular Articles 7, 62, 156, 160, 212 and 253 thereof,",
+      "mk1": "Имајќи ја предвид Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот од 9 октомври 2013 година за утврдување на Царинскиот закон на Унијата (), а особено членовите 7, 62, 156, 160, 212 и 253 од него,",
+      "mk2": "",
+      "score": 0.19953596287703015,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 16,
+      "en": "The Italian language version of Delegated Regulation (EU) 2015/2446 contains an error in point (b) of Article 226(1) as regards the employee mentioned therein.",
+      "mk1": "Верзијата на италијански јазик на Делегирана регулатива (ЕУ) 2015/2446 содржи грешка во точката (б) од членот 226(1) во однос на вработениот кој се споменува во неа.",
+      "mk2": "",
+      "score": 0.24154589371980675,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 17,
+      "en": "The Danish, Dutch, Finnish, French, German, Greek and Spanish language versions of Delegated Regulation (EU) 2015/2446 contain an error in Annex 22-01 with regard to the goods listed in that Annex.",
+      "mk1": "Верзиите на дански, холандски, фински, француски, германски, грчки и шпански јазик на Делегираната регулатива (ЕУ) 2015/2446 содржат грешка во Анексот 22-01 во однос на стоките наведени во тој Анекс.",
+      "mk2": "",
+      "score": 0.362116991643454,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 18,
+      "en": "The Danish, Dutch, Estonian, Finnish, French, German, Greek, Italian, Slovak and Spanish language versions of Delegated Regulation (EU) 2015/2446 should therefore be corrected accordingly.",
+      "mk1": "Верзиите на дански, холандски, естонски, фински, француски, германски, грчки, италијански, словачки и шпански јазик на Делегираната регулатива (ЕУ) 2015/2446 треба соодветно да се исправат.",
+      "mk2": "",
+      "score": 0.32653061224489793,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 19,
+      "en": "HAS ADOPTED THIS REGULATION:",
+      "mk1": "ЈА ДОНЕСЕ ОВАА РЕГУЛАТИВА:",
+      "mk2": "",
+      "score": 0.2813186813186813,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 20,
+      "en": "The German language version of Commission Delegated Regulation (EU) 2015/2446 () contains an error in the definition set out in Article 1(21) as regards the goods for personal use thus changing the scope of the definition.",
+      "mk1": "Верзијата на германски јазик на Делегираната регулатива на Комисијата (ЕУ) 2015/2446 () содржи грешка во дефиницијата во член 1(21) за стоките за лична употреба со што се менува опсегот на дефиницијата.",
+      "mk2": "",
+      "score": 0.17721518987341772,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 21,
+      "en": "The Slovak language version of Delegated Regulation (EU) 2015/2446 contains an error in Article 128(2) which was introduced by Commission Delegated Regulation (EU) 2016/341 () as regards the value of goods having the customs status of Union goods, thus rendering the meaning of the provision opposite to the one intended.",
+      "mk1": "Верзијата на словачки јазик на Делегираната регулатива (ЕУ) 2015/2446 содржи грешка во членот 128(2) што беше воведена со Делегираната регулатива на Комисијата (ЕУ) 2016/341 () во врска со вредноста на стоката што има царински статус на стока на Унијата, заради што одредбата добива значење кое е спротивно на предвиденото значење.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 22,
+      "en": "The Estonian language version of Delegated Regulation (EU) 2015/2446 contains an error in the introductory sentence of Article 226(3) that renders the meaning of the provision opposite to the one intended.",
+      "mk1": "Верзијата на естонски јазик на Делегираната регулатива (ЕУ) 2015/2446 содржи грешка во воведната реченица на член 226(3), заради што одредбата добива значење кое е спротивно на предвиденото значење.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 23,
+      "en": "The other language versions are not affected,",
+      "mk1": "Ова не ги засега верзиите на другите јазици,",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 24,
+      "en": "amending Delegated Regulation (EU) 2015/2446 as regards the time-limits for lodging entry summary declarations and pre-departure declarations in case of transport by sea from and to the United Kingdom of Great Britain and Northern Ireland, the Channel Islands and the Isle of Man",
+      "mk1": "за изменување на Делегираната регулатива (ЕУ) 2015/2446 за роковите за поднесување на влезни збирни декларации и декларации пред поаѓање во случај на транспорт по море од и до Обединетото Кралство на Велика Британија и Северна Ирска, Каналските острови и Островот Ман",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 25,
+      "en": "Having regard to Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code (), and in particular Articles 131(b) and 265(a) thereof,",
+      "mk1": "Имајќи ја предвид Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот од 9 октомври 2013 година за утврдување на Царинскиот закон на Унијата (), а особено членовите 131 (б) и 265 (а) од него,",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 26,
+      "en": "In accordance with Article 185 of the Withdrawal Agreement and with Article 5(3) of the Protocol on Ireland/ Northern Ireland, customs legislation as defined in point (2) of Article 5 of Regulation (EU) No 952/2013 is applicable to and in the United Kingdom in respect of Northern Ireland (not including the territorial waters of the United Kingdom) after the end of the transition period.",
+      "mk1": "Во согласност со член 185 од Договорот за повлекување и со членот 5(3) од Протоколот за Ирска/Северна Ирска, царинското законодавство дефинирано во точка (2) од членот 5 од Регулативата (ЕУ) бр. 952/2013 се применува на и во Обединетото Кралство во однос на Северна Ирска (не вклучувајќи ги територијалните води на Обединетото Кралство) по завршувањето на преодниот период.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 27,
+      "en": "In addition, in accordance with Article 5(4) and Annex 2, point 1 of that Protocol, Regulation (EU) No 952/2013 is applicable to and in the United Kingdom in respect of Northern Ireland.",
+      "mk1": "Покрај тоа, во согласност со член 5(4) и Анекс 2, точка 1 од тој протокол, Регулативата (ЕУ) бр. 952/2013 се применува на и во Обединетото Кралство во однос на Северна Ирска.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 28,
+      "en": "References in this Regulation to the United Kingdom of Great Britain and Northern Ireland should therefore exclude the ports located in Northern Ireland.",
+      "mk1": "Од упатувањата во оваа регулатива до Обединетото Кралство на Велика Британија и Северна Ирска треба да се исклучат пристаништата кои се наоѓаат во Северна Ирска.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 29,
+      "en": "Currently, in accordance with Commission Delegated Regulation (EU) 2015/2446 (), specific time-limits are laid down for the lodging of entry summary declarations or pre-departure declarations for cargo movements between the customs territory of the Union and any port on the North Sea.",
+      "mk1": "Во моментов, во согласност со Делегираната регулатива на Комисијата (ЕУ) 2015/2446 (), утврдени се рокови за поднесување на влезни збирни декларации или декларации пред поаѓање за движења на товар помеѓу царинското подрачје на Унијата и сите пристаништа кои се наоѓаат на Северното Море.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 30,
+      "en": "Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code (OJ L 343, 29.12.2015, p. 1).",
+      "mk1": "Делегирана регулатива на Комисијата (ЕУ) 2015/2446 од 28 јули 2015 година за дополнување на Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот во однос на деталните правила во врска со одредени одредби на Царинскиот закон на Унијата (Сл. весник L 343, 29.12.2015 година, стр. 1).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 31,
+      "en": "This Regulation should enter into force as a matter of urgency and apply as from 1 January 2021 to ensure the smooth daily operation of customs administrations and economic operators after the end of the transition period,",
+      "mk1": "Оваа регулатива треба да влезе во сила како итен предмет и да се применува од 1 јануари 2021 година за да се обезбеди непречено секојдневно работење на царинските управи и економските оператори по истекот на преодниот период,",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 32,
+      "en": "Delegated Regulation (EU) 2015/2446 is amended as follows:",
+      "mk1": "Делегираната регулатива (ЕУ) 2015/2446 се менува како што следува:",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 33,
+      "en": "This Regulation shall enter into force on the day following that of its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа регулатива влегува во сила следниот ден од денот на нејзиното објавување во Службениот весник на Европската Унија.",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    },
+    {
+      "index": 34,
+      "en": "Commission Delegated Regulation (EU) 2016/341 of 17 December 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards transitional rules for certain provisions of the Union Customs Code where the relevant electronic systems are not yet operational and amending Delegated Regulation (EU) 2015/2446 (OJ L 69, 15.3.2016, p. 1).",
+      "mk1": "Делегирана регулатива на Комисијата (ЕУ) 2016/341 од 17 декември 2015 година за дополнување на Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот во однос на преодните правила за одредени одредби на Царинскиот закон на Унијата онаму каде што соодветните електронски системи сё уште не се во функција и за изменување на Делегираната регулатива (ЕУ) 2015/2446 (Сл. весник L 69, 15.3.2016 година, стр. 1).",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED",
+      "provenance_unsafe_footnote": true
+    },
+    {
+      "index": 35,
+      "en": "correcting certain language versions of Delegated Regulation (EU) 2015/2446 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code",
+      "mk1": "за исправка на одредени јазични верзии на Делегираната регулатива на Комисијата (ЕУ) 2015/2446 за дополнување на Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот во однос на деталните правила во врска со одредени одредби на Царинскиот закон на Унијата",
+      "mk2": "",
+      "score": 0,
+      "status": "UNMATCHED",
+      "cardinality": "0:0",
+      "evidence": {
+        "reason": "No sufficiently local non-overlapping candidate."
+      },
+      "export_status": "UNMATCHED"
+    }
+  ],
+  "diagnostics": {
+    "footnotes": 3,
+    "endnotes": 0,
+    "excluded": [
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32019R0841",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COMMISSION DELEGATED REGULATION (EU) 2019/841 of 14 March 2019 correcting certain language versions of Delegated Regulation (EU) 2015/2446 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ДЕЛЕГИРАНА РЕГУЛАТИВА НА КОМИСИЈАТА (ЕУ) 2019/841 од 14 март 2019 година за исправка на одредени јазични верзии на Делегираната регулатива на Комисијата (ЕУ) 2015/2446 за дополнување на Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот во однос на деталните правила во врска со одредени одредби на Царинскиот закон на Унијата",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Царина",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преведувач",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Сашенка Граматова-Љубен",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "070/335-811",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "7.6.2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Изворен збор (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Превод (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Забелешка / Коментар",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Точка 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "customs status of Union goods",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Царински статус на стока на Унијата",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "https://customs.gov.mk/index.php/mk/biznis-zaednica-mk/carinski-postapki/uvoz-mk",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ОБРАЗЕЦ Бр. 2",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Поимник на термини и изрази од јазична ревизија на преводот",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "CELEX број",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "32019R0841",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (АНГ)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "COMMISSION DELEGATED REGULATION (EU) 2019/841 of 14 March 2019 correcting certain language versions of Delegated Regulation (EU) 2015/2446 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Наслов на документот (МАК)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ДЕЛЕГИРАНА РЕГУЛАТИВА НА КОМИСИЈАТА (ЕУ) НА КОМИСИЈАТА 2019/841 од 14 март 2019 година за исправка на одредени јазични верзии на Делегираната регулатива на Комисијата (ЕУ) 2015/2446 за дополнување на Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот во однос на деталните правила заво врска со одредени одредби на Царинскиот закон на Унијата",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Област на примена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Царинска Унија и слободно движење на стоки",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Агенција за превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Академија ЦЕС",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Јазичен ревизор",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Марија Георгиевска Ристовска",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Тел",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "02/3232510",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "e-mail",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "ces.translation@gmail.com",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Датум",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "30.6.2021 година",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Место на зборот во текстот (член, став, точка, прилог ...)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Оригинален термин",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Првичен превод",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Предлог измена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Извор на преводот (користен речник / Евровок, ИАТЕ и др.)",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула 1",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "set out",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "/",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "утврдена",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прирачник за преведување на правните акти на ЕУ.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Преамбула 2, 4",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "intended",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "предвидено",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "наменето",
+        "footnote_refs": []
+      },
+      {
+        "kind": "body",
+        "text": "Прирачник за преведување на правните акти на ЕУ.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Сл. весник L 269, 10.10.2013 година., стр. 1.",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Делегирана регулатива на Комисијата (ЕУ) 2015/2446 на Комисијата од 28 јули 2015 година за дополнување на Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот во однос на деталните правила во врска со одредени одредби на Царинскиот законик на Унијата (Сл. весник L 343, 29.12.2015 година, стр. 1).",
+        "footnote_refs": []
+      },
+      {
+        "kind": "footnote",
+        "text": "Делегирана регулатива на Комисијата (ЕУ) 2016/341 на Комисијата од 17 декември 2015 година за дополнување на Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот во однос на преодните правила за одредени одредби на Царинскиот закон на Унијата онаму каде што соодветните електронски системи сѐё уште не се во функција и за изменување на Делегираната регулатива (ЕУ) 2015/2446 (Сл. весник L 69, 15.3.2016 година, стр. 1).",
+        "footnote_refs": []
+      }
+    ],
+    "footnote_records": [
+      {
+        "ref": "1",
+        "body_index": 5,
+        "text": "Сл. весник L 269, 10.10.2013 година., стр. 1."
+      },
+      {
+        "ref": "2",
+        "body_index": 7,
+        "text": "Делегирана регулатива на Комисијата (ЕУ) 2015/2446 на Комисијата од 28 јули 2015 година за дополнување на Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот во однос на деталните правила во врска со одредени одредби на Царинскиот законик на Унијата (Сл. весник L 343, 29.12.2015 година, стр. 1)."
+      },
+      {
+        "ref": "3",
+        "body_index": 8,
+        "text": "Делегирана регулатива на Комисијата (ЕУ) 2016/341 на Комисијата од 17 декември 2015 година за дополнување на Регулативата (ЕУ) бр. 952/2013 на Европскиот парламент и на Советот во однос на преодните правила за одредени одредби на Царинскиот закон на Унијата онаму каде што соодветните електронски системи сѐё уште не се во функција и за изменување на Делегираната регулатива (ЕУ) 2015/2446 (Сл. весник L 69, 15.3.2016 година, стр. 1)."
+      }
+    ]
+  },
+  "dry_run": true
+}

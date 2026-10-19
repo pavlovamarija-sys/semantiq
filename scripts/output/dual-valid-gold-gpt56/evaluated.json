@@ -1,0 +1,2182 @@
+[
+  {
+    "celex": "02005F0214",
+    "tu_id": "02005F0214:117",
+    "en": "The Council may decide to add other categories of offences to the lists in paragraph 1 at any time, acting unanimously after consultation of the European Parliament under the conditions laid down in Article 39(1) of the EU Treaty.",
+    "mk1": "Советот може во секое време да одлучи да додаде други категории кривични дела на списоците од став 1, постапувајќи едногласно по консултација со Европскиот парламент, под условите утврдени во член 39 став 1 од Договорот за ЕУ.",
+    "hidden_professional_mk2": "2.Советот може да одлучи во кое било време да додаде други категории кривични дела до списоците во став 1, делјствувајќи едногласно по консултација со Европскиот парламент според условите утврдени во член 39(1) од Договорот за ЕУ.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "02005F0214",
+        "previous_en": "— offences established by the issuing State and serving the purpose of implementing obligations arising from instruments adopted under the EC Treaty or under Title VI of the EU Treaty.",
+        "current_en": "The Council may decide to add other categories of offences to the lists in paragraph 1 at any time, acting unanimously after consultation of the European Parliament under the conditions laid down in Article 39(1) of the EU Treaty.",
+        "next_en": "The Council shall consider, in the light of the report submitted to it pursuant to Article 20(5), whether the list should be extended or amended."
+      }
+    },
+    "source_context": {
+      "celex": "02005F0214",
+      "previous_en": "— offences established by the issuing State and serving the purpose of implementing obligations arising from instruments adopted under the EC Treaty or under Title VI of the EU Treaty.",
+      "current_en": "The Council may decide to add other categories of offences to the lists in paragraph 1 at any time, acting unanimously after consultation of the European Parliament under the conditions laid down in Article 39(1) of the EU Treaty.",
+      "next_en": "The Council shall consider, in the light of the report submitted to it pursuant to Article 20(5), whether the list should be extended or amended."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 263,
+      "completion_tokens": 76,
+      "total_tokens": 339,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 2982.97,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning fully with only minor stylistic differences (e.g., 'во секое време' vs 'во кое било време', 'постапувајќи' vs 'делјствувајќи'). Number and article references are consistent. Terminology and structure align well with the professional reference."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 339,
+      "completion_tokens": 155,
+      "total_tokens": 494,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 2489.24
+  },
+  {
+    "celex": "32001F0500",
+    "tu_id": "32001F0500:11",
+    "en": "On 3 December 1998 the Council adopted Joint Action 98/699/JHA on money laundering, the identification, tracing, freezing, seizing and confiscation of instrumentalities and the proceeds from crime().",
+    "mk1": "На 3 декември 1998 година Советот ја донесе Заедничката акција 98/699/ПВР за перењето пари, идентификацијата, следењето, замрзнувањето, запленувањето и конфискацијата на средствата за извршување кривични дела и приносите од кривични дела().",
+    "hidden_professional_mk2": ": На 3 декември 1998 година Советот ја донесе Заедничката акција 98/699/ПВР за перење пари, идентификација, следење, замрзнување, запленување и одземање имот и приносите прибавени со кривични дела().",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32001F0500",
+        "previous_en": "Whereas:",
+        "current_en": "On 3 December 1998 the Council adopted Joint Action 98/699/JHA on money laundering, the identification, tracing, freezing, seizing and confiscation of instrumentalities and the proceeds from crime().",
+        "next_en": "OJ L 333, 9.12.1998, p. 1."
+      }
+    },
+    "source_context": {
+      "celex": "32001F0500",
+      "previous_en": "Whereas:",
+      "current_en": "On 3 December 1998 the Council adopted Joint Action 98/699/JHA on money laundering, the identification, tracing, freezing, seizing and confiscation of instrumentalities and the proceeds from crime().",
+      "next_en": "OJ L 333, 9.12.1998, p. 1."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 219,
+      "completion_tokens": 604,
+      "total_tokens": 823,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 512,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 9753.53,
+    "evaluation": {
+      "classification": "MINOR_ISSUES",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "MIXED",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning but differs slightly in terminology and phrasing. 'Перењето пари' vs 'перење пари' is a minor stylistic difference. The professional MK2 uses 'одземање имот' instead of 'конфискација на средствата за извршување кривични дела', which is more precise legally. The MK1 version adds 'на средствата за извршување кривични дела' which is not in the original or professional version and slightly changes the nuance. Overall, the meaning is preserved with minor terminology and phrasing issues."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 346,
+      "completion_tokens": 218,
+      "total_tokens": 564,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 2226.48
+  },
+  {
+    "celex": "32008D0206",
+    "tu_id": "32008D0206:24",
+    "en": "(8) The Risk Assessment Report on BZP reveals a lack of conclusive scientific evidence on the overall risks of BZP.",
+    "mk1": "(8) Извештајот за процена на ризикот од BZP укажува на недостиг од убедливи научни докази за севкупните ризици од BZP.",
+    "hidden_professional_mk2": "(8)Извештајот за процена на ризик од БЗП открива недостаток од цврсти научни докази за целокупните ризици од БЗП.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32008D0206",
+        "previous_en": "However, the extent to which BZP was implicated in the deaths is not known as in all cases other substances or other circumstances were involved.",
+        "current_en": "(8) The Risk Assessment Report on BZP reveals a lack of conclusive scientific evidence on the overall risks of BZP.",
+        "next_en": "However, due to its stimulant properties, risk to health, the lack of medical benefits and following the precautionary principle, there is a need to control BZP, but the control measures should be appropriate to the relatively low risks of the substance."
+      }
+    },
+    "source_context": {
+      "celex": "32008D0206",
+      "previous_en": "However, the extent to which BZP was implicated in the deaths is not known as in all cases other substances or other circumstances were involved.",
+      "current_en": "(8) The Risk Assessment Report on BZP reveals a lack of conclusive scientific evidence on the overall risks of BZP.",
+      "next_en": "However, due to its stimulant properties, risk to health, the lack of medical benefits and following the precautionary principle, there is a need to control BZP, but the control measures should be appropriate to the relatively low risks of the substance."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 244,
+      "completion_tokens": 185,
+      "total_tokens": 429,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 129,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 4491.14,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately with only minor wording differences that do not affect meaning. Both versions correctly convey the lack of conclusive scientific evidence regarding the overall risks of BZP."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 263,
+      "completion_tokens": 128,
+      "total_tokens": 391,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 2077.45
+  },
+  {
+    "celex": "32010D0453",
+    "tu_id": "32010D0453:15",
+    "en": "The guidelines are not legally binding but serve to provide useful guidance to the Member States in the implementation of Article 7 of Directive 2004/23/EC.",
+    "mk1": "Насоките не се правно обврзувачки, туку служат за да им обезбедат корисни упатства на земјите членки при спроведувањето на член 7 од Директивата 2004/23/ЕЗ.",
+    "hidden_professional_mk2": "Овие упатства не се законски обврзувачки, но служат за давање на корисни насоки за земјите членки во спроведување на член 7 од Директивата 2004/23/ЕЗ.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32010D0453",
+        "previous_en": "Article 7(5) of Directive 2004/23/EC provides that the Commission shall establish guidelines concerning the conditions of the inspections and control measures, and on the training and qualification of the officials involved in order to reach a consistent level of competence and performance.",
+        "current_en": "The guidelines are not legally binding but serve to provide useful guidance to the Member States in the implementation of Article 7 of Directive 2004/23/EC.",
+        "next_en": "The Commission should review and update the guidelines set out in the Annex to this Decision on the basis of the reports transmitted by the Member States to the Commission in accordance with Article 26(1) of Directive 2004/23/EC."
+      }
+    },
+    "source_context": {
+      "celex": "32010D0453",
+      "previous_en": "Article 7(5) of Directive 2004/23/EC provides that the Commission shall establish guidelines concerning the conditions of the inspections and control measures, and on the training and qualification of the officials involved in order to reach a consistent level of competence and performance.",
+      "current_en": "The guidelines are not legally binding but serve to provide useful guidance to the Member States in the implementation of Article 7 of Directive 2004/23/EC.",
+      "next_en": "The Commission should review and update the guidelines set out in the Annex to this Decision on the basis of the reports transmitted by the Member States to the Commission in accordance with Article 26(1) of Directive 2004/23/EC."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 278,
+      "completion_tokens": 64,
+      "total_tokens": 342,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 2022.17,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately with only minor wording differences that do not affect the substance. Both versions clearly state that the guidelines are not legally binding and provide useful guidance to Member States for implementing Article 7 of Directive 2004/23/EC."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 297,
+      "completion_tokens": 142,
+      "total_tokens": 439,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1488.84
+  },
+  {
+    "celex": "32011L0076",
+    "tu_id": "32011L0076:262",
+    "en": "This paragraph shall be deemed to be applied by Member States, if they have in place and implement fiscal and financial support policies which leverage financial support to the trans-European network and which have an equivalent value of at least 15 % of the revenues generated from infrastructure and external cost charges in each Member State.’;",
+    "mk1": "Се смета дека земјите членки го применуваат овој став доколку имаат воспоставено и спроведуваат политики за фискална и финансиска поддршка со кои се мобилизира финансиска поддршка за трансевропската мрежа и чијашто еквивалентна вредност изнесува најмалку 15 % од приходите остварени од надоместоците за инфраструктура и за надворешни трошоци во секоја земја членка.’;",
+    "hidden_professional_mk2": "Овој став се смета дека го применуваат земјите членки,; доколку тие имаат во сила и спроведуваат политики за фискална и финансиска поддршка кои ја користат финансиската поддршка на трансевропската мрежа и кои имаат еквивалентна вредност од најмалку 15 % од приходите генерирани од инфраструктурни и надворешни трошоци во секоја земја членка.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32011L0076",
+        "previous_en": "(i) providing secure parking places.",
+        "current_en": "This paragraph shall be deemed to be applied by Member States, if they have in place and implement fiscal and financial support policies which leverage financial support to the trans-European network and which have an equivalent value of at least 15 % of the revenues generated from infrastructure and external cost charges in each Member State.’;",
+        "next_en": "(5) Articles 9b and 9c are replaced by the following:"
+      }
+    },
+    "source_context": {
+      "celex": "32011L0076",
+      "previous_en": "(i) providing secure parking places.",
+      "current_en": "This paragraph shall be deemed to be applied by Member States, if they have in place and implement fiscal and financial support policies which leverage financial support to the trans-European network and which have an equivalent value of at least 15 % of the revenues generated from infrastructure and external cost charges in each Member State.’;",
+      "next_en": "(5) Articles 9b and 9c are replaced by the following:"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 258,
+      "completion_tokens": 283,
+      "total_tokens": 541,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 157,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 4526.05,
+    "evaluation": {
+      "classification": "MINOR_ISSUES",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "MIXED",
+      "structural_fidelity": "MIXED",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning but differs in structure and some terminology choices. For example, 'се смета дека земјите членки го применуваат овој став' vs 'Овој став се смета дека го применуваат земјите членки' is a structural variation without legal impact. The phrase 'кои ја користат финансиската поддршка на трансевропската мрежа' is less precise than 'кои се мобилизира финансиска поддршка за трансевропската мрежа' but does not change the meaning materially. The term 'приходите остварени од надоместоците' vs 'приходите генерирани од инфраструктурни и надворешни трошоци' is slightly different in wording but equivalent in meaning. Overall, the translation is legally accurate with minor stylistic and terminology differences."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 431,
+      "completion_tokens": 274,
+      "total_tokens": 705,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 3027.65
+  },
+  {
+    "celex": "32014R0788",
+    "tu_id": "32014R0788:100",
+    "en": "(b) the criteria and, as the case may be, thresholds defined in Commission Decision 2009/491/EC.",
+    "mk1": "(б) критериумите и, зависно од случајот, праговите утврдени во Одлуката 2009/491/ЕЗ на Комисијата.",
+    "hidden_professional_mk2": "(б)критериумите и, во зависност од случајот, праговите дефинирани во Одлуката 2009/491/EЗ на Комисијата.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32014R0788",
+        "previous_en": "(a) the information and circumstances referred to in Article 7(2) of Regulation (EC) No 391/2009, particularly in light of the circumstances referred to in Articles 5 and 6 of this Regulation;",
+        "current_en": "(b) the criteria and, as the case may be, thresholds defined in Commission Decision 2009/491/EC.",
+        "next_en": "When fines and periodic penalty payments imposed on a recognised organisation reach the maximum ceiling established in accordance with Article 6(3) of Regulation (EC) No 391/2009 and appropriate corrective action has not been taken by the recognised organisation, the Commission may consider that these measures have not attained their objective of removing any potential threat to safety or the environment."
+      }
+    },
+    "source_context": {
+      "celex": "32014R0788",
+      "previous_en": "(a) the information and circumstances referred to in Article 7(2) of Regulation (EC) No 391/2009, particularly in light of the circumstances referred to in Articles 5 and 6 of this Regulation;",
+      "current_en": "(b) the criteria and, as the case may be, thresholds defined in Commission Decision 2009/491/EC.",
+      "next_en": "When fines and periodic penalty payments imposed on a recognised organisation reach the maximum ceiling established in accordance with Article 6(3) of Regulation (EC) No 391/2009 and appropriate corrective action has not been taken by the recognised organisation, the Commission may consider that these measures have not attained their objective of removing any potential threat to safety or the environment."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 281,
+      "completion_tokens": 43,
+      "total_tokens": 324,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 2336.02,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately with only minor wording differences that do not affect meaning; terminology and structure align well with the professional reference."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 251,
+      "completion_tokens": 118,
+      "total_tokens": 369,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1662.89
+  },
+  {
+    "celex": "32015L2302",
+    "tu_id": "32015L2302:251",
+    "en": "Member States shall ensure that, before the start of the package, the organiser may not unilaterally change package travel contract terms other than the price in accordance with Article 10, unless:",
+    "mk1": "Државите членки обезбедуваат, пред започнувањето на пакет-аранжманот, организаторот да не може еднострано да ги менува условите од договорот за пакет-аранжман, освен цената во согласност со член 10, освен ако:",
+    "hidden_professional_mk2": "Земјите членки обезбедуваат дека, пред започнувањето на пакет -аранжманот, организаторот не смее еднострано да ги измени условите од договорот за патување со пакет -аранжман со исклучок на цената во согласност со член 10, освен ако:",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32015L2302",
+        "previous_en": "Alteration of other package travel contract terms",
+        "current_en": "Member States shall ensure that, before the start of the package, the organiser may not unilaterally change package travel contract terms other than the price in accordance with Article 10, unless:",
+        "next_en": "(a) the organiser has reserved that right in the contract;"
+      }
+    },
+    "source_context": {
+      "celex": "32015L2302",
+      "previous_en": "Alteration of other package travel contract terms",
+      "current_en": "Member States shall ensure that, before the start of the package, the organiser may not unilaterally change package travel contract terms other than the price in accordance with Article 10, unless:",
+      "next_en": "(a) the organiser has reserved that right in the contract;"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 211,
+      "completion_tokens": 186,
+      "total_tokens": 397,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 112,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 4089,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The professional MK2 translation preserves the legal meaning accurately with only minor wording differences. Both versions clearly state that Member States ensure the organiser may not unilaterally change package travel contract terms other than the price according to Article 10 before the start of the package. Terminology such as 'пакет-аранжман' and reference to 'член 10' are consistent. The MK2 version adds 'договорот за патување со пакет -аранжман' which is a more precise term but does not alter meaning. The structure and grammar are natural and faithful to the source."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 322,
+      "completion_tokens": 211,
+      "total_tokens": 533,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 2158.52
+  },
+  {
+    "celex": "32016R1036",
+    "tu_id": "32016R1036:156",
+    "en": "In order to determine whether two parties are associated, account may be taken of the definition of related parties set out in Article 127 of Commission Implementing Regulation (EU) 2015/2447 ().",
+    "mk1": "За да се утврди дали две страни се поврзани, може да се земе предвид дефиницијата за поврзани лица утврдена во член 127 од Регулативата за спроведување (ЕУ) 2015/2447 на Комисијата ().",
+    "hidden_professional_mk2": "За да се одреди дали две страни се поврзани, треба да се води грижа за дефиницијата на поврзани страни утврдена во член 127 од Регулативата за спроведување (ЕУ) 2015/2447 на Комисијата ().",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32016R1036",
+        "previous_en": "Prices between parties which appear to be associated or to have a compensatory arrangement with each other may not be considered to be in the ordinary course of trade and may not be used to establish the normal value unless it is determined that they are unaffected by the relationship.",
+        "current_en": "In order to determine whether two parties are associated, account may be taken of the definition of related parties set out in Article 127 of Commission Implementing Regulation (EU) 2015/2447 ().",
+        "next_en": "Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code (OJ L 343, 29.12.2015, p. 558)."
+      }
+    },
+    "source_context": {
+      "celex": "32016R1036",
+      "previous_en": "Prices between parties which appear to be associated or to have a compensatory arrangement with each other may not be considered to be in the ordinary course of trade and may not be used to establish the normal value unless it is determined that they are unaffected by the relationship.",
+      "current_en": "In order to determine whether two parties are associated, account may be taken of the definition of related parties set out in Article 127 of Commission Implementing Regulation (EU) 2015/2447 ().",
+      "next_en": "Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code (OJ L 343, 29.12.2015, p. 558)."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 317,
+      "completion_tokens": 186,
+      "total_tokens": 503,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 112,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 4109.39,
+    "evaluation": {
+      "classification": "MINOR_ISSUES",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately. Minor stylistic differences exist, such as 'да се утврди' vs 'да се одреди' and 'може да се земе предвид' vs 'треба да се води грижа за', but these do not affect the legal content. Terminology and references are consistent and correct."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 319,
+      "completion_tokens": 161,
+      "total_tokens": 480,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1668.05
+  },
+  {
+    "celex": "32016R1150",
+    "tu_id": "32016R1150:108",
+    "en": "(a) the legal persons that may submit applications in accordance with Article 3 of Delegated Regulation (EU) 2016/1149;",
+    "mk1": "(а) правните лица кои можат да поднесат барања во согласност со член 3 од Делегираната регулатива (ЕУ) 2016/1149;",
+    "hidden_professional_mk2": "(а)правните лица кои можат да поднесат барања во согласност со член 3 од Делегираната регулатива (ЕУ) 2016/1149;",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [
+        {
+          "source_text": "(a)\tthe natural or legal persons that may submit applications in accordance with Article 3 of Delegated Regulation (EU) 2016/1149;",
+          "target_text": "(а)физичките или правните лица кои можат да поднесат барања во согласност со член 3 од Делегираната Ррегулатива (ЕУ) 2016/1149;",
+          "celex": "32016R1150",
+          "source_document": "final-clean-en-mk2-corpus/documents/32016R1150_clean_EN_MK2.tmx",
+          "alignment_confidence": "1.0000",
+          "original_tmx_tu_id": "32016R1150:119",
+          "similarity": 0.919643
+        }
+      ],
+      "source_document_context": {
+        "celex": "32016R1150",
+        "previous_en": "For the support referred to in point (a) of Article 45(1) of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure and the procedure for the possible extension of the support, as referred to in Article 4 of Delegated Regulation (EU) 2016/1149, which shall include rules on:",
+        "current_en": "(a) the legal persons that may submit applications in accordance with Article 3 of Delegated Regulation (EU) 2016/1149;",
+        "next_en": "(b) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for their examination and for the notification of the results of the selection procedure to the operators;"
+      }
+    },
+    "source_context": {
+      "celex": "32016R1150",
+      "previous_en": "For the support referred to in point (a) of Article 45(1) of Regulation (EU) No 1308/2013 Member States shall lay down rules on the application procedure and the procedure for the possible extension of the support, as referred to in Article 4 of Delegated Regulation (EU) 2016/1149, which shall include rules on:",
+      "current_en": "(a) the legal persons that may submit applications in accordance with Article 3 of Delegated Regulation (EU) 2016/1149;",
+      "next_en": "(b) the submission and selection of applications, which shall include at least the deadlines for the submission of applications, for their examination and for the notification of the results of the selection procedure to the operators;"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 448,
+      "completion_tokens": 45,
+      "total_tokens": 493,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 1778.44,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation fully preserves the legal meaning and corresponds closely to the professional reference, with only minor spacing differences that do not affect meaning."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 261,
+      "completion_tokens": 116,
+      "total_tokens": 377,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1933.45
+  },
+  {
+    "celex": "32017R2107",
+    "tu_id": "32017R2107:114",
+    "en": "(b) on the basis of the restriction on the number of Union catching vessels targeting bigeye tuna in 2005 as notified to ICCAT on 30 June 2005.",
+    "mk1": "(б) врз основа на ограничувањето на бројот на риболовни бродови на Унијата што ловат големоока туна во 2005 година, за кое ICCAT беше известена на 30 јуни 2005 година.",
+    "hidden_professional_mk2": "(б)врз основа на ограничувањето на бројот на бродови за уловни бродови на Унијата за целен риболов на големоока туна во 2005 година, како што е известено до ICCAT на 30 јуни 2005 година.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32017R2107",
+        "previous_en": "(a) as the average number and the capacity in GT of Union catching vessels targeting bigeye tuna in the ICCAT Convention area during the period 1991 to 1992; and",
+        "current_en": "(b) on the basis of the restriction on the number of Union catching vessels targeting bigeye tuna in 2005 as notified to ICCAT on 30 June 2005.",
+        "next_en": "Specific authorisations for large-scale tropical tuna catching vessels and for support vessels"
+      }
+    },
+    "source_context": {
+      "celex": "32017R2107",
+      "previous_en": "(a) as the average number and the capacity in GT of Union catching vessels targeting bigeye tuna in the ICCAT Convention area during the period 1991 to 1992; and",
+      "current_en": "(b) on the basis of the restriction on the number of Union catching vessels targeting bigeye tuna in 2005 as notified to ICCAT on 30 June 2005.",
+      "next_en": "Specific authorisations for large-scale tropical tuna catching vessels and for support vessels"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 236,
+      "completion_tokens": 163,
+      "total_tokens": 399,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 97,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 3710.46,
+    "evaluation": {
+      "classification": "MINOR_ISSUES",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "MIXED",
+      "structural_fidelity": "MIXED",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning but differs slightly in phrasing and terminology. The professional MK2 version uses 'бродови за уловни бродови' and 'како што е известено до ICCAT', which are more precise and formal. The MK1 version is understandable and accurate but less formal and slightly less precise."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 304,
+      "completion_tokens": 161,
+      "total_tokens": 465,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1702.02
+  },
+  {
+    "celex": "32017R2226",
+    "tu_id": "32017R2226:1062",
+    "en": "If the search with the data listed in paragraph 1 of this Article indicates that data on the person are recorded in the VIS but no valid visa is recorded, the competent authority for carrying out checks at borders at which the EES is operated shall be given access to consult the following data contained in the application file or files as well as in an application file or files linked pursuant to Article 8(4), solely for the purposes referred to in paragraph 1 of this Article:",
+    "mk1": "Ако пребарувањето со помош на податоците наведени во став 1 од овој член покаже дека податоците за лицето се евидентирани во ВИС, но дека не е евидентирана важечка виза, на надлежниот орган за извршување проверки на границите на кои функционира ЕЕС му се дава пристап за да изврши увид во следниве податоци содржани во досието или досиејата за барање, како и во досието или досиејата за барање поврзани во согласност со член 8(4), исклучиво за целите наведени во став 1 од овој член:",
+    "hidden_professional_mk2": "ебарувањето на податоците наведени во став 1 од овој член покажува дека податоците за лицето се чуваат во ВИС, но нема запис за важечка виза, надлежниот орган за извршување проверки на границите каде што функционирафункционира ЕЕС, добива пристап за да ги провери следниве податоци што ги содржжании во досието или досиејата за барање, како и досието или досиејата за барање што се поврзани во согласност со член 8(4), единствено за целите наведени во став 1 одна овој член:",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [
+        {
+          "source_text": "If the search with the data listed in paragraph 2 of this Article and the verification carried out under paragraph 4 of this Article indicate that data on the person are recorded in the VIS, the competent authority for carrying out checks at borders at which the EES is operated shall be given access to consult the following data contained in the application file concerned as well as in an application file or files linked pursuant to Article 8(4), solely for the purpose referred to in paragraph 1 of this Article:",
+          "target_text": "5.Ако пребарувањето со помош на податоците наведени во став 2 од овој член и проверката извршена според став 4 од овој член покажуваат дека податоците за лицето се евидентираничуваат во ВИС, надлежниот орган за извршување проверки на границата каде што функционира ЕЕС добива пристап да ги провери следниве податоци содржани во предметното досието за барање како и или во досието или досиејата за барање поврзани досиеја во согласност со член 8(4), само за целите наведени во став 1 од овој член:",
+          "celex": "32017R2226",
+          "source_document": "final-clean-en-mk2-corpus/documents/32017R2226_clean_EN_MK2.tmx",
+          "alignment_confidence": "1.0000",
+          "original_tmx_tu_id": "32017R2226:1088",
+          "similarity": 0.858696
+        }
+      ],
+      "source_document_context": {
+        "celex": "32017R2226",
+        "previous_en": "In addition to the consultation carried out under paragraph 1 of this Article, the competent authority for carrying out checks at borders at which the EES is operated shall verify the identity of a person against the VIS if the search with the data listed in paragraph 1 of this Article indicates that data on the person are recorded in the VIS and one of the following conditions is met:",
+        "current_en": "If the search with the data listed in paragraph 1 of this Article indicates that data on the person are recorded in the VIS but no valid visa is recorded, the competent authority for carrying out checks at borders at which the EES is operated shall be given access to consult the following data contained in the application file or files as well as in an application file or files linked pursuant to Article 8(4), solely for the purposes referred to in paragraph 1 of this Article:",
+        "next_en": "In addition, for those visa holders for whom certain data are not required to be provided for legal reasons or factually cannot be provided, the competent authority for carrying out checks at borders at which the EES is operated shall receive a notification related to the specific data field or fields concerned which shall be marked as ‘not applicable’."
+      }
+    },
+    "source_context": {
+      "celex": "32017R2226",
+      "previous_en": "In addition to the consultation carried out under paragraph 1 of this Article, the competent authority for carrying out checks at borders at which the EES is operated shall verify the identity of a person against the VIS if the search with the data listed in paragraph 1 of this Article indicates that data on the person are recorded in the VIS and one of the following conditions is met:",
+      "current_en": "If the search with the data listed in paragraph 1 of this Article indicates that data on the person are recorded in the VIS but no valid visa is recorded, the competent authority for carrying out checks at borders at which the EES is operated shall be given access to consult the following data contained in the application file or files as well as in an application file or files linked pursuant to Article 8(4), solely for the purposes referred to in paragraph 1 of this Article:",
+      "next_en": "In addition, for those visa holders for whom certain data are not required to be provided for legal reasons or factually cannot be provided, the competent authority for carrying out checks at borders at which the EES is operated shall receive a notification related to the specific data field or fields concerned which shall be marked as ‘not applicable’."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 777,
+      "completion_tokens": 256,
+      "total_tokens": 1033,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 92,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 4263.94,
+    "evaluation": {
+      "classification": "MINOR_ISSUES",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The MK1 translation preserves the legal meaning accurately with correct terminology and structure. Minor wording differences and slight stylistic variations compared to the professional MK2 reference do not affect the legal content or clarity."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 546,
+      "completion_tokens": 128,
+      "total_tokens": 674,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1476.7
+  },
+  {
+    "celex": "32018L0822",
+    "tu_id": "32018L0822:270",
+    "en": "where the beneficial owners of such persons, legal arrangements or structures, as defined in Directive (EU) 2015/849, are made unidentifiable.",
+    "mk1": "каде што вистинските сопственици на таквите лица, правни аранжмани или структури, како што се дефинирани во Директивата (ЕУ) 2015/849, се прават непрепознатливи.",
+    "hidden_professional_mk2": "(в) каде вистинските сопственици на таквите лица, правни аранжмани или структури, како што е дефинирано во Директивата (ЕУ) 2015/849, не можат да се идентификуваат.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32018L0822",
+        "previous_en": "that are incorporated, managed, resident, controlled or established in any jurisdiction other than the jurisdiction of residence of one or more of the beneficial owners of the assets held by such persons, legal arrangements or structures; and",
+        "current_en": "where the beneficial owners of such persons, legal arrangements or structures, as defined in Directive (EU) 2015/849, are made unidentifiable.",
+        "next_en": "E. Specific hallmarks concerning transfer pricing"
+      }
+    },
+    "source_context": {
+      "celex": "32018L0822",
+      "previous_en": "that are incorporated, managed, resident, controlled or established in any jurisdiction other than the jurisdiction of residence of one or more of the beneficial owners of the assets held by such persons, legal arrangements or structures; and",
+      "current_en": "where the beneficial owners of such persons, legal arrangements or structures, as defined in Directive (EU) 2015/849, are made unidentifiable.",
+      "next_en": "E. Specific hallmarks concerning transfer pricing"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 224,
+      "completion_tokens": 191,
+      "total_tokens": 415,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 124,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 3516.72,
+    "evaluation": {
+      "classification": "MINOR_ISSUES",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "MIXED",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The MK1 translation uses 'се прават непрепознатливи' (are made unidentifiable) which is less precise and slightly changes the nuance compared to the professional MK2 'не можат да се идентификуваат' (cannot be identified). The professional version also includes the introductory '(в)' which is missing in MK1. However, the core legal meaning is preserved and terminology is accurate."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 298,
+      "completion_tokens": 177,
+      "total_tokens": 475,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1957.89
+  },
+  {
+    "celex": "32018R1241",
+    "tu_id": "32018R1241:22",
+    "en": "‘(n) manage the ETIAS watchlist in accordance with Articles 34 and 35 of Regulation (EU) 2018/1240 of the European Parliament and of the Council (*);",
+    "mk1": "„(н) управува со списокот за следење на ETIAS во согласност со членовите 34 и 35 од Регулативата (ЕУ) 2018/1240 на Европскиот парламент и на Советот (*);",
+    "hidden_professional_mk2": "„(љ)управува со листата за надзор на ЕТИАС во согласност со членовите 34 и 35 од Регулативата (ЕУ) 2018/1240 на Европскиот парламент и на Советот (*);",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32018R1241",
+        "previous_en": "(a) the following points are added:",
+        "current_en": "‘(n) manage the ETIAS watchlist in accordance with Articles 34 and 35 of Regulation (EU) 2018/1240 of the European Parliament and of the Council (*);",
+        "next_en": "(o) enter data into the ETIAS watchlist related to terrorist offences or other serious criminal offences obtained by Europol, without prejudice to the conditions regulating Europol’s international cooperation;"
+      }
+    },
+    "source_context": {
+      "celex": "32018R1241",
+      "previous_en": "(a) the following points are added:",
+      "current_en": "‘(n) manage the ETIAS watchlist in accordance with Articles 34 and 35 of Regulation (EU) 2018/1240 of the European Parliament and of the Council (*);",
+      "next_en": "(o) enter data into the ETIAS watchlist related to terrorist offences or other serious criminal offences obtained by Europol, without prejudice to the conditions regulating Europol’s international cooperation;"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 238,
+      "completion_tokens": 55,
+      "total_tokens": 293,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 1810.39,
+    "evaluation": {
+      "classification": "MINOR_ISSUES",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "MIXED",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately. Minor terminology differences exist: 'списокот за следење' vs 'листата за надзор' and 'ETIAS' vs 'ЕТИАС', but these do not affect legal meaning. The letter marker differs ('н' vs 'љ'), which may be a typographical or contextual issue but does not impact meaning."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 294,
+      "completion_tokens": 166,
+      "total_tokens": 460,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1764.85
+  },
+  {
+    "celex": "32019R0007",
+    "tu_id": "32019R0007:82",
+    "en": "From 5 January 2019 at the earliest for a maximum period of five years until 4 January 2024, without prejudice to the second subparagraph of Article 30(5).",
+    "mk1": "Најрано од 5 јануари 2019 година, за максимален период од пет години, до 4 јануари 2024 година, без да се доведе во прашање член 30 став 5 втор потстав.",
+    "hidden_professional_mk2": "Најрано од 5 јануари 2019 година за максимален период од пет години до 4 јануари 2024 година, без да е во спротивност со вториот потстав на член 30(5).",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32019R0007",
+        "previous_en": "Term of appointment",
+        "current_en": "From 5 January 2019 at the earliest for a maximum period of five years until 4 January 2024, without prejudice to the second subparagraph of Article 30(5).",
+        "next_en": "Conditions"
+      }
+    },
+    "source_context": {
+      "celex": "32019R0007",
+      "previous_en": "Term of appointment",
+      "current_en": "From 5 January 2019 at the earliest for a maximum period of five years until 4 January 2024, without prejudice to the second subparagraph of Article 30(5).",
+      "next_en": "Conditions"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 194,
+      "completion_tokens": 56,
+      "total_tokens": 250,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 1708.69,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately with only minor wording differences that do not affect the substance. The reference to the article and subparagraph is clear and consistent with the professional MK2 version."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 290,
+      "completion_tokens": 128,
+      "total_tokens": 418,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1637.15
+  },
+  {
+    "celex": "32019R1793",
+    "tu_id": "32019R1793:108",
+    "en": "(a) ‘consignment’ means ‘consignment’ as defined in Article 3(37) of Regulation (EU) 2017/625;",
+    "mk1": "(а) „пратка“ значи „пратка“ како што е дефинирана во член 3 точка 37 од Регулативата (ЕУ) 2017/625;",
+    "hidden_professional_mk2": "(а)„пратка“ е „пратка“ како што е дефинирано во член 3(37) од Регулативата (ЕУ) 2017/625;",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32019R1793",
+        "previous_en": "For the purposes of this Regulation, the following definitions shall apply:",
+        "current_en": "(a) ‘consignment’ means ‘consignment’ as defined in Article 3(37) of Regulation (EU) 2017/625;",
+        "next_en": "(b) ‘placing on the market’ means ‘placing on the market’ as defined in point (8) of Article 3 of Regulation (EC) No 178/2002."
+      }
+    },
+    "source_context": {
+      "celex": "32019R1793",
+      "previous_en": "For the purposes of this Regulation, the following definitions shall apply:",
+      "current_en": "(a) ‘consignment’ means ‘consignment’ as defined in Article 3(37) of Regulation (EU) 2017/625;",
+      "next_en": "(b) ‘placing on the market’ means ‘placing on the market’ as defined in point (8) of Article 3 of Regulation (EC) No 178/2002."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 228,
+      "completion_tokens": 47,
+      "total_tokens": 275,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 1697.25,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately with only minor stylistic differences such as 'значи' vs 'е' and 'точка' vs parentheses, which do not affect legal interpretation."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 266,
+      "completion_tokens": 128,
+      "total_tokens": 394,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1401.7
+  },
+  {
+    "celex": "32020L0739",
+    "tu_id": "32020L0739:16",
+    "en": "(4) In October 2019, Commission Directive (EU) 2019/1833 () amended Annex III to Directive 2000/54/EC, which resulted notably in the addition of a large number of biological agents, including the Severe Acute Respiratory Syndrome-related coronavirus (SARS-virus) and the Middle East Respiratory Syndrome coronavirus (MERS-virus).",
+    "mk1": "(4) Во октомври 2019 година, со Директивата (ЕУ) 2019/1833 на Комисијата () беше изменет Анекс III на Директивата 2000/54/ЕЗ, што доведе, особено, до додавање голем број биолошки агенси, вклучувајќи ги коронавирусот поврзан со тешкиот акутен респираторен синдром (вирусот САРС) и коронавирусот на Блискоисточниот респираторен синдром (вирусот МЕРС).",
+    "hidden_professional_mk2": "(4)Во октомври 2019 година, со Директивата (ЕУ) 2019/1833 на Комисијата () е изменета Анекс III кон Директивата 2000/54/EЗ, со што, пред сѐ, во него се додадени голем број биолошки агенси, вклучително и корона вирусот поврзан со тешкиот акутен респираторен синдром (вирус SARS) или корона вирусот поврзан со средноисточниот респираторен синдром (вирус MERS).",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32020L0739",
+        "previous_en": "In line with introductory note 6 in that Annex, that list should be amended to take into account the latest knowledge as regards scientific and epidemiological development that have brought about significant changes, including the existence of new biological agents.",
+        "current_en": "(4) In October 2019, Commission Directive (EU) 2019/1833 () amended Annex III to Directive 2000/54/EC, which resulted notably in the addition of a large number of biological agents, including the Severe Acute Respiratory Syndrome-related coronavirus (SARS-virus) and the Middle East Respiratory Syndrome coronavirus (MERS-virus).",
+        "next_en": "Commission Directive (EU) 2019/1833 of 24 October 2019 amending Annexes I, III, V and VI to Directive 2000/54/EC of the European Parliament and of the Council as regards purely technical adjustments (OJ L 279, 31.10.2019, p. 54)."
+      }
+    },
+    "source_context": {
+      "celex": "32020L0739",
+      "previous_en": "In line with introductory note 6 in that Annex, that list should be amended to take into account the latest knowledge as regards scientific and epidemiological development that have brought about significant changes, including the existence of new biological agents.",
+      "current_en": "(4) In October 2019, Commission Directive (EU) 2019/1833 () amended Annex III to Directive 2000/54/EC, which resulted notably in the addition of a large number of biological agents, including the Severe Acute Respiratory Syndrome-related coronavirus (SARS-virus) and the Middle East Respiratory Syndrome coronavirus (MERS-virus).",
+      "next_en": "Commission Directive (EU) 2019/1833 of 24 October 2019 amending Annexes I, III, V and VI to Directive 2000/54/EC of the European Parliament and of the Council as regards purely technical adjustments (OJ L 279, 31.10.2019, p. 54)."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 376,
+      "completion_tokens": 133,
+      "total_tokens": 509,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 3078.36,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately with only minor stylistic and lexical differences that do not affect the substance. Both versions correctly reference the directive, annex, and the addition of biological agents including SARS and MERS viruses. Differences such as 'особено' vs 'пред сѐ', 'вклучувајќи ги' vs 'вклучително и', and virus naming conventions are acceptable variations without legal impact."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 484,
+      "completion_tokens": 176,
+      "total_tokens": 660,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 2257.12
+  },
+  {
+    "celex": "32021D1001",
+    "tu_id": "32021D1001:12",
+    "en": "(4) Decision 2012/642/CFSP should therefore be amended accordingly, HAS ADOPTED THIS DECISION:",
+    "mk1": "(4) Одлуката 2012/642/ЗНБП треба соодветно да се измени, ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+    "hidden_professional_mk2": "(4)Затоа, Одлуката 2012/642/ЗНБП треба соодветно да се измени, ЈА ДОНЕСЕ ОВАА ОДЛУКА:",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32021D1001",
+        "previous_en": "In order to avoid undesired consequences of this listing, it is necessary to amend the list of instances where the competent authority of a Member State may authorise derogations to the freezing of funds and the prohibition to make funds or economic resources available to listed persons or entities.",
+        "current_en": "(4) Decision 2012/642/CFSP should therefore be amended accordingly, HAS ADOPTED THIS DECISION:",
+        "next_en": "Article 1"
+      }
+    },
+    "source_context": {
+      "celex": "32021D1001",
+      "previous_en": "In order to avoid undesired consequences of this listing, it is necessary to amend the list of instances where the competent authority of a Member State may authorise derogations to the freezing of funds and the prohibition to make funds or economic resources available to listed persons or entities.",
+      "current_en": "(4) Decision 2012/642/CFSP should therefore be amended accordingly, HAS ADOPTED THIS DECISION:",
+      "next_en": "Article 1"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 220,
+      "completion_tokens": 157,
+      "total_tokens": 377,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 107,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 3841.8,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning fully; the only difference is the addition of 'Затоа,' (Therefore,) at the start in the professional MK2 version, which does not alter meaning but adds clarity. Both versions correctly translate the decision reference and legal terms."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 259,
+      "completion_tokens": 143,
+      "total_tokens": 402,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1888.46
+  },
+  {
+    "celex": "32021R0279",
+    "tu_id": "32021R0279:134",
+    "en": "(a) minimum 10 % of all official controls of operators or groups of operators shall be carried out without prior notice every year;",
+    "mk1": "(а) секоја година, најмалку 10 % од сите службени контроли на операторите или групите оператори се вршат без претходна најава;",
+    "hidden_professional_mk2": "(а)секоја година се вршат најмалку 10 % од сите официјални контроли на оператори или групи оператори без претходно известување;",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32021R0279",
+        "previous_en": "The following rules on minimum percentages shall apply to the official controls referred to in Article 38(4) of Regulation (EU) 2018/848 to be carried out by each competent authority or, where appropriate, control authority or control body according to the risk of non-compliance:",
+        "current_en": "(a) minimum 10 % of all official controls of operators or groups of operators shall be carried out without prior notice every year;",
+        "next_en": "(b) minimum 10 % of additional controls to those referred to in Article 38(3) of Regulation (EU) 2018/848 shall be carried out every year;"
+      }
+    },
+    "source_context": {
+      "celex": "32021R0279",
+      "previous_en": "The following rules on minimum percentages shall apply to the official controls referred to in Article 38(4) of Regulation (EU) 2018/848 to be carried out by each competent authority or, where appropriate, control authority or control body according to the risk of non-compliance:",
+      "current_en": "(a) minimum 10 % of all official controls of operators or groups of operators shall be carried out without prior notice every year;",
+      "next_en": "(b) minimum 10 % of additional controls to those referred to in Article 38(3) of Regulation (EU) 2018/848 shall be carried out every year;"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 262,
+      "completion_tokens": 43,
+      "total_tokens": 305,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 2257.35,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately with only minor stylistic differences; terminology and structure align well with the professional reference."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 253,
+      "completion_tokens": 114,
+      "total_tokens": 367,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1642.14
+  },
+  {
+    "celex": "32022R1955",
+    "tu_id": "32022R1955:18",
+    "en": "Annex I to Regulation (EU) No 359/2011 is amended as set out in the Annex to this Regulation.",
+    "mk1": "Анекс I на Регулативата (ЕУ) бр. 359/2011 се изменува како што е утврдено во Анексот на оваа регулатива.",
+    "hidden_professional_mk2": "Анекс I кон Регулативата (ЕУ) бр. 359/2011 се изменува како што е утврдено во Анексот кон оваа регулатива.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32022R1955",
+        "previous_en": "Article 1",
+        "current_en": "Annex I to Regulation (EU) No 359/2011 is amended as set out in the Annex to this Regulation.",
+        "next_en": "This Regulation shall enter into force on the date of its publication in the Official Journal of the European Union."
+      }
+    },
+    "source_context": {
+      "celex": "32022R1955",
+      "previous_en": "Article 1",
+      "current_en": "Annex I to Regulation (EU) No 359/2011 is amended as set out in the Annex to this Regulation.",
+      "next_en": "This Regulation shall enter into force on the date of its publication in the Official Journal of the European Union."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 186,
+      "completion_tokens": 44,
+      "total_tokens": 230,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 1784.77,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately. The difference between 'на' and 'кон' in 'Annex I to Regulation' and 'Annex to this Regulation' is minor and does not affect legal interpretation. Terminology, structure, and grammar are consistent with the professional reference."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 253,
+      "completion_tokens": 147,
+      "total_tokens": 400,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1662.65
+  },
+  {
+    "celex": "32025D2561",
+    "tu_id": "32025D2561:17",
+    "en": "Annex II to Decision (CFSP) 2022/2319 is amended in accordance with the Annex to this Decision.",
+    "mk1": "Анекс II кон Одлуката (ЗНБП) 2022/2319 се изменува во согласност со Анексот кон оваа одлука.",
+    "hidden_professional_mk2": "Анекс II кон Одлуката (ЗНБП) 2022/2319 се изменува во согласност со Анексот кон оваа одлука.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [
+        {
+          "source_text": "The Annex to Decision (CFSP) 2024/1484 is amended in accordance with the Annex to this Decision.",
+          "target_text": "Анексот кон Одлуката (ЗНБП) 2024/1484 се изменува во согласност со Анексот кон оваа одлука.",
+          "celex": "32025D2637",
+          "source_document": "final-clean-en-mk2-corpus/documents/32025D2637_clean_EN_MK2.tmx",
+          "alignment_confidence": "1.0000",
+          "original_tmx_tu_id": "32025D2637:15",
+          "similarity": 0.794521
+        },
+        {
+          "source_text": "The Annex to Decision 2014/145/CFSP is amended in accordance with the Annex to this Decision.",
+          "target_text": "Анексот кон Одлуката 2014/145/ЗНБП се изменува во согласност со Анексот кон оваа одлука.",
+          "celex": "32025D2594",
+          "source_document": "final-clean-en-mk2-corpus/documents/32025D2594_clean_EN_MK2.tmx",
+          "alignment_confidence": "1.0000",
+          "original_tmx_tu_id": "32025D2594:18",
+          "similarity": 0.780822
+        }
+      ],
+      "source_document_context": {
+        "celex": "32025D2561",
+        "previous_en": "Article 1",
+        "current_en": "Annex II to Decision (CFSP) 2022/2319 is amended in accordance with the Annex to this Decision.",
+        "next_en": "This Decision shall enter into force on the date of its publication in the Official Journal of the European Union."
+      }
+    },
+    "source_context": {
+      "celex": "32025D2561",
+      "previous_en": "Article 1",
+      "current_en": "Annex II to Decision (CFSP) 2022/2319 is amended in accordance with the Annex to this Decision.",
+      "next_en": "This Decision shall enter into force on the date of its publication in the Official Journal of the European Union."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 453,
+      "completion_tokens": 39,
+      "total_tokens": 492,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 1209.73,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation matches the professional reference exactly, preserving legal meaning with no omissions or additions."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 243,
+      "completion_tokens": 107,
+      "total_tokens": 350,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1612.7
+  },
+  {
+    "celex": "32025D2594",
+    "tu_id": "32025D2594:14",
+    "en": "(4) In particular, the Council considers that 5 persons and 4 entities responsible for actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine should be added to the list of persons, entities and bodies subject to restrictive measures set out in the Annex to Decision 2014/145/CFSP.",
+    "mk1": "(4) Особено, Советот смета дека пет лица и четири субјекти одговорни за дејствија со кои се поткопуваат или загрозуваат територијалниот интегритет, суверенитетот и независноста на Украина треба да се додадат на списокот на лица, субјекти и тела кои подлежат на рестриктивните мерки утврдени во Анексот на Одлуката 2014/145/ЗНБП.",
+    "hidden_professional_mk2": "5 лица и 4 субјекти одговорни за дејствија кои го поткопуваат или загрозуваат територијалниот интегритет, суверенитетот и независноста на Украина, треба да се додадат на списокот на лица, субјекти и тела кои подлежат на рестриктивни мерки, утврден во Анексот кон Одлуката 2014/145/ЗНБП.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32025D2594",
+        "previous_en": "(3) In view of Russia’s continued and escalating aggression against Ukraine, and in particular its recent brutal military campaign deliberately targeting civilian infrastructure, including energy, water and health facilities, which has caused severe suffering to the civilian population and which aims to undermine Ukraine’s resilience, the Council considers it necessary to adopt further restrictive measures.",
+        "current_en": "(4) In particular, the Council considers that 5 persons and 4 entities responsible for actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine should be added to the list of persons, entities and bodies subject to restrictive measures set out in the Annex to Decision 2014/145/CFSP.",
+        "next_en": "(5) Decision 2014/145/CFSP should therefore be amended accordingly,"
+      }
+    },
+    "source_context": {
+      "celex": "32025D2594",
+      "previous_en": "(3) In view of Russia’s continued and escalating aggression against Ukraine, and in particular its recent brutal military campaign deliberately targeting civilian infrastructure, including energy, water and health facilities, which has caused severe suffering to the civilian population and which aims to undermine Ukraine’s resilience, the Council considers it necessary to adopt further restrictive measures.",
+      "current_en": "(4) In particular, the Council considers that 5 persons and 4 entities responsible for actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine should be added to the list of persons, entities and bodies subject to restrictive measures set out in the Annex to Decision 2014/145/CFSP.",
+      "next_en": "(5) Decision 2014/145/CFSP should therefore be amended accordingly,"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 322,
+      "completion_tokens": 112,
+      "total_tokens": 434,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 2762.97,
+    "evaluation": {
+      "classification": "MINOR_ISSUES",
+      "legal_meaning_preserved": true,
+      "omissions": [
+        "The phrase 'In particular, the Council considers that' is omitted in professional_mk2."
+      ],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "MIXED",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The professional MK2 translation omits the introductory phrase 'In particular, the Council considers that' but preserves the core legal meaning and references accurately. Minor structural differences and slight rephrasing do not affect the legal content."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 417,
+      "completion_tokens": 158,
+      "total_tokens": 575,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1821.12
+  },
+  {
+    "celex": "32025D2637",
+    "tu_id": "32025D2637:15",
+    "en": "The Annex to Decision (CFSP) 2024/1484 is amended in accordance with the Annex to this Decision.",
+    "mk1": "Анексот кон Одлуката (ЗНБП) 2024/1484 се изменува во согласност со Анексот кон оваа одлука.",
+    "hidden_professional_mk2": "Анексот кон Одлуката (ЗНБП) 2024/1484 се изменува во согласност со Анексот кон оваа одлука.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [
+        {
+          "source_text": "The Annex to Decision 2014/145/CFSP is amended in accordance with the Annex to this Decision.",
+          "target_text": "Анексот кон Одлуката 2014/145/ЗНБП се изменува во согласност со Анексот кон оваа одлука.",
+          "celex": "32025D2594",
+          "source_document": "final-clean-en-mk2-corpus/documents/32025D2594_clean_EN_MK2.tmx",
+          "alignment_confidence": "1.0000",
+          "original_tmx_tu_id": "32025D2594:18",
+          "similarity": 0.842857
+        },
+        {
+          "source_text": "Annex II to Decision (CFSP) 2022/2319 is amended in accordance with the Annex to this Decision.",
+          "target_text": "Анекс II кон Одлуката (ЗНБП) 2022/2319 се изменува во согласност со Анексот кон оваа одлука.",
+          "celex": "32025D2561",
+          "source_document": "final-clean-en-mk2-corpus/documents/32025D2561_clean_EN_MK2.tmx",
+          "alignment_confidence": "1.0000",
+          "original_tmx_tu_id": "32025D2561:17",
+          "similarity": 0.794521
+        }
+      ],
+      "source_document_context": {
+        "celex": "32025D2637",
+        "previous_en": "Article 1",
+        "current_en": "The Annex to Decision (CFSP) 2024/1484 is amended in accordance with the Annex to this Decision.",
+        "next_en": "This Decision shall enter into force on the date of its publication in the Official Journal of the European Union."
+      }
+    },
+    "source_context": {
+      "celex": "32025D2637",
+      "previous_en": "Article 1",
+      "current_en": "The Annex to Decision (CFSP) 2024/1484 is amended in accordance with the Annex to this Decision.",
+      "next_en": "This Decision shall enter into force on the date of its publication in the Official Journal of the European Union."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 452,
+      "completion_tokens": 39,
+      "total_tokens": 491,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 1390.93,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation matches the professional reference exactly, preserving legal meaning with correct terminology, structure, and natural grammar."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 242,
+      "completion_tokens": 111,
+      "total_tokens": 353,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1587.1
+  },
+  {
+    "celex": "32025L0290",
+    "tu_id": "32025L0290:1013",
+    "en": "Designed, manufactured, or qualified through successful testing, for operation at altitudes greater than 100 km above the surface of the Earth.",
+    "mk1": "Проектирани, произведени или квалификувани преку успешно тестирање, за работа на височини поголеми од 100 km над површината на Земјата.",
+    "hidden_professional_mk2": "Конструирани, произведени или окарактеризирани преку успешно тестирање во однос на активности на височини од 100 km или повисоко над површината на Земјата.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32025L0290",
+        "previous_en": "ML19 ‘Space-qualified’",
+        "current_en": "Designed, manufactured, or qualified through successful testing, for operation at altitudes greater than 100 km above the surface of the Earth.",
+        "next_en": "Note A determination that a specific item is ‘space- qualified’ by virtue of testing does not mean that other items in the same production run or model series are ‘space-qualified’ if not individually tested."
+      }
+    },
+    "source_context": {
+      "celex": "32025L0290",
+      "previous_en": "ML19 ‘Space-qualified’",
+      "current_en": "Designed, manufactured, or qualified through successful testing, for operation at altitudes greater than 100 km above the surface of the Earth.",
+      "next_en": "Note A determination that a specific item is ‘space- qualified’ by virtue of testing does not mean that other items in the same production run or model series are ‘space-qualified’ if not individually tested."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 211,
+      "completion_tokens": 238,
+      "total_tokens": 449,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 188,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 5757.77,
+    "evaluation": {
+      "classification": "MINOR_ISSUES",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "MIXED",
+      "structural_fidelity": "MIXED",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning but uses 'проектирани' instead of 'конструирани' and 'квалификувани' instead of 'окарактеризирани', which are slight terminology differences without altering meaning. The phrase 'за работа на височини поголеми од 100 km' is less precise than 'во однос на активности на височини од 100 km или повисоко', but the core concept remains intact. Overall, minor terminology and phrasing differences exist but no serious legal errors."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 259,
+      "completion_tokens": 204,
+      "total_tokens": 463,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 2294.65
+  },
+  {
+    "celex": "32025R0392",
+    "tu_id": "32025R0392:22",
+    "en": "(10) Decision (CFSP) 2025/391 imposes a restriction on the sale, supply, transfer, export or provision of software related to oil and gas exploration in order to further restrict the oil and gas exploration and production capacities of Belarus and minimise the risk of circumvention of restrictive measures via the territory of Belarus.",
+    "mk1": "(10) Со Одлуката (ЗНБП) 2025/391 се воведува ограничување на продажбата, снабдувањето, преносот, извозот или обезбедувањето софтвер поврзан со истражувањето на нафта и гас, со цел дополнително да се ограничат капацитетите на Белорусија за истражување и производство на нафта и гас и да се сведе на минимум ризикот од заобиколување на рестриктивните мерки преку територијата на Белорусија.",
+    "hidden_professional_mk2": "(10)Одлуката (ЗНБП) 2025/391 воведува ограничување на продажбата, снабдувањето, преносот, извозот или обезбедувањето на софтвер поврзан со истражување на нафта и гас, со цел дополнително да се ограничат капацитетите за истражување и производство на нафта и гас на Белорусија и да се минимизира ризикот од заобиколување на рестриктивните мерки преку територијата на Белорусија.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "32025R0392",
+        "previous_en": "(9) Additionally, Decision (CFSP) 2025/391 introduces further restrictions on the import of primary aluminium, which allows Belarus to diversify its sources of revenue, thereby enabling its involvement in the Russian aggression against Ukraine.",
+        "current_en": "(10) Decision (CFSP) 2025/391 imposes a restriction on the sale, supply, transfer, export or provision of software related to oil and gas exploration in order to further restrict the oil and gas exploration and production capacities of Belarus and minimise the risk of circumvention of restrictive measures via the territory of Belarus.",
+        "next_en": "(11) In order to prevent Union operators from contributing to the development of Belarus’s infrastructure, Decision (CFSP) 2025/391 introduces a prohibition on the provision of construction services, including civil engineering works."
+      }
+    },
+    "source_context": {
+      "celex": "32025R0392",
+      "previous_en": "(9) Additionally, Decision (CFSP) 2025/391 introduces further restrictions on the import of primary aluminium, which allows Belarus to diversify its sources of revenue, thereby enabling its involvement in the Russian aggression against Ukraine.",
+      "current_en": "(10) Decision (CFSP) 2025/391 imposes a restriction on the sale, supply, transfer, export or provision of software related to oil and gas exploration in order to further restrict the oil and gas exploration and production capacities of Belarus and minimise the risk of circumvention of restrictive measures via the territory of Belarus.",
+      "next_en": "(11) In order to prevent Union operators from contributing to the development of Belarus’s infrastructure, Decision (CFSP) 2025/391 introduces a prohibition on the provision of construction services, including civil engineering works."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 333,
+      "completion_tokens": 247,
+      "total_tokens": 580,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 110,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 4973.52,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The MK1 translation closely matches the professional MK2 reference in meaning and structure. Minor wording differences do not affect legal meaning or clarity."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 465,
+      "completion_tokens": 117,
+      "total_tokens": 582,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1543.2
+  },
+  {
+    "celex": "02005F0214",
+    "tu_id": "02005F0214:170",
+    "en": "Without prejudice to the Article 10, only the issuing State may determine any application for review of the decision.",
+    "mk1": "Без да се доведува во прашање член 10, само државата издавач може да одлучува по секое барање за преиспитување на одлуката.",
+    "hidden_professional_mk2": "2.Без да е во спротивност со член 10, само државата издавател може да одлучува за барањето за повторно разгледување на одлуката.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "02005F0214",
+        "previous_en": "Amnesty and pardon may be granted by the issuing State and also by the executing State.",
+        "current_en": "Without prejudice to the Article 10, only the issuing State may determine any application for review of the decision.",
+        "next_en": "Termination of enforcement"
+      }
+    },
+    "source_context": {
+      "celex": "02005F0214",
+      "previous_en": "Amnesty and pardon may be granted by the issuing State and also by the executing State.",
+      "current_en": "Without prejudice to the Article 10, only the issuing State may determine any application for review of the decision.",
+      "next_en": "Termination of enforcement"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 174,
+      "completion_tokens": 281,
+      "total_tokens": 455,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 231,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 5957.59,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately with only minor wording differences that do not affect the meaning. Both versions correctly reflect the limitation related to Article 10 and the exclusive competence of the issuing State regarding review applications."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 248,
+      "completion_tokens": 132,
+      "total_tokens": 380,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1722.99
+  },
+  {
+    "celex": "02005F0214",
+    "tu_id": "02005F0214:26",
+    "en": "(2) The principle of mutual recognition should apply to financial penalties imposed by judicial or administrative authorities for the purpose of facilitating the enforcement of such penalties in a Member State other than the State in which the penalties are imposed.",
+    "mk1": "(2) Начелото на меѓусебно признавање треба да се применува на паричните казни изречени од судски или управни органи, со цел да се олесни извршувањето на таквите казни во држава членка различна од државата во која се изречени казните.",
+    "hidden_professional_mk2": "(2) Начелото на заемно прифаќање треба да важи за паричните казни изречени од судските и административните органи со цел олеснување на извршувањето на таквите казни во земја членка што не е земјата членка во која казните се изречени.",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "02005F0214",
+        "previous_en": "(1) The European Council meeting in Tampere on 15 and 16 October 1999 endorsed the principle of mutual recognition, which should become the cornerstone of judicial cooperation in both civil and criminal matters within the Union.",
+        "current_en": "(2) The principle of mutual recognition should apply to financial penalties imposed by judicial or administrative authorities for the purpose of facilitating the enforcement of such penalties in a Member State other than the State in which the penalties are imposed.",
+        "next_en": "(3) On 29 November 2000 the Council, in accordance with the Tampere conclusions, adopted a programme of measures to implement the principle of mutual recognition of decisions in criminal matters (), giving priority to the adoption of an instrument applying the principle of mutual recognition to financial penalties (measure 18)."
+      }
+    },
+    "source_context": {
+      "celex": "02005F0214",
+      "previous_en": "(1) The European Council meeting in Tampere on 15 and 16 October 1999 endorsed the principle of mutual recognition, which should become the cornerstone of judicial cooperation in both civil and criminal matters within the Union.",
+      "current_en": "(2) The principle of mutual recognition should apply to financial penalties imposed by judicial or administrative authorities for the purpose of facilitating the enforcement of such penalties in a Member State other than the State in which the penalties are imposed.",
+      "next_en": "(3) On 29 November 2000 the Council, in accordance with the Tampere conclusions, adopted a programme of measures to implement the principle of mutual recognition of decisions in criminal matters (), giving priority to the adoption of an instrument applying the principle of mutual recognition to financial penalties (measure 18)."
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 303,
+      "completion_tokens": 237,
+      "total_tokens": 540,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 151,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 4012.53,
+    "evaluation": {
+      "classification": "MINOR_ISSUES",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "MIXED",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The MK1 translation preserves the legal meaning well but uses 'меѓусебно признавање' instead of the professional 'заемно прифаќање', which is a minor terminology difference. Also, MK1 uses 'управни органи' instead of 'административните органи' and 'држава членка различна од државата' instead of the more precise 'земја членка што не е земјата членка'. These differences do not affect the legal meaning but reflect slight stylistic and terminological variations."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 342,
+      "completion_tokens": 203,
+      "total_tokens": 545,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 2110.84
+  },
+  {
+    "celex": "02018R1860",
+    "tu_id": "02018R1860:24",
+    "en": "(1) ‘return’ means return as defined in point (3) of Article 3 of Directive 2008/115/EC;",
+    "mk1": "(1) „враќање“ е враќање согласно на дефинираното во точка (3) од член 3 од Директивата 2008/115/ЕЗ;",
+    "hidden_professional_mk2": "(1)„враќање“ е враќање согласно на дефинираното во точка (3) од член 3 од Директивата 2008/115/ЕЗ;",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [
+        {
+          "source_text": "(6)\t‘removal’ means removal as defined in point (5) of Article 3 of Directive 2008/115/EC;",
+          "target_text": "(6) „отстранување“ е отстранување согласно на дефинираното во точка (5) од член 3 од Директивата 2008/115/ЕЗ;",
+          "celex": "02018R1860",
+          "source_document": "final-clean-en-mk2-corpus/documents/02018R1860_clean_EN_MK2.tmx",
+          "alignment_confidence": "1.0000",
+          "original_tmx_tu_id": "02018R1860:29",
+          "similarity": 0.792208
+        }
+      ],
+      "source_document_context": {
+        "celex": "02018R1860",
+        "previous_en": "For the purposes of this Regulation, the following definitions apply:",
+        "current_en": "(1) ‘return’ means return as defined in point (3) of Article 3 of Directive 2008/115/EC;",
+        "next_en": "(2) ‘third-country national’ means a third-country national as defined in point (1) of Article 3 of Directive 2008/115/EC;"
+      }
+    },
+    "source_context": {
+      "celex": "02018R1860",
+      "previous_en": "For the purposes of this Regulation, the following definitions apply:",
+      "current_en": "(1) ‘return’ means return as defined in point (3) of Article 3 of Directive 2008/115/EC;",
+      "next_en": "(2) ‘third-country national’ means a third-country national as defined in point (1) of Article 3 of Directive 2008/115/EC;"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 368,
+      "completion_tokens": 48,
+      "total_tokens": 416,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 1788.7,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation matches the professional reference exactly except for a minor spacing difference, with all legal references and terminology accurately preserved."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 266,
+      "completion_tokens": 113,
+      "total_tokens": 379,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1672.97
+  },
+  {
+    "celex": "02018R1860",
+    "tu_id": "02018R1860:28",
+    "en": "(5) ‘supplementary information’ means supplementary information as defined in point (2) of Article 3 of Regulation (EU) 2018/1861;",
+    "mk1": "(5) „дополнителни информации“ значи дополнителни информации како што се дефинирани во член 3 точка (2) од Регулативата (ЕУ) 2018/1861;",
+    "hidden_professional_mk2": "(5)„дополнителни информации“ се информации согласно на дефинираното во точка (2) од член 3 од Регулативата (EУ) 2018/1861;",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "02018R1860",
+        "previous_en": "(4) ‘alert’ means an alert as defined in point (1) of Article 3 of Regulation (EU) 2018/1861;",
+        "current_en": "(5) ‘supplementary information’ means supplementary information as defined in point (2) of Article 3 of Regulation (EU) 2018/1861;",
+        "next_en": "(6) ‘removal’ means removal as defined in point (5) of Article 3 of Directive 2008/115/EC;"
+      }
+    },
+    "source_context": {
+      "celex": "02018R1860",
+      "previous_en": "(4) ‘alert’ means an alert as defined in point (1) of Article 3 of Regulation (EU) 2018/1861;",
+      "current_en": "(5) ‘supplementary information’ means supplementary information as defined in point (2) of Article 3 of Regulation (EU) 2018/1861;",
+      "next_en": "(6) ‘removal’ means removal as defined in point (5) of Article 3 of Directive 2008/115/EC;"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 244,
+      "completion_tokens": 51,
+      "total_tokens": 295,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 1508.44,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately with only minor stylistic differences; terminology and references are consistent and natural."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 275,
+      "completion_tokens": 112,
+      "total_tokens": 387,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1808.83
+  },
+  {
+    "celex": "02018R1860",
+    "tu_id": "02018R1860:29",
+    "en": "(6) ‘removal’ means removal as defined in point (5) of Article 3 of Directive 2008/115/EC;",
+    "mk1": "(6) „отстранување“ е отстранување согласно на дефинираното во точка (5) од член 3 од Директивата 2008/115/ЕЗ;",
+    "hidden_professional_mk2": "(6) „отстранување“ е отстранување согласно на дефинираното во точка (5) од член 3 од Директивата 2008/115/ЕЗ;",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [
+        {
+          "source_text": "(1)\t‘return’ means return as defined in point (3) of Article 3 of Directive 2008/115/EC;",
+          "target_text": "(1)„враќање“ е враќање согласно на дефинираното во точка (3) од член 3 од Директивата 2008/115/ЕЗ;",
+          "celex": "02018R1860",
+          "source_document": "final-clean-en-mk2-corpus/documents/02018R1860_clean_EN_MK2.tmx",
+          "alignment_confidence": "1.0000",
+          "original_tmx_tu_id": "02018R1860:24",
+          "similarity": 0.792208
+        }
+      ],
+      "source_document_context": {
+        "celex": "02018R1860",
+        "previous_en": "(5) ‘supplementary information’ means supplementary information as defined in point (2) of Article 3 of Regulation (EU) 2018/1861;",
+        "current_en": "(6) ‘removal’ means removal as defined in point (5) of Article 3 of Directive 2008/115/EC;",
+        "next_en": "(7) ‘voluntary departure’ means a voluntary departure as defined in point (8) of Article 3 of Directive 2008/115/EC;"
+      }
+    },
+    "source_context": {
+      "celex": "02018R1860",
+      "previous_en": "(5) ‘supplementary information’ means supplementary information as defined in point (2) of Article 3 of Regulation (EU) 2018/1861;",
+      "current_en": "(6) ‘removal’ means removal as defined in point (5) of Article 3 of Directive 2008/115/EC;",
+      "next_en": "(7) ‘voluntary departure’ means a voluntary departure as defined in point (8) of Article 3 of Directive 2008/115/EC;"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 392,
+      "completion_tokens": 47,
+      "total_tokens": 439,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 1309.18,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation matches the professional reference exactly, preserving legal meaning with correct terminology, structure, and natural grammar."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 265,
+      "completion_tokens": 111,
+      "total_tokens": 376,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1771.87
+  },
+  {
+    "celex": "02018R1860",
+    "tu_id": "02018R1860:34",
+    "en": "(11) ‘personal data’ means personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679;",
+    "mk1": "(11) „лични податоци“ значи лични податоци како што се дефинирани во точка (1) од член 4 од Регулативата (ЕУ) 2016/679;",
+    "hidden_professional_mk2": "(11)„лични податоци“ се лични податоци согласно на дефинираното во точка (1) од член 4 од Регулативата (EУ) 2016/679;",
+    "evidence_actually_supplied": {
+      "exact_approved_tm": [],
+      "strong_fuzzy_approved_tm": [],
+      "source_document_context": {
+        "celex": "02018R1860",
+        "previous_en": "(10) ‘executing Member State’ means an executing Member State as defined in point (12) of Article 3 of Regulation (EU) 2018/1861;",
+        "current_en": "(11) ‘personal data’ means personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679;",
+        "next_en": "(12) ‘CS-SIS’ means the technical support function of the Central SIS as referred to in point (a) of Article 4(1) of Regulation (EU) 2018/1861;"
+      }
+    },
+    "source_context": {
+      "celex": "02018R1860",
+      "previous_en": "(10) ‘executing Member State’ means an executing Member State as defined in point (12) of Article 3 of Regulation (EU) 2018/1861;",
+      "current_en": "(11) ‘personal data’ means personal data as defined in point (1) of Article 4 of Regulation (EU) 2016/679;",
+      "next_en": "(12) ‘CS-SIS’ means the technical support function of the Central SIS as referred to in point (a) of Article 4(1) of Regulation (EU) 2018/1861;"
+    },
+    "model": "gpt-5.6",
+    "prompt_version": "mk1-legal-benchmark-v1",
+    "tokens": {
+      "prompt_tokens": 257,
+      "completion_tokens": 51,
+      "total_tokens": 308,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "cache_write_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "latency_ms": 1505.19,
+    "evaluation": {
+      "classification": "EXACT_NEAR_EXACT",
+      "legal_meaning_preserved": true,
+      "omissions": [],
+      "additions": [],
+      "country_entity_issues": [],
+      "number_date_reference_issues": [],
+      "terminology_assessment": "GOOD",
+      "structural_fidelity": "GOOD",
+      "grammatical_naturalness": "GOOD",
+      "reason": "The translation preserves the legal meaning accurately with only minor stylistic differences that do not affect meaning."
+    },
+    "evaluation_tokens": {
+      "prompt_tokens": 274,
+      "completion_tokens": 109,
+      "total_tokens": 383,
+      "prompt_tokens_details": {
+        "cached_tokens": 0,
+        "audio_tokens": 0
+      },
+      "completion_tokens_details": {
+        "reasoning_tokens": 0,
+        "audio_tokens": 0,
+        "accepted_prediction_tokens": 0,
+        "rejected_prediction_tokens": 0
+      }
+    },
+    "evaluation_latency_ms": 1479.93
+  }
+]

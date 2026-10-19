@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20210825T184132Z" creationid="LENOVO-MILKA\milka">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32020R0990_Milka Petkova_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32020R0990</prop>
+    <prop type="x-SourceTMX">32020R0990_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">7996503d162cd0a441da64ed4cc3281ddfbab6a7b3080fd6a53b19350675f60b</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">4</prop>
+  </header>
+  <body>
+    <tu creationdate="20210827T121101Z" creationid="LENOVO-MILKA\milka" changedate="20210902T174222Z" changeid="LENOVO-MILKA\milka" lastusagedate="20210905T175427Z" usagecount="1">
+      <prop type="x-LastUsedBy">LENOVO-MILKA\milka</prop>
+      <prop type="x-Context">122295, 152520</prop>
+      <prop type="x-ContextContent">(a) |  | (а) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the Member State of destination has notified the Commission and other Member States that it applies measures in accordance with Article 199 of Regulation (EU) 2016/429 for aquatic animals for sports fishing, including fishing bait as referred to in Article 205(2)(a)(iii) thereof;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(а) земјата членка на дестинацијата ги известила Комисијата и другите земји членки дека применува мерки во согласност со член 199 од Регулативата (ЕУ) 2016/429 за водни животни наменети за спортски риболов, вклучително и мамки за риболов, како што е наведено во член 205(2)(а)(iii) од истата;</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0990</prop>
+      <prop type="x-SourceTUIndex">235</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210827T121441Z" creationid="LENOVO-MILKA\milka" changedate="20210902T174245Z" changeid="LENOVO-MILKA\milka" lastusagedate="20210905T175427Z" usagecount="1">
+      <prop type="x-LastUsedBy">LENOVO-MILKA\milka</prop>
+      <prop type="x-Context">122326, 152551</prop>
+      <prop type="x-ContextContent">(b) |  | (б) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>the competent authority in the Member State of origin has authorised the movement;</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(б) надлежниот орган на земјата членка на потеклото го одобрува одобрил преместувањето;</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0990</prop>
+      <prop type="x-SourceTUIndex">236</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210827T121627Z" creationid="LENOVO-MILKA\milka" changedate="20210905T175108Z" changeid="LENOVO-MILKA\milka" lastusagedate="20210905T175427Z" usagecount="1">
+      <prop type="x-LastUsedBy">LENOVO-MILKA\milka</prop>
+      <prop type="x-Context">3364486069729667, 142433667113</prop>
+      <prop type="x-ContextContent">Article 1 |  | Член 1 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Animal health requirements for movements of aquatic animals for use as live fishing bait</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Член 11 Барања за здравјето на животните при преместување на водните животни за употреба како живи мамки за р</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0990</prop>
+      <prop type="x-SourceTUIndex">238</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210827T121706Z" creationid="LENOVO-MILKA\milka" changedate="20210905T175109Z" changeid="LENOVO-MILKA\milka" lastusagedate="20210905T175427Z" usagecount="1">
+      <prop type="x-LastUsedBy">LENOVO-MILKA\milka</prop>
+      <prop type="x-Context">-4413610072149307715, -301289339001245977</prop>
+      <prop type="x-ContextContent">Animal health requirements for movements of aquatic animals for use as live fishing bait |  | Барања за здравјето на животните при преместување на водни животни за употреба како живи мамки за риболов | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Operators shall only move live fishing bait that are aquatic animals of listed species relevant for category D diseases, other than those listed in column 4 of the table in the Annex to Implementing Regulation (EU) 2018/1882 and which are not regarded as vectors, into a Member State, zone or a compartment which has disease-free status, or which is subject to an eradication programme to obtain disease-free status for one or more of those relevant category D diseases, if such live fishing baits originate from a disease-free Member State, zone or compartment.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>иболов Операторите ги преместуваат само живите мамки за риболов кои што се водни животни од наведените видови, релевантни за болестите од категоријата Д, освен оние наведени во колона 4 од табелата во Анексот кон Регулативата за спроведување (ЕУ) 2018/1882 и кои не се сметаат за вектори, на во земја членка, зона или оддел слободни од болест или кои се подложни подлежат на програма за искоренување со цел да се добие статус на слободни од болест за една или повеќе од тие релевантни болести од категоријата Г, доколку тие живи мамки за риболов потекнуваат од земја членка, зона или оддел слободни од болест.</seg>
+      </tuv>
+      <prop type="x-CELEX">32020R0990</prop>
+      <prop type="x-SourceTUIndex">239</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

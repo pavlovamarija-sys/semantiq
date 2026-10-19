@@ -1,0 +1,862 @@
+<?xml version='1.0' encoding='utf-8'?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20260207T212942Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">32025D1397_TM</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+    <prop type="x-CorpusLanguagePair">en-&gt;mk</prop>
+    <prop type="x-CELEX">32025D1397</prop>
+    <prop type="x-SourceTMX">32025D1397_TM.tmx</prop>
+    <prop type="x-SourceTMXSHA256">535248e7df8f302a2d194191df12d32054a5f8921c7818d099611255ff15783d</prop>
+    <prop type="x-Provenance">accepted clean provenance-safe HIGH TUs from completed final dry run</prop>
+    <prop type="x-AlignmentRun">frozen final-mk1-mk2-dry-run; no alignment rerun</prop>
+    <prop type="x-AcceptedTUCount">47</prop>
+  </header>
+  <body>
+    <tu creationdate="20260602T193430Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260206T213801Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155835Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>COUNCIL DECISION (CFSP) 2025/1397</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ОДЛУКА (ЗНБП) 2025/1397 НА СОВЕТОТ</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">1</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260602T193710Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260206T213721Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4471331182894851081, 2260364519024842378</prop>
+      <prop type="x-ContextContent">COUNCIL DECISION (CFSP) 2025/1397 |  | ОДЛУКА (ЗНБП) 2025/1397 НА СОВЕТОТ | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>of 15 July 2025</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>од 15 јули 2025 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">2</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20140523T085004Z" creationid="PC" changedate="20260206T214017Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155835Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1010104312388872652, -2287950777673648660</prop>
+      <prop type="x-ContextContent">THE COUNCIL OF THE EUROPEAN UNION, |  | СОВЕТОТ НА ЕВРОПСКАТА УНИЈА, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the Treaty on European Union, and in particular Article 29 thereof,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>УНИЈА, имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">5</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220703T064356Z" creationid="PC" changedate="20260206T214030Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155835Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4008922428764593819, -8062861699121218956</prop>
+      <prop type="x-ContextContent">Having regard to the Treaty on European Union, and in particular Article 29 thereof, |  | имајќи го предвид Договорот за Европската Унија, а особено член 29 од истиот, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy,</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика,</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">6</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210831T113544Z" creationid="PC" changedate="20221112T231020Z" changeid="PC" lastusagedate="20260208T155835Z" usagecount="3">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">-8631726672236812065, -2433922510656597551</prop>
+      <prop type="x-ContextContent">Having regard to the proposal from the High Representative of the Union for Foreign Affairs and Security Policy, |  | имајќи го предвид предлогот на Високиот претставник на Унијата за надворешни работи и безбедносна политика, | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Whereas:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>со оглед на тоа што:</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">7</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T122647Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T142647Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3520251291494, -1473885434305972833</prop>
+      <prop type="x-ContextContent">Whereas: |  | со оглед на тоа што: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(1)	On 7 December 2020, the Council adopted Decision (CFSP) 2020/1999 (<ph x="1" type="91" />).</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(1)На 7 декември 2020 година, Советот ја донесе Одлуката (ЗНБП) 2016/1999 ().</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">8</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20181024T132349Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260120T163336Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6303317180498091632, -6105502872896203915</prop>
+      <prop type="x-ContextContent">Done at Brussels, 15 July 2025. |  | Брисел, 15 јули 2025 година. | </prop>
+      <prop type="x-Context">-6303317180498091632, 8845706617279851243</prop>
+      <prop type="x-ContextContent">Done at Brussels, 15 December 2025. |  | Брисел, 15 декември 2025 година. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>For the Council</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>За Советот</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">23</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210531T105756Z" creationid="PC" changedate="20221112T231129Z" changeid="PC" lastusagedate="20260208T155835Z" usagecount="2">
+      <prop type="x-LastUsedBy">PC</prop>
+      <prop type="x-Context">-3648910944734109195, 136400592362229</prop>
+      <prop type="x-ContextContent">For the Council |  | За Советот | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>The President</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Претседател</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">24</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260120T163340Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260120T163345Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155835Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6451808141391308451, 4236527515880034</prop>
+      <prop type="x-ContextContent">The President |  | Претседател | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>K. KALLAS</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>К. КАЛЛАС</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">25</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210106T145202Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260120T163347Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155835Z" usagecount="2">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3371151275859982, 4376425407123</prop>
+      <prop type="x-ContextContent">K. KALLAS |  | К. КАЛЛАС | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ANNEX</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>АНЕКС</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">26</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220224T104830Z" creationid="SEI\Anita.Trajkovska" changedate="20260207T144651Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5237659829875407412, 1676364020188181116</prop>
+      <prop type="x-ContextContent">the following entry is added to the list of natural and legal persons, entities and bodies under heading ‘B. Legal persons, entities and bodies’: |  | следниот внес се додава на списокот на физички и правни лица, субјекти и тела во наслов „Б. Правни лица, субјекти и тела“: | </prop>
+      <prop type="x-Context">2005294468995781229, 6425282425241729017</prop>
+      <prop type="x-ContextContent">the following entries are added to the list of natural and legal persons, entities or bodies under heading ‘A. Natural persons’: |  | следните внесови се додаваат на списокот на физички и правни лица, субјекти или тела во наслов „А. Физички лица“: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Names (Transliteration into Latin script)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Имиња (транслитерација на латиница)</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">30</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20211228T091732Z" creationid="SEI\Mario.Jordanov" changedate="20260207T144700Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5871426425263165790, -4078469369852507297</prop>
+      <prop type="x-ContextContent">Names (Transliteration into Latin script) |  | Имиња (транслитерација на латиница) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Names</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Имиња</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">31</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220703T060034Z" creationid="М" changedate="20260207T144703Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155835Z" usagecount="8">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">117890334, 147766119</prop>
+      <prop type="x-ContextContent">Name |  | Име | </prop>
+      <prop type="x-Context">117890334, 4580783386</prop>
+      <prop type="x-ContextContent">Names |  | Имиња | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Identifying information</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Информации за идентификација</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">32</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220224T075200Z" creationid="SEI\Anita.Trajkovska" changedate="20260207T144712Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-7150679494299279164, -8186041902733590150</prop>
+      <prop type="x-ContextContent">Identifying information |  | Информации за идентификација | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Reasons for listing</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Причини за внесување во список</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">33</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221201T115245Z" creationid="SEI\Anita.Trajkovska" changedate="20260207T144720Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4085494752470516591, 4113347752675084328</prop>
+      <prop type="x-ContextContent">Reasons for listing |  | Причини за внесување во список | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Date of listing</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Датум на наведување во списокот</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">34</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221114T081219Z" creationid="PC" changedate="20260207T144722Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155835Z" usagecount="9">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8059992357447852666, 5880614417752245626</prop>
+      <prop type="x-ContextContent">Date of listing |  | Датум на наведување во списокот | </prop>
+      <prop type="x-Context">8059992357447852666, -5219634817893018955</prop>
+      <prop type="x-ContextContent">Date of listing |  | Датум на внесување во список | </prop>
+      <prop type="x-Context">8059992357447852666, -5219634527679315268</prop>
+      <prop type="x-ContextContent">Date of listing |  | Датум на внесување на список | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>‘126.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>„126.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">35</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T124833Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T144833Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">‘126. |  | „126. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Naji Ibrahim SHARIFI-ZINDASHTI a.k.a. KENANI, Emirhan</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Naji Ibrahim SHARIFI-ZINDASHTI познат како KENANI, Emirhan</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">36</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T124844Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T144844Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1356534808050002796, 3173698072870975183</prop>
+      <prop type="x-ContextContent">Naji Ibrahim SHARIFI-ZINDASHTI a.k.a. KENANI, Emirhan |  | Naji Ibrahim SHARIFI-ZINDASHTI познат како KENANI, Emirhan | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>SERIFI ZINDASTI, Naci</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>SERIFI ZINDASTI, Naci</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">37</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T124848Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T144848Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-763799755451198585, 6821964327112088378</prop>
+      <prop type="x-ContextContent">SERIFI ZINDASTI, Naci |  | SERIFI ZINDASTI, Naci | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>SERIFI-ZINDASTI, Naci</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>SERIFI-ZINDASTI, Naci</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">38</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T124854Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T144854Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-763799755451198585, 6821964327112088378</prop>
+      <prop type="x-ContextContent">SERIFI-ZINDASTI, Naci |  | SERIFI-ZINDASTI, Naci | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>SHARIFI ZINDASHTI, Naji</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>SHARIFI ZINDASHTI, Naji</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">39</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T124856Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T144856Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3005532703797856866, 6523296542367560144</prop>
+      <prop type="x-ContextContent">SHARIFI ZINDASHTI, Naji |  | SHARIFI ZINDASHTI, Naji | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>SHARIFI-ZINDASHTI, Naji</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>SHARIFI-ZINDASHTI, Naji</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">40</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T124908Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T144908Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3005532703797856866, 6523296542367560144</prop>
+      <prop type="x-ContextContent">SHARIFI-ZINDASHTI, Naji |  | SHARIFI-ZINDASHTI, Naji | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ناجی ابراهیم شریفی زیندشتی</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>ناجی ابراهیم شریفی زیندشتی</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">41</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T124920Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T144920Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="5">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-8282071463144975523, -4731446612540820569</prop>
+      <prop type="x-ContextContent">ناجی ابراهیم شریفی زیندشتی |  | ناجی ابراهیم شریفی زیندشتی | </prop>
+      <prop type="x-Context">-4334042286917318832, 5830880450527353682</prop>
+      <prop type="x-ContextContent">رضا حمیدی راوری |  | رضا حمیدی راوری | </prop>
+      <prop type="x-Context">8170459318919893235, 4500217037010357433</prop>
+      <prop type="x-ContextContent">علی اسفنجانی |  | علی اسفنجانی | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>(Persian spelling)</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>(Пперсиски правопис)</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">42</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T124940Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T144940Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-1024910806740646996, -7542187731992665224</prop>
+      <prop type="x-ContextContent">(Persian spelling) |  | (Персиски правопис) | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>DOB:31.5.1974</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Датум на раѓање: 31.5.1974 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">43</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220808T095831Z" creationid="SEI\Maja.Ljachi" changedate="20260207T144940Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="9">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7701050337955855441, 3364031848229593</prop>
+      <prop type="x-ContextContent">Abdolvahab KUCHAK |  | Abdolvahab KUCHAK | </prop>
+      <prop type="x-Context">-1557687486737277955, 6391536893135340309</prop>
+      <prop type="x-ContextContent">1.10.1981 or 11.11.1981 |  | 1.10.1981 година или 11.11.1981 година | </prop>
+      <prop type="x-Context">1878681567727, -4092996014306048945</prop>
+      <prop type="x-ContextContent">DOB:31.5.1974 |  | Датум на раѓање: 31.5.1974 година | </prop>
+      <prop type="x-Context">104293665211062093, 3364311781002016</prop>
+      <prop type="x-ContextContent">Ali KOCAK |  | Ali KOCAK | </prop>
+      <prop type="x-Context">1954832224, 58177779998972</prop>
+      <prop type="x-ContextContent">15.12.2025 |  | 15.12.2025 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>POB:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Место на раѓање:</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">44</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T125055Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T145100Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">117963029, -821084540679786612</prop>
+      <prop type="x-ContextContent">POB: |  | Место на раѓање: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Zindasht or Orumiyeh, Iran</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Zindasht или Orumiyeh, Иран</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">45</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221120T161249Z" creationid="PC" changedate="20260207T145127Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="15">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3250029252354398397, 3381925229549120</prop>
+      <prop type="x-ContextContent">Van, Türkiye |  | Van, Турција | </prop>
+      <prop type="x-Context">-960521142669352023, 3243016899299525513</prop>
+      <prop type="x-ContextContent">Mohammed Reza ANSARI |  | Mohammed Reza ANSARI | </prop>
+      <prop type="x-Context">-1018661282752789740, 195585004494584885</prop>
+      <prop type="x-ContextContent">Zindasht or Orumiyeh, Iran |  | Zindasht или Orumiyeh, Иран | </prop>
+      <prop type="x-Context">1639716442382761854, 7985932039075866004</prop>
+      <prop type="x-ContextContent">Adiyaman, Türkiye |  | Adiyaman, Турција | </prop>
+      <prop type="x-Context">3517972761238, 4590234201</prop>
+      <prop type="x-ContextContent">Türkiye |  | Турција | </prop>
+      <prop type="x-Context">6813229113804103331, 7985932039075866004</prop>
+      <prop type="x-ContextContent">Yuksekova, Türkiye |  | Adiyaman, Турција | </prop>
+      <prop type="x-Context">1954832224, 58177779998972</prop>
+      <prop type="x-ContextContent">15.12.2025 |  | 15.12.2025 година | </prop>
+      <prop type="x-Context">1954832224, 2032081</prop>
+      <prop type="x-ContextContent">15.8.1985 |  | 15.8.1985 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Nationality:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Државјанство: на:</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">46</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20210519T082432Z" creationid="PC" changedate="20260207T145132Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="11">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8314060927809233084, -3196299830389752446</prop>
+      <prop type="x-ContextContent">Nationality: |  | Државјанство на: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Iranian</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Иран</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">47</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221011T162520Z" creationid="PC" changedate="20260207T145137Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="15">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">109057155592116, 4590234201</prop>
+      <prop type="x-ContextContent">Turkish |  | Турција | </prop>
+      <prop type="x-Context">108751370383736, 147769808</prop>
+      <prop type="x-ContextContent">Iranian |  | Иран | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Gender: male</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Пол: машки</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">48</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T125141Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T145141Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="13">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">8325338675806447512, 3067455414727943455</prop>
+      <prop type="x-ContextContent">Orumiyeh, West Azerbaijan, Iran |  | Orumiyeh, West Azerbaijan, Иран | </prop>
+      <prop type="x-Context">3369240304985360, 4236450155167002</prop>
+      <prop type="x-ContextContent">Gender: male |  | Пол: машки | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>ID:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Број на лична карта:</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">49</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220307T061416Z" creationid="М" changedate="20260207T145145Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="3">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">3798213, 6068131862579117883</prop>
+      <prop type="x-ContextContent">ID: |  | Број на лична карта: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>2753229112</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>2753229112</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">50</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20220420T110856Z" creationid="SEI\Mario.Jordanov" changedate="20260207T145146Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">2753229112 |  | 2753229112 | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Associated entity:</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Поврзан субјект:</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">51</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T125316Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T145316Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7589845145774029984, 131330535281786592</prop>
+      <prop type="x-ContextContent">Associated entity: |  | Поврзан субјект: | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Zindashti Network</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Zindashti Network</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">52</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T125610Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T145623Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-6013547027070412960, 8625356394709421977</prop>
+      <prop type="x-ContextContent">Zindashti Network |  | Zindashti Network | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Naji Sharifi-Zindashti is an Iranian narcotics trafficker and organised crime boss.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Naji Sharifi-Zindashti е ирански трговец на наркотични средства и главен во областа на организиран криминал.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">53</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T125712Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T145712Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">4169267426050371697, -4559084391760824805</prop>
+      <prop type="x-ContextContent">Naji Sharifi-Zindashti is an Iranian narcotics trafficker and organised crime boss. |  | Naji Sharifi-Zindashti е ирански трговец на наркотични средства и главен во областа на организиран криминал. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>He is the leader of the Zindashti Network, a criminal group that has carried out numerous acts of transnational repression, including assassinations outside of Iran.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Тој е водич на Zindashti Network, криминална група која има извршено бројни акти на транснационална репресија, вклучително и атентати надвор од Иран.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">54</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T130020Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T150020Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-812869368444639840, 396364431174347940</prop>
+      <prop type="x-ContextContent">He is the leader of the Zindashti Network, a criminal group that has carried out numerous acts of transnational repression, including assassinations outside of Iran. |  | Тој е водич на Zindashti Network, криминална група која има извршено бројни акти на транснационална репресија, вклучително и атентати надвор од Иран. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>He is connected to the Iranian Ministry of Intelligence and Security (MOIS), which is the branch of the Iranian government tasked, inter alia, with assassinating persons critical of the actions or policies of the Islamic Republic of Iran, or persons otherwise deemed to be opponents of the Islamic Republic of Iran by the Islamic Republic of Iran.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Тој е поврзан со Министерството за разузнавање и безбедност на Иран (МОИС), кое е погранокогранок на Владата на Иран со задача, меѓу другото, да извршува атентати врз лица кои ги критикуваат дејствата или политиките на Исламската Република Иран, или на лица кои на друг начин се сметаат за противници на Исламската Република Иран, од страна на Исламската Република Иран.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">55</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T130131Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T150131Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1111015773071536882, -8188316150252126680</prop>
+      <prop type="x-ContextContent">He is connected to the Iranian Ministry of Intelligence and Security (MOIS), which is the branch of the Iranian government tasked, inter alia, with assassinating persons critical of the actions or policies of the Islamic Republic of Iran, or persons otherwise deemed to be opponents of the Islamic Republic of Iran by the Islamic Republic of Iran. |  | Тој е поврзан со Министерството за разузнавање и безбедност на Иран (МОИС), кое е погранок на Владата на Иран со задача, меѓу другото, да извршува атентати врз лица кои ги критикуваат дејствата или политиките на Исламската Република Иран, или на лица кои на друг начин се сметаат за противници на Исламската Република Иран од страна на Исламската Република Иран. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Therefore, Naji Sharifi-Zindashti is responsible for serious human rights violations or abuses outside of Iran, in particular extrajudicial, summary or arbitrary executions and killings and enforced disappearance of persons.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Затоа, Naji Sharifi-Zindashti е одговорен за сериозно кршење прекршување или злоупотреба на човековите права во надвор од Иран, особено за вонсудски, брзи или произволни егзекуции и убиства и присилно за исчезнување на на лица.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">56</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T130138Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T150138Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="13">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">5967889942513372687, -1007333402081724162</prop>
+      <prop type="x-ContextContent">He is also responsible for planning, ordering, assisting in or facilitating extrajudicial, summary or arbitrary executions and killings, which constitute serious human rights violations or abuses. |  | Тој е исто така одоговорен за планирање решение, наредување, помагање или брзи или произволни егзекуции и убиства, што претставуваат сериозни кршења или злоупотреби на човековите права. | </prop>
+      <prop type="x-Context">8589751866288822411, 8854027324380838203</prop>
+      <prop type="x-ContextContent">As such, Ekrem Oztunc is associated with Naji Zindashti and the Zindashti Network, as well as responsible for planning, ordering, assisting in or facilitating extrajudicial, summary or arbitrary executions and killings and enforced disappearance of persons, which constitute serious human rights violations or abuses. |  | Како таков, Ekrem Oztunc е поврзан со Naji Zindashti и Zindashti Network, како и одговорен за планирање, наредување, помагање или олеснување на вонсудски, брзи или произволни егзекуции и убиства и присилно исчезнување на лица, што претставуваат сериозни кршења или злоупотреби на човековите права. | </prop>
+      <prop type="x-Context">5935071940458328290, 4140728477722179929</prop>
+      <prop type="x-ContextContent">Mohammed Ansari is therefore responsible for planning, assisting in, preparing and facilitating extrajudicial killings, which constitute serious human rights violations or abuses. |  | Со тоа, Mohammed Ansari е договорен за планирање, наредување, помагање или олеснување на вонсудски, брзи или произволни убиства, што претставуваат сериозни кршења или злоупотреби на човековите. | </prop>
+      <prop type="x-Context">-5165643985378386315, 7162706706223530422</prop>
+      <prop type="x-ContextContent">Ali Kocak is therefore associated with Naji Zindashti and the Zindasthi Network that are responsible for serious human rights violations or abuses, including extrajudicial, summary or arbitrary killings. |  | Затоа Ali Kocak се поврзува со Naji Zindashti и Zindashti Network кои се одговорни за сериозни кршења или злоупотреби на човековите права, вклучително и вонсудски, брзи или произволни убиства. | </prop>
+      <prop type="x-Context">-4897009714019320488, -8108217061001152643</prop>
+      <prop type="x-ContextContent">He is also directly involved in an extrajudicial, summary or arbitrary killing by assisting in, preparing or facilitating that killing. |  | Тој исто така е директно вклучен во вонсудски, брзи или произволни убиства со тоа што помагал, го подготвувал или олеснувал убиството. | </prop>
+      <prop type="x-Context">912107300010222741, 4022679454843034968</prop>
+      <prop type="x-ContextContent">He is also responsible for serious human rights violations or abuses outside of Iran, in particular extrajudicial, summary or arbitrary killings. |  | Тој исто така е одговорен за сериозно кршење или злоупотреба на човековите права надвор од Иран, особено за вонсудски, брзи или произволни убиства. | </prop>
+      <prop type="x-Context">5820450097778737159, 4877802539841252162</prop>
+      <prop type="x-ContextContent">Therefore, Naji Sharifi-Zindashti is responsible for serious human rights violations or abuses outside of Iran, in particular extrajudicial, summary or arbitrary executions and killings and enforced disappearance of persons. |  | Затоа, Naji Sharifi-Zindashti е одговорен за сериозно кршење или злоупотреба на човековите права во надвор од Иран, особено за вонсудски, брзи или произволни егзекуции и убиства и присилно исчезнување на лица. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>15.7.2025</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>15.7.2025 година</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">57</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20221116T152755Z" creationid="PC" changedate="20260207T150141Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155835Z" usagecount="18">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1954832224, 58177779998972</prop>
+      <prop type="x-ContextContent">15.12.2025 |  | 15.12.2025 година | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>127.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>127.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">58</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T130146Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T150146Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2032174, 2032174</prop>
+      <prop type="x-ContextContent">127. |  | 127. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Abdulvahap KOCAK</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Abdulvahap KOCAK</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">59</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T130156Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T150156Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">7701208975689236541, 3364032020004499</prop>
+      <prop type="x-ContextContent">Abdulvahap KOCAK |  | Abdulvahap KOCAK | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>a.k.a. Abdolwahab KOCAK</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>познат како Abdolwahab KOCAK</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">60</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T130159Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T150159Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-5248353070393577815, -5079019796031535423</prop>
+      <prop type="x-ContextContent">a.k.a. Abdolwahab KOCAK |  | познат како Abdolwahab KOCAK | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Abdolvahab KUCHAK</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Abdolvahab KUCHAK</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">61</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T182217Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T202217Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-4066323652740033647, 1086716490660459009</prop>
+      <prop type="x-ContextContent">Abdulvahap Kocak is officially Naji Zindashti’s gardener. |  | Abdulvahap Kocak службено е градинар на Naji Zindashti. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>He also served as an assassin who has been implicated in multiple killings ordered by Naji Zindashti and executed by the Zindashti Network.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>нар на Naji Zindashti. Тој, исто така, служел како убиец кој е вмешан во повеќекратни убиства нарачани од страна на Naji Zindashti, а извршени од страна на Zindashti Network.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">66</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T182350Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T202350Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">1832627107470303215, 2777300856400166866</prop>
+      <prop type="x-ContextContent">He also served as an assassin who has been implicated in multiple killings ordered by Naji Zindashti and executed by the Zindashti Network. |  | Тој исто така служел како убиец кој е вмешан во повеќекратни убиства нарачани од страна на Naji Zindashti, а извршени од страна на Zindashti Network. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>In particular, Abdulvahap Kocak assassinated the Iranian dissident Mas’ud Molavi Vardanjani, a crime for which he was convicted in Türkiye.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Поточно, Abdulvahap Kocak го убил иранскиот дисидент Mas’ud Molavi Vardanjani, дело за кое има обвинение во Турција.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">67</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T182554Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T202554Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">2076698210968351030, -590056284523961509</prop>
+      <prop type="x-ContextContent">In particular, Abdulvahap Kocak assassinated the Iranian dissident Mas’ud Molavi Vardanjani, a crime for which he was convicted in Türkiye. |  | Поточно, Abdulvahap Kocak го убил иранскиот дисидент Mas’ud Molavi Vardanjani, дело за кое има обвинение во Турција. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Therefore, Abdulvahap Kocak is associated with Naji Zindashti and the Zindashti Network that are responsible for serious human rights violations or abuses, including extrajudicial, summary or arbitrary killings.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>Затоа, Abdulvahap Kocak се поврзува со Naji Zindashti и со Zindashti Network, кои се одговорни за сериозни кршења прекршувања и злоупотреби на човековите права, вклучително и вонсудски, брзи или произволни убиства. Тој</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">68</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T182651Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T202651Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">-2997097780592708599, -5327029540088348385</prop>
+      <prop type="x-ContextContent">Therefore, Abdulvahap Kocak is associated with Naji Zindashti and the Zindashti Network that are responsible for serious human rights violations or abuses, including extrajudicial, summary or arbitrary killings. |  | Затоа, Abdulvahap Kocak се поврзува со Naji Zindashti и Zindashti Network  кои се одговорни за сериозни кршења и злоупотреби на човековите права, вклучително и вонсудски, брзи или произволни убиства. | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>He is also responsible for serious human rights violations or abuses outside of Iran, in particular extrajudicial, summary or arbitrary killings.</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>, исто така, е одговорен за сериозно кршење прекршување или злоупотреба на човековите права надвор од Иран, особено за вонсудски, брзи или за произволни убиства.</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">69</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+    <tu creationdate="20260702T182708Z" creationid="DESKTOP-FHSDSOR\Marija Pavlova" changedate="20260207T202708Z" changeid="DESKTOP-FHSDSOR\Marija Pavlova" lastusagedate="20260208T155804Z" usagecount="1">
+      <prop type="x-LastUsedBy">DESKTOP-FHSDSOR\Marija Pavlova</prop>
+      <prop type="x-Context">6939025404147493279, 3233103616335192413</prop>
+      <prop type="x-ContextContent">Ali ESFANJANI |  | Ali ESFANJANI | </prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <prop type="x-StructureContext:MultipleString">x-tm-table-cell</prop>
+      <tuv xml:lang="en-GB">
+        <seg>علی اسفنجانی</seg>
+      </tuv>
+      <tuv xml:lang="mk-MK">
+        <seg>علی اسفنجانی</seg>
+      </tuv>
+      <prop type="x-CELEX">32025D1397</prop>
+      <prop type="x-SourceTUIndex">71</prop>
+      <prop type="x-MK2Provenance">final dry run accepted clean HIGH</prop>
+    </tu>
+  </body>
+</tmx>

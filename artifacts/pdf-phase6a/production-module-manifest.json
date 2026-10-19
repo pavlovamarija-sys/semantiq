@@ -1,0 +1,16 @@
+{
+  "status": "PARTIAL_EXTRACTION_INACTIVE",
+  "algorithmVersion": "typed-reconstruction-phase6a-inactive",
+  "modules": {
+    "contracts": "workers/pdf-to-docx/app/reconstruction/contracts.py",
+    "diagnostics": "workers/pdf-to-docx/app/reconstruction/diagnostics.py",
+    "validation": "workers/pdf-to-docx/app/reconstruction/validation.py",
+    "facade": "workers/pdf-to-docx/app/reconstruction/pipeline.py"
+  },
+  "coreInferenceLocation": "workers/pdf-to-docx/spikes/typed_model_phase1.py",
+  "aiDependency": false,
+  "fixtureSpecificExecutableRules": false,
+  "activeProductionImported": false,
+  "databaseChanged": false,
+  "catOrTranslationChanged": false
+}

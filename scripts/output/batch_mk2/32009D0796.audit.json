@@ -1,0 +1,339 @@
+{
+  "celex": "32009D0796",
+  "dry_run": true,
+  "source_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32009D0796\\TMX_MK1\\32009D0796_TM.tmx"
+  ],
+  "mk2_candidates": [
+    "D:\\Преводи\\EU_Acquis_Corpus\\Documents\\32009D0796\\MK2\\32009D0796_MK2.docx"
+  ],
+  "original_tmx_sha256": "0f8c03cd60afe1e21ae83eaf438275be958fd55dc9255d989854861d4bf86c28",
+  "mk2_sha256": "4705d32e52a8cad3db27a215501b4ff82928c61df7d877a158515860ac36e874",
+  "extraction": {
+    "format": "DOCX",
+    "paragraphs": 197,
+    "table cells": 108,
+    "characters": 4364,
+    "extraction method": "OOXML body traversal",
+    "error": ""
+  },
+  "results": [
+    {
+      "index": 1,
+      "en": "COUNCIL DECISION 2009/796/JHA",
+      "mk1": "ОДЛУКА 2009/796/ПВР НА СОВЕТОТ",
+      "status": "HIGH",
+      "target": "ОДЛУКА 2009/796/ПВР НА СОВЕТОТ",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 4 June 2009",
+      "mk1": "од 4 јуни 2009 година",
+      "status": "HIGH",
+      "target": "од 4 јуни 2009 година",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 3,
+      "en": "amending Decision 2002/956/JHA setting up a European Network for the Protection of Public Figures",
+      "mk1": "за изменување на одлука 2002/956/ПВР за формирање на Европска Мрежа за заштита на јавни личности",
+      "status": "HIGH",
+      "target": "за изменување на оОдлуката 2002/956/ПВР за формирање на Европска мМрежа за заштита на јавни личности",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 2,
+      "en": "of 4 June 2009",
+      "mk1": "од 4 јуни 2009 година",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 3,
+      "en": "amending Decision 2002/956/JHA setting up a European Network for the Protection of Public Figures",
+      "mk1": "за изменување на одлука 2002/956/ПВР за формирање на Европска Мрежа за заштита на јавни личности",
+      "status": "UNMATCHED",
+      "target": "имајќи го предвид Договорот за Европската Ун",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 4,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "UNMATCHED",
+      "target": "ија, а особен",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 30(1)(a) and (c) and Article 34(2)(c) thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унија,  а особено член 30(1)(а) и (в) и член 34(2)(в) од истиот,",
+      "status": "UNMATCHED",
+      "target": "о член 30(1)(а) и (в) и член 34(2)(в) од истиот,",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 4,
+      "en": "THE COUNCIL OF THE EUROPEAN UNION,",
+      "mk1": "СОВЕТОТ НА ЕВРОПСКАТА УНИЈА,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 5,
+      "en": "Having regard to the Treaty on European Union, and in particular Article 30(1)(a) and (c) and Article 34(2)(c) thereof,",
+      "mk1": "имајќи го предвид Договорот за Европската Унија,  а особено член 30(1)(а) и (в) и член 34(2)(в) од истиот,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 6,
+      "en": "Having regard to the initiative of the Kingdom of the Netherlands (),",
+      "mk1": "имајќи ја предвид инцијативата на Кралството на Холандија (),",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 7,
+      "en": "OJ C 330, 30.12.2008, p. 2.",
+      "mk1": "Сл. Весник бр. C 330, 30.12.2008 год., стр. 2.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 8,
+      "en": "Having regard to the opinion of the European Parliament (),",
+      "mk1": "имајќи го предвид мислењето на Европскиот парламент (),",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 9,
+      "en": "Opinion delivered on 22 April 2009 (not yet published in the Official Journal).",
+      "mk1": "Мислење донесено на 22 април 2009 год. (сè уште не е објавено во Службениот весник).",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 10,
+      "en": "Whereas:",
+      "mk1": "co оглед на тоа што:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 11,
+      "en": "(1)\tThe possibility of assaults and attacks to public figures, either in an official capacity or in a non-official position, cannot be excluded.",
+      "mk1": "(1) \tМожноста за напади и атентати врз јавни личности, без разлика дали се работи за службено лице или не, не може да се исклучи.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 12,
+      "en": "(2)\tThe protection of public figures is the responsibility of the host Member State.",
+      "mk1": "(2) \tЗаштита на јавните личности е одговорност на земјата членка домаќин.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 13,
+      "en": "Protective measures of the host Member State are based solely on the legal provisions in force in that Member State and the relevant international agreements.",
+      "mk1": "Заштитните мерки на земјата членка домаќин се темелат исклучиво на законски одредби кои се во сила на таа земја членка и релевантни меѓународни договори.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 14,
+      "en": "(3)\tThe European Network for the Protection of Public Figures, which was set up in 2002, should contribute to providing protection as a formal channel for communication and consultation between national authorities.",
+      "mk1": "(3) \tЕвропската Мрежа за заштита на јавните личности, која се формираше во 2002 година, треба да придонесе во обезбедувањето на заштита како официјално средство за размена на информации и консултации помеѓу националните власти.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 15,
+      "en": "(4)\tIt is therefore considered appropriate to amend Council Decision 2002/956/JHA of 28 November 2002 setting up a European Network for the Protection of Public Figures () so that it would also apply to persons in a non-official position who are deemed to be under threat because of their contribution to or impact on the public debate,",
+      "mk1": "(4)\tЗатоа се смета дека е соодветно да се измени Одлуката 2002/956/ПВР на Советот од 28 ноември 2002 година за формирање на Европска мрежа за заштите на јавните личности () така што и да важи за лица кои не се на службени позиции меѓутоа се под напосредна закана заради нивниот придонес или влијание во јавната расправа,",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 16,
+      "en": "OJ L 333, 10.12.2002, p. 1.",
+      "mk1": "Сл. Весник бр. L 333, 10.12.2002 год., стр. 1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 17,
+      "en": "HAS DECIDED AS FOLLOWS:",
+      "mk1": "ОДЛУЧИ:",
+      "status": "UNMATCHED",
+      "target": "Одлука",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 18,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "status": "UNMATCHED",
+      "target": "та 20",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 19,
+      "en": "Decision 2002/956/JHA is hereby amended as follows:",
+      "mk1": "Одлука 2002/956/ПВР се изменува како што следува:",
+      "status": "REVIEW",
+      "target": "02/956/ПВР се изменува како што следува:",
+      "reason": "Candidate requires human review."
+    },
+    {
+      "index": 18,
+      "en": "Article 1",
+      "mk1": "Член 1",
+      "status": "MANUAL_BOUNDARY",
+      "target": "1.Чл",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 19,
+      "en": "Decision 2002/956/JHA is hereby amended as follows:",
+      "mk1": "Одлука 2002/956/ПВР се изменува како што следува:",
+      "status": "MANUAL_BOUNDARY",
+      "target": "ен 2 се заменува со следново:",
+      "reason": "Boundary fragment; adjacent units split a word."
+    },
+    {
+      "index": 19,
+      "en": "Decision 2002/956/JHA is hereby amended as follows:",
+      "mk1": "Одлука 2002/956/ПВР се изменува како што следува:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 20,
+      "en": "1.",
+      "mk1": "1.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 21,
+      "en": "Article 2 is replaced by the following:",
+      "mk1": "Член 2 се заменува со следново:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 22,
+      "en": "‘Article 2",
+      "mk1": "„Член 2",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 23,
+      "en": "For the purposes of this Decision, “public figure” shall mean any person, either in an official capacity or in a non-official position to whom a protection service is assigned in accordance with the national legislation of a Member State or pursuant to the regulations of an international or supranational organisation or institution.’;",
+      "mk1": "За целите на оваа одлука, „јавна личност“ се однесува на секоја личност, без разлика дали се работи за службено лице или не на кое му е доделено обезбедување во согласност со националното законодавство на земјата членка или во согласност со регулативите за меѓународни и наднационални организации или инстиуции.“ ;",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 24,
+      "en": "2.\tthe following point is added to Article 4:",
+      "mk1": "2. \tследната точка  се додава на член 4:",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 25,
+      "en": "‘(f)\tfavouring contacts concerning the application of protection in cases where the protection of public figures has to be assured in two or more Member States between the relevant authorities within the Member States responsible for rendering protection services, either through the contact points or by means of direct contacts between the responsible services, as communicated by the contact points.’.",
+      "mk1": "„(ѓ)\tза олеснување на контактите за примената на заштита во случаи кога заштитата на јавните лица мора да се обезбеди во две или повеќе земји членки, помеѓу релевантните власти во земјите членки одговорни за обезбедување заштита, преку контакт точки или директен контакт помеѓу надлежните служби, како што им ги соопштуваат контакт точките .“.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 26,
+      "en": "This Decision shall take effect on the 20th day following its publication in the Official Journal of the European Union.",
+      "mk1": "Оваа одлука стапува на сила на дваесттиот ден по нејзиното објавување во Службениот весник на Европската Унија.",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 27,
+      "en": "Done at Luxembourg, 4 June 2009.",
+      "mk1": "Луксембург, 4 јуни 2009 година.",
+      "status": "UNMATCHED",
+      "target": "За Советот Пре",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 28,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "status": "UNMATCHED",
+      "target": "тседа",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 29,
+      "en": "The President",
+      "mk1": "Претседателот",
+      "status": "UNMATCHED",
+      "target": "тел,от",
+      "reason": "Candidate below threshold."
+    },
+    {
+      "index": 28,
+      "en": "For the Council",
+      "mk1": "За Советот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 29,
+      "en": "The President",
+      "mk1": "Претседателот",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    },
+    {
+      "index": 30,
+      "en": "M. PECINA",
+      "mk1": "М. ПЕЦИНА",
+      "status": "UNMATCHED",
+      "target": "",
+      "reason": "No sufficiently local non-overlapping candidate."
+    }
+  ],
+  "accepted_indices": [
+    1,
+    2,
+    3
+  ]
+}
